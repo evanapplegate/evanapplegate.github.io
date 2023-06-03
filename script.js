@@ -9,7 +9,7 @@ var markerCluster = L.markerClusterGroup();
 var data; // Declare the data variable
 
 // Load the GeoJSON data and add it to the marker cluster group
-fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes3.geojson')
+fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes_small.geojson')
   .then(function (response) {
     return response.json();
   })
