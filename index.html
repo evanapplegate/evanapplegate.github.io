@@ -6,13 +6,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Leaflet Map with Time Slider</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+  .noUi-marker-horizontal.noUi-marker-large {
+    height: 5px !important;
+  }
+  </style>
+  <style>
+  .noUi-horizontal .noUi-connect {
+    background-color: #cec30b;
+  }
+  </style>
 </head>
 
 <body>
   <div id="title"><h1>Auto crashes with injuries in 2022</h1></div>
-  <div id="time-slider"></div>
+  <div id="slider"></div>
   <div id="legend"></div>
   <div id="map"></div>
+ <!-- Marker Toggle Buttons -->
+  <div id="marker-toggle-buttons">
+      <label>
+        <input type="checkbox" id="zero-kill-toggle" checked>
+        Injury wrecks
+      </label>
+      <label>
+        <input type="checkbox" id="non-zero-kill-toggle" checked>
+        Fatal wrecks
+      </label>
+    </div>
   <!--  -->
 
 

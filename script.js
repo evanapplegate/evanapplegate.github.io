@@ -1,125 +1,163 @@
-var map = L.map('map').setView([40.7128, -74.0060], 10);
+      // zoom map to NYC
+      var map = L.map('map').setView([40.7128, -74.0060], 10);
 
-// Add the tile layer
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png').addTo(map);
+      // Add the tile layer
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png').addTo(map);
 
-// Create a marker cluster group
-var markerCluster = L.markerClusterGroup();
+      // Create two panes for the map data
+      map.createPane('zero-kill-pane');
+      map.createPane('non-zero-kill-pane');
 
-var data; // Declare the data variable
+      // Set the z-index of the panes
+      map.getPane('zero-kill-pane').style.zIndex = 400;
+      map.getPane('non-zero-kill-pane').style.zIndex = 401;
 
-// Load the GeoJSON data and add it to the marker cluster group
-fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes_small.geojson')
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (jsonData) {
-    // Store the GeoJSON data in the data variable
-    data = jsonData;
-
-    // Create a custom icon for the blue markers
-    var blueIcon = L.divIcon({
-      className: 'blue-icon',
-      iconSize: [6, 6],
-    });
-
-    // Create a custom icon for the red markers
-    var redIcon = L.divIcon({
-      className: 'red-icon',
-      iconSize: [8, 8],
-    });
-
-    // Create a custom style function for the GeoJSON layer
-    function style(feature) {
-      var numberOfPersonsKilled = feature.properties['NUMBER OF PERSONS KILLED'];
-      var fillColor = numberOfPersonsKilled > 0 ? 'red' : 'orange';
-      var fillOpacity = numberOfPersonsKilled > 0 ? 1 : 0.2;
-      var radius = numberOfPersonsKilled > 0 ? 4 : 3;
-      return {
-        radius: radius,
-        fillColor: fillColor,
-        fillOpacity: fillOpacity,
-        color: fillColor,
-        weight: 1,
-        riseOnHover: true, // Ensure points appear on top on hover
-      };
-    }
-
-    // Create a GeoJSON layer with custom styling and tooltip
-    var geojsonLayer = L.geoJSON(data, {
-      pointToLayer: function (feature, latlng) {
-        var numberOfPersonsKilled = feature.properties['NUMBER OF PERSONS KILLED'];
-        var icon = numberOfPersonsKilled > 0 ? redIcon : blueIcon;
-        return L.marker(latlng, { icon: icon });
-      },
-      onEachFeature: function (feature, layer) {
-        var tooltipContent =
-          'Injured: ' + feature.properties['NUMBER OF PERSONS INJURED'] +
-          '<br>Deaths: ' + feature.properties['NUMBER OF PERSONS KILLED'];
-        layer.bindTooltip(tooltipContent);
-      },
-    });
-
-    // Add the GeoJSON layer to the marker cluster group
-    markerCluster.addLayer(geojsonLayer);
-
-    // Add the marker cluster group to the map
-    map.addLayer(markerCluster);
-
-    // Add a time slider
-    var slider = document.getElementById('time-slider');
-
-    noUiSlider.create(slider, {
-      start: [0, 24], // Initial time range
-      connect: true,
-      step: 1,
-      range: {
-        min: 0,
-        max: 24,
-      },
-      tooltips: true,
-    });
-
-    slider.noUiSlider.on('update', function (values, handle) {
-      // Filter the GeoJSON layer based on the time range
-      var timeRange = values.map(function (value) {
-        return parseInt(value);
+      // Create a marker cluster group for each pane
+      var zeroKillCluster = L.markerClusterGroup({
+        pane: 'zero-kill-pane',
       });
 
-      // Remove the GeoJSON layer from the map
-      map.removeLayer(markerCluster);
+      var nonZeroKillCluster = L.markerClusterGroup({
+        pane: 'non-zero-kill-pane',
+      });
 
-      // Clear the marker cluster group
-      markerCluster.clearLayers();
+      var zeroKillData = []; // Array for storing zero-kill data
+      var nonZeroKillData = []; // Array for storing non-zero-kill data
 
-      // Create a new filtered GeoJSON layer
-      var filteredGeojsonLayer = L.geoJSON(data, {
-        filter: function (feature) {
-          var crashTime = feature.properties['CRASH TIME'];
-          var hours = parseInt(crashTime.split(':')[0]);
-          return hours >= timeRange[0] && hours <= timeRange[1];
-        },
-        style: style,
-        pointToLayer: function (feature, latlng) {
+      // Load the GeoJSON and process it
+      fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes3.geojson')
+        .then(function (response) {
+          return response.json();
+        })
+        .then(function (jsonData) {
+        // Process the GeoJSON data
+        jsonData.features.forEach(function (feature) {
           var numberOfPersonsKilled = feature.properties['NUMBER OF PERSONS KILLED'];
-          var icon = numberOfPersonsKilled > 0 ? redIcon : blueIcon;
-          return L.marker(latlng, { icon: icon });
-        },
-        onEachFeature: function (feature, layer) {
-          var tooltipContent =
+
+          // Create a marker based on the number of persons killed
+          var marker;
+
+          if (numberOfPersonsKilled === 0) {
+            // Create a circle marker for zero-kill
+            marker = L.circleMarker(feature.geometry.coordinates.reverse(), {
+              radius: 4,
+              color: 'orange',
+              fillColor: 'orange',
+              fillOpacity: 1,
+            });
+            marker.addTo(zeroKillCluster);
+            zeroKillData.push(marker);
+          } else {
+            // Create a circle marker for non-zero-kill
+            marker = L.circleMarker(feature.geometry.coordinates.reverse(), {
+              radius: 4,
+              color: 'red',
+              fillColor: 'red',
+              fillOpacity: 1,
+            });
+            marker.addTo(nonZeroKillCluster);
+            nonZeroKillData.push(marker);
+          }
+
+          marker.feature = feature; // Store the feature object within the marker
+
+          // Create a tooltip for the marker
+          marker.bindTooltip(
             'Injured: ' + feature.properties['NUMBER OF PERSONS INJURED'] +
-            '<br>Deaths: ' + feature.properties['NUMBER OF PERSONS KILLED'];
-          layer.bindTooltip(tooltipContent);
-        },
+            '<br>Deaths: ' + numberOfPersonsKilled
+          );
+        });
+
+          // Add the zero-kill cluster group to the map
+          map.addLayer(zeroKillCluster);
+
+          // Add the non-zero-kill cluster group to the map
+          map.addLayer(nonZeroKillCluster);
+
+          // Configure the time slider
+          var slider = document.getElementById('slider');
+
+          var labels = [
+            '12a', '1a', '2a', '3a', '4a', '5a', '6a', '7a', '8a', '9a', '10a', '11a', '12p',
+            '1p', '2p', '3p', '4p', '5p', '6p', '7p', '8p', '9p', '10p', '11p', '11:59p'
+          ];
+
+          noUiSlider.create(slider, {
+            start: [0, 24], // Initial time range
+            connect: true,
+            step: 1,
+            range: {
+              min: 0,
+              max: 24,
+            },
+            pips: {
+              mode: 'values',
+              values: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+              density: 4,
+              format: {
+                to: function (value) {
+                  return labels[value];
+                },
+                from: function (value) {
+                  return labels.indexOf(value);
+                },
+              },
+            },
+          });
+
+
+          // Slider event handling
+          slider.noUiSlider.on('change', function (values) {
+            var minTime = parseInt(values[0]);
+            var maxTime = parseInt(values[1]);
+
+            // Filter the markers based on the time range
+            var filteredZeroKillData = zeroKillData.filter(function (marker) {
+              var feature = marker.feature; // Get the feature object from the marker
+              var crashTime = feature.properties['CRASH TIME'];
+              var hours = parseInt(crashTime.split(':')[0]);
+              return hours >= minTime && hours <= maxTime;
+            });
+
+            var filteredNonZeroKillData = nonZeroKillData.filter(function (marker) {
+              var feature = marker.feature; // Get the feature object from the marker
+              var crashTime = feature.properties['CRASH TIME'];
+              var hours = parseInt(crashTime.split(':')[0]);
+              return hours >= minTime && hours <= maxTime;
+            });
+
+            // Update the marker cluster groups
+            zeroKillCluster.clearLayers();
+            zeroKillCluster.addLayers(filteredZeroKillData);
+
+            nonZeroKillCluster.clearLayers();
+            nonZeroKillCluster.addLayers(filteredNonZeroKillData);
+          });
+        })
+        .catch(function (error) {
+          console.log('Error:', error);
+        });
+
+      // Checkbox event listeners
+      var zeroKillToggle = document.getElementById('zero-kill-toggle');
+      var nonZeroKillToggle = document.getElementById('non-zero-kill-toggle');
+
+      zeroKillToggle.addEventListener('change', function () {
+        if (this.checked) {
+          // Add the zero-kill cluster group to the map
+          map.addLayer(zeroKillCluster);
+        } else {
+          // Remove the zero-kill cluster group from the map
+          map.removeLayer(zeroKillCluster);
+        }
       });
 
-      // Add the filtered GeoJSON layer to the marker cluster group
-      markerCluster.addLayer(filteredGeojsonLayer);
-
-      // Add the marker cluster group back to the map
-      map.addLayer(markerCluster);
-    });
-  })
-  .catch(function (error) {
-    console.log('Error:', error);
-  });
+      nonZeroKillToggle.addEventListener('change', function () {
+        if (this.checked) {
+          // Add the non-zero-kill cluster group to the map
+          map.addLayer(nonZeroKillCluster);
+        } else {
+          // Remove the non-zero-kill cluster group from the map
+          map.removeLayer(nonZeroKillCluster);
+        }
+      });

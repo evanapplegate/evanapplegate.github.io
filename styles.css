@@ -7,7 +7,7 @@
   position: relative;
 }
 
-#time-slider {
+#slider {
   position: relative;
   margin: auto;
   width: 80%;
@@ -16,9 +16,17 @@
   height: 20px;
   background-color: rgba(128, 128, 128, 0.5); /* Gray background with 50% opacity */
   color: white;
-  font-family: Verdana, sans-serif;
+  font-family: Arial, sans-serif;
   z-index: 1000;
 }
+
+.slider-labels {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
+        font-family: Arial, sans-serif;
+        color: #ffffff;
+      }
 
 .noUi-horizontal .noUi-connect {
   background-color: orange; /* Change the slider bar color to orange */
@@ -53,4 +61,39 @@
   border-radius: 50%;
   width: 8px;
   height: 8px;
+}
+
+.zero-kill-cluster-icon,
+.non-zero-kill-cluster-icon {
+  background-color: orange;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  line-height: 25px;
+  width: 25px;
+  height: 25px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.zero-kill-cluster-icon {
+  background-color: blue;
+}
+
+.zero-kill-icon,
+.non-zero-kill-icon {
+  background-color: orange;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  line-height: 18px;
+  width: 18px;
+  height: 18px;
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.zero-kill-icon {
+  background-color: blue;
 }
