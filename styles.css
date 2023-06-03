@@ -1,13 +1,18 @@
+#title {
+  margin: auto;
+}
+
 #map {
   height: 500px;
   position: relative;
 }
 
 #time-slider {
-  position: absolute;
-  top: 140px;
-  right: 50px;
-  width: 200px;
+  position: relative;
+  margin: auto;
+  width: 80%;
+  margin-top: 40px;
+  margin-bottom: 40px;
   height: 20px;
   background-color: rgba(128, 128, 128, 0.5); /* Gray background with 50% opacity */
   color: white;
@@ -20,8 +25,7 @@
 }
 
 .legend {
-  position: absolute;
-  top: 130px;
+  position: relative;
   right: 30px;
   background-color: white;
   padding: 10px;
