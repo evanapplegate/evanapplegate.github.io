@@ -1,11 +1,38 @@
-#time-slider {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  width: 400px;
-  height: 200px;
+#map {
+  height: 500px;
+  position: relative;
 }
 
-#map {
-  height: 800px;
+#time-slider {
+  position: absolute;
+  top: 140px;
+  right: 50px;
+  width: 200px;
+  height: 20px;
+  background-color: rgba(128, 128, 128, 0.5); /* Gray background with 50% opacity */
+  color: white;
+  font-family: Verdana, sans-serif;
+  z-index: 1000;
+}
+
+.noUi-horizontal .noUi-connect {
+  background-color: orange; /* Change the slider bar color to orange */
+}
+
+.legend {
+  position: absolute;
+  top: 130px;
+  right: 30px;
+  background-color: white;
+  padding: 10px;
+  font-family: Verdana, sans-serif;
+  z-index: 1000;
+}
+
+.legend-circle {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
 }
