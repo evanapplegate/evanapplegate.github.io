@@ -14,13 +14,43 @@
 
       // Create a marker cluster group for each pane
       var zeroKillCluster = L.markerClusterGroup({
-        chunkedLoading: true,
         pane: 'zero-kill-pane',
+        iconCreateFunction: function (cluster) {
+          var childCount = cluster.getChildCount();
+          var clusterClass = 'cluster-zero';
+
+          if (childCount >= 100 && childCount < 500) {
+            clusterClass = 'cluster-medium';
+          } else if (childCount >= 500) {
+            clusterClass = 'cluster-high';
+          }
+
+          return L.divIcon({
+            html: '<div><span>' + childCount + '</span></div>',
+            className: 'marker-cluster ' + clusterClass,
+            iconSize: L.point(40, 40),
+          });
+        },
       });
 
       var nonZeroKillCluster = L.markerClusterGroup({
-        chunkedLoading: true,
         pane: 'non-zero-kill-pane',
+        iconCreateFunction: function (cluster) {
+          var childCount = cluster.getChildCount();
+          var clusterClass = 'cluster-zero';
+
+          if (childCount >= 100 && childCount < 500) {
+            clusterClass = 'cluster-medium';
+          } else if (childCount >= 500) {
+            clusterClass = 'cluster-high';
+          }
+
+          return L.divIcon({
+            html: '<div><span>' + childCount + '</span></div>',
+            className: 'marker-cluster ' + clusterClass,
+            iconSize: L.point(40, 40),
+          });
+        },
       });
 
       var zeroKillData = []; // Array for storing zero-kill data
@@ -66,7 +96,7 @@
           // Create a tooltip for the marker
           marker.bindTooltip(
             'Injured: ' + feature.properties['NUMBER OF PERSONS INJURED'] +
-            '<br>Deaths: ' + numberOfPersonsKilled
+            '<br>Dead: ' + numberOfPersonsKilled
           );
         });
 

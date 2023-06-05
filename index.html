@@ -9,22 +9,24 @@
 </head>
 
 <body>
-  <div id="title"><h1>Auto crashes with injuries in 2022</h1></div>
-  <div id="slider"></div>
-  <div id="legend"></div>
-  <div id="map"></div>
- <!-- Marker Toggle Buttons -->
+  <div id="title"><h1>2022 NYC auto wrecks that resulted in injuries</h1></div>
+  <div id="subhed"><p>Move the slider to filter wrecks by time of day</p></div>
+   <!-- Marker Toggle Buttons -->
   <div id="marker-toggle-buttons">
       <label>
         <input type="checkbox" id="zero-kill-toggle" checked>
-        Injury wrecks
+        Show <text style="color:orange;">● injury wrecks</text>
       </label>
       <label>
         <input type="checkbox" id="non-zero-kill-toggle" checked>
-        Fatal wrecks
+        Show <text style="color:red;">● fatal wrecks</text>
       </label>
     </div>
   <!--  -->
+  <div id="slider"></div>
+  <div id="legend"></div>
+  <div id="map"></div>
+  <div id="sources"><p>Source: <a href="https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95">NYC Open Data – Motor Vehicle Collisions</a></p></div>
 
 
   <!-- Load Leaflet CSS -->

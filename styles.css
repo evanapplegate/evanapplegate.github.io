@@ -1,11 +1,46 @@
 #title {
-  margin: auto;
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
+
+#subhed {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#sources {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
 
 #map {
   height: 400px;
   position: relative;
 }
+
+#marker-toggle-buttons {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.cluster-zero {
+        font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+        background-color: #b8c2e3;
+        color: black;
+      }
+
+      .cluster-medium {
+        font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+        background-color: #788098;
+        color: white;
+      }
+
+      .cluster-high {
+        font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+        background-color: #353e5c;
+        color: white;
+      }
 
 .noUi-marker-horizontal.noUi-marker-large {
   height: 2px !important;
@@ -19,12 +54,12 @@
   position: relative;
   margin: auto;
   width: 80%;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 20px;
+  margin-bottom: 50px;
   height: 20px;
-  background-color: white; /* Gray background with 50% opacity */
+  background-color: white;
   color: white;
-  font-family: Arial, sans-serif;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   z-index: 1000;
 }
 
@@ -45,7 +80,7 @@
   right: 30px;
   background-color: white;
   padding: 10px;
-  font-family: Verdana, sans-serif;
+  font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   z-index: 1000;
 }
 
