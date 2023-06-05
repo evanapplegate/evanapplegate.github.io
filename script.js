@@ -83,8 +83,8 @@
             // Create a circle marker for non-zero-kill
             marker = L.circleMarker(feature.geometry.coordinates.reverse(), {
               radius: 4,
-              color: 'red',
-              fillColor: 'red',
+              color: '#c36',
+              fillColor: '#c36',
               fillOpacity: 1,
             });
             marker.addTo(nonZeroKillCluster);
