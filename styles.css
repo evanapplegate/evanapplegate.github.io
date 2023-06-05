@@ -7,6 +7,14 @@
   position: relative;
 }
 
+.noUi-marker-horizontal.noUi-marker-large {
+  height: 2px !important;
+}
+
+.noUi-horizontal .noUi-connect {
+  background-color: #373d59 !important;
+}
+
 #slider {
   position: relative;
   margin: auto;
@@ -14,7 +22,7 @@
   margin-top: 40px;
   margin-bottom: 40px;
   height: 20px;
-  background-color: rgba(128, 128, 128, 0.5); /* Gray background with 50% opacity */
+  background-color: white; /* Gray background with 50% opacity */
   color: white;
   font-family: Arial, sans-serif;
   z-index: 1000;
@@ -29,7 +37,7 @@
       }
 
 .noUi-horizontal .noUi-connect {
-  background-color: orange; /* Change the slider bar color to orange */
+  background-color: #6c6c6c; /* Change the slider bar color to orange */
 }
 
 .legend {
