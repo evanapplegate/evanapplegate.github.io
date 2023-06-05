@@ -13,16 +13,17 @@
       map.getPane('non-zero-kill-pane').style.zIndex = 501;
 
       // Create a marker cluster group for each pane
+      // non-fatal pane
       var zeroKillCluster = L.markerClusterGroup({
         pane: 'zero-kill-pane',
         iconCreateFunction: function (cluster) {
           var childCount = cluster.getChildCount();
-          var clusterClass = 'cluster-zero';
+          var clusterClass = 'cluster-nonfatal-zero';
 
           if (childCount >= 100 && childCount < 500) {
-            clusterClass = 'cluster-medium';
+            clusterClass = 'cluster-nonfatal-medium';
           } else if (childCount >= 500) {
-            clusterClass = 'cluster-high';
+            clusterClass = 'cluster-nonfatal-high';
           }
 
           return L.divIcon({
@@ -33,16 +34,17 @@
         },
       });
 
+      // fatal pane
       var nonZeroKillCluster = L.markerClusterGroup({
         pane: 'non-zero-kill-pane',
         iconCreateFunction: function (cluster) {
           var childCount = cluster.getChildCount();
-          var clusterClass = 'cluster-zero';
+          var clusterClass = 'cluster-fatal-zero';
 
           if (childCount >= 100 && childCount < 500) {
-            clusterClass = 'cluster-medium';
+            clusterClass = 'cluster-fatal-medium';
           } else if (childCount >= 500) {
-            clusterClass = 'cluster-high';
+            clusterClass = 'cluster-fatal-high';
           }
 
           return L.divIcon({
@@ -73,8 +75,8 @@
             // Create a circle marker for zero-kill
             marker = L.circleMarker(feature.geometry.coordinates.reverse(), {
               radius: 4,
-              color: 'orange',
-              fillColor: 'orange',
+              color: '#788098',
+              fillColor: '#788098',
               fillOpacity: 1,
             });
             marker.addTo(zeroKillCluster);
@@ -83,8 +85,8 @@
             // Create a circle marker for non-zero-kill
             marker = L.circleMarker(feature.geometry.coordinates.reverse(), {
               radius: 4,
-              color: '#c36',
-              fillColor: '#c36',
+              color: '#e77a89',
+              fillColor: '#e77a89',
               fillOpacity: 1,
             });
             marker.addTo(nonZeroKillCluster);
