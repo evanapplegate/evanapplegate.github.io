@@ -14,10 +14,12 @@
 
       // Create a marker cluster group for each pane
       var zeroKillCluster = L.markerClusterGroup({
+        chunkedLoading: true,
         pane: 'zero-kill-pane',
       });
 
       var nonZeroKillCluster = L.markerClusterGroup({
+        chunkedLoading: true,
         pane: 'non-zero-kill-pane',
       });
 
@@ -25,7 +27,7 @@
       var nonZeroKillData = []; // Array for storing non-zero-kill data
 
       // Load the GeoJSON and process it
-      fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes_less_precision.geojson')
+      fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/2022_crashes_less_precision.geojson')
         .then(function (response) {
           return response.json();
         })
