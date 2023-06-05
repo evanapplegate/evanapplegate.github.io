@@ -25,7 +25,7 @@
       var nonZeroKillData = []; // Array for storing non-zero-kill data
 
       // Load the GeoJSON and process it
-      fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes3.geojson')
+      fetch('https://raw.githubusercontent.com/evanapplegate/testpile/main/2022_crashes_less_precision.geojson')
         .then(function (response) {
           return response.json();
         })
