@@ -12,10 +12,10 @@
   <!--  US auto accident fatalities in major cities map -->
   <div id="title_accident_cities"><h1>2020 vehicle fatalities in major U.S. cities</h1></div>
   <div id="accident_cities"></div>
-      <div id="city-size-toggle">
-        <input type="checkbox" id="box1" checked> 150k to 500k
-        <input type="checkbox" id="box2" checked> 500k to 1m
-        <input type="checkbox" id="box3" checked> 1m+
+  <div id="city-size-toggle">
+        <label><input type="checkbox" id="box1" checked> 150k to 500k</label>
+        <label><input type="checkbox" id="box2" checked> 500k to 1m</label>
+        <label><input type="checkbox" id="box3" checked> 1m+</label>
     </div>
     <div id="accident_legend">
       <p>Change in accident death rate (vehicle + pedestrians) from 2010 to 2020</p>
@@ -33,7 +33,7 @@
 
   <!-- Load papa CSV parser -->
   <script src="https://unpkg.com/papaparse@5.4.1/papaparse.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script> -->
 
   <!-- Load noUiSlider CSS, works?
   <link rel="stylesheet" href="https://unpkg.com/nouislider@15.7.0/dist/nouislider.min.css" />  -->

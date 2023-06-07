@@ -1,6 +1,5 @@
-body {
-  margin: 0;
-  padding: 0;
+body, html, #accident_cities {
+    font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 #accident_cities {
