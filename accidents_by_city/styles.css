@@ -1,0 +1,47 @@
+body {
+  font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#accident_cities {
+    height: 100vh;
+    width: 100%;
+}
+
+#city-size-toggle {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#city-size-toggle label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    pointer-events: none;
+    font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+.tooltip h3 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.tooltip p {
+    margin: 5px 0 0;
+    font-size: 12px;
+}
