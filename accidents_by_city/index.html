@@ -10,20 +10,33 @@
 
 <body>
   <!--  US auto accident fatalities in major cities map -->
-  <div id="title_accident_cities"><h1>2020 vehicle fatalities in major U.S. cities</h1></div>
-  <div id="accident_cities"></div>
+  <div id="title_accident_cities"><h1>2020 vehicle fatality rates for U.S. cities</h1></div>
   <div id="city-size-toggle">
-        <label><input type="checkbox" id="box1" checked> 150k to 500k</label>
-        <label><input type="checkbox" id="box2" checked> 500k to 1m</label>
-        <label><input type="checkbox" id="box3" checked> 1m+</label>
+        <span>City population: </span><label><input type="checkbox" id="box1" checked> 150k to 500k </label>
+        &nbsp;
+        <label><input type="checkbox" id="box2" checked> 500k to 1m </label>
+        &nbsp;
+        <label><input type="checkbox" id="box3" checked> 1m+ </label>
     </div>
     <div id="accident_legend">
-      <p>Change in accident death rate (vehicle + pedestrians) from 2010 to 2020</p>
-    <span style="color: #b1bddb;">&#x25A0;</span> <span>-25% to 0%</span>
+    <br>
+    <span>Change in vehicle accident death rate per 100k residents from 2010 to 2020: </span> 
+    <br>
+    <span style="color: #6c88ce;">&#x25A0;</span> <span>-25% to 0%</span>
+    &nbsp;
     <span style="color: #f5d0bf;">&#x25A0;</span> <span>0% to +25%</span>
-    <span style="color: #e9865b;">&#x25A0;</span> <span>+25% to +50%</span>
-    <span style="color: #ce572b;">&#x25A0;</span> <span>+50% and above</span>
+    &nbsp;
+    <span style="color: #e9865b;">&#x25A0;</span> <span>+25% and above</span>
   </div>
+    <div id="accident_cities"></div>
+    <div id="source_NHTSA"><p>Source: <a href="https://cdan.dot.gov/tsftables/tsfar.htm#">NHTSA Traffic Safety Facts Annual Report Tables – People Killed, Population, and Fatality Rates in Cities With Populations of 150,000 or Greater, 2020</a></p></div>
+  <!-- 
+    <div id="city_accident_chart">
+    <h1>2020 vehicle deaths by city</h1>
+    </div> 
+
+
+  -->
 
   <!-- Load Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -44,11 +57,11 @@
   <!-- Load clusterer JS 
   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script> -->
 
-  <!-- Load D3 stuff
+  <!-- Load D3 stuff -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script src="https://unpkg.com/topojson@3"></script>
+  <!--  <script src="https://unpkg.com/topojson@3"></script>
   <script src="https://unpkg.com/d3-legend"></script>
-  <script src="https://unpkg.com/d3-tip"></script>    -->
+  <script src="https://unpkg.com/d3-tip"></script>   -->  
 
 
   <!-- Load clusterer CSS, works? 
@@ -56,6 +69,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" /> -->
 
   <script src="script.js"></script>
+  <script src="script_chart.js"></script>
 </body>
 
 </html>

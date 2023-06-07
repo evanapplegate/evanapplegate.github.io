@@ -56,13 +56,14 @@ Papa.parse("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github
                 } else if (row.change_total_dead_per_100k >= 0.01) {
                     fillColor = '#f5d0bf';
                 } else {
-                    fillColor = '#b1bddb';
+                    fillColor = '#6c88ce';
                 }
 
                 let radius = Math.sqrt(Math.abs(row.change_total_dead_per_100k) * 10000000000);
 
                 let changePercent = (row.change_total_dead_per_100k >= 0) ? '+' : '';
-                changePercent += (row.change_total_dead_per_100k * 100).toFixed(2) + '%';
+                changePercent += Math.round(row.change_total_dead_per_100k * 100) + '%';
+
 
                 L.circle([row.latitude, row.longitude], {
                     color: fillColor,
@@ -74,9 +75,9 @@ Papa.parse("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github
                     pane: panes[i]
                 }).addTo(map)
                 .bindTooltip(
-                    `<strong>City:</strong> ${row.city}<br>` +
-                    `<strong>2020 vehicle accident deaths:</strong> ${row.total_deaths_2020}<br>` +
-                    `<strong>Change in vehicle accident death rate per 100k people, 2010-2020:</strong> ${changePercent}`
+                    `City:<strong>${row.city}</strong> <br>` +
+                    `2020 vehicle accident deaths:<strong> ${row.total_deaths_2020}</strong> <br>` +
+                    `Change in accident death rate, 2010-2020: <strong>${changePercent}</strong>`
                 );
             });
         });

@@ -12,8 +12,8 @@ const tooltip = d3.select("body")
 
 // Load the data
 Promise.all([
-  d3.json("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/states-10m.json"),
-  d3.csv("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/vehicle_deaths_per_miles.csv")
+  d3.json("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/state_vehicle_deaths_per_miles_traveled/states-10m.json"),
+  d3.csv("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/state_vehicle_deaths_per_miles_traveled/vehicle_deaths_per_miles.csv")
 ]).then(function ([topology, data]) {
   // Prepare the data
   const stateData = {};
