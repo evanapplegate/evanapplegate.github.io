@@ -8,7 +8,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png', {
 }).addTo(map);
 
 // Load data from CSV
-var csvUrl = 'https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/table_124_NHTSA.csv';
+var csvUrl = 'https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/accidents_by_city/table_124_NHTSA.csv';
 
 fetch(csvUrl)
     .then(function (response) {
@@ -21,27 +21,46 @@ fetch(csvUrl)
 
 // Plot circles on the map
 function plotCircles(data) {
-    var circles = L.layerGroup().addTo(map);
+  var circles = L.layerGroup().addTo(map);
 
-    data.forEach(function (row) {
-        var radius = Math.abs(row.change_total_dead_per_100k) * 10;
-        var fillColor = getFillColor(row.change_total_dead_per_100k);
+  data.forEach(function (row) {
+    var radius = Math.abs(row.change_total_dead_per_100k) * 10;
+    var fillColor = getFillColor(row.change_total_dead_per_100k);
 
-        var circle = L.circleMarker([row.lat, row.lng], {
-            radius: radius,
-            fillColor: fillColor,
-            fillOpacity: 0.25,
-            stroke: false,
-        });
-
-        circle.bindTooltip(getTooltipContent(row), {
-            direction: 'top',
-            offset: [0, -10],
-        });
-
-        circles.addLayer(circle);
+    var circle = L.circleMarker([row.latitude, row.longitude], {
+      radius: radius,
+      fillColor: fillColor,
+      fillOpacity: 0.25,
+      stroke: false,
     });
+
+    circle.bindTooltip(getTooltipContent(row), {
+      permanent: false,
+      sticky: true,
+    });
+
+    circles.addLayer(circle);
+  });
 }
+
+
+    // Event handler for checkboxes
+    function handleCheckboxChange(event) {
+        var boxId = event.target.id;
+        var layer = circleLayers[boxId];
+
+        if (event.target.checked) {
+            map.addLayer(layer);
+        } else {
+            map.removeLayer(layer);
+        }
+    }
+
+    // Attach event listeners to checkboxes
+    var checkboxes = document.querySelectorAll('#city-size-toggle input[type="checkbox"]');
+    checkboxes.forEach(function (checkbox) {
+        checkbox.addEventListener('change', handleCheckboxChange);
+    });
 
 // Get fill color based on change_total_dead_per_100k value
 function getFillColor(value) {
@@ -60,7 +79,10 @@ function getFillColor(value) {
 function getTooltipContent(row) {
     var tooltipContent = '<h3>City: ' + row.city + '</h3>';
     tooltipContent += '<p>2020 vehicle accident deaths: ' + row['2020_total_deaths'] + '</p>';
-    tooltipContent += '<p>Change in vehicle accident death rate per 100k people, 2010-2020: ' + formatPercentage(row.change_total_dead_per_100k) + '</p>';
+    tooltipContent +=
+        '<p>Change in vehicle accident death rate per 100k people, 2010-2020: ' +
+        formatPercentage(row.change_total_dead_per_100k) +
+        '</p>';
 
     return tooltipContent;
 }
@@ -76,29 +98,3 @@ function formatPercentage(value) {
 
     return formattedPercentage;
 }
-
-// Event handler for checkboxes
-function handleCheckboxChange(event) {
-    var boxId = event.target.id;
-    var layer = null;
-
-    if (boxId === 'box1') {
-        layer = L.GeoJSON;
-    } else if (boxId === 'box2') {
-        layer = L.GeoJSON;
-    } else if (boxId === 'box3') {
-        layer = L.GeoJSON;
-    }
-
-    if (event.target.checked) {
-        map.addLayer(layer);
-    } else {
-        map.removeLayer(layer);
-    }
-}
-
-// Attach event listeners to checkboxes
-var checkboxes = document.querySelectorAll('#city-size-toggle input[type="checkbox"]');
-checkboxes.forEach(function (checkbox) {
-    checkbox.addEventListener('change', handleCheckboxChange);
-});

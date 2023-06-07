@@ -3,19 +3,15 @@ body {
 }
 
 #accident_cities {
-    height: 100vh;
+    height: 500px;
     width: 100%;
 }
 
 #city-size-toggle {
-    position: absolute;
-    top: 10px;
-    left: 10px;
     background-color: white;
     padding: 5px;
     border-radius: 5px;
     font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 #city-size-toggle label {
