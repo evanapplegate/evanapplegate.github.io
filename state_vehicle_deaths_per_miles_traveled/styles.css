@@ -1,0 +1,71 @@
+body {
+  font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#map {
+  height: 400px;
+  position: relative;
+}
+
+#choro_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#accident_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#state-map {
+  height: 400px;
+  position: relative;
+  margin: 20px auto;
+}
+
+#title {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#title_choropleth {
+  padding-top: 20px;
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#subhed {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#source_NHTSA {
+  margin: auto;
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#marker-toggle-buttons {
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.legend-circle {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  pointer-events: none;
+  font-size: 12px;
+}

@@ -27,42 +27,58 @@ Papa.parse("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github
     header: true,
     dynamicTyping: true,
     complete: function(results) {
+        let paneData = [[], [], []];
+
+        // Separate the data into their respective pane groups
         results.data.forEach(function(row) {
-            let pane;
+            let index;
             if (row.city_pop_2020 < 500000) {
-                pane = 'pane1';
-            } else if (row.city_pop_2020 > 1000000) {
-                pane = 'pane2';
+                index = 0;
+            } else if (row.city_pop_2020 <= 1000000) {
+                index = 1;
             } else {
-                pane = 'pane3';
+                index = 2;
             }
+            paneData[index].push(row);
+        });
 
-            let fillColor;
-            if (row.change_total_dead_per_100k >= 0.51) {
-                fillColor = '#ce572b';
-            } else if (row.change_total_dead_per_100k >= 0.26) {
-                fillColor = '#e9865b';
-            } else if (row.change_total_dead_per_100k >= 0.01) {
-                fillColor = '#f5d0bf';
-            } else {
-                fillColor = '#b1bddb';
-            }
+        // Sort the data in each pane group in descending order
+        paneData.forEach(function(data, i) {
+            data.sort((a, b) => Math.abs(b.change_total_dead_per_100k) - Math.abs(a.change_total_dead_per_100k));
 
-            let changePercent = (row.change_total_dead_per_100k >= 0) ? '+' : '';
-            changePercent += (row.change_total_dead_per_100k * 100).toFixed(2) + '%';
+            // Add circles to the map
+            data.forEach(function(row) {
+                let fillColor;
+                if (row.change_total_dead_per_100k >= 0.51) {
+                    fillColor = '#ce572b';
+                } else if (row.change_total_dead_per_100k >= 0.26) {
+                    fillColor = '#e9865b';
+                } else if (row.change_total_dead_per_100k >= 0.01) {
+                    fillColor = '#f5d0bf';
+                } else {
+                    fillColor = '#b1bddb';
+                }
 
-            L.circle([row.latitude, row.longitude], {
-                color: 'none',
-                fillColor: fillColor,
-                fillOpacity: 0.25,
-                radius: Math.abs(row.change_total_dead_per_100k) * 50000,
-                pane: pane
-            }).addTo(map)
-            .bindTooltip(
-                `<strong>City:</strong> ${row.city}<br>` +
-                `<strong>2020 vehicle accident deaths:</strong> ${row.total_deaths_2020}<br>` +
-                `<strong>Change in vehicle accident death rate per 100k people, 2010-2020:</strong> ${changePercent}`
-            );
+                let radius = Math.sqrt(Math.abs(row.change_total_dead_per_100k) * 10000000000);
+
+                let changePercent = (row.change_total_dead_per_100k >= 0) ? '+' : '';
+                changePercent += (row.change_total_dead_per_100k * 100).toFixed(2) + '%';
+
+                L.circle([row.latitude, row.longitude], {
+                    color: fillColor,
+                    fillColor: fillColor,
+                    fillOpacity: 0.25,
+                    weight: 0.5,
+                    opacity: 0.5,
+                    radius: radius,
+                    pane: panes[i]
+                }).addTo(map)
+                .bindTooltip(
+                    `<strong>City:</strong> ${row.city}<br>` +
+                    `<strong>2020 vehicle accident deaths:</strong> ${row.total_deaths_2020}<br>` +
+                    `<strong>Change in vehicle accident death rate per 100k people, 2010-2020:</strong> ${changePercent}`
+                );
+            });
         });
     }
 });

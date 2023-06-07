@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Map Examples</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!--  US auto accident fatality rate per miles traveled map -->
+  <div id="title_choropleth"><h1>Change in fatalities per 100m vehicle miles traveled, 2010 to 2020</h1></div>
+  <div id="choro_legend">
+    <span style="color: #b1bddb;">&#x25A0;</span> <span>-25% to 0%</span>
+    <span style="color: #f5d0bf;">&#x25A0;</span> <span>0% to +25%</span>
+    <span style="color: #e9865b;">&#x25A0;</span> <span>+25% to +50%</span>
+    <span style="color: #ce572b;">&#x25A0;</span> <span>+50% and above</span>
+  </div>
+  <div id="source_NHTSA"><p>Source: <a href="https://cdan.dot.gov/tsftables/tsfar.htm#">NHTSA Traffic Safety Facts Annual Report Tables – Table 125: Fatalities and Fatality Rates, by State, 1975-2020</a></p></div>
+  <div id="state-map"></div>
+
+  <!-- Load Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <!-- Load Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- Load noUiSlider CSS, works? -->
+  <link rel="stylesheet" href="https://unpkg.com/nouislider@15.7.0/dist/nouislider.min.css" />
+
+  <!-- Load noUiSlider JS -->
+  <script src="https://unpkg.com/nouislider@15.7.0/dist/nouislider.js"></script>
+
+  <!-- Load clusterer JS -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+  <!-- Load D3 stuff -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://unpkg.com/d3-legend"></script>
+  <script src="https://unpkg.com/d3-tip"></script>
+
+
+  <!-- Load clusterer CSS, works? -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+  <script src="script.js"></script>
+  <script src="script2.js"></script>
+</body>
+
+</html>
