@@ -13,6 +13,33 @@ body {
   margin: 20px auto;
 }
 
+#accident_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#title_accident_cities {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#accident_cities {
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#city-size-toggle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 #state-map {
   height: 400px;
   position: relative;

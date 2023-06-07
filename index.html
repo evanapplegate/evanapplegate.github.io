@@ -39,6 +39,31 @@
   <div id="source_NHTSA"><p>Source: <a href="https://cdan.dot.gov/tsftables/tsfar.htm#">NHTSA Traffic Safety Facts Annual Report Tables – Table 125: Fatalities and Fatality Rates, by State, 1975-2020</a></p></div>
   <div id="state-map"></div>
 
+  <!--  US auto accident fatalities in major cities map -->
+  <div id="title_accident_cities"><h1>2020 vehicle fatalities in major U.S. cities</h1></div>
+  <div id="accident_cities"></div>
+ <div id="city-size-toggle">
+        <label>
+            <input type="checkbox" id="box1" checked>
+            City size: 150k to 500k
+        </label>
+        <label>
+            <input type="checkbox" id="box2" checked>
+            500k to 1m
+        </label>
+        <label>
+            <input type="checkbox" id="box3" checked>
+            1m+
+        </label>
+  </div>
+    <div id="accident_legend">
+      <p>Change in accident death rate (vehicle + pedestrians) from 2010 to 2020</p>
+    <span style="color: #b1bddb;">&#x25A0;</span> <span>-25% to 0%</span>
+    <span style="color: #f5d0bf;">&#x25A0;</span> <span>0% to +25%</span>
+    <span style="color: #e9865b;">&#x25A0;</span> <span>+25% to +50%</span>
+    <span style="color: #ce572b;">&#x25A0;</span> <span>+50% and above</span>
+  </div>
+
   <!-- Load Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
