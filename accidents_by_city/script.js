@@ -1,100 +1,74 @@
-// Initialize Leaflet map
-var map = L.map('accident_cities').setView([37.09, -95.71], 4);
-
-// Add tile layer
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-    maxZoom: 18,
+// Define map and tile layer
+let map = L.map('accident_cities').setView([39.833333, -98.583333], 4); // center to the United States
+let tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png', {
+    maxZoom: 18
 }).addTo(map);
 
-// Load data from CSV
-var csvUrl = 'https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/accidents_by_city/table_124_NHTSA.csv';
+// Define the layer groups
+let layerGroup1 = L.layerGroup().addTo(map);
+let layerGroup2 = L.layerGroup().addTo(map);
+let layerGroup3 = L.layerGroup().addTo(map);
 
-fetch(csvUrl)
-    .then(function (response) {
-        return response.text();
-    })
-    .then(function (text) {
-        var csvData = Papa.parse(text, { header: true, dynamicTyping: true }).data;
-        plotCircles(csvData);
-    });
+// Load CSV and add circles to the map
+Papa.parse('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/accidents_by_city/table_124_NHTSA.csv', {
+    download: true,
+    header: true,
+    dynamicTyping: true,
+    complete: function(results) {
+        for(let row of results.data) {
+            let circleOptions = {
+                radius: Math.abs(row.change_total_dead_per_100k) * 10,
+                color: getFillColor(row.change_total_dead_per_100k),
+                opacity: 0.25,
+                stroke: false,
+                fillOpacity: 0.25,
+            };
 
-// Plot circles on the map
-function plotCircles(data) {
-  var circles = L.layerGroup().addTo(map);
+            let circle = L.circle([row.latitude, row.longitude], circleOptions)
+                .bindTooltip(`City: ${row.city}<br>2020 vehicle accident deaths: ${row['2020_total_deaths']}<br>Change in vehicle accident death rate per 100k people, 2010-2020: ${(row.change_total_dead_per_100k > 0 ? '+' : '') + (row.change_total_dead_per_100k * 100).toFixed(0) + '%'}`);
 
-  data.forEach(function (row) {
-    var radius = Math.abs(row.change_total_dead_per_100k) * 10;
-    var fillColor = getFillColor(row.change_total_dead_per_100k);
-
-    var circle = L.circleMarker([row.latitude, row.longitude], {
-      radius: radius,
-      fillColor: fillColor,
-      fillOpacity: 0.25,
-      stroke: false,
-    });
-
-    circle.bindTooltip(getTooltipContent(row), {
-      permanent: false,
-      sticky: true,
-    });
-
-    circles.addLayer(circle);
-  });
-}
-
-
-    // Event handler for checkboxes
-    function handleCheckboxChange(event) {
-        var boxId = event.target.id;
-        var layer = circleLayers[boxId];
-
-        if (event.target.checked) {
-            map.addLayer(layer);
-        } else {
-            map.removeLayer(layer);
+            if (row['2020_city_pop'] < 500000) {
+                circle.addTo(layerGroup1);
+            } else if (row['2020_city_pop'] >= 500000 && row['2020_city_pop'] <= 1000000) {
+                circle.addTo(layerGroup2);
+            } else if (row['2020_city_pop'] > 1000000) {
+                circle.addTo(layerGroup3);
+            }
         }
     }
+});
 
-    // Attach event listeners to checkboxes
-    var checkboxes = document.querySelectorAll('#city-size-toggle input[type="checkbox"]');
-    checkboxes.forEach(function (checkbox) {
-        checkbox.addEventListener('change', handleCheckboxChange);
-    });
+// Event handlers for checkboxes
+document.getElementById('box1').addEventListener('change', function(e) {
+    if (e.target.checked) {
+        layerGroup1.addTo(map);
+    } else {
+        layerGroup1.remove();
+    }
+});
+document.getElementById('box2').addEventListener('change', function(e) {
+    if (e.target.checked) {
+        layerGroup2.addTo(map);
+    } else {
+        layerGroup2.remove();
+    }
+});
+document.getElementById('box3').addEventListener('change', function(e) {
+    if (e.target.checked) {
+        layerGroup3.addTo(map);
+    } else {
+        layerGroup3.remove();
+    }
+});
 
-// Get fill color based on change_total_dead_per_100k value
 function getFillColor(value) {
-    if (value >= 0.51) {
-        return '#ce572b';
-    } else if (value >= 0.26 && value <= 0.5) {
-        return '#e9865b';
-    } else if (value >= 0.01 && value <= 0.25) {
-        return '#f5d0bf';
-    } else if (value >= -0.25 && value < 0) {
+    if (value >= -0.25 && value <= 0) {
         return '#b1bddb';
+    } else if (value > 0.01 && value <= 0.25) {
+        return '#f5d0bf';
+    } else if (value > 0.26 && value <= 0.5) {
+        return '#e9865b';
+    } else {
+        return '#ce572b';
     }
-}
-
-// Get tooltip content
-function getTooltipContent(row) {
-    var tooltipContent = '<h3>City: ' + row.city + '</h3>';
-    tooltipContent += '<p>2020 vehicle accident deaths: ' + row['2020_total_deaths'] + '</p>';
-    tooltipContent +=
-        '<p>Change in vehicle accident death rate per 100k people, 2010-2020: ' +
-        formatPercentage(row.change_total_dead_per_100k) +
-        '</p>';
-
-    return tooltipContent;
-}
-
-// Format change_total_dead_per_100k as percentage
-function formatPercentage(value) {
-    var percentage = Math.abs(value) * 100;
-    var formattedPercentage = percentage.toFixed(0) + '%';
-
-    if (value >= 0) {
-        formattedPercentage = '+' + formattedPercentage;
-    }
-
-    return formattedPercentage;
 }
