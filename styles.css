@@ -25,6 +25,7 @@ body {
 }
 
 #title_choropleth {
+  padding-top: 20px;
   text-align: center;
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
