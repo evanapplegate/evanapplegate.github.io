@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Leaflet Map with Time Slider</title>
+  <title>Map Examples</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -28,6 +28,8 @@
   <div id="map"></div>
   <div id="sources"><p>Source: <a href="https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95">NYC Open Data – Motor Vehicle Collisions</a></p></div>
 
+  <div id="title_choropleth"><h1>Change in fatalities per 100m vehicle miles traveled, 2010 to 2020</h1></div>
+  <div id="state-map"></div>
 
   <!-- Load Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -44,11 +46,19 @@
   <!-- Load clusterer JS -->
   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
+  <!-- Load D3 stuff -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://unpkg.com/d3-legend"></script>
+  <script src="https://unpkg.com/d3-tip"></script>
+
+
   <!-- Load clusterer CSS, works? -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
   <script src="script.js"></script>
+  <script src="script2.js"></script>
 </body>
 
 </html>
