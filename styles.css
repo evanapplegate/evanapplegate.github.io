@@ -7,8 +7,14 @@ body {
   position: relative;
 }
 
+#choro_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
 #state-map {
-  width: 400px;
+  height: 400px;
   position: relative;
   margin: 20px auto;
 }
@@ -28,13 +34,17 @@ body {
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
-#sources {
+#source_nyc {
+  margin: auto;
   text-align: center;
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
-
-
+#source_NHTSA {
+  margin: auto;
+  text-align: center;
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
 
 #marker-toggle-buttons {
   text-align: center;
