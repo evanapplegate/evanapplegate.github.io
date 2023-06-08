@@ -75,7 +75,7 @@ Papa.parse("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github
                     pane: panes[i]
                 }).addTo(map)
                 .bindTooltip(
-                    `City:<strong>${row.city}</strong> <br>` +
+                    `<strong>${row.city}</strong> <br>` +
                     `2020 vehicle accident deaths:<strong> ${row.total_deaths_2020}</strong> <br>` +
                     `Change in accident death rate, 2010-2020: <strong>${changePercent}</strong>`
                 );

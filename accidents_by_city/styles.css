@@ -4,8 +4,14 @@ body, html, #accident_cities {
 }
 
 #city_accident_chart {
-  align-items: center;
-  justify-content: center;
+    width: 100%;
+    height: 4000px;
+
+}
+canvas {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
 }
 
 #title_accident_cities {
@@ -26,6 +32,7 @@ body, html, #accident_cities {
 }
 
 .tooltip {
+  text-align: left;
   position: absolute;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 5px;

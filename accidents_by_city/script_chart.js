@@ -1,85 +1,73 @@
-const margin = { top: 10, right: 50, bottom: 10, left: 0 };
-const width = 600 - margin.left - margin.right;
-const height = 4000 - margin.top - margin.bottom;
+$(document).ready(function() {
+    Papa.parse('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/accidents_by_city/table_124_NHTSA.csv', {
+        download: true,
+        header: true,
+        complete: function(results) {
+            var data = results.data;
 
-// Append an SVG element to the chart div
-const svg = d3.select("#city_accident_chart")
-  .append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom);
+            // Sort data in descending order based on auto_deaths_2020
+            data.sort(function(a, b) {
+                return b.auto_deaths_2020 - a.auto_deaths_2020;
+            });
 
-// Load the CSV data
-d3.csv("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/accidents_by_city/table_124_NHTSA.csv").then(data => {
-  // Parse numeric values
-  data.forEach(d => {
-    d.auto_deaths_2020 = +d.auto_deaths_2020;
-    d.ped_deaths_2020 = +d.ped_deaths_2020;
-  });
+            var cities = data.map(function(row) { return row.city; });
+            var auto_deaths_2020 = data.map(function(row) { return row.auto_deaths_2020; });
+            var ped_deaths_2020 = data.map(function(row) { return row.ped_deaths_2020; });
 
-  // Create a scale for the x-axis
-  const xScale = d3.scaleLinear()
-    .domain([0, 300])
-    .range([0, width]);
+            // Define the height of each bar and gaps in pixels
+            var barHeight = 10;
+            var barGap = 20;
+            var chartHeight = (barHeight + barGap) * cities.length;
+            
+            // Set the height of the canvas
+            var canvas = document.getElementById('chart');
+            canvas.style.height = chartHeight + 'px';
 
-  // Create a scale for the y-axis
-  const yScale = d3.scaleBand()
-    .domain(data.map(d => d.city))
-    .range([0, height])
-    .padding(0.2);
+            var ctx = canvas.getContext('2d');
 
-  // Create the blue bars for auto deaths
-  svg.selectAll(".auto-bar")
-    .data(data)
-    .enter()
-    .append("rect")
-    .attr("class", "auto-bar")
-    .attr("x", margin.left)
-    .attr("y", d => yScale(d.city))
-    .attr("width", d => xScale(d.auto_deaths_2020))
-    .attr("height", yScale.bandwidth() / 2)
-    .attr("fill", "blue");
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: cities,
+                    datasets: [{
+                        label: '2020 vehicle accident deaths',
+                        data: auto_deaths_2020,
+                        backgroundColor: '#e19073',
+                        borderWidth: 0,
+                        barThickness: barHeight
+                    }, {
+                        label: '2020 pedestrian deaths',
+                        data: ped_deaths_2020,
+                        backgroundColor: '#e1b673',
+                        borderWidth: 0,
+                        barThickness: barHeight
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: {
+                            beginAtZero: true
+                        },
+                        x1: {
+                            position: "top",
+                            beginAtZero: true,
+                            min: 0,
+                            max: 200
+                        },
+                        y: {
+                            ticks: {
+                                autoSkip: false,
+                                maxRotation: 0
+                            }
 
-  // Create the red bars for pedestrian deaths
-  svg.selectAll(".ped-bar")
-    .data(data)
-    .enter()
-    .append("rect")
-    .attr("class", "ped-bar")
-    .attr("x", margin.left)
-    .attr("y", d => yScale(d.city) + yScale.bandwidth() / 2)
-    .attr("width", d => xScale(d.ped_deaths_2020))
-    .attr("height", yScale.bandwidth() / 2)
-    .attr("fill", "red");
-
-  // Add labels for each pair of bars
-  svg.selectAll(".label")
-    .data(data)
-    .enter()
-    .append("text")
-    .attr("class", "label")
-    .attr("x", margin.left + 50)
-    .attr("y", d => yScale(d.city) + yScale.bandwidth() / 2 + 5)
-    .attr("text-anchor", "end")
-    .text(d => d.city)
-    .attr("font-size", 10);
-
-  // Add x-axis ticks at the bottom
-  const xAxisBottom = d3.axisBottom(xScale)
-    .tickValues([0, 50, 100, 150, 200, 250, 300])
-    .tickSize(2);
-
-  svg.append("g")
-    .attr("class", "x-axis")
-    .attr("transform", `translate(0, ${height})`)
-    .call(xAxisBottom);
-
-  // Add x-axis ticks at the top
-  const xAxisTop = d3.axisTop(xScale)
-    .tickValues([0, 50, 100, 150, 200, 250, 300])
-    .tickSize(2);
-
-  svg.append("g")
-    .attr("class", "x-axis")
-    .attr("transform", `translate(0, ${margin.top})`)
-    .call(xAxisTop);
+                        },
+                        
+                    }
+                }
+            });
+        }
+    });
 });
