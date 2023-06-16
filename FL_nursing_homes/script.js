@@ -64,7 +64,7 @@ var assistedLivingLayer = L.geoJSON(null, {
 }).addTo(map);
 
 // Add counties layer
-var countiesLayer = L.geoJSON(null, {
+var regionsLayer = L.geoJSON(null, {
   style: {
     fill: false,
     weight: 2,
@@ -90,12 +90,12 @@ fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/m
     assistedLivingLayer.addData(data);
   });
 
-fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/FL_counties.geojson')
+fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/FL_regions_WGS84.geojson')
   .then(function (response) {
     return response.json();
   })
   .then(function (data) {
-    countiesLayer.addData(data);
+    regionsLayer.addData(data);
   });
 
 // Checkbox event listeners
@@ -117,11 +117,11 @@ assistedLivingCheckbox.addEventListener('change', function () {
   }
 });
 
-var countiesCheckbox = document.getElementById('countiesCheckbox');
-countiesCheckbox.addEventListener('change', function () {
+var regionsCheckbox = document.getElementById('regionsCheckbox');
+regionsCheckbox.addEventListener('change', function () {
   if (this.checked) {
-    map.addLayer(countiesLayer);
+    map.addLayer(regionsLayer);
   } else {
-    map.removeLayer(countiesLayer);
+    map.removeLayer(regionsLayer);
   }
 });
