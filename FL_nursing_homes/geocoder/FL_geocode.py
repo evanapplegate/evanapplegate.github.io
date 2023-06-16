@@ -2,7 +2,7 @@ import csv
 import googlemaps
 
 # Set your Google Maps API key
-API_KEY = "AIzaSyBDC2g9RaCZMHp0-BRPMFjTjKy1QeLjscM"
+API_KEY = "TK"
 
 # Load the CSV file with addresses
 input_file = "assisted_living.csv"

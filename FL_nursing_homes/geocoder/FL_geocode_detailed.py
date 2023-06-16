@@ -2,7 +2,7 @@ import csv
 import googlemaps
 
 # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-API_KEY = 'AIzaSyBDC2g9RaCZMHp0-BRPMFjTjKy1QeLjscM'
+API_KEY = 'TK'
 
 # Create a Google Maps client
 gmaps = googlemaps.Client(key=API_KEY)
