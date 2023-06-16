@@ -1,0 +1,685 @@
+nursing_home_label,city,county,state,latitude,longitude,location_type,partial_match
+Athens Post Acute,Deland,Volusia,florida,29.021206,-81.31328789999999,ROOFTOP,True
+Boca Ciega Center,Gulfport,Pinellas,florida,27.7560671,-82.7137144,ROOFTOP,True
+Braden River Rehabilitation Center Llc,Bradenton,Manatee,florida,27.4952022,-82.5392131,ROOFTOP,True
+Encore At Boca Raton Rehabilitation And Nursing Center,Boca Raton,Palm Beach,florida,26.3525845,-80.1591545,ROOFTOP,True
+Evergreen Woods,Spring Hill,Hernando,florida,28.5300348,-82.5183096,GEOMETRIC_CENTER,False
+Gandy Fl Opco,Tampa,Hillsborough,florida,27.8649148,-82.6218866,APPROXIMATE,True
+Gardens Care Center,Miami,Miami-Dade,florida,25.9498036,-80.1975903,ROOFTOP,False
+Gulf Shore Care Center,Pinellas Park,Pinellas,florida,27.851252,-82.731983,ROOFTOP,True
+Hillcrest Health Care And Rehabilitation Center,Hollywood,Broward,florida,26.002666,-80.18607999999999,ROOFTOP,True
+Lake Port Square Health Center,Leesburg,Lake,florida,28.8049609,-81.8619433,ROOFTOP,True
+Living Center Of St. Petersburg,Seminole,Pinellas,florida,27.839699,-82.76894999999999,ROOFTOP,True
+Martin Nursing And Rehabilitation,Stuart,Martin,florida,27.1321298,-80.2237897,ROOFTOP,True
+Miami Springs Nursing And Rehabilitation Center,Miami Springs,Miami-Dade,florida,25.8223198,-80.289495,APPROXIMATE,True
+North Healthcare And Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.7676008,-82.64029149999999,APPROXIMATE,True
+Page Rehabilitation And Healthcare Center,Fort Myers,Lee,florida,26.5943944,-81.86620549999999,ROOFTOP,True
+Palms Nursing And Rehab At Port St. Lucie,Port Saint Lucie,St. Lucie,florida,27.264821,-80.41113100000001,GEOMETRIC_CENTER,True
+Pompano Health And Rehabilitation Center,Pompano Beach,Broward,florida,26.2763465,-80.1238491,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Lely Palms),Naples,Collier,florida,26.1087893,-81.7132366,ROOFTOP,True
+Raydiant Health Care Of Jacksonville,Jacksonville,Duval,florida,30.257473,-81.585754,ROOFTOP,True
+Sea Breeze Rehab And Nursing Center,Vero Beach,Indian River,florida,27.6597184,-80.4005949,ROOFTOP,True
+Unity Healthcare And Rehabilitation Center,Miami,Miami-Dade,florida,25.7318528,-80.33493179999999,ROOFTOP,True
+Ventura Health And Rehabilitation Center,Boynton Beach,Palm Beach,florida,26.5229515,-80.1703876,ROOFTOP,True
+Whispering Oaks,Tampa,Hillsborough,florida,27.985558,-82.4419992,ROOFTOP,True
+Wilton Manors Healthcare & Rehabilitation Center,Wilton Manors,Broward,florida,26.1603626,-80.13893399999999,APPROXIMATE,True
+Winter Haven Health And Rehabilitation Center,Winter Haven,Polk,florida,28.036065,-81.7249721,ROOFTOP,True
+Woodbridge Care Center,Tampa,Hillsborough,florida,28.0008115,-82.58019469999999,ROOFTOP,True
+Brookwood Gardens Rehabilitation And Nursing Center,Homestead,Miami-Dade,florida,25.5009442,-80.55469959999999,ROOFTOP,True
+Coral Reef Subacute Care Center Llc,Miami,Miami-Dade,florida,25.6307385,-80.3528747,ROOFTOP,True
+Destination Health And Rehabilitation Center,Destin,Okaloosa,florida,30.3927226,-86.4703902,ROOFTOP,True
+Finnish-American Village,Lake Worth,Palm Beach,florida,26.5906677,-80.0715179,ROOFTOP,True
+Fort Pierce Health Care,Fort Pierce,St. Lucie,florida,27.4421037,-80.3373604,ROOFTOP,True
+Lakeside Health Center,West Palm Beach,Palm Beach,florida,26.735377,-80.067746,ROOFTOP,True
+Luxe At Jupiter Rehabilitation Center (The),Jupiter,Palm Beach,florida,26.8880603,-80.1084235,ROOFTOP,True
+Luxe At Wellington Rehabilitation Center (The),Wellington,Palm Beach,florida,26.6399539,-80.2081414,ROOFTOP,True
+Naples Health And Rehabilitation Center,Naples,Collier,florida,26.1807847,-81.7952451,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Fort Myers,Lee,florida,26.5886807,-81.88093219999999,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Naples),Naples,Collier,florida,26.1158285,-81.7536551,ROOFTOP,True
+Sandgate Gardens Rehab And Nursing Center,Fort Pierce,St. Lucie,florida,27.441534,-80.35475699999999,ROOFTOP,True
+Seabranch Health And Rehabilitation Center,Stuart,Martin,florida,27.1418611,-80.1892187,ROOFTOP,True
+Seaview Nursing And Rehabilitation Center,Pompano Beach,Broward,florida,26.233816,-80.09953999999999,ROOFTOP,True
+Shoreside Health And Rehabilitation Center,Miami,Miami-Dade,florida,25.8787994,-80.193428,ROOFTOP,True
+Solaris Healthcare Charlotte Harbor,Port Charlotte,Charlotte,florida,26.9712115,-82.0661762,ROOFTOP,True
+Solaris Healthcare Parkway,Stuart,Martin,florida,27.1778098,-80.24219649999999,ROOFTOP,True
+Treasure Isle Care Center,North Bay Village,Miami-Dade,florida,25.8462074,-80.1539351,APPROXIMATE,True
+Willowbrooke Court At Indian River Estates,Vero Beach,Indian River,florida,27.6425097,-80.4806287,ROOFTOP,True
+Abbey Delray,Delray Beach,Palm Beach,florida,26.44538,-80.09388,ROOFTOP,True
+Adventhealth Care Center Apopka South,Apopka,Seminole,florida,28.670482,-81.44633619999999,ROOFTOP,True
+Apopka Health And Rehabilitation Center,Apopka,Orange,florida,28.6455467,-81.5365738,ROOFTOP,True
+Balanced Healthcare,Saint Petersburg,Pinellas,florida,27.8106795,-82.7290263,ROOFTOP,True
+Bardmoor Oaks Healthcare And Rehabilitation Center,Largo,Pinellas,florida,27.873043,-82.7641,ROOFTOP,True
+Boynton Beach Rehabilitation Center,Boynton Beach,Palm Beach,florida,26.5332237,-80.10564149999999,ROOFTOP,True
+Brandon Health And Rehabilitation Center,Brandon,Hillsborough,florida,27.93354,-82.3076,ROOFTOP,True
+Clearwater Center,Clearwater,Pinellas,florida,27.959686,-82.7841569,ROOFTOP,True
+Dade City Health And Rehabilitation Center,Dade City,Pasco,florida,28.3583707,-82.20105769999999,ROOFTOP,True
+Deerfield Beach Health And Rehabilitation Center,Pompano Beach,Broward,florida,26.2754138,-80.1180305,ROOFTOP,True
+East Bay Rehabilitation Center,Clearwater,Pinellas,florida,27.9191847,-82.7404473,ROOFTOP,True
+Egret Cove Center,Saint Petersburg,Pinellas,florida,27.7653154,-82.7199502,ROOFTOP,True
+Fletcher Health And Rehabilitation Center,Tampa,Hillsborough,florida,28.068884,-82.46500999999999,ROOFTOP,True
+Greenbriar Healthcare Rehabilitation And Nursing Center,Bradenton,Manatee,florida,27.4989278,-82.5748194,APPROXIMATE,True
+Hamlin Place Of Boynton Beach,Lantana,Palm Beach,florida,26.5715476,-80.0773166,ROOFTOP,True
+Harbor Beach Nursing And Rehabilitation Center,Ft Lauderdale,Broward,florida,26.101536,-80.13442,ROOFTOP,True
+Hawthorne Center For Rehabilitation And Healing Of Brandon,Brandon,Hillsborough,florida,27.9215612,-82.29859189999999,ROOFTOP,True
+Heather Hill Healthcare Center,New Port Richey,Pasco,florida,28.256396,-82.704793,ROOFTOP,True
+Heritage Healthcare And Rehabilitation Center,Naples,Collier,florida,26.1569665,-81.7975958,ROOFTOP,True
+Highlands Lake Center,Lakeland,Polk,florida,27.988199,-81.92223899999999,ROOFTOP,True
+Jupiter Rehabilitation And Healthcare Center,Jupiter,Palm Beach,florida,26.9384082,-80.1274377,ROOFTOP,True
+Kissimmee Health And Rehabilitation Center,Kissimmee,Osceola,florida,28.2974799,-81.4045876,ROOFTOP,True
+Lakeside Oaks Care Center,Dunedin,Pinellas,florida,28.011774,-82.77011999999999,ROOFTOP,True
+Legacy At Boca Raton Rehabilitation And Nursing Center (The),Boca Raton,Palm Beach,florida,26.3604494,-80.1441576,ROOFTOP,True
+Life Care Center At Inverrary,Lauderhill,Broward,florida,26.1778458,-80.22092119999999,ROOFTOP,True
+Life Care Center Of Altamonte Springs,Altamonte Springs,Seminole,florida,28.661558,-81.3587842,ROOFTOP,True
+Life Care Center Of Sarasota,Sarasota,Manatee,florida,27.3949448,-82.51449869999999,ROOFTOP,True
+Nspire Healthcare Plantation,Plantation,Broward,florida,26.149332,-80.24344599999999,ROOFTOP,True
+Oaks Of Clearwater,Clearwater,Pinellas,florida,27.9617502,-82.8030112,ROOFTOP,True
+Oldsmar Health And Rehabilitation Center,Oldsmar,Pinellas,florida,28.0341847,-82.6650992,APPROXIMATE,True
+Palm Garden Of Tampa,Tampa,Hillsborough,florida,28.0734667,-82.4191443,ROOFTOP,True
+Palms Of Sebring,Sebring,Highlands,florida,27.4923892,-81.44109290000002,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Boca Raton South),Boca Raton,Palm Beach,florida,26.3645535,-80.174524,GEOMETRIC_CENTER,True
+Promedica Skilled Nursing And Rehabilitation (Dunedin),Dunedin,Pinellas,florida,-45.8795455,170.5005957,APPROXIMATE,True
+Rehabilitation And Healthcare Center Of Tampa,Tampa,Hillsborough,florida,27.975792,-82.433016,ROOFTOP,True
+Renaissance Health And Rehabilitation,West Palm Beach,Palm Beach,florida,26.68176,-80.121376,ROOFTOP,True
+Ridge Haven Health And Rehabilitation Center,New Port Richey,Pasco,florida,28.230647,-82.70352059999999,ROOFTOP,True
+Rio Pinar Health Care,Orlando,Orange,florida,28.537546,-81.27870999999999,ROOFTOP,True
+Riviera Palms Rehabilitation Center,Palmetto,Manatee,florida,27.519521,-82.5514157,ROOFTOP,True
+Royal Oaks Nursing And Rehab Center,Titusville,Brevard,florida,28.5715002,-80.82870849999999,ROOFTOP,True
+Scott Lake Health And Rehabilitation,Lakeland,Polk,florida,27.9543258,-81.9530395,ROOFTOP,True
+Solaris Healthcare Bayonet Point,Hudson,Pasco,florida,28.3368786,-82.6956743,ROOFTOP,True
+Stratford Court Of Boca Raton,Boca Raton,Palm Beach,florida,26.3307338,-80.1443412,ROOFTOP,True
+"Tamarac Rehabilitation And Health Center, Inc.",Tamarac,Broward,florida,26.2194448,-80.2743062,ROOFTOP,True
+Terrace Of St Cloud,Saint Cloud,Osceola,florida,28.233587,-81.31694519999999,ROOFTOP,True
+The Gardens At Depugh Nursing,Winter Park,Orange,florida,28.5974266,-81.35647879999999,ROOFTOP,True
+Valencia Hills Health And Rehabilitation Center,Lakeland,Polk,florida,28.096178,-81.9785995,ROOFTOP,True
+Vista Manor,Titusville,Brevard,florida,28.627728,-80.819466,ROOFTOP,True
+Westminster Manor Of Bradenton,Bradenton,Manatee,florida,27.4818126,-82.57907399999999,ROOFTOP,True
+Winter Garden Rehabilitation And Nursing Center,Winter Garden,Orange,florida,28.5518098,-81.5705102,ROOFTOP,True
+Wright'S Healthcare & Rehabilitation Center,Seminole,Pinellas,florida,27.8726081,-82.7960128,ROOFTOP,True
+Ybor City Center For Rehabilitation And Healing,Tampa,Hillsborough,florida,27.9645757,-82.42595179999999,APPROXIMATE,True
+Blue Lake Post Acute,Deland,Volusia,florida,29.0553097,-81.2711546,APPROXIMATE,True
+Clyde E Lassen State Veterans Nursing Home,Saint Augustine,St. Johns,florida,29.9605742,-81.4675089,ROOFTOP,True
+Fountains Rehabilitation At Mill Cove,Jacksonville,Duval,florida,30.3795779,-81.5733528,APPROXIMATE,True
+Grand Oaks Health And Rehabilitation Center,Palm Coast,Flagler,florida,29.558014,-81.19672,ROOFTOP,True
+Hampton Court Nursing And Rehabilitation Center,North Miami Beach,Miami-Dade,florida,25.92294,-80.20497739999999,ROOFTOP,True
+Harts Harbor Health Care Center,Jacksonville,Duval,florida,30.444853,-81.656685,ROOFTOP,True
+North Bank Center For Rehabilitation And Healing,Jacksonville,Duval,florida,30.3433585,-81.6558322,GEOMETRIC_CENTER,True
+Nspire Healthcare Miami Lakes,Hialeah,Miami-Dade,florida,25.943327,-80.294983,ROOFTOP,True
+Oak Haven Rehab And Nursing Center,Auburndale,Polk,florida,28.0592566,-81.7710982,ROOFTOP,True
+Oaktree Healthcare,South Daytona,Volusia,florida,29.1588523,-81.0033973,ROOFTOP,True
+Regents Park Of Jacksonville,Jacksonville,Duval,florida,30.2447651,-81.553558,ROOFTOP,True
+Riviera Health Resort,Coral Gables,Miami-Dade,florida,25.7053975,-80.2820246,ROOFTOP,True
+San Jose Health And Rehabilitation Center,Jacksonville,Duval,florida,30.208376,-81.61563,ROOFTOP,True
+Sands At South Beach Care Center,Miami Beach,Miami-Dade,florida,25.7694309,-80.1342863,ROOFTOP,True
+University Health And Rehabilitation Center,Miami,Miami-Dade,florida,25.7934982,-80.20770929999999,ROOFTOP,True
+"Victoria Nursing & Rehabilitation Center, Inc.",Miami,Miami-Dade,florida,25.7766177,-80.2106385,ROOFTOP,True
+Vivo Healthcare Orange Park,Orange Park,Clay,florida,30.1860305,-81.707988,ROOFTOP,True
+Vivo Healthcare University,Jacksonville,Duval,florida,30.2879721,-81.6033167,ROOFTOP,True
+Abbey Delray South,Delray Beach,Palm Beach,florida,26.4371855,-80.0996913,ROOFTOP,True
+Abbey Rehabilitation And Nursing Center,Saint Petersburg,Pinellas,florida,27.8364719,-82.6463502,ROOFTOP,True
+Advanced Care Center And Rehab,Clearwater,Pinellas,florida,27.9699817,-82.7221962,ROOFTOP,True
+Adventhealth Care Center Apopka North,Apopka,Orange,florida,28.68129919999999,-81.50421899999999,ROOFTOP,True
+Adventhealth Care Center Celebration,Kissimmee,Osceola,florida,28.3160988,-81.55762949999999,ROOFTOP,True
+Adventhealth Care Center Orlando East,Orlando,Orange,florida,28.6035206,-81.3908989,ROOFTOP,True
+Adventhealth Care Center Orlando North,Orlando,Orange,florida,28.6035206,-81.3908989,ROOFTOP,True
+Adventhealth Care Center Waterman,Tavares,Lake,florida,28.8271646,-81.7136472,ROOFTOP,True
+Adventhealth Care Center Zephyrhills North,Zephyrhills,Pasco,florida,28.2644677,-82.1825862,ROOFTOP,True
+Adventhealth Care Center Zephyrhills South,Zephyrhills,Pasco,florida,28.2644677,-82.1825862,ROOFTOP,True
+Advinia Care At Venice,Venice,Sarasota,florida,27.1015608,-82.4184713,ROOFTOP,True
+Adviniacare At Naples,Naples,Collier,florida,26.2396114,-81.7695509,ROOFTOP,True
+Aidan Post-Acute And Rehabilitation Center,Fort Pierce,St. Lucie,florida,27.4410782,-80.3534842,ROOFTOP,True
+"Alexander ""Sandy"" Nininger State Veterans Nursing Home",Pembroke Pines,Broward,florida,26.0043947,-80.2539994,ROOFTOP,True
+Alhambra Healthcare & Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.7676008,-82.64029149999999,APPROXIMATE,True
+Alliance Health And Rehabilitation Center,Deland,Volusia,florida,29.028318,-81.3031179,APPROXIMATE,True
+Alpine Health And Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.7492695,-82.68057089999999,ROOFTOP,True
+Ambassador Healthcare At College Park,Fort Myers,Lee,florida,26.5492443,-81.8881305,ROOFTOP,True
+Anchor Care & Rehabilitation Center,Palm Bay,Brevard,florida,28.0197189,-80.6048706,ROOFTOP,True
+Apollo Healthcare & Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.730881,-82.639015,ROOFTOP,True
+Arbor Springs Health And Rehabilitation Center,Ocala,Marion,florida,29.161742,-82.117184,ROOFTOP,True
+Arbor Trail Rehab And Skilled Nursing Center,Inverness,Citrus,florida,28.8468802,-82.33742529999999,ROOFTOP,True
+Arcadia Health And Rehabilitation Center,Pensacola,Escambia,florida,30.5401933,-87.2135772,ROOFTOP,True
+Ascension Living St. Catherine Laboure' Place,Jacksonville,Duval,florida,30.3087539,-81.6878814,ROOFTOP,True
+Astoria Health And Rehabilitation Center,Winter Haven,Polk,florida,28.0222435,-81.7328567,APPROXIMATE,True
+Atlantic Shores Nursing And Rehab Center,Melbourne,Brevard,florida,28.0469263,-80.62821249999999,ROOFTOP,True
+"Avante At Boca Raton, Inc.",Boca Raton,Palm Beach,florida,26.3629364,-80.10937129999999,ROOFTOP,True
+Avante At Inverness Inc,Inverness,Citrus,florida,28.8316669,-82.33564729999999,ROOFTOP,True
+"Avante At Lake Worth, Inc.",Lake Worth,Palm Beach,florida,26.6439949,-80.06465659999999,ROOFTOP,True
+"Avante At Leesburg, Inc",Leesburg,Lake,florida,28.8071698,-81.89511189999999,ROOFTOP,True
+Avante At Melbourne Inc,Melbourne,Brevard,florida,28.0861955,-80.61565499999999,ROOFTOP,True
+"Avante At Mt Dora, Inc.",Mount Dora,Lake,florida,28.8093245,-81.67583619999999,ROOFTOP,True
+"Avante At Ocala, Inc",Ocala,Marion,florida,29.1674479,-82.1357331,ROOFTOP,True
+"Avante At Ormond Beach, Inc",Ormond Beach,Volusia,florida,29.2826704,-81.08172119999999,ROOFTOP,True
+"Avante At St. Cloud, Inc.",Saint Cloud,Osceola,florida,28.2453681,-81.30288949999999,ROOFTOP,True
+Avante Villa At Jacksonville Beach Inc,Jacksonville Beach,Duval,florida,30.2698857,-81.40164960000001,ROOFTOP,True
+Aventura At The Bay,Saint Petersburg,Pinellas,florida,27.866261,-82.6404524,ROOFTOP,True
+Aventura Rehab And Nursing Center,North Miami Beach,Miami-Dade,florida,25.930001,-80.1636304,ROOFTOP,True
+Ayers Health And Rehabilitation Center,Trenton,Gilchrist,florida,29.617579,-82.80998699999999,ROOFTOP,True
+Azure Shores Rehab,Miami,Miami-Dade,florida,25.8611444,-80.212137,ROOFTOP,True
+Baldomero Lopez Memorial Veterans Nursing Home,Land O Lakes,Pasco,florida,28.2506345,-82.4486447,ROOFTOP,True
+Bartow Center,Bartow,Polk,florida,27.88188,-81.8239651,ROOFTOP,True
+Bartram Crossing,Jacksonville,Duval,florida,30.135713,-81.5380441,ROOFTOP,True
+Bay Breeze Health And Rehabilitation Center,Venice,Sarasota,florida,27.10591,-82.43311,ROOFTOP,True
+Bay Breeze Senior Living And Rehabilitation Center,Gulf Breeze,Santa Rosa,florida,30.3861323,-87.0824825,ROOFTOP,True
+Bay Pointe Nursing Pavilion,Saint Petersburg,Pinellas,florida,27.7297674,-82.6761205,ROOFTOP,True
+Bay Village Of Sarasota,Sarasota,Sarasota,florida,27.2290821,-82.49850459999999,ROOFTOP,True
+Bay Vue Nursing And Rehabilitation Center,Bradenton,Manatee,florida,27.4984862,-82.54745,ROOFTOP,True
+Baya Pointe Nursing And Rehabilitation Center,Lake City,Columbia,florida,30.182093,-82.62559,ROOFTOP,True
+Bayshore Pointe Nursing And Rehab Center,Tampa,Hillsborough,florida,27.8939007,-82.4958786,ROOFTOP,True
+Bayside Care Center,Saint Petersburg,Pinellas,florida,27.780642,-82.64828899999999,ROOFTOP,True
+Bayside Health And Rehabilitation Center,Pensacola,Escambia,florida,30.4818659,-87.168418,ROOFTOP,True
+Bayview Center,Eustis,Lake,florida,28.8494194,-81.6852029,ROOFTOP,True
+Beach Breeze Rehab And Care Center,West Palm Beach,Palm Beach,florida,26.6533734,-80.0947454,ROOFTOP,True
+Beach Street Health And Rehabilitation Center,Daytona Beach,Volusia,florida,29.1943831,-81.010528,ROOFTOP,True
+Beachside Center For Rehabilitation And Nursing,New Smyrna Beach,Volusia,florida,29.0159874,-80.8842809,ROOFTOP,True
+Bear Creek Nursing Center,Hudson,Pasco,florida,28.332025,-82.68132,ROOFTOP,True
+Bedrock Rehabilitation And Nursing Center At Lake City,Lake City,Columbia,florida,30.1862678,-82.7174491,ROOFTOP,True
+Bedrock Rehabilitation And Nursing Center At Lake Eustis,Eustis,Lake,florida,28.8477607,-81.6903432,ROOFTOP,True
+Bedrock Rehabilitation And Nursing Center At Melbourne,Melbourne,Brevard,florida,28.0867335,-80.61278449999999,ROOFTOP,True
+Bedrock Rehabilitation And Nursing Center At Suwannee,Live Oak,Suwannee,florida,30.2853363,-82.9645553,GEOMETRIC_CENTER,True
+Bedrock Rehabilitation And Nursing Center At Winter Park,Maitland,Orange,florida,28.6111,-81.3706176,ROOFTOP,True
+Belleair Health Care Center,Clearwater,Pinellas,florida,27.9360334,-82.7985849,ROOFTOP,True
+Benderson Family Skilled Nursing And Rehabilitation Center,Sarasota,Sarasota,florida,27.3537957,-82.4658821,ROOFTOP,True
+Beneva Lakes Healthcare And Rehabilitation Center,Sarasota,Sarasota,florida,27.327976,-82.49547,ROOFTOP,True
+Bentley Care Center,Naples,Collier,florida,26.3068647,-81.805503,ROOFTOP,True
+Biscayne Health And Rehabilitation Center,North Miami,Miami-Dade,florida,25.8918543,-80.16596659999999,ROOFTOP,True
+Blountstown Health And Rehabilitation Center,Blountstown,Calhoun,florida,30.4435293,-85.0451953,APPROXIMATE,True
+Boca Raton Rehabilitation Center,Boca Raton,Palm Beach,florida,26.3607273,-80.1024455,ROOFTOP,True
+Bonifay Nursing And Rehab Center,Bonifay,Holmes,florida,30.7817976,-85.6839311,ROOFTOP,True
+Boulevard Rehabilitation Center,Boynton Beach,Palm Beach,florida,26.5031808,-80.0707886,ROOFTOP,True
+Bradenton Health Care,Bradenton,Manatee,florida,27.462173,-82.62478,ROOFTOP,True
+Brandon Center For Nursing & Rehabilitation,Brandon,Hillsborough,florida,27.93354,-82.3076,ROOFTOP,True
+Breeze Care Center,Sarasota,Sarasota,florida,27.319707,-82.531379,ROOFTOP,True
+Breezy Hills Rehab And Care Center,Lakeland,Polk,florida,28.1092682,-81.94640640000001,ROOFTOP,True
+Bridgeview Center,Ormond Beach,Volusia,florida,29.2753602,-81.0546463,ROOFTOP,True
+Bridgewalk On Harden Health And Rehabilitation,Lakeland,Polk,florida,28.0087085,-81.9734536,ROOFTOP,True
+Bridgewater Park Health & Rehabilitation Center,Ocala,Marion,florida,29.08743939999999,-82.25543019999999,ROOFTOP,True
+Brookdale Palmer Ranch Snf,Sarasota,Sarasota,florida,27.2467525,-82.4678543,ROOFTOP,True
+Brooksville Healthcare Center,Brooksville,Hernando,florida,28.5468604,-82.40270199999999,ROOFTOP,True
+Broward Nursing & Rehabilitation Center,Fort Lauderdale,Broward,florida,26.1050295,-80.1423834,ROOFTOP,True
+Brynwood Health And Rehabilitation Center,Monticello,Jefferson,florida,30.5239601,-83.87393949999999,ROOFTOP,True
+Buffalo Crossings Healthcare & Rehabilitation Center,The Villages,Sumter,florida,28.9290865,-82.0257578,ROOFTOP,True
+Canterbury Towers Inc,Tampa,Hillsborough,florida,27.9111047,-82.4912671,ROOFTOP,True
+Carlton Shores Healthcare And Rehabilitation Center,Daytona Beach,Volusia,florida,29.2255679,-81.0410276,GEOMETRIC_CENTER,True
+Carrington Place Of St Pete,Saint Petersburg,Pinellas,florida,27.868201,-82.6432141,ROOFTOP,True
+Carrollwood Care Center,Tampa,Hillsborough,florida,28.0879705,-82.543042,ROOFTOP,True
+Casa Mora Rehabilitation And Extended Care,Bradenton,Manatee,florida,27.4798771,-82.6210177,ROOFTOP,True
+Central Park Healthcare And Rehabilitation Center,Brandon,Hillsborough,florida,27.927801,-82.2952,ROOFTOP,True
+Centre Pointe Health And Rehab Center,Tallahassee,Leon,florida,30.4754158,-84.2405617,ROOFTOP,True
+Century Center For Rehabilitation And Healing,Century,Escambia,florida,30.9732384,-87.2638628,APPROXIMATE,True
+Charlotte Bay Rehab And Care Center,Port Charlotte,Charlotte,florida,26.970819,-82.0786768,ROOFTOP,True
+Charming Lakes Rehab,Lakeland,Polk,florida,28.070929,-81.9453507,ROOFTOP,True
+Chateau At Moorings Park,Naples,Collier,florida,26.202624,-81.791125,ROOFTOP,True
+Chatham Glen Healthcare And Rehabilitation Center,The Villages,Marion,florida,28.9807618,-82.0299846,ROOFTOP,True
+Chatsworth At Pga National,Palm Beach Gardens,Palm Beach,florida,26.810226,-80.1354669,ROOFTOP,True
+Chautauqua Springs Health Center,Defuniak Springs,Walton,florida,30.7095489,-86.10721579999999,ROOFTOP,True
+"Children'S Comprehensive Care Center, Inc.",Pompano Beach,Broward,florida,26.231523,-80.1075899,ROOFTOP,True
+Chipola Health And Rehabilitation Center,Marianna,Jackson,florida,30.7859341,-85.2377176,ROOFTOP,True
+Citrus Health And Rehabilitation Center,Inverness,Citrus,florida,28.8308063,-82.3384658,ROOFTOP,True
+Claridge House Nursing And Rehabilitation Center,North Miami,Miami-Dade,florida,25.9033845,-80.1931295,ROOFTOP,True
+Clermont Health And Rehabilitation Center,Clermont,Lake,florida,28.5464121,-81.7547677,ROOFTOP,True
+Clewiston Nursing & Rehabilitation,Clewiston,Hendry,florida,26.7542312,-80.93367529999999,APPROXIMATE,True
+Clifford Chester Sims State Veterans Nursing Home,Panama City,Bay,florida,30.1759901,-85.5878778,ROOFTOP,True
+Club Healthcare And Rehabilitation Center At The Villages (The),The Villages,Marion,florida,28.927019,-82.0037608,APPROXIMATE,True
+Coastal Health And Rehabilitation Center,Daytona Beach,Volusia,florida,29.214275,-81.0655249,ROOFTOP,True
+Colonial Lakes Health Care,Winter Garden,Orange,florida,28.549976,-81.61148,ROOFTOP,True
+Colonial Skilled Nursing Facility,West Palm Beach,Palm Beach,florida,26.7357242,-80.0889806,ROOFTOP,True
+Commons At Orlando Lutheran Towers,Orlando,Orange,florida,28.5400828,-81.3738082,ROOFTOP,True
+Community Convalescent Center,Plant City,Hillsborough,florida,28.0186323,-82.1128641,APPROXIMATE,True
+Community Health And Rehabilitation Center,Panama City,Bay,florida,30.2141996,-85.60863119999999,ROOFTOP,True
+Concordia Manor,Saint Petersburg,Pinellas,florida,27.7851194,-82.63799949999999,ROOFTOP,True
+Concordia Village Of Tampa,Tampa,Hillsborough,florida,28.0701391,-82.4164031,ROOFTOP,True
+Conway Lakes Health & Rehabilitation Center,Orlando,Orange,florida,28.5251551,-81.3213976,ROOFTOP,True
+Coquina Center,Ormond Beach,Volusia,florida,29.2851109,-81.077406,ROOFTOP,True
+Coral Bay At Pensacola,Pensacola,Escambia,florida,30.4143537,-87.2243608,ROOFTOP,True
+Coral Bay Healthcare And Rehabilitation,West Palm Beach,Palm Beach,florida,26.634642,-80.12182,ROOFTOP,True
+Coral Gables Nursing And Rehabilitation Center,Miami,Miami-Dade,florida,25.7623189,-80.3096111,ROOFTOP,True
+Coral Trace Health Care,Cape Coral,Lee,florida,26.64706,-81.97501,ROOFTOP,True
+Countryside Rehab And Healthcare Center,Palm Harbor,Pinellas,florida,28.056837,-82.71273000000001,ROOFTOP,True
+Courtyards Of Orlando Care Center,Orlando,Orange,florida,28.5424973,-81.3795088,ROOFTOP,True
+Covenant Village Care Center,Plantation,Broward,florida,26.1221511,-80.2682968,ROOFTOP,True
+Crestview Rehabilitation Center,Crestview,Okaloosa,florida,30.764559,-86.55280789999999,ROOFTOP,True
+Cross City Nursing And Rehabilitation Center,Cross City,Dixie,florida,29.6419326,-83.12403259999999,ROOFTOP,True
+Crossings Care Center,Lake Worth,Palm Beach,florida,26.6125748,-80.11534259999999,ROOFTOP,True
+Crystal Health And Rehab Center,Tavernier,Monroe,florida,24.9818515,-80.5507659,ROOFTOP,True
+Crystal River Health And Rehabilitation Center,Crystal River,Citrus,florida,28.8963405,-82.5727227,ROOFTOP,True
+Cypress Care Center And Rehab,Wildwood,Sumter,florida,28.8551211,-82.0358821,ROOFTOP,True
+Cypress Cove Care Center,Crystal River,Citrus,florida,28.8903116,-82.5796385,ROOFTOP,True
+Cypress Village,Jacksonville,Duval,florida,30.2535022,-81.45565289999999,ROOFTOP,True
+Dania Pointe Care Center,Dania Beach,Broward,florida,26.0536775,-80.15984279999999,ROOFTOP,True
+Darcy Hall Of Life Care,West Palm Beach,Palm Beach,florida,26.7116296,-80.09483829999999,ROOFTOP,True
+Davenport Care Center,Davenport,Polk,florida,28.1614046,-81.60174169999999,APPROXIMATE,True
+Daytona Beach Health And Rehabilitation Center,Daytona Beach,Volusia,florida,29.2230669,-81.0517812,ROOFTOP,True
+De Luna Health And Rehabilitation Center,Pensacola,Escambia,florida,30.5323797,-87.28362109999999,ROOFTOP,True
+Debary Health And Rehabilitation Center,Debary,Volusia,florida,28.8931952,-81.30660689999999,ROOFTOP,True
+Delaney Park Health And Rehabilitation Center,Orlando,Orange,florida,28.5298632,-81.3744483,ROOFTOP,True
+Deltona Health Care,Deltona,Volusia,florida,28.917261,-81.22037999999999,ROOFTOP,True
+Desoto Health And Rehab,Arcadia,De Soto,florida,27.2287,-81.849524,ROOFTOP,True
+Diamond Ridge Health And Rehabilitation Center,Lecanto,Citrus,florida,28.90387969999999,-82.4797145,ROOFTOP,True
+Dolphin Pointe Health Care Center,Jacksonville,Duval,florida,30.3586655,-81.610957,ROOFTOP,True
+Douglas Jacobson State Veterans Nursing Home,Port Charlotte,Charlotte,florida,27.0269946,-82.0982262,ROOFTOP,True
+Dunedin Care Center,Dunedin,Pinellas,florida,28.0193798,-82.7796183,GEOMETRIC_CENTER,True
+Eagle Lake Nursing And Rehab Care Center,St Petersburg,Pinellas,florida,27.7822598,-82.7288126,ROOFTOP,True
+East Ridge Retirement Village Inc,Cutler Bay,Miami-Dade,florida,25.5847222,-80.32666669999999,APPROXIMATE,True
+Eden Springs Nursing And Rehab Center,Crawfordville,Wakulla,florida,30.1092317,-84.3808428,ROOFTOP,True
+Edward J Healey Rehabilitation And Nursing Center,Riviera Beach,Palm Beach,florida,26.782279,-80.1086409,ROOFTOP,True
+Elevate Care Lake Worth,Lake Worth,Palm Beach,florida,26.6012802,-80.0608506,ROOFTOP,True
+Emerald Coast Center,Fort Walton Beach,Okaloosa,florida,30.4082932,-86.606065,ROOFTOP,True
+Emerald Shores Health And Rehabilitation,Callaway,Bay,florida,30.159767,-85.59013,ROOFTOP,True
+Emory L Bennett Memorial Veterans Nursing Home,Daytona Beach,Volusia,florida,29.214923,-81.087552,GEOMETRIC_CENTER,True
+Englewood Healthcare And Rehabilitation Center,Englewood,Charlotte,florida,26.94182,-82.32414,ROOFTOP,True
+Evans Health Care,Fort Myers,Lee,florida,26.607925,-81.85817999999999,ROOFTOP,True
+Excel Care Center,Tampa,Hillsborough,florida,28.0591536,-82.4277804,ROOFTOP,True
+Fairway Oaks Center,Tampa,Hillsborough,florida,28.0734205,-82.4109233,ROOFTOP,True
+Fernandina Beach Rehabilitation And Nursing Center,Fernandina Beach,Nassau,florida,30.6711168,-81.4620981,GEOMETRIC_CENTER,True
+First Coast Health And Rehabilitation Center,Jacksonville,Duval,florida,30.3321838,-81.65565099999999,APPROXIMATE,True
+Flagler Health And Rehabilitation Center,Bunnell,Flagler,florida,29.4700728,-81.2497884,ROOFTOP,True
+Fleet Landing,Atlantic Beach,Duval,florida,30.3538087,-81.4105476,ROOFTOP,True
+Florida Presbyterian Homes Inc,Lakeland,Polk,florida,28.032142,-81.9620644,ROOFTOP,True
+Fort Myers Rehabilitation And Nursing Center,Fort Myers,Lee,florida,26.5684891,-81.8745229,ROOFTOP,True
+Fort Walton Rehabilitation Center,Fort Walton Beach,Okaloosa,florida,30.4623141,-86.6361637,ROOFTOP,True
+Fountain Manor Health & Rehabilitation Center,North Miami,Miami-Dade,florida,25.8989725,-80.1914013,ROOFTOP,True
+Fouraker Hills Rehab And Nursing Center,Jacksonville,Duval,florida,30.2904176,-81.7823058,ROOFTOP,True
+Freedom Pointe Health Center,The Villages,Lake,florida,28.951712,-81.96508829999999,ROOFTOP,True
+Freedom Square Health Care Center,Seminole,Pinellas,florida,27.8425255,-82.789194,ROOFTOP,True
+Ft Lauderdale Health And Rehabilitation Center,Fort Lauderdale,Broward,florida,26.170952,-80.1318453,ROOFTOP,True
+Gainesville Health & Rehabilitation,Gainesville,Alachua,florida,29.6578826,-82.39398949999999,ROOFTOP,True
+Garden View Health And Rehabilitation Center,Vero Beach,Indian River,florida,27.6405104,-80.3924463,ROOFTOP,True
+Gardens At Terracina Health & Rehabilitation,Naples,Collier,florida,26.1403353,-81.727835,ROOFTOP,True
+Gardens Court,Palm Beach Gardens,Palm Beach,florida,26.8459582,-80.0937648,ROOFTOP,True
+Gardens Healthcare & Rehabilitation Center,Daytona Beach,Volusia,florida,29.2255679,-81.0410276,GEOMETRIC_CENTER,True
+Gateway Fl Opco,Pinellas Park,Pinellas,florida,27.8428025,-82.6995443,APPROXIMATE,True
+Glades Health Care Center,Pahokee,Palm Beach,florida,26.8212567,-80.66013579999999,ROOFTOP,True
+Glades West Rehabilitation And Nursing Center,Miramar,Broward,florida,25.9685584,-80.3584686,ROOFTOP,True
+Glenridge On Palmer Ranch Inc.,Sarasota,Sarasota,florida,27.247324,-82.46090459999999,ROOFTOP,True
+Golfcrest Nursing Center,Hollywood,Broward,florida,26.0078913,-80.1811793,ROOFTOP,True
+Golfview Nursing Center,Saint Petersburg,Pinellas,florida,27.7815959,-82.6830305,ROOFTOP,True
+Good Samaritan Center,Live Oak,Suwannee,florida,30.253746,-83.23325799999999,ROOFTOP,True
+Good Samaritan Society-Daytona,Daytona Beach,Volusia,florida,29.2054557,-81.0210189,ROOFTOP,True
+Good Samaritan Society-Florida Lutheran,Deland,Volusia,florida,29.0344213,-81.28795889999999,ROOFTOP,True
+Good Samaritan Society-Kissimmee Village,Kissimmee,Osceola,florida,28.2585845,-81.4485778,ROOFTOP,True
+Graceville Health Center,Graceville,Jackson,florida,30.9640097,-85.5077103,ROOFTOP,True
+Grand Boulevard Health And Rehabilitation Center,Miramar Beach,Walton,florida,30.37925899999999,-86.309372,ROOFTOP,True
+Green Cove Springs Rehabilitation And Care Center,Green Cove Springs,Clay,florida,29.987556,-81.683914,ROOFTOP,True
+Greenville Care Center,Greenville,Madison,florida,30.46937389999999,-83.6301544,APPROXIMATE,True
+Grove Healthcare And Rehabilitation Center And Rehab,Hernando,Citrus,florida,28.8999815,-82.37454009999999,APPROXIMATE,True
+Groves Center,Lake Wales,Polk,florida,27.8926829,-81.5649992,ROOFTOP,True
+Guardian Care Nursing & Rehabilitation Center,Orlando,Orange,florida,28.5393041,-81.4147765,ROOFTOP,True
+Gulf Coast Village,Cape Coral,Lee,florida,26.6283265,-81.97232009999999,ROOFTOP,True
+Gulf Shores Care Center,Port Saint Joe,Gulf,florida,29.8118757,-85.30297399999999,APPROXIMATE,True
+Gulfport Nursing Center,St Petersburg,Pinellas,florida,27.7483613,-82.7034334,APPROXIMATE,True
+Gulfside Health And Rehabilitation Center,Clearwater,Pinellas,florida,27.9658533,-82.8001026,APPROXIMATE,True
+Habana Health Care Center,Tampa,Hillsborough,florida,27.985392,-82.48998,ROOFTOP,True
+Haines City Rehabilitation And Nursing Center,Haines City,Polk,florida,28.1002645,-81.62231950000002,ROOFTOP,True
+Harbour Health Center,Port Charlotte,Charlotte,florida,26.971071,-82.0722571,ROOFTOP,True
+Harbour'S Edge,Delray Beach,Palm Beach,florida,26.441902,-80.06694,ROOFTOP,True
+Harbourwood Fl Opco,Clearwater,Pinellas,florida,27.9581279,-82.72152700000001,GEOMETRIC_CENTER,True
+Harmony Health Center,Miami,Miami-Dade,florida,25.6862538,-80.354076,ROOFTOP,True
+Haven Of Our Lady Of Peace,Pensacola,Escambia,florida,30.4680165,-87.1995441,ROOFTOP,True
+Hawthorne Center For Rehabilitation And Healing Of Ocala,Ocala,Marion,florida,29.14735899999999,-82.176014,ROOFTOP,True
+Hawthorne Center For Rehabilitation And Healing Of Sarasota,Sarasota,Sarasota,florida,27.3817468,-82.46228719999999,GEOMETRIC_CENTER,True
+Health And Rehabilitation Centre At Dolphins View,South Pasadena,Pinellas,florida,27.7508,-82.73846999999999,ROOFTOP,True
+Health Center At Brentwood,Lecanto,Citrus,florida,28.904322,-82.46672,ROOFTOP,True
+Health Center At Sinai Residences,Boca Raton,Palm Beach,florida,26.3629,-80.1921038,ROOFTOP,True
+Health Central Park,Winter Garden,Orange,florida,28.5724971,-81.5818406,ROOFTOP,True
+Healthcare And Rehab Of Sanford,Sanford,Seminole,florida,28.8028612,-81.269453,APPROXIMATE,True
+Healthcare Center Of Waterford,Hialeah Gardens,Miami-Dade,florida,25.8635318,-80.333778,ROOFTOP,True
+Healthpark Care Center,Fort Myers,Lee,florida,26.5103831,-81.9119972,ROOFTOP,True
+Heritage Healthcare Center At Tallahassee,Tallahassee,Leon,florida,30.473015,-84.22729,ROOFTOP,True
+Heritage Park Nursing Center,Bradenton,Manatee,florida,27.4785559,-82.6209576,ROOFTOP,True
+Heron Pointe Health And Rehabilitation,Brooksville,Hernando,florida,28.576633,-82.37795,ROOFTOP,True
+Hialeah Shores Nursing And Rehab Center,Miami,Miami-Dade,florida,25.8540196,-80.2495636,ROOFTOP,True
+Hidden Lakes Senior Living Community,Vero Beach,Indian River,florida,27.6543711,-80.3919998,ROOFTOP,True
+Highland Pines Rehabilitation Center,Clearwater,Pinellas,florida,27.9536945,-82.77457249999999,ROOFTOP,True
+Home Association,Tampa,Hillsborough,florida,27.9708779,-82.4467617,ROOFTOP,True
+Homestead Manor A Palace Community,Homestead,Miami-Dade,florida,25.4830114,-80.4801318,ROOFTOP,True
+Hunters Creek Nursing And Rehab Center,Orlando,Orange,florida,28.3642692,-81.4204061,ROOFTOP,True
+Indian River Center,West Melbourne,Brevard,florida,28.0937021,-80.6763088,ROOFTOP,True
+Indigo Manor,Daytona Beach,Volusia,florida,29.201205,-81.086046,ROOFTOP,True
+Inn At Freedom Village,Bradenton,Manatee,florida,27.4818265,-82.6254321,ROOFTOP,True
+Inn At Sarasota Bay Club,Sarasota,Sarasota,florida,27.3497994,-82.5475335,ROOFTOP,True
+Island Health And Rehabilitation Center,Merritt Is,Brevard,florida,28.3831699,-80.7059644,ROOFTOP,True
+Island Lake Center,Longwood,Seminole,florida,28.6963472,-81.36507139999999,ROOFTOP,True
+Isle Healthcare & Rehabilitation Center,Orange Park,Clay,florida,30.1660736,-81.706484,APPROXIMATE,True
+Jackson Gardens Health And Rehabilitation Center,Miami,Miami-Dade,florida,25.793391,-80.20856630000002,ROOFTOP,True
+Jackson Memorial Long Term Care Center,Miami,Miami-Dade,florida,25.7994591,-80.23188979999999,ROOFTOP,True
+Jackson Memorial Perdue Medical Center,Cutler Ridge,Miami-Dade,florida,25.586602,-80.326112,ROOFTOP,True
+Jacksonville Center For Rehabilitation And Healthcare,Jacksonville,Duval,florida,30.3709157,-81.6840106,ROOFTOP,True
+Jacksonville Nursing And Rehab Center,Jacksonville,Duval,florida,30.437779,-81.7144735,ROOFTOP,True
+Jacksonville Rehabilitation And Nursing Center,Jacksonville,Duval,florida,30.2802229,-81.7450538,ROOFTOP,True
+John Knox Village Of Pompano Beach,Pompano Beach,Broward,florida,26.2262306,-80.1303868,ROOFTOP,True
+"Joseph L. Morse Health Center, Inc.",West Palm Bch,Palm Beach,florida,26.7461671,-80.1160594,ROOFTOP,True
+Kendall Lakes Healthcare And Rehab Center,Miami,Miami-Dade,florida,25.7318528,-80.33493179999999,ROOFTOP,True
+Kensington Gardens Rehab And Nursing Center,Clearwater,Pinellas,florida,27.9741767,-82.7519895,ROOFTOP,True
+Keystone Rehabilitation And Health Center,Kissimmee,Osceola,florida,28.31868,-81.41507,ROOFTOP,True
+Kissimmee Nursing & Rehabilitation Center,Kissimmee,Osceola,florida,28.3200591,-81.41512780000001,ROOFTOP,True
+Kr At College Harbor,Saint Petersburg,Pinellas,florida,27.7457567,-82.643002,GEOMETRIC_CENTER,True
+Krystal Bay Nursing And Rehabilitation,North Miami Beach,Miami-Dade,florida,25.9290739,-80.1564442,ROOFTOP,True
+Labelle Health And Rehabilitation Center,Labelle,Hendry,florida,26.7583312,-81.4341219,ROOFTOP,True
+Lady Lake Specialty Care Center,Lady Lake,Lake,florida,28.9370485,-81.9343191,ROOFTOP,True
+Lafayette Nursing And Rehabilitation Center,Mayo,Lafayette,florida,30.0552017,-83.1806257,ROOFTOP,True
+Lake Bennet Center For Rehabilitation & Healing,Ocoee,Orange,florida,28.5545271,-81.5323533,ROOFTOP,True
+Lake Mary Health And Rehabilitation Center,Lake Mary,Seminole,florida,28.757696,-81.349976,ROOFTOP,True
+Lake Park Of Madison Nursing And Rehabilitation Center,Madison,Madison,florida,30.471803,-83.430953,ROOFTOP,True
+Lake Placid Health And Rehabilitation Center,Lake Placid,Highlands,florida,27.3207082,-81.37168919999999,ROOFTOP,True
+Lake Wales Wellness And Rehabilitation Center,Lake Wales,Polk,florida,27.913109,-81.5883944,ROOFTOP,True
+Lakeland Hills Center,Lakeland,Polk,florida,28.0702331,-81.95186079999999,ROOFTOP,True
+Lakeland Nursing & Rehabilitation,Lakeland,Polk,florida,28.0394654,-81.9498042,APPROXIMATE,True
+Lakes At Lutz Health & Rehabilitation Center,Lutz,Hillsborough,florida,28.1522006,-82.4896517,ROOFTOP,True
+Lakes Of Clermont Health And Rehabilitation Center,Clermont,Lake,florida,28.541964,-81.7242326,ROOFTOP,True
+Lakeside Center For Rehabilitation And Healing,Jacksonville,Duval,florida,30.4395679,-81.6778039,ROOFTOP,True
+Lakeside Neurologic,Wauchula,Hardee,florida,27.548233,-81.920249,ROOFTOP,True
+Lakeview Terrace Rehabilitation And Health Care Center,Altoona,Lake,florida,28.9640015,-81.6565241,ROOFTOP,True
+Lanier Rehabilitation Center,Jacksonville,Duval,florida,30.4674832,-81.5889612,ROOFTOP,True
+Larsen Health Center,Fort Myers,Lee,florida,26.4942171,-81.9806141,ROOFTOP,True
+Laurellwood Fl Opco,Saint Petersburg,Pinellas,florida,27.8240775,-82.6758401,ROOFTOP,True
+Lehigh Acres Healthcare & Rehabilitation Center,Lehigh Acres,Lee,florida,26.6253497,-81.6248026,APPROXIMATE,True
+Lexington Healthcare And Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.7676008,-82.64029149999999,APPROXIMATE,True
+Life Care Center At Wells Crossing,Orange Park,Clay,florida,30.184955,-81.71736899999999,ROOFTOP,True
+Life Care Center Of Citrus County,Lecanto,Citrus,florida,28.8723322,-82.4898105,ROOFTOP,True
+Life Care Center Of Estero,Estero,Lee,florida,26.4210274,-81.813563,ROOFTOP,True
+Life Care Center Of Hilliard,Hilliard,Nassau,florida,30.693704,-81.9182348,ROOFTOP,True
+Life Care Center Of Jacksonville,Jacksonville,Duval,florida,30.2495192,-81.6004952,ROOFTOP,True
+Life Care Center Of Melbourne,Melbourne,Brevard,florida,28.0892364,-80.61166589999999,ROOFTOP,True
+Life Care Center Of New Port Richey,New Port Richey,Pasco,florida,28.2251644,-82.6919944,ROOFTOP,True
+Life Care Center Of Ocala,Ocala,Marion,florida,29.14703219999999,-82.1702914,ROOFTOP,True
+Life Care Center Of Orange Park,Orange Park,Clay,florida,30.1654258,-81.7409274,ROOFTOP,True
+Life Care Center Of Palm Bay,Palm Bay,Brevard,florida,27.9998566,-80.6151254,ROOFTOP,True
+Life Care Center Of Pensacola,Pensacola,Escambia,florida,30.50847,-87.19837179999999,ROOFTOP,True
+Life Care Center Of Port St. Lucie,Port St Lucie,St. Lucie,florida,27.2791028,-80.2900243,ROOFTOP,True
+Life Care Center Of Punta Gorda,Punta Gorda,Charlotte,florida,26.9267225,-82.05595439999999,ROOFTOP,True
+Life Care Center Of Winter Haven,Winter Haven,Polk,florida,28.0058792,-81.7050295,ROOFTOP,True
+Lilac At Bayview,St Augustine,St. Johns,florida,29.8817963,-81.30758589999999,ROOFTOP,True
+Living Center Of Safety Harbor,Safety Harbor,Pinellas,florida,27.9930758,-82.7028878,GEOMETRIC_CENTER,True
+Lodge At Cypress Cove,Fort Myers,Lee,florida,26.5040939,-81.9180365,ROOFTOP,True
+Longwood Health And Rehabilitation Center,Longwood,Seminole,florida,28.6863563,-81.3348275,ROOFTOP,True
+"Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.",West Palm Beach,Palm Beach,florida,26.7109097,-80.05100379999999,ROOFTOP,True
+Macclenny Nursing And Rehab Center,Macclenny,Baker,florida,30.2733308,-82.11929370000001,ROOFTOP,True
+Madison Health And Rehabilitation Center,Madison,Madison,florida,30.481955,-83.45148929999999,ROOFTOP,True
+Madison Pointe Care Center,New Port Richey,Pasco,florida,28.252978,-82.714927,ROOFTOP,True
+Magnolia Health And Rehabilitation Center,Sarasota,Sarasota,florida,27.319786,-82.51353,ROOFTOP,True
+Majestic Oaks,Orange City,Volusia,florida,28.940101,-81.2813324,ROOFTOP,True
+Manatee Springs Rehabilitation And Nursing Center,Bradenton,Manatee,florida,27.441794,-82.55424800000002,ROOFTOP,True
+Manor At Blue Water Bay,Niceville,Okaloosa,florida,30.4834183,-86.41294049999999,ROOFTOP,True
+Manor At Carpenters,Lakeland,Polk,florida,28.097113,-81.9640855,GEOMETRIC_CENTER,True
+Margate Health And Rehabilitation Center,Margate,Broward,florida,26.2636959,-80.2048097,ROOFTOP,True
+Marianna Health And Rehabilitation Center,Marianna,Jackson,florida,30.7867868,-85.2380234,ROOFTOP,True
+Marianna Nursing And Care Center,Marianna,Jackson,florida,30.7743596,-85.2268735,APPROXIMATE,True
+Marion And Bernard L Samson Nursing Center,Saint Petersburg,Pinellas,florida,27.7738748,-82.7138835,ROOFTOP,True
+Martin Coast Center For Rehabilitation And Healthcare,Hobe Sound,Martin,florida,27.0884818,-80.14997199999999,ROOFTOP,True
+Masonic Home Of Florida,St Petersburg,Pinellas,florida,27.8019878,-82.633414,ROOFTOP,True
+Mayflower Healthcare Center,Winter Park,Orange,florida,28.6040919,-81.3219577,GEOMETRIC_CENTER,True
+Meadows Center For Nursing And Healing,Sarasota,Sarasota,florida,27.3564915,-82.4665103,ROOFTOP,True
+Medicana Nursing And Rehab Center,Lake Worth,Palm Beach,florida,26.6175189,-80.0658052,ROOFTOP,True
+Melbourne Terrace Rehabilitation Center,Melbourne,Brevard,florida,28.056066,-80.618137,ROOFTOP,True
+Memorial Manor,Pembroke Pines,Broward,florida,26.0042123,-80.2622916,ROOFTOP,True
+Menorah House,Boca Raton,Palm Beach,florida,26.3585358,-80.1986794,ROOFTOP,True
+Metro West Nursing And Rehab Center,Orlando,Orange,florida,28.5313523,-81.4627635,ROOFTOP,True
+"Miami Jewish Health Systems, Inc.",Miami,Miami-Dade,florida,25.8246217,-80.1933674,GEOMETRIC_CENTER,True
+Miami Shores Nursing And Rehab Center,Miami,Miami-Dade,florida,25.860665,-80.21020399999999,ROOFTOP,True
+Middleburg Rehabilitation And Nursing Center,Middleburg,Clay,florida,30.1117839,-81.8133773,ROOFTOP,True
+"Miracle Hill Nursing And Rehabilitation Center, Inc",Tallahassee,Leon,florida,30.4573885,-84.2996048,ROOFTOP,True
+Monticello Care Center,Monticello,Jefferson,florida,30.5452022,-83.8701636,APPROXIMATE,True
+Morton Plant Rehabilitation Center,Belleair,Pinellas,florida,27.950398,-82.8005453,ROOFTOP,True
+Moultrie Creek Nursing And Rehab Center,Saint Augustine,St. Johns,florida,29.8091268,-81.325446,ROOFTOP,True
+North Beach Healthcare And Rehabilitation Center,North Miami Beach,Miami-Dade,florida,25.7318528,-80.33493179999999,ROOFTOP,True
+North Campus Rehabilitation And Nursing Center,Leesburg,Lake,florida,28.810823,-81.87785819999999,APPROXIMATE,True
+North Dade Nursing And Rehabilitation Center,North Miami,Miami-Dade,florida,25.9004025,-80.1731714,ROOFTOP,True
+North Florida Rehabilitation And Specialty Care,Gainesville,Alachua,florida,29.661734,-82.413994,ROOFTOP,True
+North Lake Care Center And Rehab,Lake Park,Palm Beach,florida,26.7936814,-80.0683959,ROOFTOP,True
+North Port Rehabilitation And Nursing Center,North Port,Sarasota,florida,27.051594,-82.2406395,ROOFTOP,True
+Northbrook Center For Rehabilitation And Healing,Brooksville,Hernando,florida,28.5504736,-82.3936188,ROOFTOP,True
+Northdale Rehabilitation Center,Tampa,Hillsborough,florida,28.0852359,-82.4949484,ROOFTOP,True
+Nspire Healthcare Kendall,Miami,Miami-Dade,florida,25.6791526,-80.4178201,ROOFTOP,True
+Nspire Healthcare Lauderhill,Lauderhill,Broward,florida,26.1595166,-80.2235829,ROOFTOP,True
+Nspire Healthcare Tamarac,Tamarac,Broward,florida,26.197091,-80.257046,ROOFTOP,True
+Nursing & Rehabilitation Center Of Bayonet Point,Hudson,Pasco,florida,28.3619938,-82.68758629999999,ROOFTOP,True
+Nursing & Rehabilitation Center Of Melbourne,Melbourne,Brevard,florida,28.0836269,-80.60810889999999,APPROXIMATE,True
+Nursing & Rehabilitation Center Of New Port Richey,New Port Richey,Pasco,florida,28.2441768,-82.7192671,APPROXIMATE,True
+Nursing Center At La Posada,Palm Beach Gardens,Palm Beach,florida,26.8522281,-80.08546299999999,ROOFTOP,True
+Oak Hammock At The University Of Florida Inc,Gainesville,Alachua,florida,29.6054187,-82.36027639999999,ROOFTOP,True
+Oak Hill Health And Rehabilitation,Brooksville,Hernando,florida,28.5552719,-82.3878709,APPROXIMATE,True
+Oak Manor Healthcare & Rehabilitation Center,Largo,Pinellas,florida,27.8954888,-82.8239257,ROOFTOP,True
+Oaks At Avon,Avon Park,Highlands,florida,27.6071889,-81.513448,ROOFTOP,True
+Oakton Place Health And Rehabilitation At The Arlington,Naples,Collier,florida,26.1420358,-81.7948103,APPROXIMATE,True
+Ocala Health And Rehabilitation Center,Ocala,Marion,florida,29.16491,-82.1230176,ROOFTOP,True
+Ocala Oaks Rehabilitation Center,Ocala,Marion,florida,29.2004276,-82.0805037,ROOFTOP,True
+Okeechobee Health Care Facility,Okeechobee,Okeechobee,florida,27.2586757,-80.8281579,ROOFTOP,True
+Olive Branch Health And Rehabilitation Center,Pensacola,Escambia,florida,30.5147227,-87.22179299999999,ROOFTOP,True
+Orange City Nursing And Rehab Center,Debary,Volusia,florida,28.9025261,-81.2895087,ROOFTOP,True
+Orange Park Rehabilitation And Nursing Center,Orange Park,Clay,florida,30.1671774,-81.7395871,ROOFTOP,True
+Orlando Health And Rehabilitation Center,Orlando,Orange,florida,28.5112231,-81.3917132,ROOFTOP,True
+Orlando Health Center For Rehabilitation,Ocoee,Orange,florida,28.5487242,-81.52285979999999,ROOFTOP,True
+Ormond Rehabilitation And Nursing Center,Ormond Beach,Volusia,florida,29.2704075,-81.09302249999999,ROOFTOP,True
+Osprey Point Nursing Center,Bushnell,Sumter,florida,28.680447,-82.11162,ROOFTOP,True
+Palace At Kendall Nursing And Rehabilitation Center,Miami,Miami-Dade,florida,25.6660336,-80.357827,APPROXIMATE,True
+Palatka Center For Rehabilitation And Healing,Palatka,Putnam,florida,29.6489478,-81.6931477,ROOFTOP,True
+Palm Beach Nursing Center,Lake Worth,Palm Beach,florida,26.583546,-80.09058619999999,ROOFTOP,True
+Palm City Nursing And Rehab Center,Palm City,Martin,florida,27.1621969,-80.2874922,ROOFTOP,True
+Palm Garden Of Aventura,North Miami Beach,Miami-Dade,florida,25.9721372,-80.1470354,ROOFTOP,True
+Palm Garden Of Clearwater,Clearwater,Pinellas,florida,28.048064,-82.710544,ROOFTOP,True
+Palm Garden Of Gainesville,Gainesville,Alachua,florida,29.6507393,-82.4065559,ROOFTOP,True
+Palm Garden Of Jacksonville,Jacksonville,Duval,florida,30.2669442,-81.60827549999999,ROOFTOP,True
+Palm Garden Of Largo,Largo,Pinellas,florida,27.866944,-82.76290949999999,ROOFTOP,True
+Palm Garden Of Ocala,Ocala,Marion,florida,29.152368,-82.16971099999999,ROOFTOP,True
+Palm Garden Of Orlando,Orlando,Orange,florida,28.5531147,-81.2531058,ROOFTOP,True
+Palm Garden Of Pinellas,Largo,Pinellas,florida,27.9027719,-82.7855077,ROOFTOP,True
+Palm Garden Of Port St. Lucie,Port Saint Lucie,St. Lucie,florida,27.2858901,-80.2936014,ROOFTOP,True
+Palm Garden Of Sun City,Sun City Center,Hillsborough,florida,27.7175393,-82.3708106,ROOFTOP,True
+Palm Garden Of Vero Beach,Vero Beach,Indian River,florida,27.6596713,-80.4021728,ROOFTOP,True
+Palm Garden Of West Palm Beach,West Palm Beach,Palm Beach,florida,26.7143654,-80.0791795,ROOFTOP,True
+Palm Garden Of Winter Haven,Winter Haven,Polk,florida,28.0048691,-81.70979559999999,ROOFTOP,True
+Palm Harbor Health And Rehabilitation Center,Palm Harbor,Pinellas,florida,28.0780718,-82.7637127,APPROXIMATE,True
+Palm Vista Nursing And Rehabilitation Center,Key West,Monroe,florida,24.5807615,-81.7438471,ROOFTOP,True
+Palmetto Care Center,Hialeah,Miami-Dade,florida,25.8836357,-80.32892679999999,ROOFTOP,True
+Palmetto Subacute Care Center,Miami,Miami-Dade,florida,25.7620701,-80.318658,ROOFTOP,True
+Palms Care Center,Lauderdale Lakes,Broward,florida,26.1677572,-80.2119128,ROOFTOP,True
+Palms Nursing And Rehab At Orange Park,Orange Park,Clay,florida,30.1660736,-81.706484,APPROXIMATE,True
+Palms Rehabilitation And Healthcare Center,Palm Bay,Brevard,florida,28.0149,-80.62168,ROOFTOP,True
+Park Meadows Healthcare & Rehabilitation Center,Gainesville,Alachua,florida,29.6164615,-82.3703046,ROOFTOP,True
+Park Ridge Nursing Center,Jacksonville,Duval,florida,30.3183862,-81.6819901,ROOFTOP,True
+Parklands Care Center,Gainesville,Alachua,florida,29.637104,-82.336051,ROOFTOP,True
+Parks Healthcare And Rehabilitation Center,Orlando,Orange,florida,28.426018,-81.4025,ROOFTOP,True
+Parkside Health And Rehabilitation Center,Deland,Volusia,florida,29.0221338,-81.2984618,ROOFTOP,True
+Parkview Rehabilitation Center At Winter Park,Winter Park,Orange,florida,28.5968069,-81.32452669999999,ROOFTOP,True
+Pavilion At Jacksonville,Jacksonville,Duval,florida,30.1319168,-81.5448853,GEOMETRIC_CENTER,False
+Pavilion For Health Care,Penney Farms,Clay,florida,29.9765033,-81.80806729999999,ROOFTOP,True
+Pearl At Fort Lauderdale Rehabilitation And Nursing Center,Wilton Manors,Broward,florida,26.1603626,-80.13893399999999,APPROXIMATE,True
+Peninsula Rehabilitation And Nursing Center,Tarpon Springs,Pinellas,florida,28.1660671,-82.7429544,ROOFTOP,True
+Pensacola Nursing & Rehabilitation Center,Pensacola,Escambia,florida,30.3647238,-87.1711686,GEOMETRIC_CENTER,True
+Perry Oaks Health Care,Perry,Taylor,florida,30.125755,-83.58967,ROOFTOP,True
+Pinecrest Rehabilitation Center,North Miami,Miami-Dade,florida,25.900539,-80.19273299999999,ROOFTOP,True
+Pinellas Park Fl Opco,Pinellas Park,Pinellas,florida,27.8428025,-82.6995443,APPROXIMATE,True
+Pinellas Point Nursing And Rehab Center,Saint Petersburg,Pinellas,florida,27.7170735,-82.6761401,ROOFTOP,True
+Pines Nursing Home,Miami,Miami-Dade,florida,25.9050082,-80.1918302,ROOFTOP,False
+Pines Of Sarasota,Sarasota,Sarasota,florida,27.3503978,-82.5392861,ROOFTOP,True
+Plantation Bay Rehabilitation Center,Saint Cloud,Osceola,florida,28.253927,-81.31378,ROOFTOP,True
+Plantation Nursing & Rehabilitation Center,Plantation,Broward,florida,26.1275862,-80.23310359999999,APPROXIMATE,True
+Plaza Health And Rehab,Gainesville,Alachua,florida,29.6141107,-82.39531149999999,ROOFTOP,True
+Plaza West Health Center,Sun City Ctr,Hillsborough,florida,27.7205905,-82.36736289999999,ROOFTOP,True
+Plymouth Harbor Incorporated,Sarasota,Sarasota,florida,27.3207697,-82.5704834,ROOFTOP,True
+Ponce Health And Rehabilitation Center,Miami,Miami-Dade,florida,25.7698891,-80.2143104,ROOFTOP,True
+Ponce Therapy Care Center And Rehab,Saint Augustine,St. Johns,florida,29.8644952,-81.3280336,ROOFTOP,True
+Port Charlotte Center For Nursing & Rehabilitation,Port Charlotte,Charlotte,florida,26.9761707,-82.09064479999999,APPROXIMATE,True
+Port Charlotte Rehabilitation Center,Port Charlotte,Charlotte,florida,27.0001731,-82.0303407,ROOFTOP,True
+Port Orange Nursing And Rehab Center,Port Orange,Volusia,florida,29.11826599999999,-81.01757239999999,ROOFTOP,True
+Port St. Lucie Rehabilitation And Healthcare,Port St Lucie,St. Lucie,florida,27.3423015,-80.3292388,ROOFTOP,True
+Premier Place At The Glenview,Naples,Collier,florida,26.2164802,-81.8104553,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Boca Raton,Palm Beach,florida,26.4088373,-80.12599230000001,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Boynton Beach,Palm Beach,florida,26.5332237,-80.10564149999999,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Delray),Delray Beach,Palm Beach,florida,26.4661338,-80.07034279999999,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Fort Myers,Lee,florida,26.6598263,-81.8338588,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Palm Harbor),Palm Harbor,Pinellas,florida,28.0780718,-82.7637127,APPROXIMATE,True
+Promedica Skilled Nursing And Rehabilitation (Prosperity Oaks),Palm Beach Gardens,Palm Beach,florida,26.8331826,-80.0733164,GEOMETRIC_CENTER,True
+Promedica Skilled Nursing And Rehabilitation (Sarasota East),Sarasota,Sarasota,florida,27.2748203,-82.4863586,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Sarasota North),Sarasota,Sarasota,florida,27.336465,-82.5310117,APPROXIMATE,True
+Promedica Skilled Nursing And Rehabilitation (Sarasota West),Sarasota,Sarasota,florida,27.2748203,-82.4863586,ROOFTOP,True
+Promedica Skilled Nursing And Rehabilitation (Venice),Venice,Sarasota,florida,27.336465,-82.5310117,APPROXIMATE,True
+Promedica Skilled Nursing And Rehabilitation (West Palm Beach),West Palm Beach,Palm Beach,florida,26.7153424,-80.0533746,APPROXIMATE,True
+Promedica Skilled Nursing And Rehabilitation (Zephyrhills),Zephyrhills,Pasco,florida,28.2336196,-82.18119469999999,APPROXIMATE,True
+Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Boynton Beach,Palm Beach,florida,26.5332237,-80.10564149999999,ROOFTOP,True
+Pruitthealth - Fleming Island,Fleming Island,Clay,florida,30.0856547,-81.7183361,ROOFTOP,True
+Pruitthealth - Panama City,Panama City,Bay,florida,30.2062721,-85.6604461,ROOFTOP,True
+Pruitthealth - Santa Rosa,Milton,Santa Rosa,florida,30.636028,-87.064573,ROOFTOP,True
+Pruitthealth - Southwood,Tallahassee,Leon,florida,30.4136505,-84.2299274,ROOFTOP,True
+Radiant Nursing And Rehab At Palatka,Palatka,Putnam,florida,29.6445043,-81.6609639,ROOFTOP,True
+Raydiant Health Care Of North Fort Myers,North Fort Myers,Lee,florida,26.666992,-81.92081999999999,ROOFTOP,True
+Raydiant Health Care Of Orange Park,Orange Park,Clay,florida,30.1660736,-81.706484,APPROXIMATE,True
+Regency Oaks Health Center,Clearwater,Pinellas,florida,27.9944138,-82.7241208,ROOFTOP,True
+Regents Park At Aventura,Aventura,Miami-Dade,florida,25.9505693,-80.1502131,ROOFTOP,True
+Regents Park Of Sunrise,Sunrise,Broward,florida,26.1707763,-80.2806777,ROOFTOP,True
+Regents Park Of Winter Park,Winter Park,Orange,florida,28.6095161,-81.3106384,ROOFTOP,True
+Rehab & Healthcare Center Of Cape Coral,Cape Coral,Lee,florida,26.6027455,-81.9406261,ROOFTOP,True
+Rehabilitation Center At Park Place,Pensacola,Escambia,florida,30.4307599,-87.239291,ROOFTOP,True
+"Rehabilitation Center Of The Palm Beaches,The",West Palm Beach,Palm Beach,florida,26.7153424,-80.0533746,APPROXIMATE,True
+Renaissance At The Terraces,Bonita Springs,Lee,florida,26.3547862,-81.8060407,ROOFTOP,True
+Ridgecrest Healthcare And Rehabilitation Center,Deland,Volusia,florida,29.0493432,-81.31762379999999,ROOFTOP,True
+River City Nursing And Rehab Center,Jacksonville,Duval,florida,30.49008719999999,-81.63346489999999,ROOFTOP,True
+River Garden Hebrew Home For The Aged,Jacksonville,Duval,florida,30.1663954,-81.5987808,ROOFTOP,True
+River Valley Rehabilitation Center,Blountstown,Calhoun,florida,30.4587144,-85.0516791,ROOFTOP,True
+Riverchase Health And Rehabilitation Center,Quincy,Gadsden,florida,30.5685653,-84.5544357,ROOFTOP,True
+Riverside Care Center,Miami,Miami-Dade,florida,25.7777742,-80.2091593,ROOFTOP,True
+Riverwood Center,Jacksonville,Duval,florida,30.274363,-81.591961,ROOFTOP,True
+Riverwood Healthcare & Rehabilitation Center,Starke,Bradford,florida,29.9441298,-82.1098275,APPROXIMATE,True
+Rockledge Healthcare & Rehabilitation Center,Rockledge,Brevard,florida,28.3164498,-80.72698539999999,APPROXIMATE,True
+Rohr Home,Bartow,Polk,florida,27.8847721,-81.82191279999999,ROOFTOP,True
+Rosewood Health And Rehabilitation Center,Orlando,Orange,florida,28.607286,-81.42754,ROOFTOP,True
+Rosewood Healthcare And Rehabilitation Center,Pensacola,Escambia,florida,30.4435428,-87.23267539999999,ROOFTOP,True
+Royal Care Of Avon Park,Avon Park,Highlands,florida,27.6281557,-81.51708730000001,ROOFTOP,True
+Royal Oak Nursing Center,Dade City,Pasco,florida,28.3514804,-82.19933309999999,ROOFTOP,True
+Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach,Palm Beach,florida,26.6974932,-80.2106063,ROOFTOP,True
+Ruleme Center,Eustis,Lake,florida,28.825939,-81.69033499999999,ROOFTOP,True
+Sabal Palms Health & Rehabilitation,Largo,Pinellas,florida,27.9217737,-82.76911849999999,ROOFTOP,True
+Saints Care Center,Jacksonville,Duval,florida,30.3321838,-81.65565099999999,APPROXIMATE,True
+Sand Key Health And Rehabilitation Center,Clearwater,Pinellas,florida,27.730881,-82.639015,ROOFTOP,True
+Sandy Ridge Center For Rehabilitation And Healing,Milton,Santa Rosa,florida,30.6301571,-87.0636334,ROOFTOP,True
+Santa Rosa Center For Rehabilitation And Healing,Milton,Santa Rosa,florida,30.6296162,-87.03689190000001,ROOFTOP,True
+Sarasota Center For Nursing & Rehabilitation,Sarasota,Sarasota,florida,27.3477349,-82.4049158,GEOMETRIC_CENTER,True
+Sarasota Health And Rehabilitation Center,Sarasota,Sarasota,florida,27.336465,-82.5310117,APPROXIMATE,True
+Sarasota Memorial Nursing And Rehabilitation Center,Sarasota,Sarasota,florida,27.2638533,-82.4574202,ROOFTOP,True
+Sarasota Point Rehabilitation Center,Sarasota,Sarasota,florida,27.3257538,-82.51653309999999,ROOFTOP,True
+Savannah Cove,Maitland,Orange,florida,28.6314438,-81.3790081,ROOFTOP,True
+Savoy At Fort Lauderdale Rehabilitation And Nursing Center,Fort Lauderdale,Broward,florida,26.1224386,-80.13731740000001,APPROXIMATE,True
+Seaside Health And Rehabilitation Center,Daytona Beach,Volusia,florida,29.1892835,-81.01304859999999,ROOFTOP,True
+Seven Hills Health And Rehabilitation Center,Tallahassee,Leon,florida,30.47530889999999,-84.22543739999999,ROOFTOP,True
+Shoal Creek Rehabilitation Center,Crestview,Okaloosa,florida,30.733517,-86.56249,ROOFTOP,True
+Shore Acres Care Center And Rehab,Saint Petersburg,Pinellas,florida,27.8133502,-82.6024931,ROOFTOP,True
+Sierra Lakes Nursing & Rehabilitation Center,Miami,Miami-Dade,florida,25.7616798,-80.1917902,APPROXIMATE,True
+Siesta Key Health And Rehabilitation Center,Sarasota,Sarasota,florida,27.3754687,-82.5341965,ROOFTOP,True
+Silvercrest Health And Rehabilitation Center,Crestview,Okaloosa,florida,30.7303583,-86.565033,ROOFTOP,True
+Solaris Healthcare Coconut Creek,Coconut Creek,Broward,florida,26.2747609,-80.18009579999999,ROOFTOP,True
+Solaris Healthcare Daytona,Daytona Beach,Volusia,florida,29.20543279999999,-81.0634613,ROOFTOP,True
+Solaris Healthcare Imperial,Naples,Collier,florida,26.2889509,-81.80014600000001,ROOFTOP,True
+Solaris Healthcare Lake City,Lake City,Columbia,florida,30.182354,-82.650458,ROOFTOP,True
+Solaris Healthcare Merritt Island,Merritt Island,Brevard,florida,28.3899377,-80.7082025,ROOFTOP,True
+Solaris Healthcare Osceola,Saint Cloud,Osceola,florida,28.227569,-81.3150259,ROOFTOP,True
+Solaris Healthcare Pensacola,Pensacola,Escambia,florida,30.516698,-87.221773,ROOFTOP,True
+Solaris Healthcare Plant City,Plant City,Hillsborough,florida,28.0308141,-82.095759,ROOFTOP,True
+Solaris Healthcare Windermere,Orlando,Orange,florida,28.5004459,-81.44340059999999,ROOFTOP,True
+Solaris Senior Living North Naples,Naples,Collier,florida,26.2716734,-81.7805028,ROOFTOP,True
+South Campus Care Center And Rehab,Leesburg,Lake,florida,28.8058186,-81.8674243,ROOFTOP,True
+South Dade Nursing And Rehabilitation Center,Miami,Miami-Dade,florida,25.6076663,-80.3470212,ROOFTOP,True
+South Heritage Health & Rehabilitation Center,Saint Petersburg,Pinellas,florida,27.7481951,-82.6429939,ROOFTOP,True
+Southern Pines Nursing Center,New Port Richey,Pasco,florida,28.2484938,-82.70676650000001,ROOFTOP,True
+Specialty Health And Rehabilitation Center,Pensacola,Escambia,florida,30.48969,-87.3045255,ROOFTOP,True
+Spring Hill Health And Rehabilitation Center,Brooksville,Hernando,florida,28.532927,-82.52496,ROOFTOP,True
+Spring Lake Rehabilitation Center,Winter Haven,Polk,florida,28.0374257,-81.7323578,ROOFTOP,True
+Springs At Boca Ciega Bay,South Pasadena,Pinellas,florida,27.7574633,-82.7395969,ROOFTOP,True
+Springs At Lake Pointe Woods,Sarasota,Sarasota,florida,27.239587,-82.49880399999999,ROOFTOP,True
+Springtree Rehabilitation & Health Care Center,Sunrise,Broward,florida,26.1708193,-80.28061269999999,ROOFTOP,True
+St Andrews Bay Skilled Nursing And Rehabilitation Center,Panama City,Bay,florida,30.1859249,-85.6613022,ROOFTOP,True
+"St Annes Nursing Center, St Annes Residence Inc",Miami,Miami-Dade,florida,25.5895568,-80.3840606,ROOFTOP,True
+St Augustine Health And Rehabilitation Center,Saint Augustine,St. Johns,florida,29.8734415,-81.3309029,ROOFTOP,True
+St James Health And Rehabilitation Center,Carrabelle,Franklin,florida,29.9040014,-84.5675673,ROOFTOP,True
+St Petersburg Nursing & Rehabilitation,St Petersburg,Pinellas,florida,27.7676008,-82.64029149999999,APPROXIMATE,True
+St. Amaro Post-Acute And Rehabilitation Center,Wauchula,Hardee,florida,27.5344559,-81.8141953,ROOFTOP,True
+St. Andrew Post-Acute And Rehabilitation Center,Tampa,Hillsborough,florida,28.109484,-82.503829,ROOFTOP,True
+St. Camillus Post-Acute And Rehabilitation Center,Sebring,Highlands,florida,27.4850997,-81.436697,ROOFTOP,True
+St. John'S Nursing Center,Lauderdale Lakes,Broward,florida,26.164589,-80.1931742,ROOFTOP,True
+"St. Mark Village, Inc.",Palm Harbor,Pinellas,florida,28.0796409,-82.7362484,ROOFTOP,True
+Stuart Rehabilitation And Healthcare,Stuart,Martin,florida,27.1857133,-80.2371726,ROOFTOP,True
+Sun Terrace Health Care Center,Sun City Center,Hillsborough,florida,27.7101662,-82.3557201,ROOFTOP,True
+Sunnyside Nursing Home,Sarasota,Sarasota,florida,27.3342994,-82.5250037,ROOFTOP,True
+Sunrise Health And Rehabilitation Center,Sunrise,Broward,florida,26.1850159,-80.2832418,ROOFTOP,True
+Sunrise Point Health And Rehabilitation Center,Rockledge,Brevard,florida,28.3256659,-80.735503,ROOFTOP,True
+Sunset Lake Healthcare And Rehabilitation Center,Venice,Sarasota,florida,27.336465,-82.5310117,APPROXIMATE,True
+Surrey Place Healthcare And Rehabilitation,Bradenton,Manatee,florida,27.4801385,-82.6175272,ROOFTOP,True
+Surrey Place Nursing Center,Live Oak,Suwannee,florida,30.290603,-82.971939,ROOFTOP,True
+Susanna Wesley Health Center,Hialeah,Miami-Dade,florida,25.8702699,-80.31864329999999,ROOFTOP,True
+Suwannee Valley Nursing Center,Jasper,Hamilton,florida,30.5218588,-82.9597161,ROOFTOP,True
+Tallahassee Living Center,Tallahassee,Leon,florida,30.458658,-84.24194,ROOFTOP,True
+Tampa Lakes Health And Rehabilitation Center,Lutz,Hillsborough,florida,28.0990007,-82.4544373,ROOFTOP,True
+Tarpon Bayou Center,Tarpon Springs,Pinellas,florida,28.1517573,-82.767864,ROOFTOP,True
+Taylor Care Center,Jacksonville,Duval,florida,30.257796,-81.621074,ROOFTOP,True
+Terrace At Bishop'S Glen,Holly Hill,Volusia,florida,29.2430183,-81.0574731,GEOMETRIC_CENTER,True
+Terrace Healthcare & Rehabilitation Center,Gainesville,Alachua,florida,29.6293977,-82.4192772,ROOFTOP,True
+Terrace Of Delray Beach Nursing And Rehabilitation Center The,Delray Beach,Palm Beach,florida,26.4384789,-80.1294861,ROOFTOP,True
+Terrace Of Hialeah,Hialeah,Miami-Dade,florida,25.8468202,-80.2856765,ROOFTOP,True
+Terrace Of Jacksonville,Jacksonville,Duval,florida,30.181845,-81.608443,ROOFTOP,True
+Terrace Of Kissimmee,Kissimmee,Osceola,florida,28.314178,-81.4075086,ROOFTOP,True
+Terraces Of Lake Worth Care Center,Lake Worth,Palm Beach,florida,26.608389,-80.0657368,ROOFTOP,True
+The Bristol Care Center,Tampa,Hillsborough,florida,28.0695678,-82.4395266,ROOFTOP,True
+The Cedar At Mease Life,Dunedin,Pinellas,florida,28.014905,-82.78079140000001,ROOFTOP,True
+The Club At Lake Gibson,Lakeland,Polk,florida,28.1075308,-81.961664,APPROXIMATE,True
+The Edgewater At Waterman Village,Mount Dora,Lake,florida,28.8225154,-81.6468658,ROOFTOP,True
+The Floridean Nursing And Rehabilitation Center,Miami,Miami-Dade,florida,25.772528,-80.24840499999999,ROOFTOP,True
+The Lodge Health And Rehabilitation Center,Ocala,Marion,florida,29.1727091,-82.1303763,ROOFTOP,True
+The Palms Nursing And Rehab At Lake City,Lake City,Columbia,florida,30.1896756,-82.6392899,APPROXIMATE,True
+The Palms Nursing And Rehab At Orlando,Orlando,Orange,florida,28.5215851,-81.3801606,ROOFTOP,True
+The Palms Nursing And Rehab At Winter Haven,Winter Haven,Polk,florida,28.0222435,-81.7328567,APPROXIMATE,True
+The Pavilion At Crescent Lake,Crescent City,Putnam,florida,29.4952644,-81.5579405,GEOMETRIC_CENTER,True
+The Preserve,Fort Myers,Lee,florida,26.5306491,-81.84839629999999,ROOFTOP,True
+The Terrace At Courtenay Springs,Merritt Island,Brevard,florida,28.3383488,-80.6888053,ROOFTOP,True
+Tierra Pines Center,Largo,Pinellas,florida,27.8929319,-82.739948,ROOFTOP,True
+Tiffany Hall Nursing And Rehab Center,Port Saint Lucie,St. Lucie,florida,27.2829462,-80.2938399,ROOFTOP,True
+Timberridge Nursing & Rehabilitation Center,Ocala,Marion,florida,29.0612508,-82.2814971,ROOFTOP,True
+Titusville Rehabilitation And Nursing Center,Titusville,Brevard,florida,28.6122187,-80.8075537,APPROXIMATE,True
+Tri-County Nursing Home,Trenton,Gilchrist,florida,29.6065101,-82.9247017,ROOFTOP,True
+Trinity Regional Rehab Center,Trinity,Pasco,florida,28.1904675,-82.6811341,ROOFTOP,True
+Tuskawilla Nursing And Rehab Center,Winter Springs,Seminole,florida,28.6446377,-81.27314319999999,ROOFTOP,True
+University Crossing,Jacksonville,Duval,florida,30.2907648,-81.5986952,ROOFTOP,True
+University Hills Health And Rehabilitation,Pensacola,Escambia,florida,30.54044,-87.21687,ROOFTOP,True
+Venice Health And Rehabilitation Center,Venice,Sarasota,florida,27.1065115,-82.4180045,ROOFTOP,True
+Vero Beach Care Center,Vero Beach,Indian River,florida,27.6610545,-80.3986565,ROOFTOP,True
+Vi At Aventura,Aventura,Miami-Dade,florida,25.9546261,-80.1379189,ROOFTOP,True
+Vi At Lakeside Village,Lantana,Palm Beach,florida,26.5814302,-80.0849095,ROOFTOP,True
+Vicar'S Landing Nursing Home,Ponte Vedra Beach,St. Johns,florida,30.2038515,-81.38728239999999,ROOFTOP,True
+Viera Del Mar Health And Rehabilitation Center,Viera,Brevard,florida,28.225579,-80.7303574,ROOFTOP,True
+Viera Healthcare And Rehabilitation Center,Melbourne,Brevard,florida,28.238965,-80.708241,ROOFTOP,True
+Villa Healthcare & Rehabilitation Center,Deland,Volusia,florida,29.028318,-81.3031179,APPROXIMATE,True
+Villa Maria Nursing Center,North Miami,Miami-Dade,florida,25.8899154,-80.1776886,ROOFTOP,True
+Villa Maria West Skilled Nursing Facility,Hialeah Gardens,Miami-Dade,florida,25.8837561,-80.3429608,ROOFTOP,True
+Village On The Green,Longwood,Seminole,florida,28.6925948,-81.4065093,ROOFTOP,True
+Village On The Isle,Venice,Sarasota,florida,27.0835632,-82.4380252,ROOFTOP,True
+Villages Rehabilitation And Nursing Center,Lady Lake,Lake,florida,28.9137,-81.9418623,ROOFTOP,True
+Vivo Healthcare Normandy,Jacksonville,Duval,florida,30.2905477,-81.79091269999999,ROOFTOP,True
+W Frank Wells Nursing Home,Macclenny,Baker,florida,30.2865608,-82.1182183,ROOFTOP,True
+Washington Rehabilitation And Nursing Center,Chipley,Washington,florida,30.7668083,-85.5438178,ROOFTOP,True
+Water'S Edge Health And Rehabilitation,Palm City,Martin,florida,27.1878181,-80.2746286,ROOFTOP,True
+Waterford,Juno Beach,Palm Beach,florida,26.85753,-80.05873,ROOFTOP,True
+Wedgewood Healthcare Center,Lakeland,Polk,florida,28.100277,-81.97100999999999,ROOFTOP,True
+West Altamonte Nursing & Rehabilitation Center,Altamonte Springs,Seminole,florida,28.6590751,-81.4262322,ROOFTOP,True
+West Broward Rehabilitation And Healthcare,Plantation,Broward,florida,26.1212095,-80.2510046,ROOFTOP,True
+West Gables Health Care Center,Miami,Miami-Dade,florida,25.7469755,-80.3166972,ROOFTOP,True
+West Melbourne Health & Rehabilitation Center,West Melbourne,Brevard,florida,28.0775991,-80.6566777,ROOFTOP,True
+West Orange Center For Nursing And Healing,Ocoee,Orange,florida,28.5491013,-81.5405823,ROOFTOP,True
+Westchester Gardens Health & Rehabilitation,Clearwater,Pinellas,florida,28.0415306,-82.70707469999999,ROOFTOP,True
+Westminster Baldwin Park,Orlando,Orange,florida,28.5783405,-81.32061759999999,ROOFTOP,True
+Westminster Oaks,Tallahassee,Leon,florida,30.47829969999999,-84.20476409999999,ROOFTOP,True
+Westminster Palms,Saint Petersburg,Pinellas,florida,27.7818249,-82.6280906,ROOFTOP,True
+Westminster Point Pleasant,Bradenton,Manatee,florida,27.4968462,-82.5772868,ROOFTOP,True
+Westminster St. Augustine,Saint Augustine,St. Johns,florida,29.9866893,-81.4795106,ROOFTOP,True
+Westminster Suncoast,Saint Petersburg,Pinellas,florida,27.7069206,-82.64813989999999,ROOFTOP,True
+Westminster Towers,Orlando,Orange,florida,28.5333885,-81.3792941,ROOFTOP,True
+Westminster Winter Park,Winter Park,Orange,florida,28.5832188,-81.3292835,ROOFTOP,True
+Westminster Woods On Julington Creek,Jacksonville,St. Johns,florida,30.1262612,-81.62387939999999,ROOFTOP,True
+Westwood Nursing And Rehabilitation Center,Fort Walton Beach,Okaloosa,florida,30.4565334,-86.63057700000002,ROOFTOP,True
+Williston Care Center,Williston,Levy,florida,29.388338,-82.45126340000002,ROOFTOP,True
+Willowbrooke Court At Azalea Trace,Pensacola,Escambia,florida,30.5397222,-87.2082228,ROOFTOP,True
+Willowbrooke Court At St Andrews Estates,Boca Raton,Palm Beach,florida,26.3616651,-80.14076039999999,ROOFTOP,True
+Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Boca Raton,Palm Beach,florida,26.329794,-80.1517719,ROOFTOP,True
+Windsor Health And Rehabilitation Center,Starke,Bradford,florida,29.9393639,-82.10700399999999,ROOFTOP,True
+Windsor Woods Rehab And Healthcare Center,Hudson,Pasco,florida,28.3576011,-82.69189449999999,ROOFTOP,True
+Winkler Court,Fort Myers,Lee,florida,26.6039125,-81.8455893,ROOFTOP,True
+Winter Haven Fl Opco Llc,Winter Haven,Polk,florida,28.0222435,-81.7328567,APPROXIMATE,True
+Winter Park Care And Rehabilitation,Winter Park,Orange,florida,28.5964766,-81.30902239999999,ROOFTOP,True
+Wood Lake Health And Rehabilitation Center,Greenacres,Palm Beach,florida,26.6570698,-80.1436095,ROOFTOP,True
+Woodland Grove Healthcare & Rehabilitation Center,Jacksonville,Duval,florida,30.2541063,-81.5872823,ROOFTOP,True

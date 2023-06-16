@@ -1,0 +1,685 @@
+nursing_home_label,city,county,state
+Athens Post Acute,Deland,Volusia,florida
+Boca Ciega Center,Gulfport,Pinellas,florida
+Braden River Rehabilitation Center Llc,Bradenton,Manatee,florida
+Encore At Boca Raton Rehabilitation And Nursing Center,Boca Raton,Palm Beach,florida
+Evergreen Woods,Spring Hill,Hernando,florida
+Gandy Fl Opco,Tampa,Hillsborough,florida
+Gardens Care Center,Miami,Miami-Dade,florida
+Gulf Shore Care Center,Pinellas Park,Pinellas,florida
+Hillcrest Health Care And Rehabilitation Center,Hollywood,Broward,florida
+Lake Port Square Health Center,Leesburg,Lake,florida
+Living Center Of St. Petersburg,Seminole,Pinellas,florida
+Martin Nursing And Rehabilitation,Stuart,Martin,florida
+Miami Springs Nursing And Rehabilitation Center,Miami Springs,Miami-Dade,florida
+North Healthcare And Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Page Rehabilitation And Healthcare Center,Fort Myers,Lee,florida
+Palms Nursing And Rehab At Port St. Lucie,Port Saint Lucie,St. Lucie,florida
+Pompano Health And Rehabilitation Center,Pompano Beach,Broward,florida
+Promedica Skilled Nursing And Rehabilitation (Lely Palms),Naples,Collier,florida
+Raydiant Health Care Of Jacksonville,Jacksonville,Duval,florida
+Sea Breeze Rehab And Nursing Center,Vero Beach,Indian River,florida
+Unity Healthcare And Rehabilitation Center,Miami,Miami-Dade,florida
+Ventura Health And Rehabilitation Center,Boynton Beach,Palm Beach,florida
+Whispering Oaks,Tampa,Hillsborough,florida
+Wilton Manors Healthcare & Rehabilitation Center,Wilton Manors,Broward,florida
+Winter Haven Health And Rehabilitation Center,Winter Haven,Polk,florida
+Woodbridge Care Center,Tampa,Hillsborough,florida
+Brookwood Gardens Rehabilitation And Nursing Center,Homestead,Miami-Dade,florida
+Coral Reef Subacute Care Center Llc,Miami,Miami-Dade,florida
+Destination Health And Rehabilitation Center,Destin,Okaloosa,florida
+Finnish-American Village,Lake Worth,Palm Beach,florida
+Fort Pierce Health Care,Fort Pierce,St. Lucie,florida
+Lakeside Health Center,West Palm Beach,Palm Beach,florida
+Luxe At Jupiter Rehabilitation Center (The),Jupiter,Palm Beach,florida
+Luxe At Wellington Rehabilitation Center (The),Wellington,Palm Beach,florida
+Naples Health And Rehabilitation Center,Naples,Collier,florida
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Fort Myers,Lee,florida
+Promedica Skilled Nursing And Rehabilitation (Naples),Naples,Collier,florida
+Sandgate Gardens Rehab And Nursing Center,Fort Pierce,St. Lucie,florida
+Seabranch Health And Rehabilitation Center,Stuart,Martin,florida
+Seaview Nursing And Rehabilitation Center,Pompano Beach,Broward,florida
+Shoreside Health And Rehabilitation Center,Miami,Miami-Dade,florida
+Solaris Healthcare Charlotte Harbor,Port Charlotte,Charlotte,florida
+Solaris Healthcare Parkway,Stuart,Martin,florida
+Treasure Isle Care Center,North Bay Village,Miami-Dade,florida
+Willowbrooke Court At Indian River Estates,Vero Beach,Indian River,florida
+Abbey Delray,Delray Beach,Palm Beach,florida
+Adventhealth Care Center Apopka South,Apopka,Seminole,florida
+Apopka Health And Rehabilitation Center,Apopka,Orange,florida
+Balanced Healthcare,Saint Petersburg,Pinellas,florida
+Bardmoor Oaks Healthcare And Rehabilitation Center,Largo,Pinellas,florida
+Boynton Beach Rehabilitation Center,Boynton Beach,Palm Beach,florida
+Brandon Health And Rehabilitation Center,Brandon,Hillsborough,florida
+Clearwater Center,Clearwater,Pinellas,florida
+Dade City Health And Rehabilitation Center,Dade City,Pasco,florida
+Deerfield Beach Health And Rehabilitation Center,Pompano Beach,Broward,florida
+East Bay Rehabilitation Center,Clearwater,Pinellas,florida
+Egret Cove Center,Saint Petersburg,Pinellas,florida
+Fletcher Health And Rehabilitation Center,Tampa,Hillsborough,florida
+Greenbriar Healthcare Rehabilitation And Nursing Center,Bradenton,Manatee,florida
+Hamlin Place Of Boynton Beach,Lantana,Palm Beach,florida
+Harbor Beach Nursing And Rehabilitation Center,Ft Lauderdale,Broward,florida
+Hawthorne Center For Rehabilitation And Healing Of Brandon,Brandon,Hillsborough,florida
+Heather Hill Healthcare Center,New Port Richey,Pasco,florida
+Heritage Healthcare And Rehabilitation Center,Naples,Collier,florida
+Highlands Lake Center,Lakeland,Polk,florida
+Jupiter Rehabilitation And Healthcare Center,Jupiter,Palm Beach,florida
+Kissimmee Health And Rehabilitation Center,Kissimmee,Osceola,florida
+Lakeside Oaks Care Center,Dunedin,Pinellas,florida
+Legacy At Boca Raton Rehabilitation And Nursing Center (The),Boca Raton,Palm Beach,florida
+Life Care Center At Inverrary,Lauderhill,Broward,florida
+Life Care Center Of Altamonte Springs,Altamonte Springs,Seminole,florida
+Life Care Center Of Sarasota,Sarasota,Manatee,florida
+Nspire Healthcare Plantation,Plantation,Broward,florida
+Oaks Of Clearwater,Clearwater,Pinellas,florida
+Oldsmar Health And Rehabilitation Center,Oldsmar,Pinellas,florida
+Palm Garden Of Tampa,Tampa,Hillsborough,florida
+Palms Of Sebring,Sebring,Highlands,florida
+Promedica Skilled Nursing And Rehabilitation (Boca Raton South),Boca Raton,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Dunedin),Dunedin,Pinellas,florida
+Rehabilitation And Healthcare Center Of Tampa,Tampa,Hillsborough,florida
+Renaissance Health And Rehabilitation,West Palm Beach,Palm Beach,florida
+Ridge Haven Health And Rehabilitation Center,New Port Richey,Pasco,florida
+Rio Pinar Health Care,Orlando,Orange,florida
+Riviera Palms Rehabilitation Center,Palmetto,Manatee,florida
+Royal Oaks Nursing And Rehab Center,Titusville,Brevard,florida
+Scott Lake Health And Rehabilitation,Lakeland,Polk,florida
+Solaris Healthcare Bayonet Point,Hudson,Pasco,florida
+Stratford Court Of Boca Raton,Boca Raton,Palm Beach,florida
+"Tamarac Rehabilitation And Health Center, Inc.",Tamarac,Broward,florida
+Terrace Of St Cloud,Saint Cloud,Osceola,florida
+The Gardens At Depugh Nursing,Winter Park,Orange,florida
+Valencia Hills Health And Rehabilitation Center,Lakeland,Polk,florida
+Vista Manor,Titusville,Brevard,florida
+Westminster Manor Of Bradenton,Bradenton,Manatee,florida
+Winter Garden Rehabilitation And Nursing Center,Winter Garden,Orange,florida
+Wright'S Healthcare & Rehabilitation Center,Seminole,Pinellas,florida
+Ybor City Center For Rehabilitation And Healing,Tampa,Hillsborough,florida
+Blue Lake Post Acute,Deland,Volusia,florida
+Clyde E Lassen State Veterans Nursing Home,Saint Augustine,St. Johns,florida
+Fountains Rehabilitation At Mill Cove,Jacksonville,Duval,florida
+Grand Oaks Health And Rehabilitation Center,Palm Coast,Flagler,florida
+Hampton Court Nursing And Rehabilitation Center,North Miami Beach,Miami-Dade,florida
+Harts Harbor Health Care Center,Jacksonville,Duval,florida
+North Bank Center For Rehabilitation And Healing,Jacksonville,Duval,florida
+Nspire Healthcare Miami Lakes,Hialeah,Miami-Dade,florida
+Oak Haven Rehab And Nursing Center,Auburndale,Polk,florida
+Oaktree Healthcare,South Daytona,Volusia,florida
+Regents Park Of Jacksonville,Jacksonville,Duval,florida
+Riviera Health Resort,Coral Gables,Miami-Dade,florida
+San Jose Health And Rehabilitation Center,Jacksonville,Duval,florida
+Sands At South Beach Care Center,Miami Beach,Miami-Dade,florida
+University Health And Rehabilitation Center,Miami,Miami-Dade,florida
+"Victoria Nursing & Rehabilitation Center, Inc.",Miami,Miami-Dade,florida
+Vivo Healthcare Orange Park,Orange Park,Clay,florida
+Vivo Healthcare University,Jacksonville,Duval,florida
+Abbey Delray South,Delray Beach,Palm Beach,florida
+Abbey Rehabilitation And Nursing Center,Saint Petersburg,Pinellas,florida
+Advanced Care Center And Rehab,Clearwater,Pinellas,florida
+Adventhealth Care Center Apopka North,Apopka,Orange,florida
+Adventhealth Care Center Celebration,Kissimmee,Osceola,florida
+Adventhealth Care Center Orlando East,Orlando,Orange,florida
+Adventhealth Care Center Orlando North,Orlando,Orange,florida
+Adventhealth Care Center Waterman,Tavares,Lake,florida
+Adventhealth Care Center Zephyrhills North,Zephyrhills,Pasco,florida
+Adventhealth Care Center Zephyrhills South,Zephyrhills,Pasco,florida
+Advinia Care At Venice,Venice,Sarasota,florida
+Adviniacare At Naples,Naples,Collier,florida
+Aidan Post-Acute And Rehabilitation Center,Fort Pierce,St. Lucie,florida
+"Alexander ""Sandy"" Nininger State Veterans Nursing Home",Pembroke Pines,Broward,florida
+Alhambra Healthcare & Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Alliance Health And Rehabilitation Center,Deland,Volusia,florida
+Alpine Health And Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Ambassador Healthcare At College Park,Fort Myers,Lee,florida
+Anchor Care & Rehabilitation Center,Palm Bay,Brevard,florida
+Apollo Healthcare & Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Arbor Springs Health And Rehabilitation Center,Ocala,Marion,florida
+Arbor Trail Rehab And Skilled Nursing Center,Inverness,Citrus,florida
+Arcadia Health And Rehabilitation Center,Pensacola,Escambia,florida
+Ascension Living St. Catherine Laboure' Place,Jacksonville,Duval,florida
+Astoria Health And Rehabilitation Center,Winter Haven,Polk,florida
+Atlantic Shores Nursing And Rehab Center,Melbourne,Brevard,florida
+"Avante At Boca Raton, Inc.",Boca Raton,Palm Beach,florida
+Avante At Inverness Inc,Inverness,Citrus,florida
+"Avante At Lake Worth, Inc.",Lake Worth,Palm Beach,florida
+"Avante At Leesburg, Inc",Leesburg,Lake,florida
+Avante At Melbourne Inc,Melbourne,Brevard,florida
+"Avante At Mt Dora, Inc.",Mount Dora,Lake,florida
+"Avante At Ocala, Inc",Ocala,Marion,florida
+"Avante At Ormond Beach, Inc",Ormond Beach,Volusia,florida
+"Avante At St. Cloud, Inc.",Saint Cloud,Osceola,florida
+Avante Villa At Jacksonville Beach Inc,Jacksonville Beach,Duval,florida
+Aventura At The Bay,Saint Petersburg,Pinellas,florida
+Aventura Rehab And Nursing Center,North Miami Beach,Miami-Dade,florida
+Ayers Health And Rehabilitation Center,Trenton,Gilchrist,florida
+Azure Shores Rehab,Miami,Miami-Dade,florida
+Baldomero Lopez Memorial Veterans Nursing Home,Land O Lakes,Pasco,florida
+Bartow Center,Bartow,Polk,florida
+Bartram Crossing,Jacksonville,Duval,florida
+Bay Breeze Health And Rehabilitation Center,Venice,Sarasota,florida
+Bay Breeze Senior Living And Rehabilitation Center,Gulf Breeze,Santa Rosa,florida
+Bay Pointe Nursing Pavilion,Saint Petersburg,Pinellas,florida
+Bay Village Of Sarasota,Sarasota,Sarasota,florida
+Bay Vue Nursing And Rehabilitation Center,Bradenton,Manatee,florida
+Baya Pointe Nursing And Rehabilitation Center,Lake City,Columbia,florida
+Bayshore Pointe Nursing And Rehab Center,Tampa,Hillsborough,florida
+Bayside Care Center,Saint Petersburg,Pinellas,florida
+Bayside Health And Rehabilitation Center,Pensacola,Escambia,florida
+Bayview Center,Eustis,Lake,florida
+Beach Breeze Rehab And Care Center,West Palm Beach,Palm Beach,florida
+Beach Street Health And Rehabilitation Center,Daytona Beach,Volusia,florida
+Beachside Center For Rehabilitation And Nursing,New Smyrna Beach,Volusia,florida
+Bear Creek Nursing Center,Hudson,Pasco,florida
+Bedrock Rehabilitation And Nursing Center At Lake City,Lake City,Columbia,florida
+Bedrock Rehabilitation And Nursing Center At Lake Eustis,Eustis,Lake,florida
+Bedrock Rehabilitation And Nursing Center At Melbourne,Melbourne,Brevard,florida
+Bedrock Rehabilitation And Nursing Center At Suwannee,Live Oak,Suwannee,florida
+Bedrock Rehabilitation And Nursing Center At Winter Park,Maitland,Orange,florida
+Belleair Health Care Center,Clearwater,Pinellas,florida
+Benderson Family Skilled Nursing And Rehabilitation Center,Sarasota,Sarasota,florida
+Beneva Lakes Healthcare And Rehabilitation Center,Sarasota,Sarasota,florida
+Bentley Care Center,Naples,Collier,florida
+Biscayne Health And Rehabilitation Center,North Miami,Miami-Dade,florida
+Blountstown Health And Rehabilitation Center,Blountstown,Calhoun,florida
+Boca Raton Rehabilitation Center,Boca Raton,Palm Beach,florida
+Bonifay Nursing And Rehab Center,Bonifay,Holmes,florida
+Boulevard Rehabilitation Center,Boynton Beach,Palm Beach,florida
+Bradenton Health Care,Bradenton,Manatee,florida
+Brandon Center For Nursing & Rehabilitation,Brandon,Hillsborough,florida
+Breeze Care Center,Sarasota,Sarasota,florida
+Breezy Hills Rehab And Care Center,Lakeland,Polk,florida
+Bridgeview Center,Ormond Beach,Volusia,florida
+Bridgewalk On Harden Health And Rehabilitation,Lakeland,Polk,florida
+Bridgewater Park Health & Rehabilitation Center,Ocala,Marion,florida
+Brookdale Palmer Ranch Snf,Sarasota,Sarasota,florida
+Brooksville Healthcare Center,Brooksville,Hernando,florida
+Broward Nursing & Rehabilitation Center,Fort Lauderdale,Broward,florida
+Brynwood Health And Rehabilitation Center,Monticello,Jefferson,florida
+Buffalo Crossings Healthcare & Rehabilitation Center,The Villages,Sumter,florida
+Canterbury Towers Inc,Tampa,Hillsborough,florida
+Carlton Shores Healthcare And Rehabilitation Center,Daytona Beach,Volusia,florida
+Carrington Place Of St Pete,Saint Petersburg,Pinellas,florida
+Carrollwood Care Center,Tampa,Hillsborough,florida
+Casa Mora Rehabilitation And Extended Care,Bradenton,Manatee,florida
+Central Park Healthcare And Rehabilitation Center,Brandon,Hillsborough,florida
+Centre Pointe Health And Rehab Center,Tallahassee,Leon,florida
+Century Center For Rehabilitation And Healing,Century,Escambia,florida
+Charlotte Bay Rehab And Care Center,Port Charlotte,Charlotte,florida
+Charming Lakes Rehab,Lakeland,Polk,florida
+Chateau At Moorings Park,Naples,Collier,florida
+Chatham Glen Healthcare And Rehabilitation Center,The Villages,Marion,florida
+Chatsworth At Pga National,Palm Beach Gardens,Palm Beach,florida
+Chautauqua Springs Health Center,Defuniak Springs,Walton,florida
+"Children'S Comprehensive Care Center, Inc.",Pompano Beach,Broward,florida
+Chipola Health And Rehabilitation Center,Marianna,Jackson,florida
+Citrus Health And Rehabilitation Center,Inverness,Citrus,florida
+Claridge House Nursing And Rehabilitation Center,North Miami,Miami-Dade,florida
+Clermont Health And Rehabilitation Center,Clermont,Lake,florida
+Clewiston Nursing & Rehabilitation,Clewiston,Hendry,florida
+Clifford Chester Sims State Veterans Nursing Home,Panama City,Bay,florida
+Club Healthcare And Rehabilitation Center At The Villages (The),The Villages,Marion,florida
+Coastal Health And Rehabilitation Center,Daytona Beach,Volusia,florida
+Colonial Lakes Health Care,Winter Garden,Orange,florida
+Colonial Skilled Nursing Facility,West Palm Beach,Palm Beach,florida
+Commons At Orlando Lutheran Towers,Orlando,Orange,florida
+Community Convalescent Center,Plant City,Hillsborough,florida
+Community Health And Rehabilitation Center,Panama City,Bay,florida
+Concordia Manor,Saint Petersburg,Pinellas,florida
+Concordia Village Of Tampa,Tampa,Hillsborough,florida
+Conway Lakes Health & Rehabilitation Center,Orlando,Orange,florida
+Coquina Center,Ormond Beach,Volusia,florida
+Coral Bay At Pensacola,Pensacola,Escambia,florida
+Coral Bay Healthcare And Rehabilitation,West Palm Beach,Palm Beach,florida
+Coral Gables Nursing And Rehabilitation Center,Miami,Miami-Dade,florida
+Coral Trace Health Care,Cape Coral,Lee,florida
+Countryside Rehab And Healthcare Center,Palm Harbor,Pinellas,florida
+Courtyards Of Orlando Care Center,Orlando,Orange,florida
+Covenant Village Care Center,Plantation,Broward,florida
+Crestview Rehabilitation Center,Crestview,Okaloosa,florida
+Cross City Nursing And Rehabilitation Center,Cross City,Dixie,florida
+Crossings Care Center,Lake Worth,Palm Beach,florida
+Crystal Health And Rehab Center,Tavernier,Monroe,florida
+Crystal River Health And Rehabilitation Center,Crystal River,Citrus,florida
+Cypress Care Center And Rehab,Wildwood,Sumter,florida
+Cypress Cove Care Center,Crystal River,Citrus,florida
+Cypress Village,Jacksonville,Duval,florida
+Dania Pointe Care Center,Dania Beach,Broward,florida
+Darcy Hall Of Life Care,West Palm Beach,Palm Beach,florida
+Davenport Care Center,Davenport,Polk,florida
+Daytona Beach Health And Rehabilitation Center,Daytona Beach,Volusia,florida
+De Luna Health And Rehabilitation Center,Pensacola,Escambia,florida
+Debary Health And Rehabilitation Center,Debary,Volusia,florida
+Delaney Park Health And Rehabilitation Center,Orlando,Orange,florida
+Deltona Health Care,Deltona,Volusia,florida
+Desoto Health And Rehab,Arcadia,De Soto,florida
+Diamond Ridge Health And Rehabilitation Center,Lecanto,Citrus,florida
+Dolphin Pointe Health Care Center,Jacksonville,Duval,florida
+Douglas Jacobson State Veterans Nursing Home,Port Charlotte,Charlotte,florida
+Dunedin Care Center,Dunedin,Pinellas,florida
+Eagle Lake Nursing And Rehab Care Center,St Petersburg,Pinellas,florida
+East Ridge Retirement Village Inc,Cutler Bay,Miami-Dade,florida
+Eden Springs Nursing And Rehab Center,Crawfordville,Wakulla,florida
+Edward J Healey Rehabilitation And Nursing Center,Riviera Beach,Palm Beach,florida
+Elevate Care Lake Worth,Lake Worth,Palm Beach,florida
+Emerald Coast Center,Fort Walton Beach,Okaloosa,florida
+Emerald Shores Health And Rehabilitation,Callaway,Bay,florida
+Emory L Bennett Memorial Veterans Nursing Home,Daytona Beach,Volusia,florida
+Englewood Healthcare And Rehabilitation Center,Englewood,Charlotte,florida
+Evans Health Care,Fort Myers,Lee,florida
+Excel Care Center,Tampa,Hillsborough,florida
+Fairway Oaks Center,Tampa,Hillsborough,florida
+Fernandina Beach Rehabilitation And Nursing Center,Fernandina Beach,Nassau,florida
+First Coast Health And Rehabilitation Center,Jacksonville,Duval,florida
+Flagler Health And Rehabilitation Center,Bunnell,Flagler,florida
+Fleet Landing,Atlantic Beach,Duval,florida
+Florida Presbyterian Homes Inc,Lakeland,Polk,florida
+Fort Myers Rehabilitation And Nursing Center,Fort Myers,Lee,florida
+Fort Walton Rehabilitation Center,Fort Walton Beach,Okaloosa,florida
+Fountain Manor Health & Rehabilitation Center,North Miami,Miami-Dade,florida
+Fouraker Hills Rehab And Nursing Center,Jacksonville,Duval,florida
+Freedom Pointe Health Center,The Villages,Lake,florida
+Freedom Square Health Care Center,Seminole,Pinellas,florida
+Ft Lauderdale Health And Rehabilitation Center,Fort Lauderdale,Broward,florida
+Gainesville Health & Rehabilitation,Gainesville,Alachua,florida
+Garden View Health And Rehabilitation Center,Vero Beach,Indian River,florida
+Gardens At Terracina Health & Rehabilitation,Naples,Collier,florida
+Gardens Court,Palm Beach Gardens,Palm Beach,florida
+Gardens Healthcare & Rehabilitation Center,Daytona Beach,Volusia,florida
+Gateway Fl Opco,Pinellas Park,Pinellas,florida
+Glades Health Care Center,Pahokee,Palm Beach,florida
+Glades West Rehabilitation And Nursing Center,Miramar,Broward,florida
+Glenridge On Palmer Ranch Inc.,Sarasota,Sarasota,florida
+Golfcrest Nursing Center,Hollywood,Broward,florida
+Golfview Nursing Center,Saint Petersburg,Pinellas,florida
+Good Samaritan Center,Live Oak,Suwannee,florida
+Good Samaritan Society-Daytona,Daytona Beach,Volusia,florida
+Good Samaritan Society-Florida Lutheran,Deland,Volusia,florida
+Good Samaritan Society-Kissimmee Village,Kissimmee,Osceola,florida
+Graceville Health Center,Graceville,Jackson,florida
+Grand Boulevard Health And Rehabilitation Center,Miramar Beach,Walton,florida
+Green Cove Springs Rehabilitation And Care Center,Green Cove Springs,Clay,florida
+Greenville Care Center,Greenville,Madison,florida
+Grove Healthcare And Rehabilitation Center And Rehab,Hernando,Citrus,florida
+Groves Center,Lake Wales,Polk,florida
+Guardian Care Nursing & Rehabilitation Center,Orlando,Orange,florida
+Gulf Coast Village,Cape Coral,Lee,florida
+Gulf Shores Care Center,Port Saint Joe,Gulf,florida
+Gulfport Nursing Center,St Petersburg,Pinellas,florida
+Gulfside Health And Rehabilitation Center,Clearwater,Pinellas,florida
+Habana Health Care Center,Tampa,Hillsborough,florida
+Haines City Rehabilitation And Nursing Center,Haines City,Polk,florida
+Harbour Health Center,Port Charlotte,Charlotte,florida
+Harbour'S Edge,Delray Beach,Palm Beach,florida
+Harbourwood Fl Opco,Clearwater,Pinellas,florida
+Harmony Health Center,Miami,Miami-Dade,florida
+Haven Of Our Lady Of Peace,Pensacola,Escambia,florida
+Hawthorne Center For Rehabilitation And Healing Of Ocala,Ocala,Marion,florida
+Hawthorne Center For Rehabilitation And Healing Of Sarasota,Sarasota,Sarasota,florida
+Health And Rehabilitation Centre At Dolphins View,South Pasadena,Pinellas,florida
+Health Center At Brentwood,Lecanto,Citrus,florida
+Health Center At Sinai Residences,Boca Raton,Palm Beach,florida
+Health Central Park,Winter Garden,Orange,florida
+Healthcare And Rehab Of Sanford,Sanford,Seminole,florida
+Healthcare Center Of Waterford,Hialeah Gardens,Miami-Dade,florida
+Healthpark Care Center,Fort Myers,Lee,florida
+Heritage Healthcare Center At Tallahassee,Tallahassee,Leon,florida
+Heritage Park Nursing Center,Bradenton,Manatee,florida
+Heron Pointe Health And Rehabilitation,Brooksville,Hernando,florida
+Hialeah Shores Nursing And Rehab Center,Miami,Miami-Dade,florida
+Hidden Lakes Senior Living Community,Vero Beach,Indian River,florida
+Highland Pines Rehabilitation Center,Clearwater,Pinellas,florida
+Home Association,Tampa,Hillsborough,florida
+Homestead Manor A Palace Community,Homestead,Miami-Dade,florida
+Hunters Creek Nursing And Rehab Center,Orlando,Orange,florida
+Indian River Center,West Melbourne,Brevard,florida
+Indigo Manor,Daytona Beach,Volusia,florida
+Inn At Freedom Village,Bradenton,Manatee,florida
+Inn At Sarasota Bay Club,Sarasota,Sarasota,florida
+Island Health And Rehabilitation Center,Merritt Is,Brevard,florida
+Island Lake Center,Longwood,Seminole,florida
+Isle Healthcare & Rehabilitation Center,Orange Park,Clay,florida
+Jackson Gardens Health And Rehabilitation Center,Miami,Miami-Dade,florida
+Jackson Memorial Long Term Care Center,Miami,Miami-Dade,florida
+Jackson Memorial Perdue Medical Center,Cutler Ridge,Miami-Dade,florida
+Jacksonville Center For Rehabilitation And Healthcare,Jacksonville,Duval,florida
+Jacksonville Nursing And Rehab Center,Jacksonville,Duval,florida
+Jacksonville Rehabilitation And Nursing Center,Jacksonville,Duval,florida
+John Knox Village Of Pompano Beach,Pompano Beach,Broward,florida
+"Joseph L. Morse Health Center, Inc.",West Palm Bch,Palm Beach,florida
+Kendall Lakes Healthcare And Rehab Center,Miami,Miami-Dade,florida
+Kensington Gardens Rehab And Nursing Center,Clearwater,Pinellas,florida
+Keystone Rehabilitation And Health Center,Kissimmee,Osceola,florida
+Kissimmee Nursing & Rehabilitation Center,Kissimmee,Osceola,florida
+Kr At College Harbor,Saint Petersburg,Pinellas,florida
+Krystal Bay Nursing And Rehabilitation,North Miami Beach,Miami-Dade,florida
+Labelle Health And Rehabilitation Center,Labelle,Hendry,florida
+Lady Lake Specialty Care Center,Lady Lake,Lake,florida
+Lafayette Nursing And Rehabilitation Center,Mayo,Lafayette,florida
+Lake Bennet Center For Rehabilitation & Healing,Ocoee,Orange,florida
+Lake Mary Health And Rehabilitation Center,Lake Mary,Seminole,florida
+Lake Park Of Madison Nursing And Rehabilitation Center,Madison,Madison,florida
+Lake Placid Health And Rehabilitation Center,Lake Placid,Highlands,florida
+Lake Wales Wellness And Rehabilitation Center,Lake Wales,Polk,florida
+Lakeland Hills Center,Lakeland,Polk,florida
+Lakeland Nursing & Rehabilitation,Lakeland,Polk,florida
+Lakes At Lutz Health & Rehabilitation Center,Lutz,Hillsborough,florida
+Lakes Of Clermont Health And Rehabilitation Center,Clermont,Lake,florida
+Lakeside Center For Rehabilitation And Healing,Jacksonville,Duval,florida
+Lakeside Neurologic,Wauchula,Hardee,florida
+Lakeview Terrace Rehabilitation And Health Care Center,Altoona,Lake,florida
+Lanier Rehabilitation Center,Jacksonville,Duval,florida
+Larsen Health Center,Fort Myers,Lee,florida
+Laurellwood Fl Opco,Saint Petersburg,Pinellas,florida
+Lehigh Acres Healthcare & Rehabilitation Center,Lehigh Acres,Lee,florida
+Lexington Healthcare And Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Life Care Center At Wells Crossing,Orange Park,Clay,florida
+Life Care Center Of Citrus County,Lecanto,Citrus,florida
+Life Care Center Of Estero,Estero,Lee,florida
+Life Care Center Of Hilliard,Hilliard,Nassau,florida
+Life Care Center Of Jacksonville,Jacksonville,Duval,florida
+Life Care Center Of Melbourne,Melbourne,Brevard,florida
+Life Care Center Of New Port Richey,New Port Richey,Pasco,florida
+Life Care Center Of Ocala,Ocala,Marion,florida
+Life Care Center Of Orange Park,Orange Park,Clay,florida
+Life Care Center Of Palm Bay,Palm Bay,Brevard,florida
+Life Care Center Of Pensacola,Pensacola,Escambia,florida
+Life Care Center Of Port St. Lucie,Port St Lucie,St. Lucie,florida
+Life Care Center Of Punta Gorda,Punta Gorda,Charlotte,florida
+Life Care Center Of Winter Haven,Winter Haven,Polk,florida
+Lilac At Bayview,St Augustine,St. Johns,florida
+Living Center Of Safety Harbor,Safety Harbor,Pinellas,florida
+Lodge At Cypress Cove,Fort Myers,Lee,florida
+Longwood Health And Rehabilitation Center,Longwood,Seminole,florida
+"Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.",West Palm Beach,Palm Beach,florida
+Macclenny Nursing And Rehab Center,Macclenny,Baker,florida
+Madison Health And Rehabilitation Center,Madison,Madison,florida
+Madison Pointe Care Center,New Port Richey,Pasco,florida
+Magnolia Health And Rehabilitation Center,Sarasota,Sarasota,florida
+Majestic Oaks,Orange City,Volusia,florida
+Manatee Springs Rehabilitation And Nursing Center,Bradenton,Manatee,florida
+Manor At Blue Water Bay,Niceville,Okaloosa,florida
+Manor At Carpenters,Lakeland,Polk,florida
+Margate Health And Rehabilitation Center,Margate,Broward,florida
+Marianna Health And Rehabilitation Center,Marianna,Jackson,florida
+Marianna Nursing And Care Center,Marianna,Jackson,florida
+Marion And Bernard L Samson Nursing Center,Saint Petersburg,Pinellas,florida
+Martin Coast Center For Rehabilitation And Healthcare,Hobe Sound,Martin,florida
+Masonic Home Of Florida,St Petersburg,Pinellas,florida
+Mayflower Healthcare Center,Winter Park,Orange,florida
+Meadows Center For Nursing And Healing,Sarasota,Sarasota,florida
+Medicana Nursing And Rehab Center,Lake Worth,Palm Beach,florida
+Melbourne Terrace Rehabilitation Center,Melbourne,Brevard,florida
+Memorial Manor,Pembroke Pines,Broward,florida
+Menorah House,Boca Raton,Palm Beach,florida
+Metro West Nursing And Rehab Center,Orlando,Orange,florida
+"Miami Jewish Health Systems, Inc.",Miami,Miami-Dade,florida
+Miami Shores Nursing And Rehab Center,Miami,Miami-Dade,florida
+Middleburg Rehabilitation And Nursing Center,Middleburg,Clay,florida
+"Miracle Hill Nursing And Rehabilitation Center, Inc",Tallahassee,Leon,florida
+Monticello Care Center,Monticello,Jefferson,florida
+Morton Plant Rehabilitation Center,Belleair,Pinellas,florida
+Moultrie Creek Nursing And Rehab Center,Saint Augustine,St. Johns,florida
+North Beach Healthcare And Rehabilitation Center,North Miami Beach,Miami-Dade,florida
+North Campus Rehabilitation And Nursing Center,Leesburg,Lake,florida
+North Dade Nursing And Rehabilitation Center,North Miami,Miami-Dade,florida
+North Florida Rehabilitation And Specialty Care,Gainesville,Alachua,florida
+North Lake Care Center And Rehab,Lake Park,Palm Beach,florida
+North Port Rehabilitation And Nursing Center,North Port,Sarasota,florida
+Northbrook Center For Rehabilitation And Healing,Brooksville,Hernando,florida
+Northdale Rehabilitation Center,Tampa,Hillsborough,florida
+Nspire Healthcare Kendall,Miami,Miami-Dade,florida
+Nspire Healthcare Lauderhill,Lauderhill,Broward,florida
+Nspire Healthcare Tamarac,Tamarac,Broward,florida
+Nursing & Rehabilitation Center Of Bayonet Point,Hudson,Pasco,florida
+Nursing & Rehabilitation Center Of Melbourne,Melbourne,Brevard,florida
+Nursing & Rehabilitation Center Of New Port Richey,New Port Richey,Pasco,florida
+Nursing Center At La Posada,Palm Beach Gardens,Palm Beach,florida
+Oak Hammock At The University Of Florida Inc,Gainesville,Alachua,florida
+Oak Hill Health And Rehabilitation,Brooksville,Hernando,florida
+Oak Manor Healthcare & Rehabilitation Center,Largo,Pinellas,florida
+Oaks At Avon,Avon Park,Highlands,florida
+Oakton Place Health And Rehabilitation At The Arlington,Naples,Collier,florida
+Ocala Health And Rehabilitation Center,Ocala,Marion,florida
+Ocala Oaks Rehabilitation Center,Ocala,Marion,florida
+Okeechobee Health Care Facility,Okeechobee,Okeechobee,florida
+Olive Branch Health And Rehabilitation Center,Pensacola,Escambia,florida
+Orange City Nursing And Rehab Center,Debary,Volusia,florida
+Orange Park Rehabilitation And Nursing Center,Orange Park,Clay,florida
+Orlando Health And Rehabilitation Center,Orlando,Orange,florida
+Orlando Health Center For Rehabilitation,Ocoee,Orange,florida
+Ormond Rehabilitation And Nursing Center,Ormond Beach,Volusia,florida
+Osprey Point Nursing Center,Bushnell,Sumter,florida
+Palace At Kendall Nursing And Rehabilitation Center,Miami,Miami-Dade,florida
+Palatka Center For Rehabilitation And Healing,Palatka,Putnam,florida
+Palm Beach Nursing Center,Lake Worth,Palm Beach,florida
+Palm City Nursing And Rehab Center,Palm City,Martin,florida
+Palm Garden Of Aventura,North Miami Beach,Miami-Dade,florida
+Palm Garden Of Clearwater,Clearwater,Pinellas,florida
+Palm Garden Of Gainesville,Gainesville,Alachua,florida
+Palm Garden Of Jacksonville,Jacksonville,Duval,florida
+Palm Garden Of Largo,Largo,Pinellas,florida
+Palm Garden Of Ocala,Ocala,Marion,florida
+Palm Garden Of Orlando,Orlando,Orange,florida
+Palm Garden Of Pinellas,Largo,Pinellas,florida
+Palm Garden Of Port St. Lucie,Port Saint Lucie,St. Lucie,florida
+Palm Garden Of Sun City,Sun City Center,Hillsborough,florida
+Palm Garden Of Vero Beach,Vero Beach,Indian River,florida
+Palm Garden Of West Palm Beach,West Palm Beach,Palm Beach,florida
+Palm Garden Of Winter Haven,Winter Haven,Polk,florida
+Palm Harbor Health And Rehabilitation Center,Palm Harbor,Pinellas,florida
+Palm Vista Nursing And Rehabilitation Center,Key West,Monroe,florida
+Palmetto Care Center,Hialeah,Miami-Dade,florida
+Palmetto Subacute Care Center,Miami,Miami-Dade,florida
+Palms Care Center,Lauderdale Lakes,Broward,florida
+Palms Nursing And Rehab At Orange Park,Orange Park,Clay,florida
+Palms Rehabilitation And Healthcare Center,Palm Bay,Brevard,florida
+Park Meadows Healthcare & Rehabilitation Center,Gainesville,Alachua,florida
+Park Ridge Nursing Center,Jacksonville,Duval,florida
+Parklands Care Center,Gainesville,Alachua,florida
+Parks Healthcare And Rehabilitation Center,Orlando,Orange,florida
+Parkside Health And Rehabilitation Center,Deland,Volusia,florida
+Parkview Rehabilitation Center At Winter Park,Winter Park,Orange,florida
+Pavilion At Jacksonville,Jacksonville,Duval,florida
+Pavilion For Health Care,Penney Farms,Clay,florida
+Pearl At Fort Lauderdale Rehabilitation And Nursing Center,Wilton Manors,Broward,florida
+Peninsula Rehabilitation And Nursing Center,Tarpon Springs,Pinellas,florida
+Pensacola Nursing & Rehabilitation Center,Pensacola,Escambia,florida
+Perry Oaks Health Care,Perry,Taylor,florida
+Pinecrest Rehabilitation Center,North Miami,Miami-Dade,florida
+Pinellas Park Fl Opco,Pinellas Park,Pinellas,florida
+Pinellas Point Nursing And Rehab Center,Saint Petersburg,Pinellas,florida
+Pines Nursing Home,Miami,Miami-Dade,florida
+Pines Of Sarasota,Sarasota,Sarasota,florida
+Plantation Bay Rehabilitation Center,Saint Cloud,Osceola,florida
+Plantation Nursing & Rehabilitation Center,Plantation,Broward,florida
+Plaza Health And Rehab,Gainesville,Alachua,florida
+Plaza West Health Center,Sun City Ctr,Hillsborough,florida
+Plymouth Harbor Incorporated,Sarasota,Sarasota,florida
+Ponce Health And Rehabilitation Center,Miami,Miami-Dade,florida
+Ponce Therapy Care Center And Rehab,Saint Augustine,St. Johns,florida
+Port Charlotte Center For Nursing & Rehabilitation,Port Charlotte,Charlotte,florida
+Port Charlotte Rehabilitation Center,Port Charlotte,Charlotte,florida
+Port Orange Nursing And Rehab Center,Port Orange,Volusia,florida
+Port St. Lucie Rehabilitation And Healthcare,Port St Lucie,St. Lucie,florida
+Premier Place At The Glenview,Naples,Collier,florida
+Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Boca Raton,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Boynton Beach,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Delray),Delray Beach,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Fort Myers,Lee,florida
+Promedica Skilled Nursing And Rehabilitation (Palm Harbor),Palm Harbor,Pinellas,florida
+Promedica Skilled Nursing And Rehabilitation (Prosperity Oaks),Palm Beach Gardens,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Sarasota East),Sarasota,Sarasota,florida
+Promedica Skilled Nursing And Rehabilitation (Sarasota North),Sarasota,Sarasota,florida
+Promedica Skilled Nursing And Rehabilitation (Sarasota West),Sarasota,Sarasota,florida
+Promedica Skilled Nursing And Rehabilitation (Venice),Venice,Sarasota,florida
+Promedica Skilled Nursing And Rehabilitation (West Palm Beach),West Palm Beach,Palm Beach,florida
+Promedica Skilled Nursing And Rehabilitation (Zephyrhills),Zephyrhills,Pasco,florida
+Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Boynton Beach,Palm Beach,florida
+Pruitthealth - Fleming Island,Fleming Island,Clay,florida
+Pruitthealth - Panama City,Panama City,Bay,florida
+Pruitthealth - Santa Rosa,Milton,Santa Rosa,florida
+Pruitthealth - Southwood,Tallahassee,Leon,florida
+Radiant Nursing And Rehab At Palatka,Palatka,Putnam,florida
+Raydiant Health Care Of North Fort Myers,North Fort Myers,Lee,florida
+Raydiant Health Care Of Orange Park,Orange Park,Clay,florida
+Regency Oaks Health Center,Clearwater,Pinellas,florida
+Regents Park At Aventura,Aventura,Miami-Dade,florida
+Regents Park Of Sunrise,Sunrise,Broward,florida
+Regents Park Of Winter Park,Winter Park,Orange,florida
+Rehab & Healthcare Center Of Cape Coral,Cape Coral,Lee,florida
+Rehabilitation Center At Park Place,Pensacola,Escambia,florida
+"Rehabilitation Center Of The Palm Beaches,The",West Palm Beach,Palm Beach,florida
+Renaissance At The Terraces,Bonita Springs,Lee,florida
+Ridgecrest Healthcare And Rehabilitation Center,Deland,Volusia,florida
+River City Nursing And Rehab Center,Jacksonville,Duval,florida
+River Garden Hebrew Home For The Aged,Jacksonville,Duval,florida
+River Valley Rehabilitation Center,Blountstown,Calhoun,florida
+Riverchase Health And Rehabilitation Center,Quincy,Gadsden,florida
+Riverside Care Center,Miami,Miami-Dade,florida
+Riverwood Center,Jacksonville,Duval,florida
+Riverwood Healthcare & Rehabilitation Center,Starke,Bradford,florida
+Rockledge Healthcare & Rehabilitation Center,Rockledge,Brevard,florida
+Rohr Home,Bartow,Polk,florida
+Rosewood Health And Rehabilitation Center,Orlando,Orange,florida
+Rosewood Healthcare And Rehabilitation Center,Pensacola,Escambia,florida
+Royal Care Of Avon Park,Avon Park,Highlands,florida
+Royal Oak Nursing Center,Dade City,Pasco,florida
+Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach,Palm Beach,florida
+Ruleme Center,Eustis,Lake,florida
+Sabal Palms Health & Rehabilitation,Largo,Pinellas,florida
+Saints Care Center,Jacksonville,Duval,florida
+Sand Key Health And Rehabilitation Center,Clearwater,Pinellas,florida
+Sandy Ridge Center For Rehabilitation And Healing,Milton,Santa Rosa,florida
+Santa Rosa Center For Rehabilitation And Healing,Milton,Santa Rosa,florida
+Sarasota Center For Nursing & Rehabilitation,Sarasota,Sarasota,florida
+Sarasota Health And Rehabilitation Center,Sarasota,Sarasota,florida
+Sarasota Memorial Nursing And Rehabilitation Center,Sarasota,Sarasota,florida
+Sarasota Point Rehabilitation Center,Sarasota,Sarasota,florida
+Savannah Cove,Maitland,Orange,florida
+Savoy At Fort Lauderdale Rehabilitation And Nursing Center,Fort Lauderdale,Broward,florida
+Seaside Health And Rehabilitation Center,Daytona Beach,Volusia,florida
+Seven Hills Health And Rehabilitation Center,Tallahassee,Leon,florida
+Shoal Creek Rehabilitation Center,Crestview,Okaloosa,florida
+Shore Acres Care Center And Rehab,Saint Petersburg,Pinellas,florida
+Sierra Lakes Nursing & Rehabilitation Center,Miami,Miami-Dade,florida
+Siesta Key Health And Rehabilitation Center,Sarasota,Sarasota,florida
+Silvercrest Health And Rehabilitation Center,Crestview,Okaloosa,florida
+Solaris Healthcare Coconut Creek,Coconut Creek,Broward,florida
+Solaris Healthcare Daytona,Daytona Beach,Volusia,florida
+Solaris Healthcare Imperial,Naples,Collier,florida
+Solaris Healthcare Lake City,Lake City,Columbia,florida
+Solaris Healthcare Merritt Island,Merritt Island,Brevard,florida
+Solaris Healthcare Osceola,Saint Cloud,Osceola,florida
+Solaris Healthcare Pensacola,Pensacola,Escambia,florida
+Solaris Healthcare Plant City,Plant City,Hillsborough,florida
+Solaris Healthcare Windermere,Orlando,Orange,florida
+Solaris Senior Living North Naples,Naples,Collier,florida
+South Campus Care Center And Rehab,Leesburg,Lake,florida
+South Dade Nursing And Rehabilitation Center,Miami,Miami-Dade,florida
+South Heritage Health & Rehabilitation Center,Saint Petersburg,Pinellas,florida
+Southern Pines Nursing Center,New Port Richey,Pasco,florida
+Specialty Health And Rehabilitation Center,Pensacola,Escambia,florida
+Spring Hill Health And Rehabilitation Center,Brooksville,Hernando,florida
+Spring Lake Rehabilitation Center,Winter Haven,Polk,florida
+Springs At Boca Ciega Bay,South Pasadena,Pinellas,florida
+Springs At Lake Pointe Woods,Sarasota,Sarasota,florida
+Springtree Rehabilitation & Health Care Center,Sunrise,Broward,florida
+St Andrews Bay Skilled Nursing And Rehabilitation Center,Panama City,Bay,florida
+"St Annes Nursing Center, St Annes Residence Inc",Miami,Miami-Dade,florida
+St Augustine Health And Rehabilitation Center,Saint Augustine,St. Johns,florida
+St James Health And Rehabilitation Center,Carrabelle,Franklin,florida
+St Petersburg Nursing & Rehabilitation,St Petersburg,Pinellas,florida
+St. Amaro Post-Acute And Rehabilitation Center,Wauchula,Hardee,florida
+St. Andrew Post-Acute And Rehabilitation Center,Tampa,Hillsborough,florida
+St. Camillus Post-Acute And Rehabilitation Center,Sebring,Highlands,florida
+St. John'S Nursing Center,Lauderdale Lakes,Broward,florida
+"St. Mark Village, Inc.",Palm Harbor,Pinellas,florida
+Stuart Rehabilitation And Healthcare,Stuart,Martin,florida
+Sun Terrace Health Care Center,Sun City Center,Hillsborough,florida
+Sunnyside Nursing Home,Sarasota,Sarasota,florida
+Sunrise Health And Rehabilitation Center,Sunrise,Broward,florida
+Sunrise Point Health And Rehabilitation Center,Rockledge,Brevard,florida
+Sunset Lake Healthcare And Rehabilitation Center,Venice,Sarasota,florida
+Surrey Place Healthcare And Rehabilitation,Bradenton,Manatee,florida
+Surrey Place Nursing Center,Live Oak,Suwannee,florida
+Susanna Wesley Health Center,Hialeah,Miami-Dade,florida
+Suwannee Valley Nursing Center,Jasper,Hamilton,florida
+Tallahassee Living Center,Tallahassee,Leon,florida
+Tampa Lakes Health And Rehabilitation Center,Lutz,Hillsborough,florida
+Tarpon Bayou Center,Tarpon Springs,Pinellas,florida
+Taylor Care Center,Jacksonville,Duval,florida
+Terrace At Bishop'S Glen,Holly Hill,Volusia,florida
+Terrace Healthcare & Rehabilitation Center,Gainesville,Alachua,florida
+Terrace Of Delray Beach Nursing And Rehabilitation Center The,Delray Beach,Palm Beach,florida
+Terrace Of Hialeah,Hialeah,Miami-Dade,florida
+Terrace Of Jacksonville,Jacksonville,Duval,florida
+Terrace Of Kissimmee,Kissimmee,Osceola,florida
+Terraces Of Lake Worth Care Center,Lake Worth,Palm Beach,florida
+The Bristol Care Center,Tampa,Hillsborough,florida
+The Cedar At Mease Life,Dunedin,Pinellas,florida
+The Club At Lake Gibson,Lakeland,Polk,florida
+The Edgewater At Waterman Village,Mount Dora,Lake,florida
+The Floridean Nursing And Rehabilitation Center,Miami,Miami-Dade,florida
+The Lodge Health And Rehabilitation Center,Ocala,Marion,florida
+The Palms Nursing And Rehab At Lake City,Lake City,Columbia,florida
+The Palms Nursing And Rehab At Orlando,Orlando,Orange,florida
+The Palms Nursing And Rehab At Winter Haven,Winter Haven,Polk,florida
+The Pavilion At Crescent Lake,Crescent City,Putnam,florida
+The Preserve,Fort Myers,Lee,florida
+The Terrace At Courtenay Springs,Merritt Island,Brevard,florida
+Tierra Pines Center,Largo,Pinellas,florida
+Tiffany Hall Nursing And Rehab Center,Port Saint Lucie,St. Lucie,florida
+Timberridge Nursing & Rehabilitation Center,Ocala,Marion,florida
+Titusville Rehabilitation And Nursing Center,Titusville,Brevard,florida
+Tri-County Nursing Home,Trenton,Gilchrist,florida
+Trinity Regional Rehab Center,Trinity,Pasco,florida
+Tuskawilla Nursing And Rehab Center,Winter Springs,Seminole,florida
+University Crossing,Jacksonville,Duval,florida
+University Hills Health And Rehabilitation,Pensacola,Escambia,florida
+Venice Health And Rehabilitation Center,Venice,Sarasota,florida
+Vero Beach Care Center,Vero Beach,Indian River,florida
+Vi At Aventura,Aventura,Miami-Dade,florida
+Vi At Lakeside Village,Lantana,Palm Beach,florida
+Vicar'S Landing Nursing Home,Ponte Vedra Beach,St. Johns,florida
+Viera Del Mar Health And Rehabilitation Center,Viera,Brevard,florida
+Viera Healthcare And Rehabilitation Center,Melbourne,Brevard,florida
+Villa Healthcare & Rehabilitation Center,Deland,Volusia,florida
+Villa Maria Nursing Center,North Miami,Miami-Dade,florida
+Villa Maria West Skilled Nursing Facility,Hialeah Gardens,Miami-Dade,florida
+Village On The Green,Longwood,Seminole,florida
+Village On The Isle,Venice,Sarasota,florida
+Villages Rehabilitation And Nursing Center,Lady Lake,Lake,florida
+Vivo Healthcare Normandy,Jacksonville,Duval,florida
+W Frank Wells Nursing Home,Macclenny,Baker,florida
+Washington Rehabilitation And Nursing Center,Chipley,Washington,florida
+Water'S Edge Health And Rehabilitation,Palm City,Martin,florida
+Waterford,Juno Beach,Palm Beach,florida
+Wedgewood Healthcare Center,Lakeland,Polk,florida
+West Altamonte Nursing & Rehabilitation Center,Altamonte Springs,Seminole,florida
+West Broward Rehabilitation And Healthcare,Plantation,Broward,florida
+West Gables Health Care Center,Miami,Miami-Dade,florida
+West Melbourne Health & Rehabilitation Center,West Melbourne,Brevard,florida
+West Orange Center For Nursing And Healing,Ocoee,Orange,florida
+Westchester Gardens Health & Rehabilitation,Clearwater,Pinellas,florida
+Westminster Baldwin Park,Orlando,Orange,florida
+Westminster Oaks,Tallahassee,Leon,florida
+Westminster Palms,Saint Petersburg,Pinellas,florida
+Westminster Point Pleasant,Bradenton,Manatee,florida
+Westminster St. Augustine,Saint Augustine,St. Johns,florida
+Westminster Suncoast,Saint Petersburg,Pinellas,florida
+Westminster Towers,Orlando,Orange,florida
+Westminster Winter Park,Winter Park,Orange,florida
+Westminster Woods On Julington Creek,Jacksonville,St. Johns,florida
+Westwood Nursing And Rehabilitation Center,Fort Walton Beach,Okaloosa,florida
+Williston Care Center,Williston,Levy,florida
+Willowbrooke Court At Azalea Trace,Pensacola,Escambia,florida
+Willowbrooke Court At St Andrews Estates,Boca Raton,Palm Beach,florida
+Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Boca Raton,Palm Beach,florida
+Windsor Health And Rehabilitation Center,Starke,Bradford,florida
+Windsor Woods Rehab And Healthcare Center,Hudson,Pasco,florida
+Winkler Court,Fort Myers,Lee,florida
+Winter Haven Fl Opco Llc,Winter Haven,Polk,florida
+Winter Park Care And Rehabilitation,Winter Park,Orange,florida
+Wood Lake Health And Rehabilitation Center,Greenacres,Palm Beach,florida
+Woodland Grove Healthcare & Rehabilitation Center,Jacksonville,Duval,florida
