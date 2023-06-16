@@ -12,17 +12,17 @@ var nursingHomesLayer = L.geoJSON(null, {
   pointToLayer: function (feature, latlng) {
     return L.circleMarker(latlng, {
       radius: 4,
-      fillColor: 'red',
-      fillOpacity: 0.5,
+      fillColor: '#74A6CF',
+      fillOpacity: 0.25,
       stroke: true,
-      color: 'red',
-      weight: 1,
+      color: '#74A6CF',
+      weight: 0.5,
       opacity: 1
     });
   },
   onEachFeature: function (feature, layer) {
     var tooltipContent = `
-      <strong>Nursing Home Label:</strong> ${feature.properties.nursing_home_label}<br>
+      <strong>Nursing Home:</strong> ${feature.properties.nursing_home_label}<br>
       <strong>Overall Inspection:</strong> ${feature.properties.overall_inspection}<br>
       <strong>Quality of Care:</strong> ${feature.properties.quality_of_care}<br>
       <strong>Quality of Life:</strong> ${feature.properties.quality_of_life}<br>
@@ -42,22 +42,23 @@ var assistedLivingLayer = L.geoJSON(null, {
   pointToLayer: function (feature, latlng) {
     return L.circleMarker(latlng, {
       radius: 4,
-      fillColor: 'blue',
-      fillOpacity: 0.5,
+      fillColor: '#DAAEC4',
+      fillOpacity: 0.25,
       stroke: true,
-      color: 'blue',
-      weight: 1,
+      color: '#DAAEC4',
+      weight: 0.5,
       opacity: 1
     });
   },
   onEachFeature: function (feature, layer) {
+    var fines = feature.properties.fines ? '$' + feature.properties.fines : 'N/A';
     var tooltipContent = `
-      <strong>Assisted Living Facility Label:</strong> ${feature.properties.assisted_living_facility_label}<br>
+      <strong>Assisted living facility:</strong> ${feature.properties.assisted_living_facility_label}<br>
       <strong>Beds:</strong> ${feature.properties.beds}<br>
-      <strong>No Substantiated Complaints:</strong> ${feature.properties.no_substantiated_complaints}<br>
-      <strong>Fines:</strong> ${feature.properties.fines}<br>
-      <strong>Class 1:</strong> ${feature.properties.class_1}<br>
-      <strong>Class 2:</strong> ${feature.properties.class_2}
+      <strong>Substantiated complaints:</strong> ${feature.properties.no_substantiated_complaints}<br>
+      <strong>Fines:</strong> ${fines}<br>
+      <strong>Class 1 violations:</strong> ${feature.properties.class_1}<br>
+      <strong>Class 2 violations:</strong> ${feature.properties.class_2}
     `;
     layer.bindTooltip(tooltipContent, { direction: 'top', permanent: false, className: 'tooltip' });
   }
@@ -68,7 +69,7 @@ var regionsLayer = L.geoJSON(null, {
   style: {
     fill: false,
     weight: 2,
-    color: 'purple',
+    color: '#afa79f',
     opacity: 0.25
   }
 }).addTo(map);
