@@ -1,595 +1,595 @@
-nursing_home,nursing_home_label,city,region,county,latitude,longitude,overall_inspection,quality_of_care,quality_of_life,administration,nutrition_and_hydration,restraints_and_abuse,pressure_ulcers,decline,dignity
-Athens Post Acute,Athens Post Acute,Deland,Region 4,Volusia,29.021206,-81.3132879,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Boca Ciega Center,Boca Ciega Center,Gulfport,Region 5,Pinellas,27.7560671,-82.7137144,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Braden River Rehabilitation Center Llc,Braden River Rehabilitation Center Llc,Bradenton,Region 6,Manatee,27.4952022,-82.5392131,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Encore At Boca Raton Rehabilitation And Nursing Center, Llc, The",Encore At Boca Raton Rehabilitation And Nursing Center,Boca Raton,Region 9,Palm Beach,26.3525845,-80.1591545,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Evergreen Woods,Evergreen Woods,Spring Hill,Region 3,Hernando,28.5300348,-82.5183096,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Gardens Care Center,Gardens Care Center,Miami,Region 11,Miami-Dade,25.9498036,-80.1975903,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Gulf Shore Care Center,Gulf Shore Care Center,Pinellas Park,Region 5,Pinellas,27.851252,-82.731983,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hillcrest Health Care And Rehabilitation Center,Hillcrest Health Care And Rehabilitation Center,Hollywood,Region 10,Broward,26.002666,-80.18608,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Port Square Health Center,Lake Port Square Health Center,Leesburg,Region 3,Lake,28.8049609,-81.8619433,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Living Center Of St. Petersburg,Living Center Of St. Petersburg,Seminole,Region 5,Pinellas,27.839699,-82.76895,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Martin Nursing And Rehabilitation,Martin Nursing And Rehabilitation,Stuart,Region 9,Martin,27.1321298,-80.2237897,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Page Rehabilitation And Healthcare Center,Page Rehabilitation And Healthcare Center,Fort Myers,Region 8,Lee,26.5943944,-81.8662055,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pompano Health And Rehabilitation Center,Pompano Health And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.2763465,-80.1238491,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Lely Palms),Promedica Skilled Nursing And Rehabilitation (Lely Palms),Naples,Region 8,Collier,26.1087893,-81.7132366,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Raydiant Health Care Of Jacksonville,Raydiant Health Care Of Jacksonville,Jacksonville,Region 4,Duval,30.257473,-81.585754,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sea Breeze Rehab And Nursing Center,Sea Breeze Rehab And Nursing Center,Vero Beach,Region 9,Indian River,27.6597184,-80.4005949,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Unity Healthcare And Rehabilitation Center,Unity Healthcare And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7318528,-80.3349318,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ventura Health And Rehabilitation Center,Ventura Health And Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5229515,-80.1703876,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Whispering Oaks,Whispering Oaks,Tampa,Region 6,Hillsborough,27.985558,-82.4419992,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Winter Haven Health And Rehabilitation Center,Winter Haven Health And Rehabilitation Center,Winter Haven,Region 6,Polk,28.036065,-81.7249721,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Woodbridge Care Center,Woodbridge Care Center,Tampa,Region 6,Hillsborough,28.0008115,-82.5801947,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brookwood Gardens Rehabilitation And Nursing Center,Brookwood Gardens Rehabilitation And Nursing Center,Homestead,Region 11,Miami-Dade,25.5009442,-80.5546996,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coral Reef Subacute Care Center Llc,Coral Reef Subacute Care Center Llc,Miami,Region 11,Miami-Dade,25.6307385,-80.3528747,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Destination Health And Rehabilitation Center,Destination Health And Rehabilitation Center,Destin,Region 1,Okaloosa,30.3927226,-86.4703902,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Finnish-American Village,Finnish-American Village,Lake Worth,Region 9,Palm Beach,26.5906677,-80.0715179,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fort Pierce Health Care,Fort Pierce Health Care,Fort Pierce,Region 9,St. Lucie,27.4421037,-80.3373604,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeside Health Center,Lakeside Health Center,West Palm Beach,Region 9,Palm Beach,26.735377,-80.067746,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Luxe At Jupiter Rehabilitation Center (The),Luxe At Jupiter Rehabilitation Center (The),Jupiter,Region 9,Palm Beach,26.8880603,-80.1084235,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Luxe At Wellington Rehabilitation Center (The),Luxe At Wellington Rehabilitation Center (The),Wellington,Region 9,Palm Beach,26.6399539,-80.2081414,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Naples Health And Rehabilitation Center,Naples Health And Rehabilitation Center,Naples,Region 8,Collier,26.1807847,-81.7952451,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Fort Myers,Region 8,Lee,26.5886807,-81.8809322,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Naples),Promedica Skilled Nursing And Rehabilitation (Naples),Naples,Region 8,Collier,26.1158285,-81.7536551,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sandgate Gardens Rehab And Nursing Center,Sandgate Gardens Rehab And Nursing Center,Fort Pierce,Region 9,St. Lucie,27.441534,-80.354757,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Seabranch Health And Rehabilitation Center,Seabranch Health And Rehabilitation Center,Stuart,Region 9,Martin,27.1418611,-80.1892187,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Seaview Nursing And Rehabilitation Center,Seaview Nursing And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.233816,-80.09954,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Shoreside Health And Rehabilitation Center,Shoreside Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.8787994,-80.193428,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Charlotte Harbor,Solaris Healthcare Charlotte Harbor,Port Charlotte,Region 8,Charlotte,26.9712115,-82.0661762,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Parkway,Solaris Healthcare Parkway,Stuart,Region 9,Martin,27.1778098,-80.2421965,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Willowbrooke Court At Indian River Estates,Willowbrooke Court At Indian River Estates,Vero Beach,Region 9,Indian River,27.6425097,-80.4806287,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Abbey Delray,Abbey Delray,Delray Beach,Region 9,Palm Beach,26.44538,-80.09388,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Apopka South,Adventhealth Care Center Apopka South,Apopka,Region 7,Seminole,28.670482,-81.4463362,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Apopka Health And Rehabilitation Center,Apopka Health And Rehabilitation Center,Apopka,Region 7,Orange,28.6455467,-81.5365738,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Balanced Healthcare,Balanced Healthcare,Saint Petersburg,Region 5,Pinellas,27.8106795,-82.7290263,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bardmoor Oaks Healthcare And Rehabilitation Center,Bardmoor Oaks Healthcare And Rehabilitation Center,Largo,Region 5,Pinellas,27.873043,-82.7641,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Boynton Beach Rehabilitation Center,Boynton Beach Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brandon Health And Rehabilitation Center,Brandon Health And Rehabilitation Center,Brandon,Region 6,Hillsborough,27.93354,-82.3076,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Clearwater Center,Clearwater Center,Clearwater,Region 5,Pinellas,27.959686,-82.7841569,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Dade City Health And Rehabilitation Center,Dade City Health And Rehabilitation Center,Dade City,Region 5,Pasco,28.3583707,-82.2010577,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Deerfield Beach Health And Rehabilitation Center,Deerfield Beach Health And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.2754138,-80.1180305,_____,_____,_____,_____,_____,_____,_____,_____,_____
-East Bay Rehabilitation Center,East Bay Rehabilitation Center,Clearwater,Region 5,Pinellas,27.9191847,-82.7404473,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Egret Cove Center,Egret Cove Center,Saint Petersburg,Region 5,Pinellas,27.7653154,-82.7199502,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fletcher Health And Rehabilitation Center,Fletcher Health And Rehabilitation Center,Tampa,Region 6,Hillsborough,28.068884,-82.46501,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hamlin Place Of Boynton Beach,Hamlin Place Of Boynton Beach,Lantana,Region 9,Palm Beach,26.5715476,-80.0773166,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Harbor Beach Nursing And Rehabilitation Center,Harbor Beach Nursing And Rehabilitation Center,Ft Lauderdale,Region 10,Broward,26.101536,-80.13442,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hawthorne Center For Rehabilitation And Healing Of Brandon,Hawthorne Center For Rehabilitation And Healing Of Brandon,Brandon,Region 6,Hillsborough,27.9215612,-82.2985919,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Heather Hill Healthcare Center,Heather Hill Healthcare Center,New Port Richey,Region 5,Pasco,28.256396,-82.704793,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Heritage Healthcare And Rehabilitation Center,Heritage Healthcare And Rehabilitation Center,Naples,Region 8,Collier,26.1569665,-81.7975958,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Highlands Lake Center,Highlands Lake Center,Lakeland,Region 6,Polk,27.988199,-81.922239,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jupiter Rehabilitation And Healthcare Center,Jupiter Rehabilitation And Healthcare Center,Jupiter,Region 9,Palm Beach,26.9384082,-80.1274377,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Kissimmee Health And Rehabilitation Center,Kissimmee Health And Rehabilitation Center,Kissimmee,Region 7,Osceola,28.2974799,-81.4045876,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeside Oaks Care Center,Lakeside Oaks Care Center,Dunedin,Region 5,Pinellas,28.011774,-82.77012,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Legacy At Boca Raton Rehabilitation And Nursing Center (The),Legacy At Boca Raton Rehabilitation And Nursing Center (The),Boca Raton,Region 9,Palm Beach,26.3604494,-80.1441576,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center At Inverrary,Life Care Center At Inverrary,Lauderhill,Region 10,Broward,26.1778458,-80.2209212,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Altamonte Springs,Life Care Center Of Altamonte Springs,Altamonte Springs,Region 7,Seminole,28.661558,-81.3587842,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Sarasota,Life Care Center Of Sarasota,Sarasota,Region 6,Manatee,27.3949448,-82.5144987,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nspire Healthcare Plantation,Nspire Healthcare Plantation,Plantation,Region 10,Broward,26.149332,-80.243446,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Oaks Of Clearwater, The",Oaks Of Clearwater,Clearwater,Region 5,Pinellas,27.9617502,-82.8030112,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Tampa,Palm Garden Of Tampa,Tampa,Region 6,Hillsborough,28.0734667,-82.4191443,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Palms Of Sebring, The",Palms Of Sebring,Sebring,Region 6,Highlands,27.4923892,-81.4410929,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rehabilitation And Healthcare Center Of Tampa,Rehabilitation And Healthcare Center Of Tampa,Tampa,Region 6,Hillsborough,27.975792,-82.433016,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Renaissance Health And Rehabilitation,Renaissance Health And Rehabilitation,West Palm Beach,Region 9,Palm Beach,26.68176,-80.121376,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ridge Haven Health And Rehabilitation Center,Ridge Haven Health And Rehabilitation Center,New Port Richey,Region 5,Pasco,28.230647,-82.7035206,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rio Pinar Health Care,Rio Pinar Health Care,Orlando,Region 7,Orange,28.537546,-81.27871,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Riviera Palms Rehabilitation Center,Riviera Palms Rehabilitation Center,Palmetto,Region 6,Manatee,27.519521,-82.5514157,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Royal Oaks Nursing And Rehab Center,Royal Oaks Nursing And Rehab Center,Titusville,Region 7,Brevard,28.5715002,-80.8287085,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Scott Lake Health And Rehabilitation,Scott Lake Health And Rehabilitation,Lakeland,Region 6,Polk,27.9543258,-81.9530395,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Bayonet Point,Solaris Healthcare Bayonet Point,Hudson,Region 5,Pasco,28.3368786,-82.6956743,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Stratford Court Of Boca Raton,Stratford Court Of Boca Raton,Boca Raton,Region 9,Palm Beach,26.3307338,-80.1443412,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Tamarac Rehabilitation And Health Center, Inc.","Tamarac Rehabilitation And Health Center, Inc.",Tamarac,Region 10,Broward,26.2194448,-80.2743062,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Terrace Of St Cloud, The",Terrace Of St Cloud,Saint Cloud,Region 7,Osceola,28.233587,-81.3169452,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Gardens At Depugh Nursing,The Gardens At Depugh Nursing,Winter Park,Region 7,Orange,28.5974266,-81.3564788,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Valencia Hills Health And Rehabilitation Center,Valencia Hills Health And Rehabilitation Center,Lakeland,Region 6,Polk,28.096178,-81.9785995,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vista Manor,Vista Manor,Titusville,Region 7,Brevard,28.627728,-80.819466,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Manor Of Bradenton,Westminster Manor Of Bradenton,Bradenton,Region 6,Manatee,27.4818126,-82.579074,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Winter Garden Rehabilitation And Nursing Center,Winter Garden Rehabilitation And Nursing Center,Winter Garden,Region 7,Orange,28.5518098,-81.5705102,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Wright'S Healthcare & Rehabilitation Center,Wright'S Healthcare & Rehabilitation Center,Seminole,Region 5,Pinellas,27.8726081,-82.7960128,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Clyde E Lassen State Veterans Nursing Home,Clyde E Lassen State Veterans Nursing Home,Saint Augustine,Region 4,St. Johns,29.9605742,-81.4675089,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Grand Oaks Health And Rehabilitation Center,Grand Oaks Health And Rehabilitation Center,Palm Coast,Region 4,Flagler,29.558014,-81.19672,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hampton Court Nursing And Rehabilitation Center,Hampton Court Nursing And Rehabilitation Center,North Miami Beach,Region 11,Miami-Dade,25.92294,-80.2049774,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Harts Harbor Health Care Center,Harts Harbor Health Care Center,Jacksonville,Region 4,Duval,30.444853,-81.656685,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nspire Healthcare Miami Lakes,Nspire Healthcare Miami Lakes,Hialeah,Region 11,Miami-Dade,25.943327,-80.294983,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Oak Haven Rehab And Nursing Center,Oak Haven Rehab And Nursing Center,Auburndale,Region 6,Polk,28.0592566,-81.7710982,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Oaktree Healthcare,Oaktree Healthcare,South Daytona,Region 4,Volusia,29.1588523,-81.0033973,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Regents Park Of Jacksonville,Regents Park Of Jacksonville,Jacksonville,Region 4,Duval,30.2447651,-81.553558,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Riviera Health Resort,Riviera Health Resort,Coral Gables,Region 11,Miami-Dade,25.7053975,-80.2820246,_____,_____,_____,_____,_____,_____,_____,_____,_____
-San Jose Health And Rehabilitation Center,San Jose Health And Rehabilitation Center,Jacksonville,Region 4,Duval,30.208376,-81.61563,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Sands At South Beach Care Center, The",Sands At South Beach Care Center,Miami Beach,Region 11,Miami-Dade,25.7694309,-80.1342863,_____,_____,_____,_____,_____,_____,_____,_____,_____
-University Health And Rehabilitation Center,University Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7934982,-80.2077093,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Victoria Nursing & Rehabilitation Center, Inc.","Victoria Nursing & Rehabilitation Center, Inc.",Miami,Region 11,Miami-Dade,25.7766177,-80.2106385,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vivo Healthcare Orange Park,Vivo Healthcare Orange Park,Orange Park,Region 4,Clay,30.1860305,-81.707988,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vivo Healthcare University,Vivo Healthcare University,Jacksonville,Region 4,Duval,30.2879721,-81.6033167,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Abbey Delray South,Abbey Delray South,Delray Beach,Region 9,Palm Beach,26.4371855,-80.0996913,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Abbey Rehabilitation And Nursing Center,Abbey Rehabilitation And Nursing Center,Saint Petersburg,Region 5,Pinellas,27.8364719,-82.6463502,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Advanced Care Center And Rehab,Advanced Care Center And Rehab,Clearwater,Region 5,Pinellas,27.9699817,-82.7221962,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Apopka North,Adventhealth Care Center Apopka North,Apopka,Region 7,Orange,28.6812992,-81.504219,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Celebration,Adventhealth Care Center Celebration,Kissimmee,Region 7,Osceola,28.3160988,-81.5576295,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Orlando East,Adventhealth Care Center Orlando East,Orlando,Region 7,Orange,28.6035206,-81.3908989,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Orlando North,Adventhealth Care Center Orlando North,Orlando,Region 7,Orange,28.6035206,-81.3908989,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Waterman,Adventhealth Care Center Waterman,Tavares,Region 3,Lake,28.8271646,-81.7136472,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Zephyrhills North,Adventhealth Care Center Zephyrhills North,Zephyrhills,Region 5,Pasco,28.2644677,-82.1825862,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adventhealth Care Center Zephyrhills South,Adventhealth Care Center Zephyrhills South,Zephyrhills,Region 5,Pasco,28.2644677,-82.1825862,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Advinia Care At Venice,Advinia Care At Venice,Venice,Region 8,Sarasota,27.1015608,-82.4184713,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Adviniacare At Naples,Adviniacare At Naples,Naples,Region 8,Collier,26.2396114,-81.7695509,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Aidan Post-Acute And Rehabilitation Center,Aidan Post-Acute And Rehabilitation Center,Fort Pierce,Region 9,St. Lucie,27.4410782,-80.3534842,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Alexander ""Sandy"" Nininger State Veterans Nursing Home","Alexander ""Sandy"" Nininger State Veterans Nursing Home",Pembroke Pines,Region 10,Broward,26.0043947,-80.2539994,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Alpine Health And Rehabilitation Center,Alpine Health And Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.7492695,-82.6805709,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ambassador Healthcare At College Park,Ambassador Healthcare At College Park,Fort Myers,Region 8,Lee,26.5492443,-81.8881305,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Anchor Care & Rehabilitation Center,Anchor Care & Rehabilitation Center,Palm Bay,Region 7,Brevard,28.0197189,-80.6048706,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Apollo Healthcare & Rehabilitation Center,Apollo Healthcare & Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.730881,-82.639015,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Arbor Springs Health And Rehabilitation Center,Arbor Springs Health And Rehabilitation Center,Ocala,Region 3,Marion,29.161742,-82.117184,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Arbor Trail Rehab And Skilled Nursing Center,Arbor Trail Rehab And Skilled Nursing Center,Inverness,Region 3,Citrus,28.8468802,-82.3374253,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Arcadia Health And Rehabilitation Center,Arcadia Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5401933,-87.2135772,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ascension Living St. Catherine Laboure' Place,Ascension Living St. Catherine Laboure' Place,Jacksonville,Region 4,Duval,30.3087539,-81.6878814,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Atlantic Shores Nursing And Rehab Center,Atlantic Shores Nursing And Rehab Center,Melbourne,Region 7,Brevard,28.0469263,-80.6282125,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Boca Raton, Inc.","Avante At Boca Raton, Inc.",Boca Raton,Region 9,Palm Beach,26.3629364,-80.1093713,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Avante At Inverness Inc,Avante At Inverness Inc,Inverness,Region 3,Citrus,28.8316669,-82.3356473,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Lake Worth, Inc.","Avante At Lake Worth, Inc.",Lake Worth,Region 9,Palm Beach,26.6439949,-80.0646566,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Leesburg, Inc","Avante At Leesburg, Inc",Leesburg,Region 3,Lake,28.8071698,-81.8951119,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Avante At Melbourne Inc,Avante At Melbourne Inc,Melbourne,Region 7,Brevard,28.0861955,-80.615655,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Mt Dora, Inc.","Avante At Mt Dora, Inc.",Mount Dora,Region 3,Lake,28.8093245,-81.6758362,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Ocala, Inc","Avante At Ocala, Inc",Ocala,Region 3,Marion,29.1674479,-82.1357331,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At Ormond Beach, Inc","Avante At Ormond Beach, Inc",Ormond Beach,Region 4,Volusia,29.2826704,-81.0817212,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Avante At St. Cloud, Inc.","Avante At St. Cloud, Inc.",Saint Cloud,Region 7,Osceola,28.2453681,-81.3028895,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Avante Villa At Jacksonville Beach Inc,Avante Villa At Jacksonville Beach Inc,Jacksonville Beach,Region 4,Duval,30.2698857,-81.4016496,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Aventura At The Bay,Aventura At The Bay,Saint Petersburg,Region 5,Pinellas,27.866261,-82.6404524,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Aventura Rehab And Nursing Center,Aventura Rehab And Nursing Center,North Miami Beach,Region 11,Miami-Dade,25.930001,-80.1636304,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ayers Health And Rehabilitation Center,Ayers Health And Rehabilitation Center,Trenton,Region 3,Gilchrist,29.617579,-82.809987,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Azure Shores Rehab,Azure Shores Rehab,Miami,Region 11,Miami-Dade,25.8611444,-80.212137,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Baldomero Lopez Memorial Veterans Nursing Home,Baldomero Lopez Memorial Veterans Nursing Home,Land O Lakes,Region 5,Pasco,28.2506345,-82.4486447,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bartow Center,Bartow Center,Bartow,Region 6,Polk,27.88188,-81.8239651,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bartram Crossing,Bartram Crossing,Jacksonville,Region 4,Duval,30.135713,-81.5380441,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bay Breeze Health And Rehabilitation Center,Bay Breeze Health And Rehabilitation Center,Venice,Region 8,Sarasota,27.10591,-82.43311,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bay Breeze Senior Living And Rehabilitation Center,Bay Breeze Senior Living And Rehabilitation Center,Gulf Breeze,Region 1,Santa Rosa,30.3861323,-87.0824825,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bay Pointe Nursing Pavilion,Bay Pointe Nursing Pavilion,Saint Petersburg,Region 5,Pinellas,27.7297674,-82.6761205,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bay Village Of Sarasota,Bay Village Of Sarasota,Sarasota,Region 8,Sarasota,27.2290821,-82.4985046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bay Vue Nursing And Rehabilitation Center,Bay Vue Nursing And Rehabilitation Center,Bradenton,Region 6,Manatee,27.4984862,-82.54745,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Baya Pointe Nursing And Rehabilitation Center,Baya Pointe Nursing And Rehabilitation Center,Lake City,Region 3,Columbia,30.182093,-82.62559,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bayshore Pointe Nursing And Rehab Center,Bayshore Pointe Nursing And Rehab Center,Tampa,Region 6,Hillsborough,27.8939007,-82.4958786,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bayside Care Center,Bayside Care Center,Saint Petersburg,Region 5,Pinellas,27.780642,-82.648289,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bayside Health And Rehabilitation Center,Bayside Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.4818659,-87.168418,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bayview Center,Bayview Center,Eustis,Region 3,Lake,28.8494194,-81.6852029,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Beach Breeze Rehab And Care Center,Beach Breeze Rehab And Care Center,West Palm Beach,Region 9,Palm Beach,26.6533734,-80.0947454,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Beach Street Health And Rehabilitation Center,Beach Street Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.1943831,-81.010528,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Beachside Center For Rehabilitation And Nursing,Beachside Center For Rehabilitation And Nursing,New Smyrna Beach,Region 4,Volusia,29.0159874,-80.8842809,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bear Creek Nursing Center,Bear Creek Nursing Center,Hudson,Region 5,Pasco,28.332025,-82.68132,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bedrock Rehabilitation And Nursing Center At Lake City,Bedrock Rehabilitation And Nursing Center At Lake City,Lake City,Region 3,Columbia,30.1862678,-82.7174491,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bedrock Rehabilitation And Nursing Center At Lake Eustis,Bedrock Rehabilitation And Nursing Center At Lake Eustis,Eustis,Region 3,Lake,28.8477607,-81.6903432,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bedrock Rehabilitation And Nursing Center At Melbourne,Bedrock Rehabilitation And Nursing Center At Melbourne,Melbourne,Region 7,Brevard,28.0867335,-80.6127845,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bedrock Rehabilitation And Nursing Center At Winter Park,Bedrock Rehabilitation And Nursing Center At Winter Park,Maitland,Region 7,Orange,28.6111,-81.3706176,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Belleair Health Care Center,Belleair Health Care Center,Clearwater,Region 5,Pinellas,27.9360334,-82.7985849,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Benderson Family Skilled Nursing And Rehabilitation Center,Benderson Family Skilled Nursing And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3537957,-82.4658821,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Beneva Lakes Healthcare And Rehabilitation Center,Beneva Lakes Healthcare And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.327976,-82.49547,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bentley Care Center,Bentley Care Center,Naples,Region 8,Collier,26.3068647,-81.805503,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Biscayne Health And Rehabilitation Center,Biscayne Health And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.8918543,-80.1659666,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Boca Raton Rehabilitation Center,Boca Raton Rehabilitation Center,Boca Raton,Region 9,Palm Beach,26.3607273,-80.1024455,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bonifay Nursing And Rehab Center,Bonifay Nursing And Rehab Center,Bonifay,Region 2,Holmes,30.7817976,-85.6839311,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Boulevard Rehabilitation Center,Boulevard Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5031808,-80.0707886,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bradenton Health Care,Bradenton Health Care,Bradenton,Region 6,Manatee,27.462173,-82.62478,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brandon Center For Nursing & Rehabilitation,Brandon Center For Nursing & Rehabilitation,Brandon,Region 6,Hillsborough,27.93354,-82.3076,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Breeze Care Center,Breeze Care Center,Sarasota,Region 8,Sarasota,27.319707,-82.531379,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Breezy Hills Rehab And Care Center,Breezy Hills Rehab And Care Center,Lakeland,Region 6,Polk,28.1092682,-81.9464064,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bridgeview Center,Bridgeview Center,Ormond Beach,Region 4,Volusia,29.2753602,-81.0546463,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Bridgewalk On Harden Health And Rehabilitation, Llc",Bridgewalk On Harden Health And Rehabilitation,Lakeland,Region 6,Polk,28.0087085,-81.9734536,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Bridgewater Park Health & Rehabilitation Center,Bridgewater Park Health & Rehabilitation Center,Ocala,Region 3,Marion,29.0874394,-82.2554302,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brookdale Palmer Ranch Snf,Brookdale Palmer Ranch Snf,Sarasota,Region 8,Sarasota,27.2467525,-82.4678543,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brooksville Healthcare Center,Brooksville Healthcare Center,Brooksville,Region 3,Hernando,28.5468604,-82.402702,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Broward Nursing & Rehabilitation Center,Broward Nursing & Rehabilitation Center,Fort Lauderdale,Region 10,Broward,26.1050295,-80.1423834,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Brynwood Health And Rehabilitation Center,Brynwood Health And Rehabilitation Center,Monticello,Region 2,Jefferson,30.5239601,-83.8739395,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Buffalo Crossings Healthcare & Rehabilitation Center,Buffalo Crossings Healthcare & Rehabilitation Center,The Villages,Region 3,Sumter,28.9290865,-82.0257578,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Canterbury Towers Inc,Canterbury Towers Inc,Tampa,Region 6,Hillsborough,27.9111047,-82.4912671,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Carrington Place Of St Pete,Carrington Place Of St Pete,Saint Petersburg,Region 5,Pinellas,27.868201,-82.6432141,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Carrollwood Care Center,Carrollwood Care Center,Tampa,Region 6,Hillsborough,28.0879705,-82.543042,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Casa Mora Rehabilitation And Extended Care,Casa Mora Rehabilitation And Extended Care,Bradenton,Region 6,Manatee,27.4798771,-82.6210177,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Central Park Healthcare And Rehabilitation Center,Central Park Healthcare And Rehabilitation Center,Brandon,Region 6,Hillsborough,27.927801,-82.2952,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Centre Pointe Health And Rehab Center,Centre Pointe Health And Rehab Center,Tallahassee,Region 2,Leon,30.4754158,-84.2405617,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Charlotte Bay Rehab And Care Center,Charlotte Bay Rehab And Care Center,Port Charlotte,Region 8,Charlotte,26.970819,-82.0786768,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Charming Lakes Rehab,Charming Lakes Rehab,Lakeland,Region 6,Polk,28.070929,-81.9453507,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Chateau At Moorings Park, The",Chateau At Moorings Park,Naples,Region 8,Collier,26.202624,-81.791125,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Chatham Glen Healthcare And Rehabilitation Center,Chatham Glen Healthcare And Rehabilitation Center,The Villages,Region 3,Marion,28.9807618,-82.0299846,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Chatsworth At Pga National, Llc",Chatsworth At Pga National,Palm Beach Gardens,Region 9,Palm Beach,26.810226,-80.1354669,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Chautauqua Springs Health Center,Chautauqua Springs Health Center,Defuniak Springs,Region 1,Walton,30.7095489,-86.1072158,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Children'S Comprehensive Care Center, Inc.","Children'S Comprehensive Care Center, Inc.",Pompano Beach,Region 10,Broward,26.231523,-80.1075899,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Chipola Health And Rehabilitation Center,Chipola Health And Rehabilitation Center,Marianna,Region 2,Jackson,30.7859341,-85.2377176,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Citrus Health And Rehabilitation Center,Citrus Health And Rehabilitation Center,Inverness,Region 3,Citrus,28.8308063,-82.3384658,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Claridge House Nursing And Rehabilitation Center,Claridge House Nursing And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.9033845,-80.1931295,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Clermont Health And Rehabilitation Center,Clermont Health And Rehabilitation Center,Clermont,Region 3,Lake,28.5464121,-81.7547677,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Clifford Chester Sims State Veterans Nursing Home,Clifford Chester Sims State Veterans Nursing Home,Panama City,Region 2,Bay,30.1759901,-85.5878778,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coastal Health And Rehabilitation Center,Coastal Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.214275,-81.0655249,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Colonial Lakes Health Care,Colonial Lakes Health Care,Winter Garden,Region 7,Orange,28.549976,-81.61148,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Colonial Skilled Nursing Facility, Llc",Colonial Skilled Nursing Facility,West Palm Beach,Region 9,Palm Beach,26.7357242,-80.0889806,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Commons At Orlando Lutheran Towers,Commons At Orlando Lutheran Towers,Orlando,Region 7,Orange,28.5400828,-81.3738082,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Community Health And Rehabilitation Center,Community Health And Rehabilitation Center,Panama City,Region 2,Bay,30.2141996,-85.6086312,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Concordia Manor,Concordia Manor,Saint Petersburg,Region 5,Pinellas,27.7851194,-82.6379995,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Concordia Village Of Tampa,Concordia Village Of Tampa,Tampa,Region 6,Hillsborough,28.0701391,-82.4164031,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Conway Lakes Health & Rehabilitation Center,Conway Lakes Health & Rehabilitation Center,Orlando,Region 7,Orange,28.5251551,-81.3213976,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coquina Center,Coquina Center,Ormond Beach,Region 4,Volusia,29.2851109,-81.077406,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Coral Bay At Pensacola, Llc",Coral Bay At Pensacola,Pensacola,Region 1,Escambia,30.4143537,-87.2243608,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coral Bay Healthcare And Rehabilitation,Coral Bay Healthcare And Rehabilitation,West Palm Beach,Region 9,Palm Beach,26.634642,-80.12182,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coral Gables Nursing And Rehabilitation Center,Coral Gables Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7623189,-80.3096111,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Coral Trace Health Care,Coral Trace Health Care,Cape Coral,Region 8,Lee,26.64706,-81.97501,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Countryside Rehab And Healthcare Center,Countryside Rehab And Healthcare Center,Palm Harbor,Region 5,Pinellas,28.056837,-82.71273,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Courtyards Of Orlando Care Center,Courtyards Of Orlando Care Center,Orlando,Region 7,Orange,28.5424973,-81.3795088,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Covenant Village Care Center,Covenant Village Care Center,Plantation,Region 10,Broward,26.1221511,-80.2682968,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Crestview Rehabilitation Center, Llc",Crestview Rehabilitation Center,Crestview,Region 1,Okaloosa,30.764559,-86.5528079,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Cross City Nursing And Rehabilitation Center,Cross City Nursing And Rehabilitation Center,Cross City,Region 3,Dixie,29.6419326,-83.1240326,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Crossings Care Center,Crossings Care Center,Lake Worth,Region 9,Palm Beach,26.6125748,-80.1153426,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Crystal Health And Rehab Center, Llc",Crystal Health And Rehab Center,Tavernier,Region 8,Monroe,24.9818515,-80.5507659,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Crystal River Health And Rehabilitation Center,Crystal River Health And Rehabilitation Center,Crystal River,Region 3,Citrus,28.8963405,-82.5727227,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Cypress Care Center And Rehab,Cypress Care Center And Rehab,Wildwood,Region 3,Sumter,28.8551211,-82.0358821,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Cypress Cove Care Center,Cypress Cove Care Center,Crystal River,Region 3,Citrus,28.8903116,-82.5796385,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Cypress Village,Cypress Village,Jacksonville,Region 4,Duval,30.2535022,-81.4556529,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Dania Pointe Care Center,Dania Pointe Care Center,Dania Beach,Region 10,Broward,26.0536775,-80.1598428,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Darcy Hall Of Life Care,Darcy Hall Of Life Care,West Palm Beach,Region 9,Palm Beach,26.7116296,-80.0948383,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Daytona Beach Health And Rehabilitation Center,Daytona Beach Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.2230669,-81.0517812,_____,_____,_____,_____,_____,_____,_____,_____,_____
-De Luna Health And Rehabilitation Center,De Luna Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5323797,-87.2836211,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Debary Health And Rehabilitation Center,Debary Health And Rehabilitation Center,Debary,Region 4,Volusia,28.8931952,-81.3066069,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Delaney Park Health And Rehabilitation Center,Delaney Park Health And Rehabilitation Center,Orlando,Region 7,Orange,28.5298632,-81.3744483,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Deltona Health Care,Deltona Health Care,Deltona,Region 4,Volusia,28.917261,-81.22038,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Desoto Health And Rehab,Desoto Health And Rehab,Arcadia,Region 8,De Soto,27.2287,-81.849524,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Diamond Ridge Health And Rehabilitation Center,Diamond Ridge Health And Rehabilitation Center,Lecanto,Region 3,Citrus,28.9038797,-82.4797145,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Dolphin Pointe Health Care Center,Dolphin Pointe Health Care Center,Jacksonville,Region 4,Duval,30.3586655,-81.610957,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Douglas Jacobson State Veterans Nursing Home,Douglas Jacobson State Veterans Nursing Home,Port Charlotte,Region 8,Charlotte,27.0269946,-82.0982262,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Eagle Lake Nursing And Rehab Care Center,Eagle Lake Nursing And Rehab Care Center,St Petersburg,Region 5,Pinellas,27.7822598,-82.7288126,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Eden Springs Nursing And Rehab Center,Eden Springs Nursing And Rehab Center,Crawfordville,Region 2,Wakulla,30.1092317,-84.3808428,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Edward J Healey Rehabilitation And Nursing Center,Edward J Healey Rehabilitation And Nursing Center,Riviera Beach,Region 9,Palm Beach,26.782279,-80.1086409,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Elevate Care Lake Worth,Elevate Care Lake Worth,Lake Worth,Region 9,Palm Beach,26.6012802,-80.0608506,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Emerald Coast Center,Emerald Coast Center,Fort Walton Beach,Region 1,Okaloosa,30.4082932,-86.606065,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Emerald Shores Health And Rehabilitation,Emerald Shores Health And Rehabilitation,Callaway,Region 2,Bay,30.159767,-85.59013,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Englewood Healthcare And Rehabilitation Center,Englewood Healthcare And Rehabilitation Center,Englewood,Region 8,Charlotte,26.94182,-82.32414,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Evans Health Care,Evans Health Care,Fort Myers,Region 8,Lee,26.607925,-81.85818,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Excel Care Center,Excel Care Center,Tampa,Region 6,Hillsborough,28.0591536,-82.4277804,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fairway Oaks Center,Fairway Oaks Center,Tampa,Region 6,Hillsborough,28.0734205,-82.4109233,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Flagler Health And Rehabilitation Center,Flagler Health And Rehabilitation Center,Bunnell,Region 4,Flagler,29.4700728,-81.2497884,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fleet Landing,Fleet Landing,Atlantic Beach,Region 4,Duval,30.3538087,-81.4105476,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Florida Presbyterian Homes Inc,Florida Presbyterian Homes Inc,Lakeland,Region 6,Polk,28.032142,-81.9620644,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fort Myers Rehabilitation And Nursing Center,Fort Myers Rehabilitation And Nursing Center,Fort Myers,Region 8,Lee,26.5684891,-81.8745229,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Fort Walton Rehabilitation Center, Llc",Fort Walton Rehabilitation Center,Fort Walton Beach,Region 1,Okaloosa,30.4623141,-86.6361637,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fountain Manor Health & Rehabilitation Center,Fountain Manor Health & Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.8989725,-80.1914013,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Fouraker Hills Rehab And Nursing Center,Fouraker Hills Rehab And Nursing Center,Jacksonville,Region 4,Duval,30.2904176,-81.7823058,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Freedom Pointe Health Center,Freedom Pointe Health Center,The Villages,Region 3,Lake,28.951712,-81.9650883,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Freedom Square Health Care Center,Freedom Square Health Care Center,Seminole,Region 5,Pinellas,27.8425255,-82.789194,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ft Lauderdale Health And Rehabilitation Center,Ft Lauderdale Health And Rehabilitation Center,Fort Lauderdale,Region 10,Broward,26.170952,-80.1318453,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Gainesville Health & Rehabilitation,Gainesville Health & Rehabilitation,Gainesville,Region 3,Alachua,29.6578826,-82.3939895,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Garden View Health And Rehabilitation Center,Garden View Health And Rehabilitation Center,Vero Beach,Region 9,Indian River,27.6405104,-80.3924463,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Gardens At Terracina Health & Rehabilitation,Gardens At Terracina Health & Rehabilitation,Naples,Region 8,Collier,26.1403353,-81.727835,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Gardens Court, The",Gardens Court,Palm Beach Gardens,Region 9,Palm Beach,26.8459582,-80.0937648,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Glades Health Care Center,Glades Health Care Center,Pahokee,Region 9,Palm Beach,26.8212567,-80.6601358,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Glades West Rehabilitation And Nursing Center,Glades West Rehabilitation And Nursing Center,Miramar,Region 10,Broward,25.9685584,-80.3584686,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Glenridge On Palmer Ranch Inc.,Glenridge On Palmer Ranch Inc.,Sarasota,Region 8,Sarasota,27.247324,-82.4609046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Golfcrest Nursing Center,Golfcrest Nursing Center,Hollywood,Region 10,Broward,26.0078913,-80.1811793,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Golfview Nursing Center,Golfview Nursing Center,Saint Petersburg,Region 5,Pinellas,27.7815959,-82.6830305,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Good Samaritan Center,Good Samaritan Center,Live Oak,Region 3,Suwannee,30.253746,-83.233258,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Good Samaritan Society-Daytona,Good Samaritan Society-Daytona,Daytona Beach,Region 4,Volusia,29.2054557,-81.0210189,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Good Samaritan Society-Florida Lutheran,Good Samaritan Society-Florida Lutheran,Deland,Region 4,Volusia,29.0344213,-81.2879589,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Good Samaritan Society-Kissimmee Village,Good Samaritan Society-Kissimmee Village,Kissimmee,Region 7,Osceola,28.2585845,-81.4485778,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Graceville Health Center,Graceville Health Center,Graceville,Region 2,Jackson,30.9640097,-85.5077103,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Grand Boulevard Health And Rehabilitation Center,Grand Boulevard Health And Rehabilitation Center,Miramar Beach,Region 1,Walton,30.379259,-86.309372,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Green Cove Springs Rehabilitation And Care Center,Green Cove Springs Rehabilitation And Care Center,Green Cove Springs,Region 4,Clay,29.987556,-81.683914,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Groves Center,Groves Center,Lake Wales,Region 6,Polk,27.8926829,-81.5649992,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Guardian Care Nursing & Rehabilitation Center,Guardian Care Nursing & Rehabilitation Center,Orlando,Region 7,Orange,28.5393041,-81.4147765,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Gulf Coast Village,Gulf Coast Village,Cape Coral,Region 8,Lee,26.6283265,-81.9723201,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Habana Health Care Center,Habana Health Care Center,Tampa,Region 6,Hillsborough,27.985392,-82.48998,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Haines City Rehabilitation And Nursing Center,Haines City Rehabilitation And Nursing Center,Haines City,Region 6,Polk,28.1002645,-81.6223195,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Harbour Health Center,Harbour Health Center,Port Charlotte,Region 8,Charlotte,26.971071,-82.0722571,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Harbour'S Edge,Harbour'S Edge,Delray Beach,Region 9,Palm Beach,26.441902,-80.06694,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Harmony Health Center,Harmony Health Center,Miami,Region 11,Miami-Dade,25.6862538,-80.354076,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Haven Of Our Lady Of Peace,Haven Of Our Lady Of Peace,Pensacola,Region 1,Escambia,30.4680165,-87.1995441,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hawthorne Center For Rehabilitation And Healing Of Ocala,Hawthorne Center For Rehabilitation And Healing Of Ocala,Ocala,Region 3,Marion,29.147359,-82.176014,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Health And Rehabilitation Centre At Dolphins View,Health And Rehabilitation Centre At Dolphins View,South Pasadena,Region 5,Pinellas,27.7508,-82.73847,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Health Center At Brentwood,Health Center At Brentwood,Lecanto,Region 3,Citrus,28.904322,-82.46672,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Health Center At Sinai Residences,Health Center At Sinai Residences,Boca Raton,Region 9,Palm Beach,26.3629,-80.1921038,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Health Central Park,Health Central Park,Winter Garden,Region 7,Orange,28.5724971,-81.5818406,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Healthcare Center Of Waterford,Healthcare Center Of Waterford,Hialeah Gardens,Region 11,Miami-Dade,25.8635318,-80.333778,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Healthpark Care Center,Healthpark Care Center,Fort Myers,Region 8,Lee,26.5103831,-81.9119972,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Heritage Healthcare Center At Tallahassee,Heritage Healthcare Center At Tallahassee,Tallahassee,Region 2,Leon,30.473015,-84.22729,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Heritage Park Nursing Center,Heritage Park Nursing Center,Bradenton,Region 6,Manatee,27.4785559,-82.6209576,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Heron Pointe Health And Rehabilitation,Heron Pointe Health And Rehabilitation,Brooksville,Region 3,Hernando,28.576633,-82.37795,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hialeah Shores Nursing And Rehab Center,Hialeah Shores Nursing And Rehab Center,Miami,Region 11,Miami-Dade,25.8540196,-80.2495636,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hidden Lakes Senior Living Community,Hidden Lakes Senior Living Community,Vero Beach,Region 9,Indian River,27.6543711,-80.3919998,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Highland Pines Rehabilitation Center,Highland Pines Rehabilitation Center,Clearwater,Region 5,Pinellas,27.9536945,-82.7745725,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Home Association, The",Home Association,Tampa,Region 6,Hillsborough,27.9708779,-82.4467617,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Homestead Manor A Palace Community,Homestead Manor A Palace Community,Homestead,Region 11,Miami-Dade,25.4830114,-80.4801318,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Hunters Creek Nursing And Rehab Center,Hunters Creek Nursing And Rehab Center,Orlando,Region 7,Orange,28.3642692,-81.4204061,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Indian River Center,Indian River Center,West Melbourne,Region 7,Brevard,28.0937021,-80.6763088,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Indigo Manor,Indigo Manor,Daytona Beach,Region 4,Volusia,29.201205,-81.086046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Inn At Freedom Village, The",Inn At Freedom Village,Bradenton,Region 6,Manatee,27.4818265,-82.6254321,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Inn At Sarasota Bay Club,Inn At Sarasota Bay Club,Sarasota,Region 8,Sarasota,27.3497994,-82.5475335,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Island Health And Rehabilitation Center,Island Health And Rehabilitation Center,Merritt Is,Region 7,Brevard,28.3831699,-80.7059644,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Island Lake Center,Island Lake Center,Longwood,Region 7,Seminole,28.6963472,-81.3650714,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jackson Gardens Health And Rehabilitation Center,Jackson Gardens Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.793391,-80.2085663,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jackson Memorial Long Term Care Center,Jackson Memorial Long Term Care Center,Miami,Region 11,Miami-Dade,25.7994591,-80.2318898,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jackson Memorial Perdue Medical Center,Jackson Memorial Perdue Medical Center,Cutler Ridge,Region 11,Miami-Dade,25.586602,-80.326112,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jacksonville Center For Rehabilitation And Healthcare,Jacksonville Center For Rehabilitation And Healthcare,Jacksonville,Region 4,Duval,30.3709157,-81.6840106,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jacksonville Nursing And Rehab Center,Jacksonville Nursing And Rehab Center,Jacksonville,Region 4,Duval,30.437779,-81.7144735,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Jacksonville Rehabilitation And Nursing Center,Jacksonville Rehabilitation And Nursing Center,Jacksonville,Region 4,Duval,30.2802229,-81.7450538,_____,_____,_____,_____,_____,_____,_____,_____,_____
-John Knox Village Of Pompano Beach,John Knox Village Of Pompano Beach,Pompano Beach,Region 10,Broward,26.2262306,-80.1303868,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Joseph L. Morse Health Center, Inc., The","Joseph L. Morse Health Center, Inc.",West Palm Bch,Region 9,Palm Beach,26.7461671,-80.1160594,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Kendall Lakes Healthcare And Rehab Center,Kendall Lakes Healthcare And Rehab Center,Miami,Region 11,Miami-Dade,25.7318528,-80.3349318,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Kensington Gardens Rehab And Nursing Center,Kensington Gardens Rehab And Nursing Center,Clearwater,Region 5,Pinellas,27.9741767,-82.7519895,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Keystone Rehabilitation And Health Center,Keystone Rehabilitation And Health Center,Kissimmee,Region 7,Osceola,28.31868,-81.41507,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Kissimmee Nursing & Rehabilitation Center,Kissimmee Nursing & Rehabilitation Center,Kissimmee,Region 7,Osceola,28.3200591,-81.4151278,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Krystal Bay Nursing And Rehabilitation,Krystal Bay Nursing And Rehabilitation,North Miami Beach,Region 11,Miami-Dade,25.9290739,-80.1564442,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Labelle Health And Rehabilitation Center,Labelle Health And Rehabilitation Center,Labelle,Region 8,Hendry,26.7583312,-81.4341219,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lady Lake Specialty Care Center,Lady Lake Specialty Care Center,Lady Lake,Region 3,Lake,28.9370485,-81.9343191,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lafayette Nursing And Rehabilitation Center,Lafayette Nursing And Rehabilitation Center,Mayo,Region 3,Lafayette,30.0552017,-83.1806257,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Bennet Center For Rehabilitation & Healing,Lake Bennet Center For Rehabilitation & Healing,Ocoee,Region 7,Orange,28.5545271,-81.5323533,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Mary Health And Rehabilitation Center,Lake Mary Health And Rehabilitation Center,Lake Mary,Region 7,Seminole,28.757696,-81.349976,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Park Of Madison Nursing And Rehabilitation Center,Lake Park Of Madison Nursing And Rehabilitation Center,Madison,Region 2,Madison,30.471803,-83.430953,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Placid Health And Rehabilitation Center,Lake Placid Health And Rehabilitation Center,Lake Placid,Region 6,Highlands,27.3207082,-81.3716892,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lake Wales Wellness And Rehabilitation Center,Lake Wales Wellness And Rehabilitation Center,Lake Wales,Region 6,Polk,27.913109,-81.5883944,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeland Hills Center,Lakeland Hills Center,Lakeland,Region 6,Polk,28.0702331,-81.9518608,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakes At Lutz Health & Rehabilitation Center,Lakes At Lutz Health & Rehabilitation Center,Lutz,Region 6,Hillsborough,28.1522006,-82.4896517,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Lakes Of Clermont Health And Rehabilitation Center, The",Lakes Of Clermont Health And Rehabilitation Center,Clermont,Region 3,Lake,28.541964,-81.7242326,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeside Center For Rehabilitation And Healing,Lakeside Center For Rehabilitation And Healing,Jacksonville,Region 4,Duval,30.4395679,-81.6778039,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeside Neurologic,Lakeside Neurologic,Wauchula,Region 6,Hardee,27.548233,-81.920249,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lakeview Terrace Rehabilitation And Health Care Center,Lakeview Terrace Rehabilitation And Health Care Center,Altoona,Region 3,Lake,28.9640015,-81.6565241,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Lanier Rehabilitation Center,Lanier Rehabilitation Center,Jacksonville,Region 4,Duval,30.4674832,-81.5889612,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Larsen Health Center,Larsen Health Center,Fort Myers,Region 8,Lee,26.4942171,-81.9806141,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Laurellwood Fl Opco, Llc",Laurellwood Fl Opco,Saint Petersburg,Region 5,Pinellas,27.8240775,-82.6758401,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center At Wells Crossing,Life Care Center At Wells Crossing,Orange Park,Region 4,Clay,30.184955,-81.717369,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Citrus County,Life Care Center Of Citrus County,Lecanto,Region 3,Citrus,28.8723322,-82.4898105,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Estero,Life Care Center Of Estero,Estero,Region 8,Lee,26.4210274,-81.813563,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Hilliard,Life Care Center Of Hilliard,Hilliard,Region 4,Nassau,30.693704,-81.9182348,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Jacksonville,Life Care Center Of Jacksonville,Jacksonville,Region 4,Duval,30.2495192,-81.6004952,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Melbourne,Life Care Center Of Melbourne,Melbourne,Region 7,Brevard,28.0892364,-80.6116659,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of New Port Richey,Life Care Center Of New Port Richey,New Port Richey,Region 5,Pasco,28.2251644,-82.6919944,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Ocala,Life Care Center Of Ocala,Ocala,Region 3,Marion,29.1470322,-82.1702914,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Orange Park,Life Care Center Of Orange Park,Orange Park,Region 4,Clay,30.1654258,-81.7409274,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Palm Bay,Life Care Center Of Palm Bay,Palm Bay,Region 7,Brevard,27.9998566,-80.6151254,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Pensacola,Life Care Center Of Pensacola,Pensacola,Region 1,Escambia,30.50847,-87.1983718,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Port St. Lucie,Life Care Center Of Port St. Lucie,Port St Lucie,Region 9,St. Lucie,27.2791028,-80.2900243,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Punta Gorda,Life Care Center Of Punta Gorda,Punta Gorda,Region 8,Charlotte,26.9267225,-82.0559544,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Life Care Center Of Winter Haven,Life Care Center Of Winter Haven,Winter Haven,Region 6,Polk,28.0058792,-81.7050295,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Lilac At Bayview, The",Lilac At Bayview,St Augustine,Region 4,St. Johns,29.8817963,-81.3075859,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Lodge At Cypress Cove, The",Lodge At Cypress Cove,Fort Myers,Region 8,Lee,26.5040939,-81.9180365,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Longwood Health And Rehabilitation Center,Longwood Health And Rehabilitation Center,Longwood,Region 7,Seminole,28.6863563,-81.3348275,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.","Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.",West Palm Beach,Region 9,Palm Beach,26.7109097,-80.0510038,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Macclenny Nursing And Rehab Center,Macclenny Nursing And Rehab Center,Macclenny,Region 4,Baker,30.2733308,-82.1192937,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Madison Health And Rehabilitation Center,Madison Health And Rehabilitation Center,Madison,Region 2,Madison,30.481955,-83.4514893,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Madison Pointe Care Center,Madison Pointe Care Center,New Port Richey,Region 5,Pasco,28.252978,-82.714927,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Magnolia Health And Rehabilitation Center,Magnolia Health And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.319786,-82.51353,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Majestic Oaks,Majestic Oaks,Orange City,Region 4,Volusia,28.940101,-81.2813324,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Manatee Springs Rehabilitation And Nursing Center,Manatee Springs Rehabilitation And Nursing Center,Bradenton,Region 6,Manatee,27.441794,-82.554248,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Manor At Blue Water Bay, The",Manor At Blue Water Bay,Niceville,Region 1,Okaloosa,30.4834183,-86.4129405,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Margate Health And Rehabilitation Center,Margate Health And Rehabilitation Center,Margate,Region 10,Broward,26.2636959,-80.2048097,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Marianna Health And Rehabilitation Center,Marianna Health And Rehabilitation Center,Marianna,Region 2,Jackson,30.7867868,-85.2380234,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Marion And Bernard L Samson Nursing Center,Marion And Bernard L Samson Nursing Center,Saint Petersburg,Region 5,Pinellas,27.7738748,-82.7138835,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Martin Coast Center For Rehabilitation And Healthcare,Martin Coast Center For Rehabilitation And Healthcare,Hobe Sound,Region 9,Martin,27.0884818,-80.149972,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Masonic Home Of Florida,Masonic Home Of Florida,St Petersburg,Region 5,Pinellas,27.8019878,-82.633414,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Meadows Center For Nursing And Healing, The",Meadows Center For Nursing And Healing,Sarasota,Region 8,Sarasota,27.3564915,-82.4665103,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Medicana Nursing And Rehab Center,Medicana Nursing And Rehab Center,Lake Worth,Region 9,Palm Beach,26.6175189,-80.0658052,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Melbourne Terrace Rehabilitation Center,Melbourne Terrace Rehabilitation Center,Melbourne,Region 7,Brevard,28.056066,-80.618137,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Memorial Manor,Memorial Manor,Pembroke Pines,Region 10,Broward,26.0042123,-80.2622916,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Menorah House,Menorah House,Boca Raton,Region 9,Palm Beach,26.3585358,-80.1986794,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Metro West Nursing And Rehab Center,Metro West Nursing And Rehab Center,Orlando,Region 7,Orange,28.5313523,-81.4627635,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Miami Shores Nursing And Rehab Center,Miami Shores Nursing And Rehab Center,Miami,Region 11,Miami-Dade,25.860665,-80.210204,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Middleburg Rehabilitation And Nursing Center,Middleburg Rehabilitation And Nursing Center,Middleburg,Region 4,Clay,30.1117839,-81.8133773,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Miracle Hill Nursing And Rehabilitation Center, Inc","Miracle Hill Nursing And Rehabilitation Center, Inc",Tallahassee,Region 2,Leon,30.4573885,-84.2996048,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Morton Plant Rehabilitation Center,Morton Plant Rehabilitation Center,Belleair,Region 5,Pinellas,27.950398,-82.8005453,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Moultrie Creek Nursing And Rehab Center,Moultrie Creek Nursing And Rehab Center,Saint Augustine,Region 4,St. Johns,29.8091268,-81.325446,_____,_____,_____,_____,_____,_____,_____,_____,_____
-North Beach Healthcare And Rehabilitation Center,North Beach Healthcare And Rehabilitation Center,North Miami Beach,Region 11,Miami-Dade,25.7318528,-80.3349318,_____,_____,_____,_____,_____,_____,_____,_____,_____
-North Dade Nursing And Rehabilitation Center,North Dade Nursing And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.9004025,-80.1731714,_____,_____,_____,_____,_____,_____,_____,_____,_____
-North Florida Rehabilitation And Specialty Care,North Florida Rehabilitation And Specialty Care,Gainesville,Region 3,Alachua,29.661734,-82.413994,_____,_____,_____,_____,_____,_____,_____,_____,_____
-North Lake Care Center And Rehab,North Lake Care Center And Rehab,Lake Park,Region 9,Palm Beach,26.7936814,-80.0683959,_____,_____,_____,_____,_____,_____,_____,_____,_____
-North Port Rehabilitation And Nursing Center,North Port Rehabilitation And Nursing Center,North Port,Region 8,Sarasota,27.051594,-82.2406395,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Northbrook Center For Rehabilitation And Healing,Northbrook Center For Rehabilitation And Healing,Brooksville,Region 3,Hernando,28.5504736,-82.3936188,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Northdale Rehabilitation Center,Northdale Rehabilitation Center,Tampa,Region 6,Hillsborough,28.0852359,-82.4949484,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nspire Healthcare Kendall,Nspire Healthcare Kendall,Miami,Region 11,Miami-Dade,25.6791526,-80.4178201,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nspire Healthcare Lauderhill,Nspire Healthcare Lauderhill,Lauderhill,Region 10,Broward,26.1595166,-80.2235829,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nspire Healthcare Tamarac,Nspire Healthcare Tamarac,Tamarac,Region 10,Broward,26.197091,-80.257046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nursing & Rehabilitation Center Of Bayonet Point,Nursing & Rehabilitation Center Of Bayonet Point,Hudson,Region 5,Pasco,28.3619938,-82.6875863,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Nursing Center At La Posada,Nursing Center At La Posada,Palm Beach Gardens,Region 9,Palm Beach,26.8522281,-80.085463,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Oak Hammock At The University Of Florida Inc,Oak Hammock At The University Of Florida Inc,Gainesville,Region 3,Alachua,29.6054187,-82.3602764,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Oak Manor Healthcare & Rehabilitation Center,Oak Manor Healthcare & Rehabilitation Center,Largo,Region 5,Pinellas,27.8954888,-82.8239257,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Oaks At Avon,Oaks At Avon,Avon Park,Region 6,Highlands,27.6071889,-81.513448,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ocala Health And Rehabilitation Center,Ocala Health And Rehabilitation Center,Ocala,Region 3,Marion,29.16491,-82.1230176,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ocala Oaks Rehabilitation Center,Ocala Oaks Rehabilitation Center,Ocala,Region 3,Marion,29.2004276,-82.0805037,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Okeechobee Health Care Facility,Okeechobee Health Care Facility,Okeechobee,Region 9,Okeechobee,27.2586757,-80.8281579,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Olive Branch Health And Rehabilitation Center,Olive Branch Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5147227,-87.221793,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Orange City Nursing And Rehab Center,Orange City Nursing And Rehab Center,Debary,Region 4,Volusia,28.9025261,-81.2895087,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Orange Park Rehabilitation And Nursing Center,Orange Park Rehabilitation And Nursing Center,Orange Park,Region 4,Clay,30.1671774,-81.7395871,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Orlando Health And Rehabilitation Center,Orlando Health And Rehabilitation Center,Orlando,Region 7,Orange,28.5112231,-81.3917132,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Orlando Health Center For Rehabilitation,Orlando Health Center For Rehabilitation,Ocoee,Region 7,Orange,28.5487242,-81.5228598,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ormond Rehabilitation And Nursing Center,Ormond Rehabilitation And Nursing Center,Ormond Beach,Region 4,Volusia,29.2704075,-81.0930225,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Osprey Point Nursing Center,Osprey Point Nursing Center,Bushnell,Region 3,Sumter,28.680447,-82.11162,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palatka Center For Rehabilitation And Healing,Palatka Center For Rehabilitation And Healing,Palatka,Region 3,Putnam,29.6489478,-81.6931477,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Beach Nursing Center,Palm Beach Nursing Center,Lake Worth,Region 9,Palm Beach,26.583546,-80.0905862,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm City Nursing And Rehab Center,Palm City Nursing And Rehab Center,Palm City,Region 9,Martin,27.1621969,-80.2874922,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Aventura,Palm Garden Of Aventura,North Miami Beach,Region 11,Miami-Dade,25.9721372,-80.1470354,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Clearwater,Palm Garden Of Clearwater,Clearwater,Region 5,Pinellas,28.048064,-82.710544,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Gainesville,Palm Garden Of Gainesville,Gainesville,Region 3,Alachua,29.6507393,-82.4065559,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Jacksonville,Palm Garden Of Jacksonville,Jacksonville,Region 4,Duval,30.2669442,-81.6082755,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Largo,Palm Garden Of Largo,Largo,Region 5,Pinellas,27.866944,-82.7629095,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Ocala,Palm Garden Of Ocala,Ocala,Region 3,Marion,29.152368,-82.169711,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Orlando,Palm Garden Of Orlando,Orlando,Region 7,Orange,28.5531147,-81.2531058,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Pinellas,Palm Garden Of Pinellas,Largo,Region 5,Pinellas,27.9027719,-82.7855077,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Port St. Lucie,Palm Garden Of Port St. Lucie,Port Saint Lucie,Region 9,St. Lucie,27.2858901,-80.2936014,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Sun City,Palm Garden Of Sun City,Sun City Center,Region 6,Hillsborough,27.7175393,-82.3708106,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Vero Beach,Palm Garden Of Vero Beach,Vero Beach,Region 9,Indian River,27.6596713,-80.4021728,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of West Palm Beach,Palm Garden Of West Palm Beach,West Palm Beach,Region 9,Palm Beach,26.7143654,-80.0791795,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Garden Of Winter Haven,Palm Garden Of Winter Haven,Winter Haven,Region 6,Polk,28.0048691,-81.7097956,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palm Vista Nursing And Rehabilitation Center,Palm Vista Nursing And Rehabilitation Center,Key West,Region 8,Monroe,24.5807615,-81.7438471,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palmetto Care Center,Palmetto Care Center,Hialeah,Region 11,Miami-Dade,25.8836357,-80.3289268,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palmetto Subacute Care Center,Palmetto Subacute Care Center,Miami,Region 11,Miami-Dade,25.7620701,-80.318658,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Palms Care Center,Palms Care Center,Lauderdale Lakes,Region 10,Broward,26.1677572,-80.2119128,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Palms Rehabilitation And Healthcare Center, The",Palms Rehabilitation And Healthcare Center,Palm Bay,Region 7,Brevard,28.0149,-80.62168,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Park Meadows Healthcare & Rehabilitation Center,Park Meadows Healthcare & Rehabilitation Center,Gainesville,Region 3,Alachua,29.6164615,-82.3703046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Park Ridge Nursing Center,Park Ridge Nursing Center,Jacksonville,Region 4,Duval,30.3183862,-81.6819901,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Parklands Care Center,Parklands Care Center,Gainesville,Region 3,Alachua,29.637104,-82.336051,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Parks Healthcare And Rehabilitation Center,Parks Healthcare And Rehabilitation Center,Orlando,Region 7,Orange,28.426018,-81.4025,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Parkside Health And Rehabilitation Center,Parkside Health And Rehabilitation Center,Deland,Region 4,Volusia,29.0221338,-81.2984618,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Parkview Rehabilitation Center At Winter Park,Parkview Rehabilitation Center At Winter Park,Winter Park,Region 7,Orange,28.5968069,-81.3245267,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Pavilion For Health Care, The",Pavilion For Health Care,Penney Farms,Region 4,Clay,29.9765033,-81.8080673,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Peninsula Rehabilitation And Nursing Center,Peninsula Rehabilitation And Nursing Center,Tarpon Springs,Region 5,Pinellas,28.1660671,-82.7429544,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Perry Oaks Health Care,Perry Oaks Health Care,Perry,Region 2,Taylor,30.125755,-83.58967,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pinecrest Rehabilitation Center,Pinecrest Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.900539,-80.192733,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pinellas Point Nursing And Rehab Center,Pinellas Point Nursing And Rehab Center,Saint Petersburg,Region 5,Pinellas,27.7170735,-82.6761401,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pines Nursing Home,Pines Nursing Home,Miami,Region 11,Miami-Dade,25.9050082,-80.1918302,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pines Of Sarasota,Pines Of Sarasota,Sarasota,Region 8,Sarasota,27.3503978,-82.5392861,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Plantation Bay Rehabilitation Center,Plantation Bay Rehabilitation Center,Saint Cloud,Region 7,Osceola,28.253927,-81.31378,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Plaza Health And Rehab,Plaza Health And Rehab,Gainesville,Region 3,Alachua,29.6141107,-82.3953115,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Plaza West Health Center,Plaza West Health Center,Sun City Ctr,Region 6,Hillsborough,27.7205905,-82.3673629,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Plymouth Harbor Incorporated,Plymouth Harbor Incorporated,Sarasota,Region 8,Sarasota,27.3207697,-82.5704834,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ponce Health And Rehabilitation Center,Ponce Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7698891,-80.2143104,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Ponce Therapy Care Center And Rehab, The",Ponce Therapy Care Center And Rehab,Saint Augustine,Region 4,St. Johns,29.8644952,-81.3280336,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Port Charlotte Rehabilitation Center,Port Charlotte Rehabilitation Center,Port Charlotte,Region 8,Charlotte,27.0001731,-82.0303407,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Port Orange Nursing And Rehab Center,Port Orange Nursing And Rehab Center,Port Orange,Region 4,Volusia,29.118266,-81.0175724,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Port St. Lucie Rehabilitation And Healthcare,Port St. Lucie Rehabilitation And Healthcare,Port St Lucie,Region 9,St. Lucie,27.3423015,-80.3292388,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Premier Place At The Glenview,Premier Place At The Glenview,Naples,Region 8,Collier,26.2164802,-81.8104553,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Boca Raton,Region 9,Palm Beach,26.4088373,-80.1259923,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Delray),Promedica Skilled Nursing And Rehabilitation (Delray),Delray Beach,Region 9,Palm Beach,26.4661338,-80.0703428,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Fort Myers,Region 8,Lee,26.6598263,-81.8338588,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Sarasota East),Promedica Skilled Nursing And Rehabilitation (Sarasota East),Sarasota,Region 8,Sarasota,27.2748203,-82.4863586,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation (Sarasota West),Promedica Skilled Nursing And Rehabilitation (Sarasota West),Sarasota,Region 8,Sarasota,27.2748203,-82.4863586,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pruitthealth - Fleming Island,Pruitthealth - Fleming Island,Fleming Island,Region 4,Clay,30.0856547,-81.7183361,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pruitthealth - Panama City,Pruitthealth - Panama City,Panama City,Region 2,Bay,30.2062721,-85.6604461,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pruitthealth - Santa Rosa,Pruitthealth - Santa Rosa,Milton,Region 1,Santa Rosa,30.636028,-87.064573,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Pruitthealth - Southwood,Pruitthealth - Southwood,Tallahassee,Region 2,Leon,30.4136505,-84.2299274,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Radiant Nursing And Rehab At Palatka,Radiant Nursing And Rehab At Palatka,Palatka,Region 3,Putnam,29.6445043,-81.6609639,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Raydiant Health Care Of North Fort Myers,Raydiant Health Care Of North Fort Myers,North Fort Myers,Region 8,Lee,26.666992,-81.92082,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Regency Oaks Health Center,Regency Oaks Health Center,Clearwater,Region 5,Pinellas,27.9944138,-82.7241208,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Regents Park At Aventura,Regents Park At Aventura,Aventura,Region 11,Miami-Dade,25.9505693,-80.1502131,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Regents Park Of Sunrise,Regents Park Of Sunrise,Sunrise,Region 10,Broward,26.1707763,-80.2806777,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Regents Park Of Winter Park,Regents Park Of Winter Park,Winter Park,Region 7,Orange,28.6095161,-81.3106384,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rehab & Healthcare Center Of Cape Coral,Rehab & Healthcare Center Of Cape Coral,Cape Coral,Region 8,Lee,26.6027455,-81.9406261,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rehabilitation Center At Park Place,Rehabilitation Center At Park Place,Pensacola,Region 1,Escambia,30.4307599,-87.239291,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Renaissance At The Terraces,Renaissance At The Terraces,Bonita Springs,Region 8,Lee,26.3547862,-81.8060407,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ridgecrest Healthcare And Rehabilitation Center,Ridgecrest Healthcare And Rehabilitation Center,Deland,Region 4,Volusia,29.0493432,-81.3176238,_____,_____,_____,_____,_____,_____,_____,_____,_____
-River City Nursing And Rehab Center,River City Nursing And Rehab Center,Jacksonville,Region 4,Duval,30.4900872,-81.6334649,_____,_____,_____,_____,_____,_____,_____,_____,_____
-River Garden Hebrew Home For The Aged,River Garden Hebrew Home For The Aged,Jacksonville,Region 4,Duval,30.1663954,-81.5987808,_____,_____,_____,_____,_____,_____,_____,_____,_____
-River Valley Rehabilitation Center,River Valley Rehabilitation Center,Blountstown,Region 2,Calhoun,30.4587144,-85.0516791,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Riverchase Health And Rehabilitation Center,Riverchase Health And Rehabilitation Center,Quincy,Region 2,Gadsden,30.5685653,-84.5544357,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Riverside Care Center,Riverside Care Center,Miami,Region 11,Miami-Dade,25.7777742,-80.2091593,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Riverwood Center,Riverwood Center,Jacksonville,Region 4,Duval,30.274363,-81.591961,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Rohr Home, The",Rohr Home,Bartow,Region 6,Polk,27.8847721,-81.8219128,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rosewood Health And Rehabilitation Center,Rosewood Health And Rehabilitation Center,Orlando,Region 7,Orange,28.607286,-81.42754,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Rosewood Healthcare And Rehabilitation Center,Rosewood Healthcare And Rehabilitation Center,Pensacola,Region 1,Escambia,30.4435428,-87.2326754,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Royal Care Of Avon Park,Royal Care Of Avon Park,Avon Park,Region 6,Highlands,27.6281557,-81.5170873,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Royal Oak Nursing Center,Royal Oak Nursing Center,Dade City,Region 5,Pasco,28.3514804,-82.1993331,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach,Region 9,Palm Beach,26.6974932,-80.2106063,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Ruleme Center,Ruleme Center,Eustis,Region 3,Lake,28.825939,-81.690335,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sabal Palms Health & Rehabilitation,Sabal Palms Health & Rehabilitation,Largo,Region 5,Pinellas,27.9217737,-82.7691185,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sand Key Health And Rehabilitation Center,Sand Key Health And Rehabilitation Center,Clearwater,Region 5,Pinellas,27.730881,-82.639015,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sandy Ridge Center For Rehabilitation And Healing,Sandy Ridge Center For Rehabilitation And Healing,Milton,Region 1,Santa Rosa,30.6301571,-87.0636334,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Santa Rosa Center For Rehabilitation And Healing,Santa Rosa Center For Rehabilitation And Healing,Milton,Region 1,Santa Rosa,30.6296162,-87.0368919,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sarasota Memorial Nursing And Rehabilitation Center,Sarasota Memorial Nursing And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.2638533,-82.4574202,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sarasota Point Rehabilitation Center,Sarasota Point Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3257538,-82.5165331,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Savannah Cove,Savannah Cove,Maitland,Region 7,Orange,28.6314438,-81.3790081,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Seaside Health And Rehabilitation Center,Seaside Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.1892835,-81.0130486,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Seven Hills Health And Rehabilitation Center,Seven Hills Health And Rehabilitation Center,Tallahassee,Region 2,Leon,30.4753089,-84.2254374,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Shoal Creek Rehabilitation Center,Shoal Creek Rehabilitation Center,Crestview,Region 1,Okaloosa,30.733517,-86.56249,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Shore Acres Care Center And Rehab,Shore Acres Care Center And Rehab,Saint Petersburg,Region 5,Pinellas,27.8133502,-82.6024931,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Siesta Key Health And Rehabilitation Center,Siesta Key Health And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3754687,-82.5341965,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Silvercrest Health And Rehabilitation Center,Silvercrest Health And Rehabilitation Center,Crestview,Region 1,Okaloosa,30.7303583,-86.565033,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Coconut Creek,Solaris Healthcare Coconut Creek,Coconut Creek,Region 10,Broward,26.2747609,-80.1800958,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Daytona,Solaris Healthcare Daytona,Daytona Beach,Region 4,Volusia,29.2054328,-81.0634613,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Imperial,Solaris Healthcare Imperial,Naples,Region 8,Collier,26.2889509,-81.800146,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Lake City,Solaris Healthcare Lake City,Lake City,Region 3,Columbia,30.182354,-82.650458,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Merritt Island,Solaris Healthcare Merritt Island,Merritt Island,Region 7,Brevard,28.3899377,-80.7082025,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Osceola,Solaris Healthcare Osceola,Saint Cloud,Region 7,Osceola,28.227569,-81.3150259,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Pensacola,Solaris Healthcare Pensacola,Pensacola,Region 1,Escambia,30.516698,-87.221773,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Plant City,Solaris Healthcare Plant City,Plant City,Region 6,Hillsborough,28.0308141,-82.095759,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Healthcare Windermere,Solaris Healthcare Windermere,Orlando,Region 7,Orange,28.5004459,-81.4434006,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Solaris Senior Living North Naples,Solaris Senior Living North Naples,Naples,Region 8,Collier,26.2716734,-81.7805028,_____,_____,_____,_____,_____,_____,_____,_____,_____
-South Campus Care Center And Rehab,South Campus Care Center And Rehab,Leesburg,Region 3,Lake,28.8058186,-81.8674243,_____,_____,_____,_____,_____,_____,_____,_____,_____
-South Dade Nursing And Rehabilitation Center,South Dade Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.6076663,-80.3470212,_____,_____,_____,_____,_____,_____,_____,_____,_____
-South Heritage Health & Rehabilitation Center,South Heritage Health & Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.7481951,-82.6429939,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Southern Pines Nursing Center,Southern Pines Nursing Center,New Port Richey,Region 5,Pasco,28.2484938,-82.7067665,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Specialty Health And Rehabilitation Center,Specialty Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.48969,-87.3045255,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Spring Hill Health And Rehabilitation Center,Spring Hill Health And Rehabilitation Center,Brooksville,Region 3,Hernando,28.532927,-82.52496,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Spring Lake Rehabilitation Center,Spring Lake Rehabilitation Center,Winter Haven,Region 6,Polk,28.0374257,-81.7323578,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Springs At Boca Ciega Bay,Springs At Boca Ciega Bay,South Pasadena,Region 5,Pinellas,27.7574633,-82.7395969,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Springs At Lake Pointe Woods,Springs At Lake Pointe Woods,Sarasota,Region 8,Sarasota,27.239587,-82.498804,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Springtree Rehabilitation & Health Care Center,Springtree Rehabilitation & Health Care Center,Sunrise,Region 10,Broward,26.1708193,-80.2806127,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St Andrews Bay Skilled Nursing And Rehabilitation Center,St Andrews Bay Skilled Nursing And Rehabilitation Center,Panama City,Region 2,Bay,30.1859249,-85.6613022,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"St Annes Nursing Center, St Annes Residence Inc","St Annes Nursing Center, St Annes Residence Inc",Miami,Region 11,Miami-Dade,25.5895568,-80.3840606,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St Augustine Health And Rehabilitation Center,St Augustine Health And Rehabilitation Center,Saint Augustine,Region 4,St. Johns,29.8734415,-81.3309029,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St James Health And Rehabilitation Center,St James Health And Rehabilitation Center,Carrabelle,Region 2,Franklin,29.9040014,-84.5675673,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St. Amaro Post-Acute And Rehabilitation Center,St. Amaro Post-Acute And Rehabilitation Center,Wauchula,Region 6,Hardee,27.5344559,-81.8141953,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St. Andrew Post-Acute And Rehabilitation Center,St. Andrew Post-Acute And Rehabilitation Center,Tampa,Region 6,Hillsborough,28.109484,-82.503829,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St. Camillus Post-Acute And Rehabilitation Center,St. Camillus Post-Acute And Rehabilitation Center,Sebring,Region 6,Highlands,27.4850997,-81.436697,_____,_____,_____,_____,_____,_____,_____,_____,_____
-St. John'S Nursing Center,St. John'S Nursing Center,Lauderdale Lakes,Region 10,Broward,26.164589,-80.1931742,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"St. Mark Village, Inc.","St. Mark Village, Inc.",Palm Harbor,Region 5,Pinellas,28.0796409,-82.7362484,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Stuart Rehabilitation And Healthcare,Stuart Rehabilitation And Healthcare,Stuart,Region 9,Martin,27.1857133,-80.2371726,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sun Terrace Health Care Center,Sun Terrace Health Care Center,Sun City Center,Region 6,Hillsborough,27.7101662,-82.3557201,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sunnyside Nursing Home,Sunnyside Nursing Home,Sarasota,Region 8,Sarasota,27.3342994,-82.5250037,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sunrise Health And Rehabilitation Center,Sunrise Health And Rehabilitation Center,Sunrise,Region 10,Broward,26.1850159,-80.2832418,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Sunrise Point Health And Rehabilitation Center,Sunrise Point Health And Rehabilitation Center,Rockledge,Region 7,Brevard,28.3256659,-80.735503,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Surrey Place Healthcare And Rehabilitation,Surrey Place Healthcare And Rehabilitation,Bradenton,Region 6,Manatee,27.4801385,-82.6175272,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Surrey Place Nursing Center,Surrey Place Nursing Center,Live Oak,Region 3,Suwannee,30.290603,-82.971939,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Susanna Wesley Health Center,Susanna Wesley Health Center,Hialeah,Region 11,Miami-Dade,25.8702699,-80.3186433,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Suwannee Valley Nursing Center,Suwannee Valley Nursing Center,Jasper,Region 3,Hamilton,30.5218588,-82.9597161,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tallahassee Living Center,Tallahassee Living Center,Tallahassee,Region 2,Leon,30.458658,-84.24194,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tampa Lakes Health And Rehabilitation Center,Tampa Lakes Health And Rehabilitation Center,Lutz,Region 6,Hillsborough,28.0990007,-82.4544373,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tarpon Bayou Center,Tarpon Bayou Center,Tarpon Springs,Region 5,Pinellas,28.1517573,-82.767864,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Taylor Care Center,Taylor Care Center,Jacksonville,Region 4,Duval,30.257796,-81.621074,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Terrace Healthcare & Rehabilitation Center,Terrace Healthcare & Rehabilitation Center,Gainesville,Region 3,Alachua,29.6293977,-82.4192772,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Terrace Of Delray Beach Nursing And Rehabilitation Center The,Terrace Of Delray Beach Nursing And Rehabilitation Center The,Delray Beach,Region 9,Palm Beach,26.4384789,-80.1294861,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Terrace Of Hialeah, The",Terrace Of Hialeah,Hialeah,Region 11,Miami-Dade,25.8468202,-80.2856765,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Terrace Of Jacksonville, The",Terrace Of Jacksonville,Jacksonville,Region 4,Duval,30.181845,-81.608443,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Terrace Of Kissimmee, The",Terrace Of Kissimmee,Kissimmee,Region 7,Osceola,28.314178,-81.4075086,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Terraces Of Lake Worth Care Center,Terraces Of Lake Worth Care Center,Lake Worth,Region 9,Palm Beach,26.608389,-80.0657368,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Bristol Care Center,The Bristol Care Center,Tampa,Region 6,Hillsborough,28.0695678,-82.4395266,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Cedar At Mease Life,The Cedar At Mease Life,Dunedin,Region 5,Pinellas,28.014905,-82.7807914,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Edgewater At Waterman Village,The Edgewater At Waterman Village,Mount Dora,Region 3,Lake,28.8225154,-81.6468658,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Floridean Nursing And Rehabilitation Center,The Floridean Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.772528,-80.248405,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Lodge Health And Rehabilitation Center,The Lodge Health And Rehabilitation Center,Ocala,Region 3,Marion,29.1727091,-82.1303763,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Palms Nursing And Rehab At Orlando,The Palms Nursing And Rehab At Orlando,Orlando,Region 7,Orange,28.5215851,-81.3801606,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Preserve,The Preserve,Fort Myers,Region 8,Lee,26.5306491,-81.8483963,_____,_____,_____,_____,_____,_____,_____,_____,_____
-The Terrace At Courtenay Springs,The Terrace At Courtenay Springs,Merritt Island,Region 7,Brevard,28.3383488,-80.6888053,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tierra Pines Center,Tierra Pines Center,Largo,Region 5,Pinellas,27.8929319,-82.739948,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tiffany Hall Nursing And Rehab Center,Tiffany Hall Nursing And Rehab Center,Port Saint Lucie,Region 9,St. Lucie,27.2829462,-80.2938399,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Timberridge Nursing & Rehabilitation Center,Timberridge Nursing & Rehabilitation Center,Ocala,Region 3,Marion,29.0612508,-82.2814971,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tri-County Nursing Home,Tri-County Nursing Home,Trenton,Region 3,Gilchrist,29.6065101,-82.9247017,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Trinity Regional Rehab Center,Trinity Regional Rehab Center,Trinity,Region 5,Pasco,28.1904675,-82.6811341,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Tuskawilla Nursing And Rehab Center,Tuskawilla Nursing And Rehab Center,Winter Springs,Region 7,Seminole,28.6446377,-81.2731432,_____,_____,_____,_____,_____,_____,_____,_____,_____
-University Crossing,University Crossing,Jacksonville,Region 4,Duval,30.2907648,-81.5986952,_____,_____,_____,_____,_____,_____,_____,_____,_____
-University Hills Health And Rehabilitation,University Hills Health And Rehabilitation,Pensacola,Region 1,Escambia,30.54044,-87.21687,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Venice Health And Rehabilitation Center,Venice Health And Rehabilitation Center,Venice,Region 8,Sarasota,27.1065115,-82.4180045,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vero Beach Care Center,Vero Beach Care Center,Vero Beach,Region 9,Indian River,27.6610545,-80.3986565,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vi At Aventura,Vi At Aventura,Aventura,Region 11,Miami-Dade,25.9546261,-80.1379189,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vi At Lakeside Village,Vi At Lakeside Village,Lantana,Region 9,Palm Beach,26.5814302,-80.0849095,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vicar'S Landing Nursing Home,Vicar'S Landing Nursing Home,Ponte Vedra Beach,Region 4,St. Johns,30.2038515,-81.3872824,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Viera Del Mar Health And Rehabilitation Center,Viera Del Mar Health And Rehabilitation Center,Viera,Region 7,Brevard,28.225579,-80.7303574,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Viera Healthcare And Rehabilitation Center,Viera Healthcare And Rehabilitation Center,Melbourne,Region 7,Brevard,28.238965,-80.708241,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Villa Maria Nursing Center,Villa Maria Nursing Center,North Miami,Region 11,Miami-Dade,25.8899154,-80.1776886,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Villa Maria West Skilled Nursing Facility,Villa Maria West Skilled Nursing Facility,Hialeah Gardens,Region 11,Miami-Dade,25.8837561,-80.3429608,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Village On The Green,Village On The Green,Longwood,Region 7,Seminole,28.6925948,-81.4065093,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Village On The Isle,Village On The Isle,Venice,Region 8,Sarasota,27.0835632,-82.4380252,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Villages Rehabilitation And Nursing Center, The",Villages Rehabilitation And Nursing Center,Lady Lake,Region 3,Lake,28.9137,-81.9418623,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Vivo Healthcare Normandy,Vivo Healthcare Normandy,Jacksonville,Region 4,Duval,30.2905477,-81.7909127,_____,_____,_____,_____,_____,_____,_____,_____,_____
-W Frank Wells Nursing Home,W Frank Wells Nursing Home,Macclenny,Region 4,Baker,30.2865608,-82.1182183,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Washington Rehabilitation And Nursing Center,Washington Rehabilitation And Nursing Center,Chipley,Region 2,Washington,30.7668083,-85.5438178,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Water'S Edge Health And Rehabilitation,Water'S Edge Health And Rehabilitation,Palm City,Region 9,Martin,27.1878181,-80.2746286,_____,_____,_____,_____,_____,_____,_____,_____,_____
-"Waterford, The",Waterford,Juno Beach,Region 9,Palm Beach,26.85753,-80.05873,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Wedgewood Healthcare Center,Wedgewood Healthcare Center,Lakeland,Region 6,Polk,28.100277,-81.97101,_____,_____,_____,_____,_____,_____,_____,_____,_____
-West Altamonte Nursing & Rehabilitation Center,West Altamonte Nursing & Rehabilitation Center,Altamonte Springs,Region 7,Seminole,28.6590751,-81.4262322,_____,_____,_____,_____,_____,_____,_____,_____,_____
-West Broward Rehabilitation And Healthcare,West Broward Rehabilitation And Healthcare,Plantation,Region 10,Broward,26.1212095,-80.2510046,_____,_____,_____,_____,_____,_____,_____,_____,_____
-West Gables Health Care Center,West Gables Health Care Center,Miami,Region 11,Miami-Dade,25.7469755,-80.3166972,_____,_____,_____,_____,_____,_____,_____,_____,_____
-West Melbourne Health & Rehabilitation Center,West Melbourne Health & Rehabilitation Center,West Melbourne,Region 7,Brevard,28.0775991,-80.6566777,_____,_____,_____,_____,_____,_____,_____,_____,_____
-West Orange Center For Nursing And Healing,West Orange Center For Nursing And Healing,Ocoee,Region 7,Orange,28.5491013,-81.5405823,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westchester Gardens Health & Rehabilitation,Westchester Gardens Health & Rehabilitation,Clearwater,Region 5,Pinellas,28.0415306,-82.7070747,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Baldwin Park,Westminster Baldwin Park,Orlando,Region 7,Orange,28.5783405,-81.3206176,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Oaks,Westminster Oaks,Tallahassee,Region 2,Leon,30.4782997,-84.2047641,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Palms,Westminster Palms,Saint Petersburg,Region 5,Pinellas,27.7818249,-82.6280906,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Point Pleasant,Westminster Point Pleasant,Bradenton,Region 6,Manatee,27.4968462,-82.5772868,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster St. Augustine,Westminster St. Augustine,Saint Augustine,Region 4,St. Johns,29.9866893,-81.4795106,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Suncoast,Westminster Suncoast,Saint Petersburg,Region 5,Pinellas,27.7069206,-82.6481399,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Towers,Westminster Towers,Orlando,Region 7,Orange,28.5333885,-81.3792941,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Winter Park,Westminster Winter Park,Winter Park,Region 7,Orange,28.5832188,-81.3292835,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westminster Woods On Julington Creek,Westminster Woods On Julington Creek,Jacksonville,Region 4,St. Johns,30.1262612,-81.6238794,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Westwood Nursing And Rehabilitation Center,Westwood Nursing And Rehabilitation Center,Fort Walton Beach,Region 1,Okaloosa,30.4565334,-86.630577,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Williston Care Center,Williston Care Center,Williston,Region 3,Levy,29.388338,-82.4512634,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Willowbrooke Court At Azalea Trace,Willowbrooke Court At Azalea Trace,Pensacola,Region 1,Escambia,30.5397222,-87.2082228,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Willowbrooke Court At St Andrews Estates,Willowbrooke Court At St Andrews Estates,Boca Raton,Region 9,Palm Beach,26.3616651,-80.1407604,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Boca Raton,Region 9,Palm Beach,26.329794,-80.1517719,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Windsor Health And Rehabilitation Center,Windsor Health And Rehabilitation Center,Starke,Region 3,Bradford,29.9393639,-82.107004,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Windsor Woods Rehab And Healthcare Center,Windsor Woods Rehab And Healthcare Center,Hudson,Region 5,Pasco,28.3576011,-82.6918945,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Winkler Court,Winkler Court,Fort Myers,Region 8,Lee,26.6039125,-81.8455893,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Winter Park Care And Rehabilitation,Winter Park Care And Rehabilitation,Winter Park,Region 7,Orange,28.5964766,-81.3090224,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Wood Lake Health And Rehabilitation Center,Wood Lake Health And Rehabilitation Center,Greenacres,Region 9,Palm Beach,26.6570698,-80.1436095,_____,_____,_____,_____,_____,_____,_____,_____,_____
-Woodland Grove Healthcare & Rehabilitation Center,Woodland Grove Healthcare & Rehabilitation Center,Jacksonville,Region 4,Duval,30.2541063,-81.5872823,_____,_____,_____,_____,_____,_____,_____,_____,_____
+﻿nursing_home,nursing_home_label,city,region,county,latitude,longitude,overall_inspection,quality_of_care,quality_of_life,administration,nutrition_and_hydration,restraints_and_abuse,pressure_ulcers,decline,dignity
+Athens Post Acute,Athens Post Acute,Deland,Region 4,Volusia,29.021206,-81.3132879,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★☆☆☆☆
+Boca Ciega Center,Boca Ciega Center,Gulfport,Region 5,Pinellas,27.7560671,-82.7137144,★★☆☆☆,★★★☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆
+Braden River Rehabilitation Center Llc,Braden River Rehabilitation Center Llc,Bradenton,Region 6,Manatee,27.4952022,-82.5392131,★★★★☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆
+"Encore At Boca Raton Rehabilitation And Nursing Center, Llc, The",Encore At Boca Raton Rehabilitation And Nursing Center,Boca Raton,Region 9,Palm Beach,26.3525845,-80.1591545,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★☆☆☆☆
+Evergreen Woods,Evergreen Woods,Spring Hill,Region 3,Hernando,28.5300348,-82.5183096,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Gardens Care Center,Gardens Care Center,Miami,Region 11,Miami-Dade,25.9498036,-80.1975903,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★☆,★☆☆☆☆
+Gulf Shore Care Center,Gulf Shore Care Center,Pinellas Park,Region 5,Pinellas,27.851252,-82.731983,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Hillcrest Health Care And Rehabilitation Center,Hillcrest Health Care And Rehabilitation Center,Hollywood,Region 10,Broward,26.002666,-80.18608,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★☆☆☆,★☆☆☆☆
+Lake Port Square Health Center,Lake Port Square Health Center,Leesburg,Region 3,Lake,28.8049609,-81.8619433,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆
+Living Center Of St. Petersburg,Living Center Of St. Petersburg,Seminole,Region 5,Pinellas,27.839699,-82.76895,★★☆☆☆,★★☆☆☆,★★★☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Martin Nursing And Rehabilitation,Martin Nursing And Rehabilitation,Stuart,Region 9,Martin,27.1321298,-80.2237897,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★☆☆☆,★☆☆☆☆
+Page Rehabilitation And Healthcare Center,Page Rehabilitation And Healthcare Center,Fort Myers,Region 8,Lee,26.5943944,-81.8662055,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Pompano Health And Rehabilitation Center,Pompano Health And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.2763465,-80.1238491,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★☆,★★★☆☆,★☆☆☆☆
+Promedica Skilled Nursing And Rehabilitation (Lely Palms),Promedica Skilled Nursing And Rehabilitation (Lely Palms),Naples,Region 8,Collier,26.1087893,-81.7132366,★★★★☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Raydiant Health Care Of Jacksonville,Raydiant Health Care Of Jacksonville,Jacksonville,Region 4,Duval,30.257473,-81.585754,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★☆☆,★★★★☆,★☆☆☆☆
+Sea Breeze Rehab And Nursing Center,Sea Breeze Rehab And Nursing Center,Vero Beach,Region 9,Indian River,27.6597184,-80.4005949,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★☆,★☆☆☆☆
+Unity Healthcare And Rehabilitation Center,Unity Healthcare And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7318528,-80.3349318,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★☆☆☆☆
+Ventura Health And Rehabilitation Center,Ventura Health And Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5229515,-80.1703876,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆
+Whispering Oaks,Whispering Oaks,Tampa,Region 6,Hillsborough,27.985558,-82.4419992,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆
+Winter Haven Health And Rehabilitation Center,Winter Haven Health And Rehabilitation Center,Winter Haven,Region 6,Polk,28.036065,-81.7249721,★★★★☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Woodbridge Care Center,Woodbridge Care Center,Tampa,Region 6,Hillsborough,28.0008115,-82.5801947,★★★★☆,★★★★★,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆
+Brookwood Gardens Rehabilitation And Nursing Center,Brookwood Gardens Rehabilitation And Nursing Center,Homestead,Region 11,Miami-Dade,25.5009442,-80.5546996,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Coral Reef Subacute Care Center Llc,Coral Reef Subacute Care Center Llc,Miami,Region 11,Miami-Dade,25.6307385,-80.3528747,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★☆,★★★★★,★★☆☆☆,★★☆☆☆
+Destination Health And Rehabilitation Center,Destination Health And Rehabilitation Center,Destin,Region 1,Okaloosa,30.3927226,-86.4703902,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★☆☆☆☆,★★☆☆☆
+Finnish-American Village,Finnish-American Village,Lake Worth,Region 9,Palm Beach,26.5906677,-80.0715179,★★★★☆,★★★★★,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Fort Pierce Health Care,Fort Pierce Health Care,Fort Pierce,Region 9,St. Lucie,27.4421037,-80.3373604,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★☆☆☆
+Lakeside Health Center,Lakeside Health Center,West Palm Beach,Region 9,Palm Beach,26.735377,-80.067746,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Luxe At Jupiter Rehabilitation Center (The),Luxe At Jupiter Rehabilitation Center (The),Jupiter,Region 9,Palm Beach,26.8880603,-80.1084235,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★☆☆☆☆,★★☆☆☆,★★☆☆☆
+Luxe At Wellington Rehabilitation Center (The),Luxe At Wellington Rehabilitation Center (The),Wellington,Region 9,Palm Beach,26.6399539,-80.2081414,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★☆☆☆
+Naples Health And Rehabilitation Center,Naples Health And Rehabilitation Center,Naples,Region 8,Collier,26.1807847,-81.7952451,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★☆,★★☆☆☆
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Promedica Skilled Nursing And Rehabilitation (Ft. Myers West),Fort Myers,Region 8,Lee,26.5886807,-81.8809322,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★☆☆☆
+Promedica Skilled Nursing And Rehabilitation (Naples),Promedica Skilled Nursing And Rehabilitation (Naples),Naples,Region 8,Collier,26.1158285,-81.7536551,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★☆,★☆☆☆☆,★★☆☆☆
+Sandgate Gardens Rehab And Nursing Center,Sandgate Gardens Rehab And Nursing Center,Fort Pierce,Region 9,St. Lucie,27.441534,-80.354757,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★☆☆☆
+Seabranch Health And Rehabilitation Center,Seabranch Health And Rehabilitation Center,Stuart,Region 9,Martin,27.1418611,-80.1892187,★★☆☆☆,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★☆☆☆
+Seaview Nursing And Rehabilitation Center,Seaview Nursing And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.233816,-80.09954,★★☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Shoreside Health And Rehabilitation Center,Shoreside Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.8787994,-80.193428,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★☆☆☆,★★☆☆☆
+Solaris Healthcare Charlotte Harbor,Solaris Healthcare Charlotte Harbor,Port Charlotte,Region 8,Charlotte,26.9712115,-82.0661762,★★★☆☆,★★★★★,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Solaris Healthcare Parkway,Solaris Healthcare Parkway,Stuart,Region 9,Martin,27.1778098,-80.2421965,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Willowbrooke Court At Indian River Estates,Willowbrooke Court At Indian River Estates,Vero Beach,Region 9,Indian River,27.6425097,-80.4806287,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆
+Abbey Delray,Abbey Delray,Delray Beach,Region 9,Palm Beach,26.44538,-80.09388,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★☆☆
+Adventhealth Care Center Apopka South,Adventhealth Care Center Apopka South,Apopka,Region 7,Seminole,28.670482,-81.4463362,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Apopka Health And Rehabilitation Center,Apopka Health And Rehabilitation Center,Apopka,Region 7,Orange,28.6455467,-81.5365738,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★☆☆
+Balanced Healthcare,Balanced Healthcare,Saint Petersburg,Region 5,Pinellas,27.8106795,-82.7290263,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★☆☆
+Bardmoor Oaks Healthcare And Rehabilitation Center,Bardmoor Oaks Healthcare And Rehabilitation Center,Largo,Region 5,Pinellas,27.873043,-82.7641,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+Boynton Beach Rehabilitation Center,Boynton Beach Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★☆☆
+Brandon Health And Rehabilitation Center,Brandon Health And Rehabilitation Center,Brandon,Region 6,Hillsborough,27.93354,-82.3076,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★☆☆
+Clearwater Center,Clearwater Center,Clearwater,Region 5,Pinellas,27.959686,-82.7841569,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Dade City Health And Rehabilitation Center,Dade City Health And Rehabilitation Center,Dade City,Region 5,Pasco,28.3583707,-82.2010577,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★☆☆
+Deerfield Beach Health And Rehabilitation Center,Deerfield Beach Health And Rehabilitation Center,Pompano Beach,Region 10,Broward,26.2754138,-80.1180305,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+East Bay Rehabilitation Center,East Bay Rehabilitation Center,Clearwater,Region 5,Pinellas,27.9191847,-82.7404473,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Egret Cove Center,Egret Cove Center,Saint Petersburg,Region 5,Pinellas,27.7653154,-82.7199502,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Fletcher Health And Rehabilitation Center,Fletcher Health And Rehabilitation Center,Tampa,Region 6,Hillsborough,28.068884,-82.46501,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Hamlin Place Of Boynton Beach,Hamlin Place Of Boynton Beach,Lantana,Region 9,Palm Beach,26.5715476,-80.0773166,★☆☆☆☆,★★★★☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★☆☆
+Harbor Beach Nursing And Rehabilitation Center,Harbor Beach Nursing And Rehabilitation Center,Ft Lauderdale,Region 10,Broward,26.101536,-80.13442,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆
+Hawthorne Center For Rehabilitation And Healing Of Brandon,Hawthorne Center For Rehabilitation And Healing Of Brandon,Brandon,Region 6,Hillsborough,27.9215612,-82.2985919,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★☆,★★★☆☆
+Heather Hill Healthcare Center,Heather Hill Healthcare Center,New Port Richey,Region 5,Pasco,28.256396,-82.704793,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Heritage Healthcare And Rehabilitation Center,Heritage Healthcare And Rehabilitation Center,Naples,Region 8,Collier,26.1569665,-81.7975958,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆
+Highlands Lake Center,Highlands Lake Center,Lakeland,Region 6,Polk,27.988199,-81.922239,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Jupiter Rehabilitation And Healthcare Center,Jupiter Rehabilitation And Healthcare Center,Jupiter,Region 9,Palm Beach,26.9384082,-80.1274377,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆,★★★☆☆
+Kissimmee Health And Rehabilitation Center,Kissimmee Health And Rehabilitation Center,Kissimmee,Region 7,Osceola,28.2974799,-81.4045876,★★☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Lakeside Oaks Care Center,Lakeside Oaks Care Center,Dunedin,Region 5,Pinellas,28.011774,-82.77012,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+Legacy At Boca Raton Rehabilitation And Nursing Center (The),Legacy At Boca Raton Rehabilitation And Nursing Center (The),Boca Raton,Region 9,Palm Beach,26.3604494,-80.1441576,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆
+Life Care Center At Inverrary,Life Care Center At Inverrary,Lauderhill,Region 10,Broward,26.1778458,-80.2209212,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Life Care Center Of Altamonte Springs,Life Care Center Of Altamonte Springs,Altamonte Springs,Region 7,Seminole,28.661558,-81.3587842,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+Life Care Center Of Sarasota,Life Care Center Of Sarasota,Sarasota,Region 6,Manatee,27.3949448,-82.5144987,★★★☆☆,★★★☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★☆☆,★★★★☆,★★★☆☆
+Nspire Healthcare Plantation,Nspire Healthcare Plantation,Plantation,Region 10,Broward,26.149332,-80.243446,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★☆☆
+"Oaks Of Clearwater, The",Oaks Of Clearwater,Clearwater,Region 5,Pinellas,27.9617502,-82.8030112,★★☆☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Palm Garden Of Tampa,Palm Garden Of Tampa,Tampa,Region 6,Hillsborough,28.0734667,-82.4191443,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★☆☆
+"Palms Of Sebring, The",Palms Of Sebring,Sebring,Region 6,Highlands,27.4923892,-81.4410929,★★☆☆☆,★★★☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★☆,★★★☆☆
+Rehabilitation And Healthcare Center Of Tampa,Rehabilitation And Healthcare Center Of Tampa,Tampa,Region 6,Hillsborough,27.975792,-82.433016,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Renaissance Health And Rehabilitation,Renaissance Health And Rehabilitation,West Palm Beach,Region 9,Palm Beach,26.68176,-80.121376,★★☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Ridge Haven Health And Rehabilitation Center,Ridge Haven Health And Rehabilitation Center,New Port Richey,Region 5,Pasco,28.230647,-82.7035206,★★★☆☆,★★★★☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+Rio Pinar Health Care,Rio Pinar Health Care,Orlando,Region 7,Orange,28.537546,-81.27871,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★☆☆
+Riviera Palms Rehabilitation Center,Riviera Palms Rehabilitation Center,Palmetto,Region 6,Manatee,27.519521,-82.5514157,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Royal Oaks Nursing And Rehab Center,Royal Oaks Nursing And Rehab Center,Titusville,Region 7,Brevard,28.5715002,-80.8287085,★★★☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★☆☆
+Scott Lake Health And Rehabilitation,Scott Lake Health And Rehabilitation,Lakeland,Region 6,Polk,27.9543258,-81.9530395,★★★★☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Solaris Healthcare Bayonet Point,Solaris Healthcare Bayonet Point,Hudson,Region 5,Pasco,28.3368786,-82.6956743,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★☆☆
+Stratford Court Of Boca Raton,Stratford Court Of Boca Raton,Boca Raton,Region 9,Palm Beach,26.3307338,-80.1443412,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+"Tamarac Rehabilitation And Health Center, Inc.","Tamarac Rehabilitation And Health Center, Inc.",Tamarac,Region 10,Broward,26.2194448,-80.2743062,★★★★★,★★★★★,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★☆☆
+"Terrace Of St Cloud, The",Terrace Of St Cloud,Saint Cloud,Region 7,Osceola,28.233587,-81.3169452,★★☆☆☆,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+The Gardens At Depugh Nursing,The Gardens At Depugh Nursing,Winter Park,Region 7,Orange,28.5974266,-81.3564788,★★★★☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Valencia Hills Health And Rehabilitation Center,Valencia Hills Health And Rehabilitation Center,Lakeland,Region 6,Polk,28.096178,-81.9785995,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Vista Manor,Vista Manor,Titusville,Region 7,Brevard,28.627728,-80.819466,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★☆☆
+Westminster Manor Of Bradenton,Westminster Manor Of Bradenton,Bradenton,Region 6,Manatee,27.4818126,-82.579074,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Winter Garden Rehabilitation And Nursing Center,Winter Garden Rehabilitation And Nursing Center,Winter Garden,Region 7,Orange,28.5518098,-81.5705102,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆
+Wright'S Healthcare & Rehabilitation Center,Wright'S Healthcare & Rehabilitation Center,Seminole,Region 5,Pinellas,27.8726081,-82.7960128,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★☆☆
+Clyde E Lassen State Veterans Nursing Home,Clyde E Lassen State Veterans Nursing Home,Saint Augustine,Region 4,St. Johns,29.9605742,-81.4675089,★★★☆☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★☆
+Grand Oaks Health And Rehabilitation Center,Grand Oaks Health And Rehabilitation Center,Palm Coast,Region 4,Flagler,29.558014,-81.19672,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★☆
+Hampton Court Nursing And Rehabilitation Center,Hampton Court Nursing And Rehabilitation Center,North Miami Beach,Region 11,Miami-Dade,25.92294,-80.2049774,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆
+Harts Harbor Health Care Center,Harts Harbor Health Care Center,Jacksonville,Region 4,Duval,30.444853,-81.656685,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★☆☆☆,★★★★☆
+Nspire Healthcare Miami Lakes,Nspire Healthcare Miami Lakes,Hialeah,Region 11,Miami-Dade,25.943327,-80.294983,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★☆
+Oak Haven Rehab And Nursing Center,Oak Haven Rehab And Nursing Center,Auburndale,Region 6,Polk,28.0592566,-81.7710982,★★★★☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆
+Oaktree Healthcare,Oaktree Healthcare,South Daytona,Region 4,Volusia,29.1588523,-81.0033973,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★☆
+Regents Park Of Jacksonville,Regents Park Of Jacksonville,Jacksonville,Region 4,Duval,30.2447651,-81.553558,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★☆
+Riviera Health Resort,Riviera Health Resort,Coral Gables,Region 11,Miami-Dade,25.7053975,-80.2820246,★★★☆☆,★★★☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★☆
+San Jose Health And Rehabilitation Center,San Jose Health And Rehabilitation Center,Jacksonville,Region 4,Duval,30.208376,-81.61563,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆,★★★★☆
+"Sands At South Beach Care Center, The",Sands At South Beach Care Center,Miami Beach,Region 11,Miami-Dade,25.7694309,-80.1342863,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★☆
+University Health And Rehabilitation Center,University Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7934982,-80.2077093,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★☆
+"Victoria Nursing & Rehabilitation Center, Inc.","Victoria Nursing & Rehabilitation Center, Inc.",Miami,Region 11,Miami-Dade,25.7766177,-80.2106385,★★★☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★☆
+Vivo Healthcare Orange Park,Vivo Healthcare Orange Park,Orange Park,Region 4,Clay,30.1860305,-81.707988,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆,★★★★☆
+Vivo Healthcare University,Vivo Healthcare University,Jacksonville,Region 4,Duval,30.2879721,-81.6033167,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★☆
+Abbey Delray South,Abbey Delray South,Delray Beach,Region 9,Palm Beach,26.4371855,-80.0996913,★★★★☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Abbey Rehabilitation And Nursing Center,Abbey Rehabilitation And Nursing Center,Saint Petersburg,Region 5,Pinellas,27.8364719,-82.6463502,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Advanced Care Center And Rehab,Advanced Care Center And Rehab,Clearwater,Region 5,Pinellas,27.9699817,-82.7221962,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Adventhealth Care Center Apopka North,Adventhealth Care Center Apopka North,Apopka,Region 7,Orange,28.6812992,-81.504219,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Adventhealth Care Center Celebration,Adventhealth Care Center Celebration,Kissimmee,Region 7,Osceola,28.3160988,-81.5576295,★★★☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Adventhealth Care Center Orlando East,Adventhealth Care Center Orlando East,Orlando,Region 7,Orange,28.6035206,-81.3908989,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Adventhealth Care Center Orlando North,Adventhealth Care Center Orlando North,Orlando,Region 7,Orange,28.6035206,-81.3908989,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Adventhealth Care Center Waterman,Adventhealth Care Center Waterman,Tavares,Region 3,Lake,28.8271646,-81.7136472,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Adventhealth Care Center Zephyrhills North,Adventhealth Care Center Zephyrhills North,Zephyrhills,Region 5,Pasco,28.2644677,-82.1825862,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★☆,★★★★★
+Adventhealth Care Center Zephyrhills South,Adventhealth Care Center Zephyrhills South,Zephyrhills,Region 5,Pasco,28.2644677,-82.1825862,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Advinia Care At Venice,Advinia Care At Venice,Venice,Region 8,Sarasota,27.1015608,-82.4184713,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Adviniacare At Naples,Adviniacare At Naples,Naples,Region 8,Collier,26.2396114,-81.7695509,★★★☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Aidan Post-Acute And Rehabilitation Center,Aidan Post-Acute And Rehabilitation Center,Fort Pierce,Region 9,St. Lucie,27.4410782,-80.3534842,★★★☆☆,★★★☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"Alexander ""Sandy"" Nininger State Veterans Nursing Home","Alexander ""Sandy"" Nininger State Veterans Nursing Home",Pembroke Pines,Region 10,Broward,26.0043947,-80.2539994,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Alpine Health And Rehabilitation Center,Alpine Health And Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.7492695,-82.6805709,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ambassador Healthcare At College Park,Ambassador Healthcare At College Park,Fort Myers,Region 8,Lee,26.5492443,-81.8881305,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Anchor Care & Rehabilitation Center,Anchor Care & Rehabilitation Center,Palm Bay,Region 7,Brevard,28.0197189,-80.6048706,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Apollo Healthcare & Rehabilitation Center,Apollo Healthcare & Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.730881,-82.639015,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Arbor Springs Health And Rehabilitation Center,Arbor Springs Health And Rehabilitation Center,Ocala,Region 3,Marion,29.161742,-82.117184,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Arbor Trail Rehab And Skilled Nursing Center,Arbor Trail Rehab And Skilled Nursing Center,Inverness,Region 3,Citrus,28.8468802,-82.3374253,★★☆☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Arcadia Health And Rehabilitation Center,Arcadia Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5401933,-87.2135772,★★★☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ascension Living St. Catherine Laboure' Place,Ascension Living St. Catherine Laboure' Place,Jacksonville,Region 4,Duval,30.3087539,-81.6878814,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Atlantic Shores Nursing And Rehab Center,Atlantic Shores Nursing And Rehab Center,Melbourne,Region 7,Brevard,28.0469263,-80.6282125,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Avante At Boca Raton, Inc.","Avante At Boca Raton, Inc.",Boca Raton,Region 9,Palm Beach,26.3629364,-80.1093713,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Avante At Inverness Inc,Avante At Inverness Inc,Inverness,Region 3,Citrus,28.8316669,-82.3356473,★★★☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Avante At Lake Worth, Inc.","Avante At Lake Worth, Inc.",Lake Worth,Region 9,Palm Beach,26.6439949,-80.0646566,★☆☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+"Avante At Leesburg, Inc","Avante At Leesburg, Inc",Leesburg,Region 3,Lake,28.8071698,-81.8951119,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Avante At Melbourne Inc,Avante At Melbourne Inc,Melbourne,Region 7,Brevard,28.0861955,-80.615655,★★★☆☆,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Avante At Mt Dora, Inc.","Avante At Mt Dora, Inc.",Mount Dora,Region 3,Lake,28.8093245,-81.6758362,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Avante At Ocala, Inc","Avante At Ocala, Inc",Ocala,Region 3,Marion,29.1674479,-82.1357331,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Avante At Ormond Beach, Inc","Avante At Ormond Beach, Inc",Ormond Beach,Region 4,Volusia,29.2826704,-81.0817212,★★★☆☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Avante At St. Cloud, Inc.","Avante At St. Cloud, Inc.",Saint Cloud,Region 7,Osceola,28.2453681,-81.3028895,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Avante Villa At Jacksonville Beach Inc,Avante Villa At Jacksonville Beach Inc,Jacksonville Beach,Region 4,Duval,30.2698857,-81.4016496,★★★☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Aventura At The Bay,Aventura At The Bay,Saint Petersburg,Region 5,Pinellas,27.866261,-82.6404524,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Aventura Rehab And Nursing Center,Aventura Rehab And Nursing Center,North Miami Beach,Region 11,Miami-Dade,25.930001,-80.1636304,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★
+Ayers Health And Rehabilitation Center,Ayers Health And Rehabilitation Center,Trenton,Region 3,Gilchrist,29.617579,-82.809987,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Azure Shores Rehab,Azure Shores Rehab,Miami,Region 11,Miami-Dade,25.8611444,-80.212137,★★☆☆☆,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Baldomero Lopez Memorial Veterans Nursing Home,Baldomero Lopez Memorial Veterans Nursing Home,Land O Lakes,Region 5,Pasco,28.2506345,-82.4486447,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bartow Center,Bartow Center,Bartow,Region 6,Polk,27.88188,-81.8239651,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Bartram Crossing,Bartram Crossing,Jacksonville,Region 4,Duval,30.135713,-81.5380441,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Bay Breeze Health And Rehabilitation Center,Bay Breeze Health And Rehabilitation Center,Venice,Region 8,Sarasota,27.10591,-82.43311,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★☆☆☆,★★★★★
+Bay Breeze Senior Living And Rehabilitation Center,Bay Breeze Senior Living And Rehabilitation Center,Gulf Breeze,Region 1,Santa Rosa,30.3861323,-87.0824825,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bay Pointe Nursing Pavilion,Bay Pointe Nursing Pavilion,Saint Petersburg,Region 5,Pinellas,27.7297674,-82.6761205,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★
+Bay Village Of Sarasota,Bay Village Of Sarasota,Sarasota,Region 8,Sarasota,27.2290821,-82.4985046,★★☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bay Vue Nursing And Rehabilitation Center,Bay Vue Nursing And Rehabilitation Center,Bradenton,Region 6,Manatee,27.4984862,-82.54745,★★☆☆☆,★★★★☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Baya Pointe Nursing And Rehabilitation Center,Baya Pointe Nursing And Rehabilitation Center,Lake City,Region 3,Columbia,30.182093,-82.62559,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bayshore Pointe Nursing And Rehab Center,Bayshore Pointe Nursing And Rehab Center,Tampa,Region 6,Hillsborough,27.8939007,-82.4958786,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Bayside Care Center,Bayside Care Center,Saint Petersburg,Region 5,Pinellas,27.780642,-82.648289,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Bayside Health And Rehabilitation Center,Bayside Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.4818659,-87.168418,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bayview Center,Bayview Center,Eustis,Region 3,Lake,28.8494194,-81.6852029,★☆☆☆☆,★★★★☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Beach Breeze Rehab And Care Center,Beach Breeze Rehab And Care Center,West Palm Beach,Region 9,Palm Beach,26.6533734,-80.0947454,★★★☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Beach Street Health And Rehabilitation Center,Beach Street Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.1943831,-81.010528,★★☆☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Beachside Center For Rehabilitation And Nursing,Beachside Center For Rehabilitation And Nursing,New Smyrna Beach,Region 4,Volusia,29.0159874,-80.8842809,★★★★☆,★★★★★,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Bear Creek Nursing Center,Bear Creek Nursing Center,Hudson,Region 5,Pasco,28.332025,-82.68132,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Bedrock Rehabilitation And Nursing Center At Lake City,Bedrock Rehabilitation And Nursing Center At Lake City,Lake City,Region 3,Columbia,30.1862678,-82.7174491,★★☆☆☆,★☆☆☆☆,★★★★☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Bedrock Rehabilitation And Nursing Center At Lake Eustis,Bedrock Rehabilitation And Nursing Center At Lake Eustis,Eustis,Region 3,Lake,28.8477607,-81.6903432,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bedrock Rehabilitation And Nursing Center At Melbourne,Bedrock Rehabilitation And Nursing Center At Melbourne,Melbourne,Region 7,Brevard,28.0867335,-80.6127845,★★☆☆☆,★★★★☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Bedrock Rehabilitation And Nursing Center At Winter Park,Bedrock Rehabilitation And Nursing Center At Winter Park,Maitland,Region 7,Orange,28.6111,-81.3706176,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★
+Belleair Health Care Center,Belleair Health Care Center,Clearwater,Region 5,Pinellas,27.9360334,-82.7985849,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Benderson Family Skilled Nursing And Rehabilitation Center,Benderson Family Skilled Nursing And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3537957,-82.4658821,★★★★★,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Beneva Lakes Healthcare And Rehabilitation Center,Beneva Lakes Healthcare And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.327976,-82.49547,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★
+Bentley Care Center,Bentley Care Center,Naples,Region 8,Collier,26.3068647,-81.805503,★★☆☆☆,★★★★★,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Biscayne Health And Rehabilitation Center,Biscayne Health And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.8918543,-80.1659666,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★
+Boca Raton Rehabilitation Center,Boca Raton Rehabilitation Center,Boca Raton,Region 9,Palm Beach,26.3607273,-80.1024455,★★★☆☆,★★★☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Bonifay Nursing And Rehab Center,Bonifay Nursing And Rehab Center,Bonifay,Region 2,Holmes,30.7817976,-85.6839311,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Boulevard Rehabilitation Center,Boulevard Rehabilitation Center,Boynton Beach,Region 9,Palm Beach,26.5031808,-80.0707886,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Bradenton Health Care,Bradenton Health Care,Bradenton,Region 6,Manatee,27.462173,-82.62478,★★★★☆,★★★☆☆,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★☆☆,★★★★☆,★★★★★
+Brandon Center For Nursing & Rehabilitation,Brandon Center For Nursing & Rehabilitation,Brandon,Region 6,Hillsborough,27.93354,-82.3076,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★☆☆☆,★★★★★
+Breeze Care Center,Breeze Care Center,Sarasota,Region 8,Sarasota,27.319707,-82.531379,★★★☆☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Breezy Hills Rehab And Care Center,Breezy Hills Rehab And Care Center,Lakeland,Region 6,Polk,28.1092682,-81.9464064,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★
+Bridgeview Center,Bridgeview Center,Ormond Beach,Region 4,Volusia,29.2753602,-81.0546463,★★★★☆,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Bridgewalk On Harden Health And Rehabilitation, Llc",Bridgewalk On Harden Health And Rehabilitation,Lakeland,Region 6,Polk,28.0087085,-81.9734536,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★
+Bridgewater Park Health & Rehabilitation Center,Bridgewater Park Health & Rehabilitation Center,Ocala,Region 3,Marion,29.0874394,-82.2554302,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★
+Brookdale Palmer Ranch Snf,Brookdale Palmer Ranch Snf,Sarasota,Region 8,Sarasota,27.2467525,-82.4678543,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★☆,★★★★★,★★★★★
+Brooksville Healthcare Center,Brooksville Healthcare Center,Brooksville,Region 3,Hernando,28.5468604,-82.402702,★★★★☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Broward Nursing & Rehabilitation Center,Broward Nursing & Rehabilitation Center,Fort Lauderdale,Region 10,Broward,26.1050295,-80.1423834,★★★★☆,★★★★☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Brynwood Health And Rehabilitation Center,Brynwood Health And Rehabilitation Center,Monticello,Region 2,Jefferson,30.5239601,-83.8739395,★★☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Buffalo Crossings Healthcare & Rehabilitation Center,Buffalo Crossings Healthcare & Rehabilitation Center,The Villages,Region 3,Sumter,28.9290865,-82.0257578,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★
+Canterbury Towers Inc,Canterbury Towers Inc,Tampa,Region 6,Hillsborough,27.9111047,-82.4912671,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Carrington Place Of St Pete,Carrington Place Of St Pete,Saint Petersburg,Region 5,Pinellas,27.868201,-82.6432141,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★
+Carrollwood Care Center,Carrollwood Care Center,Tampa,Region 6,Hillsborough,28.0879705,-82.543042,★☆☆☆☆,★★★★☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★
+Casa Mora Rehabilitation And Extended Care,Casa Mora Rehabilitation And Extended Care,Bradenton,Region 6,Manatee,27.4798771,-82.6210177,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Central Park Healthcare And Rehabilitation Center,Central Park Healthcare And Rehabilitation Center,Brandon,Region 6,Hillsborough,27.927801,-82.2952,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Centre Pointe Health And Rehab Center,Centre Pointe Health And Rehab Center,Tallahassee,Region 2,Leon,30.4754158,-84.2405617,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Charlotte Bay Rehab And Care Center,Charlotte Bay Rehab And Care Center,Port Charlotte,Region 8,Charlotte,26.970819,-82.0786768,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Charming Lakes Rehab,Charming Lakes Rehab,Lakeland,Region 6,Polk,28.070929,-81.9453507,★★☆☆☆,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"Chateau At Moorings Park, The",Chateau At Moorings Park,Naples,Region 8,Collier,26.202624,-81.791125,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Chatham Glen Healthcare And Rehabilitation Center,Chatham Glen Healthcare And Rehabilitation Center,The Villages,Region 3,Marion,28.9807618,-82.0299846,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"Chatsworth At Pga National, Llc",Chatsworth At Pga National,Palm Beach Gardens,Region 9,Palm Beach,26.810226,-80.1354669,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Chautauqua Springs Health Center,Chautauqua Springs Health Center,Defuniak Springs,Region 1,Walton,30.7095489,-86.1072158,★★★☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+"Children'S Comprehensive Care Center, Inc.","Children'S Comprehensive Care Center, Inc.",Pompano Beach,Region 10,Broward,26.231523,-80.1075899,★☆☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★
+Chipola Health And Rehabilitation Center,Chipola Health And Rehabilitation Center,Marianna,Region 2,Jackson,30.7859341,-85.2377176,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Citrus Health And Rehabilitation Center,Citrus Health And Rehabilitation Center,Inverness,Region 3,Citrus,28.8308063,-82.3384658,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Claridge House Nursing And Rehabilitation Center,Claridge House Nursing And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.9033845,-80.1931295,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Clermont Health And Rehabilitation Center,Clermont Health And Rehabilitation Center,Clermont,Region 3,Lake,28.5464121,-81.7547677,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Clifford Chester Sims State Veterans Nursing Home,Clifford Chester Sims State Veterans Nursing Home,Panama City,Region 2,Bay,30.1759901,-85.5878778,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Coastal Health And Rehabilitation Center,Coastal Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.214275,-81.0655249,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Colonial Lakes Health Care,Colonial Lakes Health Care,Winter Garden,Region 7,Orange,28.549976,-81.61148,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+"Colonial Skilled Nursing Facility, Llc",Colonial Skilled Nursing Facility,West Palm Beach,Region 9,Palm Beach,26.7357242,-80.0889806,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Commons At Orlando Lutheran Towers,Commons At Orlando Lutheran Towers,Orlando,Region 7,Orange,28.5400828,-81.3738082,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Community Health And Rehabilitation Center,Community Health And Rehabilitation Center,Panama City,Region 2,Bay,30.2141996,-85.6086312,★★★☆☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Concordia Manor,Concordia Manor,Saint Petersburg,Region 5,Pinellas,27.7851194,-82.6379995,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Concordia Village Of Tampa,Concordia Village Of Tampa,Tampa,Region 6,Hillsborough,28.0701391,-82.4164031,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★
+Conway Lakes Health & Rehabilitation Center,Conway Lakes Health & Rehabilitation Center,Orlando,Region 7,Orange,28.5251551,-81.3213976,★★★★☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Coquina Center,Coquina Center,Ormond Beach,Region 4,Volusia,29.2851109,-81.077406,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Coral Bay At Pensacola, Llc",Coral Bay At Pensacola,Pensacola,Region 1,Escambia,30.4143537,-87.2243608,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Coral Bay Healthcare And Rehabilitation,Coral Bay Healthcare And Rehabilitation,West Palm Beach,Region 9,Palm Beach,26.634642,-80.12182,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Coral Gables Nursing And Rehabilitation Center,Coral Gables Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7623189,-80.3096111,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Coral Trace Health Care,Coral Trace Health Care,Cape Coral,Region 8,Lee,26.64706,-81.97501,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★☆,★☆☆☆☆,★★★★★
+Countryside Rehab And Healthcare Center,Countryside Rehab And Healthcare Center,Palm Harbor,Region 5,Pinellas,28.056837,-82.71273,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Courtyards Of Orlando Care Center,Courtyards Of Orlando Care Center,Orlando,Region 7,Orange,28.5424973,-81.3795088,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Covenant Village Care Center,Covenant Village Care Center,Plantation,Region 10,Broward,26.1221511,-80.2682968,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Crestview Rehabilitation Center, Llc",Crestview Rehabilitation Center,Crestview,Region 1,Okaloosa,30.764559,-86.5528079,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Cross City Nursing And Rehabilitation Center,Cross City Nursing And Rehabilitation Center,Cross City,Region 3,Dixie,29.6419326,-83.1240326,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Crossings Care Center,Crossings Care Center,Lake Worth,Region 9,Palm Beach,26.6125748,-80.1153426,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Crystal Health And Rehab Center, Llc",Crystal Health And Rehab Center,Tavernier,Region 8,Monroe,24.9818515,-80.5507659,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★☆,★★★☆☆,★★★★★
+Crystal River Health And Rehabilitation Center,Crystal River Health And Rehabilitation Center,Crystal River,Region 3,Citrus,28.8963405,-82.5727227,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Cypress Care Center And Rehab,Cypress Care Center And Rehab,Wildwood,Region 3,Sumter,28.8551211,-82.0358821,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Cypress Cove Care Center,Cypress Cove Care Center,Crystal River,Region 3,Citrus,28.8903116,-82.5796385,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Cypress Village,Cypress Village,Jacksonville,Region 4,Duval,30.2535022,-81.4556529,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Dania Pointe Care Center,Dania Pointe Care Center,Dania Beach,Region 10,Broward,26.0536775,-80.1598428,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Darcy Hall Of Life Care,Darcy Hall Of Life Care,West Palm Beach,Region 9,Palm Beach,26.7116296,-80.0948383,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★☆,★★★★★,★★☆☆☆,★★★★★
+Daytona Beach Health And Rehabilitation Center,Daytona Beach Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.2230669,-81.0517812,★★★★☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+De Luna Health And Rehabilitation Center,De Luna Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5323797,-87.2836211,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Debary Health And Rehabilitation Center,Debary Health And Rehabilitation Center,Debary,Region 4,Volusia,28.8931952,-81.3066069,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Delaney Park Health And Rehabilitation Center,Delaney Park Health And Rehabilitation Center,Orlando,Region 7,Orange,28.5298632,-81.3744483,★★☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★
+Deltona Health Care,Deltona Health Care,Deltona,Region 4,Volusia,28.917261,-81.22038,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★
+Desoto Health And Rehab,Desoto Health And Rehab,Arcadia,Region 8,De Soto,27.2287,-81.849524,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Diamond Ridge Health And Rehabilitation Center,Diamond Ridge Health And Rehabilitation Center,Lecanto,Region 3,Citrus,28.9038797,-82.4797145,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Dolphin Pointe Health Care Center,Dolphin Pointe Health Care Center,Jacksonville,Region 4,Duval,30.3586655,-81.610957,★★☆☆☆,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Douglas Jacobson State Veterans Nursing Home,Douglas Jacobson State Veterans Nursing Home,Port Charlotte,Region 8,Charlotte,27.0269946,-82.0982262,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Eagle Lake Nursing And Rehab Care Center,Eagle Lake Nursing And Rehab Care Center,St Petersburg,Region 5,Pinellas,27.7822598,-82.7288126,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★☆,★★★★★
+Eden Springs Nursing And Rehab Center,Eden Springs Nursing And Rehab Center,Crawfordville,Region 2,Wakulla,30.1092317,-84.3808428,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Edward J Healey Rehabilitation And Nursing Center,Edward J Healey Rehabilitation And Nursing Center,Riviera Beach,Region 9,Palm Beach,26.782279,-80.1086409,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Elevate Care Lake Worth,Elevate Care Lake Worth,Lake Worth,Region 9,Palm Beach,26.6012802,-80.0608506,★★★☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Emerald Coast Center,Emerald Coast Center,Fort Walton Beach,Region 1,Okaloosa,30.4082932,-86.606065,★★★☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Emerald Shores Health And Rehabilitation,Emerald Shores Health And Rehabilitation,Callaway,Region 2,Bay,30.159767,-85.59013,★★★☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Englewood Healthcare And Rehabilitation Center,Englewood Healthcare And Rehabilitation Center,Englewood,Region 8,Charlotte,26.94182,-82.32414,★★★☆☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Evans Health Care,Evans Health Care,Fort Myers,Region 8,Lee,26.607925,-81.85818,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Excel Care Center,Excel Care Center,Tampa,Region 6,Hillsborough,28.0591536,-82.4277804,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★☆,★★★★★
+Fairway Oaks Center,Fairway Oaks Center,Tampa,Region 6,Hillsborough,28.0734205,-82.4109233,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Flagler Health And Rehabilitation Center,Flagler Health And Rehabilitation Center,Bunnell,Region 4,Flagler,29.4700728,-81.2497884,★★★☆☆,★★★★★,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Fleet Landing,Fleet Landing,Atlantic Beach,Region 4,Duval,30.3538087,-81.4105476,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Florida Presbyterian Homes Inc,Florida Presbyterian Homes Inc,Lakeland,Region 6,Polk,28.032142,-81.9620644,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Fort Myers Rehabilitation And Nursing Center,Fort Myers Rehabilitation And Nursing Center,Fort Myers,Region 8,Lee,26.5684891,-81.8745229,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Fort Walton Rehabilitation Center, Llc",Fort Walton Rehabilitation Center,Fort Walton Beach,Region 1,Okaloosa,30.4623141,-86.6361637,★★☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Fountain Manor Health & Rehabilitation Center,Fountain Manor Health & Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.8989725,-80.1914013,★★★☆☆,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Fouraker Hills Rehab And Nursing Center,Fouraker Hills Rehab And Nursing Center,Jacksonville,Region 4,Duval,30.2904176,-81.7823058,★★☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Freedom Pointe Health Center,Freedom Pointe Health Center,The Villages,Region 3,Lake,28.951712,-81.9650883,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Freedom Square Health Care Center,Freedom Square Health Care Center,Seminole,Region 5,Pinellas,27.8425255,-82.789194,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★☆,★★★★★
+Ft Lauderdale Health And Rehabilitation Center,Ft Lauderdale Health And Rehabilitation Center,Fort Lauderdale,Region 10,Broward,26.170952,-80.1318453,★★★★☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Gainesville Health & Rehabilitation,Gainesville Health & Rehabilitation,Gainesville,Region 3,Alachua,29.6578826,-82.3939895,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Garden View Health And Rehabilitation Center,Garden View Health And Rehabilitation Center,Vero Beach,Region 9,Indian River,27.6405104,-80.3924463,★☆☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Gardens At Terracina Health & Rehabilitation,Gardens At Terracina Health & Rehabilitation,Naples,Region 8,Collier,26.1403353,-81.727835,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Gardens Court, The",Gardens Court,Palm Beach Gardens,Region 9,Palm Beach,26.8459582,-80.0937648,★★★★☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Glades Health Care Center,Glades Health Care Center,Pahokee,Region 9,Palm Beach,26.8212567,-80.6601358,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Glades West Rehabilitation And Nursing Center,Glades West Rehabilitation And Nursing Center,Miramar,Region 10,Broward,25.9685584,-80.3584686,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Glenridge On Palmer Ranch Inc.,Glenridge On Palmer Ranch Inc.,Sarasota,Region 8,Sarasota,27.247324,-82.4609046,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Golfcrest Nursing Center,Golfcrest Nursing Center,Hollywood,Region 10,Broward,26.0078913,-80.1811793,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Golfview Nursing Center,Golfview Nursing Center,Saint Petersburg,Region 5,Pinellas,27.7815959,-82.6830305,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Good Samaritan Center,Good Samaritan Center,Live Oak,Region 3,Suwannee,30.253746,-83.233258,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Good Samaritan Society-Daytona,Good Samaritan Society-Daytona,Daytona Beach,Region 4,Volusia,29.2054557,-81.0210189,★★★☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Good Samaritan Society-Florida Lutheran,Good Samaritan Society-Florida Lutheran,Deland,Region 4,Volusia,29.0344213,-81.2879589,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Good Samaritan Society-Kissimmee Village,Good Samaritan Society-Kissimmee Village,Kissimmee,Region 7,Osceola,28.2585845,-81.4485778,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Graceville Health Center,Graceville Health Center,Graceville,Region 2,Jackson,30.9640097,-85.5077103,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Grand Boulevard Health And Rehabilitation Center,Grand Boulevard Health And Rehabilitation Center,Miramar Beach,Region 1,Walton,30.379259,-86.309372,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Green Cove Springs Rehabilitation And Care Center,Green Cove Springs Rehabilitation And Care Center,Green Cove Springs,Region 4,Clay,29.987556,-81.683914,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Groves Center,Groves Center,Lake Wales,Region 6,Polk,27.8926829,-81.5649992,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★
+Guardian Care Nursing & Rehabilitation Center,Guardian Care Nursing & Rehabilitation Center,Orlando,Region 7,Orange,28.5393041,-81.4147765,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★
+Gulf Coast Village,Gulf Coast Village,Cape Coral,Region 8,Lee,26.6283265,-81.9723201,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★☆☆☆☆,★★★☆☆,★★★★★
+Habana Health Care Center,Habana Health Care Center,Tampa,Region 6,Hillsborough,27.985392,-82.48998,★★☆☆☆,★★☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Haines City Rehabilitation And Nursing Center,Haines City Rehabilitation And Nursing Center,Haines City,Region 6,Polk,28.1002645,-81.6223195,★★★☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Harbour Health Center,Harbour Health Center,Port Charlotte,Region 8,Charlotte,26.971071,-82.0722571,★★★★☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Harbour'S Edge,Harbour'S Edge,Delray Beach,Region 9,Palm Beach,26.441902,-80.06694,★★★★★,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Harmony Health Center,Harmony Health Center,Miami,Region 11,Miami-Dade,25.6862538,-80.354076,★★★☆☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Haven Of Our Lady Of Peace,Haven Of Our Lady Of Peace,Pensacola,Region 1,Escambia,30.4680165,-87.1995441,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Hawthorne Center For Rehabilitation And Healing Of Ocala,Hawthorne Center For Rehabilitation And Healing Of Ocala,Ocala,Region 3,Marion,29.147359,-82.176014,★★★★☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Health And Rehabilitation Centre At Dolphins View,Health And Rehabilitation Centre At Dolphins View,South Pasadena,Region 5,Pinellas,27.7508,-82.73847,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Health Center At Brentwood,Health Center At Brentwood,Lecanto,Region 3,Citrus,28.904322,-82.46672,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Health Center At Sinai Residences,Health Center At Sinai Residences,Boca Raton,Region 9,Palm Beach,26.3629,-80.1921038,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Health Central Park,Health Central Park,Winter Garden,Region 7,Orange,28.5724971,-81.5818406,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Healthcare Center Of Waterford,Healthcare Center Of Waterford,Hialeah Gardens,Region 11,Miami-Dade,25.8635318,-80.333778,★☆☆☆☆,★★☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★☆,★★★★★
+Healthpark Care Center,Healthpark Care Center,Fort Myers,Region 8,Lee,26.5103831,-81.9119972,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Heritage Healthcare Center At Tallahassee,Heritage Healthcare Center At Tallahassee,Tallahassee,Region 2,Leon,30.473015,-84.22729,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Heritage Park Nursing Center,Heritage Park Nursing Center,Bradenton,Region 6,Manatee,27.4785559,-82.6209576,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★☆,★★★★★
+Heron Pointe Health And Rehabilitation,Heron Pointe Health And Rehabilitation,Brooksville,Region 3,Hernando,28.576633,-82.37795,★★☆☆☆,★★★★☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Hialeah Shores Nursing And Rehab Center,Hialeah Shores Nursing And Rehab Center,Miami,Region 11,Miami-Dade,25.8540196,-80.2495636,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★☆☆☆,★★★★★
+Hidden Lakes Senior Living Community,Hidden Lakes Senior Living Community,Vero Beach,Region 9,Indian River,27.6543711,-80.3919998,★★★★★,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Highland Pines Rehabilitation Center,Highland Pines Rehabilitation Center,Clearwater,Region 5,Pinellas,27.9536945,-82.7745725,★★☆☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Home Association, The",Home Association,Tampa,Region 6,Hillsborough,27.9708779,-82.4467617,★★☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Homestead Manor A Palace Community,Homestead Manor A Palace Community,Homestead,Region 11,Miami-Dade,25.4830114,-80.4801318,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Hunters Creek Nursing And Rehab Center,Hunters Creek Nursing And Rehab Center,Orlando,Region 7,Orange,28.3642692,-81.4204061,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Indian River Center,Indian River Center,West Melbourne,Region 7,Brevard,28.0937021,-80.6763088,★★★☆☆,★★☆☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Indigo Manor,Indigo Manor,Daytona Beach,Region 4,Volusia,29.201205,-81.086046,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Inn At Freedom Village, The",Inn At Freedom Village,Bradenton,Region 6,Manatee,27.4818265,-82.6254321,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Inn At Sarasota Bay Club,Inn At Sarasota Bay Club,Sarasota,Region 8,Sarasota,27.3497994,-82.5475335,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Island Health And Rehabilitation Center,Island Health And Rehabilitation Center,Merritt Is,Region 7,Brevard,28.3831699,-80.7059644,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★★
+Island Lake Center,Island Lake Center,Longwood,Region 7,Seminole,28.6963472,-81.3650714,★★★★☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Jackson Gardens Health And Rehabilitation Center,Jackson Gardens Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.793391,-80.2085663,★★☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Jackson Memorial Long Term Care Center,Jackson Memorial Long Term Care Center,Miami,Region 11,Miami-Dade,25.7994591,-80.2318898,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Jackson Memorial Perdue Medical Center,Jackson Memorial Perdue Medical Center,Cutler Ridge,Region 11,Miami-Dade,25.586602,-80.326112,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Jacksonville Center For Rehabilitation And Healthcare,Jacksonville Center For Rehabilitation And Healthcare,Jacksonville,Region 4,Duval,30.3709157,-81.6840106,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★☆,★★★★★
+Jacksonville Nursing And Rehab Center,Jacksonville Nursing And Rehab Center,Jacksonville,Region 4,Duval,30.437779,-81.7144735,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Jacksonville Rehabilitation And Nursing Center,Jacksonville Rehabilitation And Nursing Center,Jacksonville,Region 4,Duval,30.2802229,-81.7450538,★★★★☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+John Knox Village Of Pompano Beach,John Knox Village Of Pompano Beach,Pompano Beach,Region 10,Broward,26.2262306,-80.1303868,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Joseph L. Morse Health Center, Inc., The","Joseph L. Morse Health Center, Inc.",West Palm Bch,Region 9,Palm Beach,26.7461671,-80.1160594,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Kendall Lakes Healthcare And Rehab Center,Kendall Lakes Healthcare And Rehab Center,Miami,Region 11,Miami-Dade,25.7318528,-80.3349318,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Kensington Gardens Rehab And Nursing Center,Kensington Gardens Rehab And Nursing Center,Clearwater,Region 5,Pinellas,27.9741767,-82.7519895,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Keystone Rehabilitation And Health Center,Keystone Rehabilitation And Health Center,Kissimmee,Region 7,Osceola,28.31868,-81.41507,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★☆☆☆,★★★★★
+Kissimmee Nursing & Rehabilitation Center,Kissimmee Nursing & Rehabilitation Center,Kissimmee,Region 7,Osceola,28.3200591,-81.4151278,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★
+Krystal Bay Nursing And Rehabilitation,Krystal Bay Nursing And Rehabilitation,North Miami Beach,Region 11,Miami-Dade,25.9290739,-80.1564442,★★☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Labelle Health And Rehabilitation Center,Labelle Health And Rehabilitation Center,Labelle,Region 8,Hendry,26.7583312,-81.4341219,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Lady Lake Specialty Care Center,Lady Lake Specialty Care Center,Lady Lake,Region 3,Lake,28.9370485,-81.9343191,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lafayette Nursing And Rehabilitation Center,Lafayette Nursing And Rehabilitation Center,Mayo,Region 3,Lafayette,30.0552017,-83.1806257,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Lake Bennet Center For Rehabilitation & Healing,Lake Bennet Center For Rehabilitation & Healing,Ocoee,Region 7,Orange,28.5545271,-81.5323533,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Lake Mary Health And Rehabilitation Center,Lake Mary Health And Rehabilitation Center,Lake Mary,Region 7,Seminole,28.757696,-81.349976,★★★★★,★★★★★,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lake Park Of Madison Nursing And Rehabilitation Center,Lake Park Of Madison Nursing And Rehabilitation Center,Madison,Region 2,Madison,30.471803,-83.430953,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lake Placid Health And Rehabilitation Center,Lake Placid Health And Rehabilitation Center,Lake Placid,Region 6,Highlands,27.3207082,-81.3716892,★★☆☆☆,★★★☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lake Wales Wellness And Rehabilitation Center,Lake Wales Wellness And Rehabilitation Center,Lake Wales,Region 6,Polk,27.913109,-81.5883944,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★
+Lakeland Hills Center,Lakeland Hills Center,Lakeland,Region 6,Polk,28.0702331,-81.9518608,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lakes At Lutz Health & Rehabilitation Center,Lakes At Lutz Health & Rehabilitation Center,Lutz,Region 6,Hillsborough,28.1522006,-82.4896517,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★☆☆,★★★★★
+"Lakes Of Clermont Health And Rehabilitation Center, The",Lakes Of Clermont Health And Rehabilitation Center,Clermont,Region 3,Lake,28.541964,-81.7242326,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lakeside Center For Rehabilitation And Healing,Lakeside Center For Rehabilitation And Healing,Jacksonville,Region 4,Duval,30.4395679,-81.6778039,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lakeside Neurologic,Lakeside Neurologic,Wauchula,Region 6,Hardee,27.548233,-81.920249,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Lakeview Terrace Rehabilitation And Health Care Center,Lakeview Terrace Rehabilitation And Health Care Center,Altoona,Region 3,Lake,28.9640015,-81.6565241,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Lanier Rehabilitation Center,Lanier Rehabilitation Center,Jacksonville,Region 4,Duval,30.4674832,-81.5889612,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Larsen Health Center,Larsen Health Center,Fort Myers,Region 8,Lee,26.4942171,-81.9806141,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Laurellwood Fl Opco, Llc",Laurellwood Fl Opco,Saint Petersburg,Region 5,Pinellas,27.8240775,-82.6758401,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center At Wells Crossing,Life Care Center At Wells Crossing,Orange Park,Region 4,Clay,30.184955,-81.717369,★★★☆☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Citrus County,Life Care Center Of Citrus County,Lecanto,Region 3,Citrus,28.8723322,-82.4898105,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Life Care Center Of Estero,Life Care Center Of Estero,Estero,Region 8,Lee,26.4210274,-81.813563,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Hilliard,Life Care Center Of Hilliard,Hilliard,Region 4,Nassau,30.693704,-81.9182348,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Jacksonville,Life Care Center Of Jacksonville,Jacksonville,Region 4,Duval,30.2495192,-81.6004952,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Melbourne,Life Care Center Of Melbourne,Melbourne,Region 7,Brevard,28.0892364,-80.6116659,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Life Care Center Of New Port Richey,Life Care Center Of New Port Richey,New Port Richey,Region 5,Pasco,28.2251644,-82.6919944,★★★★☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Ocala,Life Care Center Of Ocala,Ocala,Region 3,Marion,29.1470322,-82.1702914,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Orange Park,Life Care Center Of Orange Park,Orange Park,Region 4,Clay,30.1654258,-81.7409274,★★★★★,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Palm Bay,Life Care Center Of Palm Bay,Palm Bay,Region 7,Brevard,27.9998566,-80.6151254,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Pensacola,Life Care Center Of Pensacola,Pensacola,Region 1,Escambia,30.50847,-87.1983718,★★★☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Port St. Lucie,Life Care Center Of Port St. Lucie,Port St Lucie,Region 9,St. Lucie,27.2791028,-80.2900243,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Life Care Center Of Punta Gorda,Life Care Center Of Punta Gorda,Punta Gorda,Region 8,Charlotte,26.9267225,-82.0559544,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Life Care Center Of Winter Haven,Life Care Center Of Winter Haven,Winter Haven,Region 6,Polk,28.0058792,-81.7050295,★★★☆☆,★★★☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+"Lilac At Bayview, The",Lilac At Bayview,St Augustine,Region 4,St. Johns,29.8817963,-81.3075859,★☆☆☆☆,★★★★★,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Lodge At Cypress Cove, The",Lodge At Cypress Cove,Fort Myers,Region 8,Lee,26.5040939,-81.9180365,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Longwood Health And Rehabilitation Center,Longwood Health And Rehabilitation Center,Longwood,Region 7,Seminole,28.6863563,-81.3348275,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★☆,★☆☆☆☆,★★★★★
+"Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.","Lourdes-Noreen Mckeen Residence For Geriatric Care, Inc.",West Palm Beach,Region 9,Palm Beach,26.7109097,-80.0510038,★★★★☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Macclenny Nursing And Rehab Center,Macclenny Nursing And Rehab Center,Macclenny,Region 4,Baker,30.2733308,-82.1192937,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Madison Health And Rehabilitation Center,Madison Health And Rehabilitation Center,Madison,Region 2,Madison,30.481955,-83.4514893,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Madison Pointe Care Center,Madison Pointe Care Center,New Port Richey,Region 5,Pasco,28.252978,-82.714927,★★★★☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Magnolia Health And Rehabilitation Center,Magnolia Health And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.319786,-82.51353,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★☆,★★★★★,★☆☆☆☆,★★★★★
+Majestic Oaks,Majestic Oaks,Orange City,Region 4,Volusia,28.940101,-81.2813324,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Manatee Springs Rehabilitation And Nursing Center,Manatee Springs Rehabilitation And Nursing Center,Bradenton,Region 6,Manatee,27.441794,-82.554248,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Manor At Blue Water Bay, The",Manor At Blue Water Bay,Niceville,Region 1,Okaloosa,30.4834183,-86.4129405,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Margate Health And Rehabilitation Center,Margate Health And Rehabilitation Center,Margate,Region 10,Broward,26.2636959,-80.2048097,★★★☆☆,★★★☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Marianna Health And Rehabilitation Center,Marianna Health And Rehabilitation Center,Marianna,Region 2,Jackson,30.7867868,-85.2380234,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Marion And Bernard L Samson Nursing Center,Marion And Bernard L Samson Nursing Center,Saint Petersburg,Region 5,Pinellas,27.7738748,-82.7138835,★★★★☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Martin Coast Center For Rehabilitation And Healthcare,Martin Coast Center For Rehabilitation And Healthcare,Hobe Sound,Region 9,Martin,27.0884818,-80.149972,★★★☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Masonic Home Of Florida,Masonic Home Of Florida,St Petersburg,Region 5,Pinellas,27.8019878,-82.633414,★★★★☆,★★★★★,★★☆☆☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★☆☆☆,★★★★★
+"Meadows Center For Nursing And Healing, The",Meadows Center For Nursing And Healing,Sarasota,Region 8,Sarasota,27.3564915,-82.4665103,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★☆☆,★★★★★
+Medicana Nursing And Rehab Center,Medicana Nursing And Rehab Center,Lake Worth,Region 9,Palm Beach,26.6175189,-80.0658052,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Melbourne Terrace Rehabilitation Center,Melbourne Terrace Rehabilitation Center,Melbourne,Region 7,Brevard,28.056066,-80.618137,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Memorial Manor,Memorial Manor,Pembroke Pines,Region 10,Broward,26.0042123,-80.2622916,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Menorah House,Menorah House,Boca Raton,Region 9,Palm Beach,26.3585358,-80.1986794,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Metro West Nursing And Rehab Center,Metro West Nursing And Rehab Center,Orlando,Region 7,Orange,28.5313523,-81.4627635,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Miami Shores Nursing And Rehab Center,Miami Shores Nursing And Rehab Center,Miami,Region 11,Miami-Dade,25.860665,-80.210204,★★★★☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Middleburg Rehabilitation And Nursing Center,Middleburg Rehabilitation And Nursing Center,Middleburg,Region 4,Clay,30.1117839,-81.8133773,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Miracle Hill Nursing And Rehabilitation Center, Inc","Miracle Hill Nursing And Rehabilitation Center, Inc",Tallahassee,Region 2,Leon,30.4573885,-84.2996048,★★★☆☆,★★★★☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Morton Plant Rehabilitation Center,Morton Plant Rehabilitation Center,Belleair,Region 5,Pinellas,27.950398,-82.8005453,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Moultrie Creek Nursing And Rehab Center,Moultrie Creek Nursing And Rehab Center,Saint Augustine,Region 4,St. Johns,29.8091268,-81.325446,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+North Beach Healthcare And Rehabilitation Center,North Beach Healthcare And Rehabilitation Center,North Miami Beach,Region 11,Miami-Dade,25.7318528,-80.3349318,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★
+North Dade Nursing And Rehabilitation Center,North Dade Nursing And Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.9004025,-80.1731714,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+North Florida Rehabilitation And Specialty Care,North Florida Rehabilitation And Specialty Care,Gainesville,Region 3,Alachua,29.661734,-82.413994,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+North Lake Care Center And Rehab,North Lake Care Center And Rehab,Lake Park,Region 9,Palm Beach,26.7936814,-80.0683959,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+North Port Rehabilitation And Nursing Center,North Port Rehabilitation And Nursing Center,North Port,Region 8,Sarasota,27.051594,-82.2406395,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Northbrook Center For Rehabilitation And Healing,Northbrook Center For Rehabilitation And Healing,Brooksville,Region 3,Hernando,28.5504736,-82.3936188,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Northdale Rehabilitation Center,Northdale Rehabilitation Center,Tampa,Region 6,Hillsborough,28.0852359,-82.4949484,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Nspire Healthcare Kendall,Nspire Healthcare Kendall,Miami,Region 11,Miami-Dade,25.6791526,-80.4178201,★★★☆☆,★★★☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★
+Nspire Healthcare Lauderhill,Nspire Healthcare Lauderhill,Lauderhill,Region 10,Broward,26.1595166,-80.2235829,★☆☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★
+Nspire Healthcare Tamarac,Nspire Healthcare Tamarac,Tamarac,Region 10,Broward,26.197091,-80.257046,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★☆☆☆☆,★★★★★
+Nursing & Rehabilitation Center Of Bayonet Point,Nursing & Rehabilitation Center Of Bayonet Point,Hudson,Region 5,Pasco,28.3619938,-82.6875863,★★☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Nursing Center At La Posada,Nursing Center At La Posada,Palm Beach Gardens,Region 9,Palm Beach,26.8522281,-80.085463,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Oak Hammock At The University Of Florida Inc,Oak Hammock At The University Of Florida Inc,Gainesville,Region 3,Alachua,29.6054187,-82.3602764,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Oak Manor Healthcare & Rehabilitation Center,Oak Manor Healthcare & Rehabilitation Center,Largo,Region 5,Pinellas,27.8954888,-82.8239257,★★★☆☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Oaks At Avon,Oaks At Avon,Avon Park,Region 6,Highlands,27.6071889,-81.513448,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ocala Health And Rehabilitation Center,Ocala Health And Rehabilitation Center,Ocala,Region 3,Marion,29.16491,-82.1230176,★★★☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ocala Oaks Rehabilitation Center,Ocala Oaks Rehabilitation Center,Ocala,Region 3,Marion,29.2004276,-82.0805037,★★★★☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Okeechobee Health Care Facility,Okeechobee Health Care Facility,Okeechobee,Region 9,Okeechobee,27.2586757,-80.8281579,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Olive Branch Health And Rehabilitation Center,Olive Branch Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.5147227,-87.221793,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Orange City Nursing And Rehab Center,Orange City Nursing And Rehab Center,Debary,Region 4,Volusia,28.9025261,-81.2895087,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Orange Park Rehabilitation And Nursing Center,Orange Park Rehabilitation And Nursing Center,Orange Park,Region 4,Clay,30.1671774,-81.7395871,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Orlando Health And Rehabilitation Center,Orlando Health And Rehabilitation Center,Orlando,Region 7,Orange,28.5112231,-81.3917132,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Orlando Health Center For Rehabilitation,Orlando Health Center For Rehabilitation,Ocoee,Region 7,Orange,28.5487242,-81.5228598,★☆☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ormond Rehabilitation And Nursing Center,Ormond Rehabilitation And Nursing Center,Ormond Beach,Region 4,Volusia,29.2704075,-81.0930225,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Osprey Point Nursing Center,Osprey Point Nursing Center,Bushnell,Region 3,Sumter,28.680447,-82.11162,★★☆☆☆,★★★☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Palatka Center For Rehabilitation And Healing,Palatka Center For Rehabilitation And Healing,Palatka,Region 3,Putnam,29.6489478,-81.6931477,★★★★☆,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Beach Nursing Center,Palm Beach Nursing Center,Lake Worth,Region 9,Palm Beach,26.583546,-80.0905862,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Palm City Nursing And Rehab Center,Palm City Nursing And Rehab Center,Palm City,Region 9,Martin,27.1621969,-80.2874922,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Palm Garden Of Aventura,Palm Garden Of Aventura,North Miami Beach,Region 11,Miami-Dade,25.9721372,-80.1470354,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★☆,★★★★★
+Palm Garden Of Clearwater,Palm Garden Of Clearwater,Clearwater,Region 5,Pinellas,28.048064,-82.710544,★★★★☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of Gainesville,Palm Garden Of Gainesville,Gainesville,Region 3,Alachua,29.6507393,-82.4065559,★★★☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Palm Garden Of Jacksonville,Palm Garden Of Jacksonville,Jacksonville,Region 4,Duval,30.2669442,-81.6082755,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Palm Garden Of Largo,Palm Garden Of Largo,Largo,Region 5,Pinellas,27.866944,-82.7629095,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Palm Garden Of Ocala,Palm Garden Of Ocala,Ocala,Region 3,Marion,29.152368,-82.169711,★★★☆☆,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Palm Garden Of Orlando,Palm Garden Of Orlando,Orlando,Region 7,Orange,28.5531147,-81.2531058,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of Pinellas,Palm Garden Of Pinellas,Largo,Region 5,Pinellas,27.9027719,-82.7855077,★★★☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of Port St. Lucie,Palm Garden Of Port St. Lucie,Port Saint Lucie,Region 9,St. Lucie,27.2858901,-80.2936014,★★★★☆,★★★★☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of Sun City,Palm Garden Of Sun City,Sun City Center,Region 6,Hillsborough,27.7175393,-82.3708106,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of Vero Beach,Palm Garden Of Vero Beach,Vero Beach,Region 9,Indian River,27.6596713,-80.4021728,★★★★☆,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Garden Of West Palm Beach,Palm Garden Of West Palm Beach,West Palm Beach,Region 9,Palm Beach,26.7143654,-80.0791795,★★★☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Palm Garden Of Winter Haven,Palm Garden Of Winter Haven,Winter Haven,Region 6,Polk,28.0048691,-81.7097956,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palm Vista Nursing And Rehabilitation Center,Palm Vista Nursing And Rehabilitation Center,Key West,Region 8,Monroe,24.5807615,-81.7438471,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Palmetto Care Center,Palmetto Care Center,Hialeah,Region 11,Miami-Dade,25.8836357,-80.3289268,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palmetto Subacute Care Center,Palmetto Subacute Care Center,Miami,Region 11,Miami-Dade,25.7620701,-80.318658,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Palms Care Center,Palms Care Center,Lauderdale Lakes,Region 10,Broward,26.1677572,-80.2119128,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★
+"Palms Rehabilitation And Healthcare Center, The",Palms Rehabilitation And Healthcare Center,Palm Bay,Region 7,Brevard,28.0149,-80.62168,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Park Meadows Healthcare & Rehabilitation Center,Park Meadows Healthcare & Rehabilitation Center,Gainesville,Region 3,Alachua,29.6164615,-82.3703046,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Park Ridge Nursing Center,Park Ridge Nursing Center,Jacksonville,Region 4,Duval,30.3183862,-81.6819901,★★★★☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Parklands Care Center,Parklands Care Center,Gainesville,Region 3,Alachua,29.637104,-82.336051,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★
+Parks Healthcare And Rehabilitation Center,Parks Healthcare And Rehabilitation Center,Orlando,Region 7,Orange,28.426018,-81.4025,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★☆☆,★★★★★
+Parkside Health And Rehabilitation Center,Parkside Health And Rehabilitation Center,Deland,Region 4,Volusia,29.0221338,-81.2984618,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Parkview Rehabilitation Center At Winter Park,Parkview Rehabilitation Center At Winter Park,Winter Park,Region 7,Orange,28.5968069,-81.3245267,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+"Pavilion For Health Care, The",Pavilion For Health Care,Penney Farms,Region 4,Clay,29.9765033,-81.8080673,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Peninsula Rehabilitation And Nursing Center,Peninsula Rehabilitation And Nursing Center,Tarpon Springs,Region 5,Pinellas,28.1660671,-82.7429544,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Perry Oaks Health Care,Perry Oaks Health Care,Perry,Region 2,Taylor,30.125755,-83.58967,★★☆☆☆,★☆☆☆☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Pinecrest Rehabilitation Center,Pinecrest Rehabilitation Center,North Miami,Region 11,Miami-Dade,25.900539,-80.192733,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★
+Pinellas Point Nursing And Rehab Center,Pinellas Point Nursing And Rehab Center,Saint Petersburg,Region 5,Pinellas,27.7170735,-82.6761401,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Pines Nursing Home,Pines Nursing Home,Miami,Region 11,Miami-Dade,25.9050082,-80.1918302,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Pines Of Sarasota,Pines Of Sarasota,Sarasota,Region 8,Sarasota,27.3503978,-82.5392861,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Plantation Bay Rehabilitation Center,Plantation Bay Rehabilitation Center,Saint Cloud,Region 7,Osceola,28.253927,-81.31378,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★☆,★★★★★
+Plaza Health And Rehab,Plaza Health And Rehab,Gainesville,Region 3,Alachua,29.6141107,-82.3953115,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Plaza West Health Center,Plaza West Health Center,Sun City Ctr,Region 6,Hillsborough,27.7205905,-82.3673629,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Plymouth Harbor Incorporated,Plymouth Harbor Incorporated,Sarasota,Region 8,Sarasota,27.3207697,-82.5704834,★★★☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Ponce Health And Rehabilitation Center,Ponce Health And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.7698891,-80.2143104,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+"Ponce Therapy Care Center And Rehab, The",Ponce Therapy Care Center And Rehab,Saint Augustine,Region 4,St. Johns,29.8644952,-81.3280336,★★★★☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Port Charlotte Rehabilitation Center,Port Charlotte Rehabilitation Center,Port Charlotte,Region 8,Charlotte,27.0001731,-82.0303407,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Port Orange Nursing And Rehab Center,Port Orange Nursing And Rehab Center,Port Orange,Region 4,Volusia,29.118266,-81.0175724,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Port St. Lucie Rehabilitation And Healthcare,Port St. Lucie Rehabilitation And Healthcare,Port St Lucie,Region 9,St. Lucie,27.3423015,-80.3292388,★★★☆☆,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★
+Premier Place At The Glenview,Premier Place At The Glenview,Naples,Region 8,Collier,26.2164802,-81.8104553,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Promedica Skilled Nursing And Rehabilitation (Boca Raton North),Boca Raton,Region 9,Palm Beach,26.4088373,-80.1259923,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Promedica Skilled Nursing And Rehabilitation (Boynton Beach Nort,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,★★★★☆,★★★★★,★★☆☆☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Delray),Promedica Skilled Nursing And Rehabilitation (Delray),Delray Beach,Region 9,Palm Beach,26.4661338,-80.0703428,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Promedica Skilled Nursing And Rehabilitation (Ft. Myers East),Fort Myers,Region 8,Lee,26.6598263,-81.8338588,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★☆☆☆,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Sarasota East),Promedica Skilled Nursing And Rehabilitation (Sarasota East),Sarasota,Region 8,Sarasota,27.2748203,-82.4863586,★★★☆☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Promedica Skilled Nursing And Rehabilitation (Sarasota West),Promedica Skilled Nursing And Rehabilitation (Sarasota West),Sarasota,Region 8,Sarasota,27.2748203,-82.4863586,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Promedica Skilled Nursing And Rehabilitation Boynton Beach South,Boynton Beach,Region 9,Palm Beach,26.5332237,-80.1056415,★☆☆☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Pruitthealth - Fleming Island,Pruitthealth - Fleming Island,Fleming Island,Region 4,Clay,30.0856547,-81.7183361,★★★★☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Pruitthealth - Panama City,Pruitthealth - Panama City,Panama City,Region 2,Bay,30.2062721,-85.6604461,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Pruitthealth - Santa Rosa,Pruitthealth - Santa Rosa,Milton,Region 1,Santa Rosa,30.636028,-87.064573,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Pruitthealth - Southwood,Pruitthealth - Southwood,Tallahassee,Region 2,Leon,30.4136505,-84.2299274,★★★☆☆,★★★☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Radiant Nursing And Rehab At Palatka,Radiant Nursing And Rehab At Palatka,Palatka,Region 3,Putnam,29.6445043,-81.6609639,★★★☆☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Raydiant Health Care Of North Fort Myers,Raydiant Health Care Of North Fort Myers,North Fort Myers,Region 8,Lee,26.666992,-81.92082,★★☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★
+Regency Oaks Health Center,Regency Oaks Health Center,Clearwater,Region 5,Pinellas,27.9944138,-82.7241208,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★☆☆,★★★★★,★★★★★
+Regents Park At Aventura,Regents Park At Aventura,Aventura,Region 11,Miami-Dade,25.9505693,-80.1502131,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Regents Park Of Sunrise,Regents Park Of Sunrise,Sunrise,Region 10,Broward,26.1707763,-80.2806777,★★★☆☆,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Regents Park Of Winter Park,Regents Park Of Winter Park,Winter Park,Region 7,Orange,28.6095161,-81.3106384,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★
+Rehab & Healthcare Center Of Cape Coral,Rehab & Healthcare Center Of Cape Coral,Cape Coral,Region 8,Lee,26.6027455,-81.9406261,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★☆,★★★★☆,★★★★★
+Rehabilitation Center At Park Place,Rehabilitation Center At Park Place,Pensacola,Region 1,Escambia,30.4307599,-87.239291,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Renaissance At The Terraces,Renaissance At The Terraces,Bonita Springs,Region 8,Lee,26.3547862,-81.8060407,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Ridgecrest Healthcare And Rehabilitation Center,Ridgecrest Healthcare And Rehabilitation Center,Deland,Region 4,Volusia,29.0493432,-81.3176238,★★☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+River City Nursing And Rehab Center,River City Nursing And Rehab Center,Jacksonville,Region 4,Duval,30.4900872,-81.6334649,★★☆☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+River Garden Hebrew Home For The Aged,River Garden Hebrew Home For The Aged,Jacksonville,Region 4,Duval,30.1663954,-81.5987808,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+River Valley Rehabilitation Center,River Valley Rehabilitation Center,Blountstown,Region 2,Calhoun,30.4587144,-85.0516791,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Riverchase Health And Rehabilitation Center,Riverchase Health And Rehabilitation Center,Quincy,Region 2,Gadsden,30.5685653,-84.5544357,★★★☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Riverside Care Center,Riverside Care Center,Miami,Region 11,Miami-Dade,25.7777742,-80.2091593,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Riverwood Center,Riverwood Center,Jacksonville,Region 4,Duval,30.274363,-81.591961,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"Rohr Home, The",Rohr Home,Bartow,Region 6,Polk,27.8847721,-81.8219128,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Rosewood Health And Rehabilitation Center,Rosewood Health And Rehabilitation Center,Orlando,Region 7,Orange,28.607286,-81.42754,★★☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★
+Rosewood Healthcare And Rehabilitation Center,Rosewood Healthcare And Rehabilitation Center,Pensacola,Region 1,Escambia,30.4435428,-87.2326754,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Royal Care Of Avon Park,Royal Care Of Avon Park,Avon Park,Region 6,Highlands,27.6281557,-81.5170873,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Royal Oak Nursing Center,Royal Oak Nursing Center,Dade City,Region 5,Pasco,28.3514804,-82.1993331,★★★☆☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach Health And Rehabilitation Center,Royal Palm Beach,Region 9,Palm Beach,26.6974932,-80.2106063,★★★☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Ruleme Center,Ruleme Center,Eustis,Region 3,Lake,28.825939,-81.690335,★★★★☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Sabal Palms Health & Rehabilitation,Sabal Palms Health & Rehabilitation,Largo,Region 5,Pinellas,27.9217737,-82.7691185,★★☆☆☆,★☆☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★
+Sand Key Health And Rehabilitation Center,Sand Key Health And Rehabilitation Center,Clearwater,Region 5,Pinellas,27.730881,-82.639015,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Sandy Ridge Center For Rehabilitation And Healing,Sandy Ridge Center For Rehabilitation And Healing,Milton,Region 1,Santa Rosa,30.6301571,-87.0636334,★★★☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Santa Rosa Center For Rehabilitation And Healing,Santa Rosa Center For Rehabilitation And Healing,Milton,Region 1,Santa Rosa,30.6296162,-87.0368919,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★
+Sarasota Memorial Nursing And Rehabilitation Center,Sarasota Memorial Nursing And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.2638533,-82.4574202,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Sarasota Point Rehabilitation Center,Sarasota Point Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3257538,-82.5165331,★★★☆☆,★★★☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★
+Savannah Cove,Savannah Cove,Maitland,Region 7,Orange,28.6314438,-81.3790081,★★★★☆,★★★★★,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Seaside Health And Rehabilitation Center,Seaside Health And Rehabilitation Center,Daytona Beach,Region 4,Volusia,29.1892835,-81.0130486,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Seven Hills Health And Rehabilitation Center,Seven Hills Health And Rehabilitation Center,Tallahassee,Region 2,Leon,30.4753089,-84.2254374,★★★★☆,★★☆☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Shoal Creek Rehabilitation Center,Shoal Creek Rehabilitation Center,Crestview,Region 1,Okaloosa,30.733517,-86.56249,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Shore Acres Care Center And Rehab,Shore Acres Care Center And Rehab,Saint Petersburg,Region 5,Pinellas,27.8133502,-82.6024931,★★★★☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Siesta Key Health And Rehabilitation Center,Siesta Key Health And Rehabilitation Center,Sarasota,Region 8,Sarasota,27.3754687,-82.5341965,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★☆☆☆,★★★★★,★☆☆☆☆,★★★★★
+Silvercrest Health And Rehabilitation Center,Silvercrest Health And Rehabilitation Center,Crestview,Region 1,Okaloosa,30.7303583,-86.565033,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Coconut Creek,Solaris Healthcare Coconut Creek,Coconut Creek,Region 10,Broward,26.2747609,-80.1800958,★★★★☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Solaris Healthcare Daytona,Solaris Healthcare Daytona,Daytona Beach,Region 4,Volusia,29.2054328,-81.0634613,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Imperial,Solaris Healthcare Imperial,Naples,Region 8,Collier,26.2889509,-81.800146,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Lake City,Solaris Healthcare Lake City,Lake City,Region 3,Columbia,30.182354,-82.650458,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Merritt Island,Solaris Healthcare Merritt Island,Merritt Island,Region 7,Brevard,28.3899377,-80.7082025,★★★☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Solaris Healthcare Osceola,Solaris Healthcare Osceola,Saint Cloud,Region 7,Osceola,28.227569,-81.3150259,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Pensacola,Solaris Healthcare Pensacola,Pensacola,Region 1,Escambia,30.516698,-87.221773,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Plant City,Solaris Healthcare Plant City,Plant City,Region 6,Hillsborough,28.0308141,-82.095759,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Solaris Healthcare Windermere,Solaris Healthcare Windermere,Orlando,Region 7,Orange,28.5004459,-81.4434006,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Solaris Senior Living North Naples,Solaris Senior Living North Naples,Naples,Region 8,Collier,26.2716734,-81.7805028,★★★★☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★
+South Campus Care Center And Rehab,South Campus Care Center And Rehab,Leesburg,Region 3,Lake,28.8058186,-81.8674243,★★★☆☆,★☆☆☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+South Dade Nursing And Rehabilitation Center,South Dade Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.6076663,-80.3470212,★★★☆☆,★★★★☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+South Heritage Health & Rehabilitation Center,South Heritage Health & Rehabilitation Center,Saint Petersburg,Region 5,Pinellas,27.7481951,-82.6429939,★★★☆☆,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★
+Southern Pines Nursing Center,Southern Pines Nursing Center,New Port Richey,Region 5,Pasco,28.2484938,-82.7067665,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Specialty Health And Rehabilitation Center,Specialty Health And Rehabilitation Center,Pensacola,Region 1,Escambia,30.48969,-87.3045255,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Spring Hill Health And Rehabilitation Center,Spring Hill Health And Rehabilitation Center,Brooksville,Region 3,Hernando,28.532927,-82.52496,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Spring Lake Rehabilitation Center,Spring Lake Rehabilitation Center,Winter Haven,Region 6,Polk,28.0374257,-81.7323578,★★☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Springs At Boca Ciega Bay,Springs At Boca Ciega Bay,South Pasadena,Region 5,Pinellas,27.7574633,-82.7395969,★★★★★,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Springs At Lake Pointe Woods,Springs At Lake Pointe Woods,Sarasota,Region 8,Sarasota,27.239587,-82.498804,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Springtree Rehabilitation & Health Care Center,Springtree Rehabilitation & Health Care Center,Sunrise,Region 10,Broward,26.1708193,-80.2806127,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+St Andrews Bay Skilled Nursing And Rehabilitation Center,St Andrews Bay Skilled Nursing And Rehabilitation Center,Panama City,Region 2,Bay,30.1859249,-85.6613022,★★☆☆☆,★★☆☆☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"St Annes Nursing Center, St Annes Residence Inc","St Annes Nursing Center, St Annes Residence Inc",Miami,Region 11,Miami-Dade,25.5895568,-80.3840606,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+St Augustine Health And Rehabilitation Center,St Augustine Health And Rehabilitation Center,Saint Augustine,Region 4,St. Johns,29.8734415,-81.3309029,★★★☆☆,★★★★☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+St James Health And Rehabilitation Center,St James Health And Rehabilitation Center,Carrabelle,Region 2,Franklin,29.9040014,-84.5675673,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+St. Amaro Post-Acute And Rehabilitation Center,St. Amaro Post-Acute And Rehabilitation Center,Wauchula,Region 6,Hardee,27.5344559,-81.8141953,★★★☆☆,★★★☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+St. Andrew Post-Acute And Rehabilitation Center,St. Andrew Post-Acute And Rehabilitation Center,Tampa,Region 6,Hillsborough,28.109484,-82.503829,★★★☆☆,★★★☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+St. Camillus Post-Acute And Rehabilitation Center,St. Camillus Post-Acute And Rehabilitation Center,Sebring,Region 6,Highlands,27.4850997,-81.436697,★★★☆☆,★★☆☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★
+St. John'S Nursing Center,St. John'S Nursing Center,Lauderdale Lakes,Region 10,Broward,26.164589,-80.1931742,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★☆☆,★★☆☆☆,★★★★★,★★★★★,★★☆☆☆,★★★★★
+"St. Mark Village, Inc.","St. Mark Village, Inc.",Palm Harbor,Region 5,Pinellas,28.0796409,-82.7362484,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Stuart Rehabilitation And Healthcare,Stuart Rehabilitation And Healthcare,Stuart,Region 9,Martin,27.1857133,-80.2371726,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Sun Terrace Health Care Center,Sun Terrace Health Care Center,Sun City Center,Region 6,Hillsborough,27.7101662,-82.3557201,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Sunnyside Nursing Home,Sunnyside Nursing Home,Sarasota,Region 8,Sarasota,27.3342994,-82.5250037,★★★★☆,★★★★☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Sunrise Health And Rehabilitation Center,Sunrise Health And Rehabilitation Center,Sunrise,Region 10,Broward,26.1850159,-80.2832418,★☆☆☆☆,★☆☆☆☆,★★★☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Sunrise Point Health And Rehabilitation Center,Sunrise Point Health And Rehabilitation Center,Rockledge,Region 7,Brevard,28.3256659,-80.735503,★★☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★
+Surrey Place Healthcare And Rehabilitation,Surrey Place Healthcare And Rehabilitation,Bradenton,Region 6,Manatee,27.4801385,-82.6175272,★★★★☆,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Surrey Place Nursing Center,Surrey Place Nursing Center,Live Oak,Region 3,Suwannee,30.290603,-82.971939,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Susanna Wesley Health Center,Susanna Wesley Health Center,Hialeah,Region 11,Miami-Dade,25.8702699,-80.3186433,★★★★☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Suwannee Valley Nursing Center,Suwannee Valley Nursing Center,Jasper,Region 3,Hamilton,30.5218588,-82.9597161,★★☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Tallahassee Living Center,Tallahassee Living Center,Tallahassee,Region 2,Leon,30.458658,-84.24194,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★★,★★★☆☆,★☆☆☆☆,★★★★★
+Tampa Lakes Health And Rehabilitation Center,Tampa Lakes Health And Rehabilitation Center,Lutz,Region 6,Hillsborough,28.0990007,-82.4544373,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Tarpon Bayou Center,Tarpon Bayou Center,Tarpon Springs,Region 5,Pinellas,28.1517573,-82.767864,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Taylor Care Center,Taylor Care Center,Jacksonville,Region 4,Duval,30.257796,-81.621074,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Terrace Healthcare & Rehabilitation Center,Terrace Healthcare & Rehabilitation Center,Gainesville,Region 3,Alachua,29.6293977,-82.4192772,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Terrace Of Delray Beach Nursing And Rehabilitation Center The,Terrace Of Delray Beach Nursing And Rehabilitation Center The,Delray Beach,Region 9,Palm Beach,26.4384789,-80.1294861,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Terrace Of Hialeah, The",Terrace Of Hialeah,Hialeah,Region 11,Miami-Dade,25.8468202,-80.2856765,★★★★☆,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Terrace Of Jacksonville, The",Terrace Of Jacksonville,Jacksonville,Region 4,Duval,30.181845,-81.608443,★★☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★☆☆☆☆,★★★★★
+"Terrace Of Kissimmee, The",Terrace Of Kissimmee,Kissimmee,Region 7,Osceola,28.314178,-81.4075086,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Terraces Of Lake Worth Care Center,Terraces Of Lake Worth Care Center,Lake Worth,Region 9,Palm Beach,26.608389,-80.0657368,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+The Bristol Care Center,The Bristol Care Center,Tampa,Region 6,Hillsborough,28.0695678,-82.4395266,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★☆☆☆☆,★★☆☆☆,★★★★★
+The Cedar At Mease Life,The Cedar At Mease Life,Dunedin,Region 5,Pinellas,28.014905,-82.7807914,★★★★☆,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+The Edgewater At Waterman Village,The Edgewater At Waterman Village,Mount Dora,Region 3,Lake,28.8225154,-81.6468658,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+The Floridean Nursing And Rehabilitation Center,The Floridean Nursing And Rehabilitation Center,Miami,Region 11,Miami-Dade,25.772528,-80.248405,★★★★☆,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+The Lodge Health And Rehabilitation Center,The Lodge Health And Rehabilitation Center,Ocala,Region 3,Marion,29.1727091,-82.1303763,★★★☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+The Palms Nursing And Rehab At Orlando,The Palms Nursing And Rehab At Orlando,Orlando,Region 7,Orange,28.5215851,-81.3801606,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+The Preserve,The Preserve,Fort Myers,Region 8,Lee,26.5306491,-81.8483963,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+The Terrace At Courtenay Springs,The Terrace At Courtenay Springs,Merritt Island,Region 7,Brevard,28.3383488,-80.6888053,★☆☆☆☆,★★☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★☆,★★★★★
+Tierra Pines Center,Tierra Pines Center,Largo,Region 5,Pinellas,27.8929319,-82.739948,★★★☆☆,★★★☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Tiffany Hall Nursing And Rehab Center,Tiffany Hall Nursing And Rehab Center,Port Saint Lucie,Region 9,St. Lucie,27.2829462,-80.2938399,★★★★☆,★★★★★,★★★☆☆,★★★☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★
+Timberridge Nursing & Rehabilitation Center,Timberridge Nursing & Rehabilitation Center,Ocala,Region 3,Marion,29.0612508,-82.2814971,★★★★★,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Tri-County Nursing Home,Tri-County Nursing Home,Trenton,Region 3,Gilchrist,29.6065101,-82.9247017,★★★★☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Trinity Regional Rehab Center,Trinity Regional Rehab Center,Trinity,Region 5,Pasco,28.1904675,-82.6811341,★★★★☆,★★★☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★
+Tuskawilla Nursing And Rehab Center,Tuskawilla Nursing And Rehab Center,Winter Springs,Region 7,Seminole,28.6446377,-81.2731432,★★☆☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+University Crossing,University Crossing,Jacksonville,Region 4,Duval,30.2907648,-81.5986952,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+University Hills Health And Rehabilitation,University Hills Health And Rehabilitation,Pensacola,Region 1,Escambia,30.54044,-87.21687,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Venice Health And Rehabilitation Center,Venice Health And Rehabilitation Center,Venice,Region 8,Sarasota,27.1065115,-82.4180045,★★★☆☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Vero Beach Care Center,Vero Beach Care Center,Vero Beach,Region 9,Indian River,27.6610545,-80.3986565,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★☆,★★★★★
+Vi At Aventura,Vi At Aventura,Aventura,Region 11,Miami-Dade,25.9546261,-80.1379189,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Vi At Lakeside Village,Vi At Lakeside Village,Lantana,Region 9,Palm Beach,26.5814302,-80.0849095,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Vicar'S Landing Nursing Home,Vicar'S Landing Nursing Home,Ponte Vedra Beach,Region 4,St. Johns,30.2038515,-81.3872824,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Viera Del Mar Health And Rehabilitation Center,Viera Del Mar Health And Rehabilitation Center,Viera,Region 7,Brevard,28.225579,-80.7303574,★★★☆☆,★★☆☆☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Viera Healthcare And Rehabilitation Center,Viera Healthcare And Rehabilitation Center,Melbourne,Region 7,Brevard,28.238965,-80.708241,★★★☆☆,★★★☆☆,★★☆☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Villa Maria Nursing Center,Villa Maria Nursing Center,North Miami,Region 11,Miami-Dade,25.8899154,-80.1776886,★★☆☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Villa Maria West Skilled Nursing Facility,Villa Maria West Skilled Nursing Facility,Hialeah Gardens,Region 11,Miami-Dade,25.8837561,-80.3429608,★★★★☆,★★★★☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Village On The Green,Village On The Green,Longwood,Region 7,Seminole,28.6925948,-81.4065093,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+Village On The Isle,Village On The Isle,Venice,Region 8,Sarasota,27.0835632,-82.4380252,★★★★★,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Villages Rehabilitation And Nursing Center, The",Villages Rehabilitation And Nursing Center,Lady Lake,Region 3,Lake,28.9137,-81.9418623,★★★☆☆,★★☆☆☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Vivo Healthcare Normandy,Vivo Healthcare Normandy,Jacksonville,Region 4,Duval,30.2905477,-81.7909127,★★★☆☆,★★★☆☆,★★★☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+W Frank Wells Nursing Home,W Frank Wells Nursing Home,Macclenny,Region 4,Baker,30.2865608,-82.1182183,★★★☆☆,★★★★★,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Washington Rehabilitation And Nursing Center,Washington Rehabilitation And Nursing Center,Chipley,Region 2,Washington,30.7668083,-85.5438178,★★★☆☆,★★☆☆☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Water'S Edge Health And Rehabilitation,Water'S Edge Health And Rehabilitation,Palm City,Region 9,Martin,27.1878181,-80.2746286,★★★★☆,★★★★★,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+"Waterford, The",Waterford,Juno Beach,Region 9,Palm Beach,26.85753,-80.05873,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Wedgewood Healthcare Center,Wedgewood Healthcare Center,Lakeland,Region 6,Polk,28.100277,-81.97101,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+West Altamonte Nursing & Rehabilitation Center,West Altamonte Nursing & Rehabilitation Center,Altamonte Springs,Region 7,Seminole,28.6590751,-81.4262322,★★★☆☆,★★★★☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+West Broward Rehabilitation And Healthcare,West Broward Rehabilitation And Healthcare,Plantation,Region 10,Broward,26.1212095,-80.2510046,★★★★☆,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+West Gables Health Care Center,West Gables Health Care Center,Miami,Region 11,Miami-Dade,25.7469755,-80.3166972,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+West Melbourne Health & Rehabilitation Center,West Melbourne Health & Rehabilitation Center,West Melbourne,Region 7,Brevard,28.0775991,-80.6566777,★★☆☆☆,★★★★☆,★★☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★
+West Orange Center For Nursing And Healing,West Orange Center For Nursing And Healing,Ocoee,Region 7,Orange,28.5491013,-81.5405823,★★☆☆☆,★☆☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westchester Gardens Health & Rehabilitation,Westchester Gardens Health & Rehabilitation,Clearwater,Region 5,Pinellas,28.0415306,-82.7070747,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Baldwin Park,Westminster Baldwin Park,Orlando,Region 7,Orange,28.5783405,-81.3206176,★★★★☆,★★★★☆,★★★★☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Oaks,Westminster Oaks,Tallahassee,Region 2,Leon,30.4782997,-84.2047641,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Palms,Westminster Palms,Saint Petersburg,Region 5,Pinellas,27.7818249,-82.6280906,★★★★☆,★★★★★,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Westminster Point Pleasant,Westminster Point Pleasant,Bradenton,Region 6,Manatee,27.4968462,-82.5772868,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster St. Augustine,Westminster St. Augustine,Saint Augustine,Region 4,St. Johns,29.9866893,-81.4795106,★★★★★,★★★★☆,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Suncoast,Westminster Suncoast,Saint Petersburg,Region 5,Pinellas,27.7069206,-82.6481399,★★★★☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Towers,Westminster Towers,Orlando,Region 7,Orange,28.5333885,-81.3792941,★★★★☆,★★★★☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★☆,★★☆☆☆,★★★★★
+Westminster Winter Park,Westminster Winter Park,Winter Park,Region 7,Orange,28.5832188,-81.3292835,★★★☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westminster Woods On Julington Creek,Westminster Woods On Julington Creek,Jacksonville,Region 4,St. Johns,30.1262612,-81.6238794,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Westwood Nursing And Rehabilitation Center,Westwood Nursing And Rehabilitation Center,Fort Walton Beach,Region 1,Okaloosa,30.4565334,-86.630577,★★★★☆,★★☆☆☆,★★★★★,★★★☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★,★★★★★
+Williston Care Center,Williston Care Center,Williston,Region 3,Levy,29.388338,-82.4512634,★★☆☆☆,★☆☆☆☆,★★★☆☆,★★★★☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Willowbrooke Court At Azalea Trace,Willowbrooke Court At Azalea Trace,Pensacola,Region 1,Escambia,30.5397222,-87.2082228,★☆☆☆☆,★☆☆☆☆,★★★★★,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Willowbrooke Court At St Andrews Estates,Willowbrooke Court At St Andrews Estates,Boca Raton,Region 9,Palm Beach,26.3616651,-80.1407604,★★★★★,★★★★★,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Willowbrooke Court Skilled Care Center- Edgewater At Boca Pointe,Boca Raton,Region 9,Palm Beach,26.329794,-80.1517719,★★★★★,★★★★☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
+Windsor Health And Rehabilitation Center,Windsor Health And Rehabilitation Center,Starke,Region 3,Bradford,29.9393639,-82.107004,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★☆☆☆,★★★★★
+Windsor Woods Rehab And Healthcare Center,Windsor Woods Rehab And Healthcare Center,Hudson,Region 5,Pasco,28.3576011,-82.6918945,★★★☆☆,★★☆☆☆,★★★★☆,★★★★☆,★☆☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★
+Winkler Court,Winkler Court,Fort Myers,Region 8,Lee,26.6039125,-81.8455893,★★☆☆☆,★★☆☆☆,★★☆☆☆,★★★★☆,★★☆☆☆,★★★★★,★★★★★,★★★☆☆,★★★★★
+Winter Park Care And Rehabilitation,Winter Park Care And Rehabilitation,Winter Park,Region 7,Orange,28.5964766,-81.3090224,★☆☆☆☆,★☆☆☆☆,★★☆☆☆,★★☆☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Wood Lake Health And Rehabilitation Center,Wood Lake Health And Rehabilitation Center,Greenacres,Region 9,Palm Beach,26.6570698,-80.1436095,★★★☆☆,★★★☆☆,★★☆☆☆,★★★☆☆,★★★★★,★★★★★,★★★★★,★☆☆☆☆,★★★★★
+Woodland Grove Healthcare & Rehabilitation Center,Woodland Grove Healthcare & Rehabilitation Center,Jacksonville,Region 4,Duval,30.2541063,-81.5872823,★★★★☆,★★★★☆,★★★★★,★★☆☆☆,★★★★★,★★★★★,★★★★★,★★★★★,★★★★★
