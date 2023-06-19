@@ -7,6 +7,33 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
+// Add assisted living facilities layer
+var assistedLivingLayer = L.geoJSON(null, {
+  pointToLayer: function (feature, latlng) {
+    return L.circleMarker(latlng, {
+      radius: 4,
+      fillColor: '#DAAEC4',
+      fillOpacity: 0.25,
+      stroke: true,
+      color: '#DAAEC4',
+      weight: 0.5,
+      opacity: 1
+    });
+  },
+  onEachFeature: function (feature, layer) {
+    var fines = feature.properties.fines ? '$' + feature.properties.fines : 'N/A';
+    var tooltipContent = `
+      <strong>Assisted living facility:</strong> ${feature.properties.assisted_living_facility_label}<br>
+      <strong>Beds:</strong> ${feature.properties.beds}<br>
+      <strong>Substantiated complaints:</strong> ${feature.properties.no_substantiated_complaints}<br>
+      <strong>Fines:</strong> ${fines}<br>
+      <strong>Class 1 violations:</strong> ${feature.properties.class_1}<br>
+      <strong>Class 2 violations:</strong> ${feature.properties.class_2}
+    `;
+    layer.bindTooltip(tooltipContent, { direction: 'top', permanent: false, className: 'tooltip' });
+  }
+}).addTo(map);
+
 // Add nursing homes layer
 var nursingHomesLayer = L.geoJSON(null, {
   pointToLayer: function (feature, latlng) {
@@ -37,33 +64,6 @@ var nursingHomesLayer = L.geoJSON(null, {
   }
 }).addTo(map);
 
-// Add assisted living facilities layer
-var assistedLivingLayer = L.geoJSON(null, {
-  pointToLayer: function (feature, latlng) {
-    return L.circleMarker(latlng, {
-      radius: 4,
-      fillColor: '#DAAEC4',
-      fillOpacity: 0.25,
-      stroke: true,
-      color: '#DAAEC4',
-      weight: 0.5,
-      opacity: 1
-    });
-  },
-  onEachFeature: function (feature, layer) {
-    var fines = feature.properties.fines ? '$' + feature.properties.fines : 'N/A';
-    var tooltipContent = `
-      <strong>Assisted living facility:</strong> ${feature.properties.assisted_living_facility_label}<br>
-      <strong>Beds:</strong> ${feature.properties.beds}<br>
-      <strong>Substantiated complaints:</strong> ${feature.properties.no_substantiated_complaints}<br>
-      <strong>Fines:</strong> ${fines}<br>
-      <strong>Class 1 violations:</strong> ${feature.properties.class_1}<br>
-      <strong>Class 2 violations:</strong> ${feature.properties.class_2}
-    `;
-    layer.bindTooltip(tooltipContent, { direction: 'top', permanent: false, className: 'tooltip' });
-  }
-}).addTo(map);
-
 // Add counties layer
 var regionsLayer = L.geoJSON(null, {
   style: {
@@ -75,20 +75,22 @@ var regionsLayer = L.geoJSON(null, {
 }).addTo(map);
 
 // Load GeoJSON data and add to respective layers
-fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/nursing_homes.geojson')
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (data) {
-    nursingHomesLayer.addData(data);
-  });
-
 fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/assisted_living_facilities.geojson')
   .then(function (response) {
     return response.json();
   })
   .then(function (data) {
     assistedLivingLayer.addData(data);
+    nursingHomesLayer.bringToBack();
+  });
+
+fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/nursing_homes.geojson')
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (data) {
+    nursingHomesLayer.addData(data);
+    nursingHomesLayer.bringToFront();
   });
 
 fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/FL_regions_WGS84.geojson')
@@ -104,6 +106,7 @@ var nursingHomesCheckbox = document.getElementById('nursingHomesCheckbox');
 nursingHomesCheckbox.addEventListener('change', function () {
   if (this.checked) {
     map.addLayer(nursingHomesLayer);
+    nursingHomesLayer.bringToFront();
   } else {
     map.removeLayer(nursingHomesLayer);
   }
@@ -113,6 +116,7 @@ var assistedLivingCheckbox = document.getElementById('assistedLivingCheckbox');
 assistedLivingCheckbox.addEventListener('change', function () {
   if (this.checked) {
     map.addLayer(assistedLivingLayer);
+    nursingHomesLayer.bringToBack();
   } else {
     map.removeLayer(assistedLivingLayer);
   }
