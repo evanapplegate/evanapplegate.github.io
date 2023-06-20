@@ -9,31 +9,59 @@
 </head>
 
 <body>
-  <div id="title_FL_nursing_homes"><h1>Florida Nursing Homes and Assisted Living Facilities</h1></div>
-    <div id="checkboxes">
-    <label><input type="checkbox" id="nursingHomesCheckbox" checked><text style="color:#74A6CF;">● Nursing homes</text></label>
-    <br />
-    <label><input type="checkbox" id="assistedLivingCheckbox" checked><text style="color:#DAAEC4;">● Assisted living facilities</text></label>
-    <br />
-    <label><input type="checkbox" id="regionsCheckbox" checked> FL Agency for Health Care Administration regions</label>
+    <div id="title_FL_nursing_homes">
+    <h1>Florida Nursing Home Quality Ratings</h1>
     </div>
 
-  <div id="map"></div>
-
-  <div id="footer">
-    <p>Nursing home data: <a href="https://quality.healthfinder.fl.gov/CompareCare/FacilitiesSummary.aspx?ft=35"> Florida Agency for Health Care Administration – Nursing Home Guide Summary, October 2020 - May 2023</a> <br />
-      The stars indicate relative performance within that nursing home's region; Florida’s health administration divides the state into 11 regions of 1-10 counties clustered together. <br />
+    <div id="checkboxes1">
+    <p>The Florida Agency for Health Care Administration rates each nursing home from one to five stars, indicating relative performance within the facility's region.<br />
       ★★★★★ = in the top 20% of facilities in its region. <br />
-      ★☆☆☆☆ = in the bottom 20% of facilities in its region. <br />
-      <a href="https://quality.healthfinder.fl.gov/CompareCare/MethodologyNH.aspx">See the inspection criteria here.</a>
-    </p>
+      ★☆☆☆☆ = in the bottom 20% of facilities in its region. <br /></p> 
+    <label><input type="checkbox" id="nursingHomes5StarCheckbox" name="nursingHomesCheckbox" checked><text style="color:#6abfcb;">● 5-star nursing homes </text>
+    <br />
+    <label><input type="checkbox" id="nursingHomes1StarCheckbox" name="nursingHomesCheckbox" checked><text style="color:#e78c88;">● 1-star nursing homes </text></label>
+    <br />
+    <label><input type="checkbox" id="nursingHomesCheckbox" name="nursingHomesCheckbox" checked><text style="color:#DAAEC4;">● 2, 3, 4-star nursing homes</text></label>
+    <br />
+    <label><input type="checkbox" id="regionsCheckbox_nursing_homes" name="regionsCheckbox_nursing_homes" checked> FL Agency for Health Care Administration regions</label>
+    </div>
+
+  <div id="map_nursing_homes"></div>
+  <div id="nursing_homes_notes">
+    <p>Data: <a href="https://quality.healthfinder.fl.gov/CompareCare/FacilitiesSummary.aspx?ft=35"> Florida Agency for Health Care Administration – Nursing Home Guide Summary, October 2020 - May 2023</a> <br />
+      <a href="https://quality.healthfinder.fl.gov/CompareCare/MethodologyNH.aspx">See the inspection criteria here.</a></p>
+
+  </div>
+
+<div id="title_FL_assisted_living"><h1>Florida Assisted Living Facilities</h1></div>
+    <div id="checkboxes2">
+      <p>The Florida Agency for Health Care Administration shares data on violations and fines given to Assisted Living Facilities.<br /></p>
+    <label><text style="color:#e78c88;">● One or more Class 1 violations: imminent danger to clients, must be corrected within 24 hours, mandatory $5-10k fine.</text></label>
+    <br />
+    <label><text style="color:#e8bf90;">● One or more Class 2 violations: directly threaten the health, safety or security of clients, mandatory $1k-$5k fine.</text></label>
+    <br />
+    <label><text style="color:#DAAEC4;">● All other ALFs</text></label>
+    <!-- checkboxes for ALF bed count
+    <br />
+    <label><input type="checkbox" id="beds100PlusCheckbox" name="bedsCheckbox" checked><text>100+ beds</text></label>
+    <br />
+    <label><input type="checkbox" id="beds51to100Checkbox" name="bedsCheckbox" checked><text>51-100 beds</text></label>
+    <br />
+    <label><input type="checkbox" id="beds26to50Checkbox" name="bedsCheckbox" checked><text>26-50 beds</text></label>
+    <br />
+    <label><input type="checkbox" id="beds1to25Checkbox" name="bedsCheckbox" checked><text>4-25 beds</text></label>
+    <br />-->
+    </div>
+
+  <div id="map_assisted_living"></div>
+
+  <div id="assisted_living_notes">
     
     <p> Assisted living data: <a href="https://quality.healthfinder.fl.gov/CompareCare/FacilitiesSummary.aspx?ft=11">Florida Agency for Health Care Administration – Assisted Living Facilities Summary, June 16 2018 – June 15 2023</a> <br />
-    Class 1 violations: imminent danger to clients or a substantial probability that death or serious physical or emotional harm would result. These violations must be corrected within 24 hours. Carries a mandatory $5-10k fine.<br />
-    Class 2 violations: directly threaten the physical or emotional health, safety or security of clients (other than Class I).  Carries a mandatory $1k-$5k fine.
+    
     </p>
     <p>
-    This map is not intended to offer medical or legal advice.
+    These maps are not intended to offer medical or legal advice.
     </p>
   </div> 
 

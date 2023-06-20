@@ -7,8 +7,22 @@ body {
   text-align: center;
 }
 
-#checkboxes {
+#title_FL_assisted_living {
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   text-align: center;
+}
+
+
+#checkboxes1 {
+  text-align: left;
+  left: 10px;
+  padding-bottom: 10px;
+  z-index: 1000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#checkboxes2 {
+  text-align: left;
   top: 10px;
   left: 10px;
   padding: 10px;
@@ -16,13 +30,25 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
-#map {
+#map_nursing_homes {
   height: 500px;
 }
 
-#footer {
+#map_assisted_living {
+  height: 500px;
+}
+
+#nursing_home_notes {
   text-align: left;
   padding: 15px;
   z-index: 1000;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
+
+#assisted_living_note {
+  text-align: left;
+  padding: 15px;
+  z-index: 1000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
