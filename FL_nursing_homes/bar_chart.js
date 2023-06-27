@@ -17,7 +17,14 @@ fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/m
             usCounts.push(parseInt(columns[2]));
         }
 
-        const ctx = document.getElementById('chart').getContext('2d');
+        const barHeight = 15;
+        const barGap = 30;
+        const chartHeight = (barHeight + barGap) * 9;
+
+        const chartCanvas = document.getElementById('chart');
+        chartCanvas.style.height = chartHeight + 'px';
+
+        const ctx = chartCanvas.getContext('2d');
 
         new Chart(ctx, {
             type: 'bar',
@@ -25,20 +32,25 @@ fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/m
                 labels: labels,
                 datasets: [
                     {
-                        label: 'FL Share',
+                        label: 'Florida',
                         backgroundColor: '#a0dbe0', // Update FL Share color
-                        data: flShares
+                        data: flShares,
+                        borderWidth: 0,
+                        barThickness: barHeight
                     },
                     {
-                        label: 'US Share',
+                        label: 'U.S.',
                         backgroundColor: '#f7bdbd', // Update US Share color
-                        data: usShares
+                        data: usShares,
+                        borderWidth: 0,
+                        barThickness: barHeight
                     }
                 ]
             },
             options: {
                 indexAxis: 'y',
                 responsive: true,
+                maintainAspectRatio: false, // Allow chart to resize without growing infinitely
                 plugins: {
                     legend: {
                         position: 'top' // Show legend at the top
@@ -51,11 +63,11 @@ fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/m
                                 const count = datasetIndex === 0 ? flCounts[index] : usCounts[index];
                                 let label = '';
                                 if (datasetIndex === 0) {
-                                    label += 'FL Share: ' + flShares[index].toFixed(1) + '%\n';
+                                    label += 'Florida: ' + flShares[index].toFixed(1) + '%\n' + 'of population';
                                 } else {
-                                    label += 'US Share: ' + usShares[index].toFixed(1) + '%\n';
+                                    label += 'U.S.: ' + usShares[index].toFixed(1) + '%\n' + 'of population' ;
                                 }
-                                label += 'Count: ' + count.toLocaleString();
+                                label += ', ' + count.toLocaleString() + ' people';
                                 return label;
                             }
                         }
@@ -72,7 +84,9 @@ fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/m
                         }
                     },
                     y: {
-                        beginAtZero: true
+                        beginAtZero: true,
+                        minBarLength: barHeight, // Set the minimum bar height to the desired barHeight
+                        barPercentage: 0.8 // Adjust the bar thickness (default is 0.9)
                     }
                 },
                 layout: {

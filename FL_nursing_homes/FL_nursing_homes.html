@@ -60,29 +60,7 @@
   <div id="assisted_living_notes">
   
     <p> Data: <a href="https://quality.healthfinder.fl.gov/CompareCare/FacilitiesSummary.aspx?ft=11">Florida Agency for Health Care Administration – Assisted Living Facilities Summary, June 16 2018 – June 15 2023</a> </p>
-    <p>
-    These maps are not intended to offer medical or legal advice.
-    </p>
   </div> 
-
-<hr style="width:90%;text-align:center;">
-
-  <div id="title_pop_pyramid">
-    <h1>Florida’s demographics</h1>
-  </div>
-  
-<div id="pop_pyramid_text">
-  <p>15% of Florida’s residents are 70 and over, compared to 11% for the U.S. as a whole.</p>
-</div>
-
-  <div id="pyramid">
-      <p>Share of population by age group</p>
-  </div>
-
-  <div id="pop_pyramid_notes">
-  <p> Data: <a href="https://data.census.gov/table?q=s0101&tid=ACSST1Y2021.S0101&moe=false">U.S. Census Bureau 2021 American Community Survey, Table S0101</a> </p>
-    <p>
-</div>
 
 <hr style="width:90%;text-align:center;">
 
@@ -90,10 +68,21 @@
     <h1>Florida’s demographics</h1>
   </div>
 
-    <div id="bar_chart">
+<div id="bar_chart_text">
+  <p>3.25 million Florida residents are over 70, comprising 15% of Florida’s population. In the U.S. as a whole, people over 70 make up 11% of the population.</p>
+</div>
+
+ <div id="bar_chart">
       <p>Share of population by age group</p>
-        <canvas id="chart"></canvas>
-    </div>
+      <canvas id="chart"></canvas>
+</div>
+
+<div id="bar_chart_notes">
+  <p> Data: <a href="https://data.census.gov/table?q=s0101&tid=ACSST1Y2021.S0101&moe=false">U.S. Census Bureau 2021 American Community Survey, Table S0101</a> </p>
+      <p>
+    These maps and data not intended to offer medical or legal advice.
+    </p>
+</div>
 
  <!-- load leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
@@ -110,19 +99,14 @@
   <!--  Load D3 -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
 
-  <!-- Load pop pyramid maker -->
-  <script src="popPyramid.js"></script>
+  <!-- Load pop pyramid maker 
+  <script src="popPyramid.js"></script> -->
 
   <!-- Load my maps -->
   <script src="script.js"></script>
 
-  <!-- Load my pop pyramid  -->
-  <script src="FL_pop_pyramid.js"></script>
- 
-  <!-- Load chartjs, jquery, papaparse   -->
-   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
-  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.js"></script> 
-    -->
+  <!-- Load my pop pyramid  
+  <script src="FL_pop_pyramid.js"></script>  -->
 
 <!-- Load my double bar chart  -->
  <script src="bar_chart.js"></script> 
