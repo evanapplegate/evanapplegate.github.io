@@ -84,16 +84,30 @@
     <p>
 </div>
 
+<hr style="width:90%;text-align:center;">
+
+  <div id="title_bar_chart">
+    <h1>Florida’s demographics</h1>
+  </div>
+
+    <div id="bar_chart">
+      <p>Share of population by age group</p>
+        <canvas id="chart"></canvas>
+    </div>
+
  <!-- load leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
 
   <!-- Load Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
-  <!-- Load jquery  -->
+  <!-- Load jquery -->
  <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 
-  <!-- Load D3  -->
+  <!-- Load chartJS -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!--  Load D3 -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
 
   <!-- Load pop pyramid maker -->
@@ -104,6 +118,15 @@
 
   <!-- Load my pop pyramid  -->
   <script src="FL_pop_pyramid.js"></script>
+ 
+  <!-- Load chartjs, jquery, papaparse   -->
+   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+  <script src="https://unpkg.com/papaparse@5.4.1/papaparse.js"></script> 
+    -->
+
+
+<!-- Load my double bar chart  -->
+ <script src="bar_chart.js"></script> 
     
 </body>
 </html>
