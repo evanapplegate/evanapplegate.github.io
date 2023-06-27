@@ -7,11 +7,15 @@ body {
   text-align: center;
 }
 
+#title_pop_pyramid {
+  font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+  text-align: center;
+}
+
 #title_FL_assisted_living {
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   text-align: center;
 }
-
 
 #checkboxes1 {
   text-align: left;
@@ -23,9 +27,8 @@ body {
 
 #checkboxes2 {
   text-align: left;
-  top: 10px;
   left: 10px;
-  padding: 10px;
+  padding-bottom: 10px;
   z-index: 1000;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
@@ -36,6 +39,12 @@ body {
 
 #map_assisted_living {
   height: 500px;
+}
+
+#pyramid {
+  height: 500px;
+  text-align: center;
+  margin:auto;
 }
 
 #nursing_home_notes {
@@ -52,3 +61,14 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
+#pop_pyramid_text {
+  text-align: left;
+  z-index: 1000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+#pop_pyramid_notes {
+  text-align: left;
+  z-index: 1000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
