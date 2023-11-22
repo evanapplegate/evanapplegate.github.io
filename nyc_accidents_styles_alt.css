@@ -1,0 +1,200 @@
+body {
+}
+
+#map {
+  height: 400px;
+  position: relative;
+}
+
+#choro_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#accident_legend {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#title_accident_cities {
+  text-align: center;
+  position: relative;
+  margin: 20px auto;
+}
+
+#accident_cities {
+  height: 100vh;
+}
+
+#city-size-toggle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#state-map {
+  height: 400px;
+  position: relative;
+  margin: 20px auto;
+}
+
+#title {
+  text-align: center;
+}
+
+#title_choropleth {
+  padding-top: 20px;
+  text-align: center;
+}
+
+#subhed {
+  text-align: center;
+}
+
+#source_nyc {
+  margin: auto;
+  text-align: center;
+}
+
+#source_NHTSA {
+  margin: auto;
+  text-align: center;
+}
+
+#marker-toggle-buttons {
+  text-align: center;
+}
+
+.cluster-nonfatal-zero {
+  background-color: #b8c2e3;
+  color: white;
+  }
+
+  .cluster-nonfatal-medium {
+  background-color: #788098;
+  color: white;
+  }
+
+  .cluster-nonfatal-high {
+  background-color: #353e5c;
+  color: white;
+  }
+
+.cluster-fatal-zero {
+  background-color: #e77a89;
+  color: white;
+  }
+
+  .cluster-fatal-medium {
+  background-color: #e77a89;
+  color: white;
+  }
+
+  .cluster-fatal-high {
+  background-color: #e77a89;
+  color: white;
+  }
+
+.noUi-marker-horizontal.noUi-marker-large {
+  height: 2px !important;
+}
+
+.noUi-horizontal .noUi-connect {
+  background-color: #373d59 !important;
+}
+
+#slider {
+  position: relative;
+  margin: auto;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  height: 20px;
+  background-color: white;
+  color: white;
+  z-index: 1000;
+}
+
+.slider-labels {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
+        font-family: Arial, sans-serif;
+        color: #ffffff;
+      }
+
+.noUi-horizontal .noUi-connect {
+  background-color: #d39a71; /* Change the slider bar color to orange */
+}
+
+.legend-circle {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.blue-icon {
+  background-color: blue;
+  border-radius: 50%;
+  width: 6px;
+  height: 6px;
+}
+
+.red-icon {
+  background-color: #c36;
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+}
+
+.zero-kill-cluster-icon,
+.non-zero-kill-cluster-icon {
+  background-color: orange;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  line-height: 25px;
+  width: 25px;
+  height: 25px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.zero-kill-cluster-icon {
+  background-color: blue;
+}
+
+.zero-kill-icon,
+.non-zero-kill-icon {
+  background-color: orange;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  line-height: 18px;
+  width: 18px;
+  height: 18px;
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.zero-kill-icon {
+  background-color: blue;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  pointer-events: none;
+  font-size: 12px;
+}
