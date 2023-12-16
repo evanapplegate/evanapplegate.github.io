@@ -1,0 +1,35 @@
+name: Scheduled Script Run
+
+on:
+  schedule:
+    # Runs at every 15th minute
+    - cron: '*/15 * * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install selenium pandas requests
+
+    - name: Run the script
+      run: python scraper_2.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --global user.email "evandapplegate@gmail.com"
+        git config --global user.name "evanapplegate"
+        git add incidents.csv
+        git commit -m "Update incidents.csv" || exit 0   # This command will fail if there's nothing to commit, hence the || exit 0
+        git push
