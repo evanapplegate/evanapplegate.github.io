@@ -39,6 +39,9 @@ jobs:
         sudo chown root:root /usr/local/bin/chromedriver
         sudo chmod 0755 /usr/local/bin/chromedriver
 
+        # Add ChromeDriver to PATH
+        echo "/usr/local/bin" >> $GITHUB_PATH
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
