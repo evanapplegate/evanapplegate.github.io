@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Incidents Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        #map { height: 400px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+
+var map = L.map('map').setView([39.3210, -111.0937], 7); // Centered on Utah
+
+L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/ckljyc21f1de617qmasjc1ybf/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+    maxZoom: 19,
+    attribution: '© OpenStreetMap contributors'
+}).addTo(map);
+
+Papa.parse("incidents.csv", {
+    download: true,
+    header: true,
+    dynamicTyping: true,
+    complete: function(results) {
+        results.data.forEach(function(incident) {
+            if (incident.latitude && incident.longitude) {
+                var marker = L.circleMarker([incident.latitude, incident.longitude], {
+                    radius: 7,
+                    fillColor: '#fa7001',
+                    fillOpacity: 0.7,
+                    stroke: false,
+                }).addTo(map);
+
+                marker.bindPopup(
+                    'Route: ' + incident.route + '<br>' +
+                    'County: ' + incident.county + '<br>' +
+                    'Location: ' + incident.location + '<br>' +
+                    'Description: ' + incident.description + '<br>' +
+                    'Start Time: ' + incident.startTime + '<br>' +
+                    'Anticipated End Time: ' + incident.anticipatedEndTime + '<br>' +
+                    'Last Updated: ' + incident.lastUpdated
+                );
+            }
+        });
+    }
+});
+
+
+
+    </script>
+</body>
+</html>
