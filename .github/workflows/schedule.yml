@@ -24,7 +24,7 @@ jobs:
         pip install selenium pandas requests
 
     - name: Run the script
-      run: python scraper_2.py
+      run: python traffic_incidents_map/scraper_2.py
 
     - name: Commit and push if changes
       run: |
