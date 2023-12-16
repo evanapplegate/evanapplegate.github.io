@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --global user.email "evandapplegate@gmail.com"
         git config --global user.name "evanapplegate"
-        git add incidents.csv
+        git add traffic_incidents_map/incidents.csv
         git commit -m "Update incidents.csv" || exit 0   # This command will fail if there's nothing to commit, hence the || exit 0
         git push
