@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import time
@@ -13,7 +12,7 @@ chrome_options.add_argument("--headless")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
-driver = webdriver.Chrome(options=chrome_options)
+driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver', options=chrome_options)
 
 url = "https://udottraffic.utah.gov/list/events/traffic?start=0&length=100&filters%5B0%5D%5Bi%5D=1&filters%5B0%5D%5Bs%5D=Incidents&order%5Bi%5D=2&order%5Bdir%5D=asc"
 driver.get(url)
