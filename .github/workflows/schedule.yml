@@ -2,8 +2,8 @@ name: Scheduled Script Run
 
 on:
   schedule:
-    # Runs at every 15th minute
     - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
