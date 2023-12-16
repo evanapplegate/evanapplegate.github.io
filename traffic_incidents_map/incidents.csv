@@ -1,32 +1,4 @@
 dataId,type,route,county,location,description,startTime,anticipatedEndTime,lastUpdated,extraColumn,latitude,longitude
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172206,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
-NB I-15 at MP 294 (10200 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 7:00 PM","12/13/23, 5:26 PM","12/13/23, 7:00 PM","12/13/23, 6:47 PM",View on map,,
-UT-Incident--172207,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
-NB I-15 at MP 287 (15200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 7:15 PM","12/13/23, 5:29 PM","12/13/23, 7:15 PM","12/13/23, 6:48 PM",View on map,40.467787,-111.911227
-UT-Incident--172210,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
-NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Est. Clearance Time: 7:00 PM","12/13/23, 5:54 PM","12/13/23, 7:00 PM","12/13/23, 5:56 PM",View on map,40.492398,-111.891485
-UT-Incident--172212,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
-NB I-15 at MP 271 On Ramp (800 N / Orem) Utah Co.
-2 Right Lanes Closed
-Est. Clearance Time: 7:10 PM","12/13/23, 6:04 PM","12/13/23, 7:10 PM","12/13/23, 6:07 PM",View on map,,
-UT-Incident--172214,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Stalled Vehicle
-NB I-15 at MP 298 (6600 S) Salt Lake Co.
-Cleared at 6:48 PM
-Est. Clearance Time: 8:00 PM","12/13/23, 6:44 PM","12/13/23, 8:00 PM","12/13/23, 6:48 PM",View on map,40.621691,-111.903876
-UT-Incident--172211,Incidents,US 89,Box Elder County,US 89 at MP 432,"Crash
-NB US 89 at MP 432 (2300 S / Perry) Box Elder Co.
-Est. Clearance Time: 7:00 PM","12/13/23, 5:59 PM","12/13/23, 7:00 PM","12/13/23, 5:59 PM",View on map,,
-UT-Incident--172216,Incidents,US 89,Weber County,US 89 at 5600 S,"Crash
-NB US 89 at 5600 S Weber Co.
-Left Lane Closed
-Est. Clearance Time: 7:30 PM","12/13/23, 6:51 PM","12/13/23, 7:30 PM","12/13/23, 6:51 PM",View on map,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172324,Incidents,HWY 193,Davis County,HWY 193 at MAIN ST,"Crash
 WB Hwy 193 at Center St Davis Co.
 Est. Clearance Time: 12/16/2023 1:00 AM","12/15/23, 11:25 PM","12/16/23, 1:00 AM","12/15/23, 11:29 PM",View on map,41.110082,-112.032678
