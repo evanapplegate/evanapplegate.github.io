@@ -18,18 +18,33 @@ jobs:
       with:
         python-version: '3.8'
 
+    - name: Install Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+
+    - name: Install ChromeDriver
+      run: |
+        CHROME_VERSION=$(google-chrome --version | grep -oE "[0-9]+\\.[0-9]+\\.[0-9]+")
+        CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+        wget -N "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip" -P ~/
+        unzip ~/chromedriver_linux64.zip -d ~/
+        sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
+        sudo chown root:root /usr/local/bin/chromedriver
+        sudo chmod 0755 /usr/local/bin/chromedriver
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install selenium pandas requests
 
     - name: Run the script
-      run: python traffic_incidents_map/scraper_2.py
+      run: python traffic_incidents_map/scraper_3.py
 
     - name: Commit and push if changes
       run: |
         git config --global user.email "evandapplegate@gmail.com"
         git config --global user.name "evanapplegate"
         git add traffic_incidents_map/incidents.csv
-        git commit -m "Update incidents.csv" || exit 0   # This command will fail if there's nothing to commit, hence the || exit 0
+        git commit -m "Update incidents.csv" || exit 0
         git push
