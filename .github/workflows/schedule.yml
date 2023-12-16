@@ -25,6 +25,9 @@ jobs:
 
     - name: Install ChromeDriver
       run: |
+        # Remove existing ChromeDriver from PATH if present
+        sudo rm -f /usr/local/bin/chromedriver
+
         # Install Chrome
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
@@ -39,8 +42,6 @@ jobs:
         sudo chown root:root /usr/local/bin/chromedriver
         sudo chmod 0755 /usr/local/bin/chromedriver
 
-        # Add ChromeDriver to PATH
-        echo "/usr/local/bin" >> $GITHUB_PATH
 
     - name: Install dependencies
       run: |
