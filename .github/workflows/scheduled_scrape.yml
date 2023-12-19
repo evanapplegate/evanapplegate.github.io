@@ -25,11 +25,3 @@ jobs:
     - name: Run scraper_3.py
       run: |
         python traffic_incidents_map/scraper_3.py
-
-    - name: Commit and push if changes
-      run: |
-        git config --global user.email "evandapplegate@gmail.com"
-        git config --global user.name "evanapplegate"
-        git add traffic_incidents_map/incidents.csv
-        git commit -m "Update incidents.csv" || exit 0
-        git push
