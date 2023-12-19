@@ -26,6 +26,9 @@ jobs:
     - name: Install dependencies
       run: |
         pip install selenium pandas requests
+
+    - name: Print Working Directory
+      run: pwd
         
     - name: Run scraper_3.py
       run: |
