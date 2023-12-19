@@ -19,9 +19,11 @@ jobs:
       with:
         python-version: 3.8
 
+    - name: Change directory to traffic_incidents_map
+      run: cd traffic_incidents_map
+
     - name: Print Working Directory
-      run: |
-        pwd
+      run: pwd
 
     - name: Install dependencies
       run: |
