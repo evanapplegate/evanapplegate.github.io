@@ -1,0 +1,36 @@
+name: Scheduled Pull and Update
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  update_incidents:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install selenium pandas requests
+
+    - name: Run scraper_3.py
+      run: |
+        python traffic_incidents_map/scraper_3.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add traffic_incidents_map/incidents.csv
+        git commit -m "Update incidents.csv [skip ci]"
+        git push
+
+  workflow_dispatch:
