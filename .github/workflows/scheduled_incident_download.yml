@@ -38,6 +38,6 @@ jobs:
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add traffic_incidents_map/incidents.csv
+        git add incidents.csv
         git commit -m "Update incidents.csv [skip ci]" || true
         git push
