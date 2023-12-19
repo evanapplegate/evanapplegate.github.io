@@ -1,0 +1,16 @@
+dataId,type,route,county,location,description,startTime,anticipatedEndTime,lastUpdated,extraColumn,latitude,longitude
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172466,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 3052,"Crash
+SB Harrison Blvd at 32nd St Weber Co.
+Right Shoulder
+Est. Clearance Time: 1:30 PM","12/19/23, 12:36 PM","12/19/23, 1:30 PM","12/19/23, 12:38 PM",,41.206499,-111.948523
+UT-Incident--172468,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
+NB I-15 at MP 266 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1:45 PM","12/19/23, 12:54 PM","12/19/23, 1:45 PM","12/19/23, 12:54 PM",,40.238135,-111.689206
+UT-Incident--172469,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
+SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
+Est. Clearance Time: 2:30 PM","12/19/23, 1:19 PM","12/19/23, 2:30 PM","12/19/23, 1:19 PM",,40.928541,-111.891476
+UT-Incident--172467,Incidents,Main St,Tooele County,Main St at 900 S,"Crash
+NB Main St at 900 S Tooele Co.
+Est. Clearance Time: 1:49 PM","12/19/23, 12:50 PM","12/19/23, 1:49 PM","12/19/23, 12:50 PM",,40.513875,-112.309464
