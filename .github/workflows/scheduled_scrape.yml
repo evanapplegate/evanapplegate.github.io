@@ -3,6 +3,7 @@ name: Scheduled Pull and Update
 on:
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 jobs:
   update_incidents:
@@ -32,5 +33,3 @@ jobs:
         git add traffic_incidents_map/incidents.csv
         git commit -m "Update incidents.csv" || exit 0
         git push
-
-  workflow_dispatch:
