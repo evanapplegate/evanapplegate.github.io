@@ -11,7 +11,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: evanapplegate.github.io/traffic_incidents_map
+        working-directory: traffic_incidents_map
         
     steps:
     
