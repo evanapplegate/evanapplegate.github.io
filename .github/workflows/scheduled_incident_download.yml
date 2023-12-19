@@ -1,4 +1,4 @@
-name: Scheduled Pull and Update
+name: Scheduled update of incidents.csv
 
 on:
   schedule:
