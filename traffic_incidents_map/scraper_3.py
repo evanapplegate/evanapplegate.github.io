@@ -44,7 +44,7 @@ locations = {item['itemId']: item['location'] for item in json_data['item2']}
 df['latitude'] = df['dataId'].apply(lambda x: locations.get(x, [None, None])[0])
 df['longitude'] = df['dataId'].apply(lambda x: locations.get(x, [None, None])[1])
 
-csv_file_path = '/home/runner/work/evanapplegate.github.io/evanapplegate.github.io/traffic_incidents_map/incidents.csv'
+csv_file_path = '/evanapplegate.github.io/traffic_incidents_map/incidents.csv'
 
 if not os.path.exists(csv_file_path):
     # Create a new CSV file with headers if it doesn't exist
