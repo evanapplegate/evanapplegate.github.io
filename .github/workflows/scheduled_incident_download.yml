@@ -24,11 +24,11 @@ jobs:
         pip install selenium pandas requests
 
     - name: Change directory to traffic_incidents_map
-      run: cd traffic_incidents_map
+      run: cd /home/runner/work/evanapplegate.github.io/evanapplegate.github.io/traffic_incidents_map
 
     - name: Print Working Directory
       run: pwd
 
     - name: Run scraper_3.py
       run: |
-        python scraper_3.py
+        python /home/runner/work/evanapplegate.github.io/evanapplegate.github.io/traffic_incidents_map/scraper_3.py
