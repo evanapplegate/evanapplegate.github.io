@@ -31,4 +31,4 @@ jobs:
 
     - name: Run scraper_3.py
       run: |
-        python traffic_incidents_map/scraper_3.py
+        python scraper_3.py
