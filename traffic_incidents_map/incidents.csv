@@ -13,9 +13,12 @@ Est. Clearance Time: 2:30 PM","12/19/23, 1:19 PM","12/19/23, 2:30 PM","12/19/23,
 UT-Incident--172467,Incidents,Main St,Tooele County,Main St at 900 S,"Crash
 NB Main St at 900 S Tooele Co.
 Est. Clearance Time: 1:49 PM","12/19/23, 12:50 PM","12/19/23, 1:49 PM","12/19/23, 12:50 PM",,40.513875,-112.309464
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172470,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:15 PM","12/19/23, 2:11 PM","12/19/23, 3:15 PM","12/19/23, 2:57 PM",,40.636258,-111.914012
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172471,Incidents,1900 W,Weber County,1900 W at 5500 S,"Crash
+NB 1900 W Closed at 5500 S Weber Co.
+Est. Clearance Time: 5:00 PM","12/19/23, 3:41 PM","12/19/23, 5:00 PM","12/19/23, 3:41 PM",,0.0,0.0
