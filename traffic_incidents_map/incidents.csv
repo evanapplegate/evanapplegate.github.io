@@ -36,7 +36,6 @@ UT-Incident--172481,Incidents,Washington Blvd,Weber County,Washington Blvd at 47
 NB Washington Blvd at 4700 S Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","12/19/23, 5:48 PM","12/19/23, 6:45 PM","12/19/23, 5:48 PM",,41.177369,-111.971465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172484,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Left Shoulder
@@ -52,9 +51,10 @@ UT-Incident--172479,Incidents,US 6,Carbon County,US 6 at MP 248,"Crash
 US 6 at MP 248 (1150 East, Wellington) Carbon Co.
 Est. Clearance Time: 7:15 PM","12/19/23, 5:33 PM","12/19/23, 7:15 PM","12/19/23, 6:40 PM",,39.542499,-110.71375
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172477,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
-Both Directions I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
-Est. Clearance Time: 7:30 PM","12/19/23, 5:24 PM","12/19/23, 7:30 PM","12/19/23, 6:43 PM",,40.818343,-112.882529
+EB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
+Est. Clearance Time: 8:30 PM","12/19/23, 5:24 PM","12/19/23, 8:30 PM","12/19/23, 7:37 PM",,40.818343,-112.882529
 UT-Incident--172480,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 WB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
