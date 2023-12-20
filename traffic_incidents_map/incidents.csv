@@ -135,8 +135,7 @@ Est. Clearance Time: 12:00 PM","12/20/23, 11:01 AM","12/20/23, 12:00 PM","12/20/
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172507,Incidents,I-15,Utah County,I-15 at MP 253,"Vehicle on fire
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 12:30 PM","12/20/23, 11:25 AM","12/20/23, 12:30 PM","12/20/23, 11:57 AM",,40.079244,-111.709158
+Cleared at 1:19 PM, Expect Residual Delays","12/20/23, 11:25 AM","12/20/23, 12:30 PM","12/20/23, 1:19 PM",,40.079244,-111.709158
 UT-Incident--172508,Incidents,I-15,Juab County,I-15 at MP 226,"Crash
 SB I-15 at MP 226 (SR-132 Jct / Nephi) Juab Co.
 Right Shoulder
@@ -145,3 +144,9 @@ UT-Incident--172509,Incidents,I-80 EB X117 To I-215w NB Ramp,Salt Lake County,I-
 EB I-80 Exit 117 To I-215w NB On Ramp Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:45 PM","12/20/23, 12:38 PM","12/20/23, 1:45 PM","12/20/23, 12:38 PM",,40.763222,-111.950981
+UT-Incident--172510,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Construction
+EB I-80 Ramp to NB I-215 W (SLC) Salt Lake County
+Ramp Closed","12/20/23, 1:08 PM","12/20/23, 4:30 PM","12/20/23, 1:08 PM",,40.762723,-111.953047
+UT-Incident--172511,Incidents,US 89,Davis County,US 89 at CENTER ST,"Crash
+US 89 at Center St (North SL) Davis County
+Est. Clearance Time: 2:15 PM","12/20/23, 1:14 PM","12/20/23, 2:15 PM","12/20/23, 1:14 PM",,40.841915,-111.910247
