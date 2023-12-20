@@ -17,7 +17,6 @@ UT-Incident--172470,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:15 PM","12/19/23, 2:11 PM","12/19/23, 3:15 PM","12/19/23, 2:57 PM",,40.636258,-111.914012
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172472,Incidents,Hwy 36,Tooele County,Hwy 36 at Bates Canyon Rd,"Crash
 NB Hwy 36 at Bates Canyon Rd Tooele Co.
 2 Left Lanes Closed
@@ -31,9 +30,24 @@ UT-Incident--172476,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:25 PM","12/19/23, 5:19 PM","12/19/23, 6:25 PM","12/19/23, 5:19 PM",,40.226604,-111.677837
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172482,Incidents,I-70,Grand County,I-70 at MP 196,"Crash
+EB I-70 at MP 196 (26 mi E of Green River) Grand Co.
+Est. Clearance Time: 7:00 PM","12/19/23, 6:00 PM","12/19/23, 7:00 PM","12/19/23, 6:00 PM",,38.942752,-109.567655
 UT-Incident--172477,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 Both Directions I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 7:00 PM","12/19/23, 5:24 PM","12/19/23, 7:00 PM","12/19/23, 5:24 PM",,40.818343,-112.882529
+UT-Incident--172480,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
+WB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:45 PM","12/19/23, 5:45 PM","12/19/23, 6:45 PM","12/19/23, 5:46 PM",,40.741134,-111.741641
 UT-Incident--172471,Incidents,SR 126,Weber County,SR 126 at MP 9,"Crash
 NB 1900 W at 5500 S Weber Co.
-Est. Clearance Time: 5:00 PM","12/19/23, 3:41 PM","12/19/23, 5:00 PM","12/19/23, 4:09 PM",,41.165417,-112.026027
+Est. Clearance Time: 7:00 PM","12/19/23, 3:41 PM","12/19/23, 7:00 PM","12/19/23, 5:26 PM",,41.165417,-112.026027
+UT-Incident--172479,Incidents,US 6,Carbon County,US 6 at MP 248,"Crash
+US 6 at MP 248 (1150 East, Wellington) Carbon Co.
+Est. Clearance Time: 6:45 PM","12/19/23, 5:33 PM","12/19/23, 6:45 PM","12/19/23, 5:33 PM",,39.542499,-110.71375
+UT-Incident--172481,Incidents,Washington Blvd,Weber County,Washington Blvd at 4700 S,"Crash
+NB Washington Blvd at 4700 S Weber Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","12/19/23, 5:48 PM","12/19/23, 6:45 PM","12/19/23, 5:48 PM",,41.177369,-111.971465
