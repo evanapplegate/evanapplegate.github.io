@@ -131,7 +131,6 @@ UT-Incident--172506,Incidents,I-15 SB X 289 On Bangerter Ramp,Salt Lake County,I
 SB I-15 Bangerter On Ramp (Draper) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:00 PM","12/20/23, 11:01 AM","12/20/23, 12:00 PM","12/20/23, 11:01 AM",,40.503428,-111.891848
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172507,Incidents,I-15,Utah County,I-15 at MP 253,"Vehicle on fire
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Cleared at 1:19 PM, Expect Residual Delays","12/20/23, 11:25 AM","12/20/23, 12:30 PM","12/20/23, 1:19 PM",,40.079244,-111.709158
@@ -143,6 +142,7 @@ UT-Incident--172509,Incidents,I-80 EB X117 To I-215w NB Ramp,Salt Lake County,I-
 EB I-80 Exit 117 To I-215w NB On Ramp Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:45 PM","12/20/23, 12:38 PM","12/20/23, 1:45 PM","12/20/23, 12:38 PM",,40.763222,-111.950981
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172510,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Construction
 EB I-80 Ramp to NB I-215 W (SLC) Salt Lake County
