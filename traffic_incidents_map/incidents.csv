@@ -51,10 +51,6 @@ UT-Incident--172479,Incidents,US 6,Carbon County,US 6 at MP 248,"Crash
 US 6 at MP 248 (1150 East, Wellington) Carbon Co.
 Est. Clearance Time: 7:15 PM","12/19/23, 5:33 PM","12/19/23, 7:15 PM","12/19/23, 6:40 PM",,39.542499,-110.71375
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172477,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
-EB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
-Est. Clearance Time: 8:30 PM","12/19/23, 5:24 PM","12/19/23, 8:30 PM","12/19/23, 7:37 PM",,40.818343,-112.882529
 UT-Incident--172480,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 WB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
@@ -62,3 +58,7 @@ Est. Clearance Time: 7:15 PM","12/19/23, 5:45 PM","12/19/23, 7:15 PM","12/19/23,
 UT-Incident--172485,Incidents,SR 147,Utah County,SR 147 at MP 2,"Crash
 Both Directions SR 147 Closed
  at MP 2 (8800 S) Utah Co.","12/19/23, 6:36 PM","12/19/23, 7:45 PM","12/19/23, 7:21 PM",,40.069909,-111.787655
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172477,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
+EB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
+Est. Clearance Time: 8:30 PM","12/19/23, 5:24 PM","12/19/23, 8:30 PM","12/19/23, 7:37 PM",,40.818343,-112.882529
