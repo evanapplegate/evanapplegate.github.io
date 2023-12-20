@@ -29,7 +29,6 @@ UT-Incident--172476,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:25 PM","12/19/23, 5:19 PM","12/19/23, 6:25 PM","12/19/23, 5:19 PM",,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172471,Incidents,SR 126,Weber County,SR 126 at MP 9,"Crash
 NB 1900 W at 5500 S Weber Co.
 Est. Clearance Time: 7:00 PM","12/19/23, 3:41 PM","12/19/23, 7:00 PM","12/19/23, 5:26 PM",,41.165417,-112.026027
@@ -37,6 +36,7 @@ UT-Incident--172481,Incidents,Washington Blvd,Weber County,Washington Blvd at 47
 NB Washington Blvd at 4700 S Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","12/19/23, 5:48 PM","12/19/23, 6:45 PM","12/19/23, 5:48 PM",,41.177369,-111.971465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172484,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
