@@ -37,7 +37,6 @@ NB Washington Blvd at 4700 S Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","12/19/23, 5:48 PM","12/19/23, 6:45 PM","12/19/23, 5:48 PM",,41.177369,-111.971465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172484,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Left Shoulder
@@ -49,6 +48,10 @@ Est. Clearance Time: 7:25 PM","12/19/23, 6:16 PM","12/19/23, 7:25 PM","12/19/23,
 UT-Incident--172482,Incidents,I-70,Grand County,I-70 at MP 196,"Crash
 EB I-70 at MP 196 (26 mi E of Green River) Grand Co.
 Est. Clearance Time: 7:00 PM","12/19/23, 6:00 PM","12/19/23, 7:00 PM","12/19/23, 6:00 PM",,38.942752,-109.567655
+UT-Incident--172479,Incidents,US 6,Carbon County,US 6 at MP 248,"Crash
+US 6 at MP 248 (1150 East, Wellington) Carbon Co.
+Est. Clearance Time: 7:15 PM","12/19/23, 5:33 PM","12/19/23, 7:15 PM","12/19/23, 6:40 PM",,39.542499,-110.71375
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172477,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 Both Directions I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 7:30 PM","12/19/23, 5:24 PM","12/19/23, 7:30 PM","12/19/23, 6:43 PM",,40.818343,-112.882529
@@ -57,8 +60,5 @@ WB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","12/19/23, 5:45 PM","12/19/23, 7:15 PM","12/19/23, 6:43 PM",,40.741134,-111.741641
 UT-Incident--172485,Incidents,SR 147,Utah County,SR 147 at MP 2,"Crash
-Both Directions SR 147 at MP 2 (8800 S) Utah Co.
-Est. Clearance Time: 7:45 PM","12/19/23, 6:36 PM","12/19/23, 7:45 PM","12/19/23, 6:36 PM",,40.069909,-111.787655
-UT-Incident--172479,Incidents,US 6,Carbon County,US 6 at MP 248,"Crash
-US 6 at MP 248 (1150 East, Wellington) Carbon Co.
-Est. Clearance Time: 7:15 PM","12/19/23, 5:33 PM","12/19/23, 7:15 PM","12/19/23, 6:40 PM",,39.542499,-110.71375
+Both Directions SR 147 Closed
+ at MP 2 (8800 S) Utah Co.","12/19/23, 6:36 PM","12/19/23, 7:45 PM","12/19/23, 7:21 PM",,40.069909,-111.787655
