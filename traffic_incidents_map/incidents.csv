@@ -75,7 +75,6 @@ UT-Incident--172487,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Lane
 NB Legacy Pkwy at MP 2 (900 N) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 9:45 PM","12/19/23, 8:44 PM","12/19/23, 9:45 PM","12/19/23, 8:44 PM",,40.855369,-111.943437
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172492,Incidents,500 W,Davis County,500 W at 1100 N,"Crash
 NB 500 W at 1000 N Davis Co.
 Right Shoulder
@@ -84,6 +83,7 @@ UT-Incident--172493,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
 NB I-15 at MP 262 (Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:25 PM","12/19/23, 10:25 PM","12/19/23, 11:25 PM","12/19/23, 10:25 PM",,40.190632,-111.64694
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172490,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
