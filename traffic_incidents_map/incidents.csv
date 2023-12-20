@@ -146,7 +146,13 @@ UT-Incident--172512,Incidents,600 W,Wasatch County,600 W at HWY 113/MIDWAY LN,"C
 WB 600 W at Midway Ln (Heber) Wasatch Co.
 Est. Clearance Time: 3:30 PM","12/20/23, 2:27 PM","12/20/23, 3:30 PM","12/20/23, 2:30 PM",,40.50668,-111.423141
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172511,Incidents,US 89,Davis County,US 89 at CENTER ST,"Crash
+US 89 at Center St (North SL) Davis County
+Est. Clearance Time: 2:15 PM","12/20/23, 1:14 PM","12/20/23, 2:15 PM","12/20/23, 1:14 PM",,40.841915,-111.910247
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172514,Incidents,ALPINE HWY,Utah County,ALPINE HWY at TIMPANOGOS HWY,"Crash
+EB Timpanogos Hwy at 5300 W Utah Co.
+Est. Clearance Time: 4:45 PM","12/20/23, 3:41 PM","12/20/23, 4:45 PM","12/20/23, 3:42 PM",,40.431902,-111.785149
 UT-Incident--172513,Incidents,Hwy 193,Davis County,Hwy 193 at US 89,"Crash
 EB Hwy 193 at US 89 Davis Co.
 Left Lane Closed
@@ -154,6 +160,3 @@ Est. Clearance Time: 4:00 PM","12/20/23, 2:58 PM","12/20/23, 4:00 PM","12/20/23,
 UT-Incident--172510,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Construction
 EB I-80 Ramp to NB I-215 W (SLC) Salt Lake County
 Ramp Closed","12/20/23, 1:08 PM","12/20/23, 4:30 PM","12/20/23, 1:08 PM",,40.762723,-111.953047
-UT-Incident--172511,Incidents,US 89,Davis County,US 89 at CENTER ST,"Crash
-US 89 at Center St (North SL) Davis County
-Est. Clearance Time: 2:15 PM","12/20/23, 1:14 PM","12/20/23, 2:15 PM","12/20/23, 1:14 PM",,40.841915,-111.910247
