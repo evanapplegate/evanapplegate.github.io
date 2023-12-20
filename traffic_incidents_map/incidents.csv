@@ -101,20 +101,28 @@ SB I-15 at MP 267 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:12 AM","12/20/23, 2:12 AM","12/20/23, 3:12 AM","12/20/23, 2:19 AM",,40.251153,-111.695664
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172499,Incidents,300 W,Salt Lake County,300 W at 300 N,"Crash
 SB 300 W at 300 N Salt Lake Co.
 Est. Clearance Time: 6:56 AM","12/20/23, 5:58 AM","12/20/23, 6:56 AM","12/20/23, 5:58 AM",,40.775862,-111.899678
 UT-Incident--172502,Incidents,HWY 36,Tooele County,HWY 36 at OLD BAUER RD,"Crash
 SR-36 at MP 50 (N of Stockton) Tooele Co.
 Est. Clearance Time: 8:15 AM","12/20/23, 7:17 AM","12/20/23, 8:15 AM","12/20/23, 7:17 AM",,40.487289,-112.337488
-UT-Incident--172501,Incidents,I-15,Iron County,I-15 at MP 87,"Vehicle on fire
-SB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
-Est. Clearance Time: 8:45 AM","12/20/23, 6:43 AM","12/20/23, 8:45 AM","12/20/23, 6:43 AM",,37.972209,-112.742728
 UT-Incident--172497,Incidents,I-84,Morgan County,I-84 at MP 112,"Crash
 WB I-84 at MP 112 (3 mi N of Henefer) Morgan County
 Right Shoulder
 Est. Clearance Time: 6:30 AM","12/20/23, 5:14 AM","12/20/23, 6:30 AM","12/20/23, 5:14 AM",,41.053793,-111.530203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172503,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9800 S/Shields Ln,"Crash
+NB Bangerter Hwy at 9800 S (South Jordan) Salt Lake County
+Right Lane Closed
+Est. Clearance Time: 9:00 AM","12/20/23, 7:50 AM","12/20/23, 9:00 AM","12/20/23, 7:55 AM",,40.572027,-111.977153
+UT-Incident--172501,Incidents,I-15,Iron County,I-15 at MP 87,"Vehicle on fire
+SB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
+Est. Clearance Time: 8:45 AM","12/20/23, 6:43 AM","12/20/23, 8:45 AM","12/20/23, 6:43 AM",,37.972209,-112.742728
+UT-Incident--172504,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","12/20/23, 8:02 AM","12/20/23, 9:15 AM","12/20/23, 8:02 AM",,,
 UT-Incident--172500,Incidents,I-84,Morgan County,I-84 at MP 111,"Crash
 EB I-84 at MP 111 (4 mi N of Henefer) Morgan Co.
 Est. Clearance Time: 8:30 AM","12/20/23, 6:33 AM","12/20/23, 8:30 AM","12/20/23, 6:58 AM",,41.062245,-111.544665
