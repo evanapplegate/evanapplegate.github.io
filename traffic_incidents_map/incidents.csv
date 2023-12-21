@@ -215,7 +215,6 @@ NB Redwood Rd at Porter Rockwell Blvd (Bluffdale) Salt Lake Co.
 Left Turn Lane Closed
 Est. Clearance Time: 9:30 AM","12/21/23, 7:30 AM","12/21/23, 9:30 AM","12/21/23, 7:30 AM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172540,Incidents,900 W NB TO I-15 I-80 RAMP,Salt Lake County,900 W NB TO I-15 I-80 RAMP at I-80,"Crash
 EB 900 W Onramp to I-80/I-15 Salt Lake County
 Right Shoulder
@@ -224,3 +223,4 @@ UT-Incident--172541,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (Parley Summit / Park City) Salt Lake County
 Right Shoulder
 Est. Clearance Time: 11:30 AM","12/21/23, 9:34 AM","12/21/23, 11:30 AM","12/21/23, 10:32 AM",,40.748027,-111.637937
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
