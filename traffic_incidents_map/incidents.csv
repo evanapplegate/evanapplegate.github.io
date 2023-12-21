@@ -233,16 +233,20 @@ UT-Incident--172545,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Debris
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:40 PM","12/21/23, 1:34 PM","12/21/23, 2:40 PM","12/21/23, 1:37 PM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172546,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","12/21/23, 2:58 PM","12/21/23, 4:00 PM","12/21/23, 2:58 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172548,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","12/21/23, 4:17 PM","12/21/23, 5:15 PM","12/21/23, 4:17 PM",,40.63583,-111.905066
+UT-Incident--172549,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:30 PM","12/21/23, 4:27 PM","12/21/23, 5:30 PM","12/21/23, 4:27 PM",,40.442142,-111.903011
 UT-Incident--172547,Incidents,US 163,San Juan County,US 163 1645,"Crash
 SR 163 at MP 17 San Juan County
 Est. Clearance Time: 4:15 PM","12/21/23, 3:12 PM","12/21/23, 4:45 PM","12/21/23, 3:12 PM",,37.12819,-109.917216
