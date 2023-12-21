@@ -155,7 +155,6 @@ Est. Clearance Time: 4:00 PM","12/20/23, 2:58 PM","12/20/23, 4:00 PM","12/20/23,
 UT-Incident--172514,Incidents,ALPINE HWY,Utah County,ALPINE HWY at TIMPANOGOS HWY,"Crash
 EB Timpanogos Hwy at 5300 W Utah Co.
 Est. Clearance Time: 4:45 PM","12/20/23, 3:41 PM","12/20/23, 4:45 PM","12/20/23, 3:42 PM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172515,Incidents,500 W,Davis County,500 W 251,"Crash
 Both Directions 500 W at 300 S Davis Co.
 Left Lane Closed NB, SB 
@@ -172,3 +171,8 @@ UT-Incident--172519,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 6:30 PM","12/20/23, 5:20 PM","12/20/23, 6:30 PM","12/20/23, 5:20 PM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172528,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
+Both Directions US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","12/20/23, 6:10 PM","12/20/23, 7:15 PM","12/20/23, 6:25 PM",,39.430681,-111.554437
