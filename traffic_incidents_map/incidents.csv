@@ -187,7 +187,6 @@ Est. Clearance Time: 9:15 PM","12/20/23, 7:50 PM","12/20/23, 9:15 PM","12/20/23,
 UT-Incident--172533,Incidents,US 89,Davis County,US 89 at 2600 S,"Crash
 Both Directions US 89 at 2600 S Davis Co.
 Est. Clearance Time: 9:45 PM","12/20/23, 8:38 PM","12/20/23, 9:45 PM","12/20/23, 8:38 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172529,Incidents,600 S,Salt Lake County,600 S 301,"Crash
 EB 600 S at 500 W Salt Lake Co.
 2 Left Lanes Closed
@@ -197,3 +196,4 @@ UT-Incident--172534,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Lane Closure
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:30 PM","12/20/23, 8:40 PM","12/20/23, 9:45 PM","12/20/23, 9:31 PM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
