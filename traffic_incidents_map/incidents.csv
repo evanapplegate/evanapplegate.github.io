@@ -152,7 +152,6 @@ UT-Incident--172513,Incidents,Hwy 193,Davis County,Hwy 193 at US 89,"Crash
 EB Hwy 193 at US 89 Davis Co.
 Left Lane Closed
 Est. Clearance Time: 4:00 PM","12/20/23, 2:58 PM","12/20/23, 4:00 PM","12/20/23, 2:58 PM",,41.108049,-111.913688
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172514,Incidents,ALPINE HWY,Utah County,ALPINE HWY at TIMPANOGOS HWY,"Crash
 EB Timpanogos Hwy at 5300 W Utah Co.
 Est. Clearance Time: 4:45 PM","12/20/23, 3:41 PM","12/20/23, 4:45 PM","12/20/23, 3:42 PM",,,
@@ -164,3 +163,12 @@ Est. Clearance Time: 5:15 PM","12/20/23, 4:14 PM","12/20/23, 5:15 PM","12/20/23,
 UT-Incident--172510,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Construction
 EB I-80 Ramp to NB I-215 W (SLC) Salt Lake County
 Ramp Closed","12/20/23, 1:08 PM","12/20/23, 4:30 PM","12/20/23, 1:08 PM",,40.762723,-111.953047
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172518,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","12/20/23, 5:17 PM","12/20/23, 6:30 PM","12/20/23, 5:17 PM",,40.63036,-111.877391
+UT-Incident--172519,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:30 PM","12/20/23, 5:20 PM","12/20/23, 6:30 PM","12/20/23, 5:20 PM",,40.72606,-111.962907
