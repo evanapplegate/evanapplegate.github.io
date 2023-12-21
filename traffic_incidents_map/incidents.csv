@@ -162,7 +162,6 @@ Est. Clearance Time: 5:15 PM","12/20/23, 4:14 PM","12/20/23, 5:15 PM","12/20/23,
 UT-Incident--172510,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Construction
 EB I-80 Ramp to NB I-215 W (SLC) Salt Lake County
 Ramp Closed","12/20/23, 1:08 PM","12/20/23, 4:30 PM","12/20/23, 1:08 PM",,40.762723,-111.953047
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172518,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
@@ -172,6 +171,18 @@ EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 6:30 PM","12/20/23, 5:20 PM","12/20/23, 6:30 PM","12/20/23, 5:20 PM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172529,Incidents,600 S,Salt Lake County,600 S at 500 W,"Crash
+EB 600 S at 500 W Salt Lake Co.
+EB Closed 
+Est. Clearance Time: 8:00 PM","12/20/23, 6:44 PM","12/20/23, 8:00 PM","12/20/23, 6:45 PM",,0.0,0.0
+UT-Incident--172530,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 8:00 PM","12/20/23, 6:48 PM","12/20/23, 8:00 PM","12/20/23, 6:48 PM",,40.328045,-111.73498
+UT-Incident--172531,Incidents,SR 130,Iron County,SR 130 at MP 11,"Crash
+Both Directions SR 130 at MP 11 (5 MI from I-15 N Jct) Iron Co.
+Est. Clearance Time: 8:00 PM","12/20/23, 6:50 PM","12/20/23, 8:00 PM","12/20/23, 6:50 PM",,37.795836,-113.050593
 UT-Incident--172528,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 Both Directions US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Right Shoulder
