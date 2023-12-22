@@ -336,12 +336,15 @@ UT-Incident--172579,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:26 PM","12/22/23, 1:28 PM","12/22/23, 2:26 PM","12/22/23, 1:28 PM",,40.346539,-111.763778
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172582,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 3:44 PM","12/22/23, 2:45 PM","12/22/23, 3:44 PM","12/22/23, 2:45 PM",,40.39191,-111.835579
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172585,Incidents,2000 W,Davis County,2000 W at 1300 N,"Crash
+NB 2000 W at 1300 N Davis Co.
+Est. Clearance Time: 4:30 PM","12/22/23, 3:27 PM","12/22/23, 4:30 PM","12/22/23, 3:27 PM",,41.128998,-112.064461
 UT-Incident--172583,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
