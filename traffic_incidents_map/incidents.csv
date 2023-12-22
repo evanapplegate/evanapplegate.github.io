@@ -305,7 +305,6 @@ Est. Clearance Time: 6:24 AM","12/22/23, 5:25 AM","12/22/23, 6:24 AM","12/22/23,
 UT-Incident--172571,Incidents,SR 123,Carbon County,SR 123 at MP 4,"Crash
 Both Directions SR 123 at MP 4 (4 Mi W of East Carbon) Carbon Co.
 Est. Clearance Time: 7:06 AM","12/22/23, 6:07 AM","12/22/23, 7:06 AM","12/22/23, 6:07 AM",,39.535933,-110.501428
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172573,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Left Shoulder
@@ -315,3 +314,4 @@ UT-Incident--172574,Incidents,State St,Salt Lake County,State St at South Temple
 SB State St at South Temple St Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:12 AM","12/22/23, 8:13 AM","12/22/23, 9:12 AM","12/22/23, 8:13 AM",,40.770267,-111.888227
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
