@@ -324,7 +324,6 @@ UT-Incident--172577,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:33 PM","12/22/23, 12:34 PM","12/22/23, 1:33 PM","12/22/23, 12:34 PM",,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172578,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 2 Right Lanes Closed
@@ -333,6 +332,7 @@ UT-Incident--172580,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 Ramp I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2:43 PM","12/22/23, 1:45 PM","12/22/23, 2:43 PM","12/22/23, 1:45 PM",,40.914229,-111.891449
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172579,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
