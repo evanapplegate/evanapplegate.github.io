@@ -332,7 +332,6 @@ UT-Incident--172580,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 Ramp I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2:43 PM","12/22/23, 1:45 PM","12/22/23, 2:43 PM","12/22/23, 1:45 PM",,40.914229,-111.891449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172579,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 2 Left Lanes Closed
@@ -342,6 +341,15 @@ UT-Incident--172582,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 3:44 PM","12/22/23, 2:45 PM","12/22/23, 3:44 PM","12/22/23, 2:45 PM",,40.39191,-111.835579
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172583,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+SB I-15 at MP 281 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:15 PM","12/22/23, 3:11 PM","12/22/23, 4:15 PM","12/22/23, 3:11 PM",,40.401041,-111.849765
+UT-Incident--172584,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:15 PM","12/22/23, 3:13 PM","12/22/23, 4:15 PM","12/22/23, 3:13 PM",,40.736823,-111.90475
 UT-Incident--172581,Incidents,SR 224,Summit County,SR 224 at MP 9,"Crash
 SB SR 224 at MP 9 (Bobsled Blvd) Summit Co.
 Left Lane Blocked
