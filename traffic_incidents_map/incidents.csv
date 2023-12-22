@@ -244,7 +244,6 @@ Est. Clearance Time: 5:15 PM","12/21/23, 4:17 PM","12/21/23, 5:15 PM","12/21/23,
 UT-Incident--172547,Incidents,US 163,San Juan County,US 163 1645,"Crash
 SR 163 at MP 17 San Juan County
 Est. Clearance Time: 4:15 PM","12/21/23, 3:12 PM","12/21/23, 4:45 PM","12/21/23, 3:12 PM",,37.12819,-109.917216
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172553,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
 All Directions 1900 W at Midland Dr Weber Co.
 Est. Clearance Time: 6:30 PM","12/21/23, 5:27 PM","12/21/23, 6:30 PM","12/21/23, 5:27 PM",,41.205374,-112.025826
@@ -267,3 +266,4 @@ Est. Clearance Time: 7:30 PM","12/21/23, 6:25 PM","12/21/23, 7:30 PM","12/21/23,
 UT-Incident--172558,Incidents,SR 28,Juab County,SR 28 at MP 28,"Crash
 SR 28 at MP 28 (1 Mi S of Levan) Juab Co.
 Est. Clearance Time: 7:00 PM","12/21/23, 5:52 PM","12/21/23, 7:00 PM","12/21/23, 5:52 PM",,39.530316,-111.86442
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
