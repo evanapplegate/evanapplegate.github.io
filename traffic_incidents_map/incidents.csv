@@ -341,14 +341,18 @@ SB I-15 at MP 280 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 3:44 PM","12/22/23, 2:45 PM","12/22/23, 3:44 PM","12/22/23, 2:45 PM",,40.39191,-111.835579
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172585,Incidents,2000 W,Davis County,2000 W at 1300 N,"Crash
-NB 2000 W at 1300 N Davis Co.
-Est. Clearance Time: 4:30 PM","12/22/23, 3:27 PM","12/22/23, 4:30 PM","12/22/23, 3:27 PM",,41.128998,-112.064461
 UT-Incident--172583,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","12/22/23, 3:11 PM","12/22/23, 4:15 PM","12/22/23, 3:11 PM",,40.401041,-111.849765
+UT-Incident--172581,Incidents,SR 224,Summit County,SR 224 at MP 9,"Crash
+SB SR 224 at MP 9 (Bobsled Blvd) Summit Co.
+Left Lane Blocked
+Est. Clearance Time: 3:33 PM","12/22/23, 2:40 PM","12/22/23, 3:33 PM","12/22/23, 2:40 PM",,40.69088,-111.5442
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172585,Incidents,2000 W,Davis County,2000 W at 1300 N,"Crash
+NB 2000 W at 1300 N Davis Co.
+Est. Clearance Time: 4:30 PM","12/22/23, 3:27 PM","12/22/23, 4:30 PM","12/22/23, 3:27 PM",,41.128998,-112.064461
 UT-Incident--172584,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -356,13 +360,8 @@ Est. Clearance Time: 4:15 PM","12/22/23, 3:13 PM","12/22/23, 4:15 PM","12/22/23,
 UT-Incident--172586,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right shoulder
-Cleared at 3:36 PM
-Est. Clearance Time: 4:40 PM","12/22/23, 3:35 PM","12/22/23, 4:40 PM","12/22/23, 3:37 PM",,40.722344,-111.904691
+Est. Clearance Time: 4:40 PM","12/22/23, 3:35 PM","12/22/23, 4:40 PM","12/22/23, 3:52 PM",,40.722344,-111.904691
 UT-Incident--172587,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 NB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:45 PM","12/22/23, 3:40 PM","12/22/23, 4:45 PM","12/22/23, 3:43 PM",,40.731947,-111.949915
-UT-Incident--172581,Incidents,SR 224,Summit County,SR 224 at MP 9,"Crash
-SB SR 224 at MP 9 (Bobsled Blvd) Summit Co.
-Left Lane Blocked
-Est. Clearance Time: 3:33 PM","12/22/23, 2:40 PM","12/22/23, 3:33 PM","12/22/23, 2:40 PM",,40.69088,-111.5442
