@@ -495,11 +495,18 @@ UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:28 AM","12/23/23, 8:29 AM","12/23/23, 11:28 AM",,,40.74966,-111.90976
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172627,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:20 AM","12/23/23, 9:22 AM","12/23/23, 10:20 AM",,,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172633,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
+Ramp SB I-15 at MP 328 (200 N On Ramp) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 11:08 AM","12/23/23, 10:10 AM","12/23/23, 11:08 AM",,,41.028688,-111.946853
+UT-Incident--172630,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
+Both Directions SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
+Est. Clearance Time: 10:39 AM","12/23/23, 9:43 AM","12/23/23, 10:39 AM",,,40.641218,-111.397599
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172635,Incidents,700 W,Salt Lake County,700 W at 5300 S/MURRAY BLVD,"Crash
 SB 700 W Closed
@@ -509,10 +516,10 @@ UT-Incident--172631,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
 NB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
 Right Shoulder
 Est. Clearance Time: 10:45 AM","12/23/23, 9:46 AM","12/23/23, 10:45 AM",,,38.696466,-112.602232
-UT-Incident--172633,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
-Ramp SB I-15 at MP 328 (200 N On Ramp) Davis Co.
+UT-Incident--172637,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+NB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Left Lane Closed
-Est. Clearance Time: 11:08 AM","12/23/23, 10:10 AM","12/23/23, 11:08 AM",,,41.028688,-111.946853
+Est. Clearance Time: 12:20 PM","12/23/23, 11:20 AM","12/23/23, 12:20 PM",,,38.617668,-112.609775
 UT-Incident--172628,Incidents,SR 111,Salt Lake County,SR 111 at MP 5,"Crash
 Both Directions SR 111 at MP 5 (5 MI N of New Bingham Hwy) Salt Lake Co.
 Est. Clearance Time: 10:23 AM","12/23/23, 9:25 AM","12/23/23, 10:23 AM",,,40.644758,-112.065888
@@ -522,10 +529,11 @@ Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
 UT-Incident--172608,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 210 at MP 4 to MP 12 (Mouth of Ltl Cottonwood to Town of Alta)
 Salt Lake Co.","12/23/23, 6:32 AM","12/23/23, 5:30 PM",,,40.572095,-111.773814
-UT-Incident--172630,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
-Both Directions SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
-Est. Clearance Time: 10:39 AM","12/23/23, 9:43 AM","12/23/23, 10:39 AM",,,40.641218,-111.397599
 UT-Incident--172634,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 Both Directions SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:14 AM","12/23/23, 10:15 AM","12/23/23, 11:14 AM",,,40.407126,-111.60589
+UT-Incident--172636,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
+WB US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 12:06 PM","12/23/23, 11:09 AM","12/23/23, 12:06 PM",,,39.975722,-112.072947
