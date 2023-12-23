@@ -526,14 +526,18 @@ NB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Left Lane Closed
 Est. Clearance Time: 12:20 PM","12/23/23, 11:20 AM","12/23/23, 12:20 PM",,,38.617668,-112.609775
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172607,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 190 at MP 2 toMP 19 (Mouth of Big Cottonwood to Town of Brighton)
 Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
 UT-Incident--172608,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 210 at MP 4 to MP 12 (Mouth of Ltl Cottonwood to Town of Alta)
 Salt Lake Co.","12/23/23, 6:32 AM","12/23/23, 5:30 PM",,,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172638,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+SB I-15 at MP 307 (600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 2:03 PM","12/23/23, 1:04 PM","12/23/23, 2:03 PM","12/23/23, 1:04 PM",,40.74966,-111.90976
 UT-Incident--172636,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 EB US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Left Lane Closed
-Est. Clearance Time: 12:06 PM","12/23/23, 11:09 AM","12/23/23, 12:06 PM",,,39.975722,-112.072947
+Est. Clearance Time: 12:06 PM","12/23/23, 11:09 AM","12/23/23, 12:06 PM","12/23/23, 11:22 AM",,39.975722,-112.072947
