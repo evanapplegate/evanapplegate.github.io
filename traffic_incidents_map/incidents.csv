@@ -513,7 +513,6 @@ UT-Incident--172634,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 Both Directions SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:14 AM","12/23/23, 10:15 AM","12/23/23, 11:14 AM",,,40.407126,-111.60589
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172635,Incidents,700 W,Salt Lake County,700 W at 5300 S/MURRAY BLVD,"Crash
 SB 700 W Closed
  at 5400 S Salt Lake Co.
@@ -522,6 +521,7 @@ UT-Incident--172631,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
 NB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
 Right Shoulder
 Est. Clearance Time: 10:45 AM","12/23/23, 9:46 AM","12/23/23, 10:45 AM",,,38.696466,-112.602232
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172637,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 NB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
