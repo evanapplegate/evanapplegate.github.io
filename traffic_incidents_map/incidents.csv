@@ -410,7 +410,6 @@ UT-Incident--172606,Incidents,I-15,Davis County,I-15 at MP 323,"Crash
 NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:01 AM","12/23/23, 4:02 AM","12/23/23, 5:01 AM","12/23/23, 4:02 AM",,40.971566,-111.893495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172603,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 5400 S,"Crash
 NB MOUNTAIN VIEW CORRIDOR HWY at 5400 S Salt Lake Co.
 Cleared at 4:59 AM
@@ -420,3 +419,4 @@ UT-Incident--172604,Incidents,US 191,Grand County,US 191 at MP 140,"Crash
 Both Directions US 191 at MP 140 (11 miles N of Moab) Grand Co.
 Right Shoulder
 Est. Clearance Time: 4:57 AM","12/23/23, 3:57 AM","12/23/23, 4:57 AM","12/23/23, 3:57 AM",,38.716489,-109.706617
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
