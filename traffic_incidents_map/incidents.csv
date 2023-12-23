@@ -461,7 +461,6 @@ UT-Incident--172619,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:05 AM","12/23/23, 8:06 AM","12/23/23, 9:05 AM",,,40.722344,-111.904691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172616,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
@@ -470,21 +469,9 @@ UT-Incident--172626,Incidents,SR 190,Salt Lake County,SR 190 at MP 12,"Crash
 Both Directions SR 190 at MP 12 (2 Mi of W Solitude Resort) Salt Lake Co.
 Est. Clearance Time: 9:51 AM","12/23/23, 8:52 AM","12/23/23, 9:51 AM",,,40.64033,-111.630425
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--172629,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 10,"Crash
-SB Bangerter Hwy at MP 10 (10000 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 10:37 AM","12/23/23, 9:38 AM","12/23/23, 10:37 AM",,,40.56766,-111.977145
 UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
 NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 9:53 AM","12/23/23, 6:54 AM","12/23/23, 9:53 AM",,,41.87109,-112.169859
-UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-SB I-15 at MP 307 (600 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 9:28 AM","12/23/23, 8:29 AM","12/23/23, 9:28 AM",,,40.74966,-111.90976
-UT-Incident--172625,Incidents,I-15,Millard County,I-15 at MP 179,"Crash
-SB I-15 at MP 179 (4 mi N of Holden) Millard Co.
-Right Shoulder
-Est. Clearance Time: 9:49 AM","12/23/23, 8:51 AM","12/23/23, 9:49 AM",,,39.153033,-112.230485
 UT-Incident--172618,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 Ramp WB I-80 at MP 117 (SB I-215 W On-Ramp) Salt Lake Co.
 Left Shoulder
@@ -493,6 +480,23 @@ UT-Incident--172624,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Right Shoulder
 Est. Clearance Time: 9:49 AM","12/23/23, 8:49 AM","12/23/23, 9:49 AM",,,40.723073,-111.529346
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172629,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 10,"Crash
+SB Bangerter Hwy at MP 10 (10000 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:37 AM","12/23/23, 9:38 AM","12/23/23, 10:37 AM",,,40.56766,-111.977145
+UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+SB I-15 at MP 307 (600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:28 AM","12/23/23, 8:29 AM","12/23/23, 10:28 AM",,,40.74966,-111.90976
+UT-Incident--172625,Incidents,I-15,Millard County,I-15 at MP 179,"Crash
+SB I-15 at MP 179 (4 mi N of Holden) Millard Co.
+Right Shoulder
+Est. Clearance Time: 9:49 AM","12/23/23, 8:51 AM","12/23/23, 9:49 AM",,,39.153033,-112.230485
+UT-Incident--172631,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
+NB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
+Right Shoulder
+Est. Clearance Time: 10:45 AM","12/23/23, 9:46 AM","12/23/23, 10:45 AM",,,38.696466,-112.602232
 UT-Incident--172627,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
