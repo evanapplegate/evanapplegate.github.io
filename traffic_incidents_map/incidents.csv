@@ -397,7 +397,6 @@ UT-Incident--172599,Incidents,US 89,Sanpete County,US 89 at MP 235,"Crash
 US 89 at MP 235 (4 miles S of Centerfield) Sanpete Co.
 Est. Clearance Time: 10:45 PM","12/22/23, 9:38 PM","12/22/23, 10:45 PM","12/22/23, 9:38 PM",,39.066393,-111.820775
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172601,Incidents,MAIN ST,Iron County,MAIN ST 535,"Crash
 Both Directions Main St at 600 S (Cedar City) Iron Co.
 Center Lanes Closed
@@ -405,3 +404,4 @@ Est. Clearance Time: 11:00 PM","12/22/23, 10:03 PM","12/22/23, 11:00 PM","12/22/
 UT-Incident--172600,Incidents,US 40,Uintah County,US 40 at MP 123,"Crash
 EB US 40 at MP 123 (9 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 10:45 PM","12/22/23, 9:40 PM","12/22/23, 10:45 PM","12/22/23, 9:40 PM",,40.301953,-109.828934
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
