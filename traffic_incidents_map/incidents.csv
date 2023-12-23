@@ -506,7 +506,6 @@ Est. Clearance Time: 11:08 AM","12/23/23, 10:10 AM","12/23/23, 11:08 AM",,,41.02
 UT-Incident--172630,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
 Both Directions SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
 Est. Clearance Time: 10:39 AM","12/23/23, 9:43 AM","12/23/23, 10:39 AM",,,40.641218,-111.397599
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172628,Incidents,SR 111,Salt Lake County,SR 111 at MP 5,"Crash
 Both Directions SR 111 at MP 5 (5 MI N of New Bingham Hwy) Salt Lake Co.
 Est. Clearance Time: 10:23 AM","12/23/23, 9:25 AM","12/23/23, 10:23 AM",,,40.644758,-112.065888
@@ -514,6 +513,7 @@ UT-Incident--172634,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 Both Directions SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:14 AM","12/23/23, 10:15 AM","12/23/23, 11:14 AM",,,40.407126,-111.60589
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172635,Incidents,700 W,Salt Lake County,700 W at 5300 S/MURRAY BLVD,"Crash
 SB 700 W Closed
