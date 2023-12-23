@@ -424,10 +424,6 @@ Left Shoulder Blocked
 Salt Lake Co.
 Est. Clearance Time: 7:41 AM","12/23/23, 6:42 AM","12/23/23, 7:41 AM",,,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
-NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
-Est. Clearance Time: 7:53 AM","12/23/23, 6:54 AM","12/23/23, 7:53 AM",,,41.87109,-112.169859
 UT-Incident--172612,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Left Lane Closed
@@ -440,6 +436,22 @@ UT-Incident--172611,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 NB I-215 E at MP 5 (5900 S) Salt Lake Co.
 Right Lane Blocked
 Est. Clearance Time: 7:57 AM","12/23/23, 6:58 AM","12/23/23, 7:57 AM",,,40.655726,-111.806969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
+NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 7:53 AM","12/23/23, 6:54 AM","12/23/23, 7:53 AM",,,41.87109,-112.169859
+UT-Incident--172615,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:47 AM","12/23/23, 7:48 AM","12/23/23, 8:47 AM",,,40.52103,-111.891246
+UT-Incident--172616,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
+SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 8:49 AM","12/23/23, 7:52 AM","12/23/23, 8:49 AM",,,40.079244,-111.709158
+UT-Incident--172617,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
+NB I-215 S at MP 6 (6200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:54 AM","12/23/23, 7:56 AM","12/23/23, 8:54 AM",,,40.641354,-111.808234
 UT-Incident--172613,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Est. Clearance Time: 8:13 AM","12/23/23, 7:26 AM","12/23/23, 8:13 AM",,,40.747703,-111.639522
