@@ -457,19 +457,26 @@ UT-Incident--172622,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
 SB I-15 at MP 262 (Provo) Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 9:22 AM","12/23/23, 8:23 AM","12/23/23, 9:22 AM",,,40.190632,-111.64694
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172619,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:05 AM","12/23/23, 8:06 AM","12/23/23, 9:05 AM",,,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
-NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
-Est. Clearance Time: 9:53 AM","12/23/23, 6:54 AM","12/23/23, 9:53 AM",,,41.87109,-112.169859
 UT-Incident--172616,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:49 AM","12/23/23, 7:52 AM","12/23/23, 8:49 AM",,,40.079244,-111.709158
+UT-Incident--172626,Incidents,SR 190,Salt Lake County,SR 190 at MP 12,"Crash
+Both Directions SR 190 at MP 12 (2 Mi of W Solitude Resort) Salt Lake Co.
+Est. Clearance Time: 9:51 AM","12/23/23, 8:52 AM","12/23/23, 9:51 AM",,,40.64033,-111.630425
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172629,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 10,"Crash
+SB Bangerter Hwy at MP 10 (10000 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:37 AM","12/23/23, 9:38 AM","12/23/23, 10:37 AM",,,40.56766,-111.977145
+UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
+NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 9:53 AM","12/23/23, 6:54 AM","12/23/23, 9:53 AM",,,41.87109,-112.169859
 UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Lane Closed
@@ -496,9 +503,9 @@ Est. Clearance Time: 10:23 AM","12/23/23, 9:25 AM","12/23/23, 10:23 AM",,,40.644
 UT-Incident--172607,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 190 at MP 2 toMP 19 (Mouth of Big Cottonwood to Town of Brighton)
 Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
-UT-Incident--172626,Incidents,SR 190,Salt Lake County,SR 190 at MP 12,"Crash
-Both Directions SR 190 at MP 12 (2 Mi of W Solitude Resort) Salt Lake Co.
-Est. Clearance Time: 9:51 AM","12/23/23, 8:52 AM","12/23/23, 9:51 AM",,,40.64033,-111.630425
 UT-Incident--172608,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 210 at MP 4 to MP 12 (Mouth of Ltl Cottonwood to Town of Alta)
 Salt Lake Co.","12/23/23, 6:32 AM","12/23/23, 5:30 PM",,,40.572095,-111.773814
+UT-Incident--172630,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
+Both Directions SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
+Est. Clearance Time: 10:39 AM","12/23/23, 9:43 AM","12/23/23, 10:39 AM",,,40.641218,-111.397599
