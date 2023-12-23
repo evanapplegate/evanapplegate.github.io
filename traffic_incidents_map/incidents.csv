@@ -438,7 +438,6 @@ Est. Clearance Time: 7:57 AM","12/23/23, 6:58 AM","12/23/23, 7:57 AM",,,40.65572
 UT-Incident--172620,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Crash
 Both Directions SR 210 at MP 7 (3 Mi E of the Mouth) Salt Lake Co.
 Est. Clearance Time: 9:09 AM","12/23/23, 8:09 AM","12/23/23, 9:09 AM",,,40.571959,-111.720092
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172615,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
@@ -455,6 +454,11 @@ Ramp US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 9:13 AM","12/23/23, 8:14 AM","12/23/23, 9:13 AM",,,40.68342,-111.462507
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172622,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
+SB I-15 at MP 262 (Provo) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:22 AM","12/23/23, 8:23 AM","12/23/23, 9:22 AM",,,40.190632,-111.64694
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
 NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 9:53 AM","12/23/23, 6:54 AM","12/23/23, 9:53 AM",,,41.87109,-112.169859
@@ -466,10 +470,6 @@ UT-Incident--172619,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:05 AM","12/23/23, 8:06 AM","12/23/23, 9:05 AM",,,40.722344,-111.904691
-UT-Incident--172622,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
-SB I-15 at MP 262 (Provo) Utah Co.
-2 Right Lanes Closed
-Est. Clearance Time: 9:22 AM","12/23/23, 8:23 AM","12/23/23, 9:22 AM",,,40.190632,-111.64694
 UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Lane Closed
@@ -486,6 +486,13 @@ UT-Incident--172624,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Right Shoulder
 Est. Clearance Time: 9:49 AM","12/23/23, 8:49 AM","12/23/23, 9:49 AM",,,40.723073,-111.529346
+UT-Incident--172627,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
+EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:20 AM","12/23/23, 9:22 AM","12/23/23, 10:20 AM",,,40.747703,-111.639522
+UT-Incident--172628,Incidents,SR 111,Salt Lake County,SR 111 at MP 5,"Crash
+Both Directions SR 111 at MP 5 (5 MI N of New Bingham Hwy) Salt Lake Co.
+Est. Clearance Time: 10:23 AM","12/23/23, 9:25 AM","12/23/23, 10:23 AM",,,40.644758,-112.065888
 UT-Incident--172607,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 190 at MP 2 toMP 19 (Mouth of Big Cottonwood to Town of Brighton)
 Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
