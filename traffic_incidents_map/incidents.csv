@@ -435,18 +435,29 @@ UT-Incident--172611,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 NB I-215 E at MP 5 (5900 S) Salt Lake Co.
 Right Lane Blocked
 Est. Clearance Time: 7:57 AM","12/23/23, 6:58 AM","12/23/23, 7:57 AM",,,40.655726,-111.806969
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172620,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Crash
 Both Directions SR 210 at MP 7 (3 Mi E of the Mouth) Salt Lake Co.
 Est. Clearance Time: 9:09 AM","12/23/23, 8:09 AM","12/23/23, 9:09 AM",,,40.571959,-111.720092
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
-NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
-Est. Clearance Time: 7:53 AM","12/23/23, 6:54 AM","12/23/23, 7:53 AM",,,41.87109,-112.169859
 UT-Incident--172615,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:47 AM","12/23/23, 7:48 AM","12/23/23, 8:47 AM",,,40.52103,-111.891246
+UT-Incident--172617,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
+NB I-215 S at MP 6 (6200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:54 AM","12/23/23, 7:56 AM","12/23/23, 8:54 AM",,,40.641354,-111.808234
+UT-Incident--172613,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
+WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
+Est. Clearance Time: 8:13 AM","12/23/23, 7:26 AM","12/23/23, 8:13 AM",,,40.747703,-111.639522
+UT-Incident--172621,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
+Ramp US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 9:13 AM","12/23/23, 8:14 AM","12/23/23, 9:13 AM",,,40.68342,-111.462507
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
+NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 9:53 AM","12/23/23, 6:54 AM","12/23/23, 9:53 AM",,,41.87109,-112.169859
 UT-Incident--172616,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
@@ -463,23 +474,24 @@ UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:28 AM","12/23/23, 8:29 AM","12/23/23, 9:28 AM",,,40.74966,-111.90976
-UT-Incident--172617,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
-NB I-215 S at MP 6 (6200 S) Salt Lake Co.
+UT-Incident--172625,Incidents,I-15,Millard County,I-15 at MP 179,"Crash
+SB I-15 at MP 179 (4 mi N of Holden) Millard Co.
 Right Shoulder
-Est. Clearance Time: 8:54 AM","12/23/23, 7:56 AM","12/23/23, 8:54 AM",,,40.641354,-111.808234
-UT-Incident--172613,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
-WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
-Est. Clearance Time: 8:13 AM","12/23/23, 7:26 AM","12/23/23, 8:13 AM",,,40.747703,-111.639522
+Est. Clearance Time: 9:49 AM","12/23/23, 8:51 AM","12/23/23, 9:49 AM",,,39.153033,-112.230485
 UT-Incident--172618,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-RampWB I-80 at MP 117 (SB I-215 W On-Ramp) Salt Lake Co.
+Ramp WB I-80 at MP 117 (SB I-215 W On-Ramp) Salt Lake Co.
+Left Shoulder
 Est. Clearance Time: 9:01 AM","12/23/23, 8:04 AM","12/23/23, 9:01 AM",,,40.765438,-111.953251
+UT-Incident--172624,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
+EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
+Right Shoulder
+Est. Clearance Time: 9:49 AM","12/23/23, 8:49 AM","12/23/23, 9:49 AM",,,40.723073,-111.529346
 UT-Incident--172607,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 190 at MP 2 toMP 19 (Mouth of Big Cottonwood to Town of Brighton)
 Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
+UT-Incident--172626,Incidents,SR 190,Salt Lake County,SR 190 at MP 12,"Crash
+Both Directions SR 190 at MP 12 (2 Mi of W Solitude Resort) Salt Lake Co.
+Est. Clearance Time: 9:51 AM","12/23/23, 8:52 AM","12/23/23, 9:51 AM",,,40.64033,-111.630425
 UT-Incident--172608,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 210 at MP 4 to MP 12 (Mouth of Ltl Cottonwood to Town of Alta)
 Salt Lake Co.","12/23/23, 6:32 AM","12/23/23, 5:30 PM",,,40.572095,-111.773814
-UT-Incident--172621,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
-Ramp US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
-Right Shoulder
-Est. Clearance Time: 9:13 AM","12/23/23, 8:14 AM","12/23/23, 9:13 AM",,,40.68342,-111.462507
