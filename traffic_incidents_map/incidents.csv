@@ -479,7 +479,6 @@ UT-Incident--172624,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Right Shoulder
 Est. Clearance Time: 9:49 AM","12/23/23, 8:49 AM","12/23/23, 9:49 AM",,,40.723073,-111.529346
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172629,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 10,"Crash
 SB Bangerter Hwy at MP 10 (10000 S) Salt Lake Co.
 Right Lane Closed
@@ -488,6 +487,11 @@ UT-Incident--172625,Incidents,I-15,Millard County,I-15 at MP 179,"Crash
 SB I-15 at MP 179 (4 mi N of Holden) Millard Co.
 Right Shoulder
 Est. Clearance Time: 9:49 AM","12/23/23, 8:51 AM","12/23/23, 9:49 AM",,,39.153033,-112.230485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172632,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
+WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:05 AM","12/23/23, 10:06 AM","12/23/23, 11:05 AM",,,39.932532,-111.161681
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172623,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
@@ -521,7 +525,3 @@ UT-Incident--172634,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 Both Directions SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:14 AM","12/23/23, 10:15 AM","12/23/23, 11:14 AM",,,40.407126,-111.60589
-UT-Incident--172632,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
-WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
-Right Shoulder
-Est. Clearance Time: 11:05 AM","12/23/23, 10:06 AM","12/23/23, 11:05 AM",,,39.932532,-111.161681
