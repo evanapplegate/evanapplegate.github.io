@@ -371,7 +371,6 @@ UT-Incident--172591,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:30 PM","12/22/23, 5:23 PM","12/22/23, 6:30 PM","12/22/23, 5:23 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172589,Incidents,I-15,Beaver County,I-15 at MP 106,"Crash
 NB I-15 at MP 106 (2 mi S of Beaver) Beaver Co.
 Right Shoulder
@@ -384,10 +383,15 @@ UT-Incident--172593,Incidents,US 89,Sanpete County,US 89 at MP 284,"Crash
 NB US 89 at MP 284 (300 N / Fairview) Sanpete Co.
 Est. Clearance Time: 7:00 PM","12/22/23, 5:43 PM","12/22/23, 7:00 PM","12/22/23, 5:43 PM",,39.633033,-111.439287
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172597,Incidents,I-15,Davis County,I-15 at MP 316,"Stalled Vehicle
 SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:00 PM","12/22/23, 6:56 PM","12/22/23, 8:00 PM","12/22/23, 6:56 PM",,40.87142,-111.897275
+UT-Incident--172598,Incidents,I-70,Sevier County,I-70 at MP 37,"Crash
+WB I-70 at MP 37 (Richfield) Sevier Co.
+Left Shoulder
+Est. Clearance Time: 8:15 PM","12/22/23, 7:08 PM","12/22/23, 8:15 PM","12/22/23, 7:08 PM",,38.748141,-112.10686
 UT-Incident--172594,Incidents,US 191,Uintah County,US 191 at MP 358,"Crash
 Both Directions US 191 at MP 358 (Steinaker Reservoir) Uintah Co.
 Est. Clearance Time: 7:30 PM","12/22/23, 5:51 PM","12/22/23, 7:30 PM","12/22/23, 5:51 PM",,40.531234,-109.521973
