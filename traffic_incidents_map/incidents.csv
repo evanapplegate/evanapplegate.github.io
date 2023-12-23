@@ -551,12 +551,16 @@ UT-Incident--172639,Incidents,SR 143,Iron County,SR 143 at MP 13,"Crashes
 Both Directions SR 143 Closed
 From MP 1 (Parowan) to MP 13 Iron Co.
 Use Alt Route","12/23/23, 2:06 PM","12/23/23, 3:03 PM","12/23/23, 2:45 PM",,37.720234,-112.844724
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172642,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 SB I-15 at MP 322 (Glover Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","12/23/23, 3:59 PM","12/23/23, 5:15 PM","12/23/23, 3:59 PM",,40.957495,-111.891392
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172643,Incidents,I-15,Juab County,I-15 at MP 214,"Crash
 SB I-15 at MP 214 (9 mi S of Nephi) Juab Co.
 Est. Clearance Time: 5:30 PM","12/23/23, 4:18 PM","12/23/23, 5:30 PM","12/23/23, 4:18 PM",,39.583145,-111.929748
+UT-Incident--172644,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","12/23/23, 4:44 PM","12/23/23, 5:45 PM","12/23/23, 4:44 PM",,40.578741,-111.900284
