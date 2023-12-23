@@ -418,13 +418,20 @@ UT-Incident--172604,Incidents,US 191,Grand County,US 191 at MP 140,"Crash
 Both Directions US 191 at MP 140 (11 miles N of Moab) Grand Co.
 Right Shoulder
 Est. Clearance Time: 4:57 AM","12/23/23, 3:57 AM","12/23/23, 4:57 AM","12/23/23, 3:57 AM",,38.716489,-109.706617
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--172609,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (Ramp to WB I-80) 
 Left Shoulder Blocked
 Salt Lake Co.
 Est. Clearance Time: 7:41 AM","12/23/23, 6:42 AM","12/23/23, 7:41 AM",,,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--172610,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
+NB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 7:53 AM","12/23/23, 6:54 AM","12/23/23, 7:53 AM",,,41.87109,-112.169859
+UT-Incident--172611,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
+NB I-215 E at MP 5 (5900 S) Salt Lake Co.
+Right Lane Blocked
+Est. Clearance Time: 7:57 AM","12/23/23, 6:58 AM","12/23/23, 7:57 AM",,,40.655726,-111.806969
 UT-Incident--172607,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices/4x4/Chains Required All Vehicles
 Both Directions SR 190 at MP 2 toMP 19 (Mouth of Big Cottonwood to Town of Brighton)
 Salt Lake Co.","12/23/23, 6:30 AM","12/23/23, 5:30 PM",,,40.619107,-111.786281
