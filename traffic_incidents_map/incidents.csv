@@ -628,12 +628,13 @@ UT-Incident--172666,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:46 AM","12/24/23, 4:47 AM","12/24/23, 5:46 AM","12/24/23, 4:47 AM",,40.709288,-111.903742
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172663,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Right Shoulder
 Est. Clearance Time: 6:54 AM","12/24/23, 1:55 AM","12/24/23, 6:54 AM","12/24/23, 2:11 AM",,41.183754,-111.131159
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172667,Incidents,I-80,Tooele County,I-80 at MP 41,"Crash
 EB I-80 at MP 41 (Knolls) Tooele Co.
-Est. Clearance Time: 6:45 AM","12/24/23, 5:45 AM","12/24/23, 6:45 AM","12/24/23, 5:45 AM",,40.726528,-113.265943
+Left Lane Closed
+Est. Clearance Time: 8:00 AM","12/24/23, 5:45 AM","12/24/23, 8:00 AM","12/24/23, 5:54 AM",,40.726528,-113.265943
