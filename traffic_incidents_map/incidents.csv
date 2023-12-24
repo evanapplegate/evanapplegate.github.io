@@ -587,11 +587,11 @@ UT-Incident--172650,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 PM","12/23/23, 6:55 PM","12/23/23, 8:45 PM","12/23/23, 8:20 PM",,40.74385,-111.657734
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172655,Incidents,I-70,Grand County,I-70 at MP 225,"Crash
 WB I-70 at MP 225 (6 mi W of UT/CO border) Grand Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","12/23/23, 7:50 PM","12/23/23, 9:30 PM","12/23/23, 9:11 PM",,39.149218,-109.149803
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172657,Incidents,700 E,Salt Lake County,700 E at 2700 S,"Crash
 Both Directions 700 E at 2700 S Salt Lake Co.
@@ -600,10 +600,14 @@ Est. Clearance Time: 10:16 PM","12/23/23, 9:17 PM","12/23/23, 10:16 PM","12/23/2
 UT-Incident--172658,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Est. Clearance Time: 10:19 PM","12/23/23, 9:20 PM","12/23/23, 10:19 PM","12/23/23, 9:20 PM",,40.655436,-111.952536
+UT-Incident--172660,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
+WB SR 92 at MP 10 (Timpanogos Cave) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:15 PM","12/23/23, 9:56 PM","12/23/23, 11:15 PM","12/23/23, 9:56 PM",,40.443302,-111.708308
 UT-Incident--172659,Incidents,US 191,San Juan County,US 191 at MP 19,"Crash
 Other US 191 at MP 19 (18 miles N of UT Border) San Juan Co.
 Est. Clearance Time: 10:30 PM","12/23/23, 9:25 PM","12/23/23, 10:30 PM","12/23/23, 9:25 PM",,37.238051,-109.609106
 UT-Incident--172647,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
 EB US 6 at MP 210 (Soldier Summit) Utah Co.
 Right Shoulder
-Est. Clearance Time: 9:15 PM","12/23/23, 6:26 PM","12/23/23, 9:15 PM","12/23/23, 9:11 PM",,39.931871,-111.089175
+Est. Clearance Time: 10:30 PM","12/23/23, 6:26 PM","12/23/23, 10:30 PM","12/23/23, 10:01 PM",,39.931871,-111.089175
