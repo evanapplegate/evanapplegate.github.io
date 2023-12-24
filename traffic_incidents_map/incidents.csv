@@ -591,7 +591,6 @@ UT-Incident--172655,Incidents,I-70,Grand County,I-70 at MP 225,"Crash
 WB I-70 at MP 225 (6 mi W of UT/CO border) Grand Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","12/23/23, 7:50 PM","12/23/23, 9:30 PM","12/23/23, 9:11 PM",,39.149218,-109.149803
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172657,Incidents,700 E,Salt Lake County,700 E at 2700 S,"Crash
 Both Directions 700 E at 2700 S Salt Lake Co.
 Center Lanes Closed
@@ -599,6 +598,7 @@ Est. Clearance Time: 10:16 PM","12/23/23, 9:17 PM","12/23/23, 10:16 PM","12/23/2
 UT-Incident--172658,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Est. Clearance Time: 10:19 PM","12/23/23, 9:20 PM","12/23/23, 10:19 PM","12/23/23, 9:20 PM",,40.655436,-111.952536
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172660,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
 WB SR 92 at MP 10 (Timpanogos Cave) Utah Co.
