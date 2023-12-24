@@ -572,7 +572,6 @@ Est. Clearance Time: 8:00 PM","12/23/23, 6:38 PM","12/23/23, 8:00 PM","12/23/23,
 UT-Incident--172652,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 8:30 PM","12/23/23, 7:18 PM","12/23/23, 8:30 PM","12/23/23, 7:18 PM",,39.430681,-111.554437
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172651,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 WB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Right Shoulder
@@ -585,14 +584,15 @@ UT-Incident--172654,Incidents,SR 196,Tooele County,SR 196 at MP 14,"Crash
 SR 196 at MP 14 (14 mi N of Dugway) Tooele Co.
 Est. Clearance Time: 8:30 PM","12/23/23, 7:39 PM","12/23/23, 8:30 PM","12/23/23, 7:39 PM",,40.427914,-112.748748
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172655,Incidents,I-70,Grand County,I-70 at MP 225,"Crash
-WB I-70 at MP 225 (6 mi W of UT/CO border) Grand Co.
-Right Shoulder
-Est. Clearance Time: 9:00 PM","12/23/23, 7:50 PM","12/23/23, 9:00 PM","12/23/23, 7:50 PM",,39.149218,-109.149803
 UT-Incident--172650,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 PM","12/23/23, 6:55 PM","12/23/23, 8:45 PM","12/23/23, 8:20 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172655,Incidents,I-70,Grand County,I-70 at MP 225,"Crash
+WB I-70 at MP 225 (6 mi W of UT/CO border) Grand Co.
+Right Shoulder
+Est. Clearance Time: 9:00 PM","12/23/23, 7:50 PM","12/23/23, 9:00 PM","12/23/23, 7:50 PM",,39.149218,-109.149803
 UT-Incident--172647,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
 EB US 6 at MP 210 (Soldier Summit) Utah Co.
 Right Shoulder
