@@ -646,9 +646,18 @@ UT-Incident--172688,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy at 5400 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:56 PM","12/25/23, 2:56 PM","12/25/23, 3:56 PM","12/25/23, 2:56 PM",,40.653134,-112.045072
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172690,Incidents,I-15,Box Elder County,I-15 at MP 364,"Crash
 SB I-15 at MP 364 (Brigham City) Box Elder Co.
 Left Lane Closed
 Est. Clearance Time: 5:46 PM","12/25/23, 4:47 PM","12/25/23, 5:46 PM","12/25/23, 4:47 PM",,41.513423,-112.061717
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172691,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
+SB Ramp I-15 Closed (Center St Exit Closed)
+SB Closed
+EB/WB Closed
+ at MP 265 (Center St / Provo) Utah Co.","12/25/23, 7:06 PM","12/25/23, 8:05 PM","12/25/23, 7:06 PM",,40.226604,-111.677837
+UT-Incident--172692,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:09 PM","12/25/23, 7:11 PM","12/25/23, 8:09 PM","12/25/23, 7:11 PM",,,
