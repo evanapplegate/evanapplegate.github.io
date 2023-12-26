@@ -716,11 +716,11 @@ UT-Incident--172709,Incidents,12th St,Weber County,12th St at Washington Blvd,"C
 NB 12th St at Washington Blvd Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","12/26/23, 2:57 PM","12/26/23, 4:00 PM","12/26/23, 2:57 PM",,41.244299,-111.971008
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172710,Incidents,500 W,Davis County,500 W at 400 N,"Crash
 SB 500 W at 400 N Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:15 PM","12/26/23, 3:09 PM","12/26/23, 4:15 PM","12/26/23, 3:09 PM",,40.894016,-111.892227
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172713,Incidents,1300 S,Sevier County,1300 S at Main St,"Crash
 SB 1100 S at Main St (Richfield) Sevier Co.
@@ -730,10 +730,23 @@ UT-Incident--172700,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
 NB I-15 at MP 139 (Millard County).
 Right Shoulder
 Est. Clearance Time: 6:30 PM","12/26/23, 7:26 AM","12/26/23, 6:30 PM","12/26/23, 2:49 PM",,38.66422,-112.590118
+UT-Incident--172716,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","12/26/23, 4:20 PM","12/26/23, 5:15 PM","12/26/23, 4:20 PM",,40.492398,-111.891485
+UT-Incident--172714,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
+NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:10 PM","12/26/23, 4:09 PM","12/26/23, 5:10 PM","12/26/23, 4:09 PM",,40.803702,-111.949406
 UT-Incident--172711,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","12/26/23, 3:45 PM","12/26/23, 4:45 PM","12/26/23, 3:45 PM",,40.362967,-111.560551
-UT-Incident--172712,Incidents,Washington Blvd,Weber County,Washington Blvd at 30th St,"SB Washington Blvd Closed
- at 30th St Weber Co.
-Use Alt Route","12/26/23, 3:54 PM","12/26/23, 5:00 PM","12/26/23, 3:59 PM",,41.211217,-111.970687
+UT-Incident--172712,Incidents,Washington Blvd,Weber County,Washington Blvd at 30th St,"Crash
+SB Washington Blvd at 30th St Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:00 PM","12/26/23, 3:54 PM","12/26/23, 5:00 PM","12/26/23, 4:12 PM",,41.211217,-111.970687
+UT-Incident--172715,Incidents,Washington Blvd,Weber County,Washington Blvd at 1100 N,"Crash
+NB Washington Blvd at 1100 N Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:15 PM","12/26/23, 4:14 PM","12/26/23, 5:15 PM","12/26/23, 4:14 PM",,41.276141,-111.969304
