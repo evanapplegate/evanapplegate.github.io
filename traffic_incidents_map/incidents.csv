@@ -654,7 +654,6 @@ UT-Incident--172692,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:09 PM","12/25/23, 7:11 PM","12/25/23, 8:09 PM","12/25/23, 7:11 PM",,40.64406,-111.929407
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172691,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 Ramp I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
@@ -664,7 +663,12 @@ NB Mountain View Corridor Hwy at 13400 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:21 PM","12/25/23, 8:22 PM","12/25/23, 9:21 PM","12/25/23, 8:22 PM",,40.507864,-112.005183
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172693,Incidents,12600 S,Salt Lake County,12600 S at 3600 W,"Crash
-WB 12600 S Closed
- at 3600 W Salt Lake Co.
-Use Alt Route","12/25/23, 7:55 PM","12/25/23, 8:54 PM","12/25/23, 7:55 PM",,40.522252,-111.979551
+WB 12600 S at 3600 W Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:54 PM","12/25/23, 7:55 PM","12/25/23, 8:54 PM","12/25/23, 8:46 PM",,40.522252,-111.979551
+UT-Incident--172695,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+RampWB I-215 S at MP 13 (NB Redwood Rd Exit) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:46 PM","12/25/23, 8:48 PM","12/25/23, 9:46 PM","12/25/23, 8:48 PM",,40.64406,-111.929407
