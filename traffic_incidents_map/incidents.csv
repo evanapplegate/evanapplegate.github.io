@@ -788,7 +788,6 @@ Est. Clearance Time: 6:18 AM","12/27/23, 5:19 AM","12/27/23, 6:18 AM","12/27/23,
 UT-Incident--172729,Incidents,SR 32,Summit County,SR 32 at MP 25,"Debris
 Both Directions SR 32 at MP 25 (4 Mi N of Peoa) Summit Co.
 Est. Clearance Time: 5:45 AM","12/27/23, 4:46 AM","12/27/23, 5:45 AM","12/27/23, 4:46 AM",,40.76272,-111.396529
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172730,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 On-Ramp from US-6 (Spanish Fork) Utah Co.
 Right Shoulder
@@ -796,6 +795,7 @@ Est. Clearance Time: 6:10 AM","12/27/23, 5:12 AM","12/27/23, 6:10 AM","12/27/23,
 UT-Incident--172732,Incidents,SR 56,Iron County,SR 56 at MP 48,"Crash
 Both Directions SR 56 at MP 48 (Iron County)
 Est. Clearance Time: 6:44 AM","12/27/23, 5:45 AM","12/27/23, 6:44 AM","12/27/23, 6:08 AM",,37.634822,-113.289518
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172733,Incidents,SR 56,Iron County,SR 56 at MP 13,"Crash
 SR 56 at MP 13 (4 Mi E of Modena) Iron Co.
