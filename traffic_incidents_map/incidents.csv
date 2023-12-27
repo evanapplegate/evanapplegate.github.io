@@ -728,7 +728,6 @@ UT-Incident--172715,Incidents,Washington Blvd,Weber County,Washington Blvd at 11
 NB Washington Blvd at 1100 N Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","12/26/23, 4:14 PM","12/26/23, 5:15 PM","12/26/23, 4:14 PM",,41.276141,-111.969304
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172712,Incidents,Washington Blvd,Weber County,Washington Blvd at 30th St,"Crash
 SB Washington Blvd at 30th St Weber Co.
 2 Right Lanes Closed
@@ -738,13 +737,6 @@ UT-Incident--172713,Incidents,1300 S,Sevier County,1300 S at Main St,"Crash
 SB 1100 S at Main St (Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","12/26/23, 4:01 PM","12/26/23, 5:00 PM","12/26/23, 4:01 PM",,0.0,0.0
-UT-Incident--172717,Incidents,1900 W,Weber County,1900 W at 1800 S,"Crash
-SB 1900 W Closed at 1800 S Weber Co.
-Est. Clearance Time: 5:45 PM","12/26/23, 4:39 PM","12/26/23, 8:00 PM","12/26/23, 4:41 PM",,0.0,0.0
-UT-Incident--172700,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
-NB I-15 at MP 139 (Millard County).
-Right Shoulder
-Est. Clearance Time: 6:30 PM","12/26/23, 7:26 AM","12/26/23, 6:30 PM","12/26/23, 2:49 PM",,38.66422,-112.590118
 UT-Incident--172714,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Right Shoulder
@@ -753,3 +745,17 @@ UT-Incident--172711,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","12/26/23, 3:45 PM","12/26/23, 4:45 PM","12/26/23, 3:45 PM",,40.362967,-111.560551
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172717,Incidents,1900 W,Weber County,1900 W 1350,"Crash
+SB 1900 W Closed at 1800 S Weber Co.
+Est. Clearance Time: 5:45 PM","12/26/23, 4:39 PM","12/26/23, 8:00 PM","12/26/23, 5:03 PM",,41.233453,-112.025513
+UT-Incident--172700,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
+NB I-15 at MP 139 (Millard County).
+Right Shoulder
+Est. Clearance Time: 6:30 PM","12/26/23, 7:26 AM","12/26/23, 6:30 PM","12/26/23, 2:49 PM",,38.66422,-112.590118
+UT-Incident--172719,Incidents,I-80,Tooele County,I-80 at MP 29,"Crash
+WB I-80 at MP 29 (12 mi W of Knolls) Tooele Co.
+Est. Clearance Time: 6:16 PM","12/26/23, 5:17 PM","12/26/23, 6:16 PM","12/26/23, 5:17 PM",,40.731644,-113.493074
+UT-Incident--172718,Incidents,Main St,Davis County,Main St at 2300 N,"Crash
+SB Main St Closed at 2300 N (Sunset) Davis Co.
+Est. Clearance Time: 6:15 PM","12/26/23, 5:08 PM","12/26/23, 6:15 PM","12/26/23, 5:08 PM",,41.143556,-112.026042
