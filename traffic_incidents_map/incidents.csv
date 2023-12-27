@@ -806,10 +806,13 @@ UT-Incident--172737,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:45 AM","12/27/23, 9:37 AM","12/27/23, 11:45 AM","12/27/23, 9:37 AM",,40.74385,-111.657734
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172739,Incidents,SR 118,Sevier County,SR 118 at MP 10,"Crash
 SR 118 at MP 10 (Sevier County)
 Est. Clearance Time: 11:00 AM","12/27/23, 9:56 AM","12/27/23, 11:00 AM","12/27/23, 9:56 AM",,38.687864,-112.121657
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172738,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
+EB SR 201 at MP 10 (Salt Lake County)
+Est. Clearance Time: 10:50 AM","12/27/23, 9:44 AM","12/27/23, 10:50 AM","12/27/23, 9:44 AM",,40.724933,-112.039659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172735,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
 EB SR 201 at MOUNTAIN VIEW CORR Off Ramp
@@ -821,6 +824,6 @@ Est. Clearance Time: 11:00 AM","12/27/23, 9:58 AM","12/27/23, 11:00 AM","12/27/2
 UT-Incident--172736,Incidents,SR 163,San Juan County,SR 163 at MP 21,"Crash
 SR 163 at MP 21 (20 MI of US-191 Jct) San Juan Co.
 Est. Clearance Time: 12:00 PM","12/27/23, 9:13 AM","12/27/23, 12:00 PM","12/27/23, 10:25 AM",,37.151055,-109.866585
-UT-Incident--172738,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
-EB SR 201 at MP 10 (Salt Lake County)
-Est. Clearance Time: 10:50 AM","12/27/23, 9:44 AM","12/27/23, 10:50 AM","12/27/23, 9:44 AM",,40.724933,-112.039659
+UT-Incident--172741,Incidents,US 6,Utah County,US 6 at EMMA PARK RD,"Crash
+EB US 6 at mp 221  (EMMA PARK RD) Utah co.
+Est. Clearance Time: 11:40 AM","12/27/23, 10:39 AM","12/27/23, 11:40 AM","12/27/23, 10:39 AM",,39.824857,-110.949901
