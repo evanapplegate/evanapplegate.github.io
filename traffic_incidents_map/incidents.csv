@@ -768,8 +768,11 @@ Est. Clearance Time: 10:00 PM","12/26/23, 7:06 PM","12/26/23, 10:00 PM","12/26/2
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172724,Incidents,I-70,Emery County,I-70 at MP 116,"Crash
 EB I-70 at MP 116 (44 mi W of Green River) Emery Co.
-Est. Clearance Time: 10:00 PM","12/26/23, 9:02 PM","12/26/23, 10:00 PM","12/26/23, 9:30 PM",View on map,38.854656,-110.922324
+Est. Clearance Time: 10:00 PM","12/26/23, 9:02 PM","12/26/23, 10:00 PM","12/26/23, 9:30 PM",,38.854656,-110.922324
 UT-Incident--172725,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
 WB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
 Right Shoulder
-Est. Clearance Time: 11:00 PM","12/26/23, 9:59 PM","12/26/23, 11:00 PM","12/26/23, 9:59 PM",View on map,41.137693,-111.909879
+Est. Clearance Time: 11:00 PM","12/26/23, 9:59 PM","12/26/23, 11:00 PM","12/26/23, 9:59 PM",,41.137693,-111.909879
+UT-Incident--172726,Incidents,US 89,Sanpete County,US 89 at MP 279,"Crash
+US 89 at MP 279 (1 mile N of Mt Pleasant) Sanpete Co.
+Est. Clearance Time: 11:30 PM","12/26/23, 10:22 PM","12/26/23, 11:30 PM","12/26/23, 10:22 PM",,39.563228,-111.455448
