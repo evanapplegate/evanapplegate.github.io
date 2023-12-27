@@ -754,7 +754,6 @@ Est. Clearance Time: 7:30 PM","12/26/23, 5:17 PM","12/26/23, 7:30 PM","12/26/23,
 UT-Incident--172720,Incidents,I-80,Tooele County,I-80 at MP 44,"Crash
 EB I-80 at MP 44 (3 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 7:45 PM","12/26/23, 6:32 PM","12/26/23, 7:45 PM","12/26/23, 6:32 PM",,40.726759,-113.207049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172717,Incidents,1900 W,Weber County,1900 W 1350,"Crash
 SB 1900 W Closed at 1800 S Weber Co.
 Est. Clearance Time: 8:00 PM","12/26/23, 4:39 PM","12/26/23, 8:00 PM","12/26/23, 6:19 PM",,41.233453,-112.025513
@@ -762,6 +761,7 @@ UT-Incident--172700,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
 NB I-15 at MP 139 (Millard County).
 Right Shoulder
 Est. Clearance Time: 8:30 PM","12/26/23, 7:26 AM","12/26/23, 8:30 PM","12/26/23, 6:35 PM",,38.66422,-112.590118
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172721,Incidents,SR 491,San Juan County,SR 491 at MP 15,"Crash
 EB SR 491 at MP 15 (2 MI from State Line) San Juan Co.
