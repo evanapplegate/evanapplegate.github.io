@@ -781,7 +781,6 @@ Est. Clearance Time: 11:30 PM","12/26/23, 10:22 PM","12/26/23, 11:30 PM","12/26/
 UT-Incident--172728,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 4:52 AM","12/27/23, 2:08 AM","12/27/23, 4:52 AM","12/27/23, 4:28 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172731,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Stalled Vehicle
 SB I-15 at MP 288 (14300 S) Salt Lake Co.
 Right Lane Closed
@@ -789,6 +788,7 @@ Est. Clearance Time: 6:18 AM","12/27/23, 5:19 AM","12/27/23, 6:18 AM","12/27/23,
 UT-Incident--172729,Incidents,SR 32,Summit County,SR 32 at MP 25,"Debris
 Both Directions SR 32 at MP 25 (4 Mi N of Peoa) Summit Co.
 Est. Clearance Time: 5:45 AM","12/27/23, 4:46 AM","12/27/23, 5:45 AM","12/27/23, 4:46 AM",,40.76272,-111.396529
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172730,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 On-Ramp from US-6 (Spanish Fork) Utah Co.
