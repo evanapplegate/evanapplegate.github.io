@@ -826,7 +826,6 @@ UT-Incident--172736,Incidents,SR 163,San Juan County,SR 163 at MP 21,"Crash
 SR 163 at MP 21 (20 MI of US-191 Jct) San Juan Co.
 Est. Clearance Time: 12:00 PM","12/27/23, 9:13 AM","12/27/23, 12:00 PM","12/27/23, 10:25 AM",,37.151055,-109.866585
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172742,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 WB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
 Left Lane Closed
@@ -835,3 +834,7 @@ UT-Incident--172743,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 SB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 3:43 PM","12/27/23, 2:45 PM","12/27/23, 3:43 PM","12/27/23, 2:58 PM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172744,Incidents,1000 E,Davis County,1000 E at 2200 W/Antelope Dr,"Crash
+All Directions 1000 E at 2200 W/Antelope Dr Davis Co.
+Est. Clearance Time: 4:27 PM","12/27/23, 3:28 PM","12/27/23, 4:27 PM","12/27/23, 3:28 PM",,41.091294,-112.006909
