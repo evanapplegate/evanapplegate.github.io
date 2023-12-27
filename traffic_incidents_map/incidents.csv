@@ -764,7 +764,6 @@ Est. Clearance Time: 8:30 PM","12/26/23, 7:26 AM","12/26/23, 8:30 PM","12/26/23,
 UT-Incident--172721,Incidents,SR 491,San Juan County,SR 491 at MP 15,"Crash
 EB SR 491 at MP 15 (2 MI from State Line) San Juan Co.
 Est. Clearance Time: 10:00 PM","12/26/23, 7:06 PM","12/26/23, 10:00 PM","12/26/23, 7:53 PM",,37.826513,-109.076783
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172724,Incidents,I-70,Emery County,I-70 at MP 116,"Crash
 EB I-70 at MP 116 (44 mi W of Green River) Emery Co.
 Est. Clearance Time: 10:00 PM","12/26/23, 9:02 PM","12/26/23, 10:00 PM","12/26/23, 9:30 PM",,38.854656,-110.922324
@@ -772,6 +771,7 @@ UT-Incident--172725,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
 WB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","12/26/23, 9:59 PM","12/26/23, 11:00 PM","12/26/23, 9:59 PM",,41.137693,-111.909879
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172727,Incidents,SR 248,Summit County,SR 248 at MP 12,"Crash
 EB SR 248 at MP 12 (2.5 MI from Main St) Summit Co.
