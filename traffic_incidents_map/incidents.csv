@@ -889,9 +889,12 @@ Est. Clearance Time: 2:35 AM","12/28/23, 1:37 AM","12/28/23, 2:35 AM","12/28/23,
 UT-Incident--172764,Incidents,US 6,Carbon County,US 6 at MP 226,"Crash
 WB US 6 at MP 226 (4 MI W of Indian Cyn) Carbon Co.
 Est. Clearance Time: 2:51 AM","12/28/23, 1:52 AM","12/28/23, 2:51 AM","12/28/23, 1:53 AM",,39.768674,-110.907264
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172765,Incidents,I-70,Sevier County,I-70 at MP 49,"Crash
 EB I-70 at MP 49 (9 mi E of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 6:00 AM","12/28/23, 4:03 AM","12/28/23, 6:00 AM","12/28/23, 4:44 AM",,38.87438,-111.9644
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172766,Incidents,1900 W,Weber County,1900 W at 12th St,"Crash
+SB 1900 W at 12th St Weber Co.
+Est. Clearance Time: 7:19 AM","12/28/23, 6:20 AM","12/28/23, 7:19 AM","12/28/23, 6:23 AM",,41.24546,-112.025234
