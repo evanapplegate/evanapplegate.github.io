@@ -863,7 +863,6 @@ UT-Incident--172755,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 31
 SB Bangerter Hwy at 3100 S Salt Lake Co.
 Left Turn Lane Closed
 Est. Clearance Time: 7:30 PM","12/27/23, 6:18 PM","12/27/23, 7:30 PM","12/27/23, 6:19 PM",,40.703886,-111.980001
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172757,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
@@ -873,9 +872,10 @@ NB Main St at Bates Canyon Rd Tooele Co.
 RightShoulder
 Est. Clearance Time: 8:15 PM","12/27/23, 7:10 PM","12/27/23, 8:15 PM","12/27/23, 7:10 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172760,Incidents,36th St,Weber County,36th St at Washington Blvd,"Crash
 36th St at Washington Blvd Weber Co.
 Est. Clearance Time: 9:00 PM","12/27/23, 7:55 PM","12/27/23, 9:00 PM","12/27/23, 7:55 PM",,41.197792,-111.971001
 UT-Incident--172759,Incidents,SR 95,San Juan County,SR 95 at MP 64,"Crash
 SR 95 at MP 64 (57 MI from Blanding) San Juan Co.
-Est. Clearance Time: 8:15 PM","12/27/23, 7:12 PM","12/27/23, 8:15 PM","12/27/23, 7:13 PM",,37.713509,-110.244277
+Est. Clearance Time: 8:30 PM","12/27/23, 7:12 PM","12/27/23, 8:30 PM","12/27/23, 8:15 PM",,37.713509,-110.244277
