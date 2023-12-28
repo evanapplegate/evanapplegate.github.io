@@ -925,11 +925,15 @@ UT-Incident--172772,Incidents,SR 167,Weber County,SR 167 at MP 8,"Crash
 SR 167 at MP 8 (3 miles S of Old Hwy Rd) Weber County
 Est. Clearance Time: 10:45 AM","12/28/23, 9:32 AM","12/28/23, 10:45 AM","12/28/23, 9:32 AM",,41.216493,-111.80138
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--172777,Incidents,CALIFORNIA AVE,Salt Lake County,CALIFORNIA AVE at BANGERTER NB HWY,"Crash
-EB California Ave at Bangerter Hwy Salt Lake Co.
-Left Turn Lane Closed
-Est. Clearance Time: 2:45 PM","12/28/23, 12:43 PM","12/28/23, 2:45 PM",,,40.743248,-111.989536
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172777,Incidents,California Ave,Salt Lake County,California Ave at Bangerter NB Hwy,"Crash
+SB California Ave at Bangerter Hwy Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","12/28/23, 12:43 PM","12/28/23, 2:45 PM","12/28/23, 1:14 PM",,40.743248,-111.989536
 UT-Incident--172775,Incidents,I-15,Millard County,I-15 at MP 146,"Vehicle on fire
 SB I-15 at MP 146 (6 mi road / Kanosh) Millard Co.
-Est. Clearance Time: 1:00 PM","12/28/23, 11:57 AM","12/28/23, 1:00 PM",,,38.75936,-112.561477
+Est. Clearance Time: 1:00 PM","12/28/23, 11:57 AM","12/28/23, 1:00 PM","12/28/23, 11:57 AM",,38.75936,-112.561477
+UT-Incident--172778,Incidents,Washington Blvd,Weber County,Washington Blvd at 3300 S,"Crash
+NB Washington Blvd at 33rd St (Ogden) Weber County
+Right Lane Closed
+Est. Clearance Time: 2:15 PM","12/28/23, 1:10 PM","12/28/23, 2:15 PM","12/28/23, 1:10 PM",,41.20329,-111.970874
