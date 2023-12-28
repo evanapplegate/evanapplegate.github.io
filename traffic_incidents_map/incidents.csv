@@ -911,7 +911,6 @@ Est. Clearance Time: 9:30 AM","12/28/23, 6:43 AM","12/28/23, 9:30 AM","12/28/23,
 UT-Incident--172771,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
 SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
 Est. Clearance Time: 10:30 AM","12/28/23, 9:23 AM","12/28/23, 10:30 AM","12/28/23, 9:23 AM",,40.641218,-111.397599
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172773,Incidents,I-15 NB X301 On 4500 S Ramp,Salt Lake County,I-15 NB X301 On 4500 S Ramp at 4500 S,"Crash
 NB I-15 4500 S  On Ramp (Murray) Salt Lake Co.
 Left Lanes Closed
@@ -919,6 +918,7 @@ Est. Clearance Time: 10:45 AM","12/28/23, 9:40 AM","12/28/23, 10:45 AM","12/28/2
 UT-Incident--172770,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 2300 N,"Crash
 Redwood Rd at 2300 N (SLC) Salt Lake County
 Est. Clearance Time: 10:00 AM","12/28/23, 8:55 AM","12/28/23, 10:00 AM","12/28/23, 8:55 AM",,40.812626,-111.938598
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172772,Incidents,SR 167,Weber County,SR 167 at MP 8,"Crash
 SR 167 at MP 8 (3 miles S of Old Hwy Rd) Weber County
