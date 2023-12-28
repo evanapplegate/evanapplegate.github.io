@@ -908,7 +908,6 @@ UT-Incident--172767,Incidents,I-84,Box Elder County,I-84 at MP 21,"Crash
 WB I-84 at MP 21 (12 mi east of Snowville) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","12/28/23, 6:43 AM","12/28/23, 9:30 AM","12/28/23, 8:56 AM",,41.880758,-112.478311
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172771,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
 SR 248 at MP 8 (Jordanelle Overlook) Wasatch Co.
 Est. Clearance Time: 10:30 AM","12/28/23, 9:23 AM","12/28/23, 10:30 AM","12/28/23, 9:23 AM",,40.641218,-111.397599
@@ -920,6 +919,7 @@ Est. Clearance Time: 10:45 AM","12/28/23, 9:40 AM","12/28/23, 10:45 AM","12/28/2
 UT-Incident--172770,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 2300 N,"Crash
 Redwood Rd at 2300 N (SLC) Salt Lake County
 Est. Clearance Time: 10:00 AM","12/28/23, 8:55 AM","12/28/23, 10:00 AM","12/28/23, 8:55 AM",,40.812626,-111.938598
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172772,Incidents,SR 167,Weber County,SR 167 at MP 8,"Crash
 SR 167 at MP 8 (3 miles S of Old Hwy Rd) Weber County
 Est. Clearance Time: 10:45 AM","12/28/23, 9:32 AM","12/28/23, 10:45 AM","12/28/23, 9:32 AM",,41.216493,-111.80138
