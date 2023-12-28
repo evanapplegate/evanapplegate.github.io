@@ -833,7 +833,6 @@ UT-Incident--172743,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 SB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 3:43 PM","12/27/23, 2:45 PM","12/27/23, 3:43 PM","12/27/23, 2:58 PM",,40.560962,-111.427534
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172744,Incidents,1000 E,Davis County,1000 E at 2200 W/Antelope Dr,"Crash
 WB 1000 E at 2200 W/Antelope Dr Davis Co.
 Right Lane Closed
@@ -854,3 +853,15 @@ UT-Incident--172747,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:25 PM","12/27/23, 5:26 PM","12/27/23, 6:25 PM","12/27/23, 5:28 PM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172756,Incidents,5400 S,Salt Lake County,5400 S at 2200 W,"Crash
+Both Directions 5400 S at 2200 W Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 7:30 PM","12/27/23, 6:27 PM","12/27/23, 7:30 PM","12/27/23, 6:27 PM",,40.653066,-111.949893
+UT-Incident--172755,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
+SB Bangerter Hwy at 3100 S Salt Lake Co.
+Left Turn Lane Closed
+Est. Clearance Time: 7:30 PM","12/27/23, 6:18 PM","12/27/23, 7:30 PM","12/27/23, 6:19 PM",,40.703886,-111.980001
+UT-Incident--172753,Incidents,SR 10,Emery County,SR 10 at MP 35,"Crash
+SR 10 at MP 35 (3 MI S of Castle Dale) Emery Co.
+Est. Clearance Time: 7:30 PM","12/27/23, 6:06 PM","12/27/23, 7:30 PM","12/27/23, 6:06 PM",,39.178968,-111.04266
