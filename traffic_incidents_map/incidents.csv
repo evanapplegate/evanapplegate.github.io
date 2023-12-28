@@ -852,7 +852,6 @@ UT-Incident--172747,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:25 PM","12/27/23, 5:26 PM","12/27/23, 6:25 PM","12/27/23, 5:28 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172756,Incidents,5400 S,Salt Lake County,5400 S at 2200 W,"Crash
 Both Directions 5400 S at 2200 W Salt Lake Co.
 Center Lane Closed
@@ -865,6 +864,7 @@ UT-Incident--172755,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 31
 SB Bangerter Hwy at 3100 S Salt Lake Co.
 Left Turn Lane Closed
 Est. Clearance Time: 7:30 PM","12/27/23, 6:18 PM","12/27/23, 7:30 PM","12/27/23, 6:19 PM",,40.703886,-111.980001
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172757,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
@@ -873,3 +873,6 @@ UT-Incident--172758,Incidents,Main St,Tooele County,Main St at Bates Canyon Rd,"
 NB Main St at Bates Canyon Rd Tooele Co.
 RightShoulder
 Est. Clearance Time: 8:15 PM","12/27/23, 7:10 PM","12/27/23, 8:15 PM","12/27/23, 7:10 PM",,0.0,0.0
+UT-Incident--172759,Incidents,SR 95,San Juan County,SR 95 at MP 64,"Crash
+SR 95 at MP 64 (57 MI from Blanding) San Juan Co.
+Est. Clearance Time: 8:15 PM","12/27/23, 7:12 PM","12/27/23, 8:15 PM","12/27/23, 7:13 PM",,37.713509,-110.244277
