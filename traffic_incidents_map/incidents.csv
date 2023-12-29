@@ -992,11 +992,17 @@ UT-Incident--172800,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 EB US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 10:30 PM","12/28/23, 9:33 PM","12/28/23, 10:30 PM","12/28/23, 9:33 PM",,40.388104,-111.54897
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172804,Incidents,SR 193,Davis County,SR 193 at MP 3,"Crash
 WB SR 193 at MP 3 (800 E Clearfield) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:30 PM","12/28/23, 10:24 PM","12/28/23, 11:30 PM","12/28/23, 10:26 PM",,41.103376,-111.957791
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172802,Incidents,SR 38,Box Elder County,SR 38 at MP 5,"Crash
+SR 38 at MP 5 (3 mi S of Honeyville) Box Elder Co.
+Est. Clearance Time: 11:30 PM","12/28/23, 10:13 PM","12/28/23, 11:30 PM","12/28/23, 10:13 PM",,41.595169,-112.045521
+UT-Incident--172801,Incidents,US 6,Carbon County,US 6 at MP 235,"Crash
+WB US 6 at MP 235 (4000 N, Spring Glen) Carbon Co.
+Est. Clearance Time: 11:15 PM","12/28/23, 9:59 PM","12/28/23, 11:15 PM","12/28/23, 9:59 PM",,39.658837,-110.860727
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172803,Incidents,I-84,Box Elder County,I-84 at MP 26,"Crash
 EB I-84 at MP 26 (15 mi N of Tremonton) Box Elder Co.
@@ -1006,9 +1012,6 @@ UT-Incident--172798,Incidents,Main St,Iron County,Main St at Coal Creek Rd,"Cras
 SB Main St at Coal Creek Rd Iron Co.
 Right Lane Closed
 Est. Clearance Time: 10:00 PM","12/28/23, 8:22 PM","12/28/23, 10:00 PM","12/28/23, 8:22 PM",,37.687897,-113.061934
-UT-Incident--172802,Incidents,SR 38,Box Elder County,SR 38 at MP 5,"Crash
-SR 38 at MP 5 (3 mi S of Honeyville) Box Elder Co.
-Est. Clearance Time: 11:30 PM","12/28/23, 10:13 PM","12/28/23, 11:30 PM","12/28/23, 10:13 PM",,41.595169,-112.045521
-UT-Incident--172801,Incidents,US 6,Carbon County,US 6 at MP 235,"Crash
-WB US 6 at MP 235 (4000 N, Spring Glen) Carbon Co.
-Est. Clearance Time: 11:15 PM","12/28/23, 9:59 PM","12/28/23, 11:15 PM","12/28/23, 9:59 PM",,39.658837,-110.860727
+UT-Incident--172805,Incidents,US 191,Duchesne County,US 191 at MP 265,"Crash
+US 191 at MP 265 (15 miles N of Helper) Duchesne Co.
+Est. Clearance Time: 12/29/2023 12:30 AM","12/28/23, 11:06 PM","12/29/23, 12:30 AM","12/28/23, 11:06 PM",,39.868778,-110.762554
