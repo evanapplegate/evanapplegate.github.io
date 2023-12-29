@@ -1055,7 +1055,6 @@ UT-Incident--172821,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 WB I-80 at MP 132 Off Ramp (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:45 PM","12/29/23, 2:32 PM","12/29/23, 3:45 PM","12/29/23, 2:32 PM",,40.741134,-111.741641
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172822,Incidents,Cross Hollow Rd,Iron County,Cross Hollow Rd at I-15 NB Fwy,"Crash
 EB Cross Hollow Rd at I-15 NB Fwy Iron Co.
 Left Lane Blocked
@@ -1064,6 +1063,7 @@ UT-Incident--172823,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:07 PM","12/29/23, 3:08 PM","12/29/23, 4:07 PM","12/29/23, 3:08 PM",,40.900348,-111.893142
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172825,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
 EB 1800 N at 2000 W Davis Co.
