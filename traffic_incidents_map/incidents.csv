@@ -1025,12 +1025,12 @@ EB I-215 S at MP 12 (700 W/I-15 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:17 AM","12/29/23, 6:18 AM","12/29/23, 7:17 AM","12/29/23, 6:19 AM",,40.636258,-111.914012
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172809,Incidents,700 E,Salt Lake County,700 E at 3900 S,"Crash
-SB 700 E at 3900 S Salt Lake Co.
-EB 3900 Closed
-Est. Clearance Time: 8:17 AM","12/29/23, 7:20 AM","12/29/23, 8:17 AM","12/29/23, 8:16 AM",,40.687072,-111.871369
 UT-Incident--172810,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 5,"Vehicle on fire
 NB Legacy Pkwy at MP 5 ((400 N in West Bountiful) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","12/29/23, 7:47 AM","12/29/23, 8:45 AM","12/29/23, 7:54 AM",,40.896517,-111.930505
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172809,Incidents,700 E,Salt Lake County,700 E at 3900 S,"Crash
+SB 700 E at 3900 S Salt Lake Co.
+EB 3900 Closed
+Est. Clearance Time: 8:45 AM","12/29/23, 7:20 AM","12/29/23, 8:45 AM","12/29/23, 8:20 AM",,40.687072,-111.871369
