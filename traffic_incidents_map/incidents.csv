@@ -1037,7 +1037,6 @@ NB 1300 E at Vanwinkle Expy Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:01 AM","12/29/23, 9:03 AM","12/29/23, 10:01 AM","12/29/23, 9:03 AM",,40.659224,-111.854426
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172814,Incidents,I-15 SB X51 OFF OLD US 91 RAMP,Iron County,I-15 SB X51 OFF OLD US 91 RAMP at OLD US 91,"Crash
 SB I-15 Exit 51 OFF OLD US 91 RAMP at OLD US 91 Iron Co.
 Exit 51 Closed
@@ -1046,3 +1045,4 @@ UT-Incident--172815,Incidents,Vanwinkle Expy,Salt Lake County,Vanwinkle Expy at 
 SB Vanwinkle Expy at 4800 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:35 AM","12/29/23, 9:37 AM","12/29/23, 10:35 AM","12/29/23, 9:37 AM",,40.666001,-111.866466
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
