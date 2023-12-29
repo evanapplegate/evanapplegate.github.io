@@ -1067,16 +1067,16 @@ UT-Incident--172825,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
 EB 1800 N at 2000 W Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 4:45 PM","12/29/23, 3:38 PM","12/29/23, 4:45 PM","12/29/23, 3:38 PM",,41.139868,-112.064454
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172824,Incidents,3500 W,Weber County,3500 W at 5600 S,"Crash
 NB 3500 W at 5600 S Weber Co.
 Est. Clearance Time: 4:45 PM","12/29/23, 3:31 PM","12/29/23, 4:45 PM","12/29/23, 3:31 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172819,Incidents,I-84,Weber County,I-84 at MP 90,"Crash
+WB I-84 at MP 90 (2 mi W of Mountain Green) Weber Co.
+Right Shoulder
+Est. Clearance Time: 3:45 PM","12/29/23, 12:29 PM","12/29/23, 3:45 PM","12/29/23, 3:30 PM",,41.138009,-111.872556
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172817,Incidents,I-15,Juab County,I-15 at MP 220,"Lane Closure
 SB I-15 at MP 227 to MP 220 (Nephi) Juab Co.
 Right Lane Closed
 Expect delays through the area","12/29/23, 12:01 PM","12/31/23, 11:59 PM","12/29/23, 1:34 PM",,39.659286,-111.8838
-UT-Incident--172819,Incidents,I-84,Weber County,I-84 at MP 90,"Crash
-WB I-84 at MP 90 (2 mi W of Mountain Green) Weber Co.
-Right Shoulder
-Est. Clearance Time: 3:45 PM","12/29/23, 12:29 PM","12/29/23, 3:45 PM","12/29/23, 3:30 PM",,41.138009,-111.872556
