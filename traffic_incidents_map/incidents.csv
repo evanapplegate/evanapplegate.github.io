@@ -1063,7 +1063,6 @@ UT-Incident--172823,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:07 PM","12/29/23, 3:08 PM","12/29/23, 4:07 PM","12/29/23, 3:08 PM",,40.900348,-111.893142
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172825,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
 EB 1800 N at 2000 W Davis Co.
 2 Left Lanes Closed
@@ -1072,6 +1071,7 @@ Est. Clearance Time: 4:45 PM","12/29/23, 3:38 PM","12/29/23, 4:45 PM","12/29/23,
 UT-Incident--172824,Incidents,3500 W,Weber County,3500 W at 5600 S,"Crash
 NB 3500 W at 5600 S Weber Co.
 Est. Clearance Time: 4:45 PM","12/29/23, 3:31 PM","12/29/23, 4:45 PM","12/29/23, 3:31 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172817,Incidents,I-15,Juab County,I-15 at MP 220,"Lane Closure
 SB I-15 at MP 227 to MP 220 (Nephi) Juab Co.
 Right Lane Closed
