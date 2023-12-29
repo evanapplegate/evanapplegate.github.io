@@ -963,18 +963,21 @@ UT-Incident--172788,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 40th St,
 WB Riverdale Rd at 40th St Weber Co.
 Est. Clearance Time: 7:00 PM","12/28/23, 5:54 PM","12/28/23, 7:00 PM","12/28/23, 5:54 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172787,Incidents,I-80,Salt Lake County,I-80 at MP 109,"Medical
+WB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:50 PM","12/28/23, 5:49 PM","12/28/23, 6:50 PM","12/28/23, 5:49 PM",,40.77111,-112.105407
+UT-Incident--172790,Incidents,SR 32,Summit County,SR 32 at MP 28,"Crash
+Other SR 32 at MP 28 (7 Mi N of Peoa) Summit Co.
+Est. Clearance Time: 7:30 PM","12/28/23, 6:22 PM","12/28/23, 7:30 PM","12/28/23, 6:22 PM",,40.80244,-111.408778
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172792,Incidents,I-15,Iron County,I-15 at MP 57,"Crash
 SB I-15 at MP 57 (Main St / Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:30 PM","12/28/23, 6:26 PM","12/28/23, 7:30 PM","12/28/23, 6:26 PM",,37.654314,-113.082592
-UT-Incident--172787,Incidents,I-80,Salt Lake County,I-80 at MP 109,"Medical
-WB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 6:50 PM","12/28/23, 5:49 PM","12/28/23, 6:50 PM","12/28/23, 5:49 PM",,40.77111,-112.105407
 UT-Incident--172791,Incidents,Kearns Blvd,Summit County,Kearns Blvd at Wyatt Earp Way,"Crash
 EB Kearns Blvd at Wyatt Earp Way Summit Co.
 Est. Clearance Time: 7:30 PM","12/28/23, 6:23 PM","12/28/23, 7:30 PM","12/28/23, 6:23 PM",,40.668365,-111.485859
-UT-Incident--172790,Incidents,SR 32,Summit County,SR 32 at MP 28,"Crash
-Other SR 32 at MP 28 (7 Mi N of Peoa) Summit Co.
-Est. Clearance Time: 7:30 PM","12/28/23, 6:22 PM","12/28/23, 7:30 PM","12/28/23, 6:22 PM",,40.80244,-111.408778
+UT-Incident--172794,Incidents,SR 248,Summit County,SR 248 at MP 12,"Crash
+Other SR 248 at MP 12 (2.5 MI from Main St) Summit Co.
+Est. Clearance Time: 8:30 PM","12/28/23, 7:16 PM","12/28/23, 8:30 PM","12/28/23, 7:16 PM",,40.638861,-111.327841
