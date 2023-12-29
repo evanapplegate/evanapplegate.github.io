@@ -949,7 +949,6 @@ NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:10 PM","12/28/23, 3:07 PM","12/28/23, 4:10 PM","12/28/23, 3:07 PM",,40.550055,-111.896336
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172785,Incidents,SR 18,Washington County,SR 18 at MP 15,"Crash
 Both Directions SR 18 at MP 15 (Dammeron Valley) Washington Co.
 Both Directions Closed
@@ -961,3 +960,17 @@ Est. Clearance Time: 6:00 PM","12/28/23, 4:51 PM","12/28/23, 6:00 PM","12/28/23,
 UT-Incident--172784,Incidents,US 89,Kane County,US 89 at MP 94,"Crash
 Both Directions US 89 at MP 94 (4 mi N of Glendale) Kane Co.
 Est. Clearance Time: 6:30 PM","12/28/23, 3:46 PM","12/28/23, 6:30 PM","12/28/23, 3:46 PM",,37.374207,-112.594084
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172787,Incidents,I-80,Salt Lake County,I-80 at MP 109,"Medical
+WB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:50 PM","12/28/23, 5:49 PM","12/28/23, 6:50 PM","12/28/23, 5:49 PM",,40.77111,-112.105407
+UT-Incident--172791,Incidents,Kearns Blvd,Summit County,Kearns Blvd at Wyatt Earp Way,"Crash
+EB Kearns Blvd at Wyatt Earp Way Summit Co.
+Est. Clearance Time: 7:30 PM","12/28/23, 6:23 PM","12/28/23, 7:30 PM","12/28/23, 6:23 PM",,,
+UT-Incident--172788,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 40th St,"Crash
+WB Riverdale Rd at 40th St Weber Co.
+Est. Clearance Time: 7:00 PM","12/28/23, 5:54 PM","12/28/23, 7:00 PM","12/28/23, 5:54 PM",,0.0,0.0
+UT-Incident--172790,Incidents,SR 32,Summit County,SR 32 at MP 28,"Crash
+Other SR 32 at MP 28 (7 Mi N of Peoa) Summit Co.
+Est. Clearance Time: 7:30 PM","12/28/23, 6:22 PM","12/28/23, 7:30 PM","12/28/23, 6:22 PM",,,
