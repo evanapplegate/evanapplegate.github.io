@@ -1078,7 +1078,6 @@ UT-Incident--172817,Incidents,I-15,Juab County,I-15 at MP 220,"Lane Closure
 SB I-15 at MP 227 to MP 220 (Nephi) Juab Co.
 Right Lane Closed
 Expect delays through the area","12/29/23, 12:01 PM","12/31/23, 11:59 PM","12/29/23, 1:34 PM",,39.659286,-111.8838
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172826,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 7,"Crash
 NB Legacy Pkwy at MP 7 (900 W, Centerville) Davis Co.
 Right Shoulder
@@ -1108,11 +1107,24 @@ UT-Incident--172831,Incidents,US 89,Davis County,US 89 at MP 397,"Crash
 SB US 89 at MP 397 (1400 N / Farmington) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","12/29/23, 5:59 PM","12/29/23, 7:00 PM","12/29/23, 5:59 PM",,41.002967,-111.908705
-UT-Incident--172833,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
- US 89 at MP 267 (SR-132 Jct) Sanpete Co.
-Right Shoulder
-Est. Clearance Time: 7:15 PM","12/29/23, 6:04 PM","12/29/23, 7:15 PM","12/29/23, 6:04 PM",,39.416924,-111.560119
 UT-Incident--172835,Incidents,Wall Ave,Weber County,Wall Ave at 22nd St,"Crash
 NB Wall Ave at 22nd St Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 7:15 PM","12/29/23, 6:12 PM","12/29/23, 7:15 PM","12/29/23, 6:12 PM",,41.227045,-111.978726
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172840,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:25 PM","12/29/23, 7:12 PM","12/29/23, 8:25 PM","12/29/23, 7:12 PM",,40.736823,-111.90475
+UT-Incident--172839,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Stalled Vehicle
+EB I-80 at MP 123 Off Ramp (I-15 Jct) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 8:15 PM","12/29/23, 7:06 PM","12/29/23, 8:15 PM","12/29/23, 7:06 PM",,40.718332,-111.893095
+UT-Incident--172833,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
+ US 89 at MP 267 (SR-132 Jct) Sanpete Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","12/29/23, 6:04 PM","12/29/23, 7:15 PM","12/29/23, 6:04 PM",,39.416924,-111.560119
+UT-Incident--172838,Incidents,Wall Ave,Weber County,Wall Ave at 30th St,"Crash
+SB Wall Ave at 30th St Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 8:15 PM","12/29/23, 6:58 PM","12/29/23, 8:15 PM","12/29/23, 7:09 PM",,0.0,0.0
