@@ -1126,9 +1126,13 @@ UT-Incident--172833,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
  US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","12/29/23, 6:04 PM","12/29/23, 7:45 PM","12/29/23, 7:34 PM",,39.416924,-111.560119
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172841,Incidents,SR 224,Summit County,SR 224 at MP 10,"Crash
 SB SR 224 at MP 10 (Silver Springs Rd) Summit Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","12/29/23, 9:02 PM","12/29/23, 10:00 PM","12/29/23, 9:02 PM",,40.705184,-111.546679
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172842,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Stalled Vehicle
+SB I-15 at MP 288 Off Ramp (14600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:35 PM","12/29/23, 9:35 PM","12/29/23, 10:35 PM","12/29/23, 9:35 PM",,40.480607,-111.902252
