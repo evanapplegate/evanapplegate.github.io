@@ -1135,12 +1135,15 @@ SB I-15 at MP 288 Off Ramp (14600 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:35 PM","12/29/23, 9:35 PM","12/29/23, 10:35 PM","12/29/23, 9:35 PM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172843,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
-NB I-15 at MP 303 (3300 S) Salt Lake Co.
-3 Right Lanes Closed
-Est. Clearance Time: 11:35 PM","12/29/23, 10:22 PM","12/29/23, 11:35 PM","12/29/23, 10:22 PM",,40.693589,-111.902881
 UT-Incident--172844,Incidents,State St,Utah County,State St at 400 N,"Crash
 SB State St at 400 N Utah Co.
 Right Shoulder
 Est. Clearance Time: 12/30/2023 12:15 AM","12/29/23, 11:06 PM","12/30/23, 12:15 AM","12/29/23, 11:06 PM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172843,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
+NB I-15 CLOSED 
+at MP 303 (3300 S) Salt Lake Co.","12/29/23, 10:22 PM","12/29/23, 11:35 PM","12/29/23, 11:09 PM",,40.693589,-111.902881
+UT-Incident--172845,Incidents,I-15,Beaver County,I-15 at MP 117,"Vehicle on fire
+NB I-15 at MP 117 (6 mi N of Beaver) Beaver Co.
+Right Lane Closed
+Est. Clearance Time: 12/30/2023 12:30 AM","12/29/23, 11:24 PM","12/30/23, 12:30 AM","12/29/23, 11:24 PM",,38.368449,-112.66265
