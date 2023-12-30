@@ -1118,7 +1118,6 @@ UT-Incident--172838,Incidents,Wall Ave,Weber County,Wall Ave at 30th St,"Crash
 SB Wall Ave at 30th St Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 8:15 PM","12/29/23, 6:58 PM","12/29/23, 8:15 PM","12/29/23, 7:09 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172840,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
 Right Shoulder
@@ -1128,3 +1127,4 @@ UT-Incident--172833,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
  US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","12/29/23, 6:04 PM","12/29/23, 7:45 PM","12/29/23, 7:34 PM",,39.416924,-111.560119
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
