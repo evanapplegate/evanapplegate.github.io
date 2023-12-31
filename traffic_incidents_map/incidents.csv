@@ -1252,7 +1252,6 @@ UT-Incident--172876,Incidents,SR 121,Uintah County,SR 121 at MP 39,"Crash
 Other SR 121 at MP 39 (1 Mi W of Vernal) Uintah Co.
 Est. Clearance Time: 7:20 AM","12/31/23, 6:21 AM","12/31/23, 7:20 AM","12/31/23, 6:21 AM",,40.462737,-109.553707
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172877,Incidents,3100 S,Salt Lake County,3100 S at Bangerter Hwy,"Crash
 WB 3100 S at Bangerter Hwy (Salt Lake County)
 Left Lane Closed
@@ -1260,6 +1259,7 @@ Est. Clearance Time: 8:40 AM","12/31/23, 7:06 AM","12/31/23, 8:40 AM","12/31/23,
 UT-Incident--172879,Incidents,US 191,Carbon County,US 191 at MP 252,"Vehicle on fire
 SB US 191 at MP 252 (Carbon County)
 Est. Clearance Time: 9:00 AM","12/31/23, 7:57 AM","12/31/23, 9:00 AM","12/31/23, 7:59 AM",,39.72584,-110.861789
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172878,Incidents,US 40,Wasatch County,US 40 at MP 43,"Crash
 Other US 40 at MP 43 (Wasatch County)
 Est. Clearance Time: 9:08 AM","12/31/23, 7:09 AM","12/31/23, 9:08 AM","12/31/23, 8:22 AM",,40.235504,-111.134089
