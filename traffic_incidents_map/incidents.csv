@@ -1272,7 +1272,6 @@ UT-Incident--172883,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 On ramp I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder Closed
 Est. Clearance Time: 2:00 PM","12/31/23, 12:29 PM","12/31/23, 2:00 PM","12/31/23, 12:46 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172884,Incidents,Wall Ave,Weber County,Wall Ave at 30th St,"Crash
 SB Wall Ave at 30th St (Weber County)
 Left Lane Closed
@@ -1282,3 +1281,4 @@ UT-Incident--172885,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Stalled Vehi
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:07 PM","12/31/23, 2:08 PM","12/31/23, 3:07 PM","12/31/23, 2:08 PM",,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
