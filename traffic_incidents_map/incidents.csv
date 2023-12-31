@@ -1223,7 +1223,6 @@ UT-Incident--172869,Incidents,Main St,Tooele County,Main St at Utah Ave,"Crash
 NB Main St at Utah Ave Tooele Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:15 PM","12/30/23, 8:57 PM","12/30/23, 10:15 PM","12/30/23, 8:57 PM",,40.535397,-112.298456
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172870,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
 US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Est. Clearance Time: 10:30 PM","12/30/23, 9:31 PM","12/30/23, 10:30 PM","12/30/23, 9:31 PM",,39.416924,-111.560119
@@ -1231,6 +1230,7 @@ Est. Clearance Time: 10:30 PM","12/30/23, 9:31 PM","12/30/23, 10:30 PM","12/30/2
 UT-Incident--172864,Incidents,5600 W,Salt Lake County,5600 W at 700 S,"Signal problems
 All Directions 5600 W at 700 S Salt Lake Co.
 Treat as 4-Way Stop","12/30/23, 6:12 PM","12/30/23, 9:15 PM","12/30/23, 8:41 PM",,40.754794,-112.024932
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172871,Incidents,US 191,Uintah County,US 191 at MP 370,"Crash
 US 191 at MP 370 (14 miles N of Vernal) Uintah Co.
-Est. Clearance Time: 11:00 PM","12/30/23, 9:50 PM","12/30/23, 11:00 PM","12/30/23, 9:50 PM",,40.650848,-109.489313
+Est. Clearance Time: 11:30 PM","12/30/23, 9:50 PM","12/30/23, 11:30 PM","12/30/23, 11:00 PM",,40.650848,-109.489313
