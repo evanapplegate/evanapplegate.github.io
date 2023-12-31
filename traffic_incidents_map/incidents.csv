@@ -1281,11 +1281,16 @@ SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:07 PM","12/31/23, 2:08 PM","12/31/23, 3:07 PM","12/31/23, 2:08 PM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172886,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
-SB I-15 at MP 318 (Davis County)
-Right Shoulder
-Est. Clearance Time: 3:40 PM","12/31/23, 2:40 PM","12/31/23, 3:40 PM","12/31/23, 2:40 PM",,40.900348,-111.893142
 UT-Incident--172887,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Police incident
 NB I-15 is closed at MP 301 (4500 S) Salt Lake Co.
 Use Alt Route","12/31/23, 2:44 PM","12/31/23, 3:40 PM","12/31/23, 2:44 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172886,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
+SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
+HOV Lane Closed
+500 W Exit Closed
+Est. Clearance Time: 3:40 PM","12/31/23, 2:40 PM","12/31/23, 3:40 PM","12/31/23, 2:53 PM",,40.900348,-111.893142
+UT-Incident--172888,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Left Lane closed
+Est. Clearance Time: 3:45 PM","12/31/23, 2:45 PM","12/31/23, 3:45 PM","12/31/23, 2:46 PM",,40.87142,-111.897275
