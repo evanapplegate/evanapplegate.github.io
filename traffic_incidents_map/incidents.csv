@@ -1268,9 +1268,13 @@ Est. Clearance Time: 10:45 AM","12/31/23, 9:18 AM","12/31/23, 10:45 AM","12/31/2
 UT-Incident--172882,Incidents,Weber Canyon Rd,Summit County,Weber Canyon Rd at Hwy 32,"Crash
 Weber Canyon Rd at Hwy 32 (Summit County)
 Est. Clearance Time: 12:30 PM","12/31/23, 11:31 AM","12/31/23, 12:30 PM","12/31/23, 11:31 AM",,40.716477,-111.300296
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172883,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 On ramp I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder Closed
 Est. Clearance Time: 2:00 PM","12/31/23, 12:29 PM","12/31/23, 2:00 PM","12/31/23, 12:46 PM",,40.649847,-111.90236
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172884,Incidents,Wall Ave,Weber County,Wall Ave at 30th St,"Crash
+SB Wall Ave at 30th St (Weber County)
+Left Lane Closed
+Est. Clearance Time: 3:00 PM","12/31/23, 2:02 PM","12/31/23, 3:00 PM","12/31/23, 2:02 PM",,0.0,0.0
