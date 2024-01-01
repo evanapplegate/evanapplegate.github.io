@@ -1328,7 +1328,6 @@ UT-Incident--172900,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 SB I-15 at MP 285 (Lehi) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 1:19 PM","1/1/24, 12:20 PM","1/1/24, 1:19 PM","1/1/24, 12:59 PM",View on map,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172902,Incidents,State St,Salt Lake County,State St at 4500 S,"Crash
 SB State St at 4500 S Salt Lake Co.
 SB 2 Right Lanes Closed
@@ -1339,3 +1338,16 @@ UT-Incident--172901,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 SB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","1/1/24, 2:52 PM","1/1/24, 4:00 PM","1/1/24, 3:39 PM",View on map,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172904,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
+NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
+Left Shoulder
+Est. Clearance Time: 4:46 PM","1/1/24, 3:47 PM","1/1/24, 4:46 PM","1/1/24, 3:47 PM",,39.945085,-111.807481
+UT-Incident--172905,Incidents,SR 248,Summit County,SR 248 at MP 3,"Crash
+EB SR 248 at MP 3 (US-40 Jct) Summit Co.
+EB to NB Left Lane Closed
+Est. Clearance Time: 5:03 PM","1/1/24, 4:05 PM","1/1/24, 5:03 PM","1/1/24, 4:05 PM",,40.682241,-111.464579
+UT-Incident--172903,Incidents,US 189,Wasatch County,US 189 at MP 20,"Crash
+SB US 189 at MP 20 (Deer Creek Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 4:44 PM","1/1/24, 3:45 PM","1/1/24, 4:44 PM","1/1/24, 3:45 PM",,40.406433,-111.490121
