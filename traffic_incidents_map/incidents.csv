@@ -1333,7 +1333,6 @@ SB State St at 4500 S Salt Lake Co.
 SB 2 Right Lanes Closed
 WB Left Lane Closed
 Est. Clearance Time: 3:52 PM","1/1/24, 2:54 PM","1/1/24, 3:52 PM","1/1/24, 2:55 PM",View on map,40.674331,-111.888286
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172901,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 SB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
@@ -1343,6 +1342,7 @@ UT-Incident--172904,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 4:46 PM","1/1/24, 3:47 PM","1/1/24, 4:46 PM","1/1/24, 3:47 PM",,39.945085,-111.807481
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172905,Incidents,SR 248,Summit County,SR 248 at MP 3,"Crash
 EB SR 248 at MP 3 (US-40 Jct) Summit Co.
 EB to NB Left Lane Closed
