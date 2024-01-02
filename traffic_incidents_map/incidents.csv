@@ -1361,7 +1361,6 @@ UT-Incident--172908,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Main S
 EB Hill Field Rd at Main St Davis Co.
 Right Lane Closed
 Est. Clearance Time: 9:33 PM","1/1/24, 8:34 PM","1/1/24, 9:33 PM","1/1/24, 8:38 PM",View on map,41.072713,-111.978866
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172910,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -1371,6 +1370,11 @@ UT-Incident--172911,Incidents,Fort Union Blvd,Salt Lake County,Fort Union Blvd a
 WB 7200 S/Fort Union at State St Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:11 PM","1/1/24, 9:14 PM","1/1/24, 10:11 PM","1/1/24, 9:16 PM",View on map,40.620669,-111.892263
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172912,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+Ramp NB I-15 at MP 307 (400 S) Salt Lake Co.
+Right Shoulder WB 400 S Prior to on ramp
+Est. Clearance Time: 10:43 PM","1/1/24, 9:45 PM","1/1/24, 10:43 PM","1/1/24, 9:45 PM",View on map,40.74966,-111.90976
 UT-Incident--172909,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
 WB SR 201 at MP 11 (5600 W) 
 Salt Lake Co.
