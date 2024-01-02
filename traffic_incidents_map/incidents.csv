@@ -1416,12 +1416,16 @@ UT-Incident--172924,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 WB I-80 at MP 114 (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/2/24, 9:24 AM","1/2/24, 10:30 AM","1/2/24, 9:24 AM",View on map,40.770664,-112.009234
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172925,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (Salt Lake County)
 2 Right Lanes Closed
 Est. Clearance Time: 10:30 AM","1/2/24, 9:27 AM","1/2/24, 10:30 AM","1/2/24, 9:27 AM",View on map,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172927,Incidents,I-15 NB X331 On Hill Field Rd Ramp,Davis County,I-15 NB X331 On Hill Field Rd Ramp at Hill Field Rd,"Vehicle on fire
+NB I-15 Hill Field Rd On Ramp at (Davis County)
+Left Lane Closed
+Est. Clearance Time: 11:40 AM","1/2/24, 10:35 AM","1/2/24, 11:40 AM","1/2/24, 10:35 AM",View on map,41.074338,-111.975922
 UT-Incident--172926,Incidents,Main St,Box Elder County,Main St at Forest St,"Crash
 NB Main St at Forest St Box Elder Co.
 NB Closed
