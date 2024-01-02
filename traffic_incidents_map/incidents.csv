@@ -1369,7 +1369,6 @@ UT-Incident--172911,Incidents,Fort Union Blvd,Salt Lake County,Fort Union Blvd a
 WB 7200 S/Fort Union at State St Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:11 PM","1/1/24, 9:14 PM","1/1/24, 10:11 PM","1/1/24, 9:16 PM",View on map,40.620669,-111.892263
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172912,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 Ramp NB I-15 at MP 307 (400 S) Salt Lake Co.
 Right Shoulder WB 400 S Prior to on ramp
@@ -1379,6 +1378,7 @@ WB SR 201 at MP 11 (5600 W)
 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:49 PM","1/1/24, 8:50 PM","1/1/24, 9:49 PM","1/1/24, 9:22 PM",View on map,40.72572,-112.020546
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172913,Incidents,STATE ST,Salt Lake County,STATE ST 8365,"Crash
 NB State St at 8400 S Salt Lake Co.
