@@ -1447,7 +1447,6 @@ Est. Clearance Time: 3:45 PM","1/2/24, 2:47 PM","1/2/24, 3:45 PM","1/2/24, 2:47 
 UT-Incident--172932,Incidents,HWY 13,Box Elder County,HWY 13 at 500 W,"Crash
 Hwy 13 at 450 W (Brigham City) Box Elder Co.
 Est. Clearance Time: 4:15 PM","1/2/24, 3:03 PM","1/2/24, 4:15 PM","1/2/24, 3:03 PM",View on map,41.529711,-112.021996
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172935,Incidents,SR 108,Weber County,SR 108 at MP 9,"Crash
 NB SR 108 at MP 9 (Roy) Weber Co.
 Right Shoulder
@@ -1460,3 +1459,7 @@ UT-Incident--172936,Incidents,SR 112,Tooele County,SR 112 at MP 8,"Crash
 NB SR 112 at MP 8 (Tooele) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 5:35 PM","1/2/24, 4:26 PM","1/2/24, 5:35 PM","1/2/24, 4:26 PM",View on map,40.55101,-112.302471
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172938,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Est. Clearance Time: 6:15 PM","1/2/24, 5:14 PM","1/2/24, 6:15 PM","1/2/24, 5:14 PM",View on map,40.72606,-111.962907
