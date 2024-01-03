@@ -1502,13 +1502,26 @@ Est. Clearance Time: 8:30 AM","1/3/24, 7:33 AM","1/3/24, 8:30 AM","1/3/24, 7:33 
 UT-Incident--172956,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 EB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Est. Clearance Time: 8:50 AM","1/3/24, 6:51 AM","1/3/24, 8:50 AM","1/3/24, 8:05 AM",View on map,40.697978,-112.260296
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172959,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:40 AM","1/3/24, 8:40 AM","1/3/24, 9:40 AM","1/3/24, 8:42 AM",View on map,40.649847,-111.90236
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172958,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
-Est. Clearance Time: 8:45 AM","1/3/24, 7:48 AM","1/3/24, 8:45 AM","1/3/24, 7:50 AM",View on map,40.442142,-111.903011
+Est. Clearance Time: 8:45 AM","1/3/24, 7:48 AM","1/3/24, 8:45 AM","1/3/24, 7:50 AM",,40.442142,-111.903011
+UT-Incident--172961,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5300 S, Murray) Salt Lake County
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/3/24, 9:16 AM","1/3/24, 10:15 AM","1/3/24, 9:16 AM",,40.649847,-111.90236
+UT-Incident--172960,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 3500 S,"Crash
+SB Mountain View Corridor Hwy at 3500 S (Salt Lake County)
+Est. Clearance Time: 10:10 AM","1/3/24, 9:12 AM","1/3/24, 10:10 AM","1/3/24, 9:15 AM",,40.702988,-112.029297
+UT-Incident--172962,Incidents,SR 12,Garfield County,SR 12 at MP 103,"Crash
+SR 12 at MP 103 (11 Mi E of Boulder) Garfield Co.
+Est. Clearance Time: 11:15 AM","1/3/24, 9:18 AM","1/3/24, 11:15 AM","1/3/24, 9:18 AM",,38.069458,-111.333675
+UT-Incident--172963,Incidents,SR 193,Davis County,SR 193 at MP 1,"Crash
+EB SR 193 at MP 1 (1000 W Clearfield) Davis Co.
+Est. Clearance Time: 10:20 AM","1/3/24, 9:23 AM","1/3/24, 10:20 AM","1/3/24, 9:23 AM",,41.103487,-111.996122
