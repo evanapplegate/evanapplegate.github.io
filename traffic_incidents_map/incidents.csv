@@ -1458,7 +1458,6 @@ UT-Incident--172936,Incidents,SR 112,Tooele County,SR 112 at MP 8,"Crash
 NB SR 112 at MP 8 (Tooele) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 5:35 PM","1/2/24, 4:26 PM","1/2/24, 5:35 PM","1/2/24, 4:26 PM",View on map,40.55101,-112.302471
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172938,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","1/2/24, 5:14 PM","1/2/24, 6:15 PM","1/2/24, 5:14 PM",View on map,40.72606,-111.962907
@@ -1467,3 +1466,8 @@ UT-Incident--172942,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6:50 PM","1/2/24, 5:48 PM","1/2/24, 6:50 PM","1/2/24, 5:48 PM",View on map,40.442142,-111.903011
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172948,Incidents,SR 193,Davis County,SR 193 at MP 2,"Crash
+WB SR 193 at MP 2 (H St Clearfield) Davis Co.
+2 Left Lanes Closed
+Est. Clearance Time: 7:45 PM","1/2/24, 6:42 PM","1/2/24, 7:45 PM","1/2/24, 6:42 PM",View on map,41.103476,-111.976912
