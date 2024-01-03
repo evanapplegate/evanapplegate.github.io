@@ -1477,11 +1477,11 @@ UT-Incident--172949,Incidents,US 191,San Juan County,US 191 at MP 46,"Debris
 NB US 191 at MP 46 (2 miles S of Blanding) San Juan Co.
 Est. Clearance Time: 10:30 PM","1/2/24, 9:22 PM","1/2/24, 10:30 PM","1/2/24, 9:22 PM",View on map,37.555266,-109.489537
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--172952,Incidents,I-15,Juab County,I-15 at MP 196,"Crash
-NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
-Est. Clearance Time: 1/3/2024 12:30 AM","1/2/24, 11:04 PM","1/3/24, 12:30 AM","1/2/24, 11:04 PM",View on map,39.356588,-112.080446
 UT-Incident--172951,Incidents,SR 126,Davis County,SR 126 at MP 2,"Crash
 NB SR 126 (Main St.) at MP 2 (Hill Field Rd.) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 11:45 PM","1/2/24, 10:50 PM","1/2/24, 11:45 PM","1/2/24, 10:50 PM",View on map,41.075945,-111.982403
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--172952,Incidents,I-15,Juab County,I-15 at MP 196,"Crash
+NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
+Est. Clearance Time: 1/3/2024 12:30 AM","1/2/24, 11:04 PM","1/3/24, 12:30 AM","1/2/24, 11:04 PM",View on map,39.356588,-112.080446
