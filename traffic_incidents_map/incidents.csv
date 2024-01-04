@@ -1633,11 +1633,17 @@ UT-Incident--173003,Incidents,I-80,Tooele County,I-80 at MP 33,"Crash
 EB I-80 at MP 33 (8 mi W of Knolls) Tooele Co.
 Est. Clearance Time: 1/4/2024 12:45 AM","1/3/24, 11:35 PM","1/4/24, 12:45 AM","1/3/24, 11:35 PM",View on map,40.729847,-113.416713
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173006,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Left Shoulder
 Est. Clearance Time: 2:19 AM","1/4/24, 1:20 AM","1/4/24, 2:19 AM","1/4/24, 1:20 AM",,37.613839,-113.152321
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"NB I-15 Closed
  at MP 248 (1 mi S of Payson) Utah Co.
 Use Alt Route, Expect Delay","1/4/24, 1:25 AM","1/4/24, 6:00 AM","1/4/24, 2:51 AM",,40.013373,-111.762226
+UT-Incident--173009,Incidents,SR 10,Emery County,SR 10 at MP 31,"Crash
+SR 10 at MP 31 (600 North, Clawson) Emery Co.
+Est. Clearance Time: 6:00 AM","1/4/24, 5:01 AM","1/4/24, 6:00 AM","1/4/24, 5:01 AM",,39.140351,-111.096519
+UT-Incident--173008,Incidents,US 89,Sanpete County,US 89 at MP 233,"Crash
+Both Directions US 89 at MP 233 (6 miles N of Salina) Sanpete Co.
+Est. Clearance Time: 5:53 AM","1/4/24, 4:53 AM","1/4/24, 5:53 AM","1/4/24, 4:53 AM",,39.037945,-111.827449
