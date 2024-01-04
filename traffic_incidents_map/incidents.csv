@@ -1697,6 +1697,10 @@ UT-Incident--173026,Incidents,US 89,Garfield County,US 89 3451,"Crash
 MP 110 US 89 Garfield Co. 
 Est. Clearance Time: 11:59 AM","1/4/24, 11:00 AM","1/4/24, 11:59 AM","1/4/24, 11:01 AM",,37.573728,-112.47994
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173030,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
+NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
+Left Shoulder
+Est. Clearance Time: 2:00 PM","1/4/24, 1:00 PM","1/4/24, 2:00 PM","1/4/24, 1:00 PM",,39.991194,-111.764095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173031,Incidents,Hwy 12,Garfield County,Hwy 12 at US 89,"Crash
 Hwy 12 at US 89 Garfield Co.
@@ -1704,13 +1708,12 @@ Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
 Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 2:00 PM","1/4/24, 1:02 PM",,40.013373,-111.762226
-UT-Incident--173030,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
-NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
-Left Shoulder
-Est. Clearance Time: 2:00 PM","1/4/24, 1:00 PM","1/4/24, 2:00 PM","1/4/24, 1:00 PM",,39.991194,-111.764095
+UT-Incident--173033,Incidents,I-15 NB X62 Off SR 130 Ramp,Iron County,I-15 NB X62 Off SR 130 Ramp,"Stalled Vehicle
+SB I-15 62 SR 130 Off Ramp Iron Co.
+Est. Clearance Time: 2:35 PM","1/4/24, 1:34 PM","1/4/24, 2:35 PM","1/4/24, 1:35 PM",,37.722619,-113.058258
 UT-Incident--173028,Incidents,I-84,Morgan County,I-84 at MP 94,"Vehicle on fire
 WB I-84 at MP 94 (Mountain Green) Morgan Co.
-Right Lane Closed","1/4/24, 12:17 PM","1/4/24, 1:15 PM","1/4/24, 1:14 PM",,41.137611,-111.79713
+Right Lane Closed, Rest Area Closed","1/4/24, 12:17 PM","1/4/24, 1:15 PM","1/4/24, 1:41 PM",,41.137611,-111.79713
 UT-Incident--173032,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Crash
 SB Legacy Pkwy at MP 2 (900 N) Davis Co.
 Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 PM",,40.855369,-111.943437
