@@ -1641,24 +1641,13 @@ NB I-15 at MP 275 (PG Blvd) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:54 AM","1/4/24, 5:55 AM","1/4/24, 6:54 AM","1/4/24, 5:55 AM",,40.343309,-111.758412
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173010,Incidents,HWY 143,Iron County,HWY 143 3251,"Crash
 SR-143 at MP 12 Iron County
 Est. Clearance Time: 7:00 AM","1/4/24, 5:42 AM","1/4/24, 7:00 AM","1/4/24, 5:42 AM",,37.733177,-112.837116
-UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"NB I-15 Closed
- at MP 248 (1 mi S of Payson) Utah Co.
-Use Alt Route, Expect Delay","1/4/24, 1:25 AM","1/4/24, 9:00 AM","1/4/24, 7:22 AM",,40.013373,-111.762226
 UT-Incident--173011,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6:43 AM","1/4/24, 5:43 AM","1/4/24, 6:43 AM","1/4/24, 5:43 AM",,37.492482,-113.217798
-UT-Incident--173015,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
-NB I-15 at MP 43 (Kanarraville) Iron Co.
-Est. Clearance Time: 8:00 AM","1/4/24, 6:57 AM","1/4/24, 8:00 AM","1/4/24, 6:57 AM",,37.494343,-113.217562
-UT-Incident--173017,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
-EB I-215 S at MP 12 (700 W) Salt Lake Co.
-Right Lanes Closed
-Est. Clearance Time: 10:00 AM","1/4/24, 7:18 AM","1/4/24, 10:00 AM","1/4/24, 7:18 AM",,40.636209,-111.91357
 UT-Incident--173014,Incidents,I-70,Sevier County,I-70 at MP 42,"Crash
 EB I-70 at MP 42 (Richfield) Sevier Co.
 Est. Clearance Time: 7:33 AM","1/4/24, 6:33 AM","1/4/24, 7:33 AM","1/4/24, 6:33 AM",,38.807586,-112.061032
@@ -1668,9 +1657,26 @@ I-70 Temp Closed","1/4/24, 7:10 AM","1/4/24, 9:00 AM","1/4/24, 7:10 AM",,38.9323
 UT-Incident--173013,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
 WB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
 Est. Clearance Time: 7:10 AM","1/4/24, 6:11 AM","1/4/24, 7:10 AM","1/4/24, 6:11 AM",,40.745391,-112.645232
-UT-Incident--173009,Incidents,SR 10,Emery County,SR 10 at MP 31,"Crash
-SR 10 at MP 31 (600 North, Clawson) Emery Co.
-Est. Clearance Time: 6:00 AM","1/4/24, 5:01 AM","1/4/24, 6:00 AM","1/4/24, 5:01 AM",,39.140351,-111.096519
 UT-Incident--173008,Incidents,US 89,Sanpete County,US 89 at MP 233,"Crash
 Both Directions US 89 at MP 233 (6 miles N of Salina) Sanpete Co.
 Est. Clearance Time: 5:53 AM","1/4/24, 4:53 AM","1/4/24, 5:53 AM","1/4/24, 4:53 AM",,39.037945,-111.827449
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173018,Incidents,HWY 24,Wayne County,HWY 24 10101,"Crash
+SR-24 at MP 110 Wayne Co.
+Est. Clearance Time: 9:15 AM","1/4/24, 7:55 AM","1/4/24, 9:15 AM","1/4/24, 7:55 AM",,38.367655,-110.817359
+UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"NB I-15 Closed
+ at MP 248 (1 mi S of Payson) Utah Co.
+Use Alt Route, Expect Delay","1/4/24, 1:25 AM","1/4/24, 9:00 AM","1/4/24, 7:22 AM",,40.013373,-111.762226
+UT-Incident--173015,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
+NB I-15 at MP 43 (Kanarraville) Iron Co.
+Est. Clearance Time: 8:00 AM","1/4/24, 6:57 AM","1/4/24, 8:00 AM","1/4/24, 6:57 AM",,37.494343,-113.217562
+UT-Incident--173017,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (700 W) Salt Lake Co.
+Right Lanes Closed
+Est. Clearance Time: 10:00 AM","1/4/24, 7:18 AM","1/4/24, 10:00 AM","1/4/24, 7:18 AM",,40.636209,-111.91357
+UT-Incident--173019,Incidents,I-80,Tooele County,I-80 at MP 87,"Crash
+WB I-80 at MP 87 (Grantsville) Tooele Co.
+Est. Clearance Time: 9:15 AM","1/4/24, 8:03 AM","1/4/24, 9:15 AM","1/4/24, 8:03 AM",,40.692112,-112.464697
+UT-Incident--173009,Incidents,SR 10,Emery County,SR 10 at MP 31,"Crash
+SR 10 at MP 31 (600 North, Clawson) Emery Co.
+Est. Clearance Time: 6:00 AM","1/4/24, 5:01 AM","1/4/24, 6:00 AM","1/4/24, 5:01 AM",,39.140351,-111.096519
