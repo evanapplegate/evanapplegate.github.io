@@ -1716,29 +1716,36 @@ Est. Clearance Time: 3:00 PM","1/4/24, 2:04 PM","1/4/24, 3:00 PM","1/4/24, 2:06 
 UT-Incident--173029,Incidents,Main St,Davis County,Main St at 800 W,"Crash
 SB Main St at 800 W Davis Co.
 Est. Clearance Time: 2:00 PM","1/4/24, 12:55 PM","1/4/24, 2:00 PM","1/4/24, 12:55 PM",View on map,41.124394,-112.026019
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173028,Incidents,I-84,Morgan County,I-84 at MP 94,"Vehicle on fire
 WB I-84 at MP 94 (Mountain Green) Morgan Co.
 Right Lane Closed, Rest Area Closed","1/4/24, 12:17 PM","1/4/24, 1:15 PM","1/4/24, 1:41 PM",View on map,41.137611,-111.79713
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
-NB I-15 at MP 248, Payson (Utah County)
-Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 4:30 PM","1/4/24, 2:31 PM",View on map,40.013373,-111.762226
-UT-Incident--173034,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
-SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
-Right Lane Closed
-Est. Clearance Time: 3:00 PM","1/4/24, 1:53 PM","1/4/24, 3:00 PM","1/4/24, 1:53 PM",View on map,38.658157,-112.595083
-UT-Incident--173038,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
-NB I-15 at MP 139 (5 mi N of Cove Fort) Millard Co.
-Right Lane Closed
-Est. Clearance Time: 3:45 PM","1/4/24, 2:38 PM","1/4/24, 3:45 PM","1/4/24, 2:38 PM",View on map,38.671158,-112.588955
 UT-Incident--173039,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 SB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:55 PM","1/4/24, 2:49 PM","1/4/24, 3:55 PM","1/4/24, 2:49 PM",View on map,40.453646,-111.91388
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173040,Incidents,HWY 130,Iron County,HWY 130,"Crash
+WB Hwy 130 at I-15 Overpass (Cedar City) Iron Co.
+Est. Clearance Time: 4:15 PM","1/4/24, 3:08 PM","1/4/24, 4:15 PM","1/4/24, 3:08 PM",,37.727647,-113.051677
+UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
+NB I-15 at MP 248, Payson (Utah County)
+Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 4:30 PM","1/4/24, 2:31 PM",,40.013373,-111.762226
+UT-Incident--173034,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
+SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 3:00 PM","1/4/24, 1:53 PM","1/4/24, 3:00 PM","1/4/24, 1:53 PM",,38.658157,-112.595083
+UT-Incident--173038,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
+NB I-15 at MP 139 (5 mi N of Cove Fort) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 3:45 PM","1/4/24, 2:38 PM","1/4/24, 3:45 PM","1/4/24, 2:38 PM",,38.671158,-112.588955
+UT-Incident--173041,Incidents,Main St,Wasatch County,Main St at 500 N,"Crash
+SB Main St at 500 N Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 4:25 PM","1/4/24, 3:19 PM","1/4/24, 4:25 PM","1/4/24, 3:19 PM",,0.0,0.0
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
