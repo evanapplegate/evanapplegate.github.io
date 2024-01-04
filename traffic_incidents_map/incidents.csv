@@ -1700,7 +1700,6 @@ UT-Incident--173030,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 2:00 PM","1/4/24, 1:00 PM","1/4/24, 2:00 PM","1/4/24, 1:00 PM",,39.991194,-111.764095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173031,Incidents,Hwy 12,Garfield County,Hwy 12 at US 89,"Crash
 Hwy 12 at US 89 Garfield Co.
 Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 PM",,37.749633,-112.376866
@@ -1711,6 +1710,11 @@ UT-Incident--173032,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Cras
 SB Legacy Pkwy at MP 2 (900 N) Davis Co.
 Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 PM",,40.855369,-111.943437
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173037,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S WB X12 TO I-15 SB COL RAMP at I-15 SB,"Crash
+All Directions I-215S WB To I-15 SB Fwy Salt Lake Co
+Left Lane Closed
+Est. Clearance Time: 3:00 PM","1/4/24, 2:04 PM","1/4/24, 3:00 PM","1/4/24, 2:06 PM",View on map,40.637036,-111.906402
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
 Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 3:30 PM","1/4/24, 1:52 PM",View on map,40.013373,-111.762226
@@ -1718,10 +1722,6 @@ UT-Incident--173034,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
 SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","1/4/24, 1:53 PM","1/4/24, 3:00 PM","1/4/24, 1:53 PM",View on map,38.658157,-112.595083
-UT-Incident--173037,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S WB X12 TO I-15 SB COL RAMP at I-15 SB,"Crash
-All Directions I-215S WB To I-15 SB Fwy Salt Lake Co
-Left Lane Closed
-Est. Clearance Time: 3:00 PM","1/4/24, 2:04 PM","1/4/24, 3:00 PM","1/4/24, 2:06 PM",View on map,40.637036,-111.906402
 UT-Incident--173028,Incidents,I-84,Morgan County,I-84 at MP 94,"Vehicle on fire
 WB I-84 at MP 94 (Mountain Green) Morgan Co.
 Right Lane Closed, Rest Area Closed","1/4/24, 12:17 PM","1/4/24, 1:15 PM","1/4/24, 1:41 PM",View on map,41.137611,-111.79713
