@@ -1606,11 +1606,11 @@ UT-Incident--172999,Incidents,SR 56,Iron County,SR 56 at MP 44,"Crash
 EB SR 56 at MP 44 (12 Mi W of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 11:30 PM","1/3/24, 9:51 PM","1/3/24, 11:30 PM","1/3/24, 9:51 PM",View on map,37.608959,-113.354209
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172997,Incidents,I-80,Tooele County,I-80 at MP 41,"Crash
 WB I-80 at MP 41 (Knolls) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 11:45 PM","1/3/24, 8:12 PM","1/3/24, 11:45 PM","1/3/24, 11:13 PM",View on map,40.727407,-113.26396
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173002,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 NB I-15 at MP 358 (Willard) Box Elder Co.
@@ -1626,6 +1626,10 @@ Est. Clearance Time: 1/4/2024 12:45 AM","1/3/24, 10:12 PM","1/4/24, 12:45 AM","1
 UT-Incident--173003,Incidents,I-80,Tooele County,I-80 at MP 33,"Crash
 EB I-80 at MP 33 (8 mi W of Knolls) Tooele Co.
 Est. Clearance Time: 1/4/2024 12:45 AM","1/3/24, 11:35 PM","1/4/24, 12:45 AM","1/3/24, 11:35 PM",View on map,40.729847,-113.416713
+UT-Incident--173005,Incidents,US 191,San Juan County,US 191 at MP 37,"Crash
+SB US 191 at MP 37 (2 miles S of White Mesa) San Juan Co.
+Right Shoulder
+Est. Clearance Time: 1:00 AM","1/4/24, 12:05 AM","1/4/24, 1:00 AM","1/4/24, 12:05 AM",View on map,37.430968,-109.471378
 UT-Incident--173001,Incidents,US 89,Salt Lake County,US 89 at MP 379,"Crash
 Both Directions US 89 at MP 379 (West Temple) Salt Lake Co.
 Right Lane Closed
