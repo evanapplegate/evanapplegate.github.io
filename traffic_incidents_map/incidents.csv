@@ -1637,6 +1637,10 @@ NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Left Shoulder
 Est. Clearance Time: 2:19 AM","1/4/24, 1:20 AM","1/4/24, 2:19 AM","1/4/24, 1:20 AM",,37.613839,-113.152321
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173012,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+NB I-15 at MP 275 (PG Blvd) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:54 AM","1/4/24, 5:55 AM","1/4/24, 6:54 AM","1/4/24, 5:55 AM",,40.343309,-111.758412
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173010,Incidents,HWY 143,Iron County,HWY 143 3251,"Crash
 SR-143 at MP 12 Iron County
@@ -1648,16 +1652,19 @@ UT-Incident--173011,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6:43 AM","1/4/24, 5:43 AM","1/4/24, 6:43 AM","1/4/24, 5:43 AM",,37.492482,-113.217798
-UT-Incident--173012,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
-NB I-15 at MP 275 (PG Blvd) Utah Co.
-2 Left Lanes Closed
-Est. Clearance Time: 6:54 AM","1/4/24, 5:55 AM","1/4/24, 6:54 AM","1/4/24, 5:55 AM",,40.343309,-111.758412
 UT-Incident--173015,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Est. Clearance Time: 8:00 AM","1/4/24, 6:57 AM","1/4/24, 8:00 AM","1/4/24, 6:57 AM",,37.494343,-113.217562
+UT-Incident--173017,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (700 W) Salt Lake Co.
+Right Lanes Closed
+Est. Clearance Time: 10:00 AM","1/4/24, 7:18 AM","1/4/24, 10:00 AM","1/4/24, 7:18 AM",,40.636209,-111.91357
 UT-Incident--173014,Incidents,I-70,Sevier County,I-70 at MP 42,"Crash
 EB I-70 at MP 42 (Richfield) Sevier Co.
 Est. Clearance Time: 7:33 AM","1/4/24, 6:33 AM","1/4/24, 7:33 AM","1/4/24, 6:33 AM",,38.807586,-112.061032
+UT-Incident--173016,Incidents,I-70,Emery County,I-70 at MP 142,"Stalled Vehicles/Road Weather
+Both Directions I-70 at MP 142 (18 mi W of Green River) Emery Co.
+I-70 Temp Closed","1/4/24, 7:10 AM","1/4/24, 9:00 AM","1/4/24, 7:10 AM",,38.932338,-110.489069
 UT-Incident--173013,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
 WB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
 Est. Clearance Time: 7:10 AM","1/4/24, 6:11 AM","1/4/24, 7:10 AM","1/4/24, 6:11 AM",,40.745391,-112.645232
