@@ -1659,7 +1659,6 @@ Est. Clearance Time: 7:10 AM","1/4/24, 6:11 AM","1/4/24, 7:10 AM","1/4/24, 6:11 
 UT-Incident--173008,Incidents,US 89,Sanpete County,US 89 at MP 233,"Crash
 Both Directions US 89 at MP 233 (6 miles N of Salina) Sanpete Co.
 Est. Clearance Time: 5:53 AM","1/4/24, 4:53 AM","1/4/24, 5:53 AM","1/4/24, 4:53 AM",,39.037945,-111.827449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173015,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Est. Clearance Time: 8:00 AM","1/4/24, 6:57 AM","1/4/24, 8:00 AM","1/4/24, 6:57 AM",,37.494343,-113.217562
@@ -1667,12 +1666,13 @@ UT-Incident--173009,Incidents,SR 10,Emery County,SR 10 at MP 31,"Crash
 SR 10 at MP 31 (600 North, Clawson) Emery Co.
 Est. Clearance Time: 6:00 AM","1/4/24, 5:01 AM","1/4/24, 6:00 AM","1/4/24, 5:01 AM",,39.140351,-111.096519
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173018,Incidents,HWY 24,Wayne County,HWY 24 10101,"Crash
 SR-24 at MP 110 Wayne Co.
 Est. Clearance Time: 9:15 AM","1/4/24, 7:55 AM","1/4/24, 9:15 AM","1/4/24, 7:55 AM",,38.367655,-110.817359
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
-Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 9:00 AM","1/4/24, 8:56 AM",,40.013373,-111.762226
+Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 11:00 AM","1/4/24, 9:10 AM",,40.013373,-111.762226
 UT-Incident--173022,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Est. Clearance Time: 10:15 AM","1/4/24, 9:02 AM","1/4/24, 10:15 AM","1/4/24, 9:02 AM",,37.494343,-113.217562
