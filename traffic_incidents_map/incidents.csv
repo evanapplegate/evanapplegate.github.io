@@ -1723,7 +1723,6 @@ UT-Incident--173039,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 SB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:55 PM","1/4/24, 2:49 PM","1/4/24, 3:55 PM","1/4/24, 2:49 PM",View on map,40.453646,-111.91388
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173041,Incidents,Main St,Wasatch County,Main St at 500 N,"Crash
 SB Main St at 500 N Wasatch Co.
 Right Lane Closed
@@ -1731,6 +1730,7 @@ Est. Clearance Time: 4:25 PM","1/4/24, 3:19 PM","1/4/24, 4:25 PM","1/4/24, 3:19 
 UT-Incident--173042,Incidents,Main St,Davis County,Main St at Nicholls Rd,"Crash
 SB Main St at Nicholls Rd Davis Co.
 Est. Clearance Time: 4:25 PM","1/4/24, 3:28 PM","1/4/24, 4:25 PM","1/4/24, 3:28 PM",,41.021898,-111.925173
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173040,Incidents,HWY 130,Iron County,HWY 130,"Crash
 WB Hwy 130 at I-15 Overpass (Cedar City) Iron Co.
