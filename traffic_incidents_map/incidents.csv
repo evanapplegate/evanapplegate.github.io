@@ -1666,33 +1666,34 @@ UT-Incident--173009,Incidents,SR 10,Emery County,SR 10 at MP 31,"Crash
 SR 10 at MP 31 (600 North, Clawson) Emery Co.
 Est. Clearance Time: 6:00 AM","1/4/24, 5:01 AM","1/4/24, 6:00 AM","1/4/24, 5:01 AM",,39.140351,-111.096519
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173018,Incidents,HWY 24,Wayne County,HWY 24 10101,"Crash
 SR-24 at MP 110 Wayne Co.
 Est. Clearance Time: 9:15 AM","1/4/24, 7:55 AM","1/4/24, 9:15 AM","1/4/24, 7:55 AM",,38.367655,-110.817359
+UT-Incident--173024,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+NB I-15 at MP 280 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:45 AM","1/4/24, 9:39 AM","1/4/24, 10:45 AM","1/4/24, 9:40 AM",,40.39191,-111.835579
+UT-Incident--173019,Incidents,I-80,Tooele County,I-80 at MP 87,"Crash
+WB I-80 at MP 87 (Grantsville) Tooele Co.
+Est. Clearance Time: 9:15 AM","1/4/24, 8:03 AM","1/4/24, 9:15 AM","1/4/24, 8:03 AM",,40.692112,-112.464697
+UT-Incident--173020,Incidents,SR 10,Emery County,SR 10 at MP 34,"Crash
+SR 10 at MP 34 (4 MI S of Castle Dale) Emery Co.
+Est. Clearance Time: 9:15 AM","1/4/24, 8:06 AM","1/4/24, 9:15 AM","1/4/24, 8:06 AM",,39.169746,-111.057065
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
 Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 11:00 AM","1/4/24, 9:10 AM",,40.013373,-111.762226
 UT-Incident--173022,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Est. Clearance Time: 10:15 AM","1/4/24, 9:02 AM","1/4/24, 10:15 AM","1/4/24, 9:02 AM",,37.494343,-113.217562
-UT-Incident--173024,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
-NB I-15 at MP 280 (Lehi) Utah Co.
-Left Shoulder
-Est. Clearance Time: 10:45 AM","1/4/24, 9:39 AM","1/4/24, 10:45 AM","1/4/24, 9:40 AM",,40.39191,-111.835579
 UT-Incident--173017,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (700 W) Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 10:00 AM","1/4/24, 7:18 AM","1/4/24, 10:00 AM","1/4/24, 9:40 AM",,40.636209,-111.91357
-UT-Incident--173019,Incidents,I-80,Tooele County,I-80 at MP 87,"Crash
-WB I-80 at MP 87 (Grantsville) Tooele Co.
-Est. Clearance Time: 9:15 AM","1/4/24, 8:03 AM","1/4/24, 9:15 AM","1/4/24, 8:03 AM",,40.692112,-112.464697
+Est. Clearance Time: 12:00 PM","1/4/24, 7:18 AM","1/4/24, 12:00 PM","1/4/24, 9:56 AM",,40.636209,-111.91357
 UT-Incident--173021,Incidents,I-80,Tooele County,I-80 at MP 39,"Crash
 EB I-80 at MP 39 (2 mi W of Knolls) Tooele Co.
-Est. Clearance Time: 9:15 AM","1/4/24, 8:11 AM","1/4/24, 9:15 AM","1/4/24, 8:11 AM",,40.728127,-113.302151
-UT-Incident--173020,Incidents,SR 10,Emery County,SR 10 at MP 34,"Crash
-SR 10 at MP 34 (4 MI S of Castle Dale) Emery Co.
-Est. Clearance Time: 9:15 AM","1/4/24, 8:06 AM","1/4/24, 9:15 AM","1/4/24, 8:06 AM",,39.169746,-111.057065
+Temporarily Closed 
+Est. Clearance Time: 9:15 AM","1/4/24, 8:11 AM","1/4/24, 9:15 AM","1/4/24, 9:55 AM",,40.728127,-113.302151
 UT-Incident--173023,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 SB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
