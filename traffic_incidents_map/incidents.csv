@@ -1558,7 +1558,6 @@ Est. Clearance Time: 5:45 PM","1/3/24, 4:42 PM","1/3/24, 5:45 PM","1/3/24, 4:42 
 UT-Incident--172979,Incidents,SR 109,Davis County,SR 109 at MP 2,"Crash
 SR 109 at MP 2 (Oak Hills Dr/US-89 Jct) Davis Co.
 Est. Clearance Time: 6:30 PM","1/3/24, 5:24 PM","1/3/24, 6:30 PM","1/3/24, 5:24 PM",View on map,41.063516,-111.928632
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172989,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
 SB 1900 W at Midland Dr Weber Co.
 SB Closed
@@ -1583,6 +1582,7 @@ EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","1/3/24, 5:29 PM","1/3/24, 6:35 PM","1/3/24, 5:29 PM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--172991,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 4 Right Lanes Closed
@@ -1590,6 +1590,10 @@ Est. Clearance Time: 7:45 PM","1/3/24, 6:35 PM","1/3/24, 7:45 PM","1/3/24, 6:47 
 UT-Incident--172993,Incidents,I-15,Millard County,I-15 at MP 137,"Crash
 NB I-15 at MP 137 (3 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 8:00 PM","1/3/24, 6:45 PM","1/3/24, 8:00 PM","1/3/24, 6:45 PM",,38.645446,-112.603991
+UT-Incident--172995,Incidents,US 40,Wasatch County,US 40 at MP 20,"Crash
+Both Directions US 40 at MP 20 (Heber) Wasatch Co.
+Right Shoulders
+Est. Clearance Time: 8:30 PM","1/3/24, 7:27 PM","1/3/24, 8:30 PM","1/3/24, 7:27 PM",,40.469228,-111.389156
 UT-Incident--172994,Incidents,US 89,Sanpete County,US 89 at MP 257,"Crash
 NB US 89 at MP 257 (1 mile N of Manti) Sanpete Co.
-Est. Clearance Time: 8:15 PM","1/3/24, 7:13 PM","1/3/24, 8:15 PM","1/3/24, 7:13 PM",,,
+Est. Clearance Time: 8:15 PM","1/3/24, 7:13 PM","1/3/24, 8:15 PM","1/3/24, 7:13 PM",,39.284571,-111.627909
