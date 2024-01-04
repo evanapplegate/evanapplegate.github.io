@@ -1696,18 +1696,22 @@ Est. Clearance Time: 12:00 PM","1/4/24, 7:18 AM","1/4/24, 12:00 PM","1/4/24, 11:
 UT-Incident--173026,Incidents,US 89,Garfield County,US 89 3451,"Crash
 MP 110 US 89 Garfield Co. 
 Est. Clearance Time: 11:59 AM","1/4/24, 11:00 AM","1/4/24, 11:59 AM","1/4/24, 11:01 AM",,37.573728,-112.47994
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173030,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 2:00 PM","1/4/24, 1:00 PM","1/4/24, 2:00 PM","1/4/24, 1:00 PM",,39.991194,-111.764095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173031,Incidents,Hwy 12,Garfield County,Hwy 12 at US 89,"Crash
 Hwy 12 at US 89 Garfield Co.
 Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 PM",,37.749633,-112.376866
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
-Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 2:00 PM","1/4/24, 1:02 PM",,40.013373,-111.762226
+Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 3:30 PM","1/4/24, 1:52 PM",,40.013373,-111.762226
+UT-Incident--173034,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
+SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 3:00 PM","1/4/24, 1:53 PM","1/4/24, 3:00 PM","1/4/24, 1:53 PM",,38.658157,-112.595083
 UT-Incident--173033,Incidents,I-15 NB X62 Off SR 130 Ramp,Iron County,I-15 NB X62 Off SR 130 Ramp,"Stalled Vehicle
 SB I-15 62 SR 130 Off Ramp Iron Co.
 Est. Clearance Time: 2:35 PM","1/4/24, 1:34 PM","1/4/24, 2:35 PM","1/4/24, 1:35 PM",,37.722619,-113.058258
@@ -1720,3 +1724,9 @@ Est. Clearance Time: 2:15 PM","1/4/24, 1:09 PM","1/4/24, 2:15 PM","1/4/24, 1:09 
 UT-Incident--173029,Incidents,Main St,Davis County,Main St at 800 W,"Crash
 SB Main St at 800 W Davis Co.
 Est. Clearance Time: 2:00 PM","1/4/24, 12:55 PM","1/4/24, 2:00 PM","1/4/24, 12:55 PM",,41.124394,-112.026019
+UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
+UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
