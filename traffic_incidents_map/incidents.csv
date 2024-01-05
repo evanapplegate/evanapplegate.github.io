@@ -1741,7 +1741,6 @@ UT-Incident--173044,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:40 PM","1/4/24, 4:38 PM","1/4/24, 5:40 PM","1/4/24, 4:38 PM",View on map,40.592858,-111.902495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
 Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 4:30 PM","1/4/24, 2:31 PM",View on map,40.013373,-111.762226
@@ -1762,10 +1761,20 @@ UT-Incident--173049,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Stalled Vehi
 SB I-15 at MP 292 (11400 S Off Ramp) Salt Lake Co.
 Left Lane to WB Closed 
 Est. Clearance Time: 7:30 PM","1/4/24, 6:01 PM","1/4/24, 7:30 PM","1/4/24, 6:01 PM",,40.53585,-111.892927
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173054,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
+NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
+Est. Clearance Time: 8:15 PM","1/4/24, 7:15 PM","1/4/24, 8:15 PM","1/4/24, 7:15 PM",,39.747541,-111.834299
+UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
+EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
+Est. Clearance Time: 8:15 PM","1/4/24, 7:12 PM","1/4/24, 8:15 PM","1/4/24, 7:12 PM",,38.804499,-111.526356
 UT-Incident--173050,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 SB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 PM","1/4/24, 6:20 PM","1/4/24, 8:00 PM","1/4/24, 6:20 PM",,40.765438,-111.953251
+UT-Incident--173052,Incidents,SR 130,Iron County,SR 130 at MP 14,"Crash
+SB SR 130 at MP 14 (8 MI from I-15 N Jct) Iron Co.
+Est. Clearance Time: 7:45 PM","1/4/24, 6:39 PM","1/4/24, 7:45 PM","1/4/24, 6:39 PM",,37.838371,-113.047832
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
