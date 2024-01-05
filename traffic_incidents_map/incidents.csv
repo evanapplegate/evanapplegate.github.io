@@ -1781,7 +1781,6 @@ UT-Incident--173056,Incidents,I-70,Sevier County,I-70 at MP 75,"Crash
 WB I-70 at MP 75 (14 mi W of Fremont Jct) Sevier Co.
 Cleared at 7:43 PM
 Est. Clearance Time: 8:45 PM","1/4/24, 7:44 PM","1/4/24, 8:45 PM","1/4/24, 7:44 PM",,38.868655,-111.552187
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173058,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
@@ -1789,6 +1788,7 @@ Est. Clearance Time: 10:30 PM","1/4/24, 8:46 PM","1/4/24, 10:30 PM","1/4/24, 8:4
 UT-Incident--173057,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 8:45 PM","1/4/24, 7:46 PM","1/4/24, 8:45 PM","1/4/24, 7:46 PM",,39.430681,-111.554437
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173059,Incidents,I-215 E,Salt Lake County,I-215 E at MP 3,"Crash
 SB I-215 E at MP 3 (4500 S) Salt Lake Co.
