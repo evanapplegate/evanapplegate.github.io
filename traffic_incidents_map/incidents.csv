@@ -1825,6 +1825,10 @@ UT-Incident--173068,Incidents,Main St,Wasatch County,Main St at Center St,"Crash
 SB Main St at Center St Wasatch Co.
 Est. Clearance Time: 7:59 AM","1/5/24, 7:00 AM","1/5/24, 7:59 AM","1/5/24, 7:00 AM",,40.507634,-111.413486
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173070,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:29 AM","1/5/24, 7:29 AM","1/5/24, 8:29 AM","1/5/24, 7:29 AM",View on map,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173067,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
@@ -1834,10 +1838,6 @@ UT-Incident--173069,Incidents,I-15,Beaver County,I-15 at MP 122,"Crash
 NB I-15 at MP 122 (10 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 8:26 AM","1/5/24, 7:27 AM","1/5/24, 8:26 AM","1/5/24, 7:27 AM",View on map,38.43566,-112.634851
-UT-Incident--173070,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
-SB I-15 at MP 278 (Pioneer Xing) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:29 AM","1/5/24, 7:29 AM","1/5/24, 8:29 AM","1/5/24, 7:29 AM",View on map,40.373184,-111.808465
 UT-Incident--173071,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
@@ -1845,6 +1845,13 @@ Est. Clearance Time: 8:31 AM","1/5/24, 7:32 AM","1/5/24, 8:31 AM","1/5/24, 7:32 
 UT-Incident--173072,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 Ramp SB I-15 at MP 257 (Main St/Spanish Fork On-Ramp) Utah Co.
 Est. Clearance Time: 8:34 AM","1/5/24, 7:35 AM","1/5/24, 8:34 AM","1/5/24, 7:35 AM",View on map,40.122652,-111.658929
+UT-Incident--173074,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+NB I-15 at MP 281 (Lehi) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 8:47 AM","1/5/24, 7:48 AM","1/5/24, 8:47 AM","1/5/24, 7:48 AM",View on map,40.401041,-111.849765
+UT-Incident--173075,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
+SB I-15 at MP 335 (650 N Clrfld/On Ramp) Davis Co.
+Est. Clearance Time: 8:55 AM","1/5/24, 7:59 AM","1/5/24, 8:55 AM","1/5/24, 7:59 AM",View on map,41.114242,-112.014007
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
