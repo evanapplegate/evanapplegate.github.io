@@ -1866,7 +1866,6 @@ UT-Incident--173076,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","1/5/24, 8:04 AM","1/5/24, 9:30 AM","1/5/24, 8:46 AM",View on map,40.329534,-111.619014
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173079,Incidents,SR 39,Weber County,SR 39 at MP 9,"Crash
 Both Directions SR 39 Closed
  at MP 9 (1 mile east of Ogden) Weber Co.","1/5/24, 8:19 AM","1/5/24, 9:45 AM","1/5/24, 8:47 AM",View on map,41.236707,-111.923062
@@ -1878,6 +1877,7 @@ UT-Incident--173082,Incidents,US 89,Davis County,US 89 at MP 401,"Crash
 NB US 89 at MP 401 (100 N / Layton) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:28 AM","1/5/24, 8:32 AM","1/5/24, 9:28 AM","1/5/24, 8:32 AM",View on map,41.060273,-111.910493
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
