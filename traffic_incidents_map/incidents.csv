@@ -1824,7 +1824,6 @@ Est. Clearance Time: 6:05 AM","1/5/24, 5:06 AM","1/5/24, 6:05 AM","1/5/24, 5:06 
 UT-Incident--173068,Incidents,Main St,Wasatch County,Main St at Center St,"Crash
 SB Main St at Center St Wasatch Co.
 Est. Clearance Time: 7:59 AM","1/5/24, 7:00 AM","1/5/24, 7:59 AM","1/5/24, 7:00 AM",,40.507634,-111.413486
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173070,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
@@ -1834,6 +1833,7 @@ UT-Incident--173067,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:48 AM","1/5/24, 6:49 AM","1/5/24, 7:48 AM","1/5/24, 7:03 AM",View on map,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173069,Incidents,I-15,Beaver County,I-15 at MP 122,"Crash
 NB I-15 at MP 122 (10 mi S of cove fort) Beaver Co.
 Left Shoulder
@@ -1852,9 +1852,21 @@ Est. Clearance Time: 8:47 AM","1/5/24, 7:48 AM","1/5/24, 8:47 AM","1/5/24, 7:48 
 UT-Incident--173075,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clrfld/On Ramp) Davis Co.
 Est. Clearance Time: 8:55 AM","1/5/24, 7:59 AM","1/5/24, 8:55 AM","1/5/24, 7:59 AM",View on map,41.114242,-112.014007
+UT-Incident--173077,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:05 AM","1/5/24, 8:08 AM","1/5/24, 9:05 AM","1/5/24, 8:08 AM",View on map,40.718332,-111.893095
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
+UT-Incident--173076,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:04 AM","1/5/24, 8:04 AM","1/5/24, 9:04 AM","1/5/24, 8:04 AM",View on map,40.329534,-111.619014
+UT-Incident--173078,Incidents,US 89,Davis County,US 89 at MP 402,"Crash
+NB US 89 at MP 402 (1000 N / Layton) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 9:13 AM","1/5/24, 8:13 AM","1/5/24, 9:13 AM","1/5/24, 8:13 AM",View on map,41.074577,-111.911004
