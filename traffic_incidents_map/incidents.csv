@@ -1896,7 +1896,6 @@ UT-Incident--173087,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County
 WB I-215 S TO SB I-15  Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 12:50 PM","1/5/24, 11:48 AM","1/5/24, 12:50 PM","1/5/24, 11:49 AM",View on map,40.637063,-111.906396
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173092,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Left Shoulder
@@ -1906,28 +1905,29 @@ WB I-80 at MP 71 (2 mi E of Skull Valley) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 1:08 PM","1/5/24, 12:09 PM","1/5/24, 1:08 PM","1/5/24, 12:09 PM",View on map,40.75637,-112.755332
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173089,Incidents,9000 S,Salt Lake County,9000 S at 4800 W,"Crash
 EB 9000 S at 4800 W Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 1:45 PM","1/5/24, 12:46 PM","1/5/24, 1:45 PM","1/5/24, 12:46 PM",,40.587908,-112.001919
+Est. Clearance Time: 1:45 PM","1/5/24, 12:46 PM","1/5/24, 1:45 PM","1/5/24, 12:46 PM",View on map,40.587908,-112.001919
 UT-Incident--173094,Incidents,I-15,Utah County,I-15 at MP 247,"Lane Closure
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Left Lane Closed
-Est. Clearance Time: 2:56 PM","1/5/24, 1:56 PM","1/5/24, 2:56 PM","1/5/24, 1:56 PM",,40.005686,-111.762644
+Est. Clearance Time: 2:56 PM","1/5/24, 1:56 PM","1/5/24, 2:56 PM","1/5/24, 1:56 PM",View on map,40.005686,-111.762644
 UT-Incident--173093,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 WB I-215 S at MP 7 (2700 E) Salt Lake Co.
-Est. Clearance Time: 2:52 PM","1/5/24, 1:53 PM","1/5/24, 2:52 PM","1/5/24, 1:53 PM",,40.634375,-111.821002
+Est. Clearance Time: 2:52 PM","1/5/24, 1:53 PM","1/5/24, 2:52 PM","1/5/24, 1:53 PM",View on map,40.634375,-111.821002
 UT-Incident--173090,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 Ramp WB I-80 at SB I-215 West 
 Left Shoulder
 Salt Lake Co.
-Est. Clearance Time: 2:07 PM","1/5/24, 1:11 PM","1/5/24, 2:07 PM","1/5/24, 1:18 PM",,40.765438,-111.953251
+Est. Clearance Time: 2:07 PM","1/5/24, 1:11 PM","1/5/24, 2:07 PM","1/5/24, 1:18 PM",View on map,40.765438,-111.953251
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
 UT-Incident--173095,Incidents,SR 203,Weber County,SR 203 at MP 5,"Crash
-NB SR 203/Harrison Blvd Closed
- at MP 5 (22nd St,) Weber Co.","1/5/24, 1:58 PM","1/5/24, 2:54 PM","1/5/24, 1:58 PM",,41.225612,-111.948108
+Both Directions 21st St Closed
+ at SR-203 (Harrison Blvd) Weber Co.","1/5/24, 1:58 PM","1/5/24, 2:54 PM","1/5/24, 2:05 PM",View on map,41.225612,-111.948108
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
