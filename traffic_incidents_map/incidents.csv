@@ -1767,7 +1767,6 @@ Est. Clearance Time: 8:00 PM","1/4/24, 6:20 PM","1/4/24, 8:00 PM","1/4/24, 6:20 
 UT-Incident--173051,Incidents,US 40,Duchesne County,US 40 at MP 101,"Crash
 US 40 at MP 101 (4 mi SW of Myton) Duchesne Co.
 Est. Clearance Time: 7:45 PM","1/4/24, 6:36 PM","1/4/24, 7:45 PM","1/4/24, 6:36 PM",,40.170927,-110.139117
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173054,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 8:15 PM","1/4/24, 7:15 PM","1/4/24, 8:15 PM","1/4/24, 7:15 PM",View on map,39.747541,-111.834299
@@ -1778,6 +1777,7 @@ Est. Clearance Time: 8:35 PM","1/4/24, 7:26 PM","1/4/24, 8:35 PM","1/4/24, 7:26 
 UT-Incident--173052,Incidents,SR 130,Iron County,SR 130 at MP 14,"Crash
 SB SR 130 at MP 14 (8 MI from I-15 N Jct) Iron Co.
 Est. Clearance Time: 7:45 PM","1/4/24, 6:39 PM","1/4/24, 7:45 PM","1/4/24, 6:39 PM",View on map,37.838371,-113.047832
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
 EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
