@@ -1841,7 +1841,6 @@ EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:05 AM","1/5/24, 8:08 AM","1/5/24, 9:05 AM","1/5/24, 8:08 AM",View on map,40.718332,-111.893095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173071,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
@@ -1849,21 +1848,22 @@ Est. Clearance Time: 8:31 AM","1/5/24, 7:32 AM","1/5/24, 8:31 AM","1/5/24, 7:32 
 UT-Incident--173072,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 Ramp SB I-15 at MP 257 (Main St/Spanish Fork On-Ramp) Utah Co.
 Est. Clearance Time: 8:34 AM","1/5/24, 7:35 AM","1/5/24, 8:34 AM","1/5/24, 7:35 AM",View on map,40.122652,-111.658929
-UT-Incident--173074,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
-NB I-15 at MP 281 (Lehi) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 8:47 AM","1/5/24, 7:48 AM","1/5/24, 8:47 AM","1/5/24, 7:48 AM",View on map,40.401041,-111.849765
 UT-Incident--173075,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clrfld/On Ramp) Davis Co.
 Est. Clearance Time: 8:55 AM","1/5/24, 7:59 AM","1/5/24, 8:55 AM","1/5/24, 7:59 AM",View on map,41.114242,-112.014007
-UT-Incident--173080,Incidents,I-15,Davis County,I-15 at MP 314,"Stalled Vehicle
-SB I-15 at MP 314 (Main St, NSL) Davis Co.
-Right Shoulder
-Est. Clearance Time: 9:23 AM","1/5/24, 8:24 AM","1/5/24, 9:23 AM","1/5/24, 8:24 AM",View on map,40.846156,-111.91486
 UT-Incident--173081,Incidents,I-15,Utah County,I-15 at MP 266,"Stalled Vehicle
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:31 AM","1/5/24, 8:32 AM","1/5/24, 9:31 AM","1/5/24, 8:32 AM",View on map,40.238135,-111.689206
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173074,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+NB I-15 at MP 281 (Lehi) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 9:30 AM","1/5/24, 7:48 AM","1/5/24, 9:30 AM","1/5/24, 8:46 AM",View on map,40.401041,-111.849765
+UT-Incident--173080,Incidents,I-15,Davis County,I-15 at MP 314,"Stalled Vehicle
+SB I-15 at MP 314 (Main St, NSL) Davis Co.
+Right Shoulder
+Est. Clearance Time: 9:23 AM","1/5/24, 8:24 AM","1/5/24, 9:23 AM","1/5/24, 8:24 AM",View on map,40.846156,-111.91486
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
@@ -1876,11 +1876,11 @@ Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
 UT-Incident--173079,Incidents,SR 39,Weber County,SR 39 at MP 9,"Crash
 Both Directions SR 39 Closed
- at MP 9 (1 mile east of Ogden) Weber Co.","1/5/24, 8:19 AM","1/5/24, 9:18 AM","1/5/24, 8:19 AM",View on map,41.236707,-111.923062
+ at MP 9 (1 mile east of Ogden) Weber Co.","1/5/24, 8:19 AM","1/5/24, 9:45 AM","1/5/24, 8:47 AM",View on map,41.236707,-111.923062
 UT-Incident--173076,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 Right Shoulder
-Est. Clearance Time: 9:04 AM","1/5/24, 8:04 AM","1/5/24, 9:04 AM","1/5/24, 8:04 AM",View on map,40.329534,-111.619014
+Est. Clearance Time: 9:30 AM","1/5/24, 8:04 AM","1/5/24, 9:30 AM","1/5/24, 8:46 AM",View on map,40.329534,-111.619014
 UT-Incident--173083,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Left Lane Closed
