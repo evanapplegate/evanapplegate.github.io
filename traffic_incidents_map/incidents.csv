@@ -1778,14 +1778,14 @@ UT-Incident--173052,Incidents,SR 130,Iron County,SR 130 at MP 14,"Crash
 SB SR 130 at MP 14 (8 MI from I-15 N Jct) Iron Co.
 Est. Clearance Time: 7:45 PM","1/4/24, 6:39 PM","1/4/24, 7:45 PM","1/4/24, 6:39 PM",View on map,37.838371,-113.047832
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
-EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
-Est. Clearance Time: 8:15 PM","1/4/24, 7:12 PM","1/4/24, 8:15 PM","1/4/24, 7:12 PM",,38.804499,-111.526356
 UT-Incident--173056,Incidents,I-70,Sevier County,I-70 at MP 75,"Crash
 WB I-70 at MP 75 (14 mi W of Fremont Jct) Sevier Co.
 Cleared at 7:43 PM
 Est. Clearance Time: 8:45 PM","1/4/24, 7:44 PM","1/4/24, 8:45 PM","1/4/24, 7:44 PM",,38.868655,-111.552187
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
+EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
+Est. Clearance Time: 9:30 PM","1/4/24, 7:12 PM","1/4/24, 9:30 PM","1/4/24, 8:33 PM",,38.804499,-111.526356
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
