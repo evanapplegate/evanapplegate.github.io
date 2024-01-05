@@ -1782,24 +1782,24 @@ WB I-70 at MP 75 (14 mi W of Fremont Jct) Sevier Co.
 Cleared at 7:43 PM
 Est. Clearance Time: 8:45 PM","1/4/24, 7:44 PM","1/4/24, 8:45 PM","1/4/24, 7:44 PM",,38.868655,-111.552187
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173058,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 PM","1/4/24, 8:46 PM","1/4/24, 10:30 PM","1/4/24, 8:46 PM",,40.453646,-111.91388
-UT-Incident--173059,Incidents,I-215 E,Salt Lake County,I-215 E at MP 3,"Crash
-SB I-215 E at MP 3 (4500 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 10:30 PM","1/4/24, 8:50 PM","1/4/24, 10:30 PM","1/4/24, 8:50 PM",,40.683284,-111.797477
-UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
-EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
-Est. Clearance Time: 9:30 PM","1/4/24, 7:12 PM","1/4/24, 9:30 PM","1/4/24, 8:33 PM",,38.804499,-111.526356
-UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
-UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
 UT-Incident--173057,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 8:45 PM","1/4/24, 7:46 PM","1/4/24, 8:45 PM","1/4/24, 7:46 PM",,39.430681,-111.554437
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173059,Incidents,I-215 E,Salt Lake County,I-215 E at MP 3,"Crash
+SB I-215 E at MP 3 (4500 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:30 PM","1/4/24, 8:50 PM","1/4/24, 10:30 PM","1/4/24, 8:50 PM",View on map,40.683284,-111.797477
+UT-Incident--173053,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
+EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
+Est. Clearance Time: 9:45 PM","1/4/24, 7:12 PM","1/4/24, 9:45 PM","1/4/24, 9:13 PM",View on map,38.804499,-111.526356
+UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
+UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
