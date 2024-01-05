@@ -1931,7 +1931,6 @@ Ramp WB I-80 at SB I-215 West
 Left Shoulder
 Salt Lake Co.
 Est. Clearance Time: 2:07 PM","1/5/24, 1:11 PM","1/5/24, 2:07 PM","1/5/24, 1:18 PM",View on map,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173098,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Lane Closed
@@ -1941,13 +1940,18 @@ SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:10 PM","1/5/24, 3:08 PM","1/5/24, 4:10 PM","1/5/24, 3:08 PM",View on map,40.337197,-111.749203
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173101,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Stalled Vehicle
+Ramp I-215 S at MP 6 (6200 S OFF RAMP) Salt Lake Co.
+Est. Clearance Time: 5:15 PM","1/5/24, 3:31 PM","1/5/24, 5:15 PM","1/5/24, 3:31 PM",View on map,40.641354,-111.808234
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173102,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:35 PM","1/5/24, 3:32 PM","1/5/24, 4:35 PM","1/5/24, 3:32 PM",View on map,40.817596,-111.917999
-UT-Incident--173101,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Stalled Vehicle
-Ramp I-215 S at MP 6 (6200 S OFF RAMP) Salt Lake Co.
-Est. Clearance Time: 5:15 PM","1/5/24, 3:31 PM","1/5/24, 5:15 PM","1/5/24, 3:31 PM",View on map,40.641354,-111.808234
+UT-Incident--173103,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:45 PM","1/5/24, 3:42 PM","1/5/24, 5:45 PM","1/5/24, 3:42 PM",View on map,40.410606,-111.863979
 UT-Incident--173099,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W RAMP at I-215W NB 
 Salt Lake Co.
