@@ -1943,23 +1943,31 @@ UT-Incident--173101,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Stalled 
 Ramp I-215 S at MP 6 (6200 S OFF RAMP) Salt Lake Co.
 Est. Clearance Time: 5:15 PM","1/5/24, 3:31 PM","1/5/24, 5:15 PM","1/5/24, 3:31 PM",View on map,40.641354,-111.808234
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173102,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:35 PM","1/5/24, 3:32 PM","1/5/24, 4:35 PM","1/5/24, 3:32 PM",View on map,40.817596,-111.917999
-UT-Incident--173103,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
-SB I-15 at MP 282 (Lehi) Utah Co.
-2 Right Lanes Closed
-Est. Clearance Time: 5:45 PM","1/5/24, 3:42 PM","1/5/24, 5:45 PM","1/5/24, 3:42 PM",View on map,40.410606,-111.863979
 UT-Incident--173099,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W RAMP at I-215W NB 
 Salt Lake Co.
 EB to NB ramp closed
 Est. Clearance Time: 3:48 PM","1/5/24, 2:51 PM","1/5/24, 4:30 PM","1/5/24, 3:14 PM",View on map,40.763372,-111.950629
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173103,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:45 PM","1/5/24, 3:42 PM","1/5/24, 5:45 PM","1/5/24, 3:42 PM",View on map,40.410606,-111.863979
+UT-Incident--173105,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
+WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","1/5/24, 4:08 PM","1/5/24, 5:15 PM","1/5/24, 4:08 PM",View on map,40.715578,-111.784616
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
+UT-Incident--173104,Incidents,Wall Ave,Weber County,Wall Ave at 20th St,"Stalled Vehicle
+NB Wall Ave at 20th St Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:00 PM","1/5/24, 4:06 PM","1/5/24, 5:00 PM","1/5/24, 4:06 PM",View on map,41.230361,-111.97865
