@@ -1730,7 +1730,6 @@ Est. Clearance Time: 4:25 PM","1/4/24, 3:19 PM","1/4/24, 4:25 PM","1/4/24, 3:19 
 UT-Incident--173042,Incidents,Main St,Davis County,Main St at Nicholls Rd,"Crash
 SB Main St at Nicholls Rd Davis Co.
 Est. Clearance Time: 4:25 PM","1/4/24, 3:28 PM","1/4/24, 4:25 PM","1/4/24, 3:28 PM",,41.021898,-111.925173
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173043,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Shoulder
@@ -1739,6 +1738,11 @@ Est. Clearance Time: 4:55 PM","1/4/24, 3:49 PM","1/4/24, 4:55 PM","1/4/24, 3:49 
 UT-Incident--173040,Incidents,HWY 130,Iron County,HWY 130,"Crash
 WB Hwy 130 at I-15 Overpass (Cedar City) Iron Co.
 Est. Clearance Time: 4:15 PM","1/4/24, 3:08 PM","1/4/24, 4:15 PM","1/4/24, 3:08 PM",View on map,37.727647,-113.051677
+UT-Incident--173044,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+SB I-15 at MP 296 (8000 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:40 PM","1/4/24, 4:38 PM","1/4/24, 5:40 PM","1/4/24, 4:38 PM",View on map,40.592858,-111.902495
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173007,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248, Payson (Utah County)
 Right Lane Closed, Expect Delays","1/4/24, 1:25 AM","1/4/24, 4:30 PM","1/4/24, 2:31 PM",View on map,40.013373,-111.762226
@@ -1750,10 +1754,10 @@ UT-Incident--173038,Incidents,I-15,Millard County,I-15 at MP 139,"Crash
 NB I-15 at MP 139 (5 mi N of Cove Fort) Millard Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","1/4/24, 2:38 PM","1/4/24, 3:45 PM","1/4/24, 2:38 PM",View on map,38.671158,-112.588955
-UT-Incident--173044,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-SB I-15 at MP 296 (8000 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 5:40 PM","1/4/24, 4:38 PM","1/4/24, 5:40 PM","1/4/24, 4:38 PM",View on map,40.592858,-111.902495
+UT-Incident--173045,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+SB I-15 at MP 292 (11400 S Off Ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:25 PM","1/4/24, 5:20 PM","1/4/24, 6:25 PM","1/4/24, 5:20 PM",View on map,40.53585,-111.892927
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
