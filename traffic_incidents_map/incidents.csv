@@ -1840,7 +1840,6 @@ UT-Incident--173077,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:05 AM","1/5/24, 8:08 AM","1/5/24, 9:05 AM","1/5/24, 8:08 AM",View on map,40.718332,-111.893095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173071,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
@@ -1864,6 +1863,11 @@ UT-Incident--173080,Incidents,I-15,Davis County,I-15 at MP 314,"Stalled Vehicle
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:23 AM","1/5/24, 8:24 AM","1/5/24, 9:23 AM","1/5/24, 8:24 AM",View on map,40.846156,-111.91486
+UT-Incident--173076,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","1/5/24, 8:04 AM","1/5/24, 9:30 AM","1/5/24, 8:46 AM",View on map,40.329534,-111.619014
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
@@ -1877,10 +1881,6 @@ Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24,
 UT-Incident--173079,Incidents,SR 39,Weber County,SR 39 at MP 9,"Crash
 Both Directions SR 39 Closed
  at MP 9 (1 mile east of Ogden) Weber Co.","1/5/24, 8:19 AM","1/5/24, 9:45 AM","1/5/24, 8:47 AM",View on map,41.236707,-111.923062
-UT-Incident--173076,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
-EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:30 AM","1/5/24, 8:04 AM","1/5/24, 9:30 AM","1/5/24, 8:46 AM",View on map,40.329534,-111.619014
 UT-Incident--173083,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Left Lane Closed
