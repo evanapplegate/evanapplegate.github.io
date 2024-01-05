@@ -1882,6 +1882,10 @@ SB SR 193 at MP 2 (H St Clearfield) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 9:36 AM","1/5/24, 8:38 AM","1/5/24, 9:36 AM","1/5/24, 8:38 AM",,41.103476,-111.976912
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173083,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 9:32 AM","1/5/24, 8:33 AM","1/5/24, 9:32 AM","1/5/24, 8:33 AM",,40.348428,-111.591901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
@@ -1889,10 +1893,6 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
-UT-Incident--173083,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 9:32 AM","1/5/24, 8:33 AM","1/5/24, 9:32 AM","1/5/24, 8:33 AM",,40.348428,-111.591901
 UT-Incident--173085,Incidents,US 189,Wasatch County,US 189 at MP 23,"Crash
 Both Directions US 189 at MP 23 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 10:26 AM","1/5/24, 9:27 AM","1/5/24, 10:26 AM","1/5/24, 9:27 AM",,40.438577,-111.491821
