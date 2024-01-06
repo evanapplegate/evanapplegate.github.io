@@ -1971,7 +1971,6 @@ UT-Incident--173107,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","1/5/24, 4:32 PM","1/5/24, 5:35 PM","1/5/24, 4:32 PM",View on map,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173109,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S Off Ramp) Salt Lake Co.
 Right Shoulder
@@ -2005,6 +2004,7 @@ UT-Incident--173120,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","1/5/24, 5:51 PM","1/5/24, 7:00 PM","1/5/24, 5:51 PM",,39.747541,-111.834299
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173122,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
 NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 7:00 PM","1/5/24, 5:57 PM","1/5/24, 7:00 PM","1/5/24, 5:57 PM",,38.658157,-112.595083
@@ -2018,6 +2018,13 @@ Est. Clearance Time: 7:45 PM","1/5/24, 6:33 PM","1/5/24, 7:45 PM","1/5/24, 6:33 
 UT-Incident--173130,Incidents,I-15,Juab County,I-15 at MP 216,"Crash
 NB I-15 at MP 216 (7 mi S of Nephi) Juab Co.
 Est. Clearance Time: 7:45 PM","1/5/24, 6:33 PM","1/5/24, 7:45 PM","1/5/24, 6:33 PM",,39.606631,-111.908872
+UT-Incident--173132,Incidents,I-15,Millard County,I-15 at MP 157,"Crash
+SB I-15 at MP 157 (1 mi S of Meadow) Millard Co.
+Est. Clearance Time: 7:45 PM","1/5/24, 6:43 PM","1/5/24, 7:45 PM","1/5/24, 6:43 PM",,38.880154,-112.428234
+UT-Incident--173133,Incidents,I-15,Millard County,I-15 at MP 184,"Lane Closure
+NB I-15 at MP 184 (4 mi S of Scipio) Millard Co.
+Left Lane Closed
+Est. Clearance Time: 7:45 PM","1/5/24, 6:44 PM","1/5/24, 7:45 PM","1/5/24, 6:44 PM",,39.205209,-112.167473
 UT-Incident--173110,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron and Garfield Co.
 Approved Traction Devices Required For All Vehicle","1/5/24, 4:49 PM","1/9/24, 12:00 PM","1/5/24, 4:49 PM",,37.828866,-112.814606
@@ -2046,3 +2053,6 @@ Est. Clearance Time: 7:45 PM","1/5/24, 6:32 PM","1/5/24, 7:45 PM","1/5/24, 6:32 
 UT-Incident--173123,Incidents,US 40,Wasatch County,US 40 at MP 51,"Crash
  US 40 at MP 51 (10 mi W of Fruitland) Wasatch Co.
 Est. Clearance Time: 7:00 PM","1/5/24, 5:59 PM","1/5/24, 7:00 PM","1/5/24, 5:59 PM",,40.18528,-111.02393
+UT-Incident--173131,Incidents,US 6,Utah County,US 6 at MP 182,"Crash
+ US 6 at MP 182 (2 Mi W of Diamand Fork Rd) Utah Co.
+Est. Clearance Time: 7:45 PM","1/5/24, 6:42 PM","1/5/24, 7:45 PM","1/5/24, 6:42 PM",,40.040823,-111.541266
