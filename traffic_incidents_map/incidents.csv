@@ -1951,7 +1951,6 @@ EB I-80 TO NB I-215W RAMP at I-215W NB
 Salt Lake Co.
 EB to NB ramp closed
 Est. Clearance Time: 3:48 PM","1/5/24, 2:51 PM","1/5/24, 4:30 PM","1/5/24, 3:14 PM",View on map,40.763372,-111.950629
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173104,Incidents,Wall Ave,Weber County,Wall Ave at 20th St,"Stalled Vehicle
 NB Wall Ave at 20th St Weber Co.
 Right Lane Closed
@@ -1965,10 +1964,6 @@ UT-Incident--173108,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","1/5/24, 4:37 PM","1/5/24, 5:45 PM","1/5/24, 4:37 PM",View on map,40.736823,-111.90475
-UT-Incident--173109,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-NB I-15 at MP 295 (9000 S Off Ramp) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:38 PM","1/5/24, 4:39 PM","1/5/24, 5:38 PM","1/5/24, 4:39 PM",View on map,40.578741,-111.900284
 UT-Incident--173105,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
 Right Shoulder
@@ -1977,12 +1972,34 @@ UT-Incident--173107,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","1/5/24, 4:32 PM","1/5/24, 5:35 PM","1/5/24, 4:32 PM",View on map,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173109,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S Off Ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:38 PM","1/5/24, 4:39 PM","1/5/24, 5:38 PM","1/5/24, 4:39 PM",View on map,40.578741,-111.900284
+UT-Incident--173112,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (Lehi) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:15 PM","1/5/24, 5:14 PM","1/5/24, 6:15 PM","1/5/24, 5:14 PM",View on map,40.410606,-111.863979
+UT-Incident--173113,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
+EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
+Est. Clearance Time: 6:20 PM","1/5/24, 5:17 PM","1/5/24, 6:20 PM","1/5/24, 5:17 PM",View on map,40.751769,-111.470819
+UT-Incident--173110,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 MP 4-50 Iron and Garfield Co.
+Approved Traction Devices Required For All Vehicle","1/5/24, 4:49 PM","1/9/24, 12:00 PM","1/5/24, 4:49 PM",View on map,37.828866,-112.814606
+UT-Incident--173111,Incidents,SR 143,Iron County,SR 143 at MP 13,"Crashes
+Both Directions SR 143 Closed Between MP 13-14 Iron Co.
+Expect Delays in the Area
+Est. Clearance Time: 7:00 PM","1/5/24, 5:03 PM","1/5/24, 7:00 PM","1/5/24, 5:03 PM",View on map,37.720234,-112.844724
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
+UT-Incident--173115,Incidents,SR 266,Salt Lake County,SR 266 at MP 8,"Crash
+NB I-215 E at MP 5 (4500 S OFF RAMP) Salt Lake Co.
+Est. Clearance Time: 7:30 PM","1/5/24, 5:28 PM","1/5/24, 7:30 PM","1/5/24, 5:28 PM",View on map,40.674818,-111.803876
 UT-Incident--173106,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Right Shoulder
