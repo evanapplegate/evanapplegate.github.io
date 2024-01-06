@@ -2067,7 +2067,6 @@ Est. Clearance Time: 11:15 PM","1/5/24, 10:11 PM","1/5/24, 11:15 PM","1/5/24, 10
 UT-Incident--173142,Incidents,I-15,Weber County,I-15 at MP 345,"Crash
 SB I-15 Onramp at MP 345 (12th St) Weber Co.
 Est. Clearance Time: 11:30 PM","1/5/24, 10:25 PM","1/5/24, 11:30 PM","1/5/24, 10:25 PM",View on map,41.244836,-112.016202
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173143,Incidents,MAIN ST,Davis County,MAIN ST at HILL FIELD RD,"Crash
 NB MAIN ST at HILL FIELD RD Davis Co.
 Est. Clearance Time: 1/6/2024 12:04 AM","1/5/24, 11:04 PM","1/6/24, 12:04 AM","1/5/24, 11:21 PM",,41.0727,-111.978334
@@ -2075,6 +2074,7 @@ UT-Incident--173127,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
 WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:30 PM","1/5/24, 6:30 PM","1/5/24, 11:30 PM","1/5/24, 11:03 PM",,40.382751,-111.961824
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173145,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Stalled Vehicle
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
