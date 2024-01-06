@@ -2096,7 +2096,6 @@ UT-Incident--173151,Incidents,I-15,Utah County,I-15 at MP 265,"Crashes
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:22 AM","1/6/24, 7:24 AM","1/6/24, 8:22 AM","1/6/24, 7:27 AM",View on map,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173148,Incidents,I-15,Weber County,I-15 at MP 345,"Crash
 SB I-15 at MP 345 (12th St) Weber Co.
 Right Shoulder
@@ -2105,6 +2104,7 @@ Est. Clearance Time: 7:52 AM","1/6/24, 6:52 AM","1/6/24, 7:52 AM","1/6/24, 6:52 
 UT-Incident--173150,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Est. Clearance Time: 9:13 AM","1/6/24, 7:15 AM","1/6/24, 9:13 AM","1/6/24, 8:37 AM",View on map,40.226604,-111.677837
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173152,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 WB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Right Shoulder
