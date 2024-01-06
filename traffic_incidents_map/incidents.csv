@@ -1993,7 +1993,6 @@ UT-Incident--173106,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","1/5/24, 4:20 PM","1/5/24, 5:15 PM","1/5/24, 4:20 PM",View on map,40.348428,-111.591901
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173118,Incidents,I-15,Millard County,I-15 at MP 182,"Crash
 SB I-15 at MP 182 (6 mi S of Scipio) Millard Co.
 Est. Clearance Time: 7:00 PM","1/5/24, 5:48 PM","1/5/24, 7:00 PM","1/5/24, 5:48 PM",,39.18829,-112.197792
@@ -2005,26 +2004,33 @@ NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","1/5/24, 5:51 PM","1/5/24, 7:00 PM","1/5/24, 5:51 PM",,39.747541,-111.834299
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173130,Incidents,I-15,Juab County,I-15 at MP 216,"Crash
+NB I-15 at MP 216 (7 mi S of Nephi) Juab Co.
+Est. Clearance Time: 7:45 PM","1/5/24, 6:33 PM","1/5/24, 7:45 PM","1/5/24, 6:33 PM",,39.606631,-111.908872
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173122,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
 NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 7:00 PM","1/5/24, 5:57 PM","1/5/24, 7:00 PM","1/5/24, 5:57 PM",,38.658157,-112.595083
 UT-Incident--173125,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
-Est. Clearance Time: 7:15 PM","1/5/24, 6:02 PM","1/5/24, 7:15 PM","1/5/24, 6:02 PM",,39.215996,-112.156841
+Est. Clearance Time: 8:00 PM","1/5/24, 6:02 PM","1/5/24, 8:00 PM","1/5/24, 7:20 PM",,39.215996,-112.156841
 UT-Incident--173129,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 SB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","1/5/24, 6:33 PM","1/5/24, 7:45 PM","1/5/24, 6:33 PM",,38.631515,-112.610353
-UT-Incident--173130,Incidents,I-15,Juab County,I-15 at MP 216,"Crash
-NB I-15 at MP 216 (7 mi S of Nephi) Juab Co.
-Est. Clearance Time: 7:45 PM","1/5/24, 6:33 PM","1/5/24, 7:45 PM","1/5/24, 6:33 PM",,39.606631,-111.908872
 UT-Incident--173132,Incidents,I-15,Millard County,I-15 at MP 157,"Crash
 SB I-15 at MP 157 (1 mi S of Meadow) Millard Co.
 Est. Clearance Time: 7:45 PM","1/5/24, 6:43 PM","1/5/24, 7:45 PM","1/5/24, 6:43 PM",,38.880154,-112.428234
 UT-Incident--173133,Incidents,I-15,Millard County,I-15 at MP 184,"Lane Closure
 NB I-15 at MP 184 (4 mi S of Scipio) Millard Co.
-Left Lane Closed
-Est. Clearance Time: 7:45 PM","1/5/24, 6:44 PM","1/5/24, 7:45 PM","1/5/24, 6:44 PM",,39.205209,-112.167473
+Cleared at 7:22 PM
+Est. Clearance Time: 7:45 PM","1/5/24, 6:44 PM","1/5/24, 7:45 PM","1/5/24, 7:22 PM",,39.205209,-112.167473
+UT-Incident--173134,Incidents,I-15,Utah County,I-15 at MP 263,"Vehicle on fire
+NB I-15 at MP 263 (University Ave / Provo) Utah Co.
+Est. Clearance Time: 9:00 PM","1/5/24, 7:19 PM","1/5/24, 9:00 PM","1/5/24, 7:19 PM",,40.203376,-111.655441
+UT-Incident--173135,Incidents,I-15,Iron County,I-15 at MP 100,"SB I-15 Closed
+ at MP 100 (8 mi S of Beaver) Iron Co.
+Use Alt Route","1/5/24, 7:31 PM","1/5/24, 8:30 PM","1/5/24, 7:31 PM",,38.134126,-112.624399
 UT-Incident--173110,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron and Garfield Co.
 Approved Traction Devices Required For All Vehicle","1/5/24, 4:49 PM","1/9/24, 12:00 PM","1/5/24, 4:49 PM",,37.828866,-112.814606
@@ -2042,7 +2048,7 @@ SR 73 at MP 7 (8 MI SE of Rush Valley) Tooele Co.
 Est. Clearance Time: 7:00 PM","1/5/24, 6:00 PM","1/5/24, 7:00 PM","1/5/24, 6:00 PM",,40.32123,-112.28665
 UT-Incident--173126,Incidents,SR 73,Tooele County,SR 73 at MP 9,"Crash
 SR 73 at MP 9 (Mercur Turnoff) Tooele Co.
-Est. Clearance Time: 7:15 PM","1/5/24, 6:09 PM","1/5/24, 7:15 PM","1/5/24, 6:09 PM",,40.294129,-112.273222
+Est. Clearance Time: 7:15 PM","1/5/24, 6:09 PM","1/5/24, 8:00 PM","1/5/24, 7:21 PM",,40.294129,-112.273222
 UT-Incident--173127,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
 WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
 3 Right Lanes Closed
