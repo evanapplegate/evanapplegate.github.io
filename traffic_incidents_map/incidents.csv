@@ -2068,10 +2068,18 @@ UT-Incident--173142,Incidents,I-15,Weber County,I-15 at MP 345,"Crash
 SB I-15 Onramp at MP 345 (12th St) Weber Co.
 Est. Clearance Time: 11:30 PM","1/5/24, 10:25 PM","1/5/24, 11:30 PM","1/5/24, 10:25 PM",View on map,41.244836,-112.016202
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173143,Incidents,MAIN ST,Davis County,MAIN ST at HILL FIELD RD,"Crash
 NB MAIN ST at HILL FIELD RD Davis Co.
 Est. Clearance Time: 1/6/2024 12:04 AM","1/5/24, 11:04 PM","1/6/24, 12:04 AM","1/5/24, 11:21 PM",,41.0727,-111.978334
+UT-Incident--173127,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
+WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:30 PM","1/5/24, 6:30 PM","1/5/24, 11:30 PM","1/5/24, 11:03 PM",,40.382751,-111.961824
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173145,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Stalled Vehicle
+EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 1/6/2024 12:45 AM","1/5/24, 11:46 PM","1/6/24, 12:45 AM","1/5/24, 11:46 PM",,40.747119,-111.724705
 UT-Incident--173110,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron and Garfield Co.
 Approved Traction Devices Required For All Vehicle","1/5/24, 4:49 PM","1/9/24, 12:00 PM","1/5/24, 4:49 PM",,37.828866,-112.814606
@@ -2081,10 +2089,6 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
-UT-Incident--173127,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
-WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
-Right Shoulder
-Est. Clearance Time: 11:30 PM","1/5/24, 6:30 PM","1/5/24, 11:30 PM","1/5/24, 11:03 PM",,40.382751,-111.961824
 UT-Incident--173144,Incidents,US 89,Garfield County,US 89 at MP 109,"Crash
 Both Directions US 89 at MP 109 (7 mi S of Hatch) Garfield Co.
 Est. Clearance Time: 1/6/2024 1:00 AM","1/5/24, 11:16 PM","1/6/24, 1:00 AM","1/5/24, 11:16 PM",,37.560273,-112.486877
