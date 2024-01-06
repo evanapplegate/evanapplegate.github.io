@@ -2111,7 +2111,6 @@ UT-Incident--173153,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:25 AM","1/6/24, 9:25 AM","1/6/24, 10:25 AM","1/6/24, 9:25 AM",View on map,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173154,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Debris
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Shoulder
@@ -2121,11 +2120,10 @@ UT-Incident--173155,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 SB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:36 PM","1/6/24, 11:37 AM","1/6/24, 12:36 PM","1/6/24, 11:37 AM",View on map,40.693589,-111.902881
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173149,Incidents,I-84,Morgan County,I-84 at MP 100,"Crash
-I-84 Closed
-EB Closed at MP 96
-WB is closed at MP 103
-Morgan County","1/6/24, 7:09 AM","1/6/24, 11:30 AM","1/6/24, 7:50 AM",View on map,41.07759,-111.723102
+EB I-84 at MP 100 (Morgan) Morgan Co.
+Est. Clearance Time: 12:30 PM","1/6/24, 7:09 AM","1/6/24, 12:30 PM","1/6/24, 11:59 AM",View on map,41.07759,-111.723102
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
