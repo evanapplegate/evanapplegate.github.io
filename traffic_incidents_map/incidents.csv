@@ -2089,10 +2089,10 @@ UT-Incident--173147,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W to WB I-80 MP 22, Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:20 AM","1/6/24, 5:22 AM","1/6/24, 6:20 AM","1/6/24, 5:22 AM",View on map,40.761693,-111.950845
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173110,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron and Garfield Co.
 Approved Traction Devices Required For All Vehicle","1/5/24, 4:49 PM","1/9/24, 12:00 PM","1/5/24, 4:49 PM",View on map,37.828866,-112.814606
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173148,Incidents,I-15,Weber County,I-15 at MP 345,"Crash
 SB I-15 at MP 345 (12th St) Weber Co.
@@ -2102,6 +2102,10 @@ UT-Incident--173150,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:13 AM","1/6/24, 7:15 AM","1/6/24, 8:13 AM","1/6/24, 7:15 AM",View on map,40.226604,-111.677837
+UT-Incident--173151,Incidents,I-15,Utah County,I-15 at MP 265,"Crashes
+SB I-15 at MP 265 (Center St / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:22 AM","1/6/24, 7:24 AM","1/6/24, 8:22 AM","1/6/24, 7:27 AM",View on map,40.226604,-111.677837
 UT-Incident--173149,Incidents,I-84,Morgan County,I-84 at MP 100,"Crash
 EB I-84 at MP 100 (Morgan) Morgan Co.
 Est. Clearance Time: 8:08 AM","1/6/24, 7:09 AM","1/6/24, 8:08 AM","1/6/24, 7:18 AM",View on map,41.07759,-111.723102
