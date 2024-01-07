@@ -2398,7 +2398,6 @@ UT-Incident--173235,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (1500 N, SLC) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:00 AM","1/7/24, 8:53 AM","1/7/24, 10:00 AM","1/7/24, 8:53 AM",View on map,40.802833,-111.949107
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173238,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
@@ -2411,16 +2410,17 @@ SB US 89 at 2600 S (Bountiful) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:45 AM","1/7/24, 9:39 AM","1/7/24, 10:45 AM","1/7/24, 9:39 AM",,40.862068,-111.895893
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173251,Incidents,BATES CANYON RD,Tooele County,BATES CANYON RD at HWY 36,"Crash
 EB Bates Canyon Rd at SR-36 (Erda) Tooele Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 10:00 AM","1/7/24, 11:00 AM","1/7/24, 10:00 AM",,40.623785,-112.293091
 UT-Incident--173237,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 10:30 AM","1/7/24, 9:03 AM","1/7/24, 10:30 AM","1/7/24, 9:03 AM",,38.617668,-112.609775
+Est. Clearance Time: 10:45 AM","1/7/24, 9:03 AM","1/7/24, 10:45 AM","1/7/24, 10:28 AM",,38.617668,-112.609775
 UT-Incident--173245,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
-2 Left Lanes Closed
-Est. Clearance Time: 10:40 AM","1/7/24, 9:42 AM","1/7/24, 10:40 AM","1/7/24, 9:42 AM",,40.161636,-111.646866
+Left Lane Closed
+Est. Clearance Time: 11:10 AM","1/7/24, 9:42 AM","1/7/24, 11:10 AM","1/7/24, 10:27 AM",,40.161636,-111.646866
 UT-Incident--173248,Incidents,I-15,Millard County,I-15 at MP 140,"Crash
 SB I-15 at MP 140 (6 mi N of Cove Fort) Millard Co.
 Right Shoulder
@@ -2429,9 +2429,17 @@ UT-Incident--173250,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:00 AM","1/7/24, 9:57 AM","1/7/24, 11:00 AM","1/7/24, 9:57 AM",,40.337197,-111.749203
+UT-Incident--173256,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
+SB I-15 at MP 261 (1400 N Springville) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:30 AM","1/7/24, 10:24 AM","1/7/24, 11:30 AM","1/7/24, 10:24 AM",,40.176162,-111.646775
+UT-Incident--173257,Incidents,I-15 NB X300 OFF 5300 S RAMP,Salt Lake County,I-15 NB X300 OFF 5300 S RAMP at 5300 S,"Crash
+NB I-15 5300 S Offramp (Murray) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 11:30 AM","1/7/24, 10:27 AM","1/7/24, 11:30 AM","1/7/24, 10:27 AM",,40.648856,-111.901912
 UT-Incident--173239,Incidents,I-70,Grand County,I-70 at MP 227,"Crash
 WB I-70 at MP 227 (4 mi W of UT/CO border) Grand Co.
-Est. Clearance Time: 10:30 AM","1/7/24, 9:06 AM","1/7/24, 10:30 AM","1/7/24, 9:06 AM",,39.170698,-109.131626
+Est. Clearance Time: 11:15 AM","1/7/24, 9:06 AM","1/7/24, 11:15 AM","1/7/24, 10:28 AM",,39.170698,-109.131626
 UT-Incident--173253,Incidents,I-70,Grand County,I-70 at MP 182,"Crash
 WB I-70 at MP 182 (Crescent Junction) Grand Co.
 Est. Clearance Time: 11:15 AM","1/7/24, 10:11 AM","1/7/24, 11:15 AM","1/7/24, 10:11 AM",,38.942181,-109.819725
@@ -2462,3 +2470,6 @@ UT-Incident--173254,Incidents,US 89 SB X396 OFF SHEPHARD RAMP,Davis County,US 89
 SB US 89 at Main St (Farmington) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 11:15 AM","1/7/24, 10:14 AM","1/7/24, 11:15 AM","1/7/24, 10:14 AM",,41.010147,-111.912551
+UT-Incident--173255,Incidents,US 91,Box Elder County,US 91 at MP 7,"Crash
+US 91 at MP 7 (3 MI from Sardine Summit) Box Elder Co.
+Est. Clearance Time: 11:30 AM","1/7/24, 10:21 AM","1/7/24, 11:30 AM","1/7/24, 10:21 AM",,41.512481,-111.943102
