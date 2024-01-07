@@ -2181,7 +2181,6 @@ UT-Incident--173178,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1/7/2024 12:43 AM","1/6/24, 11:43 PM","1/7/24, 12:43 AM","1/6/24, 11:43 PM",View on map,40.420056,-111.878496
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173179,Incidents,SR 193,Davis County,SR 193 at MP 0,"Crash
 WB SR 193 at MP 0 (SR-108/2000 W Jct SYR) Davis Co.
 Est. Clearance Time: 1/7/2024 12:45 AM","1/6/24, 11:52 PM","1/7/24, 12:45 AM","1/6/24, 11:52 PM",,41.103557,-112.015337
@@ -2189,14 +2188,15 @@ Est. Clearance Time: 1/7/2024 12:45 AM","1/6/24, 11:52 PM","1/7/24, 12:45 AM","1
 UT-Incident--173172,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Est. Clearance Time: 11:37 PM","1/6/24, 10:38 PM","1/6/24, 11:37 PM","1/6/24, 11:06 PM",,40.442142,-111.903011
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173181,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 NB I-15 at MP 318 (500 W, Bntfl) Davis Co.
-2 Left Lanes Closed
-Est. Clearance Time: 1:09 AM","1/7/24, 12:09 AM","1/7/24, 1:09 AM","1/7/24, 12:09 AM",,40.904214,-111.891218
+Cleared at 12:20 AM
+Est. Clearance Time: 1:09 AM","1/7/24, 12:09 AM","1/7/24, 1:09 AM","1/7/24, 12:20 AM",,40.904214,-111.891218
 UT-Incident--173175,Incidents,I-84,Box Elder County,I-84 at MP 8,"Crash
 EB I-84 at MP 8 (Snowville) Box Elder Co.
 Left Shoulder
-Est. Clearance Time: 1/7/2024 12:10 AM","1/6/24, 11:11 PM","1/7/24, 12:10 AM","1/6/24, 11:22 PM",,41.95952,-112.688832
+Est. Clearance Time: 2:00 AM","1/6/24, 11:11 PM","1/7/24, 2:00 AM","1/7/24, 12:23 AM",,41.95952,-112.688832
 UT-Incident--173176,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 EB I-84 at MP 82 (South Weber) Weber Co.
 Right Shoulder
@@ -2207,6 +2207,9 @@ Est. Clearance Time: 1:00 AM","1/7/24, 12:02 AM","1/7/24, 1:00 AM","1/7/24, 12:0
 UT-Incident--173177,Incidents,SR 108,Weber County,SR 108 at MP 12,"Crash
 NB SR 108 at MP 12 (SR-108/SR-126 Jct) Weber Co.
 Est. Clearance Time: 1/7/2024 12:30 AM","1/6/24, 11:34 PM","1/7/24, 12:30 AM","1/6/24, 11:34 PM",,41.197823,-112.039871
+UT-Incident--173183,Incidents,SR 155,Emery County,SR 155 at MP 7,"Crash
+SR 155 at MP 7 (3 MI of SR-10 Jct) Emery Co.
+Est. Clearance Time: 1:45 AM","1/7/24, 12:20 AM","1/7/24, 1:45 AM","1/7/24, 12:20 AM",,39.382358,-110.852452
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
@@ -2216,3 +2219,7 @@ Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24,
 UT-Incident--173167,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/6/24, 8:44 PM","1/9/24, 11:59 PM","1/6/24, 8:44 PM",,40.624634,-111.501637
+UT-Incident--173184,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
+EB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 1:24 AM","1/7/24, 12:24 AM","1/7/24, 1:24 AM","1/7/24, 12:24 AM",,40.696221,-111.4715
