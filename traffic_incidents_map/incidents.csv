@@ -2542,11 +2542,6 @@ UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 2:30 PM","1/7/24, 10:02 AM","1/7/24, 2:30 PM","1/7/24, 1:43 PM",View on map,40.818343,-112.882529
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173292,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
-WB SR-201 at 7200 W (Magna) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","1/7/24, 3:08 PM","1/7/24, 5:00 PM","1/7/24, 3:08 PM",,40.718748,-112.058314
 UT-Incident--173282,Incidents,I-15,Millard County,I-15 at MP 168,"Crash
 SB I-15 at MP 168 (1 mi N of Fillmore) Millard Co.
 Est. Clearance Time: 2:45 PM","1/7/24, 1:44 PM","1/7/24, 2:45 PM","1/7/24, 1:44 PM",,39.008178,-112.31101
@@ -2560,13 +2555,29 @@ UT-Incident--173288,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","1/7/24, 2:49 PM","1/7/24, 6:00 PM","1/7/24, 2:49 PM",,39.747541,-111.834299
-UT-Incident--173293,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
-NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
-Est. Clearance Time: 4:30 PM","1/7/24, 3:23 PM","1/7/24, 4:30 PM","1/7/24, 3:23 PM",,39.747541,-111.834299
 UT-Incident--173290,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S WB X12 TO I-15 SB COL RAMP at I-15 SB,"Crash
 WB I-215 S To I-15 COL RAMP (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 4:00 PM","1/7/24, 3:03 PM","1/7/24, 4:00 PM","1/7/24, 3:03 PM",,40.637414,-111.905888
+UT-Incident--173289,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 5400 S,"Stalled Vehicle
+SB Mountain View Corridor Hwy at 5400 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:50 PM","1/7/24, 2:52 PM","1/7/24, 3:50 PM","1/7/24, 2:52 PM",,40.653134,-112.045072
+UT-Incident--173287,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Crash
+EB SR 201 Closed
+ at MP 3 (SR-202) Salt Lake Co.","1/7/24, 2:45 PM","1/7/24, 3:43 PM","1/7/24, 2:45 PM",,40.727646,-112.167011
+UT-Incident--173286,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
+SB SR 36 at MP 56 (1180 N) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 3:33 PM","1/7/24, 2:35 PM","1/7/24, 3:33 PM","1/7/24, 2:35 PM",,40.554334,-112.297621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173292,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
+WB SR-201 at 7200 W (Magna) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","1/7/24, 3:08 PM","1/7/24, 5:00 PM","1/7/24, 3:08 PM",,40.718748,-112.058314
+UT-Incident--173293,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
+NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
+Est. Clearance Time: 4:30 PM","1/7/24, 3:23 PM","1/7/24, 4:30 PM","1/7/24, 3:23 PM",,39.747541,-111.834299
 UT-Incident--173281,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
 EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 2:30 PM","1/7/24, 1:28 PM","1/7/24, 2:30 PM","1/7/24, 1:28 PM",,38.768962,-111.472016
@@ -2574,10 +2585,6 @@ UT-Incident--173284,Incidents,I-70,Sevier County,I-70 at MP 70,"Crash
 WB I-70 at MP 70 (30 mi E of Richfield) Sevier Co.
 WB Closed at MP 73, Plan Travel
 Est. Clearance Time: 6:00 PM","1/7/24, 2:12 PM","1/7/24, 6:00 PM","1/7/24, 3:22 PM",,38.898305,-111.630609
-UT-Incident--173289,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 5400 S,"Stalled Vehicle
-SB Mountain View Corridor Hwy at 5400 S Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:50 PM","1/7/24, 2:52 PM","1/7/24, 3:50 PM","1/7/24, 2:52 PM",,40.653134,-112.045072
 UT-Incident--173291,Incidents,Redwood Rd,Utah County,Redwood Rd at 2100 N,"Road weather
 EB Redwood Rd at 2100 N Utah Co.
 NB/SB SR-145 closed between Redwood Rd and Pioneer Corssing ","1/7/24, 3:07 PM","1/7/24, 4:35 PM","1/7/24, 3:07 PM",,40.413214,-111.923173
@@ -2587,13 +2594,6 @@ Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM"
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
-UT-Incident--173287,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Crash
-EB SR 201 Closed
- at MP 3 (SR-202) Salt Lake Co.","1/7/24, 2:45 PM","1/7/24, 3:43 PM","1/7/24, 2:45 PM",,40.727646,-112.167011
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
-UT-Incident--173286,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
-SB SR 36 at MP 56 (1180 N) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 3:33 PM","1/7/24, 2:35 PM","1/7/24, 3:33 PM","1/7/24, 2:35 PM",,40.554334,-112.297621
