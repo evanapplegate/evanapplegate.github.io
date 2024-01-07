@@ -2152,7 +2152,6 @@ Est. Clearance Time: 5:45 PM","1/6/24, 4:51 PM","1/6/24, 5:45 PM","1/6/24, 4:51 
 UT-Incident--173164,Incidents,US 40,Uintah County,US 40 at MP 130,"Crash
 US 40 at MP 130 (12 Mi W of Vernal) Uintah Co.
 Est. Clearance Time: 8:30 PM","1/6/24, 5:21 PM","1/6/24, 8:30 PM","1/6/24, 7:30 PM",View on map,40.315076,-109.699719
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173166,Incidents,I-80,Salt Lake County,I-80 at MP 130,"Debris
 EB I-80 at MP 130 (Quarry) Salt Lake Co.
 Est. Clearance Time: 9:00 PM","1/6/24, 8:01 PM","1/6/24, 9:00 PM","1/6/24, 8:01 PM",View on map,40.7252,-111.771166
@@ -2160,6 +2159,7 @@ UT-Incident--173165,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
 WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","1/6/24, 7:28 PM","1/6/24, 8:30 PM","1/6/24, 7:32 PM",View on map,40.319492,-111.649399
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
