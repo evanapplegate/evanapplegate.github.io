@@ -2373,7 +2373,6 @@ UT-Incident--173241,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2300 S, South SL) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 10:30 AM","1/7/24, 9:19 AM","1/7/24, 10:30 AM","1/7/24, 9:19 AM",View on map,40.719845,-111.904711
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173222,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 8:02 AM","1/7/24, 11:00 AM","1/7/24, 8:02 AM",View on map,39.747541,-111.834299
@@ -2400,6 +2399,18 @@ NB I-215 W at MP 25 (1500 N, SLC) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:00 AM","1/7/24, 8:53 AM","1/7/24, 10:00 AM","1/7/24, 8:53 AM",View on map,40.802833,-111.949107
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173238,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+SB I-215 W at MP 22 (N Temple) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:10 AM","1/7/24, 9:06 AM","1/7/24, 10:10 AM","1/7/24, 9:06 AM",,40.760605,-111.951068
+UT-Incident--173240,Incidents,I-84,Morgan County,I-84 at MP 102,"Crash
+WB I-84 at MP 102 (Morgan) Morgan Co.
+Est. Clearance Time: 10:30 AM","1/7/24, 9:07 AM","1/7/24, 10:30 AM","1/7/24, 9:07 AM",,41.057064,-111.696412
+UT-Incident--173243,Incidents,US 89,Davis County,US 89 at 1100 N/2600 S,"Crash
+SB US 89 at 2600 S (Bountiful) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:45 AM","1/7/24, 9:39 AM","1/7/24, 10:45 AM","1/7/24, 9:39 AM",,40.862068,-111.895893
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173251,Incidents,BATES CANYON RD,Tooele County,BATES CANYON RD at HWY 36,"Crash
 EB Bates Canyon Rd at SR-36 (Erda) Tooele Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 10:00 AM","1/7/24, 11:00 AM","1/7/24, 10:00 AM",,40.623785,-112.293091
@@ -2418,24 +2429,23 @@ UT-Incident--173250,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:00 AM","1/7/24, 9:57 AM","1/7/24, 11:00 AM","1/7/24, 9:57 AM",,40.337197,-111.749203
-UT-Incident--173238,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
-SB I-215 W at MP 22 (N Temple) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:10 AM","1/7/24, 9:06 AM","1/7/24, 10:10 AM","1/7/24, 9:06 AM",,40.760605,-111.951068
 UT-Incident--173239,Incidents,I-70,Grand County,I-70 at MP 227,"Crash
 WB I-70 at MP 227 (4 mi W of UT/CO border) Grand Co.
 Est. Clearance Time: 10:30 AM","1/7/24, 9:06 AM","1/7/24, 10:30 AM","1/7/24, 9:06 AM",,39.170698,-109.131626
+UT-Incident--173253,Incidents,I-70,Grand County,I-70 at MP 182,"Crash
+WB I-70 at MP 182 (Crescent Junction) Grand Co.
+Est. Clearance Time: 11:15 AM","1/7/24, 10:11 AM","1/7/24, 11:15 AM","1/7/24, 10:11 AM",,38.942181,-109.819725
 UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
 WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 11:15 AM","1/7/24, 9:41 AM","1/7/24, 11:15 AM","1/7/24, 9:41 AM",,40.775905,-112.80493
+UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 32,"Crash
+WB I-80 at MP 32 (9 mi W of Knolls) Tooele Co.
+Est. Clearance Time: 11:15 AM","1/7/24, 10:02 AM","1/7/24, 11:15 AM","1/7/24, 10:02 AM",,40.730303,-113.435793
 UT-Incident--173246,Incidents,I-80 WB X99 OFF SR 36 RAMP,Tooele County,I-80 WB X99 OFF SR 36 RAMP at HWY 36,"Crash
 WB I-80 Ramp to SR-36 (Lakepoint) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 10:45 AM","1/7/24, 9:43 AM","1/7/24, 10:45 AM","1/7/24, 9:43 AM",,40.699257,-112.259711
-UT-Incident--173240,Incidents,I-84,Morgan County,I-84 at MP 102,"Crash
-WB I-84 at MP 102 (Morgan) Morgan Co.
-Est. Clearance Time: 10:30 AM","1/7/24, 9:07 AM","1/7/24, 10:30 AM","1/7/24, 9:07 AM",,41.057064,-111.696412
 UT-Incident--173242,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 WB I-84 at MP 82 (South Weber) Weber Co.
 Est. Clearance Time: 10:45 AM","1/7/24, 9:37 AM","1/7/24, 10:45 AM","1/7/24, 9:37 AM",,41.171852,-112.006901
@@ -2448,7 +2458,7 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
-UT-Incident--173243,Incidents,US 89,Davis County,US 89 at 1100 N/2600 S,"Crash
-SB US 89 at 2600 S (Bountiful) Davis Co.
-Right Shoulder
-Est. Clearance Time: 10:45 AM","1/7/24, 9:39 AM","1/7/24, 10:45 AM","1/7/24, 9:39 AM",,40.862068,-111.895893
+UT-Incident--173254,Incidents,US 89 SB X396 OFF SHEPHARD RAMP,Davis County,US 89 SB X396 OFF SHEPHARD RAMP at SHEPARD LN,"Crash
+SB US 89 at Main St (Farmington) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 11:15 AM","1/7/24, 10:14 AM","1/7/24, 11:15 AM","1/7/24, 10:14 AM",,41.010147,-111.912551
