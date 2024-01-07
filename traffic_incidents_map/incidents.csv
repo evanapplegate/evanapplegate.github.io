@@ -2470,7 +2470,6 @@ UT-Incident--173272,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:00 PM","1/7/24, 11:58 AM","1/7/24, 1:00 PM","1/7/24, 11:58 AM",,40.742835,-112.186308
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173259,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Left Shoulder
@@ -2490,6 +2489,15 @@ UT-Incident--173264,Incidents,CENTER ST,Iron County,CENTER ST 101,"Crash
 EB Center St at Main St (Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","1/7/24, 11:27 AM","1/7/24, 12:30 PM","1/7/24, 11:27 AM",,37.677358,-113.061556
+UT-Incident--173266,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+NB I-15 at MP 281 (1200 N, Lehi) Utah Co.
+3 Left Lanes Closed
+Est. Clearance Time: 12:45 PM","1/7/24, 11:35 AM","1/7/24, 12:45 PM","1/7/24, 11:35 AM",,40.401041,-111.849765
+UT-Incident--173265,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (300 E, Midvale) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 12:30 PM","1/7/24, 11:30 AM","1/7/24, 12:30 PM","1/7/24, 11:30 AM",,40.631192,-111.882787
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
 SR-21 at MP 106 Beaver Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",,38.27393,-112.670559
@@ -2497,21 +2505,20 @@ UT-Incident--173274,Incidents,Hwy 224,Summit County,Hwy 224 6241,"Crash
 SB Hwy 224 Summit Co.
 Right Shoulder
 Est. Clearance Time: 1:26 PM","1/7/24, 12:27 PM","1/7/24, 1:26 PM","1/7/24, 12:27 PM",,40.721881,-111.54473
-UT-Incident--173266,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
-NB I-15 at MP 281 (1200 N, Lehi) Utah Co.
-3 Left Lanes Closed
-Est. Clearance Time: 12:45 PM","1/7/24, 11:35 AM","1/7/24, 12:45 PM","1/7/24, 11:35 AM",,40.401041,-111.849765
 UT-Incident--173267,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 2 Left Lanes Closed
-Est. Clearance Time: 12:40 PM","1/7/24, 11:41 AM","1/7/24, 12:40 PM","1/7/24, 11:41 AM",,40.791232,-111.916128
+Est. Clearance Time: 1:10 PM","1/7/24, 11:41 AM","1/7/24, 1:10 PM","1/7/24, 12:33 PM",,40.791232,-111.916128
 UT-Incident--173271,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 SB I-15 at MP 136 (Millard County)
 Est. Clearance Time: 1:00 PM","1/7/24, 11:56 AM","1/7/24, 1:00 PM","1/7/24, 11:56 AM",,38.631515,-112.610353
-UT-Incident--173265,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-WB I-215 S at MP 10 (300 E, Midvale) Salt Lake Co.
+UT-Incident--173275,Incidents,I-15,Iron County,I-15 at MP 56,"Crash
+SB I-15 at MP 56 (1 mi S of Cedar City) Iron Co.
+Est. Clearance Time: 1:45 PM","1/7/24, 12:35 PM","1/7/24, 1:45 PM","1/7/24, 12:35 PM",,37.641951,-113.091678
+UT-Incident--173276,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
+SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
 Left Shoulder
-Est. Clearance Time: 12:30 PM","1/7/24, 11:30 AM","1/7/24, 12:30 PM","1/7/24, 11:30 AM",,40.631192,-111.882787
+Est. Clearance Time: 1:40 PM","1/7/24, 12:39 PM","1/7/24, 1:40 PM","1/7/24, 12:39 PM",,38.911863,-112.390045
 UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
 WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
