@@ -2459,11 +2459,18 @@ Est. Clearance Time: 11:15 AM","1/7/24, 10:14 AM","1/7/24, 11:15 AM","1/7/24, 10
 UT-Incident--173255,Incidents,US 91,Box Elder County,US 91 at MP 7,"Crash
 US 91 at MP 7 (3 MI from Sardine Summit) Box Elder Co.
 Est. Clearance Time: 11:30 AM","1/7/24, 10:21 AM","1/7/24, 11:30 AM","1/7/24, 10:21 AM",,41.512481,-111.943102
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173268,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 3 Left Lanes Closed
 Est. Clearance Time: 12:40 PM","1/7/24, 11:42 AM","1/7/24, 12:40 PM","1/7/24, 11:43 AM",,40.410606,-111.863979
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173237,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 11:30 AM","1/7/24, 9:03 AM","1/7/24, 11:30 AM","1/7/24, 11:03 AM",,38.617668,-112.609775
+UT-Incident--173272,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
+EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:00 PM","1/7/24, 11:58 AM","1/7/24, 1:00 PM","1/7/24, 11:58 AM",,40.742835,-112.186308
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173264,Incidents,CENTER ST,Iron County,CENTER ST 101,"Crash
 EB Center St at Main St (Cedar City) Iron Co.
@@ -2472,9 +2479,6 @@ Est. Clearance Time: 12:30 PM","1/7/24, 11:27 AM","1/7/24, 12:30 PM","1/7/24, 11
 UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
 SR-21 at MP 106 Beaver Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",,38.27393,-112.670559
-UT-Incident--173237,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
-SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 11:30 AM","1/7/24, 9:03 AM","1/7/24, 11:30 AM","1/7/24, 11:03 AM",,38.617668,-112.609775
 UT-Incident--173266,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (1200 N, Lehi) Utah Co.
 3 Left Lanes Closed
@@ -2497,17 +2501,13 @@ Est. Clearance Time: 12:30 PM","1/7/24, 11:30 AM","1/7/24, 12:30 PM","1/7/24, 11
 UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
 WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
-Est. Clearance Time: 11:15 AM","1/7/24, 9:41 AM","1/7/24, 11:15 AM","1/7/24, 9:41 AM",,40.775905,-112.80493
+Est. Clearance Time: 1:00 PM","1/7/24, 9:41 AM","1/7/24, 1:00 PM","1/7/24, 12:03 PM",,40.775905,-112.80493
 UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 32,"Crash
 WB I-80 at MP 32 (9 mi W of Knolls) Tooele Co.
 Est. Clearance Time: 11:15 AM","1/7/24, 10:02 AM","1/7/24, 11:15 AM","1/7/24, 10:02 AM",,40.730303,-113.435793
 UT-Incident--173263,Incidents,I-80,Summit County,I-80 at MP 155,"Crash
 WB I-80 at MP 155 (Wanship) Summit Co.
 Est. Clearance Time: 12:30 PM","1/7/24, 11:15 AM","1/7/24, 12:30 PM","1/7/24, 11:15 AM",,40.808708,-111.407486
-UT-Incident--173272,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
-EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 1:00 PM","1/7/24, 11:58 AM","1/7/24, 1:00 PM","1/7/24, 11:58 AM",,40.742835,-112.186308
 UT-Incident--173260,Incidents,I15N X284 OFF RAMP,Utah County,I15N X284 OFF RAMP at MP 0 to MP 0,"Crash
 NB I15 N 284 OFF RAMP (Utah County)
 Est. Clearance Time: 12:00 PM","1/7/24, 10:55 AM","1/7/24, 12:00 PM","1/7/24, 10:55 AM",,40.428001,-111.886498
