@@ -2496,7 +2496,6 @@ UT-Incident--173265,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (300 E, Midvale) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","1/7/24, 11:30 AM","1/7/24, 12:30 PM","1/7/24, 11:30 AM",,40.631192,-111.882787
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173274,Incidents,Hwy 224,Summit County,Hwy 224 6241,"Crash
 SB Hwy 224 Summit Co.
 Right Shoulder
@@ -2506,19 +2505,12 @@ SB I-15 at MP 310 (1000 N) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 1:10 PM","1/7/24, 11:41 AM","1/7/24, 1:10 PM","1/7/24, 12:33 PM",,40.791232,-111.916128
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
-SR-21 at MP 106 Beaver Co.
-Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",,38.27393,-112.670559
 UT-Incident--173271,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 SB I-15 at MP 136 (Millard County)
 Est. Clearance Time: 1:00 PM","1/7/24, 11:56 AM","1/7/24, 1:00 PM","1/7/24, 11:56 AM",,38.631515,-112.610353
 UT-Incident--173275,Incidents,I-15,Iron County,I-15 at MP 56,"Crash
 SB I-15 at MP 56 (1 mi S of Cedar City) Iron Co.
 Est. Clearance Time: 1:45 PM","1/7/24, 12:35 PM","1/7/24, 1:45 PM","1/7/24, 12:35 PM",,37.641951,-113.091678
-UT-Incident--173276,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
-SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
-Left Shoulder
-Est. Clearance Time: 1:40 PM","1/7/24, 12:39 PM","1/7/24, 1:40 PM","1/7/24, 12:39 PM",,38.911863,-112.390045
 UT-Incident--173277,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 1:45 PM","1/7/24, 12:45 PM","1/7/24, 1:45 PM","1/7/24, 12:45 PM",,38.617668,-112.609775
@@ -2529,26 +2521,34 @@ UT-Incident--173280,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (2200 N, Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 PM","1/7/24, 12:53 PM","1/7/24, 2:00 PM","1/7/24, 12:53 PM",,40.410606,-111.863979
-UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
-WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
-Left Shoulder
-Est. Clearance Time: 1:00 PM","1/7/24, 9:41 AM","1/7/24, 1:00 PM","1/7/24, 12:03 PM",,40.775905,-112.80493
-UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
-WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
-Est. Clearance Time: 1:30 PM","1/7/24, 10:02 AM","1/7/24, 1:30 PM","1/7/24, 12:15 PM",,40.818343,-112.882529
 UT-Incident--173278,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
 EB I-80 SR-36 Offramp (Lakepoint) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 2:00 PM","1/7/24, 12:48 PM","1/7/24, 2:00 PM","1/7/24, 12:48 PM",,40.690476,-112.264101
-UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
-Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",,37.828866,-112.814606
-UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
-UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
 UT-Incident--173270,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:49 AM","1/7/24, 1:00 PM","1/7/24, 11:49 AM",,40.388104,-111.54897
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
+SR-21 at MP 106 Beaver Co.
+Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",View on map,38.27393,-112.670559
+UT-Incident--173276,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
+SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
+Left Shoulder
+Est. Clearance Time: 1:40 PM","1/7/24, 12:39 PM","1/7/24, 1:40 PM","1/7/24, 12:39 PM",View on map,38.911863,-112.390045
+UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
+WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 1:45 PM","1/7/24, 9:41 AM","1/7/24, 1:45 PM","1/7/24, 1:08 PM",View on map,40.775905,-112.80493
+UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
+WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
+Est. Clearance Time: 1:30 PM","1/7/24, 10:02 AM","1/7/24, 1:30 PM","1/7/24, 12:15 PM",View on map,40.818343,-112.882529
+UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
+Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
+UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
+UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
