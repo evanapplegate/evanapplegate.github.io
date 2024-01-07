@@ -2528,7 +2528,6 @@ UT-Incident--173270,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:49 AM","1/7/24, 1:00 PM","1/7/24, 11:49 AM",,40.388104,-111.54897
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
 SR-21 at MP 106 Beaver Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",View on map,38.27393,-112.670559
@@ -2536,16 +2535,17 @@ UT-Incident--173276,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
 SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
 Left Shoulder
 Est. Clearance Time: 1:40 PM","1/7/24, 12:39 PM","1/7/24, 1:40 PM","1/7/24, 12:39 PM",View on map,38.911863,-112.390045
-UT-Incident--173281,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
-EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
-Est. Clearance Time: 2:30 PM","1/7/24, 1:28 PM","1/7/24, 2:30 PM","1/7/24, 1:28 PM",View on map,38.768962,-111.472016
 UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
 WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 1:45 PM","1/7/24, 9:41 AM","1/7/24, 1:45 PM","1/7/24, 1:08 PM",View on map,40.775905,-112.80493
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173281,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
+EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
+Est. Clearance Time: 2:30 PM","1/7/24, 1:28 PM","1/7/24, 2:30 PM","1/7/24, 1:28 PM",View on map,38.768962,-111.472016
 UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
-Est. Clearance Time: 1:30 PM","1/7/24, 10:02 AM","1/7/24, 1:30 PM","1/7/24, 12:15 PM",View on map,40.818343,-112.882529
+Est. Clearance Time: 2:30 PM","1/7/24, 10:02 AM","1/7/24, 2:30 PM","1/7/24, 1:43 PM",View on map,40.818343,-112.882529
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
