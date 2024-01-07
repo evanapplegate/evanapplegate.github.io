@@ -2229,11 +2229,6 @@ NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:00 AM","1/7/24, 2:44 AM","1/7/24, 5:00 AM","1/7/24, 3:02 AM",View on map,41.116533,-112.015189
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173194,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
-SB I-15 at MP 283 (Lehi) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 5:07 AM","1/7/24, 4:08 AM","1/7/24, 5:07 AM","1/7/24, 4:58 AM",View on map,40.420056,-111.878496
 UT-Incident--173195,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at Pioneer Xing On Ramp (MP 278), Utah Co.
 Right Shoulder
@@ -2242,10 +2237,19 @@ UT-Incident--173196,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:27 AM","1/7/24, 4:29 AM","1/7/24, 5:27 AM","1/7/24, 4:29 AM",View on map,40.328045,-111.73498
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173194,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+SB I-15 at MP 283 (Lehi) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 5:07 AM","1/7/24, 4:08 AM","1/7/24, 5:07 AM","1/7/24, 4:58 AM",View on map,40.420056,-111.878496
 UT-Incident--173197,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at MP 271 (800 N / Orem) Utah Co.
+Cleared at 5:29 AM
+Est. Clearance Time: 6:05 AM","1/7/24, 5:05 AM","1/7/24, 6:05 AM","1/7/24, 5:29 AM",View on map,40.301955,-111.725612
+UT-Incident--173198,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
+SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
 Left Shoulder
-Est. Clearance Time: 6:05 AM","1/7/24, 5:05 AM","1/7/24, 6:05 AM","1/7/24, 5:05 AM",View on map,40.301955,-111.725612
+Est. Clearance Time: 6:11 AM","1/7/24, 5:11 AM","1/7/24, 6:11 AM","1/7/24, 5:11 AM",View on map,41.412632,-112.050551
 UT-Incident--173193,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128 - MP 143 (Parley's Canyon) Salt Lake Co.
 Traction Devices Required for Semis","1/7/24, 3:24 AM","1/7/24, 4:22 AM","1/7/24, 3:24 AM",View on map,40.712086,-111.801151
