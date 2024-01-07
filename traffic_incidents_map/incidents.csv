@@ -2160,7 +2160,6 @@ WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","1/6/24, 7:28 PM","1/6/24, 8:30 PM","1/6/24, 7:32 PM",View on map,40.319492,-111.649399
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173168,Incidents,Antelope Dr,Davis County,Antelope Dr at 1000 E,"Crash
 Both Directions Antelope Dr at 1000 E Davis Co.
 Center Lanes Closed
@@ -2169,10 +2168,15 @@ UT-Incident--173171,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:35 PM","1/6/24, 10:35 PM","1/6/24, 11:35 PM","1/6/24, 10:35 PM",View on map,40.470601,-111.908922
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173172,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:37 PM","1/6/24, 10:38 PM","1/6/24, 11:37 PM","1/6/24, 10:38 PM",View on map,40.431127,-111.890772
+UT-Incident--173173,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 11:43 PM","1/6/24, 10:44 PM","1/6/24, 11:43 PM","1/6/24, 11:02 PM",View on map,40.406425,-111.857522
 UT-Incident--173170,Incidents,Porter Rockwell Blvd,Salt Lake County,Porter Rockwell Blvd at Mountain View Corridor Hwy,"Crash
 EB Porter Rockwell Blvd at Mountain View Corridor Hwy Salt Lake Co.
 Est. Clearance Time: 11:32 PM","1/6/24, 10:34 PM","1/6/24, 11:32 PM","1/6/24, 10:34 PM",View on map,40.4624,-111.953925
