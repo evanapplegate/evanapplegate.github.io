@@ -2282,7 +2282,6 @@ UT-Incident--173208,Incidents,I-15,Box Elder County,I-15 at MP 365,"Crash
 SB I-15 at MP 365 (Brigham City) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 7:43 AM","1/7/24, 6:43 AM","1/7/24, 7:43 AM","1/7/24, 6:43 AM",View on map,41.532498,-112.06604
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173207,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Left Shoulder
@@ -2312,6 +2311,7 @@ EB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/7/24, 6:51 AM","1/7/24, 8:00 AM","1/7/24, 6:51 AM",View on map,40.77111,-112.105407
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173216,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 SB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Right Shoulder
@@ -2323,6 +2323,18 @@ Est. Clearance Time: 9:00 AM","1/7/24, 7:57 AM","1/7/24, 9:00 AM",,,41.258018,-1
 UT-Incident--173222,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 8:02 AM","1/7/24, 11:00 AM",,,39.747541,-111.834299
+UT-Incident--173224,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","1/7/24, 8:10 AM","1/7/24, 9:15 AM",,,40.817596,-111.917999
+UT-Incident--173225,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
+NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 9:10 AM","1/7/24, 8:11 AM","1/7/24, 9:10 AM",,,40.274259,-111.718248
+UT-Incident--173226,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+NB I-15 at MP 319 (Parrish Ln) Davis Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","1/7/24, 8:15 AM","1/7/24, 9:15 AM",,,40.919411,-111.890931
 UT-Incident--173221,Incidents,I-15 NB X 289 ON BANGERTER RAMP,Salt Lake County,I-15 NB X 289 ON BANGERTER RAMP at BANGERTER HWY,"Crash
 NB I-15 Bangerter Hwy Onramp (Draper) Salt Lake Co.
 Left Lane Closed
@@ -2352,6 +2364,10 @@ UT-Incident--173223,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 WB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","1/7/24, 8:02 AM","1/7/24, 9:00 AM",,,40.725741,-112.001283
+UT-Incident--173227,Incidents,SR 201 EB TO I-80E EB RAMP,Salt Lake County,SR 201 EB TO I-80E EB RAMP at I-80E EB,"Crash
+EB SR 201 Ramp To EB I-80 (SLC) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:15 AM","1/7/24, 8:18 AM","1/7/24, 9:15 AM",,,40.719438,-111.905498
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM",,,40.572095,-111.773814
