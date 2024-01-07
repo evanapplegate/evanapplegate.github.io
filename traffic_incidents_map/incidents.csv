@@ -2311,15 +2311,26 @@ EB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/7/24, 6:51 AM","1/7/24, 8:00 AM","1/7/24, 6:51 AM",View on map,40.77111,-112.105407
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173220,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
+SB I-15 at MP 346 (Pioneer Rd) Weber Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:00 AM","1/7/24, 7:57 AM","1/7/24, 9:00 AM",,,41.258018,-112.022971
+UT-Incident--173215,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
+WB I-215 S at MP 7 (2300 E) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","1/7/24, 7:31 AM","1/7/24, 8:30 AM",,,40.634375,-111.821002
+UT-Incident--173193,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 between MP 128 - MP 143 (Parley's Canyon) Salt Lake Co.
+Traction Devices Required for Semis","1/7/24, 3:24 AM","1/7/24, 4:22 AM",,,40.712086,-111.801151
+UT-Incident--173204,Incidents,I-80,Tooele County,I-80 at MP 73,"Crash
+EB I-80 at MP 73 (Skull Valley) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 7:18 AM","1/7/24, 6:19 AM","1/7/24, 7:18 AM",,,40.751961,-112.715944
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173216,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 SB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 8:40 AM","1/7/24, 7:34 AM","1/7/24, 8:40 AM",,,39.216036,-112.156849
-UT-Incident--173220,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
-SB I-15 at MP 346 (Pioneer Rd) Weber Co.
-2 Left Lanes Closed
-Est. Clearance Time: 9:00 AM","1/7/24, 7:57 AM","1/7/24, 9:00 AM",,,41.258018,-112.022971
 UT-Incident--173222,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 8:02 AM","1/7/24, 11:00 AM",,,39.747541,-111.834299
@@ -2329,20 +2340,28 @@ Left Shoulder
 Est. Clearance Time: 9:15 AM","1/7/24, 8:10 AM","1/7/24, 9:15 AM",,,40.817596,-111.917999
 UT-Incident--173225,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
-Left Lane Closed
+Cleared at 8:37 AM
 Est. Clearance Time: 9:10 AM","1/7/24, 8:11 AM","1/7/24, 9:10 AM",,,40.274259,-111.718248
 UT-Incident--173226,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 NB I-15 at MP 319 (Parrish Ln) Davis Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","1/7/24, 8:15 AM","1/7/24, 9:15 AM",,,40.919411,-111.890931
+UT-Incident--173229,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+NB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","1/7/24, 8:33 AM","1/7/24, 9:30 AM",,,40.147126,-111.646959
+UT-Incident--173230,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (500 S, Lindon) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:45 AM","1/7/24, 8:37 AM","1/7/24, 9:45 AM",,,40.328045,-111.73498
+UT-Incident--173231,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:45 AM","1/7/24, 8:41 AM","1/7/24, 9:45 AM",,,40.214802,-111.66435
 UT-Incident--173221,Incidents,I-15 NB X 289 ON BANGERTER RAMP,Salt Lake County,I-15 NB X 289 ON BANGERTER RAMP at BANGERTER HWY,"Crash
 NB I-15 Bangerter Hwy Onramp (Draper) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:00 AM","1/7/24, 8:01 AM","1/7/24, 9:00 AM",,,40.505746,-111.89043
-UT-Incident--173215,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
-WB I-215 S at MP 7 (2300 E) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:30 AM","1/7/24, 7:31 AM","1/7/24, 8:30 AM",,,40.634375,-111.821002
 UT-Incident--173218,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
@@ -2351,13 +2370,6 @@ UT-Incident--173228,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:30 AM","1/7/24, 8:26 AM","1/7/24, 9:30 AM",,,40.803702,-111.949406
-UT-Incident--173193,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
-EB I-80 between MP 128 - MP 143 (Parley's Canyon) Salt Lake Co.
-Traction Devices Required for Semis","1/7/24, 3:24 AM","1/7/24, 4:22 AM",,,40.712086,-111.801151
-UT-Incident--173204,Incidents,I-80,Tooele County,I-80 at MP 73,"Crash
-EB I-80 at MP 73 (Skull Valley) Tooele Co.
-Left Shoulder
-Est. Clearance Time: 7:18 AM","1/7/24, 6:19 AM","1/7/24, 7:18 AM",,,40.751961,-112.715944
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM",,,37.828866,-112.814606
