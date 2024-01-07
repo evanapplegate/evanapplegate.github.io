@@ -2527,7 +2527,6 @@ Est. Clearance Time: 2:00 PM","1/7/24, 12:48 PM","1/7/24, 2:00 PM","1/7/24, 12:4
 UT-Incident--173270,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:49 AM","1/7/24, 1:00 PM","1/7/24, 11:49 AM",,40.388104,-111.54897
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
 SR-21 at MP 106 Beaver Co.
 Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",View on map,38.27393,-112.670559
@@ -2540,6 +2539,13 @@ WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 1:45 PM","1/7/24, 9:41 AM","1/7/24, 1:45 PM","1/7/24, 1:08 PM",View on map,40.775905,-112.80493
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173282,Incidents,I-15,Millard County,I-15 at MP 168,"Crash
+SB I-15 at MP 168 (1 mi N of Fillmore) Millard Co.
+Est. Clearance Time: 2:45 PM","1/7/24, 1:44 PM","1/7/24, 2:45 PM","1/7/24, 1:44 PM",View on map,39.008178,-112.31101
+UT-Incident--173283,Incidents,I-15,Juab County,I-15 at MP 240,"Crash
+NB I-15 at MP 240 (3 mi S of Santaquin) Juab Co.
+Est. Clearance Time: 2:46 PM","1/7/24, 1:46 PM","1/7/24, 2:46 PM","1/7/24, 1:46 PM",View on map,39.917445,-111.814904
 UT-Incident--173281,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
 EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 2:30 PM","1/7/24, 1:28 PM","1/7/24, 2:30 PM","1/7/24, 1:28 PM",View on map,38.768962,-111.472016
