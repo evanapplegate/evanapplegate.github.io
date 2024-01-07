@@ -2236,7 +2236,6 @@ UT-Incident--173196,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:27 AM","1/7/24, 4:29 AM","1/7/24, 5:27 AM","1/7/24, 4:29 AM",View on map,40.328045,-111.73498
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173198,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
 Left Shoulder
@@ -2248,6 +2247,15 @@ UT-Incident--173186,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restric
 Both Directions US 9/US-89 Between MP 2-17 (Sardine Canyon) Cache Co.
 Traction Devices Required","1/7/24, 12:50 AM","1/9/24, 1:48 AM","1/7/24, 1:08 AM",View on map,41.616749,-111.932782
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173201,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Cleared at 5:55 AM
+Est. Clearance Time: 6:53 AM","1/7/24, 5:54 AM","1/7/24, 6:53 AM","1/7/24, 5:55 AM",View on map,40.765438,-111.953251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173203,Incidents,HWY 201,Salt Lake County,HWY 201 at 8400 W/HWY 111,"Crash
+EB SR-201 at 8000 W (Magna) Salt Lake County
+Right Shoulder
+Est. Clearance Time: 7:15 AM","1/7/24, 6:06 AM","1/7/24, 7:15 AM","1/7/24, 6:06 AM",View on map,40.718243,-112.082473
 UT-Incident--173194,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Lane Closed
@@ -2256,6 +2264,10 @@ UT-Incident--173197,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at MP 271 (800 N / Orem) Utah Co.
 Cleared at 5:29 AM
 Est. Clearance Time: 6:05 AM","1/7/24, 5:05 AM","1/7/24, 6:05 AM","1/7/24, 5:29 AM",View on map,40.301955,-111.725612
+UT-Incident--173205,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:20 AM","1/7/24, 6:19 AM","1/7/24, 7:20 AM","1/7/24, 6:19 AM",View on map,40.373184,-111.808465
 UT-Incident--173199,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 NB I-215 W at MP 18 (Salt Lake County)
 Right Shoulder
@@ -2267,10 +2279,14 @@ UT-Incident--173200,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 EB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 6:50 AM","1/7/24, 5:50 AM","1/7/24, 6:50 AM","1/7/24, 5:50 AM",View on map,40.697978,-112.260296
-UT-Incident--173201,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
-Cleared at 5:55 AM
-Est. Clearance Time: 6:53 AM","1/7/24, 5:54 AM","1/7/24, 6:53 AM","1/7/24, 5:55 AM",View on map,40.765438,-111.953251
+UT-Incident--173202,Incidents,I-80,Tooele County,I-80 at MP 98,"Crash
+EB I-80 at MP 98 (Tooele / Lake point) Tooele Co.
+Left Lane Closed
+Est. Clearance Time: 7:10 AM","1/7/24, 6:05 AM","1/7/24, 7:10 AM","1/7/24, 6:05 AM",View on map,40.686129,-112.271303
+UT-Incident--173204,Incidents,I-80,Tooele County,I-80 at MP 73,"Crash
+EB I-80 at MP 73 (Skull Valley) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 7:18 AM","1/7/24, 6:19 AM","1/7/24, 7:18 AM","1/7/24, 6:19 AM",View on map,40.751961,-112.715944
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
