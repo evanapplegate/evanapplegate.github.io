@@ -2541,7 +2541,6 @@ Est. Clearance Time: 1:45 PM","1/7/24, 9:41 AM","1/7/24, 1:45 PM","1/7/24, 1:08 
 UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 2:30 PM","1/7/24, 10:02 AM","1/7/24, 2:30 PM","1/7/24, 1:43 PM",View on map,40.818343,-112.882529
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173282,Incidents,I-15,Millard County,I-15 at MP 168,"Crash
 SB I-15 at MP 168 (1 mi N of Fillmore) Millard Co.
 Est. Clearance Time: 2:45 PM","1/7/24, 1:44 PM","1/7/24, 2:45 PM","1/7/24, 1:44 PM",,39.008178,-112.31101
@@ -2571,6 +2570,7 @@ SB SR 36 at MP 56 (1180 N) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:33 PM","1/7/24, 2:35 PM","1/7/24, 3:33 PM","1/7/24, 2:35 PM",,40.554334,-112.297621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173292,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
 WB SR-201 at 7200 W (Magna) Salt Lake Co.
 Right Shoulder
@@ -2597,3 +2597,6 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
+UT-Incident--173294,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 5:11 PM","1/7/24, 4:11 PM","1/7/24, 5:11 PM","1/7/24, 4:11 PM",,39.933221,-111.107262
