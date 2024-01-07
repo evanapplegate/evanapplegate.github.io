@@ -2484,7 +2484,6 @@ UT-Incident--173261,Incidents,SR 201 EB X11 OFF 5600 S RAMP,Salt Lake County,SR 
 EB SR 201 5600 W Offramp (West Valley) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:00 PM","1/7/24, 10:59 AM","1/7/24, 12:00 PM","1/7/24, 10:59 AM",,40.725115,-112.026954
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173264,Incidents,CENTER ST,Iron County,CENTER ST 101,"Crash
 EB Center St at Main St (Cedar City) Iron Co.
 Right Shoulder
@@ -2498,9 +2497,6 @@ WB I-215 S at MP 10 (300 E, Midvale) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","1/7/24, 11:30 AM","1/7/24, 12:30 PM","1/7/24, 11:30 AM",,40.631192,-111.882787
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
-SR-21 at MP 106 Beaver Co.
-Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",,38.27393,-112.670559
 UT-Incident--173274,Incidents,Hwy 224,Summit County,Hwy 224 6241,"Crash
 SB Hwy 224 Summit Co.
 Right Shoulder
@@ -2509,6 +2505,10 @@ UT-Incident--173267,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 1:10 PM","1/7/24, 11:41 AM","1/7/24, 1:10 PM","1/7/24, 12:33 PM",,40.791232,-111.916128
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173273,Incidents,HWY 21,Beaver County,HWY 21 525,"Crash
+SR-21 at MP 106 Beaver Co.
+Est. Clearance Time: 1:00 PM","1/7/24, 11:59 AM","1/7/24, 1:00 PM","1/7/24, 11:59 AM",,38.27393,-112.670559
 UT-Incident--173271,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 SB I-15 at MP 136 (Millard County)
 Est. Clearance Time: 1:00 PM","1/7/24, 11:56 AM","1/7/24, 1:00 PM","1/7/24, 11:56 AM",,38.631515,-112.610353
@@ -2519,6 +2519,16 @@ UT-Incident--173276,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
 SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
 Left Shoulder
 Est. Clearance Time: 1:40 PM","1/7/24, 12:39 PM","1/7/24, 1:40 PM","1/7/24, 12:39 PM",,38.911863,-112.390045
+UT-Incident--173277,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 1:45 PM","1/7/24, 12:45 PM","1/7/24, 1:45 PM","1/7/24, 12:45 PM",,38.617668,-112.609775
+UT-Incident--173279,Incidents,I-15,Millard County,I-15 at MP 161,"Crash
+SB I-15 at MP 161 (2 mi S of Fillmore) Millard Co.
+Est. Clearance Time: 2:00 PM","1/7/24, 12:50 PM","1/7/24, 2:00 PM","1/7/24, 12:50 PM",,38.926529,-112.372526
+UT-Incident--173280,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (2200 N, Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 2:00 PM","1/7/24, 12:53 PM","1/7/24, 2:00 PM","1/7/24, 12:53 PM",,40.410606,-111.863979
 UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
 WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
 Left Shoulder
@@ -2526,6 +2536,10 @@ Est. Clearance Time: 1:00 PM","1/7/24, 9:41 AM","1/7/24, 1:00 PM","1/7/24, 12:03
 UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 63,"Crash
 WB I-80 at MP 63 (1 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 1:30 PM","1/7/24, 10:02 AM","1/7/24, 1:30 PM","1/7/24, 12:15 PM",,40.818343,-112.882529
+UT-Incident--173278,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
+EB I-80 SR-36 Offramp (Lakepoint) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 2:00 PM","1/7/24, 12:48 PM","1/7/24, 2:00 PM","1/7/24, 12:48 PM",,40.690476,-112.264101
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",,37.828866,-112.814606
