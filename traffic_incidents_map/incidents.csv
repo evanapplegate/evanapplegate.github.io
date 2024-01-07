@@ -2409,7 +2409,6 @@ UT-Incident--173243,Incidents,US 89,Davis County,US 89 at 1100 N/2600 S,"Crash
 SB US 89 at 2600 S (Bountiful) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:45 AM","1/7/24, 9:39 AM","1/7/24, 10:45 AM","1/7/24, 9:39 AM",,40.862068,-111.895893
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173251,Incidents,BATES CANYON RD,Tooele County,BATES CANYON RD at HWY 36,"Crash
 EB Bates Canyon Rd at SR-36 (Erda) Tooele Co.
 Est. Clearance Time: 11:00 AM","1/7/24, 10:00 AM","1/7/24, 11:00 AM","1/7/24, 10:00 AM",,40.623785,-112.293091
@@ -2439,9 +2438,6 @@ UT-Incident--173242,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 WB I-84 at MP 82 (South Weber) Weber Co.
 Est. Clearance Time: 10:45 AM","1/7/24, 9:37 AM","1/7/24, 10:45 AM","1/7/24, 9:37 AM",,41.171852,-112.006901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173237,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
-SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 11:30 AM","1/7/24, 9:03 AM","1/7/24, 11:30 AM","1/7/24, 11:03 AM",,38.617668,-112.609775
 UT-Incident--173245,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Left Lane Closed
@@ -2457,33 +2453,6 @@ UT-Incident--173262,Incidents,I-15 NB X 295 Off 9000 S WB Ramp,Salt Lake County,
 NB I-15 295 Off Ramp (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 12:00 PM","1/7/24, 11:00 AM","1/7/24, 12:00 PM","1/7/24, 11:00 AM",,40.587913,-111.90021
-UT-Incident--173259,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
-EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 11:45 AM","1/7/24, 10:46 AM","1/7/24, 11:45 AM","1/7/24, 10:46 AM",,40.64406,-111.929407
-UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
-WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
-Left Shoulder
-Est. Clearance Time: 11:15 AM","1/7/24, 9:41 AM","1/7/24, 11:15 AM","1/7/24, 9:41 AM",,40.775905,-112.80493
-UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 32,"Crash
-WB I-80 at MP 32 (9 mi W of Knolls) Tooele Co.
-Est. Clearance Time: 11:15 AM","1/7/24, 10:02 AM","1/7/24, 11:15 AM","1/7/24, 10:02 AM",,40.730303,-113.435793
-UT-Incident--173260,Incidents,I15N X284 OFF RAMP,Utah County,I15N X284 OFF RAMP at MP 0 to MP 0,"Crash
-NB I15 N 284 OFF RAMP (Utah County)
-Est. Clearance Time: 12:00 PM","1/7/24, 10:55 AM","1/7/24, 12:00 PM","1/7/24, 10:55 AM",,40.428001,-111.886498
-UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
-Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",,37.828866,-112.814606
-UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",,40.619107,-111.786281
-UT-Incident--173261,Incidents,SR 201 EB X11 OFF 5600 S RAMP,Salt Lake County,SR 201 EB X11 OFF 5600 S RAMP at 5600 W,"Crash
-EB SR 201 5600 W Offramp (West Valley) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 12:00 PM","1/7/24, 10:59 AM","1/7/24, 12:00 PM","1/7/24, 10:59 AM",,40.725115,-112.026954
-UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
 UT-Incident--173254,Incidents,US 89 SB X396 OFF SHEPHARD RAMP,Davis County,US 89 SB X396 OFF SHEPHARD RAMP at SHEPARD LN,"Crash
 SB US 89 at Main St (Farmington) Davis Co.
 Left Lane Closed
@@ -2491,3 +2460,37 @@ Est. Clearance Time: 11:15 AM","1/7/24, 10:14 AM","1/7/24, 11:15 AM","1/7/24, 10
 UT-Incident--173255,Incidents,US 91,Box Elder County,US 91 at MP 7,"Crash
 US 91 at MP 7 (3 MI from Sardine Summit) Box Elder Co.
 Est. Clearance Time: 11:30 AM","1/7/24, 10:21 AM","1/7/24, 11:30 AM","1/7/24, 10:21 AM",,41.512481,-111.943102
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173237,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 11:30 AM","1/7/24, 9:03 AM","1/7/24, 11:30 AM","1/7/24, 11:03 AM",View on map,38.617668,-112.609775
+UT-Incident--173259,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 11:45 AM","1/7/24, 10:46 AM","1/7/24, 11:45 AM","1/7/24, 10:46 AM",View on map,40.64406,-111.929407
+UT-Incident--173244,Incidents,I-80,Tooele County,I-80 at MP 68,"Crash
+WB I-80 at MP 68 (5 mi E of Skull Valley) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 11:15 AM","1/7/24, 9:41 AM","1/7/24, 11:15 AM","1/7/24, 9:41 AM",View on map,40.775905,-112.80493
+UT-Incident--173252,Incidents,I-80,Tooele County,I-80 at MP 32,"Crash
+WB I-80 at MP 32 (9 mi W of Knolls) Tooele Co.
+Est. Clearance Time: 11:15 AM","1/7/24, 10:02 AM","1/7/24, 11:15 AM","1/7/24, 10:02 AM",View on map,40.730303,-113.435793
+UT-Incident--173263,Incidents,I-80,Summit County,I-80 at MP 155,"Crash
+WB I-80 at MP 155 (Wanship) Summit Co.
+Est. Clearance Time: 12:30 PM","1/7/24, 11:15 AM","1/7/24, 12:30 PM","1/7/24, 11:15 AM",View on map,40.808708,-111.407486
+UT-Incident--173260,Incidents,I15N X284 OFF RAMP,Utah County,I15N X284 OFF RAMP at MP 0 to MP 0,"Crash
+NB I15 N 284 OFF RAMP (Utah County)
+Est. Clearance Time: 12:00 PM","1/7/24, 10:55 AM","1/7/24, 12:00 PM","1/7/24, 10:55 AM",View on map,40.428001,-111.886498
+UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
+Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
+UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
+UT-Incident--173261,Incidents,SR 201 EB X11 OFF 5600 S RAMP,Salt Lake County,SR 201 EB X11 OFF 5600 S RAMP at 5600 W,"Crash
+EB SR 201 5600 W Offramp (West Valley) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 12:00 PM","1/7/24, 10:59 AM","1/7/24, 12:00 PM","1/7/24, 10:59 AM",View on map,40.725115,-112.026954
+UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
