@@ -2743,7 +2743,6 @@ UT-Incident--173340,Incidents,I-15 SB X305D ON 900 S RAMP,Salt Lake County,I-15 
 SB I-15 900 S On Ramp (Salt Lake County)
 Left Lane Closed
 Est. Clearance Time: 10:22 AM","1/8/24, 9:23 AM","1/8/24, 10:22 AM","1/8/24, 9:23 AM",,40.747513,-111.901453
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173335,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Right Shoulder
@@ -2761,13 +2760,6 @@ UT-Incident--173343,Incidents,1100 N,Davis County,1100 N at 400 E/800 W,"Crash
 EB 1100 N at 400 E/800 W Davis Co.
 Right Lanes Closed
 Est. Clearance Time: 11:00 AM","1/8/24, 10:01 AM","1/8/24, 11:00 AM","1/8/24, 10:01 AM",View on map,40.862093,-111.903001
-UT-Incident--173344,Incidents,Center St,Utah County,Center St at 500 W,"Crash
-NB Center St at 500 W (Provo) Utah Co.
-Est. Clearance Time: 11:15 AM","1/8/24, 10:11 AM","1/8/24, 11:15 AM","1/8/24, 10:11 AM",View on map,40.23375,-111.667478
-UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 10:40 AM","1/8/24, 7:23 AM","1/8/24, 10:40 AM","1/8/24, 10:04 AM",View on map,40.578741,-111.900284
 UT-Incident--173331,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Lane Closed
@@ -2781,6 +2773,14 @@ NB I-15 at MP 269 (Orem) Utah Co.
 Cleared at 9:31 AM
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/8/24, 9:31 AM","1/8/24, 10:30 AM","1/8/24, 9:34 AM",View on map,40.274259,-111.718248
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173344,Incidents,Center St,Utah County,Center St at 500 W,"Crash
+NB Center St at 500 W (Provo) Utah Co.
+Est. Clearance Time: 11:15 AM","1/8/24, 10:11 AM","1/8/24, 11:15 AM","1/8/24, 10:11 AM",View on map,40.23375,-111.667478
+UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:40 AM","1/8/24, 7:23 AM","1/8/24, 10:40 AM","1/8/24, 10:04 AM",View on map,40.578741,-111.900284
 UT-Incident--173345,Incidents,MAIN ST,Davis County,MAIN ST at HILL FIELD RD,"Crash
 NB Main St at Hill Field Dr (Layton) Davis Co.
 Right Lane Closed
