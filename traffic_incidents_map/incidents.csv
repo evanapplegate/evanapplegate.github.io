@@ -2736,11 +2736,22 @@ SB I-215 N at MP 27 (Legacy Merge, SLC) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","1/8/24, 9:03 AM","1/8/24, 10:15 AM","1/8/24, 9:03 AM",,40.831824,-111.944939
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173339,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
+NB I-15 at MP 270 (650 S, Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/8/24, 9:20 AM","1/8/24, 10:15 AM","1/8/24, 9:33 AM",,40.281525,-111.724006
+UT-Incident--173340,Incidents,I-15 SB X305D ON 900 S RAMP,Salt Lake County,I-15 SB X305D ON 900 S RAMP at 900 S,"Crash
+SB I-15 900 S On Ramp (Salt Lake County)
+Left Lane Closed
+Est. Clearance Time: 10:22 AM","1/8/24, 9:23 AM","1/8/24, 10:22 AM","1/8/24, 9:23 AM",,40.747513,-111.901453
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173343,Incidents,1100 N,Davis County,1100 N at 400 E/800 W,"Crash
 EB 1100 N at 400 E/800 W Davis Co.
 Right Lanes Closed
 Est. Clearance Time: 11:00 AM","1/8/24, 10:01 AM","1/8/24, 11:00 AM","1/8/24, 10:01 AM",,40.862093,-111.903001
+UT-Incident--173344,Incidents,Center St,Utah County,Center St at 500 W,"Crash
+NB Center St at 500 W (Provo) Utah Co.
+Est. Clearance Time: 11:15 AM","1/8/24, 10:11 AM","1/8/24, 11:15 AM","1/8/24, 10:11 AM",,40.23375,-111.667478
 UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
 Right Lane Closed
@@ -2761,23 +2772,19 @@ UT-Incident--173337,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","1/8/24, 9:06 AM","1/8/24, 10:15 AM","1/8/24, 9:06 AM",,40.328045,-111.73498
-UT-Incident--173339,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
-NB I-15 at MP 270 (650 S, Orem) Utah Co.
-Right Shoulder
-Est. Clearance Time: 10:15 AM","1/8/24, 9:20 AM","1/8/24, 10:15 AM","1/8/24, 9:33 AM",,40.281525,-111.724006
 UT-Incident--173341,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Orem) Utah Co.
 Cleared at 9:31 AM
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/8/24, 9:31 AM","1/8/24, 10:30 AM","1/8/24, 9:34 AM",,40.274259,-111.718248
-UT-Incident--173340,Incidents,I-15 SB X305D ON 900 S RAMP,Salt Lake County,I-15 SB X305D ON 900 S RAMP at 900 S,"Crash
-SB I-15 900 S On Ramp (Salt Lake County)
-Left Lane Closed
-Est. Clearance Time: 10:22 AM","1/8/24, 9:23 AM","1/8/24, 10:22 AM","1/8/24, 9:23 AM",,40.747513,-111.901453
 UT-Incident--173342,Incidents,I-15 SB X332 ON ANTELOPE DR RAMP,Davis County,I-15 SB X332 ON ANTELOPE DR RAMP at ANTELOPE DR,"Crash
 SB I-15 Antelope Onramp (Layton) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/8/24, 9:32 AM","1/8/24, 10:30 AM","1/8/24, 9:32 AM",,41.08564,-111.987846
+UT-Incident--173345,Incidents,MAIN ST,Davis County,MAIN ST at HILL FIELD RD,"Crash
+NB Main St at Hill Field Dr (Layton) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 11:15 AM","1/8/24, 10:13 AM","1/8/24, 11:15 AM","1/8/24, 10:21 AM",,41.07297,-111.979158
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",,37.828866,-112.814606
