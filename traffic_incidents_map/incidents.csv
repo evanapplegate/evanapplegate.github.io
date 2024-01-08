@@ -2727,7 +2727,6 @@ Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24,
 UT-Incident--173334,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
 WB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder","1/8/24, 8:52 AM","1/8/24, 11:45 AM","1/8/24, 9:14 AM",View on map,40.834182,-111.93436
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173338,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 2000 W,"Crash
 NB Harrison Blvd at 2000 W Weber Co.
 Right  Lane Closed
@@ -2737,10 +2736,15 @@ SB I-215 N at MP 27 (Legacy Merge, SLC) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","1/8/24, 9:03 AM","1/8/24, 10:15 AM","1/8/24, 9:03 AM",,40.831824,-111.944939
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173343,Incidents,1100 N,Davis County,1100 N at 400 E/800 W,"Crash
+EB 1100 N at 400 E/800 W Davis Co.
+Right Lanes Closed
+Est. Clearance Time: 11:00 AM","1/8/24, 10:01 AM","1/8/24, 11:00 AM","1/8/24, 10:01 AM",,40.862093,-111.903001
 UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 9:25 AM","1/8/24, 7:23 AM","1/8/24, 9:25 AM","1/8/24, 9:16 AM",,40.578741,-111.900284
+Est. Clearance Time: 10:40 AM","1/8/24, 7:23 AM","1/8/24, 10:40 AM","1/8/24, 10:04 AM",,40.578741,-111.900284
 UT-Incident--173331,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Lane Closed
