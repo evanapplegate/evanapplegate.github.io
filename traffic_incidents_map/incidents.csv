@@ -2569,7 +2569,6 @@ UT-Incident--173286,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
 SB SR 36 at MP 56 (1180 N) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:33 PM","1/7/24, 2:35 PM","1/7/24, 3:33 PM","1/7/24, 2:35 PM",,40.554334,-112.297621
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173292,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
 WB SR-201 at 7200 W (Magna) Salt Lake Co.
 Right Shoulder
@@ -2600,9 +2599,21 @@ UT-Incident--173296,Incidents,Mountain View Corr,Salt Lake County,Mountain View 
 SB Mountain View Corr at MP 3 (SR-68 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","1/7/24, 4:47 PM","1/7/24, 5:45 PM","1/7/24, 4:47 PM",,40.462589,-111.943317
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173298,Incidents,I-15,Millard County,I-15 at MP 132,"Ramp NB I-15 Closed
+ at MP 132 (EB I-70 Exit) Millard Co.
+Use Alt Route","1/7/24, 5:40 PM","1/7/24, 6:31 PM","1/7/24, 5:40 PM",,38.574664,-112.603566
+UT-Incident--173300,Incidents,I-15,Millard County,I-15 at MP 134,"Crash
+SB I-15 at MP 134 (Black Rock Rd / Cove Fort) Millard Co.
+Right Shoulder
+Est. Clearance Time: 6:58 PM","1/7/24, 5:59 PM","1/7/24, 6:58 PM","1/7/24, 5:59 PM",,38.603177,-112.609096
 UT-Incident--173291,Incidents,Redwood Rd,Utah County,Redwood Rd at 2100 N,"Road weather
 EB Redwood Rd at 2100 N Utah Co.
 NB/SB SR-145 closed between Redwood Rd and Pioneer Corssing ","1/7/24, 3:07 PM","1/7/24, 4:35 PM","1/7/24, 3:07 PM",,40.413214,-111.923173
+UT-Incident--173299,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3500 S,"Crash
+Both Directions Redwood Rd at 3490 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:54 PM","1/7/24, 5:55 PM","1/7/24, 6:54 PM","1/7/24, 5:55 PM",,40.696708,-111.938901
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",,37.828866,-112.814606
@@ -2612,3 +2623,10 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
+UT-Incident--173303,Incidents,State St,Salt Lake County,State St at 7800 S,"Stalled Vehicle
+SB State St at 7800 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:27 PM","1/7/24, 6:28 PM","1/7/24, 7:27 PM","1/7/24, 6:28 PM",,40.609554,-111.890776
+UT-Incident--173304,Incidents,US 191,Grand County,US 191,"Crash
+Both Directions US 191 Grand Co.
+Est. Clearance Time: 8:33 PM","1/7/24, 6:34 PM","1/7/24, 8:33 PM","1/7/24, 6:34 PM",,38.61817,-109.63539
