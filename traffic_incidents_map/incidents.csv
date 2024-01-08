@@ -2800,7 +2800,6 @@ Est. Clearance Time: 1:30 PM","1/8/24, 12:23 PM","1/8/24, 1:30 PM","1/8/24, 12:2
 UT-Incident--173349,Incidents,MAIN ST,Sanpete County,MAIN ST at 100 S,"Crash
 Main St at 100 S (Gunnison) Sanpete Co.
 Est. Clearance Time: 1:45 PM","1/8/24, 12:42 PM","1/8/24, 1:45 PM","1/8/24, 12:42 PM",,39.1544,-111.818256
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173351,Incidents,Main St,Iron County,Main St 801,"Crash
 SB Main St at 1045 N/Knoll St (Cedar City) Iron Co.
 Right Shoulder
@@ -2809,6 +2808,11 @@ UT-Incident--173350,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 1401,
 Washington Blvd at 1700 N (Ogden) Weber Co.
 Est. Clearance Time: 2:45 PM","1/8/24, 1:18 PM","1/8/24, 2:45 PM",,,41.287962,-111.96907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173354,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
+SB 1900 W at 5600 S (Roy) Weber Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","1/8/24, 2:53 PM","1/8/24, 4:00 PM","1/8/24, 3:05 PM",View on map,41.161575,-112.026043
 UT-Incident--173353,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 Off Ramp (Gneva Rd / Orem) Utah Co.
 Est. Clearance Time: 4:30 PM","1/8/24, 2:44 PM","1/8/24, 4:30 PM","1/8/24, 2:44 PM",View on map,40.328045,-111.73498
