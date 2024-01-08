@@ -2702,14 +2702,9 @@ NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/8/24, 7:18 AM","1/8/24, 8:15 AM","1/8/24, 7:19 AM",View on map,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173322,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
 SB I-15 at MP 348 (Harrisville Rd) Weber Co.
 Cleared at 8:05, Expect Residual Delays","1/8/24, 7:05 AM","1/8/24, 8:10 AM","1/8/24, 8:28 AM",View on map,41.286745,-112.026149
-UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-SB I-15 at MP 295 (9000 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:25 AM","1/8/24, 7:23 AM","1/8/24, 8:25 AM","1/8/24, 7:23 AM",View on map,40.578741,-111.900284
 UT-Incident--173327,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Left Lanes Closed
@@ -2720,6 +2715,25 @@ Est. Clearance Time: 8:45 AM","1/8/24, 7:40 AM","1/8/24, 8:45 AM","1/8/24, 7:40 
 UT-Incident--173329,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Est. Clearance Time: 8:45 AM","1/8/24, 7:43 AM","1/8/24, 8:45 AM","1/8/24, 7:43 AM",View on map,41.301243,-112.026067
+UT-Incident--173333,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
+NB I-15 at MP 274 (Lindon) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:45 AM","1/8/24, 8:45 AM","1/8/24, 9:45 AM","1/8/24, 8:45 AM",View on map,40.337197,-111.749203
+UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
+UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173338,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 2000 W,"Crash
+NB Harrison Blvd at 2000 W Weber Co.
+Right  Lane Closed
+Est. Clearance Time: 10:05 AM","1/8/24, 9:07 AM","1/8/24, 10:05 AM","1/8/24, 9:07 AM",View on map,41.240054,-111.937992
+UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:25 AM","1/8/24, 7:23 AM","1/8/24, 9:25 AM","1/8/24, 9:16 AM",View on map,40.578741,-111.900284
 UT-Incident--173331,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Lane Closed
@@ -2728,17 +2742,25 @@ UT-Incident--173332,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:45 AM","1/8/24, 8:44 AM","1/8/24, 9:45 AM","1/8/24, 8:44 AM",View on map,40.346539,-111.763778
-UT-Incident--173333,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
-NB I-15 at MP 274 (Lindon) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:45 AM","1/8/24, 8:45 AM","1/8/24, 9:45 AM","1/8/24, 8:45 AM",View on map,40.337197,-111.749203
 UT-Incident--173335,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","1/8/24, 8:57 AM","1/8/24, 10:15 AM","1/8/24, 8:57 AM",View on map,41.028688,-111.946853
+UT-Incident--173337,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/8/24, 9:06 AM","1/8/24, 10:15 AM","1/8/24, 9:06 AM",View on map,40.328045,-111.73498
+UT-Incident--173339,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
+NB I-15 at MP 270 (650 S, Orem) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:15 AM","1/8/24, 9:20 AM","1/8/24, 10:15 AM","1/8/24, 9:26 AM",View on map,40.287343,-111.725712
+UT-Incident--173340,Incidents,I-15 SB X305D ON 900 S RAMP,Salt Lake County,I-15 SB X305D ON 900 S RAMP at 900 S,"Crash
+SB I-15 900 S On Ramp (Salt Lake County)
+Left Lane Closed
+Est. Clearance Time: 10:22 AM","1/8/24, 9:23 AM","1/8/24, 10:22 AM","1/8/24, 9:23 AM",View on map,40.747513,-111.901453
 UT-Incident--173334,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
 WB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
-Use Alt Route","1/8/24, 8:52 AM","1/8/24, 11:45 AM","1/8/24, 8:53 AM",View on map,40.834182,-111.93436
+Right Shoulder","1/8/24, 8:52 AM","1/8/24, 11:45 AM","1/8/24, 9:14 AM",View on map,40.834182,-111.93436
 UT-Incident--173336,Incidents,I-215 N,Davis County,I-215 N at MP 27,"Crash
 SB I-215 N at MP 27 (Legacy Merge, SLC) Davis Co.
 Right Shoulder
@@ -2746,9 +2768,3 @@ Est. Clearance Time: 10:15 AM","1/8/24, 9:03 AM","1/8/24, 10:15 AM","1/8/24, 9:0
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
-UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
-UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
