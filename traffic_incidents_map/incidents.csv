@@ -2642,7 +2642,6 @@ UT-Incident--173309,Incidents,I-80,Salt Lake County,I-80 at MP 119,"Crash
 NB I-15 to WB I-80 Ramp,  Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:08 AM","1/8/24, 4:10 AM","1/8/24, 5:08 AM","1/8/24, 4:10 AM",View on map,40.763501,-111.913626
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173311,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 NB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Right Shoulder
@@ -2651,6 +2650,7 @@ UT-Incident--173312,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:30 AM","1/8/24, 5:25 AM","1/8/24, 6:30 AM","1/8/24, 5:40 AM",View on map,40.380301,-111.824926
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173313,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 NB I-15 at MP 279 (Main St, Lehi) Utah Co.
