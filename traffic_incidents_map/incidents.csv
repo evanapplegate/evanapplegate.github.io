@@ -2634,7 +2634,6 @@ Est. Clearance Time: 11:45 PM","1/7/24, 10:38 PM","1/7/24, 11:37 PM","1/7/24, 10
 UT-Incident--173308,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Crash
 NB Legacy Pkwy at MP 2 (900 N) Davis Co.
 Est. Clearance Time: 1:21 AM","1/8/24, 12:22 AM","1/8/24, 1:21 AM","1/8/24, 12:22 AM",View on map,40.855369,-111.943437
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173310,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
@@ -2643,6 +2642,7 @@ UT-Incident--173309,Incidents,I-80,Salt Lake County,I-80 at MP 119,"Crash
 NB I-15 to WB I-80 Ramp,  Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:08 AM","1/8/24, 4:10 AM","1/8/24, 5:08 AM","1/8/24, 4:10 AM",View on map,40.763501,-111.913626
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
