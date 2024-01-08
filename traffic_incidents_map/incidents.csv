@@ -2570,24 +2570,36 @@ SB SR 36 at MP 56 (1180 N) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:33 PM","1/7/24, 2:35 PM","1/7/24, 3:33 PM","1/7/24, 2:35 PM",,40.554334,-112.297621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173292,Incidents,HWY 201,Salt Lake County,HWY 201 5801,"Crash
 WB SR-201 at 7200 W (Magna) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","1/7/24, 3:08 PM","1/7/24, 5:00 PM","1/7/24, 3:08 PM",,40.718748,-112.058314
-UT-Incident--173295,Incidents,Hwy 36,Tooele County,Hwy 36 2749,"Crash
-NB Hwy 36 Closed at SR 73
-Tooele Co.","1/7/24, 4:23 PM","1/7/24, 5:22 PM","1/7/24, 4:23 PM",,40.380457,-112.386411
 UT-Incident--173293,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 4:30 PM","1/7/24, 3:23 PM","1/7/24, 4:30 PM","1/7/24, 3:23 PM",,39.747541,-111.834299
 UT-Incident--173281,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
 EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 2:30 PM","1/7/24, 1:28 PM","1/7/24, 2:30 PM","1/7/24, 1:28 PM",,38.768962,-111.472016
+UT-Incident--173294,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 5:11 PM","1/7/24, 4:11 PM","1/7/24, 5:11 PM","1/7/24, 4:11 PM",,39.933221,-111.107262
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173295,Incidents,Hwy 36,Tooele County,Hwy 36 2749,"Crash
+NB Hwy 36 Tooele Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:22 PM","1/7/24, 4:23 PM","1/7/24, 5:22 PM","1/7/24, 4:56 PM",,40.380457,-112.386411
+UT-Incident--173297,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 6:28 PM","1/7/24, 5:29 PM","1/7/24, 6:28 PM","1/7/24, 5:29 PM",,40.420056,-111.878496
 UT-Incident--173284,Incidents,I-70,Sevier County,I-70 at MP 70,"Crash
 WB I-70 at MP 70 (30 mi E of Richfield) Sevier Co.
-WB Closed at MP 73, Plan Travel
-Est. Clearance Time: 6:00 PM","1/7/24, 2:12 PM","1/7/24, 6:00 PM","1/7/24, 3:22 PM",,38.898305,-111.630609
+Right Shoulder
+Est. Clearance Time: 6:00 PM","1/7/24, 2:12 PM","1/7/24, 6:00 PM","1/7/24, 4:55 PM",,38.898305,-111.630609
+UT-Incident--173296,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 3,"Crash
+SB Mountain View Corr at MP 3 (SR-68 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","1/7/24, 4:47 PM","1/7/24, 5:45 PM","1/7/24, 4:47 PM",,40.462589,-111.943317
 UT-Incident--173291,Incidents,Redwood Rd,Utah County,Redwood Rd at 2100 N,"Road weather
 EB Redwood Rd at 2100 N Utah Co.
 NB/SB SR-145 closed between Redwood Rd and Pioneer Corssing ","1/7/24, 3:07 PM","1/7/24, 4:35 PM","1/7/24, 3:07 PM",,40.413214,-111.923173
@@ -2600,6 +2612,3 @@ Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",,40.572095,-111.773814
-UT-Incident--173294,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
-WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
-Est. Clearance Time: 5:11 PM","1/7/24, 4:11 PM","1/7/24, 5:11 PM","1/7/24, 4:11 PM",,39.933221,-111.107262
