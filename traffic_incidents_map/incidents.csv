@@ -2598,7 +2598,6 @@ UT-Incident--173296,Incidents,Mountain View Corr,Salt Lake County,Mountain View 
 SB Mountain View Corr at MP 3 (SR-68 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","1/7/24, 4:47 PM","1/7/24, 5:45 PM","1/7/24, 4:47 PM",,40.462589,-111.943317
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173298,Incidents,I-15,Millard County,I-15 at MP 132,"Ramp NB I-15 Closed
  at MP 132 (EB I-70 Exit) Millard Co.
 Use Alt Route","1/7/24, 5:40 PM","1/7/24, 6:31 PM","1/7/24, 5:40 PM",,38.574664,-112.603566
@@ -2610,6 +2609,7 @@ UT-Incident--173303,Incidents,State St,Salt Lake County,State St at 7800 S,"Stal
 SB State St at 7800 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:27 PM","1/7/24, 6:28 PM","1/7/24, 7:27 PM","1/7/24, 6:28 PM",,40.609554,-111.890776
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173300,Incidents,I-15,Millard County,I-15 at MP 134,"Crash
 SB I-15 at MP 134 (Black Rock Rd / Cove Fort) Millard Co.
