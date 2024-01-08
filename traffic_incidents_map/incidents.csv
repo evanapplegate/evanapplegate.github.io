@@ -2628,6 +2628,10 @@ UT-Incident--173291,Incidents,Redwood Rd,Utah County,Redwood Rd at 2100 N,"Road 
 EB Redwood Rd at 2100 N Utah Co.
 NB/SB SR-145 closed between Redwood Rd and Pioneer Corssing ","1/7/24, 3:07 PM","1/7/24, 4:35 PM","1/7/24, 3:07 PM",,40.413214,-111.923173
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173307,Incidents,SR 201,Tooele County,SR 201 at MP 0,"Crash
+WB SR 201 at MP 0 (Ramp to WB I-80) Tooele Co.
+Ramp Closed
+Est. Clearance Time: 11:45 PM","1/7/24, 10:38 PM","1/7/24, 11:37 PM","1/7/24, 10:38 PM",View on map,40.722209,-112.223403
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
@@ -2635,10 +2639,6 @@ Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM"
 UT-Incident--173035,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 Between MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/4/24, 1:56 PM","1/9/24, 12:00 PM","1/4/24, 1:56 PM",View on map,40.619107,-111.786281
-UT-Incident--173307,Incidents,SR 201,Tooele County,SR 201 at MP 0,"Crash
-WB SR 201 at MP 0 (Ramp to WB I-80) Tooele Co.
-Ramp Closed
-Est. Clearance Time: 11:45 PM","1/7/24, 10:38 PM","1/7/24, 11:37 PM","1/7/24, 10:38 PM",View on map,40.722209,-112.223403
 UT-Incident--173036,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 Between MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/4/24, 1:58 PM","1/9/24, 12:00 PM","1/4/24, 1:58 PM",View on map,40.572095,-111.773814
