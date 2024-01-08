@@ -2681,7 +2681,6 @@ Est. Clearance Time: 7:50 AM","1/8/24, 6:50 AM","1/8/24, 7:50 AM","1/8/24, 6:50 
 UT-Incident--173318,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Est. Clearance Time: 7:45 AM","1/8/24, 6:39 AM","1/8/24, 7:45 AM","1/8/24, 6:39 AM",View on map,40.410606,-111.863979
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173330,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 26th St,"Crash
 SB Harrison Blvd at 26th St Weber Co.
 2 Left Lanes Closed
@@ -2702,6 +2701,7 @@ UT-Incident--173325,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/8/24, 7:18 AM","1/8/24, 8:15 AM","1/8/24, 7:19 AM",View on map,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173322,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
 SB I-15 at MP 348 (Harrisville Rd) Weber Co.
@@ -2724,6 +2724,25 @@ UT-Incident--173331,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 9:45 AM","1/8/24, 8:38 AM","1/8/24, 9:45 AM","1/8/24, 8:40 AM",View on map,40.176162,-111.646775
+UT-Incident--173332,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+NB I-15 at MP 275 (PG Blvd) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:45 AM","1/8/24, 8:44 AM","1/8/24, 9:45 AM","1/8/24, 8:44 AM",View on map,40.346539,-111.763778
+UT-Incident--173333,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
+NB I-15 at MP 274 (Lindon) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:45 AM","1/8/24, 8:45 AM","1/8/24, 9:45 AM","1/8/24, 8:45 AM",View on map,40.337197,-111.749203
+UT-Incident--173335,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
+SB I-15 at MP 328 (200 N/SR-273) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/8/24, 8:57 AM","1/8/24, 10:15 AM","1/8/24, 8:57 AM",View on map,41.028688,-111.946853
+UT-Incident--173334,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
+WB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
+Use Alt Route","1/8/24, 8:52 AM","1/8/24, 11:45 AM","1/8/24, 8:53 AM",View on map,40.834182,-111.93436
+UT-Incident--173336,Incidents,I-215 N,Davis County,I-215 N at MP 27,"Crash
+SB I-215 N at MP 27 (Legacy Merge, SLC) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/8/24, 9:03 AM","1/8/24, 10:15 AM","1/8/24, 9:03 AM",View on map,40.831824,-111.944939
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
