@@ -2795,10 +2795,13 @@ WB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:55 PM","1/8/24, 11:50 AM","1/8/24, 12:55 PM","1/8/24, 11:50 AM",,40.725741,-112.001283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173348,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
 EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
 Est. Clearance Time: 1:30 PM","1/8/24, 12:23 PM","1/8/24, 1:30 PM","1/8/24, 12:23 PM",,41.139525,-111.854154
 UT-Incident--173349,Incidents,MAIN ST,Sanpete County,MAIN ST at 100 S,"Crash
 Main St at 100 S (Gunnison) Sanpete Co.
 Est. Clearance Time: 1:45 PM","1/8/24, 12:42 PM","1/8/24, 1:45 PM","1/8/24, 12:42 PM",,39.1544,-111.818256
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173350,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 1401,"Crash
+Washington Blvd at 1700 N (Ogden) Weber Co.
+Est. Clearance Time: 2:45 PM","1/8/24, 1:18 PM","1/8/24, 2:45 PM",,,41.287962,-111.96907
