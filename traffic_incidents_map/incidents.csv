@@ -2671,30 +2671,33 @@ SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 6:54 AM","1/8/24, 5:55 AM","1/8/24, 6:54 AM","1/8/24, 5:57 AM",View on map,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173320,Incidents,Antelope Dr,Davis County,Antelope Dr at 1000 E/2200 W,"Vehicle on fire
 EB Antelope Dr at 2020 W (Layton) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:15 AM","1/8/24, 7:01 AM","1/8/24, 8:15 AM","1/8/24, 7:01 AM",View on map,41.089074,-112.004488
-UT-Incident--173317,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
-NB I-15 at MP 277 (American Fork) Utah Co.
-Cleared at 7:50
-Expect residual delays","1/8/24, 6:21 AM","1/8/24, 7:20 AM","1/8/24, 7:57 AM",View on map,40.365209,-111.792922
-UT-Incident--173318,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
-NB I-15 at MP 282 (Lehi) Utah Co.
-Est. Clearance Time: 7:45 AM","1/8/24, 6:39 AM","1/8/24, 7:45 AM","1/8/24, 6:39 AM",View on map,40.410606,-111.863979
 UT-Incident--173319,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 7:50 AM","1/8/24, 6:50 AM","1/8/24, 7:50 AM","1/8/24, 6:50 AM",View on map,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173330,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 26th St,"Crash
+SB Harrison Blvd at 26th St Weber Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:00 AM","1/8/24, 8:03 AM","1/8/24, 9:00 AM","1/8/24, 8:03 AM",View on map,41.216595,-111.948344
+UT-Incident--173317,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+NB I-15 at MP 277 (American Fork) Utah Co.
+Cleared at 7:50
+Expect residual delays","1/8/24, 6:21 AM","1/8/24, 7:20 AM","1/8/24, 8:10 AM",View on map,40.365209,-111.792922
+UT-Incident--173318,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (Lehi) Utah Co.
+Est. Clearance Time: 7:45 AM","1/8/24, 6:39 AM","1/8/24, 7:45 AM","1/8/24, 6:39 AM",View on map,40.410606,-111.863979
 UT-Incident--173321,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
-Center Lane Closed
-Est. Clearance Time: 8:15 AM","1/8/24, 7:04 AM","1/8/24, 8:15 AM","1/8/24, 7:04 AM",View on map,41.194004,-112.002614
+Right Shoulder
+Est. Clearance Time: 8:15 AM","1/8/24, 7:04 AM","1/8/24, 8:15 AM","1/8/24, 8:14 AM",View on map,41.194004,-112.002614
 UT-Incident--173322,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
 SB I-15 at MP 348 (Harrisville Rd) Weber Co.
-Left Lane Closed
-Est. Clearance Time: 8:10 AM","1/8/24, 7:05 AM","1/8/24, 8:10 AM","1/8/24, 7:06 AM",View on map,41.286745,-112.026149
+Cleared at 8:05, Expect Residual Delays","1/8/24, 7:05 AM","1/8/24, 8:10 AM","1/8/24, 8:08 AM",View on map,41.286745,-112.026149
 UT-Incident--173324,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -2709,8 +2712,8 @@ Right Shoulder
 Est. Clearance Time: 8:25 AM","1/8/24, 7:23 AM","1/8/24, 8:25 AM","1/8/24, 7:23 AM",View on map,40.578741,-111.900284
 UT-Incident--173327,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
-Left Lane Closed
-Est. Clearance Time: 9:30 AM","1/8/24, 7:25 AM","1/8/24, 9:30 AM","1/8/24, 7:25 AM",View on map,41.301243,-112.026067
+Left Lanes Closed
+Est. Clearance Time: 9:30 AM","1/8/24, 7:25 AM","1/8/24, 9:30 AM","1/8/24, 8:06 AM",View on map,41.301243,-112.026067
 UT-Incident--173328,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Est. Clearance Time: 8:45 AM","1/8/24, 7:40 AM","1/8/24, 8:45 AM","1/8/24, 7:40 AM",View on map,41.194004,-112.002614
