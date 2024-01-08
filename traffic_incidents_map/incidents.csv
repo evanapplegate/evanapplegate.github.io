@@ -2678,7 +2678,6 @@ UT-Incident--173319,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 7:50 AM","1/8/24, 6:50 AM","1/8/24, 7:50 AM","1/8/24, 6:50 AM",View on map,40.373184,-111.808465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173318,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Est. Clearance Time: 7:45 AM","1/8/24, 6:39 AM","1/8/24, 7:45 AM","1/8/24, 6:39 AM",View on map,40.410606,-111.863979
@@ -2695,9 +2694,6 @@ UT-Incident--173321,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/8/24, 7:04 AM","1/8/24, 8:15 AM","1/8/24, 8:14 AM",View on map,41.194004,-112.002614
-UT-Incident--173322,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
-SB I-15 at MP 348 (Harrisville Rd) Weber Co.
-Cleared at 8:05, Expect Residual Delays","1/8/24, 7:05 AM","1/8/24, 8:10 AM","1/8/24, 8:28 AM",View on map,41.286745,-112.026149
 UT-Incident--173324,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -2706,6 +2702,10 @@ UT-Incident--173325,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/8/24, 7:18 AM","1/8/24, 8:15 AM","1/8/24, 7:19 AM",View on map,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173322,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
+SB I-15 at MP 348 (Harrisville Rd) Weber Co.
+Cleared at 8:05, Expect Residual Delays","1/8/24, 7:05 AM","1/8/24, 8:10 AM","1/8/24, 8:28 AM",View on map,41.286745,-112.026149
 UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
@@ -2720,6 +2720,10 @@ Est. Clearance Time: 8:45 AM","1/8/24, 7:40 AM","1/8/24, 8:45 AM","1/8/24, 7:40 
 UT-Incident--173329,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Est. Clearance Time: 8:45 AM","1/8/24, 7:43 AM","1/8/24, 8:45 AM","1/8/24, 7:43 AM",View on map,41.301243,-112.026067
+UT-Incident--173331,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
+NB I-15 at MP 261 (1400 N Springville) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 9:45 AM","1/8/24, 8:38 AM","1/8/24, 9:45 AM","1/8/24, 8:40 AM",View on map,40.176162,-111.646775
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
