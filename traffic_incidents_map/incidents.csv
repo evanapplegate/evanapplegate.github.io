@@ -2659,6 +2659,10 @@ NB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 7:10 AM","1/8/24, 6:11 AM","1/8/24, 7:10 AM","1/8/24, 6:11 AM",View on map,40.380301,-111.824926
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173314,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+NB I-15 at MP 277 (American Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:42 AM","1/8/24, 5:45 AM","1/8/24, 6:42 AM","1/8/24, 6:48 AM",View on map,40.365209,-111.792922
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173320,Incidents,Antelope Dr,Davis County,Antelope Dr at 1000 E/2200 W,"Vehicle on fire
 EB Antelope Dr at 2020 W (Layton) Davis Co.
@@ -2668,10 +2672,6 @@ UT-Incident--173323,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 36th S
 NB Harrison Blvd at 36th St Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 8:10 AM","1/8/24, 7:09 AM","1/8/24, 8:10 AM","1/8/24, 7:10 AM",View on map,41.198129,-111.948696
-UT-Incident--173314,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
-NB I-15 at MP 277 (American Fork) Utah Co.
-Left Shoulder
-Est. Clearance Time: 6:42 AM","1/8/24, 5:45 AM","1/8/24, 6:42 AM","1/8/24, 6:48 AM",View on map,40.365209,-111.792922
 UT-Incident--173315,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
@@ -2707,6 +2707,10 @@ UT-Incident--173326,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:25 AM","1/8/24, 7:23 AM","1/8/24, 8:25 AM","1/8/24, 7:23 AM",View on map,40.578741,-111.900284
+UT-Incident--173327,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
+SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 9:30 AM","1/8/24, 7:25 AM","1/8/24, 9:30 AM","1/8/24, 7:25 AM",View on map,41.301243,-112.026067
 UT-Incident--173188,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 between MP 4 - MP50 (Brian Head) Iron Co.
 Traction Devices Required","1/7/24, 1:05 AM","1/9/24, 2:04 AM","1/7/24, 1:08 AM",View on map,37.828866,-112.814606
