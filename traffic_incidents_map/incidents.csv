@@ -2814,7 +2814,6 @@ Est. Clearance Time: 4:00 PM","1/8/24, 2:53 PM","1/8/24, 4:00 PM","1/8/24, 3:05 
 UT-Incident--173353,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 Off Ramp (Gneva Rd / Orem) Utah Co.
 Est. Clearance Time: 4:30 PM","1/8/24, 2:44 PM","1/8/24, 4:30 PM","1/8/24, 2:44 PM",View on map,40.328045,-111.73498
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173355,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
@@ -2844,6 +2843,7 @@ UT-Incident--173361,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 WB I-215 S at MP 8 (1300 E) Salt Lake Co.
 Ri8ght Shoulder
 Est. Clearance Time: 6:47 PM","1/8/24, 5:49 PM","1/8/24, 6:47 PM","1/8/24, 6:28 PM",View on map,40.631583,-111.839435
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",View on map,37.677725,-112.846981
