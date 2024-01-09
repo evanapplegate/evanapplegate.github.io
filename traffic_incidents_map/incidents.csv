@@ -2922,23 +2922,31 @@ UT-Incident--173387,Incidents,Foothill Blvd,Utah County,Foothill Blvd at Hwy 73,
 SB Mountain Veiw Corridor at Hwy 73 Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:45 PM","1/9/24, 3:44 PM","1/9/24, 4:45 PM","1/9/24, 3:44 PM",View on map,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173389,Incidents,SR 112,Tooele County,SR 112 at MP 8,"Crash
 EB SR 112 at MP 8 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/9/24, 3:54 PM","1/9/24, 4:45 PM","1/9/24, 3:54 PM",View on map,40.55101,-112.302471
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173386,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 4:30 PM","1/9/24, 3:31 PM","1/9/24, 4:30 PM","1/9/24, 3:31 PM",View on map,40.764633,-111.972427
+Est. Clearance Time: 4:30 PM","1/9/24, 3:31 PM","1/9/24, 4:30 PM","1/9/24, 3:31 PM",,40.764633,-111.972427
+UT-Incident--173391,Incidents,I-84,Weber County,I-84 at MP 87,"Crash
+WB I-84 at MP 87 On Ramp (1900 S / South Weber) Weber Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","1/9/24, 4:38 PM","1/9/24, 5:45 PM","1/9/24, 4:38 PM",,41.136622,-111.929104
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",View on map,37.677725,-112.846981
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
 UT-Incident--173388,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:00 PM","1/9/24, 3:52 PM","1/9/24, 5:00 PM","1/9/24, 3:52 PM",View on map,40.724124,-111.943886
+Est. Clearance Time: 5:00 PM","1/9/24, 3:52 PM","1/9/24, 5:00 PM","1/9/24, 3:52 PM",,40.724124,-111.943886
+UT-Incident--173390,Incidents,SR 8,Washington County,SR 8 at MP 1,"Crash
+WB SR 8 at MP 1 (1400 W) Washington Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","1/9/24, 4:30 PM","1/9/24, 5:30 PM","1/9/24, 4:30 PM",,37.124548,-113.605737
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
-Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",View on map,41.562271,-111.962763
+Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
