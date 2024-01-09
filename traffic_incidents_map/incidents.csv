@@ -2869,7 +2869,6 @@ UT-Incident--173370,Incidents,I-15 NB X305b Off 2100 S Ramp,Salt Lake County,I-1
 SB I-15 2100 S Off Ramp (Salt Lake County)
 Est. Clearance Time: 8:15 AM","1/9/24, 7:14 AM","1/9/24, 8:15 AM","1/9/24, 7:14 AM",View on map,40.72546,-111.9021
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173371,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (Salt Lake County)
 Right Shoulder
@@ -2878,6 +2877,18 @@ UT-Incident--173372,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 EB I-80 at MP 129 (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/9/24, 7:32 AM","1/9/24, 8:30 AM","1/9/24, 7:32 AM",View on map,40.715578,-111.784616
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173373,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X253 Off 8000 S Ramp at 8000 S,"Crash
+NB I-15 Exit 253 8000 S Off Ramp Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","1/9/24, 8:04 AM","1/9/24, 9:15 AM","1/9/24, 8:04 AM",,40.080998,-111.706689
+UT-Incident--173374,Incidents,I-15 NB X332 On Antelope Dr Ramp,Davis County,I-15 NB X332 On Antelope Dr Ramp at Antelope Dr,"Crash
+NB I-15 Antelope Dr On Ramp at Antelope Dr (Davis County)
+Right Shoulder
+Est. Clearance Time: 9:10 AM","1/9/24, 8:08 AM","1/9/24, 9:10 AM","1/9/24, 8:08 AM",,41.089224,-111.989213
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",View on map,37.677725,-112.846981
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
+UT-Incident--173375,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
+SR 248 at MP 8 (Jordanelle Overlook) Wasatch County
+Est. Clearance Time: 9:20 AM","1/9/24, 8:17 AM","1/9/24, 9:20 AM","1/9/24, 8:17 AM",,40.641218,-111.397599
