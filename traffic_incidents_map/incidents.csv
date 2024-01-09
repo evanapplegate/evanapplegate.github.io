@@ -2880,7 +2880,6 @@ UT-Incident--173374,Incidents,I-15 NB X332 On Antelope Dr Ramp,Davis County,I-15
 NB I-15 Antelope Dr On Ramp at Antelope Dr (Davis County)
 Right Shoulder
 Est. Clearance Time: 9:10 AM","1/9/24, 8:08 AM","1/9/24, 9:10 AM","1/9/24, 8:08 AM",,41.089224,-111.989213
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173373,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X253 Off 8000 S Ramp at 8000 S,"Crash
 NB I-15 Exit 253 8000 S Off Ramp Utah Co.
 Right Shoulder
@@ -2888,6 +2887,7 @@ Est. Clearance Time: 9:15 AM","1/9/24, 8:04 AM","1/9/24, 9:15 AM","1/9/24, 8:04 
 UT-Incident--173375,Incidents,SR 248,Wasatch County,SR 248 at MP 8,"Crash
 SR 248 at MP 8 (Jordanelle Overlook) Wasatch County
 Est. Clearance Time: 9:20 AM","1/9/24, 8:17 AM","1/9/24, 9:20 AM","1/9/24, 8:17 AM",,40.641218,-111.397599
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
