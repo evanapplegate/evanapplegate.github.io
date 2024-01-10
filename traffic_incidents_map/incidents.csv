@@ -2962,7 +2962,6 @@ Est. Clearance Time: 7:00 PM","1/9/24, 6:08 PM","1/9/24, 7:00 PM","1/9/24, 6:12 
 UT-Incident--173408,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 NB I-15 at MP 322 (Glover Ln) Davis Co.
 Est. Clearance Time: 7:45 PM","1/9/24, 6:42 PM","1/9/24, 7:45 PM","1/9/24, 6:42 PM",,40.957495,-111.891392
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173415,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
@@ -2981,6 +2980,7 @@ Est. Clearance Time: 7:45 PM","1/9/24, 6:32 PM","1/9/24, 7:45 PM","1/9/24, 6:32 
 UT-Incident--173410,Incidents,US 89,Sanpete County,US 89 at MP 252,"Crash
 US 89 at MP 252 (2 miles S of Manti) Sanpete Co.
 Est. Clearance Time: 7:45 PM","1/9/24, 6:48 PM","1/9/24, 7:45 PM","1/9/24, 6:48 PM",,39.225346,-111.67404
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173416,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
