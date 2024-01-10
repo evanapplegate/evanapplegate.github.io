@@ -3115,7 +3115,6 @@ UT-Incident--173453,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/10/24, 7:15 AM","1/10/24, 8:15 AM","1/10/24, 7:26 AM",,40.373184,-111.808465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173449,Incidents,I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On Ramp at Center St,"Crash
 NB I-15 265 On Ramp at Center St (Utah County)
 Right Shoulder
@@ -3128,10 +3127,11 @@ UT-Incident--173458,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 2200,"Cra
 Both Directions HARRISON BLVD Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/10/24, 8:17 AM","1/10/24, 9:15 AM","1/10/24, 8:24 AM",,41.22304,-111.948209
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 9:30 AM","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 7:28 AM",,40.52103,-111.891246
+Cleared at 8:30 AM
+Expect Residual Delays","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 8:32 AM",,40.52103,-111.891246
 UT-Incident--173457,Incidents,I-15 SB X265 Off Center St Ramp,Utah County,I-15 SB X265 Off Center St Ramp at Center St,"Crash
 SB I-15 Exit 265 Center St Off Ramp (Provo) Utah Co.
 Left Lane Closed
@@ -3150,7 +3150,7 @@ Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
 UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
 EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 8:45 AM","1/10/24, 2:53 AM","1/10/24, 8:45 AM","1/10/24, 8:17 AM",,40.254679,-111.199016
+Est. Clearance Time: 9:45 AM","1/10/24, 2:53 AM","1/10/24, 9:45 AM","1/10/24, 8:30 AM",,40.254679,-111.199016
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
 Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
