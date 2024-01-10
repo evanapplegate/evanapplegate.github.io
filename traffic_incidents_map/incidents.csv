@@ -3122,20 +3122,28 @@ Est. Clearance Time: 8:05 AM","1/10/24, 6:40 AM","1/10/24, 8:05 AM","1/10/24, 7:
 UT-Incident--173456,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
 EB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 8:30 AM","1/10/24, 7:33 AM","1/10/24, 8:30 AM","1/10/24, 7:33 AM",,40.405503,-111.524184
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173458,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 2200,"Crash
 Both Directions HARRISON BLVD Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/10/24, 8:17 AM","1/10/24, 9:15 AM","1/10/24, 8:24 AM",,41.22304,-111.948209
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Cleared at 8:30 AM
 Expect Residual Delays","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 8:32 AM",,40.52103,-111.891246
+UT-Incident--173459,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:45 AM","1/10/24, 8:45 AM","1/10/24, 10:45 AM","1/10/24, 8:58 AM",,40.328045,-111.73498
 UT-Incident--173457,Incidents,I-15 SB X265 Off Center St Ramp,Utah County,I-15 SB X265 Off Center St Ramp at Center St,"Crash
 SB I-15 Exit 265 Center St Off Ramp (Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 9:15 AM","1/10/24, 8:06 AM","1/10/24, 9:15 AM","1/10/24, 8:08 AM",,40.236691,-111.687843
+UT-Incident--173460,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
+EB I-215 S at MP 8 (1300 E) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 10:00 AM","1/10/24, 8:51 AM","1/10/24, 10:00 AM","1/10/24, 8:51 AM",,40.631583,-111.839435
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
