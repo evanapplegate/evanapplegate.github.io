@@ -3050,7 +3050,6 @@ UT-Incident--173434,Incidents,I-15,Millard County,I-15 at MP 132,"Crash
 SB I-15 at MP 132 (I-70 Cove Fort Jct) Millard Co.
 Right Shoulder
 Est. Clearance Time: 1/10/2024 1:00 AM","1/9/24, 10:14 PM","1/10/24, 1:00 AM","1/9/24, 11:33 PM",,38.574664,-112.603566
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173412,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For Semis","1/9/24, 6:52 PM","1/12/24, 12:00 PM","1/9/24, 11:04 PM",,40.712086,-111.801151
@@ -3063,6 +3062,7 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 7:38 PM","1/12/24,
 UT-Incident--173437,Incidents,US 6,Utah County,US 6 at MP 179,"Roadway Restriction
 EB US 6 MP 179-232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required For All Semis","1/9/24, 11:03 PM","1/10/24, 10:00 AM","1/9/24, 11:13 PM",,40.069955,-111.575639
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
