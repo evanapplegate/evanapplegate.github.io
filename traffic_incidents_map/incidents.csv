@@ -3127,6 +3127,13 @@ Both Directions HARRISON BLVD Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/10/24, 8:17 AM","1/10/24, 9:15 AM","1/10/24, 8:24 AM",,41.22304,-111.948209
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173460,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
+EB I-215 S at MP 8 (1300 E) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 10:00 AM","1/10/24, 8:51 AM","1/10/24, 10:00 AM","1/10/24, 8:51 AM",,40.631583,-111.839435
+UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
+EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 9:45 AM","1/10/24, 2:53 AM","1/10/24, 9:45 AM","1/10/24, 8:30 AM",,40.254679,-111.199016
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
@@ -3136,14 +3143,17 @@ UT-Incident--173459,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:45 AM","1/10/24, 8:45 AM","1/10/24, 10:45 AM","1/10/24, 8:58 AM",,40.328045,-111.73498
+UT-Incident--173462,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
+NB I-15 at MP 267 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 10:10 AM","1/10/24, 9:13 AM","1/10/24, 10:10 AM","1/10/24, 9:13 AM",,40.251153,-111.695664
 UT-Incident--173457,Incidents,I-15 SB X265 Off Center St Ramp,Utah County,I-15 SB X265 Off Center St Ramp at Center St,"Crash
 SB I-15 Exit 265 Center St Off Ramp (Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 9:15 AM","1/10/24, 8:06 AM","1/10/24, 9:15 AM","1/10/24, 8:08 AM",,40.236691,-111.687843
-UT-Incident--173460,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
-EB I-215 S at MP 8 (1300 E) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 10:00 AM","1/10/24, 8:51 AM","1/10/24, 10:00 AM","1/10/24, 8:51 AM",,40.631583,-111.839435
+UT-Incident--173463,Incidents,I-80,Tooele County,I-80 at MP 94,"Crash
+WB I-80 at MP 94 (4 mi W of Tooele) Tooele Co.
+Est. Clearance Time: 10:15 AM","1/10/24, 9:15 AM","1/10/24, 10:15 AM","1/10/24, 9:15 AM",,40.662601,-112.338265
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3156,9 +3166,9 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
-UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
-EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 9:45 AM","1/10/24, 2:53 AM","1/10/24, 9:45 AM","1/10/24, 8:30 AM",,40.254679,-111.199016
+UT-Incident--173464,Incidents,US 40,Wasatch County,US 40 at MP 58,"Crash
+EB US 40 at MP 58 (3 mi W of Fruitland) Wasatch Co.
+Est. Clearance Time: 10:15 AM","1/10/24, 9:20 AM","1/10/24, 10:15 AM","1/10/24, 9:20 AM",,40.200198,-110.909422
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
 Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
