@@ -2955,7 +2955,6 @@ Est. Clearance Time: 5:45 PM","1/9/24, 4:38 PM","1/9/24, 5:45 PM","1/9/24, 4:38 
 UT-Incident--173395,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
 WB SR 201 at MP 16 (900 W) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","1/9/24, 5:18 PM","1/9/24, 6:15 PM","1/9/24, 5:18 PM",View on map,40.724236,-111.924637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173402,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
@@ -2963,6 +2962,7 @@ Est. Clearance Time: 7:00 PM","1/9/24, 6:08 PM","1/9/24, 7:00 PM","1/9/24, 6:12 
 UT-Incident--173408,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 NB I-15 at MP 322 (Glover Ln) Davis Co.
 Est. Clearance Time: 7:45 PM","1/9/24, 6:42 PM","1/9/24, 7:45 PM","1/9/24, 6:42 PM",,40.957495,-111.891392
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173415,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (2700 S) Salt Lake Co.
@@ -2972,6 +2972,9 @@ UT-Incident--173416,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","1/9/24, 7:15 PM","1/9/24, 8:15 PM","1/9/24, 7:15 PM",,40.52103,-111.891246
+UT-Incident--173417,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Est. Clearance Time: 8:35 PM","1/9/24, 7:24 PM","1/9/24, 8:35 PM","1/9/24, 7:24 PM",,40.621691,-111.903876
 UT-Incident--173406,Incidents,I-80,Tooele County,I-80 at MP 51,"Crash
 EB I-80 at MP 51 (10 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 7:35 PM","1/9/24, 6:30 PM","1/9/24, 7:35 PM","1/9/24, 6:30 PM",,40.742208,-113.078315
@@ -2985,6 +2988,10 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:52 PM","1/12/24,
 UT-Incident--173414,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128  (Parleys Canyon) Salt lake/ Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 7:02 PM","1/12/24, 12:00 PM","1/9/24, 7:02 PM",,40.740161,-111.558358
+UT-Incident--173418,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
+WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:00 PM","1/9/24, 7:25 PM","1/9/24, 9:00 PM","1/9/24, 7:25 PM",,40.750021,-111.604602
 UT-Incident--173413,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
 WB I-84 at MP 85 (South Weber) Weber Co.
 Est. Clearance Time: 8:00 PM","1/9/24, 6:54 PM","1/9/24, 8:00 PM","1/9/24, 6:54 PM",,41.146953,-111.961855
@@ -3000,6 +3007,9 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
+UT-Incident--173419,Incidents,US 189,Wasatch County,US 189 at MP 21,"NB US 189 Closed
+ at MP 21 (Wallsburg) Wasatch Co.
+Use Alt Route","1/9/24, 7:29 PM","1/9/24, 8:35 PM","1/9/24, 7:29 PM",,40.414112,-111.480348
 UT-Incident--173407,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
