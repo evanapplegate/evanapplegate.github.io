@@ -3193,10 +3193,19 @@ UT-Incident--173474,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 1:45 PM","1/10/24, 12:46 PM","1/10/24, 1:45 PM","1/10/24, 12:46 PM",,40.602142,-111.430846
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173476,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
+EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
+Est. Clearance Time: 2:20 PM","1/10/24, 1:18 PM","1/10/24, 2:20 PM","1/10/24, 1:18 PM",,40.615495,-111.433889
+UT-Incident--173478,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
+EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
+Est. Clearance Time: 2:40 PM","1/10/24, 1:38 PM","1/10/24, 2:40 PM","1/10/24, 1:40 PM",,40.615495,-111.433889
+UT-Incident--173480,Incidents,US 89,Sanpete County,US 89 23321,"Crash
+US 89 MP 277 (Sanpete Co)
+Est. Clearance Time: 3:00 PM","1/10/24, 1:59 PM","1/10/24, 3:00 PM","1/10/24, 2:04 PM",,39.618768,-111.440905
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173477,Incidents,Hwy 39,Weber County,Hwy 39 5576,"Crash
 HWY 39 MP 16 (Weber County)
-Est. Clearance Time: 2:30 PM","1/10/24, 1:30 PM","1/10/24, 2:30 PM","1/10/24, 1:31 PM",,41.25212,-111.804141
+Est. Clearance Time: 4:00 PM","1/10/24, 1:30 PM","1/10/24, 4:00 PM","1/10/24, 2:42 PM",,41.25212,-111.804141
 UT-Incident--173479,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 On Ramp (600 N) Salt Lake Co.
 Est. Clearance Time: 3:30 PM","1/10/24, 1:49 PM","1/10/24, 3:30 PM","1/10/24, 1:49 PM",,40.777705,-111.910735
@@ -3212,18 +3221,12 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
-UT-Incident--173476,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
-EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
-Est. Clearance Time: 2:20 PM","1/10/24, 1:18 PM","1/10/24, 2:20 PM","1/10/24, 1:18 PM",,40.615495,-111.433889
-UT-Incident--173478,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
-EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
-Est. Clearance Time: 2:40 PM","1/10/24, 1:38 PM","1/10/24, 2:40 PM","1/10/24, 1:40 PM",,40.615495,-111.433889
 UT-Incident--173481,Incidents,US 6,Utah County,US 6 at MP 182,"Stalled Vehicle
 Both Directions US 6 at MP 182 (2 Mi W of Diamand Fork Rd) Utah Co.
 Est. Clearance Time: 4:15 PM","1/10/24, 2:17 PM","1/10/24, 4:15 PM","1/10/24, 2:17 PM",,40.040823,-111.541266
-UT-Incident--173480,Incidents,US 89,Sanpete County,US 89 23321,"Crash
-US 89 MP 277 (Sanpete Co)
-Est. Clearance Time: 3:00 PM","1/10/24, 1:59 PM","1/10/24, 3:00 PM","1/10/24, 2:04 PM",,39.618768,-111.440905
+UT-Incident--173482,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required for Semis","1/10/24, 2:43 PM","1/11/24, 4:00 PM","1/10/24, 2:43 PM",,,
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather
 Both Directions US 91 at MP 11 (8 MI from Logan) Cache Co.
 Est. Clearance Time: 1/11/2024 11:30 AM","1/9/24, 11:33 AM","1/11/24, 11:30 AM","1/10/24, 10:28 AM",,41.562271,-111.962763
