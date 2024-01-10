@@ -3107,7 +3107,6 @@ UT-Incident--173451,Incidents,I-15 NB X 293 Off 10600 S Ramp,Salt Lake County,I-
 SB I-15 293 Off Ramp (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/10/24, 7:03 AM","1/10/24, 8:00 AM","1/10/24, 7:03 AM",,40.554383,-111.896936
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173452,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 HOV Lanes Closed
@@ -3117,6 +3116,7 @@ SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/10/24, 7:15 AM","1/10/24, 8:15 AM","1/10/24, 7:26 AM",,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -3124,7 +3124,7 @@ Est. Clearance Time: 9:30 AM","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 7:
 UT-Incident--173449,Incidents,I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On Ramp at Center St,"Crash
 NB I-15 265 On Ramp at Center St (Utah County)
 Right Shoulder
-Est. Clearance Time: 7:35 AM","1/10/24, 6:40 AM","1/10/24, 7:35 AM","1/10/24, 6:40 AM",,40.230396,-111.681974
+Est. Clearance Time: 8:05 AM","1/10/24, 6:40 AM","1/10/24, 8:05 AM","1/10/24, 7:48 AM",,40.230396,-111.681974
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
