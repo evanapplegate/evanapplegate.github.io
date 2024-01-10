@@ -3074,11 +3074,18 @@ NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:43 AM","1/10/24, 3:59 AM","1/10/24, 4:43 AM","1/10/24, 3:59 AM",,40.659924,-111.952783
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173439,Incidents,I-15,Box Elder County,I-15 at MP 369,"Crash
 SB I-15 at MP 369 (Honeyville) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 2:59 AM","1/10/24, 2:05 AM","1/10/24, 2:59 AM","1/10/24, 2:05 AM",,41.584819,-112.073061
+UT-Incident--173421,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
+Both Directions US 40 MP 6-13 Summit/Wasatch Co.
+Approved Traction Devices Required For Semis","1/9/24, 7:43 PM","1/12/24, 12:00 PM","1/9/24, 7:43 PM",,40.654652,-111.457229
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173444,Incidents,5600 W,Salt Lake County,5600 W at California Ave,"Crash
+SB 5600 W at California Ave (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 6:00 AM","1/10/24, 4:58 AM","1/10/24, 6:00 AM","1/10/24, 4:58 AM",,40.740261,-112.024905
 UT-Incident--173442,Incidents,I-80,Tooele County,I-80 at MP 2,"Crash
 EB I-80 at MP 2 (Wendover) Tooele Co.
 Est. Clearance Time: 4:23 AM","1/10/24, 3:27 AM","1/10/24, 4:23 AM","1/10/24, 3:27 AM",,40.747236,-114.007715
@@ -3094,9 +3101,6 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
-UT-Incident--173421,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
-Both Directions US 40 MP 6-13 Summit/Wasatch Co.
-Approved Traction Devices Required For Semis","1/9/24, 7:43 PM","1/12/24, 12:00 PM","1/9/24, 7:43 PM",,40.654652,-111.457229
 UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
 EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 3:48 AM","1/10/24, 2:53 AM","1/10/24, 3:48 AM","1/10/24, 2:53 AM",,40.254679,-111.199016
