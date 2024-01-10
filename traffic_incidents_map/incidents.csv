@@ -3085,15 +3085,19 @@ SB 5600 W at California Ave (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 6:00 AM","1/10/24, 4:58 AM","1/10/24, 6:00 AM","1/10/24, 4:58 AM",,40.740261,-112.024905
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173446,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
-NB I-15 at MP 284 (SR-92 Exit) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 7:00 AM","1/10/24, 5:50 AM","1/10/24, 7:00 AM","1/10/24, 5:50 AM",,40.431127,-111.890772
 UT-Incident--173445,Incidents,I-215W NB X20 TO SR 201 EB RAMP,Salt Lake County,I-215W NB X20 TO SR 201 EB RAMP at SR 201 EB,"Crash
 NB I-215W to EB SR-201 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:44 AM","1/10/24, 5:46 AM","1/10/24, 6:44 AM","1/10/24, 5:46 AM",,40.720875,-111.952412
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173446,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+NB I-15 at MP 284 (SR-92 Exit) Utah Co
+Right Shoulder
+Est. Clearance Time: 7:00 AM","1/10/24, 5:50 AM","1/10/24, 7:00 AM","1/10/24, 5:56 AM",,40.431127,-111.890772
+UT-Incident--173447,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:00 AM","1/10/24, 6:02 AM","1/10/24, 7:00 AM","1/10/24, 6:02 AM",,40.122652,-111.658929
 UT-Incident--173442,Incidents,I-80,Tooele County,I-80 at MP 2,"Crash
 EB I-80 at MP 2 (Wendover) Tooele Co.
 Est. Clearance Time: 6:23 AM","1/10/24, 3:27 AM","1/10/24, 6:23 AM","1/10/24, 5:32 AM",,40.747236,-114.007715
