@@ -3174,13 +3174,13 @@ UT-Incident--173467,Incidents,US 91,Cache County,US 91 at MP 11,"Crash
 NB US 91 at MP 11 (Sardine Canyon) Cache Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","1/10/24, 10:28 AM","1/10/24, 11:30 AM","1/10/24, 11:19 AM",,41.562271,-111.962763
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173465,Incidents,SR 36,Tooele County,SR 36 at MP 42,"Vehicle on fire
 SR 36 at MP 42 (SR-73 JCT) Tooele Co.
 Est. Clearance Time: 10:45 AM","1/10/24, 9:43 AM","1/10/24, 10:45 AM","1/10/24, 9:43 AM",,40.375413,-112.394364
 UT-Incident--173469,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
 WB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
 Est. Clearance Time: 12:10 PM","1/10/24, 11:09 AM","1/10/24, 12:10 PM","1/10/24, 11:09 AM",,40.588743,-111.436969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
@@ -3200,3 +3200,7 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24,
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather
 Both Directions US 91 at MP 11 (8 MI from Logan) Cache Co.
 Est. Clearance Time: 1/11/2024 11:30 AM","1/9/24, 11:33 AM","1/11/24, 11:30 AM","1/10/24, 10:28 AM",,41.562271,-111.962763
+UT-Incident--173473,Incidents,Washington Blvd,Weber County,Washington Blvd at 29th St,"Crash
+NB Washington Blvd at 29th St Weber Co.
+NB closed
+Use Alt Route","1/10/24, 12:32 PM","1/10/24, 1:30 PM","1/10/24, 12:32 PM",,0.0,0.0
