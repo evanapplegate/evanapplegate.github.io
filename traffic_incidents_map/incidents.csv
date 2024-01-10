@@ -3133,20 +3133,20 @@ Est. Clearance Time: 10:00 AM","1/10/24, 8:51 AM","1/10/24, 10:00 AM","1/10/24, 
 UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
 EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 9:45 AM","1/10/24, 2:53 AM","1/10/24, 9:45 AM","1/10/24, 8:30 AM",,40.254679,-111.199016
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173462,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 NB I-15 at MP 267 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:10 AM","1/10/24, 9:13 AM","1/10/24, 10:10 AM","1/10/24, 9:13 AM",,40.251153,-111.695664
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
-SB I-15 at MP 291 (12300 S) Salt Lake Co.
-Cleared at 8:30 AM
-Expect Residual Delays","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 8:32 AM",,40.52103,-111.891246
 UT-Incident--173459,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:45 AM","1/10/24, 8:45 AM","1/10/24, 10:45 AM","1/10/24, 8:58 AM",,40.328045,-111.73498
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+SB I-15 at MP 291 (12300 S) Salt Lake Co.
+Cleared at 8:30 AM
+Expect Residual Delays","1/10/24, 7:28 AM","1/10/24, 9:30 AM","1/10/24, 8:32 AM",,40.52103,-111.891246
 UT-Incident--173457,Incidents,I-15 SB X265 Off Center St Ramp,Utah County,I-15 SB X265 Off Center St Ramp at Center St,"Crash
 SB I-15 Exit 265 Center St Off Ramp (Provo) Utah Co.
 Left Lane Closed
@@ -3166,6 +3166,9 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
+UT-Incident--173465,Incidents,SR 36,Tooele County,SR 36 at MP 42,"Vehicle on fire
+SR 36 at MP 42 (SR-73 JCT) Tooele Co.
+Est. Clearance Time: 10:45 AM","1/10/24, 9:43 AM","1/10/24, 10:45 AM","1/10/24, 9:43 AM",,40.375413,-112.394364
 UT-Incident--173464,Incidents,US 40,Wasatch County,US 40 at MP 58,"Crash
 EB US 40 at MP 58 (3 mi W of Fruitland) Wasatch Co.
 Est. Clearance Time: 10:15 AM","1/10/24, 9:20 AM","1/10/24, 10:15 AM","1/10/24, 9:20 AM",,40.200198,-110.909422
