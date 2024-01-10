@@ -2927,18 +2927,10 @@ EB SR 112 at MP 8 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/9/24, 3:54 PM","1/9/24, 4:45 PM","1/9/24, 3:54 PM",View on map,40.55101,-112.302471
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173386,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","1/9/24, 3:31 PM","1/9/24, 4:30 PM","1/9/24, 3:31 PM",,40.764633,-111.972427
-UT-Incident--173391,Incidents,I-84,Weber County,I-84 at MP 87,"Crash
-WB I-84 at MP 87 On Ramp (1900 S / South Weber) Weber Co.
-Left Shoulder
-Est. Clearance Time: 5:45 PM","1/9/24, 4:38 PM","1/9/24, 5:45 PM","1/9/24, 4:38 PM",,41.136622,-111.929104
-UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
-Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
 UT-Incident--173388,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
@@ -2947,6 +2939,30 @@ UT-Incident--173390,Incidents,SR 8,Washington County,SR 8 at MP 1,"Crash
 WB SR 8 at MP 1 (1400 W) Washington Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","1/9/24, 4:30 PM","1/9/24, 5:30 PM","1/9/24, 4:30 PM",,37.124548,-113.605737
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173392,Incidents,200 W,Davis County,200 W at 500 S,"Crash
+200 W at 500 S (Bountiful) Davis Co.
+Est. Clearance Time: 5:45 PM","1/9/24, 4:46 PM","1/9/24, 5:45 PM","1/9/24, 4:46 PM",View on map,40.884254,-111.885654
+UT-Incident--173396,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:25 PM","1/9/24, 5:20 PM","1/9/24, 6:25 PM","1/9/24, 5:20 PM",View on map,40.746426,-111.949053
+UT-Incident--173397,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+EB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
+Est. Clearance Time: 6:30 PM","1/9/24, 5:29 PM","1/9/24, 6:30 PM","1/9/24, 5:29 PM",View on map,40.718459,-111.873941
+UT-Incident--173391,Incidents,I-84,Weber County,I-84 at MP 87,"Crash
+WB I-84 at MP 87 On Ramp (1900 S / South Weber) Weber Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","1/9/24, 4:38 PM","1/9/24, 5:45 PM","1/9/24, 4:38 PM",View on map,41.136622,-111.929104
+UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
+Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",View on map,37.677725,-112.846981
+UT-Incident--173395,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
+WB SR 201 at MP 16 (900 W) Salt Lake Co.
+Est. Clearance Time: 6:15 PM","1/9/24, 5:18 PM","1/9/24, 6:15 PM","1/9/24, 5:18 PM",View on map,40.724236,-111.924637
+UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
+Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",View on map,40.624634,-111.501637
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
-Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
+Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",View on map,41.562271,-111.962763
