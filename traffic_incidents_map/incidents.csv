@@ -3032,7 +3032,6 @@ UT-Incident--173429,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","1/9/24, 8:30 PM","1/9/24, 9:35 PM","1/9/24, 8:30 PM",,40.747703,-111.639522
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173432,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -3045,10 +3044,11 @@ UT-Incident--173431,Incidents,I-80,Tooele County,I-80 at MP 37,"Crash
 WB I-80 at MP 37 (4 mi W of Knolls) Tooele Co.
 Est. Clearance Time: 10:45 PM","1/9/24, 8:50 PM","1/9/24, 10:45 PM","1/9/24, 10:06 PM",,40.728557,-113.34036
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173434,Incidents,I-15,Millard County,I-15 at MP 132,"Crash
 SB I-15 at MP 132 (I-70 Cove Fort Jct) Millard Co.
 Right Shoulder
-Est. Clearance Time: 11:30 PM","1/9/24, 10:14 PM","1/9/24, 11:30 PM","1/9/24, 10:14 PM",,38.574664,-112.603566
+Est. Clearance Time: 1/10/2024 1:30 AM","1/9/24, 10:14 PM","1/10/24, 1:30 AM","1/9/24, 11:21 PM",,38.574664,-112.603566
 UT-Incident--173412,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For Semis","1/9/24, 6:52 PM","1/12/24, 12:00 PM","1/9/24, 11:04 PM",,40.712086,-111.801151
@@ -3080,8 +3080,8 @@ UT-Incident--173436,Incidents,US 40,Wasatch County,US 40 at MP 32,"EB US 40 Clos
  at MP 32 (11 mi S of Heber) Wasatch Co.
 Use Alt Route","1/9/24, 10:57 PM","1/9/24, 11:55 PM","1/9/24, 10:57 PM",,40.333619,-111.261279
 UT-Incident--173437,Incidents,US 6,Utah County,US 6 at MP 179,"Roadway Restriction
-EB US 6 MP 179-202 (Spanish Fork Canyon) Utah Co.
-Approved Traction Devices Required For All Semis","1/9/24, 11:03 PM","1/10/24, 10:00 AM","1/9/24, 11:03 PM",,40.069955,-111.575639
+EB US 6 MP 179-232 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required For All Semis","1/9/24, 11:03 PM","1/10/24, 10:00 AM","1/9/24, 11:13 PM",,40.069955,-111.575639
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
 Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
