@@ -2981,11 +2981,14 @@ UT-Incident--173410,Incidents,US 89,Sanpete County,US 89 at MP 252,"Crash
 US 89 at MP 252 (2 miles S of Manti) Sanpete Co.
 Est. Clearance Time: 7:45 PM","1/9/24, 6:48 PM","1/9/24, 7:45 PM","1/9/24, 6:48 PM",,39.225346,-111.67404
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173416,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","1/9/24, 7:15 PM","1/9/24, 8:15 PM","1/9/24, 7:15 PM",,40.52103,-111.891246
+UT-Incident--173413,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
+WB I-84 at MP 85 (South Weber) Weber Co.
+Est. Clearance Time: 8:00 PM","1/9/24, 6:54 PM","1/9/24, 8:00 PM","1/9/24, 6:54 PM",,41.146953,-111.961855
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173417,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Est. Clearance Time: 8:35 PM","1/9/24, 7:24 PM","1/9/24, 8:35 PM","1/9/24, 7:24 PM",,40.621691,-111.903876
@@ -2993,6 +2996,10 @@ UT-Incident--173423,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","1/9/24, 7:46 PM","1/9/24, 8:45 PM","1/9/24, 7:46 PM",,40.707874,-111.90397
+UT-Incident--173427,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","1/9/24, 8:24 PM","1/9/24, 9:35 PM","1/9/24, 8:24 PM",,40.736823,-111.90475
 UT-Incident--173412,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:52 PM","1/12/24, 12:00 PM","1/9/24, 6:52 PM",,40.712086,-111.801151
@@ -3007,9 +3014,13 @@ UT-Incident--173425,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:00 PM","1/9/24, 7:59 PM","1/9/24, 9:00 PM","1/9/24, 7:59 PM",,40.742835,-112.186308
-UT-Incident--173413,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
-WB I-84 at MP 85 (South Weber) Weber Co.
-Est. Clearance Time: 8:00 PM","1/9/24, 6:54 PM","1/9/24, 8:00 PM","1/9/24, 6:54 PM",,41.146953,-111.961855
+UT-Incident--173426,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
+WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
+Est. Clearance Time: 9:25 PM","1/9/24, 8:20 PM","1/9/24, 9:25 PM","1/9/24, 8:20 PM",,40.747703,-111.639522
+UT-Incident--173428,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
+EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","1/9/24, 8:29 PM","1/9/24, 9:35 PM","1/9/24, 8:29 PM",,40.747119,-111.724705
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
