@@ -2938,7 +2938,6 @@ UT-Incident--173390,Incidents,SR 8,Washington County,SR 8 at MP 1,"Crash
 WB SR 8 at MP 1 (1400 W) Washington Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","1/9/24, 4:30 PM","1/9/24, 5:30 PM","1/9/24, 4:30 PM",,37.124548,-113.605737
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173392,Incidents,200 W,Davis County,200 W at 500 S,"Crash
 200 W at 500 S (Bountiful) Davis Co.
 Est. Clearance Time: 5:45 PM","1/9/24, 4:46 PM","1/9/24, 5:45 PM","1/9/24, 4:46 PM",View on map,40.884254,-111.885654
@@ -2964,9 +2963,31 @@ Est. Clearance Time: 7:00 PM","1/9/24, 6:08 PM","1/9/24, 7:00 PM","1/9/24, 6:12 
 UT-Incident--173408,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 NB I-15 at MP 322 (Glover Ln) Davis Co.
 Est. Clearance Time: 7:45 PM","1/9/24, 6:42 PM","1/9/24, 7:45 PM","1/9/24, 6:42 PM",,40.957495,-111.891392
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173415,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+SB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:15 PM","1/9/24, 7:11 PM","1/9/24, 8:15 PM","1/9/24, 7:11 PM",,40.707874,-111.90397
+UT-Incident--173416,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:15 PM","1/9/24, 7:15 PM","1/9/24, 8:15 PM","1/9/24, 7:15 PM",,40.52103,-111.891246
 UT-Incident--173406,Incidents,I-80,Tooele County,I-80 at MP 51,"Crash
 EB I-80 at MP 51 (10 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 7:35 PM","1/9/24, 6:30 PM","1/9/24, 7:35 PM","1/9/24, 6:30 PM",,40.742208,-113.078315
+UT-Incident--173411,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Crash
+EB I-80 at MP 135 (1 mi E of Mountaindale) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:00 PM","1/9/24, 6:51 PM","1/9/24, 8:00 PM","1/9/24, 6:51 PM",,40.745148,-111.69119
+UT-Incident--173412,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
+Approved Traction Devices Required For All Vehicles","1/9/24, 6:52 PM","1/12/24, 12:00 PM","1/9/24, 6:52 PM",,40.712086,-111.801151
+UT-Incident--173414,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 MP 143-128  (Parleys Canyon) Salt lake/ Summit Co.
+Approved Traction Devices Required For All Vehicles","1/9/24, 7:02 PM","1/12/24, 12:00 PM","1/9/24, 7:02 PM",,40.740161,-111.558358
+UT-Incident--173413,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
+WB I-84 at MP 85 (South Weber) Weber Co.
+Est. Clearance Time: 8:00 PM","1/9/24, 6:54 PM","1/9/24, 8:00 PM","1/9/24, 6:54 PM",,41.146953,-111.961855
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -2983,6 +3004,9 @@ UT-Incident--173407,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","1/9/24, 6:32 PM","1/9/24, 7:45 PM","1/9/24, 6:32 PM",,41.144394,-111.918626
+UT-Incident--173410,Incidents,US 89,Sanpete County,US 89 at MP 252,"Crash
+US 89 at MP 252 (2 miles S of Manti) Sanpete Co.
+Est. Clearance Time: 7:45 PM","1/9/24, 6:48 PM","1/9/24, 7:45 PM","1/9/24, 6:48 PM",,39.225346,-111.67404
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
 Both Directions US 91 at MP 10 to MP 14  (Cache County)
 Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
