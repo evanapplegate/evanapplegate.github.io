@@ -3201,7 +3201,6 @@ Est. Clearance Time: 2:40 PM","1/10/24, 1:38 PM","1/10/24, 2:40 PM","1/10/24, 1:
 UT-Incident--173480,Incidents,US 89,Sanpete County,US 89 23321,"Crash
 US 89 MP 277 (Sanpete Co)
 Est. Clearance Time: 3:00 PM","1/10/24, 1:59 PM","1/10/24, 3:00 PM","1/10/24, 2:04 PM",,39.618768,-111.440905
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173477,Incidents,Hwy 39,Weber County,Hwy 39 5576,"Crash
 HWY 39 MP 16 (Weber County)
 Est. Clearance Time: 4:00 PM","1/10/24, 1:30 PM","1/10/24, 4:00 PM","1/10/24, 2:42 PM",,41.25212,-111.804141
@@ -3219,6 +3218,7 @@ UT-Incident--173482,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restricti
 EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","1/10/24, 2:43 PM","1/11/24, 4:00 PM","1/10/24, 2:43 PM",,40.058914,-111.564458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3231,6 +3231,9 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
+UT-Incident--173486,Incidents,SR 32,Wasatch County,SR 32 at MP 1,"Crash
+SR 32 at MP 1 (1 Mi E of US-40) Wasatch Co.
+Est. Clearance Time: 4:30 PM","1/10/24, 3:24 PM","1/10/24, 4:30 PM","1/10/24, 3:24 PM",,40.571329,-111.420722
 UT-Incident--173485,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 NB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Right Shoulder
