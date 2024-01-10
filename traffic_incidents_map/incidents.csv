@@ -3184,10 +3184,16 @@ UT-Incident--173473,Incidents,Washington Blvd,Weber County,Washington Blvd 2850,
 NB Washington Blvd Weber Co.
 Est. Clearance Time: 1:30 PM","1/10/24, 12:32 PM","1/10/24, 1:30 PM","1/10/24, 12:52 PM",,41.212136,-111.970693
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173472,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalanche Control
+Both Directions SR 210 at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
+Canyon Closed for Avalance Control","1/10/24, 12:01 PM","1/10/24, 3:00 PM","1/10/24, 12:01 PM",,40.572095,-111.773814
+UT-Incident--173475,Incidents,US 40,Wasatch County,US 40 at MP 23,"Crash
+WB US 40 at MP 23 (2 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 2:30 PM","1/10/24, 12:57 PM","1/10/24, 2:30 PM","1/10/24, 12:57 PM",,40.434401,-111.355111
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173477,Incidents,HWY 39,Weber County,HWY 39 5576,"Crash
+UT-Incident--173477,Incidents,Hwy 39,Weber County,Hwy 39 5576,"Crash
 HWY 39 MP 16 (Weber County)
-Est. Clearance Time: 2:30 PM","1/10/24, 1:30 PM","1/10/24, 2:30 PM","1/10/24, 1:30 PM",,,
+Est. Clearance Time: 2:30 PM","1/10/24, 1:30 PM","1/10/24, 2:30 PM","1/10/24, 1:31 PM",,41.25212,-111.804141
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3197,21 +3203,18 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/12/24,
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24, 12:00 PM","1/9/24, 6:23 PM",,40.572095,-111.773814
-UT-Incident--173472,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalanche Control
-Both Directions SR 210 at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
-Canyon Closed for Avalance Control","1/10/24, 12:01 PM","1/10/24, 3:00 PM","1/10/24, 12:01 PM",,40.572095,-111.773814
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
 UT-Incident--173474,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 1:45 PM","1/10/24, 12:46 PM","1/10/24, 1:45 PM","1/10/24, 12:46 PM",,40.602142,-111.430846
-UT-Incident--173475,Incidents,US 40,Wasatch County,US 40 at MP 23,"Crash
-WB US 40 at MP 23 (2 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 2:30 PM","1/10/24, 12:57 PM","1/10/24, 2:30 PM","1/10/24, 12:57 PM",,40.434401,-111.355111
 UT-Incident--173476,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
 EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 2:20 PM","1/10/24, 1:18 PM","1/10/24, 2:20 PM","1/10/24, 1:18 PM",,40.615495,-111.433889
+UT-Incident--173478,Incidents,US 40,Wasatch County,US 40 at MP 9,"Crash
+EB US 40 at MP 9 (Jordanelle Reservoir) Wasatch Co.
+Est. Clearance Time: 2:40 PM","1/10/24, 1:38 PM","1/10/24, 2:40 PM","1/10/24, 1:40 PM",,40.615495,-111.433889
 UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather
 Both Directions US 91 at MP 11 (8 MI from Logan) Cache Co.
 Est. Clearance Time: 1/11/2024 11:30 AM","1/9/24, 11:33 AM","1/11/24, 11:30 AM","1/10/24, 10:28 AM",,41.562271,-111.962763
