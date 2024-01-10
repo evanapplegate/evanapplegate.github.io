@@ -3116,10 +3116,18 @@ SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/10/24, 7:15 AM","1/10/24, 8:15 AM","1/10/24, 7:26 AM",,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173449,Incidents,I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On Ramp at Center St,"Crash
+NB I-15 265 On Ramp at Center St (Utah County)
+Right Shoulder
+Est. Clearance Time: 8:05 AM","1/10/24, 6:40 AM","1/10/24, 8:05 AM","1/10/24, 7:48 AM",,40.230396,-111.681974
+UT-Incident--173456,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
+EB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
+Est. Clearance Time: 8:30 AM","1/10/24, 7:33 AM","1/10/24, 8:30 AM","1/10/24, 7:33 AM",,40.405503,-111.524184
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173458,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 24th St,"Crash
-NB Harrison Blvd at 24th St (Weber County)
-Est. Clearance Time: 9:15 AM","1/10/24, 8:17 AM","1/10/24, 9:15 AM","1/10/24, 8:17 AM",,0.0,0.0
+UT-Incident--173458,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 2200,"Crash
+Both Directions HARRISON BLVD Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","1/10/24, 8:17 AM","1/10/24, 9:15 AM","1/10/24, 8:24 AM",,41.22304,-111.948209
 UT-Incident--173455,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -3128,10 +3136,6 @@ UT-Incident--173457,Incidents,I-15 SB X265 Off Center St Ramp,Utah County,I-15 S
 SB I-15 Exit 265 Center St Off Ramp (Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 9:15 AM","1/10/24, 8:06 AM","1/10/24, 9:15 AM","1/10/24, 8:08 AM",,40.236691,-111.687843
-UT-Incident--173449,Incidents,I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On Ramp at Center St,"Crash
-NB I-15 265 On Ramp at Center St (Utah County)
-Right Shoulder
-Est. Clearance Time: 8:05 AM","1/10/24, 6:40 AM","1/10/24, 8:05 AM","1/10/24, 7:48 AM",,40.230396,-111.681974
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3144,9 +3148,6 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24,
 UT-Incident--173393,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 5:04 PM","1/12/24, 11:59 PM","1/9/24, 5:04 PM",,40.624634,-111.501637
-UT-Incident--173456,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
-EB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
-Est. Clearance Time: 8:30 AM","1/10/24, 7:33 AM","1/10/24, 8:30 AM","1/10/24, 7:33 AM",,40.405503,-111.524184
 UT-Incident--173441,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
 EB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 8:45 AM","1/10/24, 2:53 AM","1/10/24, 8:45 AM","1/10/24, 8:17 AM",,40.254679,-111.199016
