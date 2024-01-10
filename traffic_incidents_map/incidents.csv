@@ -3152,11 +3152,11 @@ Est. Clearance Time: 9:15 AM","1/10/24, 8:06 AM","1/10/24, 9:15 AM","1/10/24, 8:
 UT-Incident--173463,Incidents,I-80,Tooele County,I-80 at MP 94,"Crash
 WB I-80 at MP 94 (4 mi W of Tooele) Tooele Co.
 Est. Clearance Time: 10:15 AM","1/10/24, 9:15 AM","1/10/24, 10:15 AM","1/10/24, 9:15 AM",,40.662601,-112.338265
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173466,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:45 AM","1/10/24, 9:52 AM","1/10/24, 10:45 AM","1/10/24, 10:01 AM",,40.53585,-111.892927
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
@@ -3176,6 +3176,10 @@ Est. Clearance Time: 10:45 AM","1/10/24, 9:43 AM","1/10/24, 10:45 AM","1/10/24, 
 UT-Incident--173464,Incidents,US 40,Wasatch County,US 40 at MP 58,"Crash
 EB US 40 at MP 58 (3 mi W of Fruitland) Wasatch Co.
 Est. Clearance Time: 10:15 AM","1/10/24, 9:20 AM","1/10/24, 10:15 AM","1/10/24, 9:20 AM",,40.200198,-110.909422
-UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather/ Drifting Winds 
-Both Directions US 91 at MP 10 to MP 14  (Cache County)
-Est. Clearance Time: 1/10/2024 11:30 AM","1/9/24, 11:33 AM","1/10/24, 11:30 AM","1/9/24, 11:33 AM",,41.562271,-111.962763
+UT-Incident--173379,Incidents,US 91,Cache County,US 91 at MP 11,"Road weather
+Both Directions US 91 at MP 11 (8 MI from Logan) Cache Co.
+Est. Clearance Time: 1/11/2024 11:30 AM","1/9/24, 11:33 AM","1/11/24, 11:30 AM","1/10/24, 10:28 AM",,41.562271,-111.962763
+UT-Incident--173467,Incidents,US 91,Cache County,US 91 at MP 11,"Crash
+NB US 91 at MP 11 (Sardine Canyon) Cache Co.
+Right Shoulder
+Est. Clearance Time: 11:30 AM","1/10/24, 10:28 AM","1/10/24, 11:30 AM","1/10/24, 10:28 AM",,41.562271,-111.962763
