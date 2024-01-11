@@ -3638,7 +3638,6 @@ UT-Incident--173626,Incidents,SR 201 WB X17 Off 900 W Ramp,Salt Lake County,SR 2
 WB SR 201  Exit 17 900 W Off Ramp Salt Lake Co.
 NB Turn Lane Blocked
 Est. Clearance Time: 11:30 AM","1/11/24, 10:23 AM","1/11/24, 11:30 AM","1/11/24, 10:23 AM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173606,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
 SB I-15 at MP 50 (Kanarraville) Iron Co.
 Est. Clearance Time: 9:15 AM","1/11/24, 8:16 AM","1/11/24, 9:15 AM","1/11/24, 8:16 AM",,37.588408,-113.172321
@@ -3659,6 +3658,10 @@ Est. Clearance Time: 11:15 AM","1/11/24, 10:04 AM","1/11/24, 11:15 AM","1/11/24,
 UT-Incident--173616,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Est. Clearance Time: 9:45 AM","1/11/24, 8:43 AM","1/11/24, 9:45 AM","1/11/24, 8:43 AM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173574,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 at MP 4-17 (1 Mi S of Parowan) Iron Co.
+Approved Traction Devices Required For All Vehicles","1/11/24, 12:31 AM","1/12/24, 10:00 AM","1/11/24, 12:32 AM",,37.828866,-112.814606
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173627,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 EB I-215 S at MP 8 (1300 E) Salt Lake Co.
@@ -3682,9 +3685,6 @@ Est. Clearance Time: 11:30 AM","1/11/24, 10:11 AM","1/11/24, 11:30 AM","1/11/24,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
-UT-Incident--173574,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 at MP 4-17 (1 Mi S of Parowan) Iron Co.
-Approved Traction Devices Required For All Vehicles","1/11/24, 12:31 AM","1/12/24, 10:00 AM","1/11/24, 12:32 AM",,37.828866,-112.814606
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/12/24, 12:00 PM","1/9/24, 6:20 PM",,40.619107,-111.786281
