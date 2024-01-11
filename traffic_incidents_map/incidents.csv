@@ -3613,7 +3613,6 @@ UT-Incident--173605,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Stalled Vehi
 EB I-80 at MP 124 (700 E, Salt Lake City) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:00 AM","1/11/24, 8:10 AM","1/11/24, 9:00 AM","1/11/24, 8:10 AM",,40.71935,-111.864876
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173609,Incidents,I-15,Juab County,I-15 at MP 205,"Crash
 SB I-15 at MP 205 (17 mi N of Scipio) Juab Co.
 Est. Clearance Time: 9:30 AM","1/11/24, 8:25 AM","1/11/24, 9:30 AM","1/11/24, 8:25 AM",,39.466504,-111.998262
@@ -3631,6 +3630,7 @@ Est. Clearance Time: 9:45 AM","1/11/24, 8:37 AM","1/11/24, 9:45 AM","1/11/24, 8:
 UT-Incident--173620,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
 SR 36 at MP 64 (Canyon Rd) Tooele Co.
 Est. Clearance Time: 10:15 AM","1/11/24, 9:17 AM","1/11/24, 10:15 AM","1/11/24, 9:17 AM",,40.667795,-112.284101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173606,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
 SB I-15 at MP 50 (Kanarraville) Iron Co.
