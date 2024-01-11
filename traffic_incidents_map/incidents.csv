@@ -3267,7 +3267,6 @@ UT-Incident--173518,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 NB I-15 at MP 315 On Ramp (2600 S, Woods X) Davis Co.
 Est. Clearance Time: 7:15 PM","1/10/24, 6:02 PM","1/10/24, 7:15 PM","1/10/24, 6:02 PM",,40.85851,-111.904912
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173517,Incidents,900 S,Salt Lake County,900 S at Bangerter Hwy,"Crash
 SB 900 S at Bangerter Hwy Salt Lake Co.
 Est. Clearance Time: 7:01 PM","1/10/24, 6:02 PM","1/10/24, 7:01 PM",,,0.0,0.0
@@ -3301,6 +3300,23 @@ UT-Incident--173532,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 7:47 PM","1/10/24, 6:48 PM","1/10/24, 7:47 PM",,,40.707874,-111.90397
+UT-Incident--173510,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
+NB I-215 E at MP 2 (3500 S) Salt Lake Co.
+Est. Clearance Time: 6:37 PM","1/10/24, 5:37 PM","1/10/24, 6:37 PM",,,40.697639,-111.795421
+UT-Incident--173508,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Crash
+WB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.
+Est. Clearance Time: 6:27 PM","1/10/24, 5:29 PM","1/10/24, 6:27 PM",,,40.712086,-111.801151
+UT-Incident--173523,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+Est. Clearance Time: 7:06 PM","1/10/24, 6:07 PM","1/10/24, 7:06 PM",,,40.765165,-111.991516
+UT-Incident--173524,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Stalled Vehicle
+Ramp I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:11 PM","1/10/24, 6:12 PM","1/10/24, 7:11 PM",,,40.717537,-111.836246
+UT-Incident--173531,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 4100 S,"Road Weather
+SB Mountain View Corridor Hwy Closed
+ at 4100 S Salt Lake Co.","1/10/24, 6:47 PM","1/10/24, 7:15 PM",,,40.681834,-112.031469
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173535,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -3313,13 +3329,10 @@ UT-Incident--173539,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:35 PM","1/10/24, 7:29 PM","1/10/24, 8:35 PM",,,40.578741,-111.900284
-UT-Incident--173510,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
-NB I-215 E at MP 2 (3500 S) Salt Lake Co.
-Est. Clearance Time: 6:37 PM","1/10/24, 5:37 PM","1/10/24, 6:37 PM",,,40.697639,-111.795421
 UT-Incident--173529,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 7:30 PM","1/10/24, 6:31 PM","1/10/24, 7:30 PM",,,40.775011,-111.949343
+Est. Clearance Time: 8:30 PM","1/10/24, 6:31 PM","1/10/24, 8:30 PM",,,40.775011,-111.949343
 UT-Incident--173533,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
@@ -3334,23 +3347,10 @@ Approved Traction Devices Required For Semis","1/10/24, 4:44 PM","1/11/24, 6:00 
 UT-Incident--173500,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parleys Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For Semis","1/10/24, 4:58 PM","1/11/24, 6:00 AM",,,40.740161,-111.558358
-UT-Incident--173508,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Crash
-WB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.
-Est. Clearance Time: 6:27 PM","1/10/24, 5:29 PM","1/10/24, 6:27 PM",,,40.712086,-111.801151
-UT-Incident--173523,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
-EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
-Est. Clearance Time: 7:06 PM","1/10/24, 6:07 PM","1/10/24, 7:06 PM",,,40.765165,-111.991516
-UT-Incident--173524,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Stalled Vehicle
-Ramp I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 7:11 PM","1/10/24, 6:12 PM","1/10/24, 7:11 PM",,,40.717537,-111.836246
 UT-Incident--173536,Incidents,I-80,Salt Lake County,I-80 at MP 108,"Crash
 WB I-80 at MP 108 (4 mi E of Saltair) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","1/10/24, 7:15 PM","1/10/24, 8:15 PM",,,40.771064,-112.124659
-UT-Incident--173531,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 4100 S,"Road Weather
-SB Mountain View Corridor Hwy Closed
- at 4100 S Salt Lake Co.","1/10/24, 6:47 PM","1/10/24, 7:15 PM",,,40.681834,-112.031469
 UT-Incident--173534,Incidents,REDWOOD RD,Utah County,REDWOOD RD at 2100 N,"Road weather
 WB Mountain View Corridor CLOSED at Redwood Rd. Utah Co.","1/10/24, 7:05 PM","1/10/24, 9:00 PM",,,40.413082,-111.923091
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
@@ -3375,6 +3375,9 @@ UT-Incident--173494,Incidents,US 191,San Juan County,US 191 at MP 115,"Crash
 Both Directions US 191 at MP 115 (5 miles S of Moab) San Juan Co.
 2 Left Lanes Closed
 Alternating traffic","1/10/24, 4:19 PM","1/10/24, 7:00 PM",,,38.450724,-109.437607
+UT-Incident--173540,Incidents,US 191,Carbon County,US 191 at MP 260,"Both Directions US 191 Closed
+ at MP 260 (10 miles N of Helper) Carbon Co.
+Use Alt Route","1/10/24, 7:39 PM","1/10/24, 8:36 PM",,,39.809161,-110.778864
 UT-Incident--173488,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
 Both Directions US 40 MP 6-13 (Mayflower) Summit/Wasatch Co.
 Approved Traction Devices Required For Semis","1/10/24, 3:50 PM","1/12/24, 12:00 PM",,,40.654652,-111.457229
