@@ -3446,7 +3446,6 @@ UT-Incident--173569,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 EB I-215 S at MP 10 (State St) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1/11/2024 12:15 AM","1/10/24, 11:19 PM","1/11/24, 12:15 AM",,,40.63036,-111.877391
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173568,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at I-80 EB FWY,"Crash
 SB BANGERTER HWY at I-80 EB FWY Salt Lake Co.
 Cleared at 12:01 AM
@@ -3460,6 +3459,7 @@ UT-Incident--173567,Incidents,HWY 201,Salt Lake County,HWY 201 at 900 W,"Crash
 WB HWY 201 at 1200 W Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 11:56 PM","1/10/24, 10:56 PM","1/11/24, 1:30 AM","1/10/24, 11:38 PM",,40.724732,-111.926352
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173573,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
