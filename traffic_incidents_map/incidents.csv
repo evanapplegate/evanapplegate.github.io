@@ -3661,7 +3661,6 @@ Est. Clearance Time: 9:45 AM","1/11/24, 8:43 AM","1/11/24, 9:45 AM","1/11/24, 8:
 UT-Incident--173574,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 at MP 4-17 (1 Mi S of Parowan) Iron Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 12:31 AM","1/12/24, 10:00 AM","1/11/24, 12:32 AM",,37.828866,-112.814606
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173627,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 EB I-215 S at MP 8 (1300 E) Salt Lake Co.
 Right Shoulder
@@ -3679,6 +3678,11 @@ SB I-215 W at MP 20 (1700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","1/11/24, 10:20 AM","1/11/24, 11:30 AM","1/11/24, 10:20 AM",,40.733273,-111.949723
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173629,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:30 PM","1/11/24, 11:55 AM","1/11/24, 1:30 PM","1/11/24, 11:55 AM",,40.775011,-111.949343
 UT-Incident--173624,Incidents,I-70,Sevier County,I-70 at MP 68,"Crash
 WB I-70 at MP 68 (28 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 11:30 AM","1/11/24, 10:11 AM","1/11/24, 11:30 AM","1/11/24, 10:11 AM",,38.898347,-111.656745
