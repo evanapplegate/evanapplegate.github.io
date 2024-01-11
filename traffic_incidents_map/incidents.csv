@@ -3570,10 +3570,10 @@ UT-Incident--173600,Incidents,I-15 NB X275 OFF PLSNT GRV NB RAMP,Utah County,I-1
 NB I-15 Pleasant Grove Blvd Offramp Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/11/24, 7:41 AM","1/11/24, 8:45 AM","1/11/24, 7:43 AM",,40.349922,-111.76764
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173488,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
 Both Directions US 40 MP 6-13 (Mayflower) Summit/Wasatch Co.
 Approved Traction Devices Required For Semis","1/10/24, 3:50 PM","1/12/24, 12:00 PM","1/10/24, 3:50 PM",,40.654652,-111.457229
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173607,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at Lake Park Blvd,"Crash
 NB Bangerter Hwy at 2400 S Salt Lake Co.
@@ -3602,7 +3602,10 @@ SB I-15 at MP 50 (Kanarraville) Iron Co.
 Est. Clearance Time: 9:15 AM","1/11/24, 8:16 AM","1/11/24, 9:15 AM","1/11/24, 8:16 AM",,37.588408,-113.172321
 UT-Incident--173608,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
 SB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
-Est. Clearance Time: 9:30 AM","1/11/24, 8:22 AM","1/11/24, 9:30 AM","1/11/24, 8:22 AM",,,
+Est. Clearance Time: 9:30 AM","1/11/24, 8:22 AM","1/11/24, 9:30 AM","1/11/24, 8:22 AM",,38.696466,-112.602232
+UT-Incident--173609,Incidents,I-15,Juab County,I-15 at MP 205,"Crash
+SB I-15 at MP 205 (17 mi N of Scipio) Juab Co.
+Est. Clearance Time: 9:30 AM","1/11/24, 8:25 AM","1/11/24, 9:30 AM","1/11/24, 8:25 AM",,39.466504,-111.998262
 UT-Incident--173605,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Stalled Vehicle
 EB I-80 at MP 124 (700 E, Salt Lake City) Salt Lake Co.
 2 Left Lanes Closed
