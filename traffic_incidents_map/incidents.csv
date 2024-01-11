@@ -3435,7 +3435,7 @@ UT-Incident--173563,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:15 PM","1/10/24, 10:13 PM","1/10/24, 11:15 PM","1/10/24, 10:13 PM",,40.122652,-111.658929
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173568,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at I-80 EB FWY,"Crash
 SB BANGERTER HWY at I-80 EB FWY Salt Lake Co.
@@ -3443,7 +3443,7 @@ Right Shoulder
 Est. Clearance Time: 1/11/2024 12:02 AM","1/10/24, 11:02 PM","1/11/24, 12:02 AM",,,40.763051,-111.986978
 UT-Incident--173567,Incidents,HWY 201,Salt Lake County,HWY 201 at 900 W,"Crash
 WB HWY 201 at 1200 W Salt Lake Co.
-Right Shoulder
+Right Lane Closed
 Est. Clearance Time: 11:56 PM","1/10/24, 10:56 PM","1/10/24, 11:56 PM",,,40.724732,-111.926352
 UT-Incident--173565,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
@@ -3452,6 +3452,10 @@ UT-Incident--173566,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:30 PM","1/10/24, 10:41 PM","1/10/24, 11:30 PM",,,40.63583,-111.905066
+UT-Incident--173569,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+EB I-215 S at MP 10 (State St) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 1/11/2024 12:15 AM","1/10/24, 11:19 PM","1/11/24, 12:15 AM",,,40.63036,-111.877391
 UT-Incident--173564,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
@@ -3459,6 +3463,10 @@ Est. Clearance Time: 11:30 PM","1/10/24, 10:25 PM","1/10/24, 11:30 PM",,,40.7464
 UT-Incident--173562,Incidents,I-80,Tooele County,I-80 at MP 85,"Lane Closure
 WB I-80 at MP 85 (Grantsville) Tooele Co.
 Est. Clearance Time: 11:15 PM","1/10/24, 10:10 PM","1/10/24, 11:15 PM",,,40.703193,-112.499976
+UT-Incident--173570,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 1/11/2024 12:30 AM","1/10/24, 11:21 PM","1/11/24, 12:30 AM",,,40.765165,-111.991516
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
