@@ -3479,7 +3479,6 @@ UT-Incident--173577,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 NB I-15 at MP 265 (Center St / Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 2:01 AM","1/11/24, 1:01 AM","1/11/24, 2:01 AM","1/11/24, 1:01 AM",,40.22192,-111.672311
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173578,Incidents,I-15,Davis County,I-15 at MP 317,"Vehicle on fire
 NB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Lane Closed
@@ -3493,10 +3492,15 @@ UT-Incident--173576,Incidents,I-15,Iron County,I-15 at MP 75,"Crash
 SB I-15 at 200 S Off Ramp (MP 75 / Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 1:42 AM","1/11/24, 12:43 AM","1/11/24, 1:42 AM","1/11/24, 12:43 AM",,37.838211,-112.872515
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173581,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at Main St On Ramp (MP 280, Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 3:10 AM","1/11/24, 2:10 AM","1/11/24, 3:10 AM","1/11/24, 2:10 AM",,40.386786,-111.833115
 UT-Incident--173580,Incidents,SR 138,Tooele County,SR 138 at MP 13,"Crash
 WB SR 138 at MP 13 (E of Grantsville) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 3:02 AM","1/11/24, 2:03 AM","1/11/24, 3:02 AM","1/11/24, 2:03 AM",,,
+Est. Clearance Time: 3:02 AM","1/11/24, 2:03 AM","1/11/24, 3:02 AM","1/11/24, 2:03 AM",,40.599889,-112.410982
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
