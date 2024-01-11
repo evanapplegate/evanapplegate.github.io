@@ -3380,21 +3380,21 @@ WB SR 201 at MP 13 (3200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 PM","1/10/24, 8:02 PM","1/10/24, 9:15 PM",,,40.725733,-111.982034
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173547,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","1/10/24, 8:36 PM","1/10/24, 9:35 PM","1/10/24, 8:36 PM",,39.945085,-111.807481
-UT-Incident--173548,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-NB I-15 at MP 307 (600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:35 PM","1/10/24, 8:37 PM","1/10/24, 9:35 PM","1/10/24, 8:37 PM",,40.74966,-111.90976
 UT-Incident--173551,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 SB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Est. Clearance Time: 10:00 PM","1/10/24, 8:52 PM","1/10/24, 10:00 PM","1/10/24, 8:52 PM",,39.775857,-111.839015
 UT-Incident--173553,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 SB I-15 at MP 233 (Mona) Juab Co.
 Est. Clearance Time: 10:00 PM","1/10/24, 9:00 PM","1/10/24, 10:00 PM","1/10/24, 9:00 PM",,39.81888,-111.833832
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173548,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 (600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","1/10/24, 8:37 PM","1/10/24, 9:35 PM","1/10/24, 8:37 PM",,40.74966,-111.90976
 UT-Incident--173555,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Left Shoulder
@@ -3406,6 +3406,10 @@ Est. Clearance Time: 10:15 PM","1/10/24, 9:15 PM","1/10/24, 10:15 PM","1/10/24, 
 UT-Incident--173558,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Est. Clearance Time: 10:20 PM","1/10/24, 9:21 PM","1/10/24, 10:20 PM","1/10/24, 9:21 PM",,40.664677,-111.90152
+UT-Incident--173560,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Stalled Vehicle
+SB I-15 at MP 292 (11400 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 10:39 PM","1/10/24, 9:40 PM","1/10/24, 10:39 PM","1/10/24, 9:42 PM",,40.53585,-111.892927
 UT-Incident--173556,Incidents,I-15 SB X288 OFF 14600 S EB RAMP,Salt Lake County,I-15 SB X288 OFF 14600 S EB RAMP at HIGHLAND DR,"Crash
 SB 14600 S Off-Ramp (HIGHLAND DR) Salt Lake Co.
 EB Ramp Blocked
