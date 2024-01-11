@@ -3634,7 +3634,6 @@ UT-Incident--173621,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Stalled Vehi
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/11/24, 9:26 AM","1/11/24, 10:30 AM","1/11/24, 9:26 AM",,40.453646,-111.91388
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173626,Incidents,SR 201 WB X17 Off 900 W Ramp,Salt Lake County,SR 201 WB X17 Off 900 W Ramp at 900 W,"Stalled Vehicle
 WB SR 201  Exit 17 900 W Off Ramp Salt Lake Co.
 NB Turn Lane Blocked
@@ -3657,6 +3656,18 @@ UT-Incident--173622,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 SB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:15 AM","1/11/24, 10:04 AM","1/11/24, 11:15 AM","1/11/24, 10:04 AM",,40.693589,-111.902881
+UT-Incident--173616,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Est. Clearance Time: 9:45 AM","1/11/24, 8:43 AM","1/11/24, 9:45 AM","1/11/24, 8:43 AM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173627,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
+EB I-215 S at MP 8 (1300 E) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:30 PM","1/11/24, 10:57 AM","1/11/24, 12:30 PM","1/11/24, 10:57 AM",,40.631583,-111.839435
+UT-Incident--173628,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
+EB I-215 S at MP 8 (1300 E) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 12:15 PM","1/11/24, 10:59 AM","1/11/24, 12:15 PM","1/11/24, 10:59 AM",,40.631583,-111.839435
 UT-Incident--173623,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
@@ -3680,6 +3691,3 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/12/24,
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24, 12:00 PM","1/9/24, 6:23 PM",,40.572095,-111.773814
-UT-Incident--173616,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
-US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
-Est. Clearance Time: 9:45 AM","1/11/24, 8:43 AM","1/11/24, 9:45 AM","1/11/24, 8:43 AM",,40.560962,-111.427534
