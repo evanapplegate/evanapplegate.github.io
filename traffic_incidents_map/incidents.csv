@@ -3508,7 +3508,6 @@ Approved Traction Devices Required For All Semis","1/10/24, 5:27 PM","1/14/24, 1
 UT-Incident--173546,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 MP 180-232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required For Semis","1/10/24, 8:18 PM","1/12/24, 6:00 AM","1/10/24, 8:18 PM",,40.058914,-111.564458
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173582,Incidents,I-15,Iron County,I-15 at MP 100,"Crash
 SB I-15 at MP 100 (8 mi S of Beaver) Iron Co.
 Est. Clearance Time: 5:00 AM","1/11/24, 2:59 AM","1/11/24, 5:00 AM","1/11/24, 3:49 AM",,38.134126,-112.624399
@@ -3516,6 +3515,11 @@ UT-Incident--173583,Incidents,I-15,Iron County,I-15 at MP 65,"Stalled Vehicle
 SB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
 Right Lane Closed
 Est. Clearance Time: 5:00 AM","1/11/24, 3:30 AM","1/11/24, 5:00 AM","1/11/24, 3:49 AM",,37.756975,-113.022681
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173584,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+SB I-215 W to WB I-80 Off Ramp (MP 22) Salt Lake Co.
+Exit Closed
+Est. Clearance Time: 5:36 AM","1/11/24, 4:39 AM","1/11/24, 5:36 AM","1/11/24, 5:26 AM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173587,Incidents,Hwy 201,Salt Lake County,Hwy 201 at 5600 W,"Crash
 EB HWY 201 to SB Mountain View, Salt Lake Co.
@@ -3529,10 +3533,14 @@ UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 6:18 AM","1/11/24, 5:18 AM","1/11/24, 6:18 AM","1/11/24, 5:18 AM",,40.592858,-111.902495
-UT-Incident--173584,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
-SB I-215 W to WB I-80 Off Ramp (MP 22) Salt Lake Co.
-Exit Closed
-Est. Clearance Time: 5:36 AM","1/11/24, 4:39 AM","1/11/24, 5:36 AM","1/11/24, 5:26 AM",,40.760605,-111.951068
+UT-Incident--173589,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:40 AM","1/11/24, 5:40 AM","1/11/24, 6:40 AM","1/11/24, 5:40 AM",,40.64406,-111.929407
+UT-Incident--173590,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
+NB I-215 W at MP 15 (4700 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 6:45 AM","1/11/24, 5:46 AM","1/11/24, 6:45 AM","1/11/24, 5:46 AM",,40.659924,-111.952783
 UT-Incident--173588,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
 WB I-70 at MP 33 (4 Mi W of Richfield) Sevier Co.
 Right Shoulder
