@@ -3580,7 +3580,6 @@ Est. Clearance Time: 8:00 AM","1/11/24, 5:18 AM","1/11/24, 8:00 AM","1/11/24, 7:
 UT-Incident--173601,Incidents,I-15,Millard County,I-15 at MP 137,"Crash
 NB I-15 at MP 137 (3 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 8:45 AM","1/11/24, 7:46 AM","1/11/24, 8:45 AM","1/11/24, 7:46 AM",,38.645446,-112.603991
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173607,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at Lake Park Blvd,"Crash
 NB Bangerter Hwy at 2400 S Salt Lake Co.
 Right Shoulder
@@ -3615,15 +3614,9 @@ EB I-80 at MP 124 (700 E, Salt Lake City) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:00 AM","1/11/24, 8:10 AM","1/11/24, 9:00 AM","1/11/24, 8:10 AM",,40.71935,-111.864876
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173606,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
-SB I-15 at MP 50 (Kanarraville) Iron Co.
-Est. Clearance Time: 9:15 AM","1/11/24, 8:16 AM","1/11/24, 9:15 AM","1/11/24, 8:16 AM",,37.588408,-113.172321
 UT-Incident--173609,Incidents,I-15,Juab County,I-15 at MP 205,"Crash
 SB I-15 at MP 205 (17 mi N of Scipio) Juab Co.
 Est. Clearance Time: 9:30 AM","1/11/24, 8:25 AM","1/11/24, 9:30 AM","1/11/24, 8:25 AM",,39.466504,-111.998262
-UT-Incident--173613,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
-NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 10:45 AM","1/11/24, 8:38 AM","1/11/24, 10:45 AM","1/11/24, 8:38 AM",,38.658157,-112.595083
 UT-Incident--173614,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S, Sandy) Salt Lake Co.
 Right Shoulder
@@ -3631,6 +3624,20 @@ Est. Clearance Time: 9:45 AM","1/11/24, 8:39 AM","1/11/24, 9:45 AM","1/11/24, 8:
 UT-Incident--173617,Incidents,I-15,Juab County,I-15 at MP 204,"Crash
 SB I-15 at MP 204 (16 mi N of Scipio) Juab Co.
 Est. Clearance Time: 10:15 AM","1/11/24, 9:07 AM","1/11/24, 10:15 AM","1/11/24, 9:07 AM",,39.455634,-112.010607
+UT-Incident--173612,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
+WB I-215 S at MP 11 (State St, Murray) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:45 AM","1/11/24, 8:37 AM","1/11/24, 9:45 AM","1/11/24, 8:37 AM",,40.632948,-111.891986
+UT-Incident--173620,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
+SR 36 at MP 64 (Canyon Rd) Tooele Co.
+Est. Clearance Time: 10:15 AM","1/11/24, 9:17 AM","1/11/24, 10:15 AM","1/11/24, 9:17 AM",,40.667795,-112.284101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173606,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
+SB I-15 at MP 50 (Kanarraville) Iron Co.
+Est. Clearance Time: 9:15 AM","1/11/24, 8:16 AM","1/11/24, 9:15 AM","1/11/24, 8:16 AM",,37.588408,-113.172321
+UT-Incident--173613,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
+NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 10:45 AM","1/11/24, 8:38 AM","1/11/24, 10:45 AM","1/11/24, 8:38 AM",,38.658157,-112.595083
 UT-Incident--173618,Incidents,I-15,Iron County,I-15 at MP 95,"Vehicle on fire
 NB I-15 at MP 95 (13 mi S of Beaver) Iron Co.
 Est. Clearance Time: 10:15 AM","1/11/24, 9:10 AM","1/11/24, 10:15 AM","1/11/24, 9:10 AM",,38.078814,-112.683706
@@ -3642,10 +3649,6 @@ UT-Incident--173621,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Stalled Vehi
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/11/24, 9:26 AM","1/11/24, 10:30 AM","1/11/24, 9:26 AM",,40.453646,-111.91388
-UT-Incident--173612,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
-WB I-215 S at MP 11 (State St, Murray) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:45 AM","1/11/24, 8:37 AM","1/11/24, 9:45 AM","1/11/24, 8:37 AM",,40.632948,-111.891986
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3658,9 +3661,6 @@ Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/12/24,
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24, 12:00 PM","1/9/24, 6:23 PM",,40.572095,-111.773814
-UT-Incident--173620,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
-SR 36 at MP 64 (Canyon Rd) Tooele Co.
-Est. Clearance Time: 10:15 AM","1/11/24, 9:17 AM","1/11/24, 10:15 AM","1/11/24, 9:17 AM",,40.667795,-112.284101
 UT-Incident--173616,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Est. Clearance Time: 9:45 AM","1/11/24, 8:43 AM","1/11/24, 9:45 AM","1/11/24, 8:43 AM",,40.560962,-111.427534
