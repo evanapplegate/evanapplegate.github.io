@@ -3558,20 +3558,11 @@ Est. Clearance Time: 7:45 AM","1/11/24, 6:41 AM","1/11/24, 7:45 AM","1/11/24, 6:
 UT-Incident--173487,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
 Both Directions US 191 MP 260-272 (10 miles N of Helper) Carbon/ Duchesne Co.
 Approved Traction Devices Required For All Semis ","1/10/24, 3:49 PM","1/14/24, 12:00 PM","1/10/24, 3:49 PM",,39.809161,-110.778864
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173599,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/11/24, 7:19 AM","1/11/24, 8:30 AM","1/11/24, 7:19 AM",,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-NB I-15 at MP 296 (8000 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 8:00 AM","1/11/24, 5:18 AM","1/11/24, 8:00 AM","1/11/24, 7:20 AM",,40.592858,-111.902495
-UT-Incident--173597,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
-NB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:15 AM","1/11/24, 7:05 AM","1/11/24, 8:15 AM","1/11/24, 7:05 AM",,40.144889,-111.6467
 UT-Incident--173598,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
@@ -3580,6 +3571,25 @@ UT-Incident--173600,Incidents,I-15 NB X275 OFF PLSNT GRV NB RAMP,Utah County,I-1
 NB I-15 Pleasant Grove Blvd Offramp Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/11/24, 7:41 AM","1/11/24, 8:45 AM","1/11/24, 7:43 AM",,40.349922,-111.76764
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 at MP 296 (8000 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:00 AM","1/11/24, 5:18 AM","1/11/24, 8:00 AM","1/11/24, 7:47 AM",,40.592858,-111.902495
+UT-Incident--173597,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+NB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:15 AM","1/11/24, 7:05 AM","1/11/24, 8:15 AM","1/11/24, 7:05 AM",,40.144889,-111.6467
+UT-Incident--173601,Incidents,I-15,Millard County,I-15 at MP 137,"Crash
+NB I-15 at MP 137 (3 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 8:45 AM","1/11/24, 7:46 AM","1/11/24, 8:45 AM","1/11/24, 7:46 AM",,38.645446,-112.603991
+UT-Incident--173603,Incidents,I-15,Millard County,I-15 at MP 142,"Crash
+NB I-15 at MP 142 (4 mi S of Kanosh) Millard Co.
+Right Shoulder
+Est. Clearance Time: 10:00 AM","1/11/24, 7:55 AM","1/11/24, 10:00 AM","1/11/24, 7:55 AM",,38.710831,-112.599843
+UT-Incident--173604,Incidents,I-15,Juab County,I-15 at MP 204,"Crash
+NB I-15 at MP 204 (16 mi N of Scipio) Juab Co.
+Est. Clearance Time: 10:00 AM","1/11/24, 7:58 AM","1/11/24, 10:00 AM","1/11/24, 7:58 AM",,39.455634,-112.010607
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
