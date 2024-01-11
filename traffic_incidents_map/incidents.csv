@@ -3519,7 +3519,6 @@ UT-Incident--173584,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W to WB I-80 Off Ramp (MP 22) Salt Lake Co.
 Exit Closed
 Est. Clearance Time: 5:36 AM","1/11/24, 4:39 AM","1/11/24, 5:36 AM","1/11/24, 5:26 AM",,40.760605,-111.951068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173587,Incidents,Hwy 201,Salt Lake County,Hwy 201 at 5600 W,"Crash
 EB HWY 201 to SB Mountain View, Salt Lake Co.
 Right Shoulder
@@ -3541,10 +3540,15 @@ WB I-70 at MP 33 (4 Mi W of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 6:34 AM","1/11/24, 5:35 AM","1/11/24, 6:34 AM","1/11/24, 5:35 AM",,38.699585,-112.144244
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 2 Right Lanes Closed
-Est. Clearance Time: 6:18 AM","1/11/24, 5:18 AM","1/11/24, 6:18 AM","1/11/24, 5:18 AM",,40.592858,-111.902495
+Est. Clearance Time: 7:30 AM","1/11/24, 5:18 AM","1/11/24, 7:30 AM","1/11/24, 6:25 AM",,40.592858,-111.902495
+UT-Incident--173593,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+NB I-15 at MP 280 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:24 AM","1/11/24, 6:24 AM","1/11/24, 7:24 AM","1/11/24, 6:24 AM",,40.38934,-111.833939
 UT-Incident--173591,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Stalled Vehicle
 EB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Lane Closed
