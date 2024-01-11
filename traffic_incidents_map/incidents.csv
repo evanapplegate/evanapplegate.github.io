@@ -3483,7 +3483,6 @@ UT-Incident--173578,Incidents,I-15,Davis County,I-15 at MP 317,"Vehicle on fire
 NB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2:20 AM","1/11/24, 1:20 AM","1/11/24, 2:20 AM","1/11/24, 1:20 AM",,40.885454,-111.89641
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173573,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -3492,6 +3491,7 @@ UT-Incident--173576,Incidents,I-15,Iron County,I-15 at MP 75,"Crash
 SB I-15 at 200 S Off Ramp (MP 75 / Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 1:42 AM","1/11/24, 12:43 AM","1/11/24, 1:42 AM","1/11/24, 12:43 AM",,37.838211,-112.872515
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173581,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at Main St On Ramp (MP 280, Lehi) Utah Co.
