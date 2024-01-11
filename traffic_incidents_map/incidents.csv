@@ -3315,7 +3315,6 @@ Est. Clearance Time: 7:11 PM","1/10/24, 6:12 PM","1/10/24, 7:11 PM",,,40.717537,
 UT-Incident--173531,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 4100 S,"Road Weather
 SB Mountain View Corridor Hwy Closed
  at 4100 S Salt Lake Co.","1/10/24, 6:47 PM","1/10/24, 7:15 PM",,,40.681834,-112.031469
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173535,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -3337,6 +3336,7 @@ WB I-80 at MP 108 (4 mi E of Saltair) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","1/10/24, 7:15 PM","1/10/24, 8:15 PM",,,40.771064,-112.124659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173539,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
@@ -3353,6 +3353,10 @@ UT-Incident--173543,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 9:15 PM","1/10/24, 7:56 PM","1/10/24, 9:15 PM",,,40.664677,-111.90152
+UT-Incident--173545,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:04 PM","1/10/24, 8:04 PM","1/10/24, 9:04 PM",,,40.664677,-111.90152
 UT-Incident--173537,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
@@ -3397,3 +3401,6 @@ Use Alt Route","1/10/24, 7:39 PM","1/10/24, 8:36 PM",,,39.809161,-110.778864
 UT-Incident--173488,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
 Both Directions US 40 MP 6-13 (Mayflower) Summit/Wasatch Co.
 Approved Traction Devices Required For Semis","1/10/24, 3:50 PM","1/12/24, 12:00 PM",,,40.654652,-111.457229
+UT-Incident--173546,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+EB US 6 MP 180-232 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required For Semis","1/10/24, 8:18 PM","1/12/24, 6:00 AM",,,40.058914,-111.564458
