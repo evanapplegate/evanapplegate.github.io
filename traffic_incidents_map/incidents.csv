@@ -3390,11 +3390,6 @@ UT-Incident--173553,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 SB I-15 at MP 233 (Mona) Juab Co.
 Est. Clearance Time: 10:00 PM","1/10/24, 9:00 PM","1/10/24, 10:00 PM","1/10/24, 9:00 PM",,39.81888,-111.833832
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173548,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-NB I-15 at MP 307 (600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:35 PM","1/10/24, 8:37 PM","1/10/24, 9:35 PM","1/10/24, 8:37 PM",,40.74966,-111.90976
 UT-Incident--173555,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Left Shoulder
@@ -3403,17 +3398,10 @@ UT-Incident--173557,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:15 PM","1/10/24, 9:15 PM","1/10/24, 10:15 PM","1/10/24, 9:15 PM",,40.707874,-111.90397
-UT-Incident--173558,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
-NB I-15 at MP 301 (4500 S) Salt Lake Co.
-Est. Clearance Time: 10:20 PM","1/10/24, 9:21 PM","1/10/24, 10:20 PM","1/10/24, 9:21 PM",,40.664677,-111.90152
 UT-Incident--173560,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Stalled Vehicle
 SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 10:39 PM","1/10/24, 9:40 PM","1/10/24, 10:39 PM","1/10/24, 9:42 PM",,40.53585,-111.892927
-UT-Incident--173561,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
-NB I-15 at MP 278 (Pioneer Xing) Utah Co.
-Right Shoulder
-Est. Clearance Time: 11:00 PM","1/10/24, 9:59 PM","1/10/24, 11:00 PM","1/10/24, 9:59 PM",,40.373184,-111.808465
 UT-Incident--173556,Incidents,I-15 SB X288 OFF 14600 S EB RAMP,Salt Lake County,I-15 SB X288 OFF 14600 S EB RAMP at HIGHLAND DR,"Crash
 SB 14600 S Off-Ramp (HIGHLAND DR) Salt Lake Co.
 EB Ramp Blocked
@@ -3429,6 +3417,33 @@ UT-Incident--173554,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
 EB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","1/10/24, 9:00 PM","1/10/24, 10:00 PM","1/10/24, 9:00 PM",,40.717537,-111.836246
+UT-Incident--173559,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+Other US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 10:35 PM","1/10/24, 9:23 PM","1/10/24, 10:35 PM","1/10/24, 9:23 PM",,39.933221,-111.107262
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173548,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 (600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","1/10/24, 8:37 PM","1/10/24, 9:35 PM","1/10/24, 8:37 PM",,40.74966,-111.90976
+UT-Incident--173558,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+Est. Clearance Time: 10:20 PM","1/10/24, 9:21 PM","1/10/24, 10:20 PM","1/10/24, 9:21 PM",,40.664677,-111.90152
+UT-Incident--173561,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+NB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:00 PM","1/10/24, 9:59 PM","1/10/24, 11:00 PM","1/10/24, 9:59 PM",,40.373184,-111.808465
+UT-Incident--173563,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 11:15 PM","1/10/24, 10:13 PM","1/10/24, 11:15 PM","1/10/24, 10:13 PM",,40.122652,-111.658929
+UT-Incident--173564,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+NB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:30 PM","1/10/24, 10:25 PM","1/10/24, 11:30 PM","1/10/24, 10:25 PM",,,
+UT-Incident--173562,Incidents,I-80,Tooele County,I-80 at MP 85,"Lane Closure
+WB I-80 at MP 85 (Grantsville) Tooele Co.
+Est. Clearance Time: 11:15 PM","1/10/24, 10:10 PM","1/10/24, 11:15 PM","1/10/24, 10:10 PM",,40.703193,-112.499976
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -3456,7 +3471,3 @@ Approved Traction Devices Required For Semis","1/10/24, 3:50 PM","1/12/24, 12:00
 UT-Incident--173546,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 MP 180-232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required For Semis","1/10/24, 8:18 PM","1/12/24, 6:00 AM","1/10/24, 8:18 PM",,40.058914,-111.564458
-UT-Incident--173559,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
-Other US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 10:35 PM","1/10/24, 9:23 PM","1/10/24, 10:35 PM","1/10/24, 9:23 PM",,39.933221,-111.107262
