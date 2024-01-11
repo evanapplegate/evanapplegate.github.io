@@ -3520,7 +3520,6 @@ SB I-215 W to WB I-80 Off Ramp (MP 22) Salt Lake Co.
 Exit Closed
 Est. Clearance Time: 5:36 AM","1/11/24, 4:39 AM","1/11/24, 5:36 AM","1/11/24, 5:26 AM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173587,Incidents,Hwy 201,Salt Lake County,Hwy 201 at 5600 W,"Crash
 EB HWY 201 to SB Mountain View, Salt Lake Co.
 Right Shoulder
@@ -3529,18 +3528,10 @@ UT-Incident--173585,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 6:09 AM","1/11/24, 5:09 AM","1/11/24, 6:09 AM","1/11/24, 5:26 AM",,40.405454,-111.855562
-UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-NB I-15 at MP 296 (8000 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 6:18 AM","1/11/24, 5:18 AM","1/11/24, 6:18 AM","1/11/24, 5:18 AM",,40.592858,-111.902495
 UT-Incident--173589,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:40 AM","1/11/24, 5:40 AM","1/11/24, 6:40 AM","1/11/24, 5:40 AM",,40.64406,-111.929407
-UT-Incident--173591,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
-EB I-215 S at MP 11 (300 W) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 7:09 AM","1/11/24, 6:09 AM","1/11/24, 7:09 AM","1/11/24, 6:09 AM",,40.63463,-111.901484
 UT-Incident--173590,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 EB 4700 S to NB I-215 W Ramp Closed
@@ -3549,6 +3540,15 @@ UT-Incident--173588,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
 WB I-70 at MP 33 (4 Mi W of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 6:34 AM","1/11/24, 5:35 AM","1/11/24, 6:34 AM","1/11/24, 5:35 AM",,38.699585,-112.144244
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173586,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 at MP 296 (8000 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6:18 AM","1/11/24, 5:18 AM","1/11/24, 6:18 AM","1/11/24, 5:18 AM",,40.592858,-111.902495
+UT-Incident--173591,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Stalled Vehicle
+EB I-215 S at MP 11 (300 W) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:09 AM","1/11/24, 6:09 AM","1/11/24, 7:09 AM","1/11/24, 6:12 AM",,40.63463,-111.901484
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
