@@ -3688,7 +3688,6 @@ SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:30 PM","1/11/24, 11:55 AM","1/11/24, 1:30 PM","1/11/24, 11:55 AM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173631,Incidents,I-15,Utah County,I-15 at MP 281,"Stalled Vehicle
 NB I-15 at MP 281 (Lehi) Utah Co.
 Right Lane Closed
@@ -3704,6 +3703,7 @@ Est. Clearance Time: 5:00 PM","1/11/24, 3:59 PM","1/11/24, 5:00 PM","1/11/24, 3:
 UT-Incident--173632,Incidents,SR 132,Sanpete County,SR 132 at MP 49,"Crash
 SR 132 at MP 49 (1 MI of Fountian Green) Sanpete Co.
 Est. Clearance Time: 4:30 PM","1/11/24, 2:53 PM","1/11/24, 4:30 PM","1/11/24, 2:53 PM",,39.608718,-111.625758
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
