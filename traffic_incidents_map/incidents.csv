@@ -3788,12 +3788,16 @@ UT-Incident--173664,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Crash
 EB SR 201 at MP 1 (I-80) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 AM","1/12/24, 4:17 AM","1/12/24, 5:45 AM",,,40.725554,-112.204975
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173666,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:28 AM","1/12/24, 5:29 AM","1/12/24, 6:28 AM",,,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173667,Incidents,SR 112,Tooele County,SR 112 at MP 7,"Crash
+EB SR 112 at MP 7 (Tooele) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 7:08 AM","1/12/24, 6:09 AM","1/12/24, 7:08 AM",,,40.550823,-112.321443
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
