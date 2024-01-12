@@ -3856,15 +3856,10 @@ UT-Incident--173691,Incidents,SR 92,Utah County,SR 92 at MP 26,"Crash
 NB SR 92 at MP 26 (1 Mi N of US-189) Utah Co.
 Est. Clearance Time: 2:38 PM","1/12/24, 1:40 PM","1/12/24, 2:38 PM",,,40.377834,-111.568038
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173692,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:22 PM","1/12/24, 2:24 PM","1/12/24, 3:22 PM",,,40.492398,-111.891485
-UT-Incident--173693,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-WB I-215 S at MP 10 (800 E) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 3:29 PM","1/12/24, 2:30 PM","1/12/24, 3:29 PM",,,40.63036,-111.877391
 UT-Incident--173689,Incidents,I-80,Summit County,I-80 at MP 193,"Crash
 EB I-80 at MP 193 (Wasatch) Summit Co.
 Left Shoulder
@@ -3872,6 +3867,21 @@ Est. Clearance Time: 1:57 PM","1/12/24, 12:58 PM","1/12/24, 1:57 PM",,,41.216224
 UT-Incident--173690,Incidents,I-80,Summit County,I-80 at MP 148,"Crash
 WB I-80 at MP 148 (1 mi E of Sliver Creek) Summit Co.
 Est. Clearance Time: 2:00 PM","1/12/24, 1:01 PM","1/12/24, 2:00 PM",,,40.740288,-111.479266
+UT-Incident--173694,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
+EB US 189 at MP 17 (Lower Deer Creek) Wasatch Right Lane Closed
+Est. Clearance Time: 3:36 PM","1/12/24, 2:37 PM","1/12/24, 3:36 PM",,,40.398835,-111.538152
+UT-Incident--173679,Incidents,US 40,Wasatch County,US 40 at MP 43,"Crash
+EB US 40 at MP 43 (Strawberry Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 2:35 PM","1/12/24, 11:36 AM","1/12/24, 2:35 PM",,,40.235504,-111.134089
+UT-Incident--173680,Incidents,US 40,Wasatch County,US 40 at MP 48,"Crash
+Both Directions US 40 at MP 48 (Strawberry Reservoir) Wasatch Co.
+Est. Clearance Time: 1:58 PM","1/12/24, 12:00 PM","1/12/24, 1:58 PM",,,40.190715,-111.077521
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173693,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (800 E) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:29 PM","1/12/24, 2:30 PM","1/12/24, 3:29 PM",,,40.63036,-111.877391
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3890,9 +3900,6 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/2
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
-UT-Incident--173694,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
-EB US 189 at MP 17 (Lower Deer Creek) Wasatch Right Lane Closed
-Est. Clearance Time: 3:36 PM","1/12/24, 2:37 PM","1/12/24, 3:36 PM",,,40.398835,-111.538152
 UT-Incident--173687,Incidents,US 191,Duchesne County,US 191 at MP 286,"Road Weather 
 SB US 191 Closed
  at MP 286 (8 miles S of Duchesne) Duchesne Co.
@@ -3901,13 +3908,6 @@ UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
-UT-Incident--173679,Incidents,US 40,Wasatch County,US 40 at MP 43,"Crash
-EB US 40 at MP 43 (Strawberry Reservoir) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 2:35 PM","1/12/24, 11:36 AM","1/12/24, 2:35 PM",,,40.235504,-111.134089
-UT-Incident--173680,Incidents,US 40,Wasatch County,US 40 at MP 48,"Crash
-Both Directions US 40 at MP 48 (Strawberry Reservoir) Wasatch Co.
-Est. Clearance Time: 1:58 PM","1/12/24, 12:00 PM","1/12/24, 1:58 PM",,,40.190715,-111.077521
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
