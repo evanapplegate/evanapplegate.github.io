@@ -3765,10 +3765,10 @@ Est. Clearance Time: 11:00 PM","1/11/24, 9:17 PM","1/11/24, 11:00 PM","1/11/24, 
 UT-Incident--173658,Incidents,I-80,Summit County,I-80 at MP 141,"Stalled Vehicle
 WB I-80 at Jeremy Ranch On Ramp MP 141 (Park City) Summit Co.
 Est. Clearance Time: 11:05 PM","1/11/24, 10:06 PM","1/11/24, 11:05 PM","1/11/24, 10:07 PM",,40.755521,-111.587294
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173659,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parley's Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For Semis","1/11/24, 11:59 PM","1/12/24, 6:00 AM",,,40.740161,-111.558358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
@@ -3776,6 +3776,10 @@ Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/12/24, 12:00 PM",,,40.619107,-111.786281
+UT-Incident--173662,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+WB SR 201 to SB I-215 W (MP 14) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:16 AM","1/12/24, 1:19 AM","1/12/24, 2:16 AM",,,40.72606,-111.962907
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:23 PM","1/12/24, 12:00 PM",,,40.572095,-111.773814
