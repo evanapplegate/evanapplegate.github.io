@@ -3751,7 +3751,6 @@ Est. Clearance Time: 9:15 PM","1/11/24, 8:15 PM","1/11/24, 9:15 PM","1/11/24, 8:
 UT-Incident--173655,Incidents,NORTH TEMPLE EB RAMP,Salt Lake County,NORTH TEMPLE EB RAMP at NORTH TEMPLE ST,"Crash
 EB I-80 Ramp To North Temple Salt Lake Co.
 Est. Clearance Time: 10:30 PM","1/11/24, 9:04 PM","1/11/24, 10:30 PM","1/11/24, 9:04 PM",,40.76236,-111.973345
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173657,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
 EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
 Right Shoulder
@@ -3761,6 +3760,7 @@ UT-Incident--173653,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","1/11/24, 8:46 PM","1/11/24, 10:00 PM","1/11/24, 8:46 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173658,Incidents,I-80,Summit County,I-80 at MP 141,"Stalled Vehicle
 WB I-80 at Jeremy Ranch On Ramp MP 141 (Park City) Summit Co.
 Est. Clearance Time: 11:05 PM","1/11/24, 10:06 PM","1/11/24, 11:05 PM","1/11/24, 10:07 PM",,40.755521,-111.587294
