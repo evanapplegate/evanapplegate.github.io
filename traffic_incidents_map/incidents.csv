@@ -3724,19 +3724,19 @@ Est. Clearance Time: 6:15 PM","1/11/24, 5:03 PM","1/11/24, 6:15 PM","1/11/24, 5:
 UT-Incident--173644,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 WB 200 S at 1000 W Davis Co.
 Est. Clearance Time: 7:00 PM","1/11/24, 5:33 PM","1/11/24, 7:00 PM","1/11/24, 6:29 PM",,41.11061,-112.045294
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173650,Incidents,US 91,Box Elder County,US 91 at MP 2,"Road weather
 Both Directions US 91 Closed MP 2-17 (Sardine Canyon) Box Elder/Cache Co.
 Canyon Closed Due To Inclement Weather","1/11/24, 7:48 PM","1/12/24, 6:00 AM","1/11/24, 7:57 PM",,41.486554,-112.015642
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173652,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+NB I-15 at MP 338 Off Ramp (5600 S/SR-97, Roy) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 9:35 PM","1/11/24, 8:25 PM","1/11/24, 9:35 PM","1/11/24, 8:25 PM",,41.155128,-112.024901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173649,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 8:35 PM","1/11/24, 7:25 PM","1/11/24, 8:35 PM","1/11/24, 7:25 PM",,40.550055,-111.896336
-UT-Incident--173652,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
-NB I-15 at MP 338 Off Ramp (5600 S/SR-97, Roy) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 9:35 PM","1/11/24, 8:25 PM","1/11/24, 9:35 PM","1/11/24, 8:25 PM",,41.155128,-112.024901
 UT-Incident--173646,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 EB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
