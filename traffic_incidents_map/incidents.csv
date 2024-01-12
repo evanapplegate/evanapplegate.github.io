@@ -3792,7 +3792,6 @@ UT-Incident--173666,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:28 AM","1/12/24, 5:29 AM","1/12/24, 6:28 AM",,,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173668,Incidents,I-15 NB TO I-15 NB COL N RAMP,Salt Lake County,I-15 NB TO I-15 NB COL N RAMP at I-15 NB,"Lane Closure
 NB I-15 COL Ramp to 900 S, Salt Lake Co.
 Right Lane Closed
@@ -3805,6 +3804,7 @@ UT-Incident--173667,Incidents,SR 112,Tooele County,SR 112 at MP 7,"Crash
 EB SR 112 at MP 7 (Tooele) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 7:08 AM","1/12/24, 6:09 AM","1/12/24, 7:08 AM",,,40.550823,-112.321443
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
