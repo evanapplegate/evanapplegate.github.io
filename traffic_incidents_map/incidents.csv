@@ -3776,7 +3776,6 @@ UT-Incident--173662,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 to SB I-215 W (MP 14) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:00 AM","1/12/24, 1:19 AM","1/12/24, 3:16 AM",,,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173665,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at I-15 SB Fwy,"Crash
 WB Bangerter Hwy at I-15 SB Fwy Salt Lake Co.
 Left Lane Closed
@@ -3794,6 +3793,7 @@ UT-Incident--173666,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:28 AM","1/12/24, 5:29 AM","1/12/24, 6:28 AM",,,40.578741,-111.900284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
