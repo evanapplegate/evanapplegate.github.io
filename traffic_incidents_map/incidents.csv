@@ -3731,7 +3731,6 @@ UT-Incident--173652,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 Off Ramp (5600 S/SR-97, Roy) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 9:35 PM","1/11/24, 8:25 PM","1/11/24, 9:35 PM","1/11/24, 8:25 PM",,41.155128,-112.024901
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173649,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -3746,6 +3745,7 @@ Est. Clearance Time: 7:45 PM","1/11/24, 6:40 PM","1/11/24, 7:45 PM","1/11/24, 6:
 UT-Incident--173648,Incidents,SR 39,Weber County,SR 39 at MP 7,"Crash
 Both Directions SR 39 at MP 7 (Monroe Blvd) Weber Co.
 Est. Clearance Time: 8:00 PM","1/11/24, 7:00 PM","1/11/24, 8:00 PM","1/11/24, 7:00 PM",,41.244175,-111.958311
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173653,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
@@ -3772,3 +3772,6 @@ Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/14/24
 UT-Incident--173651,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
 NB US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
 Est. Clearance Time: 9:15 PM","1/11/24, 8:15 PM","1/11/24, 9:15 PM","1/11/24, 8:15 PM",,40.398835,-111.538152
+UT-Incident--173656,Incidents,US 40,Duchesne County,US 40 at MP 96,"Crash
+US 40 at MP 96 (Bridgeland) Duchesne Co.
+Est. Clearance Time: 11:00 PM","1/11/24, 9:17 PM","1/11/24, 11:00 PM","1/11/24, 9:17 PM",,40.153278,-110.229661
