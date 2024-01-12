@@ -3721,11 +3721,15 @@ UT-Incident--173642,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 WB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Left Lane Closed
 Est. Clearance Time: 6:15 PM","1/11/24, 5:03 PM","1/11/24, 6:15 PM","1/11/24, 5:03 PM",,40.560962,-111.427534
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173644,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 WB 200 S at 1000 W Davis Co.
 Est. Clearance Time: 7:00 PM","1/11/24, 5:33 PM","1/11/24, 7:00 PM","1/11/24, 6:29 PM",,41.11061,-112.045294
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173649,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 8:35 PM","1/11/24, 7:25 PM","1/11/24, 8:35 PM","1/11/24, 7:25 PM",,40.550055,-111.896336
 UT-Incident--173646,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 EB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
