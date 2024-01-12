@@ -3836,7 +3836,6 @@ Approved Traction Devices Required for Semis","1/12/24, 12:20 PM","1/12/24, 1:18
 UT-Incident--173685,Incidents,US 191,Duchesne County,US 191 at MP 286,"Roadway Restriction
 SB US 191 at MP 286-260 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required for Semis","1/12/24, 12:30 PM","1/12/24, 1:29 PM",,,40.07309,-110.512285
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173684,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
@@ -3853,6 +3852,7 @@ UT-Incident--173682,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 1:09 PM","1/12/24, 12:09 PM","1/12/24, 1:09 PM",,,40.602142,-111.430846
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173689,Incidents,I-80,Summit County,I-80 at MP 193,"Crash
 EB I-80 at MP 193 (Wasatch) Summit Co.
