@@ -3804,7 +3804,6 @@ UT-Incident--173667,Incidents,SR 112,Tooele County,SR 112 at MP 7,"Crash
 EB SR 112 at MP 7 (Tooele) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 7:08 AM","1/12/24, 6:09 AM","1/12/24, 7:08 AM",,,40.550823,-112.321443
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173661,Incidents,SR 210,Salt Lake County,SR 210 at MP 3,"Maintenance/Avalanche Control
 Both Directions SR-210 Closed (Little Cottonwood Canyon, SL County)","1/12/24, 12:39 AM","1/12/24, 8:30 AM",,,40.578618,-111.79039
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
@@ -3816,6 +3815,11 @@ UT-Incident--173673,Incidents,SR 112,Tooele County,SR 112 at MP 6,"Crash
 WB SR 112 at MP 6 (Utah Ave Jct) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 9:22 AM","1/12/24, 8:24 AM","1/12/24, 9:22 AM","1/12/24, 8:36 AM",,40.549239,-112.33989
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173674,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
+NB I-15 at MP 286 (15800 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:49 AM","1/12/24, 8:50 AM","1/12/24, 9:49 AM","1/12/24, 8:50 AM",,40.453646,-111.91388
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
