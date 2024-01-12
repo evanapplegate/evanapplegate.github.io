@@ -3793,7 +3793,6 @@ NB I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:28 AM","1/12/24, 5:29 AM","1/12/24, 6:28 AM",,,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173668,Incidents,I-15 NB TO I-15 NB COL N RAMP,Salt Lake County,I-15 NB TO I-15 NB COL N RAMP at I-15 NB,"Lane Closure
 NB I-15 COL Ramp to 900 S, Salt Lake Co.
 Right Lane Closed
@@ -3806,6 +3805,7 @@ UT-Incident--173667,Incidents,SR 112,Tooele County,SR 112 at MP 7,"Crash
 EB SR 112 at MP 7 (Tooele) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 7:08 AM","1/12/24, 6:09 AM","1/12/24, 7:08 AM",,,40.550823,-112.321443
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3825,7 +3825,6 @@ Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather
 Both Directions US 89 (Logan Canyon) Closed
-EB Cloosed at MP 460 (Logan)
-WB Closed at MP 490 (490 (Garden City)
-Cache Co.
-Est. Clearance Time: 7:55 AM","1/12/24, 6:59 AM","1/12/24, 4:55 PM",,,41.73861,-111.814969
+EB Closed at MP 460 (Logan)
+WB Closed at MP 490 (Garden City)
+Cache Co.","1/12/24, 6:59 AM","1/12/24, 4:55 PM",,,41.73861,-111.814969
