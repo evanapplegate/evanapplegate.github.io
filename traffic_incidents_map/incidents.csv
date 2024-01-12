@@ -3822,7 +3822,6 @@ UT-Incident--173676,Incidents,I-15,Utah County,I-15 at MP 284,"Stalled Vehicle
 Ramp SB I-15 at MP 284 (EB SR-92 Exit) Utah Co.
 Center Lane Blocked
 Est. Clearance Time: 11:14 AM","1/12/24, 10:17 AM","1/12/24, 11:14 AM",,,40.431127,-111.890772
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173677,Incidents,I-80,Tooele County,I-80 at MP 79,"Crash
 WB I-80 at MP 79 (2 mi E of Skull Valley Rd) Tooele Co.
 Right Shoulder
@@ -3832,13 +3831,28 @@ NB SR 224 at MP 10 (Silver Springs Rd) Summit Co.
 Right Shoulder
 Est. Clearance Time: 12:59 PM","1/12/24, 12:08 PM","1/12/24, 12:59 PM",,,40.705184,-111.546679
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173683,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
+NB US 191 at MP 260-286 (Indian Canyon) Carbon Co.
+Approved Traction Devices Required for Semis","1/12/24, 12:20 PM","1/12/24, 1:18 PM",,,39.809161,-110.778864
+UT-Incident--173685,Incidents,US 191,Duchesne County,US 191 at MP 286,"Roadway Restriction
+SB US 191 at MP 286-260 (Indian Canyon) Duchesne Co.
+Approved Traction Devices Required for Semis","1/12/24, 12:30 PM","1/12/24, 1:29 PM",,,40.07309,-110.512285
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173684,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:25 PM","1/12/24, 12:25 PM","1/12/24, 1:25 PM",,,40.410606,-111.863979
 UT-Incident--173686,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-SB I-215 W at MP 23 (450 N) Salt Lake Co.
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Left Lane Closed
 Est. Clearance Time: 1:42 PM","1/12/24, 12:43 PM","1/12/24, 1:42 PM",,,40.775011,-111.949343
+UT-Incident--173689,Incidents,I-80,Summit County,I-80 at MP 193,"Crash
+EB I-80 at MP 193 (Wasatch) Summit Co.
+Left Shoulder
+Est. Clearance Time: 1:57 PM","1/12/24, 12:58 PM","1/12/24, 1:57 PM",,,41.216224,-111.094119
+UT-Incident--173690,Incidents,I-80,Summit County,I-80 at MP 148,"Crash
+WB I-80 at MP 148 (1 mi E of Sliver Creek) Summit Co.
+Est. Clearance Time: 2:00 PM","1/12/24, 1:01 PM","1/12/24, 2:00 PM",,,40.740288,-111.479266
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3857,12 +3871,14 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/2
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
-UT-Incident--173683,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
-NB US 191 at MP 260-286 (Indian Canyon) Carbon Co.
-Approved Traction Devices Required for Semis","1/12/24, 12:20 PM","1/12/24, 1:18 PM",,,39.809161,-110.778864
-UT-Incident--173685,Incidents,US 191,Duchesne County,US 191 at MP 286,"Roadway Restriction
-SB US 191 at MP 286-260 (Indian Canyon) Duchesne Co.
-Approved Traction Devices Required for Semis","1/12/24, 12:30 PM","1/12/24, 1:29 PM",,,40.07309,-110.512285
+UT-Incident--173687,Incidents,US 191,Duchesne County,US 191 at MP 286,"Road Weather 
+SB US 191 Closed
+ at MP 286 (8 miles S of Duchesne) Duchesne Co.
+Use Alt Route","1/12/24, 12:48 PM","1/13/24, 1:46 PM",,,40.07309,-110.512285
+UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weather
+NB US 191 Closed
+ at MP 260 (10 miles N of Helper) Carbon Co.
+Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
 UT-Incident--173678,Incidents,US 40,Wasatch County,US 40 at MP 51,"Crash
 WB US 40 at MP 51 (10 mi W of Fruitland) Wasatch Co.
 Right Shoulder
