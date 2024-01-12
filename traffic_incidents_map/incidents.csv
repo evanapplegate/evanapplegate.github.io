@@ -3881,6 +3881,10 @@ WB I-215 S at MP 10 (800 E) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:29 PM","1/12/24, 2:30 PM","1/12/24, 3:29 PM",,,40.63036,-111.877391
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173695,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
+SB SR 36 at MP 56 (Tooele) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 4:25 PM","1/12/24, 3:26 PM","1/12/24, 4:25 PM",,,40.554334,-112.297621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
@@ -3897,10 +3901,6 @@ Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM",,
 UT-Incident--173654,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/24, 12:00 PM",,,40.624634,-111.501637
-UT-Incident--173695,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
-SB SR 36 at MP 56 (Tooele) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 4:25 PM","1/12/24, 3:26 PM","1/12/24, 4:25 PM",,,40.554334,-112.297621
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
@@ -3912,6 +3912,10 @@ UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
+UT-Incident--173696,Incidents,US 6,Utah County,US 6 at MP 183,"Crash
+WB US 6 at MP 183 (1 Mi W of Diamond Fork Rd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","1/12/24, 3:41 PM","1/12/24, 4:45 PM",,,40.035001,-111.524017
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
