@@ -3852,11 +3852,15 @@ UT-Incident--173682,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 1:09 PM","1/12/24, 12:09 PM","1/12/24, 1:09 PM",,,40.602142,-111.430846
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173691,Incidents,SR 92,Utah County,SR 92 at MP 26,"Crash
 NB SR 92 at MP 26 (1 Mi N of US-189) Utah Co.
 Est. Clearance Time: 2:38 PM","1/12/24, 1:40 PM","1/12/24, 2:38 PM",,,40.377834,-111.568038
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173692,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:22 PM","1/12/24, 2:24 PM","1/12/24, 3:22 PM",,,40.492398,-111.891485
 UT-Incident--173689,Incidents,I-80,Summit County,I-80 at MP 193,"Crash
 EB I-80 at MP 193 (Wasatch) Summit Co.
 Left Shoulder
