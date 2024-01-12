@@ -3755,11 +3755,14 @@ UT-Incident--173657,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
 EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","1/11/24, 10:00 PM","1/11/24, 11:00 PM","1/11/24, 10:00 PM",,40.751769,-111.470819
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173653,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","1/11/24, 8:46 PM","1/11/24, 10:00 PM","1/11/24, 8:46 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173656,Incidents,US 40,Duchesne County,US 40 at MP 96,"Crash
+US 40 at MP 96 (Bridgeland) Duchesne Co.
+Est. Clearance Time: 11:00 PM","1/11/24, 9:17 PM","1/11/24, 11:00 PM","1/11/24, 9:17 PM",,40.153278,-110.229661
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173658,Incidents,I-80,Summit County,I-80 at MP 141,"Stalled Vehicle
 WB I-80 at Jeremy Ranch On Ramp MP 141 (Park City) Summit Co.
@@ -3779,6 +3782,3 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/2
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Crash
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/14/24, 12:00 PM","1/11/24, 4:18 PM",,40.368169,-111.559358
-UT-Incident--173656,Incidents,US 40,Duchesne County,US 40 at MP 96,"Crash
-US 40 at MP 96 (Bridgeland) Duchesne Co.
-Est. Clearance Time: 11:00 PM","1/11/24, 9:17 PM","1/11/24, 11:00 PM","1/11/24, 9:17 PM",,40.153278,-110.229661
