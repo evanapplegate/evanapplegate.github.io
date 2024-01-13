@@ -4071,11 +4071,18 @@ Est. Clearance Time: 5:20 AM","1/13/24, 4:20 AM","1/13/24, 5:20 AM",,,40.553861,
 UT-Incident--173754,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Est. Clearance Time: 5:38 AM","1/13/24, 4:39 AM","1/13/24, 5:38 AM",,,41.066718,-111.970064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173758,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 Col at MP 296 (8600 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:42 AM","1/13/24, 5:43 AM","1/13/24, 6:42 AM",,,40.592858,-111.902495
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173687,Incidents,US 191,Duchesne County,US 191 at MP 286,"Road Weather 
+SB US 191 Closed
+ at MP 286 (8 miles S of Duchesne) Duchesne Co.
+Use Alt Route","1/12/24, 12:48 PM","1/15/24, 1:46 PM",,,40.07309,-110.512285
+UT-Incident--173740,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
+Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
+Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173756,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
@@ -4085,6 +4092,10 @@ UT-Incident--173757,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
 SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 6:03 AM","1/13/24, 5:09 AM","1/13/24, 6:03 AM",,,40.927672,-111.891527
+UT-Incident--173761,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:25 AM","1/13/24, 6:26 AM","1/13/24, 7:25 AM",,,40.63583,-111.905066
 UT-Incident--173755,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Est. Clearance Time: 5:43 AM","1/13/24, 4:44 AM","1/13/24, 5:43 AM",,,40.659924,-111.952783
@@ -4117,20 +4128,19 @@ Road Closed Due To Inclement Weather","1/12/24, 11:11 PM","1/13/24, 5:00 AM",,,4
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
-UT-Incident--173687,Incidents,US 191,Duchesne County,US 191 at MP 286,"Road Weather 
-SB US 191 Closed
- at MP 286 (8 miles S of Duchesne) Duchesne Co.
-Use Alt Route","1/12/24, 12:48 PM","1/15/24, 1:46 PM",,,40.07309,-110.512285
 UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weather
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/15/24, 6:30 PM",,,39.809161,-110.778864
+UT-Incident--173760,Incidents,US 191,Duchesne County,US 191 at MP 286,"Roadway Restriction
+Traction Control Devices Required for ALL Semis
+SB US 191 at MP 286 (8 miles S of Duchesne) Duchesne Co.","1/13/24, 6:25 AM","1/15/24, 7:05 AM",,,40.07309,-110.512285
+UT-Incident--173762,Incidents,US 191,Carbon County,US 191 at MP 260,"Road weather
+Traction Control Devices Required for ALL Semis
+NB US 191 at MP 260 (10 miles N of Helper) Carbon Co.","1/13/24, 6:29 AM","1/15/24, 7:26 AM",,,39.809161,-110.778864
 UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
 Both Directions US 40 Closed MP 34-58 Wasatch Co.
 Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/15/24, 6:00 AM",,,40.265953,-111.210721
-UT-Incident--173740,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
-Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
-Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
