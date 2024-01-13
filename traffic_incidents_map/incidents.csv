@@ -4215,15 +4215,23 @@ Est. Clearance Time: 3:54 PM","1/13/24, 2:54 PM","1/13/24, 3:54 PM","1/13/24, 2:
 UT-Incident--173786,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 Off Ramp  (600 N) Salt Lake Co.
 Est. Clearance Time: 4:42 PM","1/13/24, 3:43 PM","1/13/24, 4:42 PM","1/13/24, 3:43 PM",,40.777705,-111.910735
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173788,Incidents,US 189,Utah County,US 189 at MP 13,"Road Weather/Avalanche Control
 SB US 189 Closed From MP 13 to MP 10 (Vivian Park to Canyon Glen)
 Utah Co.","1/13/24, 4:05 PM","1/13/24, 5:02 PM","1/13/24, 4:05 PM",,40.35648,-111.576663
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173787,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Debris
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 3 Right Lanes Closed
 Est. Clearance Time: 4:44 PM","1/13/24, 3:46 PM","1/13/24, 4:44 PM","1/13/24, 3:46 PM",,40.63583,-111.905066
+UT-Incident--173790,Incidents,I-84,Morgan County,I-84 at MP 96,"Crash
+WB I-84 at MP 96 (1 mile N of Morgan) Morgan Co.
+Right Shoulder
+Est. Clearance Time: 5:27 PM","1/13/24, 4:27 PM","1/13/24, 5:27 PM","1/13/24, 4:27 PM",,41.123564,-111.765469
+UT-Incident--173791,Incidents,I-84,Morgan County,I-84 at MP 97,"Crash
+WB I-84 at MP 97 (Peterson) Morgan Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","1/13/24, 4:28 PM","1/13/24, 5:30 PM","1/13/24, 4:28 PM",,41.111722,-111.756781
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
