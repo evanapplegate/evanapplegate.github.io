@@ -4159,36 +4159,46 @@ NB US 191 at MP 260 (10 miles N of Helper) Carbon Co.","1/13/24, 6:29 AM","1/15/
 UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
 Both Directions US 40 Closed MP 34-58 Wasatch Co.
 Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 5:00 PM",,,40.265953,-111.210721
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173654,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/15/24, 12:00 PM",,,40.624634,-111.501637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
-SB I-15 at MP 298 (6600 S) Salt Lake Co.
-Est. Clearance Time: 9:45 AM","1/13/24, 8:08 AM","1/13/24, 9:45 AM",,,40.621691,-111.903876
-UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
-EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
-Right Lane Closed
-Est. Clearance Time: 8:18 AM","1/13/24, 7:19 AM","1/13/24, 8:18 AM",,,40.778527,-111.464951
-UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
-Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
-UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM",,,40.619107,-111.786281
-UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
-Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM",,,40.572095,-111.773814
 UT-Incident--173742,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Control
 Both Directions SR 210 Closed
  at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
 Est. Clearance Time: 9:30 AM","1/13/24, 1:08 AM","1/13/24, 9:30 AM",,,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Est. Clearance Time: 9:45 AM","1/13/24, 8:08 AM","1/13/24, 9:45 AM","1/13/24, 9:14 AM",,40.621691,-111.903876
+UT-Incident--173776,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295.55 (9000 S) Salt Lake Co.
+I-215 Collector
+Est. Clearance Time: 10:37 AM","1/13/24, 9:46 AM","1/13/24, 10:37 AM","1/13/24, 9:46 AM",,40.578741,-111.900284
+UT-Incident--173777,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+WB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Est. Clearance Time: 10:48 AM","1/13/24, 9:51 AM","1/13/24, 10:48 AM","1/13/24, 9:51 AM",,40.64406,-111.929407
+UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
+EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
+Right Lane Closed
+Est. Clearance Time: 8:18 AM","1/13/24, 7:19 AM","1/13/24, 8:18 AM","1/13/24, 7:19 AM",,40.778527,-111.464951
+UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
+Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
+UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM","1/12/24, 2:14 AM",,40.619107,-111.786281
+UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
+Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM","1/12/24, 2:15 AM",,40.572095,-111.773814
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
-Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
+Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
+UT-Incident--173778,Incidents,STATE ST,Salt Lake County,STATE ST 8921,"Crash
+NB STATE ST Closed at 8960 S
+ Salt Lake Co.","1/13/24, 9:57 AM","1/13/24, 10:56 AM","1/13/24, 9:58 AM",,40.58982,-111.89072
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
 WB Closed at MP 490 (Garden City)
-Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM",,,41.73861,-111.814969
+Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM","1/13/24, 3:56 AM",,41.73861,-111.814969
