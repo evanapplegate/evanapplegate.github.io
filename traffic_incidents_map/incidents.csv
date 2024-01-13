@@ -3946,10 +3946,10 @@ Est. Clearance Time: 6:45 PM","1/12/24, 5:42 PM","1/12/24, 6:45 PM",,,40.185053,
 UT-Incident--173711,Incidents,US 40,Uintah County,US 40 at MP 171,"Crash
 US 40 at MP 171 (3 Mi W of UT/CO Border) Uintah Co.
 Est. Clearance Time: 7:00 PM","1/12/24, 5:57 PM","1/12/24, 7:00 PM",,,40.284665,-109.116672
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173714,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 Est. Clearance Time: 7:07 PM","1/12/24, 6:10 PM","1/12/24, 7:07 PM",,,40.578741,-111.900284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173703,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
@@ -3999,3 +3999,6 @@ Cache Co.","1/12/24, 6:59 AM","1/12/24, 11:59 PM",,,41.73861,-111.814969
 UT-Incident--173713,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
 WB US 91 MP 17-2  (Sardine Canyon) Cache/Box Elder Co.
 Appoved Traction Devices Required For All Vehicles","1/12/24, 6:10 PM","1/15/24, 7:07 PM",,,41.616749,-111.932782
+UT-Incident--173719,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
+EB US 91 MP 2-17 (Sardine Canyon) Box Elder/Cache Co.
+Approved Traction Devices Required for All Vehicles.","1/12/24, 8:25 PM","1/15/24, 9:22 PM",,,41.486554,-112.015642
