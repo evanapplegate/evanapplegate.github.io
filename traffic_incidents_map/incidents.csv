@@ -4183,7 +4183,6 @@ Est. Clearance Time: 11:10 AM","1/13/24, 10:12 AM","1/13/24, 11:10 AM","1/13/24,
 UT-Incident--173778,Incidents,STATE ST,Salt Lake County,STATE ST 8921,"Crash
 NB STATE ST Closed at 8960 S
  Salt Lake Co.","1/13/24, 9:57 AM","1/13/24, 10:56 AM","1/13/24, 9:58 AM",,40.58982,-111.89072
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Right Lane Closed
@@ -4193,6 +4192,7 @@ Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
 WB Closed at MP 490 (Garden City)
 Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM","1/13/24, 3:56 AM",,41.73861,-111.814969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173780,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
