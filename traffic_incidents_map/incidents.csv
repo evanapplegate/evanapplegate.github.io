@@ -4061,10 +4061,10 @@ UT-Incident--173734,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Cleared at 3:20 AM
 Est. Clearance Time: 3:30 AM","1/12/24, 11:23 PM","1/13/24, 3:30 AM",,,39.952078,-111.271615
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173728,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parley's Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/12/24, 10:55 PM","1/15/24, 11:52 PM",,,40.740161,-111.558358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173753,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
@@ -4074,9 +4074,17 @@ UT-Incident--173754,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 5:38 AM","1/13/24, 4:39 AM","1/13/24, 5:38 AM",,,41.066718,-111.970064
+UT-Incident--173756,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
+SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 5:57 AM","1/13/24, 4:58 AM","1/13/24, 5:57 AM",,,40.885472,-111.896784
+UT-Incident--173757,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
+SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 6:03 AM","1/13/24, 5:09 AM","1/13/24, 6:03 AM",,,40.927672,-111.891527
 UT-Incident--173755,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
-Est. Clearance Time: 5:43 AM","1/13/24, 4:44 AM","1/13/24, 5:43 AM",,,,
+Est. Clearance Time: 5:43 AM","1/13/24, 4:44 AM","1/13/24, 5:43 AM",,,40.659924,-111.952783
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
