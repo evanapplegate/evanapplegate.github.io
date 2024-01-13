@@ -3958,7 +3958,6 @@ SB I-15 at MP 358 (Willard) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 9:45 PM","1/12/24, 8:38 PM","1/12/24, 9:45 PM",,,41.42749,-112.056768
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173722,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Lane Closed
@@ -3967,6 +3966,18 @@ UT-Incident--173718,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:06 PM","1/12/24, 8:08 PM","1/12/24, 9:06 PM",,,40.750653,-111.708179
+UT-Incident--173724,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Stalled Vehicle
+NB SR 36 at MP 63 (Mills Jct) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 10:37 PM","1/12/24, 9:39 PM","1/12/24, 10:37 PM",,,40.654647,-112.289368
+UT-Incident--173716,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
+US 6 at MP 184 (Diamond Fork Rd) Utah Co.
+Est. Clearance Time: 9:00 PM","1/12/24, 7:49 PM","1/12/24, 9:00 PM",,,40.029223,-111.507404
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173726,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
+NB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
+Left Shoulder
+Est. Clearance Time: 11:30 PM","1/12/24, 10:21 PM","1/12/24, 11:30 PM",,,39.569943,-111.93753
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3985,10 +3996,6 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/2
 UT-Incident--173720,Incidents,SR 36,Tooele County,SR 36 at MP 21,"Crash
 SR 36 at MP 21 (Vernon) Tooele Co.
 Est. Clearance Time: 9:34 PM","1/12/24, 8:34 PM","1/12/24, 9:35 PM",,,40.086547,-112.426862
-UT-Incident--173724,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Stalled Vehicle
-NB SR 36 at MP 63 (Mills Jct) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 10:37 PM","1/12/24, 9:39 PM","1/12/24, 10:37 PM",,,40.654647,-112.289368
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
@@ -4006,14 +4013,15 @@ Est. Clearance Time: 11:00 PM","1/12/24, 7:58 PM","1/12/24, 11:00 PM",,,40.18229
 UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
 Both Directions US 40 Closed MP 34-58 Wasatch Co.
 Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 6:00 AM",,,40.265953,-111.210721
-UT-Incident--173716,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
-US 6 at MP 184 (Diamond Fork Rd) Utah Co.
-Est. Clearance Time: 9:00 PM","1/12/24, 7:49 PM","1/12/24, 9:00 PM",,,40.029223,-111.507404
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
 WB Closed at MP 490 (Garden City)
 Cache Co.","1/12/24, 6:59 AM","1/12/24, 11:59 PM",,,41.73861,-111.814969
+UT-Incident--173725,Incidents,US 89,Davis County,US 89 at MP 401,"Stalled Vehicle
+SB US 89 at MP 401 (100 N / Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:17 PM","1/12/24, 10:21 PM","1/12/24, 11:17 PM",,,41.060273,-111.910493
 UT-Incident--173713,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
 WB US 91 MP 17-2  (Sardine Canyon) Cache/Box Elder Co.
 Appoved Traction Devices Required For All Vehicles","1/12/24, 6:10 PM","1/15/24, 7:07 PM",,,41.616749,-111.932782
