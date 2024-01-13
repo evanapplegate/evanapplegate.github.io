@@ -4054,7 +4054,6 @@ UT-Incident--173743,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:16 AM","1/13/24, 1:17 AM","1/13/24, 2:16 AM",,,40.697364,-111.952587
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173736,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For Semis","1/12/24, 11:45 PM","1/16/24, 12:00 PM",,,40.712086,-111.801151
@@ -4062,6 +4061,7 @@ UT-Incident--173734,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Cleared at 3:20 AM
 Est. Clearance Time: 3:30 AM","1/12/24, 11:23 PM","1/13/24, 3:30 AM",,,39.952078,-111.271615
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173728,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parley's Canyon) Summit/Salt Lake Co.
@@ -4071,7 +4071,7 @@ Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
 UT-Incident--173672,Incidents,SR 158,Weber County,SR 158 at MP 7,"Road Weather
 Both Directions SR 158 Closed
- at MP 7 (4.5 MI of Powder Mtn Ski) Weber Co.","1/12/24, 7:46 AM","1/12/24, 8:44 AM",,,41.338893,-111.825609
+ at MP 7 (4.5 MI of Powder Mtn Ski) Weber Co.","1/12/24, 7:46 AM","1/15/24, 8:44 AM",,,41.338893,-111.825609
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM",,,40.619107,-111.786281
@@ -4084,7 +4084,7 @@ Both Directions SR 210 Closed
 Est. Clearance Time: 8:30 AM","1/13/24, 1:08 AM","1/13/24, 8:30 AM",,,40.572095,-111.773814
 UT-Incident--173654,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
-Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/14/24, 12:00 PM",,,40.624634,-111.501637
+Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/15/24, 12:00 PM",,,40.624634,-111.501637
 UT-Incident--173732,Incidents,SR 224,Summit County,SR 224 at MP 3,"Road weather
 Both Directions SR 224 Closed at MP 3 (Wheaton Way) Summit Co.
 Road Closed Due To Inclement Weather","1/12/24, 11:11 PM","1/13/24, 5:00 AM",,,40.622723,-111.494333
@@ -4094,14 +4094,14 @@ Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24
 UT-Incident--173687,Incidents,US 191,Duchesne County,US 191 at MP 286,"Road Weather 
 SB US 191 Closed
  at MP 286 (8 miles S of Duchesne) Duchesne Co.
-Use Alt Route","1/12/24, 12:48 PM","1/13/24, 1:46 PM",,,40.07309,-110.512285
+Use Alt Route","1/12/24, 12:48 PM","1/15/24, 1:46 PM",,,40.07309,-110.512285
 UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weather
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
-Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
+Use Alt Route","1/12/24, 12:49 PM","1/15/24, 6:30 PM",,,39.809161,-110.778864
 UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
 Both Directions US 40 Closed MP 34-58 Wasatch Co.
-Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 6:00 AM",,,40.265953,-111.210721
+Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/15/24, 6:00 AM",,,40.265953,-111.210721
 UT-Incident--173740,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
 Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
 Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
@@ -4109,4 +4109,4 @@ UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/A
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
 WB Closed at MP 490 (Garden City)
-Cache Co.","1/12/24, 6:59 AM","1/12/24, 11:59 PM",,,41.73861,-111.814969
+Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM",,,41.73861,-111.814969
