@@ -4072,6 +4072,10 @@ UT-Incident--173754,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Est. Clearance Time: 5:38 AM","1/13/24, 4:39 AM","1/13/24, 5:38 AM",,,41.066718,-111.970064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173758,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 Col at MP 296 (8600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:42 AM","1/13/24, 5:43 AM","1/13/24, 6:42 AM",,,40.592858,-111.902495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173756,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
@@ -4081,10 +4085,6 @@ UT-Incident--173757,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
 SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 6:03 AM","1/13/24, 5:09 AM","1/13/24, 6:03 AM",,,40.927672,-111.891527
-UT-Incident--173758,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-NB I-15 Col at MP 296 (8600 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 6:42 AM","1/13/24, 5:43 AM","1/13/24, 6:42 AM",,,40.592858,-111.902495
 UT-Incident--173755,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Est. Clearance Time: 5:43 AM","1/13/24, 4:44 AM","1/13/24, 5:43 AM",,,40.659924,-111.952783
