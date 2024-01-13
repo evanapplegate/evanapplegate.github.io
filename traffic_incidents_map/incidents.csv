@@ -4200,12 +4200,16 @@ UT-Incident--173782,Incidents,I-15,Davis County,I-15 at MP 313,"Vehicle on fire
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","1/13/24, 2:01 PM","1/13/24, 3:00 PM","1/13/24, 2:02 PM",,40.831692,-111.91596
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173783,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:22 PM","1/13/24, 2:23 PM","1/13/24, 3:22 PM","1/13/24, 2:23 PM",,40.467787,-111.911227
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173784,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Vehicle on fire
+SB I-15 at MP 297 (7200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:54 PM","1/13/24, 2:54 PM","1/13/24, 3:54 PM","1/13/24, 2:54 PM",,40.607173,-111.905403
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
