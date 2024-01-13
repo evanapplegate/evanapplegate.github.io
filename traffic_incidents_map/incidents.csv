@@ -4008,7 +4008,6 @@ Est. Clearance Time: 1/13/2024 12:13 AM","1/12/24, 11:14 PM","1/13/24, 12:13 AM"
 UT-Incident--173717,Incidents,US 40,Wasatch County,US 40 at MP 50,"Crash
 Both Directions US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
 Est. Clearance Time: 10:00 AM","1/12/24, 7:58 PM","1/13/24, 10:00 AM",,,40.182299,-111.041584
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173746,Incidents,HWY 201,Salt Lake County,HWY 201 at REDWOOD RD,"Crash
 WB HWY 201 at REDWOOD RD Salt Lake Co.
 Right Lane Closed
@@ -4025,6 +4024,19 @@ UT-Incident--173747,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at I-
 WB Bangerter Hwy at I-15 SB Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:40 AM","1/13/24, 1:40 AM","1/13/24, 2:40 AM",,,40.504468,-111.893285
+UT-Incident--173748,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 2:42 AM","1/13/24, 1:42 AM","1/13/24, 2:42 AM",,,40.649847,-111.90236
+UT-Incident--173750,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 3:11 AM","1/13/24, 2:12 AM","1/13/24, 3:11 AM",,,40.149764,-111.647313
+UT-Incident--173749,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
+WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:47 AM","1/13/24, 1:48 AM","1/13/24, 2:47 AM",,,40.748526,-111.722032
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173741,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 Col to EB I-80 (MP 305), Salt Lake Co.
 Left Lane Closed
@@ -4035,15 +4047,11 @@ Left Lane Closed
 Est. Clearance Time: 2:18 AM","1/13/24, 1:19 AM","1/13/24, 2:18 AM",,,40.592858,-111.902495
 UT-Incident--173745,Incidents,I-15,Iron County,I-15 at MP 73,"Crash
 SB I-15 at MP 73 (2 mi S of Parowan) Iron Co.
-Est. Clearance Time: 2:19 AM","1/13/24, 1:20 AM","1/13/24, 2:19 AM",,,37.825673,-112.90567
-UT-Incident--173748,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
-SB I-15 at MP 300 (5200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 2:42 AM","1/13/24, 1:42 AM","1/13/24, 2:42 AM",,,40.649847,-111.90236
-UT-Incident--173750,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
-SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 3:11 AM","1/13/24, 2:12 AM","1/13/24, 3:11 AM",,,40.149764,-111.647313
+Est. Clearance Time: 3:30 AM","1/13/24, 1:20 AM","1/13/24, 3:30 AM",,,37.825673,-112.90567
+UT-Incident--173751,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
+SB I-15 at MP 303 (3300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:29 AM","1/13/24, 2:29 AM","1/13/24, 3:29 AM",,,40.687708,-111.903268
 UT-Incident--173743,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
@@ -4054,10 +4062,6 @@ Approved Traction Devices Required For All Vehicles","1/12/24, 10:55 PM","1/15/2
 UT-Incident--173736,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For All Vehicles ","1/12/24, 11:45 PM","1/16/24, 12:00 PM",,,40.712086,-111.801151
-UT-Incident--173749,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
-WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 2:47 AM","1/13/24, 1:48 AM","1/13/24, 2:47 AM",,,40.748526,-111.722032
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
