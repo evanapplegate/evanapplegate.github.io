@@ -4124,6 +4124,10 @@ UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restrict
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173774,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
+EB I-84 Exit 92 Closed
+ at MP 92 (Exit 92/SR-167) Morgan Co.
+Use Alt Route","1/13/24, 8:18 AM","1/13/24, 9:17 AM",,,41.139114,-111.835183
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Crash
 NB Bangerter Hwy at 7800 S Salt Lake Co.
@@ -4153,10 +4157,6 @@ UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 8:18 AM","1/13/24, 7:19 AM","1/13/24, 8:18 AM",,,40.778527,-111.464951
-UT-Incident--173774,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
-EB I-84 Exit 92 Closed
- at MP 92 (Exit 92/SR-167) Morgan Co.
-Use Alt Route","1/13/24, 8:18 AM","1/13/24, 9:17 AM",,,41.139114,-111.835183
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
