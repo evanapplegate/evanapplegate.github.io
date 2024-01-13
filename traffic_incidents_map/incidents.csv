@@ -4208,7 +4208,6 @@ UT-Incident--173785,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Debris
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:18 PM","1/13/24, 3:19 PM","1/13/24, 4:18 PM","1/13/24, 3:19 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173784,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Vehicle on fire
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
@@ -4216,6 +4215,10 @@ Est. Clearance Time: 3:54 PM","1/13/24, 2:54 PM","1/13/24, 3:54 PM","1/13/24, 2:
 UT-Incident--173786,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 Off Ramp  (600 N) Salt Lake Co.
 Est. Clearance Time: 4:42 PM","1/13/24, 3:43 PM","1/13/24, 4:42 PM","1/13/24, 3:43 PM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173788,Incidents,US 189,Utah County,US 189 at MP 13,"Road Weather/Avalanche Control
+SB US 189 Closed From MP 13 to MP 10 (Vivian Park to Canyon Glen)
+Utah Co.","1/13/24, 4:05 PM","1/13/24, 5:02 PM","1/13/24, 4:05 PM",,40.35648,-111.576663
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173787,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Debris
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
@@ -4233,6 +4236,3 @@ Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM","
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
-UT-Incident--173788,Incidents,US 189,Utah County,US 189 at MP 13,"Road Weather/Avalanche Control
-SB US 189 Closed From MP 13 to MP 10 (Vivian Park to Canyon Glen)
-Utah Co.","1/13/24, 4:05 PM","1/13/24, 5:02 PM","1/13/24, 4:05 PM",,40.35648,-111.576663
