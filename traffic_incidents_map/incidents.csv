@@ -3993,7 +3993,6 @@ UT-Incident--173737,Incidents,I-15 SB Fwy,Salt Lake County,I-15 SB Fwy at I-80 E
 SB I-15  to EB I-80 Ramp, Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1/13/2024 12:48 AM","1/12/24, 11:50 PM","1/13/24, 12:48 AM",,,40.723355,-111.904937
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173731,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Left Shoulder
@@ -4006,6 +4005,7 @@ UT-Incident--173733,Incidents,US 6,Utah County,US 6 at MP 184,"Stalled Vehicle
 Both Directions US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 1/13/2024 12:13 AM","1/12/24, 11:14 PM","1/13/24, 12:13 AM",,,40.029223,-111.507404
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173727,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
