@@ -4010,12 +4010,16 @@ Est. Clearance Time: 1/13/2024 12:13 AM","1/12/24, 11:14 PM","1/13/24, 12:13 AM"
 UT-Incident--173727,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Est. Clearance Time: 1/13/2024 2:30 AM","1/12/24, 10:36 PM","1/13/24, 2:30 AM",,,41.342906,-112.038597
+UT-Incident--173741,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+SB I-15 Col to EB I-80 (MP 305), Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 1:53 AM","1/13/24, 12:55 AM","1/13/24, 1:53 AM",,,40.722344,-111.904691
 UT-Incident--173728,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parley's Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/12/24, 10:55 PM","1/15/24, 11:52 PM",,,40.740161,-111.558358
 UT-Incident--173736,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143 (Parley's Canyon) Salt Lake/Summit Co.
-Approved Traction Devices Required For All Semis","1/12/24, 11:45 PM","1/16/24, 12:00 PM",,,40.712086,-111.801151
+Approved Traction Devices Required For All Vehicles ","1/12/24, 11:45 PM","1/16/24, 12:00 PM",,,40.712086,-111.801151
 UT-Incident--173735,Incidents,I-84,Morgan County,I-84 at MP 96,"Crash
 EB I-84 at MP 96 (1 mile N of Morgan) Morgan Co.
 Right Shoulder
@@ -4055,6 +4059,9 @@ Est. Clearance Time: 11:00 PM","1/12/24, 7:58 PM","1/12/24, 11:00 PM",,,40.18229
 UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
 Both Directions US 40 Closed MP 34-58 Wasatch Co.
 Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 6:00 AM",,,40.265953,-111.210721
+UT-Incident--173740,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
+Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
+Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
 UT-Incident--173734,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Right Shoulder
