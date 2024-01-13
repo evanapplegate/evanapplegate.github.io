@@ -3947,14 +3947,18 @@ UT-Incident--173711,Incidents,US 40,Uintah County,US 40 at MP 171,"Crash
 US 40 at MP 171 (3 Mi W of UT/CO Border) Uintah Co.
 Est. Clearance Time: 7:00 PM","1/12/24, 5:57 PM","1/12/24, 7:00 PM",,,40.284665,-109.116672
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173714,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
+Est. Clearance Time: 7:07 PM","1/12/24, 6:10 PM","1/12/24, 7:07 PM",,,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173703,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 5:55 PM","1/12/24, 4:54 PM","1/12/24, 5:55 PM",,,40.262286,-111.70752
-UT-Incident--173714,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
-Est. Clearance Time: 7:07 PM","1/12/24, 6:10 PM","1/12/24, 7:07 PM",,,40.578741,-111.900284
+UT-Incident--173718,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
+EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:06 PM","1/12/24, 8:08 PM","1/12/24, 9:06 PM",,,40.750653,-111.708179
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3982,8 +3986,8 @@ NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
 UT-Incident--173717,Incidents,US 40,Wasatch County,US 40 at MP 50,"Crash
-US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
-Est. Clearance Time: 9:00 PM","1/12/24, 7:58 PM","1/12/24, 9:00 PM",,,40.182299,-111.041584
+Both Directions US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
+Est. Clearance Time: 11:00 PM","1/12/24, 7:58 PM","1/12/24, 11:00 PM",,,40.182299,-111.041584
 UT-Incident--173716,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
 US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 9:00 PM","1/12/24, 7:49 PM","1/12/24, 9:00 PM",,,40.029223,-111.507404
