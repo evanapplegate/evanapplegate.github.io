@@ -4146,7 +4146,6 @@ Est. Clearance Time: 9:21 AM","1/13/24, 8:22 AM","1/13/24, 9:21 AM",,,40.621691,
 UT-Incident--173672,Incidents,SR 158,Weber County,SR 158 at MP 7,"Road Weather
 Both Directions SR 158 Closed
  at MP 7 (4.5 MI of Powder Mtn Ski) Weber Co.","1/12/24, 7:46 AM","1/15/24, 8:44 AM",,,41.338893,-111.825609
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173772,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lane Closed
@@ -4157,6 +4156,10 @@ SB US 191 at MP 286 (8 miles S of Duchesne) Duchesne Co.","1/13/24, 6:25 AM","1/
 UT-Incident--173762,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restrictions
 Traction Control Devices Required for ALL Semis
 NB US 191 at MP 260 (10 miles N of Helper) Carbon Co.","1/13/24, 6:29 AM","1/15/24, 7:26 AM",,,39.809161,-110.778864
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
+Both Directions US 40 Closed MP 34-58 Wasatch Co.
+Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 5:00 PM",,,40.265953,-111.210721
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
@@ -4184,9 +4187,6 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/15/2
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
-UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
-Both Directions US 40 Closed MP 34-58 Wasatch Co.
-Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 5:00 PM",,,40.265953,-111.210721
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
