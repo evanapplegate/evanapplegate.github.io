@@ -3888,7 +3888,6 @@ UT-Incident--173698,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
 SB I-15 at MP 244 Off Ramp (SR-198 Jct / Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","1/12/24, 4:00 PM","1/12/24, 5:00 PM",,,39.967345,-111.783318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173697,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Center Lane Closed
@@ -3902,14 +3901,31 @@ UT-Incident--173700,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 NB I-15 at MP 280 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:25 PM","1/12/24, 4:18 PM","1/12/24, 5:25 PM",,,40.39191,-111.835579
-UT-Incident--173701,Incidents,I-15,Box Elder County,I-15 at MP 386,"Crash
-NB I-15 at MP 386 (Plymouth) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 5:25 PM","1/12/24, 4:24 PM","1/12/24, 5:25 PM",,,41.794817,-112.174136
 UT-Incident--173702,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","1/12/24, 4:33 PM","1/12/24, 5:30 PM",,,41.194004,-112.002614
+UT-Incident--173696,Incidents,US 6,Utah County,US 6 at MP 183,"Crash
+WB US 6 at MP 183 (1 Mi W of Diamond Fork Rd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","1/12/24, 3:41 PM","1/12/24, 4:45 PM",,,40.035001,-111.524017
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173701,Incidents,I-15,Box Elder County,I-15 at MP 386,"Crash
+NB I-15 at MP 386 (Plymouth) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 5:25 PM","1/12/24, 4:24 PM","1/12/24, 5:25 PM",,,41.794817,-112.174136
+UT-Incident--173703,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
+SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 5:55 PM","1/12/24, 4:54 PM","1/12/24, 5:55 PM",,,40.262286,-111.70752
+UT-Incident--173705,Incidents,I-15,Utah County,I-15 at MP 282,"Stalled Vehicle
+SB I-15 at MP 282 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:16 PM","1/12/24, 5:17 PM","1/12/24, 6:16 PM",,,40.410606,-111.863979
+UT-Incident--173706,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
+NB I-15 at MP 267 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","1/12/24, 5:25 PM","1/12/24, 6:15 PM",,,40.251153,-111.695664
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -3936,12 +3952,15 @@ UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
-UT-Incident--173696,Incidents,US 6,Utah County,US 6 at MP 183,"Crash
-WB US 6 at MP 183 (1 Mi W of Diamond Fork Rd) Utah Co.
-Right Shoulder
-Est. Clearance Time: 4:45 PM","1/12/24, 3:41 PM","1/12/24, 4:45 PM",,,40.035001,-111.524017
+UT-Incident--173704,Incidents,US 40,Wasatch County,US 40 at MP 48,"Crash
+EB US 40 at MP 48 (Strawberry Reservoir) Wasatch Co.
+Est. Clearance Time: 6:30 PM","1/12/24, 5:06 PM","1/12/24, 6:30 PM",,,40.190715,-111.077521
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
 WB Closed at MP 490 (Garden City)
 Cache Co.","1/12/24, 6:59 AM","1/12/24, 11:59 PM",,,41.73861,-111.814969
+UT-Incident--173707,Incidents,Washington Blvd,Weber County,Washington Blvd at 24th St,"Crash
+SB Washington Blvd at 24th St Weber Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:35 PM","1/12/24, 5:30 PM","1/12/24, 6:35 PM",,,41.222756,-111.970423
