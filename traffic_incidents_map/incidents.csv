@@ -4173,7 +4173,6 @@ Est. Clearance Time: 10:37 AM","1/13/24, 9:46 AM","1/13/24, 10:37 AM","1/13/24, 
 UT-Incident--173777,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 WB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Est. Clearance Time: 10:48 AM","1/13/24, 9:51 AM","1/13/24, 10:48 AM","1/13/24, 9:51 AM",,40.64406,-111.929407
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Est. Clearance Time: 9:45 AM","1/13/24, 8:08 AM","1/13/24, 9:45 AM","1/13/24, 9:14 AM",,40.621691,-111.903876
@@ -4189,6 +4188,16 @@ UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 8:18 AM","1/13/24, 7:19 AM","1/13/24, 8:18 AM","1/13/24, 7:19 AM",,40.778527,-111.464951
+UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
+Both Directions US 89 (Logan Canyon) Closed
+EB Closed at MP 460 (Logan)
+WB Closed at MP 490 (Garden City)
+Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM","1/13/24, 3:56 AM",,41.73861,-111.814969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173780,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
+EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:57 AM","1/13/24, 10:59 AM","1/13/24, 11:57 AM","1/13/24, 10:59 AM",,40.770664,-112.009234
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -4201,8 +4210,3 @@ Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM","
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
-UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
-Both Directions US 89 (Logan Canyon) Closed
-EB Closed at MP 460 (Logan)
-WB Closed at MP 490 (Garden City)
-Cache Co.","1/12/24, 6:59 AM","1/15/24, 11:59 PM","1/13/24, 3:56 AM",,41.73861,-111.814969
