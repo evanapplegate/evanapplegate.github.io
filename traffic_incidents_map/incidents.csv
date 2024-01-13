@@ -4108,7 +4108,6 @@ Est. Clearance Time: 6:44 AM","1/13/24, 5:45 AM","1/13/24, 6:44 AM",,,40.717792,
 UT-Incident--173732,Incidents,SR 224,Summit County,SR 224 at MP 3,"Road weather
 Both Directions SR 224 Closed at MP 3 (Wheaton Way) Summit Co.
 Road Closed Due To Inclement Weather","1/12/24, 11:11 PM","1/13/24, 5:00 AM",,,40.622723,-111.494333
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173763,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Lane Closed
@@ -4118,14 +4117,18 @@ Ramp WB SR 201 to SB I-15 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:09 AM","1/13/24, 7:12 AM","1/13/24, 8:09 AM",,,40.725446,-111.890166
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--173771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Crash
-NB Bangerter Hwy at 7800 S Salt Lake Co.
-3 Left Lanes Closed
-Est. Clearance Time: 8:23 AM","1/13/24, 7:24 AM","1/13/24, 8:23 AM",,,40.611559,-111.975313
 UT-Incident--173764,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:50 AM","1/13/24, 6:50 AM","1/13/24, 7:50 AM",,,40.63583,-111.905066
+UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
+Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
+Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Crash
+NB Bangerter Hwy at 7800 S Salt Lake Co.
+3 Left Lanes Closed
+Est. Clearance Time: 8:23 AM","1/13/24, 7:24 AM","1/13/24, 8:23 AM",,,40.611559,-111.975313
 UT-Incident--173767,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
@@ -4134,6 +4137,10 @@ UT-Incident--173770,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:17 AM","1/13/24, 7:19 AM","1/13/24, 8:17 AM",,,40.122652,-111.658929
+UT-Incident--173772,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+SB I-15 at MP 319 (Parrish Ln) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 9:00 AM","1/13/24, 8:02 AM","1/13/24, 9:00 AM",,,40.914229,-111.891449
 UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Right Lane Closed
@@ -4160,9 +4167,6 @@ Approved Traction Devices Required For All Vehicles ","1/11/24, 9:00 PM","1/15/2
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
-UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
-Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
-Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
 UT-Incident--173760,Incidents,US 191,Duchesne County,US 191 at MP 286,"Roadway Restrictions
 Traction Control Devices Required for ALL Semis
 SB US 191 at MP 286 (8 miles S of Duchesne) Duchesne Co.","1/13/24, 6:25 AM","1/15/24, 7:05 AM",,,40.07309,-110.512285
