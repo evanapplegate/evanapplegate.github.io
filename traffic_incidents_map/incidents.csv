@@ -3949,7 +3949,6 @@ Est. Clearance Time: 7:00 PM","1/12/24, 5:57 PM","1/12/24, 7:00 PM",,,40.284665,
 UT-Incident--173714,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 Est. Clearance Time: 7:07 PM","1/12/24, 6:10 PM","1/12/24, 7:07 PM",,,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173703,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Lane Closed
@@ -3958,6 +3957,7 @@ UT-Incident--173721,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 SB I-15 at MP 358 (Willard) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 9:45 PM","1/12/24, 8:38 PM","1/12/24, 9:45 PM",,,41.42749,-112.056768
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173722,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
@@ -3999,6 +3999,9 @@ Use Alt Route","1/12/24, 12:49 PM","1/13/24, 6:30 PM",,,39.809161,-110.778864
 UT-Incident--173717,Incidents,US 40,Wasatch County,US 40 at MP 50,"Crash
 Both Directions US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
 Est. Clearance Time: 11:00 PM","1/12/24, 7:58 PM","1/12/24, 11:00 PM",,,40.182299,-111.041584
+UT-Incident--173723,Incidents,US 40,Wasatch County,US 40 at MP 38,"Road weather
+Both Directions US 40 Closed MP 34-58 Wasatch Co.
+Road Closed Due To Inclement Weather ","1/12/24, 9:21 PM","1/13/24, 6:00 AM",,,40.265953,-111.210721
 UT-Incident--173716,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
 US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 9:00 PM","1/12/24, 7:49 PM","1/12/24, 9:00 PM",,,40.029223,-111.507404
