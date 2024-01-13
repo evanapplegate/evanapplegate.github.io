@@ -3950,7 +3950,6 @@ UT-Incident--173714,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 Est. Clearance Time: 7:07 PM","1/12/24, 6:10 PM","1/12/24, 7:07 PM",,,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173703,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Lane Closed
@@ -3959,6 +3958,11 @@ UT-Incident--173721,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 SB I-15 at MP 358 (Willard) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 9:45 PM","1/12/24, 8:38 PM","1/12/24, 9:45 PM",,,41.42749,-112.056768
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173722,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
+NB I-15 at MP 352 (Box Elder) Box Elder Co.
+Left Lane Closed
+Est. Clearance Time: 10:00 PM","1/12/24, 8:57 PM","1/12/24, 10:00 PM",,,41.342906,-112.038597
 UT-Incident--173718,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Left Shoulder
