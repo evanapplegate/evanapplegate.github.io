@@ -4035,7 +4035,6 @@ UT-Incident--173749,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:47 AM","1/13/24, 1:48 AM","1/13/24, 2:47 AM",,,40.748526,-111.722032
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173741,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 Col to EB I-80 (MP 305), Salt Lake Co.
 Left Lane Closed
@@ -4056,6 +4055,7 @@ UT-Incident--173743,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:16 AM","1/13/24, 1:17 AM","1/13/24, 2:16 AM",,,40.697364,-111.952587
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173728,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parley's Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/12/24, 10:55 PM","1/15/24, 11:52 PM",,,40.740161,-111.558358
@@ -4103,7 +4103,7 @@ Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
 Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
 UT-Incident--173734,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
-Right Shoulder
+Cleared at 3:20 AM
 Est. Clearance Time: 3:30 AM","1/12/24, 11:23 PM","1/13/24, 3:30 AM",,,39.952078,-111.271615
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
