@@ -4082,7 +4082,6 @@ Use Alt Route","1/12/24, 12:48 PM","1/15/24, 1:46 PM",,,40.07309,-110.512285
 UT-Incident--173740,Incidents,US 40,Summit County,US 40 at MP 6,"Roadway Restriction
 Both Directions US 40 Between MP 6-13 Summit/Wasatch Co.
 Approved Traction Devices Required For All Vehicles ","1/13/24, 12:46 AM","1/13/24, 1:44 AM",,,40.654652,-111.457229
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173756,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Lane Closed
@@ -4103,10 +4102,15 @@ NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/15/24, 6:30 PM",,,39.809161,-110.778864
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173763,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 8:33 AM","1/13/24, 6:34 AM","1/13/24, 8:33 AM",,,40.401041,-111.849765
+UT-Incident--173764,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:50 AM","1/13/24, 6:50 AM","1/13/24, 7:50 AM",,,40.63583,-111.905066
 UT-Incident--173759,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (Ramp to WB SR-201) Salt Lake Co.
 Right Shoulder
