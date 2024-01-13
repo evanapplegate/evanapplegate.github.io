@@ -3979,13 +3979,13 @@ Est. Clearance Time: 11:17 PM","1/12/24, 10:21 PM","1/12/24, 11:17 PM",,,41.0602
 UT-Incident--173720,Incidents,SR 36,Tooele County,SR 36 at MP 21,"Crash
 SR 36 at MP 21 (Vernon) Tooele Co.
 Est. Clearance Time: 9:34 PM","1/12/24, 8:34 PM","1/12/24, 9:35 PM",,,40.086547,-112.426862
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173713,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
 WB US 91 MP 17-2  (Sardine Canyon) Cache/Box Elder Co.
 Appoved Traction Devices Required For All Vehicles","1/12/24, 6:10 PM","1/15/24, 7:07 PM",,,41.616749,-111.932782
 UT-Incident--173719,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 EB US 91 MP 2-17 (Sardine Canyon) Box Elder/Cache Co.
 Approved Traction Devices Required for All Vehicles.","1/12/24, 8:25 PM","1/15/24, 9:22 PM",,,41.486554,-112.015642
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173726,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
 NB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
@@ -4044,6 +4044,10 @@ UT-Incident--173733,Incidents,US 6,Utah County,US 6 at MP 184,"Stalled Vehicle
 Both Directions US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 1/13/2024 12:13 AM","1/12/24, 11:14 PM","1/13/24, 12:13 AM",,,40.029223,-111.507404
+UT-Incident--173734,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
+EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1/13/2024 12:22 AM","1/12/24, 11:23 PM","1/13/24, 12:22 AM",,,39.952078,-111.271615
 UT-Incident--173670,Incidents,US 89,Cache County,US 89 at MP 460,"Road Weather/Avalanche
 Both Directions US 89 (Logan Canyon) Closed
 EB Closed at MP 460 (Logan)
