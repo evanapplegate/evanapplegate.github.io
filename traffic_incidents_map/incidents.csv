@@ -4007,6 +4007,14 @@ Right Lane Closed
 Est. Clearance Time: 1/13/2024 12:13 AM","1/12/24, 11:14 PM","1/13/24, 12:13 AM",,,40.029223,-111.507404
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173747,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at I-15 SB Fwy,"Crash
+WB Bangerter Hwy at I-15 SB Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:40 AM","1/13/24, 1:40 AM","1/13/24, 2:40 AM",,,40.504468,-111.893285
+UT-Incident--173746,Incidents,HWY 201,Salt Lake County,HWY 201 at REDWOOD RD,"Crash
+WB HWY 201 at REDWOOD RD Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:33 AM","1/13/24, 1:34 AM","1/13/24, 2:33 AM",,,40.724351,-111.932425
 UT-Incident--173727,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Est. Clearance Time: 1/13/2024 2:30 AM","1/12/24, 10:36 PM","1/13/24, 2:30 AM",,,41.342906,-112.038597
@@ -4018,10 +4026,13 @@ UT-Incident--173744,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:18 AM","1/13/24, 1:19 AM","1/13/24, 2:18 AM",,,40.592858,-111.902495
-UT-Incident--173745,Incidents,I-15,Iron County,I-15 at MP 71,"Crash
-SB I-15 at MP 71 (4 mi S of Parowan) Iron Co.
-Right Shoulder
-Est. Clearance Time: 2:19 AM","1/13/24, 1:20 AM","1/13/24, 2:19 AM",,,37.810349,-112.934019
+UT-Incident--173745,Incidents,I-15,Iron County,I-15 at MP 73,"Crash
+SB I-15 at MP 73 (2 mi S of Parowan) Iron Co.
+Est. Clearance Time: 2:19 AM","1/13/24, 1:20 AM","1/13/24, 2:19 AM",,,37.825673,-112.90567
+UT-Incident--173748,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 2:42 AM","1/13/24, 1:42 AM","1/13/24, 2:42 AM",,,40.649847,-111.90236
 UT-Incident--173743,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
