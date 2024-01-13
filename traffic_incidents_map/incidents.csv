@@ -4101,7 +4101,6 @@ UT-Incident--173688,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 NB US 191 Closed
  at MP 260 (10 miles N of Helper) Carbon Co.
 Use Alt Route","1/12/24, 12:49 PM","1/15/24, 6:30 PM",,,39.809161,-110.778864
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173759,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (Ramp to WB SR-201) Salt Lake Co.
 Right Shoulder
@@ -4110,6 +4109,11 @@ UT-Incident--173732,Incidents,SR 224,Summit County,SR 224 at MP 3,"Road weather
 Both Directions SR 224 Closed at MP 3 (Wheaton Way) Summit Co.
 Road Closed Due To Inclement Weather","1/12/24, 11:11 PM","1/13/24, 5:00 AM",,,40.622723,-111.494333
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Crash
+NB Bangerter Hwy at 7800 S Salt Lake Co.
+3 Left Lanes Closed
+Est. Clearance Time: 8:23 AM","1/13/24, 7:24 AM","1/13/24, 8:23 AM",,,40.611559,-111.975313
 UT-Incident--173763,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Lane Closed
