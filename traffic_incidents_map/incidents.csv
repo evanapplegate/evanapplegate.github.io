@@ -4166,7 +4166,6 @@ UT-Incident--173742,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenanc
 Both Directions SR 210 Closed
  at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
 Est. Clearance Time: 9:30 AM","1/13/24, 1:08 AM","1/13/24, 9:30 AM",,,40.572095,-111.773814
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173776,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295.55 (9000 S) Salt Lake Co.
 I-215 Collector
@@ -4174,6 +4173,7 @@ Est. Clearance Time: 10:37 AM","1/13/24, 9:46 AM","1/13/24, 10:37 AM","1/13/24, 
 UT-Incident--173777,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 WB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Est. Clearance Time: 10:48 AM","1/13/24, 9:51 AM","1/13/24, 10:48 AM","1/13/24, 9:51 AM",,40.64406,-111.929407
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
