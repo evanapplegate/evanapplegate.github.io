@@ -4116,7 +4116,6 @@ UT-Incident--173768,Incidents,SR 201,Salt Lake County,SR 201 at MP 18,"Crash
 Ramp WB SR 201 to SB I-15 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:09 AM","1/13/24, 7:12 AM","1/13/24, 8:09 AM",,,40.725446,-111.890166
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173764,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -4124,6 +4123,7 @@ Est. Clearance Time: 7:50 AM","1/13/24, 6:50 AM","1/13/24, 7:50 AM",,,40.63583,-
 UT-Incident--173637,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92  MP 27-22  (Alpine Loop Road) Utah Co.
 Approved Traction Devices Required For All Vehicles","1/11/24, 4:15 PM","1/15/24, 12:00 PM",,,40.368169,-111.559358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Crash
 NB Bangerter Hwy at 7800 S Salt Lake Co.
@@ -4141,10 +4141,18 @@ UT-Incident--173772,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 9:00 AM","1/13/24, 8:02 AM","1/13/24, 9:00 AM",,,40.914229,-111.891449
+UT-Incident--173773,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Right Lane Blocked
+Est. Clearance Time: 9:07 AM","1/13/24, 8:08 AM","1/13/24, 9:07 AM",,,40.621691,-111.903876
 UT-Incident--173769,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 8:18 AM","1/13/24, 7:19 AM","1/13/24, 8:18 AM",,,40.778527,-111.464951
+UT-Incident--173774,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
+EB I-84 Exit 92 Closed
+ at MP 92 (Exit 92/SR-167) Morgan Co.
+Use Alt Route","1/13/24, 8:18 AM","1/13/24, 9:17 AM",,,41.139114,-111.835183
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
