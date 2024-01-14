@@ -4254,7 +4254,6 @@ UT-Incident--173802,Incidents,SR 14,Iron County,SR 14 at MP 14,"Crash
 SB SR 14 at MP 14 (12 Mi E of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6:50 PM","1/13/24, 5:57 PM","1/13/24, 6:50 PM","1/13/24, 5:57 PM",,37.593061,-112.885183
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173808,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
 NB I-15 at MP 344 (24th St) Weber Co.
 Left Shoulder
@@ -4272,6 +4271,7 @@ UT-Incident--173804,Incidents,SR 92,Utah County,SR 92 at MP 26,"Crash
 SR 92 at MP 26 (1 Mi N of US-189) Utah Co.
 Est. Clearance Time: 7:35 PM","1/13/24, 6:24 PM","1/13/24, 7:35 PM","1/13/24, 6:24 PM",,40.377834,-111.568038
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173810,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
@@ -4279,6 +4279,10 @@ Est. Clearance Time: 8:45 PM","1/13/24, 7:19 PM","1/13/24, 8:45 PM","1/13/24, 7:
 UT-Incident--173813,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 NB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
 Est. Clearance Time: 8:35 PM","1/13/24, 7:31 PM","1/13/24, 8:35 PM","1/13/24, 7:31 PM",,39.543613,-111.952663
+UT-Incident--173815,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
+SB I-15 at MP 344 (24th St) Weber Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","1/13/24, 7:46 PM","1/13/24, 8:45 PM","1/13/24, 7:46 PM",,41.230556,-112.01298
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
 Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/14/24, 7:31 PM","1/13/24, 6:50 PM",,40.740161,-111.558358
@@ -4300,6 +4304,9 @@ Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1
 UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM","1/13/24, 7:11 PM",,40.492161,-111.412613
+UT-Incident--173814,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
+WB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
+Est. Clearance Time: 8:45 PM","1/13/24, 7:46 PM","1/13/24, 8:45 PM","1/13/24, 7:46 PM",,40.588743,-111.436969
 UT-Incident--173811,Incidents,US 6,Utah County,US 6 at MP 193,"Vehicle on fire
 WB US 6 at MP 193 (Utah County)
 Right Lane Closed
