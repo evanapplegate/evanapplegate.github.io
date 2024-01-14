@@ -4432,6 +4432,10 @@ SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/14/24, 7:19 AM","1/14/24, 8:30 AM",,,40.42263,-111.881068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173864,Incidents,US 89,Davis County,US 89 at MP 400,"Crash
+NB US 89 at MP 400 (700 N / Fruit Heights) Davis Co.
+Right lanes Closed
+Est. Clearance Time: 8:50 AM","1/14/24, 7:38 AM","1/14/24, 8:50 AM",,,41.045984,-111.910073
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173867,Incidents,Center St,Summit County,Center St at Main St,"Signal problems
 Center St at Main St (Kamas) Summit Co.
@@ -4450,6 +4454,14 @@ UT-Incident--173870,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","1/14/24, 8:14 AM","1/14/24, 9:15 AM",,,41.413643,-112.050713
+UT-Incident--173871,Incidents,I-15,Box Elder County,I-15 at MP 361,"Crash
+SB I-15 at MP 361 (Brigham City) Box Elder Co.
+Left/Right Shoulders
+Est. Clearance Time: 10:30 AM","1/14/24, 8:39 AM","1/14/24, 10:30 AM",,,41.474062,-112.054215
+UT-Incident--173872,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
+NB I-15 at MP 336 (650 N, Clearfield) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/14/24, 8:42 AM","1/14/24, 10:15 AM",,,41.124091,-112.023745
 UT-Incident--173865,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Est. Clearance Time: 9:00 AM","1/14/24, 7:54 AM","1/14/24, 9:00 AM",,,40.747119,-111.724705
@@ -4494,10 +4506,6 @@ Approved Traction Devices Required for Semis","1/14/24, 12:46 AM","1/14/24, 1:44
 UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
-UT-Incident--173864,Incidents,US 89,Davis County,US 89 at MP 400,"Crash
-NB US 89 at MP 400 (700 N / Fruit Heights) Davis Co.
-Right lanes Closed
-Est. Clearance Time: 8:50 AM","1/14/24, 7:38 AM","1/14/24, 8:50 AM",,,41.045984,-111.910073
 UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
 Approved Traction Devices Required ","1/13/24, 8:05 PM","1/15/24, 8:51 PM",,,41.486554,-112.015642
