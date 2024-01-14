@@ -4475,7 +4475,6 @@ Est. Clearance Time: 10:00 AM","1/14/24, 8:58 AM","1/14/24, 10:00 AM",,,40.35752
 UT-Incident--173869,Incidents,STATE ST,Utah County,STATE ST 501,"Signal problems
 State St at 850 E (Lehi) Utah Co.
 Est. Clearance Time: 9:30 AM","1/14/24, 8:08 AM","1/14/24, 9:30 AM",,,40.392677,-111.836732
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173872,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
 NB I-15 at MP 336 (650 N, Clearfield) Davis Co.
 Right Shoulder
@@ -4491,6 +4490,11 @@ UT-Incident--173874,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 NB I-15 at MP 260 (400 S / Springville) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:00 AM","1/14/24, 9:01 AM","1/14/24, 10:00 AM",,,40.161636,-111.646866
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173877,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
+SB Bangerter Hwy at 4700 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 11:04 AM","1/14/24, 10:04 AM","1/14/24, 11:04 AM",,,40.667559,-111.9815
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
