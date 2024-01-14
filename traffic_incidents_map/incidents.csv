@@ -4329,7 +4329,6 @@ Right Lane Closed
 Est. Clearance Time: 8:30 PM","1/13/24, 7:24 PM","1/13/24, 8:30 PM",,,39.988452,-111.368324
 UT-Incident--173832,Incidents,US 191,Carbon County,US 191 at MP 260,"Maintenance/Avalanche Control
 Both Directions US 191 Closed between MP 260-286 (Indian Canyon), Carbon & Duchesne Co.","1/13/24, 9:42 PM","1/14/24, 12:00 PM",,,39.809161,-110.778864
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173826,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Shoulder
@@ -4356,6 +4355,7 @@ Est. Clearance Time: 1/14/2024 12:36 AM","1/13/24, 11:36 PM","1/14/24, 12:36 AM"
 UT-Incident--173842,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
 EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
 Est. Clearance Time: 1/14/2024 1:00 AM","1/13/24, 11:49 PM","1/14/24, 1:00 AM",,,40.68342,-111.462507
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
