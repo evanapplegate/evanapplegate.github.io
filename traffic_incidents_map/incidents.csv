@@ -4226,7 +4226,6 @@ UT-Incident--173795,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
 NB I-15 at MP 362 (Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","1/13/24, 4:41 PM","1/13/24, 5:45 PM","1/13/24, 4:41 PM",,41.485402,-112.05328
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173792,Incidents,5900 W,Weber County,5900 W at 5500 S,"Crash
 5900 W at 5500 S Weber Co.
 Est. Clearance Time: 5:30 PM","1/13/24, 4:34 PM","1/13/24, 5:30 PM","1/13/24, 4:34 PM",,41.165885,-112.12265
@@ -4252,19 +4251,28 @@ UT-Incident--173799,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
 WB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 6:25 PM","1/13/24, 5:20 PM","1/13/24, 6:25 PM","1/13/24, 5:20 PM",,40.405503,-111.524184
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173802,Incidents,SR 14,Iron County,SR 14 at MP 14,"Crash
+SB SR 14 at MP 14 (12 Mi E of Cedar City) Iron Co.
+Right Shoulder
+Est. Clearance Time: 6:50 PM","1/13/24, 5:57 PM","1/13/24, 6:50 PM","1/13/24, 5:57 PM",,37.593061,-112.885183
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173808,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
+NB I-15 at MP 344 (24th St) Weber Co.
+Left Shoulder
+Est. Clearance Time: 8:00 PM","1/13/24, 6:53 PM","1/13/24, 8:00 PM","1/13/24, 6:53 PM",,41.230556,-112.01298
+UT-Incident--173810,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+SB I-15 at MP 283 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","1/13/24, 7:19 PM","1/13/24, 8:45 PM","1/13/24, 7:19 PM",,40.420056,-111.878496
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
-WB I-80 at MP 143 (Parley's Canyon) Summit Co.
-Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/14/24, 7:31 PM","1/13/24, 6:34 PM",,40.740161,-111.558358
+WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
+Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/14/24, 7:31 PM","1/13/24, 6:50 PM",,40.740161,-111.558358
 UT-Incident--173806,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143  (Parleys Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For Semis","1/13/24, 6:35 PM","1/15/24, 12:00 PM","1/13/24, 6:35 PM",,40.712086,-111.801151
 UT-Incident--173800,Incidents,I-84,Weber County,I-84 at MP 83,"Crash
 WB I-84 at MP 83 (South Weber) Weber Co.
 Est. Clearance Time: 7:30 PM","1/13/24, 5:23 PM","1/13/24, 7:30 PM","1/13/24, 6:35 PM",,41.160988,-111.994373
-UT-Incident--173802,Incidents,SR 14,Iron County,SR 14 at MP 14,"Crash
-SB SR 14 at MP 14 (12 Mi E of Cedar City) Iron Co.
-Right Shoulder
-Est. Clearance Time: 6:50 PM","1/13/24, 5:57 PM","1/13/24, 6:50 PM","1/13/24, 5:57 PM",,37.593061,-112.885183
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -4286,3 +4294,10 @@ SR 224 MP 11  at  Olympic Parkway (Park City) Summit Co.","1/13/24, 6:06 PM","1/
 UT-Incident--173804,Incidents,SR 92,Utah County,SR 92 at MP 26,"Crash
 SR 92 at MP 26 (1 Mi N of US-189) Utah Co.
 Est. Clearance Time: 7:35 PM","1/13/24, 6:24 PM","1/13/24, 7:35 PM","1/13/24, 6:24 PM",,40.377834,-111.568038
+UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
+Both Directions US 40 MP 18-58  (Wasatch Co)
+Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM","1/13/24, 7:11 PM",,40.492161,-111.412613
+UT-Incident--173811,Incidents,US 6,Utah County,US 6 at MP 193,"Vehicle on fire
+WB US 6 at MP 193 (Utah County)
+Right Lane Closed
+Est. Clearance Time: 8:30 PM","1/13/24, 7:24 PM","1/13/24, 8:30 PM","1/13/24, 7:24 PM",,39.988452,-111.368324
