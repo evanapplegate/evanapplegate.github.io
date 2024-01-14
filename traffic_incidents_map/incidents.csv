@@ -4274,11 +4274,15 @@ UT-Incident--173815,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
 SB I-15 at MP 344 (24th St) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","1/13/24, 7:46 PM","1/13/24, 8:45 PM","1/13/24, 7:46 PM",,41.230556,-112.01298
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173810,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","1/13/24, 7:19 PM","1/13/24, 8:45 PM","1/13/24, 7:19 PM",,40.420056,-111.878496
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173812,Incidents,US 91,Box Elder County,US 91 at MAIN ST,"Crash
+EB US 91 at Main St (Brigham City) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 8:25 PM","1/13/24, 7:25 PM","1/13/24, 8:25 PM","1/13/24, 7:25 PM",,41.486541,-112.015518
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173813,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 NB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
@@ -4321,6 +4325,9 @@ UT-Incident--173821,Incidents,SR 36,Tooele County,SR 36 at MP 55,"Crash
 NB SR 36 at MP 55 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:08 PM","1/13/24, 8:10 PM","1/13/24, 9:08 PM","1/13/24, 8:10 PM",,40.539911,-112.298381
+UT-Incident--173825,Incidents,SR 92,Utah County,SR 92 at MP 8,"Avalanche Control 
+Both Dirs SR 92 at MP 8 (American Fork Canyon) Utah Co.
+Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM","1/13/24, 8:22 PM",,40.433642,-111.742831
 UT-Incident--173823,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 EB US 189 at MP 10 (Utah County)
 Right Shoulder
@@ -4338,10 +4345,6 @@ Est. Clearance Time: 8:30 PM","1/13/24, 7:24 PM","1/13/24, 8:30 PM","1/13/24, 7:
 UT-Incident--173822,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 PM","1/13/24, 8:11 PM",,40.058914,-111.564458
-UT-Incident--173812,Incidents,US 91,Box Elder County,US 91 at MAIN ST,"Crash
-EB US 91 at Main St (Brigham City) Box Elder Co.
-Right Lane Closed
-Est. Clearance Time: 8:25 PM","1/13/24, 7:25 PM","1/13/24, 8:25 PM","1/13/24, 7:25 PM",,41.486541,-112.015518
 UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
 Approved Traction Devices Required ","1/13/24, 8:05 PM","1/14/24, 8:51 PM","1/13/24, 8:05 PM",,41.486554,-112.015642
