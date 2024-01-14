@@ -4364,6 +4364,9 @@ WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:30 AM","1/14/24, 2:52 AM","1/14/24, 4:30 AM",,,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173822,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 PM",,,40.058914,-111.564458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
@@ -4393,6 +4396,9 @@ Canyon Closed Until Further Notice ","1/13/24, 9:10 PM","1/14/24, 12:00 PM",,,40
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
+UT-Incident--173850,Incidents,SR 32,Wasatch County,SR 32 at MP 3,"Crash
+Other SR 32 at MP 3 (3 Mi E of US-40) Wasatch Co.
+Est. Clearance Time: 6:30 AM","1/14/24, 5:20 AM","1/14/24, 6:30 AM",,,40.594512,-111.41131
 UT-Incident--173825,Incidents,SR 92,Utah County,SR 92 at MP 8,"Avalanche Control 
 Both Dirs SR 92 at MP 8 (American Fork Canyon) Utah Co.
 Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM",,,40.433642,-111.742831
@@ -4413,12 +4419,14 @@ Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.4
 UT-Incident--173848,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 EB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 5:36 AM","1/14/24, 4:37 AM","1/14/24, 5:36 AM",,,40.640579,-111.452464
-UT-Incident--173822,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
-EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
-Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 PM",,,40.058914,-111.564458
 UT-Incident--173827,Incidents,US 89,Cache County,US 89 at MP 461,"Avalanche Control/Maintenance 
 Both Directions US 89 at MP 461 - 497 (Logan Canyon) Cache Co.
+Road Closed
 Est. Clearance Time: 1/14/2024 9:00 AM","1/13/24, 8:40 PM","1/14/24, 9:00 AM",,,41.743775,-111.797426
+UT-Incident--173849,Incidents,US 89,Davis County,US 89 at MP 401,"Crash
+SB US 89 at MP 401 (100 N / Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:19 AM","1/14/24, 5:19 AM","1/14/24, 6:19 AM",,,41.060273,-111.910493
 UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
 Approved Traction Devices Required ","1/13/24, 8:05 PM","1/15/24, 8:51 PM",,,41.486554,-112.015642
