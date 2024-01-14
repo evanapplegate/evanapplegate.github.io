@@ -4282,7 +4282,6 @@ UT-Incident--173812,Incidents,US 91,Box Elder County,US 91 at MAIN ST,"Crash
 EB US 91 at Main St (Brigham City) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 8:25 PM","1/13/24, 7:25 PM","1/13/24, 8:25 PM","1/13/24, 7:25 PM",,41.486541,-112.015518
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173818,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
 NB I-15 at MP 344 (24th St) Weber Co.
 Est. Clearance Time: 9:15 PM","1/13/24, 8:03 PM","1/13/24, 9:15 PM","1/13/24, 8:03 PM",,41.230556,-112.01298
@@ -4294,15 +4293,23 @@ UT-Incident--173814,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
 WB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
 Est. Clearance Time: 8:45 PM","1/13/24, 7:46 PM","1/13/24, 8:45 PM","1/13/24, 7:46 PM",,40.588743,-111.436969
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173820,Incidents,SR 32,Wasatch County,SR 32 at MP 2,"Crash
+Other SR 32 at MP 2 (2 Mi E of US-40) Wasatch Co.
+Est. Clearance Time: 9:15 PM","1/13/24, 8:07 PM","1/13/24, 9:15 PM",,,40.585583,-111.420321
+UT-Incident--173823,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+EB US 189 at MP 10 (Utah County)
+Right Shoulder
+Est. Clearance Time: 9:20 PM","1/13/24, 8:13 PM","1/13/24, 9:20 PM",,,40.329534,-111.619014
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173813,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 NB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
-Est. Clearance Time: 9:05 PM","1/13/24, 7:31 PM","1/13/24, 9:05 PM",,,39.543613,-111.952663
+Est. Clearance Time: 10:05 PM","1/13/24, 7:31 PM","1/13/24, 10:05 PM",,,39.543613,-111.952663
 UT-Incident--173816,Incidents,I-15,Juab County,I-15 at MP 212,"Crash
 SB I-15 at MP 212 (11 mi S of Nephi) Juab Co.
-Est. Clearance Time: 9:05 PM","1/13/24, 7:48 PM","1/13/24, 9:05 PM",,,39.557434,-111.946834
+Est. Clearance Time: 10:05 PM","1/13/24, 7:48 PM","1/13/24, 10:05 PM",,,39.557434,-111.946834
 UT-Incident--173817,Incidents,I-15,Juab County,I-15 at MP 214,"Crash
 NB I-15 at MP 214 (Juab County)
-Est. Clearance Time: 8:50 PM","1/13/24, 7:50 PM","1/13/24, 9:05 PM",,,39.583145,-111.929748
+Est. Clearance Time: 8:50 PM","1/13/24, 7:50 PM","1/13/24, 9:50 PM",,,39.583145,-111.929748
 UT-Incident--173826,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Shoulder
@@ -4329,16 +4336,9 @@ Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM",,
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
-UT-Incident--173820,Incidents,SR 32,Wasatch County,SR 32 at MP 2,"Crash
-Other SR 32 at MP 2 (2 Mi E of US-40) Wasatch Co.
-Est. Clearance Time: 9:15 PM","1/13/24, 8:07 PM","1/13/24, 9:15 PM",,,40.585583,-111.420321
 UT-Incident--173825,Incidents,SR 92,Utah County,SR 92 at MP 8,"Avalanche Control 
 Both Dirs SR 92 at MP 8 (American Fork Canyon) Utah Co.
 Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM",,,40.433642,-111.742831
-UT-Incident--173823,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
-EB US 189 at MP 10 (Utah County)
-Right Shoulder
-Est. Clearance Time: 9:20 PM","1/13/24, 8:13 PM","1/13/24, 9:20 PM",,,40.329534,-111.619014
 UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
