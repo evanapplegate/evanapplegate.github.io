@@ -4399,7 +4399,6 @@ UT-Incident--173855,Incidents,US 6,Utah County,US 6 at MP 208,"Crash
 WB US 6 at MP 208 (Utah County)
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/14/24, 6:24 AM","1/14/24, 8:00 AM",,,39.933882,-111.125848
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
 Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/15/24, 7:31 PM",,,40.740161,-111.558358
@@ -4415,13 +4414,6 @@ UT-Incident--173852,Incidents,SR 36,Tooele County,SR 36 at MP 50,"Crash
 SR-36 at MP 50 Tooele Co.
 Est. Clearance Time: 7:15 AM","1/14/24, 6:06 AM","1/14/24, 8:00 AM",,,40.480837,-112.343781
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--173857,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
-NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:41 AM","1/14/24, 6:41 AM","1/14/24, 8:41 AM",,,40.077887,-111.710071
-UT-Incident--173859,Incidents,I-15,Juab County,I-15 at MP 220,"Crash
-SB I-15 at MP 220 (3 mi S of Nephi) Juab Co.
-Est. Clearance Time: 8:01 AM","1/14/24, 7:01 AM","1/14/24, 8:01 AM",,,39.655584,-111.890168
 UT-Incident--173861,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (Utah County)
 Left Shoulder
@@ -4440,6 +4432,24 @@ UT-Incident--173860,Incidents,I-15 SB X282 OFF 2100 N RAMP,Utah County,I-15 SB X
 SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/14/24, 7:19 AM","1/14/24, 8:30 AM",,,40.42263,-111.881068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173867,Incidents,Center St,Summit County,Center St at Main St,"Signal problems
+Center St at Main St (Kamas) Summit Co.
+Est. Clearance Time: 10:00 AM","1/14/24, 8:03 AM","1/14/24, 10:00 AM",,,40.643132,-111.280789
+UT-Incident--173857,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
+NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:41 AM","1/14/24, 6:41 AM","1/14/24, 8:41 AM",,,40.077887,-111.710071
+UT-Incident--173859,Incidents,I-15,Juab County,I-15 at MP 220,"Crash
+SB I-15 at MP 220 (3 mi S of Nephi) Juab Co.
+Est. Clearance Time: 9:16 AM","1/14/24, 7:01 AM","1/14/24, 9:16 AM",,,39.655584,-111.890168
+UT-Incident--173868,Incidents,I-15,Juab County,I-15 at MP 224,"Crash
+NB I-15 at MP 224 (Juab County)
+Est. Clearance Time: 9:10 AM","1/14/24, 8:06 AM","1/14/24, 9:10 AM",,,39.6941,-111.825376
+UT-Incident--173870,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
+SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","1/14/24, 8:14 AM","1/14/24, 9:15 AM",,,41.413643,-112.050713
 UT-Incident--173865,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Est. Clearance Time: 9:00 AM","1/14/24, 7:54 AM","1/14/24, 9:00 AM",,,40.747119,-111.724705
@@ -4470,6 +4480,9 @@ Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM",
 UT-Incident--173835,Incidents,SR 92,Utah County,SR 92 at MP 27,"Maintenance/ Avalanche Control
 NB SR 92 Closed MP 27 to 22 (US-189 Jct Sundance)
 Utah Co.","1/13/24, 10:26 PM","1/14/24, 8:00 AM",,,40.368169,-111.559358
+UT-Incident--173869,Incidents,STATE ST,Utah County,STATE ST 501,"Signal problems
+State St at 850 E (Lehi) Utah Co.
+Est. Clearance Time: 9:30 AM","1/14/24, 8:08 AM","1/14/24, 9:30 AM",,,40.392677,-111.836732
 UT-Incident--173833,Incidents,US 189,Wasatch County,US 189 at MP 25,"Road weather/Avalanche Control
 SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Wasatch/Utah Co.","1/13/24, 9:55 PM","1/14/24, 12:00 PM",,,40.456806,-111.46973
 UT-Incident--173834,Incidents,US 189,Utah County,US 189 at MP 8,"Road weather/Avalanche Control
@@ -4483,7 +4496,7 @@ Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
 UT-Incident--173864,Incidents,US 89,Davis County,US 89 at MP 400,"Crash
 NB US 89 at MP 400 (700 N / Fruit Heights) Davis Co.
-Right Lanes Closed
+Right lanes Closed
 Est. Clearance Time: 8:50 AM","1/14/24, 7:38 AM","1/14/24, 8:50 AM",,,41.045984,-111.910073
 UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
