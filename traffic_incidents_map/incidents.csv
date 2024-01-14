@@ -4356,6 +4356,10 @@ UT-Incident--173842,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
 EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
 Est. Clearance Time: 1/14/2024 1:00 AM","1/13/24, 11:49 PM","1/14/24, 1:00 AM",,,40.68342,-111.462507
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173845,Incidents,US 89,Garfield County,US 89 at MP 109,"Crash
+Both Directions US 89 at MP 109 (7 mi S of Hatch) Garfield Co.
+Right Shoulder
+Est. Clearance Time: 2:44 AM","1/14/24, 1:45 AM","1/14/24, 2:44 AM",,,37.560273,-112.486877
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
@@ -4366,7 +4370,7 @@ Approved Traction Devices Required For Semis","1/13/24, 6:35 PM","1/15/24, 12:00
 UT-Incident--173846,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 3:51 AM","1/14/24, 2:52 AM","1/14/24, 3:51 AM",,,40.718459,-111.873941
+Est. Clearance Time: 4:30 AM","1/14/24, 2:52 AM","1/14/24, 4:30 AM",,,40.718459,-111.873941
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -4408,10 +4412,6 @@ Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 
 UT-Incident--173827,Incidents,US 89,Cache County,US 89 at MP 461,"Avalanche Control/Maintenance 
 Both Directions US 89 at MP 461 - 497 (Logan Canyon) Cache Co.
 Est. Clearance Time: 1/14/2024 9:00 AM","1/13/24, 8:40 PM","1/14/24, 9:00 AM",,,41.743775,-111.797426
-UT-Incident--173845,Incidents,US 89,Garfield County,US 89 at MP 109,"Crash
-Both Directions US 89 at MP 109 (7 mi S of Hatch) Garfield Co.
-Right Shoulder
-Est. Clearance Time: 2:44 AM","1/14/24, 1:45 AM","1/14/24, 2:44 AM",,,37.560273,-112.486877
 UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
 Approved Traction Devices Required ","1/13/24, 8:05 PM","1/14/24, 8:51 PM",,,41.486554,-112.015642
