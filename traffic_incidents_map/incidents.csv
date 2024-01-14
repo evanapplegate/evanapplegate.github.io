@@ -4490,11 +4490,15 @@ NB I-15 at MP 260 (400 S / Springville) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:00 AM","1/14/24, 9:01 AM","1/14/24, 10:00 AM",,,40.161636,-111.646866
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173877,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
 SB Bangerter Hwy at 4700 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:04 AM","1/14/24, 10:04 AM","1/14/24, 11:04 AM",,,40.667559,-111.9815
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173878,Incidents,I-15,Box Elder County,I-15 at MP 377,"Crash
+SB I-15 at MP 377 (Tremonton) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 12:00 PM","1/14/24, 10:57 AM","1/14/24, 12:00 PM",,,41.681707,-112.145282
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
