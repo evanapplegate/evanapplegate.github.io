@@ -4494,40 +4494,40 @@ SB Bangerter Hwy at 4700 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:04 AM","1/14/24, 10:04 AM","1/14/24, 11:04 AM",,,40.667559,-111.9815
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173833,Incidents,US 189,Wasatch County,US 189 at MP 25,"Road weather/Avalanche Control
+SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Wasatch/Utah Co.","1/13/24, 9:55 PM","1/14/24, 12:00 PM",,,40.456806,-111.46973
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173878,Incidents,I-15,Box Elder County,I-15 at MP 377,"Crash
 SB I-15 at MP 377 (Tremonton) Box Elder Co.
 Right Shoulder
-Est. Clearance Time: 12:00 PM","1/14/24, 10:57 AM","1/14/24, 12:00 PM",,,41.681707,-112.145282
+Est. Clearance Time: 12:00 PM","1/14/24, 10:57 AM","1/14/24, 12:00 PM","1/14/24, 10:57 AM",,41.681707,-112.145282
 UT-Incident--173880,Incidents,SR 132,Juab County,SR 132 at MP 14,"Crash
 SR 132 at MP 14 (14 MI from US-6 Jct) Juab Co.
-Est. Clearance Time: 12:20 PM","1/14/24, 11:21 AM","1/14/24, 12:20 PM",,,39.602734,-112.142264
+Est. Clearance Time: 12:20 PM","1/14/24, 11:21 AM","1/14/24, 12:20 PM","1/14/24, 11:21 AM",,39.602734,-112.142264
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
 UT-Incident--173853,Incidents,SR 158,Weber County,SR 158 at MP 7,"Road Weather/Avalanche
 SR 158 Closed between MP 7 - MP 11 (Powder Mtn Rd) Weber Co.
-Canyon Closed Until Further Notice ","1/14/24, 6:13 AM","1/14/24, 7:12 AM",,,41.338893,-111.825609
+Canyon Closed Until Further Notice ","1/14/24, 6:13 AM","1/14/24, 7:12 AM","1/14/24, 6:14 AM",,41.338893,-111.825609
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM",,,40.619107,-111.786281
+Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM","1/12/24, 2:14 AM",,40.619107,-111.786281
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
-Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM",,,40.572095,-111.773814
+Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM","1/12/24, 2:15 AM",,40.572095,-111.773814
 UT-Incident--173829,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalanche Control
 SR 210 at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
-Canyon Closed Until Further Notice ","1/13/24, 9:10 PM","1/14/24, 12:00 PM",,,40.572095,-111.773814
+Canyon Closed Until Further Notice ","1/13/24, 9:10 PM","1/14/24, 12:00 PM","1/13/24, 9:10 PM",,40.572095,-111.773814
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
-Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
+Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
 UT-Incident--173825,Incidents,SR 92,Utah County,SR 92 at MP 8,"Avalanche Control 
 Both Dirs SR 92 at MP 8 (American Fork Canyon) Utah Co.
-Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM",,,40.433642,-111.742831
+Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM","1/13/24, 8:22 PM",,40.433642,-111.742831
 UT-Incident--173835,Incidents,SR 92,Utah County,SR 92 at MP 27,"Maintenance/ Avalanche Control
 NB SR 92 Closed MP 27 to 22 (US-189 Jct Sundance)
-Utah Co.","1/13/24, 10:26 PM","1/14/24, 8:00 AM",,,40.368169,-111.559358
-UT-Incident--173833,Incidents,US 189,Wasatch County,US 189 at MP 25,"Road weather/Avalanche Control
-SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Wasatch/Utah Co.","1/13/24, 9:55 PM","1/14/24, 12:00 PM",,,40.456806,-111.46973
+Utah Co.","1/13/24, 10:26 PM","1/14/24, 8:00 AM","1/13/24, 10:37 PM",,40.368169,-111.559358
 UT-Incident--173834,Incidents,US 189,Utah County,US 189 at MP 8,"Road weather/Avalanche Control
 NB US 189 MP 8 to 25  ( Mouth of Provo Canyon to Charleston/SR-113) 
-Utah/Wasatch Co.","1/13/24, 9:57 PM","1/14/24, 12:00 PM",,,40.319492,-111.649399
+Utah/Wasatch Co.","1/13/24, 9:57 PM","1/14/24, 12:00 PM","1/13/24, 10:03 PM",,40.319492,-111.649399
