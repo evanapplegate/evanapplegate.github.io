@@ -4413,7 +4413,6 @@ Est. Clearance Time: 7:44 AM","1/14/24, 6:44 AM","1/14/24, 7:44 AM",,,41.137865,
 UT-Incident--173852,Incidents,SR 36,Tooele County,SR 36 at MP 50,"Crash
 SR-36 at MP 50 Tooele Co.
 Est. Clearance Time: 7:15 AM","1/14/24, 6:06 AM","1/14/24, 8:00 AM",,,40.480837,-112.343781
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173861,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (Utah County)
 Left Shoulder
@@ -4432,6 +4431,7 @@ UT-Incident--173860,Incidents,I-15 SB X282 OFF 2100 N RAMP,Utah County,I-15 SB X
 SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/14/24, 7:19 AM","1/14/24, 8:30 AM",,,40.42263,-111.881068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173867,Incidents,Center St,Summit County,Center St at Main St,"Signal problems
 Center St at Main St (Kamas) Summit Co.
