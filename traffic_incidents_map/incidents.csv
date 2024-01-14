@@ -4328,6 +4328,8 @@ WB US 6 at MP 193 (Utah County)
 Right Lane Closed
 Est. Clearance Time: 8:30 PM","1/13/24, 7:24 PM","1/13/24, 8:30 PM",,,39.988452,-111.368324
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173832,Incidents,US 191,Carbon County,US 191 at MP 260,"Maintenance/Avalanche Control
+Both Directions US 191 Closed between MP 260-286 (Indian Canyon), Carbon & Duchesne Co.","1/13/24, 9:42 PM","1/14/24, 12:00 PM",,,39.809161,-110.778864
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173826,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
@@ -4380,8 +4382,6 @@ SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Was
 UT-Incident--173834,Incidents,US 189,Utah County,US 189 at MP 8,"Road weather/Avalanche Control
 NB US 189 MP 8 to 25  ( Mouth of Provo Canyon to Charleston/SR-113) 
 Utah/Wasatch Co.","1/13/24, 9:57 PM","1/14/24, 12:00 PM",,,40.319492,-111.649399
-UT-Incident--173832,Incidents,US 191,Carbon County,US 191 at MP 260,"Maintenance/Avalanche Control
-Both Directions US 191 Closed between MP 260-286 (Indian Canyon), Carbon & Duchesne Co.","1/13/24, 9:42 PM","1/14/24, 12:00 PM",,,39.809161,-110.778864
 UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
@@ -4392,6 +4392,9 @@ Est. Clearance Time: 1/14/2024 12:00 AM","1/13/24, 10:56 PM","1/14/24, 12:00 AM"
 UT-Incident--173841,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
 WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
 Est. Clearance Time: 1/14/2024 12:36 AM","1/13/24, 11:36 PM","1/14/24, 12:36 AM",,,40.721584,-111.490111
+UT-Incident--173842,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
+EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
+Est. Clearance Time: 1/14/2024 1:00 AM","1/13/24, 11:49 PM","1/14/24, 1:00 AM",,,40.68342,-111.462507
 UT-Incident--173822,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 PM",,,40.058914,-111.564458
