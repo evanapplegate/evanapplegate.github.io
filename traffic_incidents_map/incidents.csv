@@ -4370,7 +4370,6 @@ UT-Incident--173856,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St Offramp, Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:30 AM","1/14/24, 6:25 AM","1/14/24, 7:30 AM",,,40.287343,-111.725712
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173851,Incidents,I-80,Tooele County,I-80 at MP 28,"Crash
 WB I-80 at MP 28 (Tooele County)
 Right Shoulder
@@ -4384,6 +4383,10 @@ SB US 89 at MP 401 (100 N / Layton) Davis Co.
 Center Lane Closed
 Est. Clearance Time: 7:00 AM","1/14/24, 5:19 AM","1/14/24, 7:00 AM",,,41.060273,-111.910493
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173806,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 MP 128-143  (Parleys Canyon) Salt Lake/Summit Co.
+Approved Traction Devices Required","1/13/24, 6:35 PM","1/15/24, 12:00 PM",,,40.712086,-111.801151
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173854,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (Salt Lake County)
 Right Shoulder
@@ -4395,12 +4398,13 @@ Est. Clearance Time: 7:41 AM","1/14/24, 6:41 AM","1/14/24, 7:41 AM",,,40.077887,
 UT-Incident--173859,Incidents,I-15,Juab County,I-15 at MP 220,"Crash
 SB I-15 at MP 220 (3 mi S of Nephi) Juab Co.
 Est. Clearance Time: 8:01 AM","1/14/24, 7:01 AM","1/14/24, 8:01 AM",,,39.655584,-111.890168
+UT-Incident--173860,Incidents,I-15 SB X282 OFF 2100 N RAMP,Utah County,I-15 SB X282 OFF 2100 N RAMP 1,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","1/14/24, 7:19 AM","1/14/24, 8:30 AM",,,40.42263,-111.881068
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
 Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/15/24, 7:31 PM",,,40.740161,-111.558358
-UT-Incident--173806,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
-EB I-80 MP 128-143  (Parleys Canyon) Salt Lake/Summit Co.
-Approved Traction Devices Required","1/13/24, 6:35 PM","1/15/24, 12:00 PM",,,40.712086,-111.801151
 UT-Incident--173847,Incidents,I-80,Tooele County,I-80 at MP 27,"Crash
 EB I-80 at MP 27 (14 mi W of Knolls) Tooele Co.
 Right Shoulder
