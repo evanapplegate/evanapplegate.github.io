@@ -4330,7 +4330,6 @@ Est. Clearance Time: 8:30 PM","1/13/24, 7:24 PM","1/13/24, 8:30 PM",,,39.988452,
 UT-Incident--173832,Incidents,US 191,Carbon County,US 191 at MP 260,"Maintenance/Avalanche Control
 Both Directions US 191 Closed between MP 260-286 (Indian Canyon), Carbon & Duchesne Co.","1/13/24, 9:42 PM","1/14/24, 12:00 PM",,,39.809161,-110.778864
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173826,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Shoulder
@@ -4343,16 +4342,27 @@ UT-Incident--173839,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1/14/2024 12:34 AM","1/13/24, 11:35 PM","1/14/24, 12:34 AM",,,40.147273,-111.647024
+UT-Incident--173840,Incidents,I-80,Summit County,I-80 at MP 185,"Crash
+EB I-80 at MP 185 (5 mi E of Emory) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 1/14/2024 12:35 AM","1/13/24, 11:36 PM","1/14/24, 12:35 AM",,,41.123983,-111.173036
+UT-Incident--173836,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
+EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 1/14/2024 12:00 AM","1/13/24, 10:56 PM","1/14/24, 12:00 AM",,,40.68342,-111.462507
+UT-Incident--173841,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
+WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
+Est. Clearance Time: 1/14/2024 12:36 AM","1/13/24, 11:36 PM","1/14/24, 12:36 AM",,,40.721584,-111.490111
+UT-Incident--173842,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
+EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
+Est. Clearance Time: 1/14/2024 1:00 AM","1/13/24, 11:49 PM","1/14/24, 1:00 AM",,,40.68342,-111.462507
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173805,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Canyon) Summit & Salt Lake County
 Approved Traction Devices Required For Semis","1/13/24, 6:34 PM","1/14/24, 7:31 PM",,,40.740161,-111.558358
 UT-Incident--173806,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143  (Parleys Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For Semis","1/13/24, 6:35 PM","1/15/24, 12:00 PM",,,40.712086,-111.801151
-UT-Incident--173840,Incidents,I-80,Summit County,I-80 at MP 185,"Crash
-EB I-80 at MP 185 (5 mi E of Emory) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 1/14/2024 12:35 AM","1/13/24, 11:36 PM","1/14/24, 12:35 AM",,,41.123983,-111.173036
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
@@ -4382,19 +4392,12 @@ SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Was
 UT-Incident--173834,Incidents,US 189,Utah County,US 189 at MP 8,"Road weather/Avalanche Control
 NB US 189 MP 8 to 25  ( Mouth of Provo Canyon to Charleston/SR-113) 
 Utah/Wasatch Co.","1/13/24, 9:57 PM","1/14/24, 12:00 PM",,,40.319492,-111.649399
+UT-Incident--173843,Incidents,US 191,Duchesne County,US 191 at MP 267,"Roadway Restriction
+Both Directions US 191 between MP 272-260, Duchesne Co.
+Approved Traction Devices Required for Semis","1/14/24, 12:46 AM","1/14/24, 1:44 AM",,,39.888741,-110.749978
 UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (Wasatch Co)
 Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
-UT-Incident--173836,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
-EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
-Right Shoulder
-Est. Clearance Time: 1/14/2024 12:00 AM","1/13/24, 10:56 PM","1/14/24, 12:00 AM",,,40.68342,-111.462507
-UT-Incident--173841,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
-WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
-Est. Clearance Time: 1/14/2024 12:36 AM","1/13/24, 11:36 PM","1/14/24, 12:36 AM",,,40.721584,-111.490111
-UT-Incident--173842,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
-EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
-Est. Clearance Time: 1/14/2024 1:00 AM","1/13/24, 11:49 PM","1/14/24, 1:00 AM",,,40.68342,-111.462507
 UT-Incident--173822,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","1/13/24, 8:11 PM","1/14/24, 9:10 PM",,,40.058914,-111.564458
