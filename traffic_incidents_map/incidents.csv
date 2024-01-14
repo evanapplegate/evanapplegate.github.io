@@ -4296,17 +4296,17 @@ EB US 189 at MP 10 (Utah County)
 Right Shoulder
 Est. Clearance Time: 9:20 PM","1/13/24, 8:13 PM","1/13/24, 9:20 PM",,,40.329534,-111.619014
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--173810,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
-SB I-15 at MP 283 (Lehi) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:45 PM","1/13/24, 7:19 PM","1/13/24, 8:45 PM",,,40.420056,-111.878496
 UT-Incident--173813,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 NB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
 Est. Clearance Time: 10:05 PM","1/13/24, 7:31 PM","1/13/24, 10:05 PM",,,39.543613,-111.952663
 UT-Incident--173816,Incidents,I-15,Juab County,I-15 at MP 212,"Crash
 SB I-15 at MP 212 (11 mi S of Nephi) Juab Co.
 Est. Clearance Time: 10:05 PM","1/13/24, 7:48 PM","1/13/24, 10:05 PM",,,39.557434,-111.946834
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173810,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+SB I-15 at MP 283 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","1/13/24, 7:19 PM","1/13/24, 8:45 PM",,,40.420056,-111.878496
 UT-Incident--173817,Incidents,I-15,Juab County,I-15 at MP 214,"Crash
 NB I-15 at MP 214 (Juab County)
 Est. Clearance Time: 8:50 PM","1/13/24, 7:50 PM","1/13/24, 9:50 PM",,,39.583145,-111.929748
@@ -4349,6 +4349,9 @@ Canyon Closed until 1/14/2024 at 2:00 PM","1/13/24, 8:22 PM","1/14/24, 2:00 PM",
 UT-Incident--173828,Incidents,SR 92,Utah County,SR 92 at MP 25,"Crash
 SR 92 at MP 25 (Utah County)
 Est. Clearance Time: 10:00 PM","1/13/24, 9:07 PM","1/13/24, 10:00 PM",,,40.390427,-111.576034
+UT-Incident--173835,Incidents,SR 92,Utah County,SR 92 at MP 27,"Maintenance/ Avalanche Control
+NB SR 92 Closed MP 27 to 22 (US-189 Jct Sundance)
+Utah Co.","1/13/24, 10:26 PM","1/14/24, 8:00 AM",,,40.368169,-111.559358
 UT-Incident--173833,Incidents,US 189,Wasatch County,US 189 at MP 25,"Road weather/Avalanche Control
 SB US 189  MP 25 to MP 8  (SR-113 Jct / Charleston to Mouth of Provo Canyon) Wasatch/Utah Co.","1/13/24, 9:55 PM","1/14/24, 12:00 PM",,,40.456806,-111.46973
 UT-Incident--173834,Incidents,US 189,Utah County,US 189 at MP 8,"Road weather/Avalanche Control
