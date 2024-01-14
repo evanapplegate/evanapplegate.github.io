@@ -4431,15 +4431,11 @@ UT-Incident--173860,Incidents,I-15 SB X282 OFF 2100 N RAMP,Utah County,I-15 SB X
 SB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/14/24, 7:19 AM","1/14/24, 8:30 AM",,,40.42263,-111.881068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173864,Incidents,US 89,Davis County,US 89 at MP 400,"Crash
 NB US 89 at MP 400 (700 N / Fruit Heights) Davis Co.
 Right lanes Closed
 Est. Clearance Time: 8:50 AM","1/14/24, 7:38 AM","1/14/24, 8:50 AM",,,41.045984,-111.910073
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--173867,Incidents,Center St,Summit County,Center St at Main St,"Signal problems
-Center St at Main St (Kamas) Summit Co.
-Est. Clearance Time: 10:00 AM","1/14/24, 8:03 AM","1/14/24, 10:00 AM",,,40.643132,-111.280789
 UT-Incident--173857,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
@@ -4447,6 +4443,19 @@ Est. Clearance Time: 8:41 AM","1/14/24, 6:41 AM","1/14/24, 8:41 AM",,,40.077887,
 UT-Incident--173859,Incidents,I-15,Juab County,I-15 at MP 220,"Crash
 SB I-15 at MP 220 (3 mi S of Nephi) Juab Co.
 Est. Clearance Time: 9:16 AM","1/14/24, 7:01 AM","1/14/24, 9:16 AM",,,39.655584,-111.890168
+UT-Incident--173837,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Maintenance/Avalanche Control
+Both Directions SR 190 Closed (Big Cottonwood Canyon) Salt Lake Co.
+Est. Clearance Time: 1/14/2024 08:00 AM","1/13/24, 11:04 PM","1/14/24, 8:00 AM",,,40.619107,-111.786281
+UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
+Both Directions US 40 MP 18-58  (Wasatch Co)
+Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
+UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
+Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
+Approved Traction Devices Required ","1/13/24, 8:05 PM","1/15/24, 8:51 PM",,,41.486554,-112.015642
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173867,Incidents,Center St,Summit County,Center St at Main St,"Signal problems
+Center St at Main St (Kamas) Summit Co.
+Est. Clearance Time: 10:00 AM","1/14/24, 8:03 AM","1/14/24, 10:00 AM",,,40.643132,-111.280789
 UT-Incident--173868,Incidents,I-15,Juab County,I-15 at MP 224,"Crash
 NB I-15 at MP 224 (Juab County)
 Est. Clearance Time: 9:10 AM","1/14/24, 8:06 AM","1/14/24, 9:10 AM",,,39.6941,-111.825376
@@ -4462,6 +4471,14 @@ UT-Incident--173872,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
 NB I-15 at MP 336 (650 N, Clearfield) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","1/14/24, 8:42 AM","1/14/24, 10:15 AM",,,41.124091,-112.023745
+UT-Incident--173874,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+NB I-15 at MP 260 (400 S / Springville) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:00 AM","1/14/24, 9:01 AM","1/14/24, 10:00 AM",,,40.161636,-111.646866
+UT-Incident--173873,Incidents,I-15 NB Fwy,Utah County,I-15 NB Fwy at 500 E,"Crash
+NB I-15 Fwy at 500 E Off Ramp  (Utah County
+Right Shoulder
+Est. Clearance Time: 10:00 AM","1/14/24, 8:58 AM","1/14/24, 10:00 AM",,,40.357523,-111.78051
 UT-Incident--173865,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Est. Clearance Time: 9:00 AM","1/14/24, 7:54 AM","1/14/24, 9:00 AM",,,40.747119,-111.724705
@@ -4474,9 +4491,6 @@ Canyon Closed Until Further Notice ","1/14/24, 6:13 AM","1/14/24, 7:12 AM",,,41.
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM",,,40.619107,-111.786281
-UT-Incident--173837,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Maintenance/Avalanche Control
-Both Directions SR 190 Closed (Big Cottonwood Canyon) Salt Lake Co.
-Est. Clearance Time: 1/14/2024 08:00 AM","1/13/24, 11:04 PM","1/14/24, 8:00 AM",,,40.619107,-111.786281
 UT-Incident--173405,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Est. Clearance Time: 1/15/2024 12:00 PM","1/9/24, 6:23 PM","1/15/24, 12:00 PM",,,40.572095,-111.773814
@@ -4503,9 +4517,3 @@ Utah/Wasatch Co.","1/13/24, 9:57 PM","1/14/24, 12:00 PM",,,40.319492,-111.649399
 UT-Incident--173843,Incidents,US 191,Duchesne County,US 191 at MP 267,"Roadway Restriction
 Both Directions US 191 between MP 272-260, Duchesne Co.
 Approved Traction Devices Required for Semis","1/14/24, 12:46 AM","1/14/24, 1:44 AM",,,39.888741,-110.749978
-UT-Incident--173809,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
-Both Directions US 40 MP 18-58  (Wasatch Co)
-Approved Traction Devices Required","1/13/24, 7:11 PM","1/16/24, 8:08 PM",,,40.492161,-111.412613
-UT-Incident--173819,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
-Both Directions US 91 at MP 2 (Sardine Canyon) Box Elder Co.
-Approved Traction Devices Required ","1/13/24, 8:05 PM","1/15/24, 8:51 PM",,,41.486554,-112.015642
