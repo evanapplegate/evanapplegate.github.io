@@ -4621,19 +4621,22 @@ Both Directions Main St at 100 N (Brigham City) Box Elder Co.
 SB Right Lane Blocked
 Est. Clearance Time: 4:45 PM","1/15/24, 3:43 PM","1/15/24, 4:45 PM","1/15/24, 3:43 PM",,41.511684,-112.015702
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173911,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/15/24, 3:27 PM","1/15/24, 4:45 PM","1/15/24, 4:20 PM",,40.262286,-111.70752
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173913,Incidents,I-15,Millard County,I-15 at MP 187,"Police incident
 NB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Right Lane Closed
 Est. Clearance Time: 4:55 PM","1/15/24, 3:57 PM","1/15/24, 4:55 PM","1/15/24, 3:57 PM",,39.237415,-112.13211
 UT-Incident--173914,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Debris
 SB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
-Left Lane Closed
-Est. Clearance Time: 5:02 PM","1/15/24, 4:03 PM","1/15/24, 5:02 PM","1/15/24, 4:03 PM",,40.883316,-111.937161
+Right Shoulder
+Est. Clearance Time: 5:02 PM","1/15/24, 4:03 PM","1/15/24, 5:02 PM","1/15/24, 4:44 PM",,40.883316,-111.937161
+UT-Incident--173915,Incidents,Old Ranch Rd,Summit County,Old Ranch Rd at Hwy 224,"Crash
+NB Old Ranch Rd at Hwy 224 Summit Co.
+Est. Clearance Time: 5:41 PM","1/15/24, 4:44 PM","1/15/24, 5:41 PM","1/15/24, 4:44 PM",,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
