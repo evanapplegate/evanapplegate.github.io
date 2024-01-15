@@ -4590,14 +4590,23 @@ UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restr
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173904,Incidents,I-15 SB X338 On 5600 S Ramp,Weber County,I-15 SB X338 On 5600 S Ramp at 5600 S,"Crash
 NB I-15 5600 S On Ramp (Weber County)
 Est. Clearance Time: 12:38 PM","1/15/24, 11:40 AM","1/15/24, 12:38 PM","1/15/24, 11:40 AM",,41.16171,-112.023747
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173905,Incidents,I-15 NB X222 On Main St NB Ramp,Juab County,I-15 NB X222 On Main St NB Ramp at Main St,"Crash
+NB I-15 222 On Ramp (1 mi S of Nephi) Juab Co.
+Est. Clearance Time: 12:50 PM","1/15/24, 11:45 AM","1/15/24, 12:50 PM","1/15/24, 11:45 AM",,39.678364,-111.840193
 UT-Incident--173903,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 EB I-80 at MP 146 (West of US-40) Summit Co.
 Right Shoulder
 Est. Clearance Time: 12:15 PM","1/15/24, 11:17 AM","1/15/24, 12:15 PM","1/15/24, 11:17 AM",,40.725101,-111.511877
+UT-Incident--173906,Incidents,Main St,Iron County,Main St 1045,"Crash
+Both Directions MAIN ST at 1325 N  (Iron County)
+Est. Clearance Time: 12:48 PM","1/15/24, 11:49 AM","1/15/24, 12:48 PM","1/15/24, 11:53 AM",,37.702154,-113.06374
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
+UT-Incident--173907,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
+WB US 6 at MP 184 (Diamond Fork Rd) Utah Co.
+Est. Clearance Time: 1:30 PM","1/15/24, 11:53 AM","1/15/24, 1:30 PM","1/15/24, 11:53 AM",,40.029223,-111.507404
