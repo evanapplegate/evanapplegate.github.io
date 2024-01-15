@@ -4561,11 +4561,14 @@ SB 5600 W at 1100 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:15 AM","1/15/24, 8:12 AM","1/15/24, 9:15 AM","1/15/24, 8:12 AM",,40.74914,-112.024922
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173894,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
 SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
 Left Shoulder
 Est. Clearance Time: 10:08 AM","1/15/24, 5:54 AM","1/15/24, 10:08 AM","1/15/24, 8:31 AM",,38.658157,-112.595083
+UT-Incident--173898,Incidents,US 191,Duchesne County,US 191 at MP 268,"Crash
+US 191 at MP 268 (Duchesne County)
+Est. Clearance Time: 9:30 AM","1/15/24, 7:23 AM","1/15/24, 9:30 AM","1/15/24, 8:31 AM",,39.900701,-110.744027
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173902,Incidents,I-215w NB X18a Off 3500 S WB Ramp,Salt Lake County,I-215w NB X18a Off 3500 S WB Ramp at 3500 S,"Crash
 SB I-215 W Exit 18a 3500 S  Off Ramp Salt Lake Co.
 WB Right Lane Closed
@@ -4591,6 +4594,3 @@ Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1
 UT-Incident--173901,Incidents,US 189,Wasatch County,US 189 at South Field Rd,"Crash
 US 189 at South Field Rd Wasatch Co.
 Est. Clearance Time: 10:10 AM","1/15/24, 9:11 AM","1/15/24, 10:10 AM","1/15/24, 9:11 AM",,40.480172,-111.433176
-UT-Incident--173898,Incidents,US 191,Duchesne County,US 191 at MP 268,"Crash
-US 191 at MP 268 (Duchesne County)
-Est. Clearance Time: 9:30 AM","1/15/24, 7:23 AM","1/15/24, 9:30 AM","1/15/24, 8:31 AM",,39.900701,-110.744027
