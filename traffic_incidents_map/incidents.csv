@@ -4547,7 +4547,14 @@ UT-Incident--173892,Incidents,US 40,Wasatch County,US 40 at MP 42,"Crash
 Both Directions US 40 Closed
  at MP 42 (Strawberry Reservoir) Wasatch Co.","1/14/24, 8:52 PM","1/15/24, 12:45 AM","1/15/24, 12:36 AM",,40.241387,-111.151284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173893,Incidents,US 40,Wasatch County,US 40 at MP 27,"Crash
+EB US 40 at MP 27 (6 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 6:28 AM","1/15/24, 5:28 AM","1/15/24, 6:28 AM","1/15/24, 5:28 AM",,40.395166,-111.302414
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173894,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
+SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Left Shoulder
+Est. Clearance Time: 6:53 AM","1/15/24, 5:54 AM","1/15/24, 6:53 AM","1/15/24, 5:54 AM",,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
@@ -4563,6 +4570,3 @@ Canyon Closed Until Further Notice ","1/13/24, 9:10 PM","1/15/24, 12:00 PM","1/1
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM","1/13/24, 7:11 AM",,40.659875,-111.508904
-UT-Incident--173893,Incidents,US 40,Wasatch County,US 40 at MP 27,"Crash
-EB US 40 at MP 27 (6 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 6:28 AM","1/15/24, 5:28 AM","1/15/24, 6:28 AM","1/15/24, 5:28 AM",,40.395166,-111.302414
