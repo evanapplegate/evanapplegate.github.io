@@ -4550,6 +4550,10 @@ UT-Incident--173893,Incidents,US 40,Wasatch County,US 40 at MP 27,"Crash
 EB US 40 at MP 27 (6 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 6:28 AM","1/15/24, 5:28 AM","1/15/24, 6:28 AM","1/15/24, 5:28 AM",,40.395166,-111.302414
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--173895,Incidents,SR 224,Summit County,SR 224 at MP 7,"Crash
+EB SR 224 at MP 7 (Meadows Dr) Summit Co.
+Right Lanes Closed
+Est. Clearance Time: 7:50 AM","1/15/24, 6:44 AM","1/15/24, 7:50 AM",,,40.672253,-111.517503
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173894,Incidents,I-15,Millard County,I-15 at MP 138,"Crash
 SB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
@@ -4561,6 +4565,9 @@ Est. Clearance Time: 8:15 AM","1/15/24, 7:19 AM","1/15/24, 8:15 AM",,,40.861917,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM",,,37.677725,-112.846981
+UT-Incident--173899,Incidents,SR 167,Morgan County,SR 167 at MP 4,"Crash
+SR 167 at MP 4 (4 miles N of I-84 JCT) Morgan Co.
+Est. Clearance Time: 8:45 AM","1/15/24, 7:44 AM","1/15/24, 8:45 AM",,,41.169107,-111.809854
 UT-Incident--173404,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-10 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/9/24, 6:20 PM","1/15/24, 12:00 PM",,,40.619107,-111.786281
@@ -4573,10 +4580,6 @@ Canyon Closed Until Further Notice ","1/13/24, 9:10 PM","1/15/24, 12:00 PM",,,40
 UT-Incident--173766,Incidents,SR 224,Summit County,SR 224 at MP 6,"Roadway Restriction
 Traction Control Devices Required for ALL Vehicles
 Both Directions SR 224 at MP 6 - MP 2 (Kearns Blvd to Marsac Ave) Summit Co.","1/13/24, 7:11 AM","1/15/24, 8:08 AM",,,40.659875,-111.508904
-UT-Incident--173895,Incidents,SR 224,Summit County,SR 224 at MP 7,"Crash
-EB SR 224 at MP 7 (Meadows Dr) Summit Co.
-Right Lanes Closed
-Est. Clearance Time: 7:50 AM","1/15/24, 6:44 AM","1/15/24, 7:50 AM",,,40.672253,-111.517503
 UT-Incident--173898,Incidents,US 191,Duchesne County,US 191 at MP 268,"Crash
 US 191 at MP 268 (Duchesne County)
 Est. Clearance Time: 8:30 AM","1/15/24, 7:23 AM","1/15/24, 8:30 AM",,,39.900701,-110.744027
