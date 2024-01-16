@@ -4673,11 +4673,22 @@ SB I-215 W Exit 18a 3500 S Off Ramp S Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/16/24, 7:40 AM","1/16/24, 8:45 AM","1/16/24, 7:40 AM",,40.692477,-111.95182
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173930,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:05 AM","1/16/24, 7:08 AM","1/16/24, 8:05 AM","1/16/24, 8:00 AM",,40.079244,-111.709158
+UT-Incident--173935,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 9:00 AM","1/16/24, 7:55 AM","1/16/24, 9:00 AM","1/16/24, 7:55 AM",,40.775011,-111.949343
+UT-Incident--173936,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
+EB SR 201 at MP 11 (4600 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","1/16/24, 7:56 AM","1/16/24, 9:15 AM","1/16/24, 7:56 AM",,40.72572,-112.020546
+UT-Incident--173938,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
+EB SR 201 at MP 8 (8000 West) Salt Lake Co.
+Est. Clearance Time: 9:10 AM","1/16/24, 8:07 AM","1/16/24, 9:10 AM","1/16/24, 8:07 AM",,40.718237,-112.076122
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173931,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Cleared at 7:56 AM
@@ -4686,10 +4697,6 @@ UT-Incident--173934,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X
 NB I-15 Exit 253 8000 S Off Ramp Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/16/24, 7:46 AM","1/16/24, 8:45 AM","1/16/24, 7:46 AM",,40.080998,-111.706689
-UT-Incident--173935,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-SB I-215 W at MP 23 (Salt Lake County)
-Right Shoulder
-Est. Clearance Time: 9:00 AM","1/16/24, 7:55 AM","1/16/24, 9:00 AM","1/16/24, 7:55 AM",,40.775011,-111.949343
 UT-Incident--173937,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 NB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Lanes Closed
@@ -4702,10 +4709,3 @@ Use Alt Route","1/16/24, 8:19 AM","1/16/24, 11:05 AM","1/16/24, 8:19 AM",,0.0,0.
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",,37.677725,-112.846981
-UT-Incident--173936,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
-EB SR 201 at MP 11 (4600 W) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 9:15 AM","1/16/24, 7:56 AM","1/16/24, 9:15 AM","1/16/24, 7:56 AM",,40.72572,-112.020546
-UT-Incident--173938,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
-EB SR 201 at MP 8 (8000 West) Salt Lake Co.
-Est. Clearance Time: 9:10 AM","1/16/24, 8:07 AM","1/16/24, 9:10 AM","1/16/24, 8:07 AM",,40.718237,-112.076122
