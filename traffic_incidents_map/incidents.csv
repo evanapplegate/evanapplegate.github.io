@@ -4735,7 +4735,6 @@ UT-Incident--173949,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:15 AM","1/16/24, 9:56 AM","1/16/24, 11:15 AM","1/16/24, 9:56 AM",,40.420056,-111.878496
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173945,Incidents,I-15 NB X271 Off Center St Ramp,Utah County,I-15 NB X271 Off Center St Ramp at Center St,"Stalled Vehicle
 NB I-15 at MP 271 Off Ramp is Closed (Center St / Orem) Utah Co.
 Est. Clearance Time: 11:05 AM","1/16/24, 9:22 AM","1/16/24, 11:05 AM","1/16/24, 10:50 AM",,40.295339,-111.725109
@@ -4748,6 +4747,7 @@ UT-Incident--173939,Incidents,Redwood Rd,Utah County,Redwood Rd at 2000 N,"Crash
 Both Directions Redwood Rd at 2000 N Utah Co.
 Cleared at 11:03 AM
 Expect Residual Delays","1/16/24, 8:19 AM","1/16/24, 11:05 AM","1/16/24, 11:03 AM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",,37.677725,-112.846981
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",View on map,37.677725,-112.846981
