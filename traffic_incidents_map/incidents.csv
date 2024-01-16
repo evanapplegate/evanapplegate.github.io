@@ -4712,7 +4712,6 @@ UT-Incident--173943,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:45 AM","1/16/24, 8:41 AM","1/16/24, 10:45 AM","1/16/24, 8:41 AM",,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173941,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Left Shoulder
@@ -4721,6 +4720,7 @@ UT-Incident--173944,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/16/24, 8:53 AM","1/16/24, 10:00 AM","1/16/24, 9:40 AM",,40.846156,-111.91486
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173949,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
@@ -4741,8 +4741,8 @@ UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",,37.677725,-112.846981
 UT-Incident--173946,Incidents,US 189,Wasatch County,US 189 at MP 23,"Crash
-NB US 189 at MP 23 (Deer Creek Reservoir) Wasatch Co.
-Est. Clearance Time: 10:30 AM","1/16/24, 9:28 AM","1/16/24, 10:30 AM","1/16/24, 10:04 AM",,40.43852,-111.492023
+Both Directions US 189 Closed at MP 23 (Deer Creek Reservoir) Wasatch County
+Use Alt Route","1/16/24, 9:28 AM","1/16/24, 10:30 AM","1/16/24, 10:15 AM",,40.43852,-111.492023
 UT-Incident--173947,Incidents,US 40 EB X4 Off SR 248 Ramp,Summit County,US 40 EB X4 Off SR 248 Ramp at SR 248,"Crash
 EB US 40 Exit 4 SR 248 Off Ramp Summit Co.
 Right Shoulder
