@@ -4668,12 +4668,16 @@ Est. Clearance Time: 7:38 AM","1/16/24, 6:39 AM","1/16/24, 7:38 AM","1/16/24, 6:
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173929,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
 NB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 8:00 AM","1/16/24, 6:55 AM","1/16/24, 8:00 AM","1/16/24, 7:10 AM",,40.102705,-111.684864
+Cleared at 7:28 AM
+Est. Clearance Time: 8:00 AM","1/16/24, 6:55 AM","1/16/24, 8:00 AM","1/16/24, 7:28 AM",,40.102705,-111.684864
 UT-Incident--173930,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 8:05 AM","1/16/24, 7:08 AM","1/16/24, 8:05 AM","1/16/24, 7:17 AM",,40.079244,-111.709158
+UT-Incident--173931,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
+NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 8:30 AM","1/16/24, 7:27 AM","1/16/24, 8:30 AM","1/16/24, 7:28 AM",,40.079244,-111.709158
 UT-Incident--173925,Incidents,I-80,Tooele County,I-80 at MP 4,"EB I-80 Closed
  at MP 4 (2 mi E of Wendover) Tooele Co.","1/16/24, 3:22 AM","1/16/24, 8:00 AM","1/16/24, 5:51 AM",,40.742165,-113.97017
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
