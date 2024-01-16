@@ -4624,7 +4624,6 @@ UT-Incident--173911,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/15/24, 3:27 PM","1/15/24, 4:45 PM","1/15/24, 4:20 PM",,40.262286,-111.70752
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173913,Incidents,I-15,Millard County,I-15 at MP 187,"Police incident
 NB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Right Lane Closed
@@ -4641,6 +4640,11 @@ UT-Incident--173916,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 Ramp SB I-15 at MP 340 (SB I-84 Exit) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:53 PM","1/15/24, 4:56 PM","1/15/24, 5:53 PM","1/15/24, 4:56 PM",,41.182676,-112.014444
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173922,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
+Ramp SB I-15 at MP 313 (I-15/I-215 N Exit) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:27 PM","1/15/24, 6:28 PM","1/15/24, 7:27 PM","1/15/24, 6:28 PM",,40.831692,-111.91596
 UT-Incident--173917,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
 Right Shoulder
