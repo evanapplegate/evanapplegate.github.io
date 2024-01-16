@@ -4746,7 +4746,6 @@ UT-Incident--173939,Incidents,Redwood Rd,Utah County,Redwood Rd at 2000 N,"Crash
 Both Directions Redwood Rd at 2000 N Utah Co.
 Cleared at 11:03 AM
 Expect Residual Delays","1/16/24, 8:19 AM","1/16/24, 11:05 AM","1/16/24, 11:03 AM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173951,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
@@ -4759,6 +4758,7 @@ UT-Incident--173953,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Vehicle on f
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 1:15 PM","1/16/24, 11:57 AM","1/16/24, 1:15 PM","1/16/24, 11:57 AM",,40.607173,-111.905403
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
