@@ -4632,7 +4632,6 @@ UT-Incident--173914,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Debr
 SB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:02 PM","1/15/24, 4:03 PM","1/15/24, 5:02 PM","1/15/24, 4:44 PM",,40.883316,-111.937161
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173915,Incidents,Hwy 224,Summit County,Hwy 224 at Old Ranch Rd,"Crash
 NB Hwy 224 at Old Ranch Rd Summit Co.
 Est. Clearance Time: 5:41 PM","1/15/24, 4:44 PM","1/15/24, 5:41 PM","1/15/24, 4:50 PM",,40.692381,-111.544206
@@ -4641,14 +4640,15 @@ Ramp SB I-15 at MP 340 (SB I-84 Exit) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:53 PM","1/15/24, 4:56 PM","1/15/24, 5:53 PM","1/15/24, 4:56 PM",,41.182676,-112.014444
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173922,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
-Ramp SB I-15 at MP 313 (I-15/I-215 N Exit) Davis Co.
-Right Shoulder
-Est. Clearance Time: 7:27 PM","1/15/24, 6:28 PM","1/15/24, 7:27 PM","1/15/24, 6:28 PM",,40.831692,-111.91596
 UT-Incident--173917,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:13 PM","1/15/24, 5:15 PM","1/15/24, 6:13 PM","1/15/24, 5:15 PM",,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173922,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
+Ramp SB I-15 at MP 313 (I-15/I-215 N Exit) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:27 PM","1/15/24, 6:28 PM","1/15/24, 7:27 PM","1/15/24, 6:28 PM",,40.831692,-111.91596
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
 Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",,37.677725,-112.846981
