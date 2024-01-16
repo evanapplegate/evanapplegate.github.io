@@ -4721,6 +4721,14 @@ SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/16/24, 8:53 AM","1/16/24, 10:00 AM","1/16/24, 9:40 AM",,40.846156,-111.91486
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173948,Incidents,I-15 SB X362 US 91 On Ramp,Box Elder County,I-15 SB X362 US 91 On Ramp at US 91,"Crash
+SB I-15 362 On Ramp (Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 10:35 AM","1/16/24, 9:38 AM","1/16/24, 10:35 AM","1/16/24, 9:38 AM",,41.483171,-112.053813
+UT-Incident--173947,Incidents,US 40 EB X4 Off SR 248 Ramp,Summit County,US 40 EB X4 Off SR 248 Ramp at SR 248,"Crash
+EB US 40 Exit 4 SR 248 Off Ramp Summit Co.
+Right Shoulder
+Est. Clearance Time: 11:45 AM","1/16/24, 9:37 AM","1/16/24, 11:45 AM","1/16/24, 9:37 AM",,40.684232,-111.463769
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173949,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
@@ -4728,12 +4736,7 @@ Left Shoulder
 Est. Clearance Time: 11:15 AM","1/16/24, 9:56 AM","1/16/24, 11:15 AM","1/16/24, 9:56 AM",,40.420056,-111.878496
 UT-Incident--173945,Incidents,I-15 NB X271 Off Center St Ramp,Utah County,I-15 NB X271 Off Center St Ramp at Center St,"Stalled Vehicle
 NB I-15 at MP 270 Off Ramp is Closed (Center St / Orem) Utah Co.
-2 Right Lanes Closed
-Est. Clearance Time: 10:20 AM","1/16/24, 9:22 AM","1/16/24, 10:20 AM","1/16/24, 10:00 AM",,40.295339,-111.725109
-UT-Incident--173948,Incidents,I-15 SB X362 US 91 On Ramp,Box Elder County,I-15 SB X362 US 91 On Ramp at US 91,"Crash
-SB I-15 362 On Ramp (Brigham City) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 10:35 AM","1/16/24, 9:38 AM","1/16/24, 10:35 AM","1/16/24, 9:38 AM",,41.483171,-112.053813
+Est. Clearance Time: 11:05 AM","1/16/24, 9:22 AM","1/16/24, 11:05 AM","1/16/24, 10:25 AM",,40.295339,-111.725109
 UT-Incident--173939,Incidents,Redwood Rd,Utah County,Redwood Rd at 2000 N,"Crash 
 Both Directions Redwood Rd Closed at 2000 N (Utah County
 Use Alt Route","1/16/24, 8:19 AM","1/16/24, 11:05 AM","1/16/24, 8:19 AM",,0.0,0.0
@@ -4743,7 +4746,6 @@ Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15
 UT-Incident--173946,Incidents,US 189,Wasatch County,US 189 at MP 23,"Crash
 Both Directions US 189 Closed at MP 23 (Deer Creek Reservoir) Wasatch County
 Use Alt Route","1/16/24, 9:28 AM","1/16/24, 10:30 AM","1/16/24, 10:15 AM",,40.43852,-111.492023
-UT-Incident--173947,Incidents,US 40 EB X4 Off SR 248 Ramp,Summit County,US 40 EB X4 Off SR 248 Ramp at SR 248,"Crash
-EB US 40 Exit 4 SR 248 Off Ramp Summit Co.
-Right Shoulder
-Est. Clearance Time: 11:45 AM","1/16/24, 9:37 AM","1/16/24, 11:45 AM","1/16/24, 9:37 AM",,40.684232,-111.463769
+UT-Incident--173950,Incidents,Wall Ave,Weber County,Wall Ave at 36th St,"Crash
+NB Wall Ave Closed at 36th St (Weber County)
+Use Alt Route","1/16/24, 10:23 AM","1/16/24, 11:30 AM","1/16/24, 10:24 AM",,41.197902,-111.979394
