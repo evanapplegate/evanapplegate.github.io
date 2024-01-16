@@ -4689,7 +4689,6 @@ EB SR 201 at MP 8 (8000 West) Salt Lake Co.
 Est. Clearance Time: 9:10 AM","1/16/24, 8:07 AM","1/16/24, 9:10 AM","1/16/24, 8:07 AM",,40.718237,-112.076122
 UT-Incident--173925,Incidents,I-80,Tooele County,I-80 at MP 4,"EB I-80 Closed
  at MP 4 (2 mi E of Wendover) Tooele Co.","1/16/24, 3:22 AM","1/16/24, 9:00 AM","1/16/24, 8:03 AM",,40.742165,-113.97017
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173931,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Cleared at 7:56 AM
@@ -4699,10 +4698,15 @@ NB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 9:00 AM","1/16/24, 8:00 AM","1/16/24, 9:00 AM","1/16/24, 8:00 AM",,40.731947,-111.949915
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173934,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X253 Off 8000 S Ramp at 8000 S,"Crash
+NB I-15 Exit 253 8000 S Off Ramp Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:45 AM","1/16/24, 7:46 AM","1/16/24, 8:45 AM","1/16/24, 7:46 AM",,40.080998,-111.706689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173941,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 10:45 AM","1/16/24, 8:36 AM","1/16/24, 10:45 AM","1/16/24, 8:42 AM",,40.453646,-111.91388
+Left Lane Closed
+Est. Clearance Time: 10:45 AM","1/16/24, 8:36 AM","1/16/24, 10:45 AM","1/16/24, 9:08 AM",,40.453646,-111.91388
 UT-Incident--173942,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
@@ -4715,10 +4719,10 @@ UT-Incident--173944,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/16/24, 8:53 AM","1/16/24, 10:00 AM","1/16/24, 9:01 AM",,40.846156,-111.91486
-UT-Incident--173934,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X253 Off 8000 S Ramp at 8000 S,"Crash
-NB I-15 Exit 253 8000 S Off Ramp Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:45 AM","1/16/24, 7:46 AM","1/16/24, 8:45 AM","1/16/24, 7:46 AM",,40.080998,-111.706689
+UT-Incident--173945,Incidents,I-15,Utah County,I-15 at MP 270,"Stalled Vehicle
+NB I-15 at MP 270 (Center St / Orem) Utah Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:20 AM","1/16/24, 9:22 AM","1/16/24, 10:20 AM","1/16/24, 9:22 AM",,40.287343,-111.725712
 UT-Incident--173940,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Est. Clearance Time: 9:40 AM","1/16/24, 8:34 AM","1/16/24, 9:40 AM","1/16/24, 8:34 AM",,40.723073,-111.529346
