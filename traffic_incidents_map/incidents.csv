@@ -4701,15 +4701,10 @@ UT-Incident--173934,Incidents,I-15 NB X253 Off 8000 S Ramp,Utah County,I-15 NB X
 NB I-15 Exit 253 8000 S Off Ramp Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/16/24, 7:46 AM","1/16/24, 8:45 AM","1/16/24, 7:46 AM",,40.080998,-111.706689
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173940,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 EB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Est. Clearance Time: 9:40 AM","1/16/24, 8:34 AM","1/16/24, 9:40 AM","1/16/24, 8:34 AM",,40.723073,-111.529346
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--173941,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
-NB I-15 at MP 286 (15800 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 10:45 AM","1/16/24, 8:36 AM","1/16/24, 10:45 AM","1/16/24, 9:34 AM",,40.453646,-111.91388
 UT-Incident--173942,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
@@ -4718,10 +4713,15 @@ UT-Incident--173943,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:45 AM","1/16/24, 8:41 AM","1/16/24, 10:45 AM","1/16/24, 8:41 AM",,40.442142,-111.903011
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173941,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
+NB I-15 at MP 286 (15800 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:45 AM","1/16/24, 8:36 AM","1/16/24, 10:45 AM","1/16/24, 9:34 AM",,40.453646,-111.91388
 UT-Incident--173944,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
-Est. Clearance Time: 10:00 AM","1/16/24, 8:53 AM","1/16/24, 10:00 AM","1/16/24, 9:01 AM",,40.846156,-111.91486
+Est. Clearance Time: 10:00 AM","1/16/24, 8:53 AM","1/16/24, 10:00 AM","1/16/24, 9:40 AM",,40.846156,-111.91486
 UT-Incident--173945,Incidents,I-15,Utah County,I-15 at MP 270,"Stalled Vehicle
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 2 Right Lanes Closed
