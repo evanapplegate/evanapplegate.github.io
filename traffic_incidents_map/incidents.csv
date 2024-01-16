@@ -4620,7 +4620,6 @@ UT-Incident--173912,Incidents,Main St,Box Elder County,Main St at 100 N,"Crash
 Both Directions Main St at 100 N (Brigham City) Box Elder Co.
 SB Right Lane Blocked
 Est. Clearance Time: 4:45 PM","1/15/24, 3:43 PM","1/15/24, 4:45 PM","1/15/24, 3:43 PM",,41.511684,-112.015702
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173911,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
@@ -4634,9 +4633,18 @@ UT-Incident--173914,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Debr
 SB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:02 PM","1/15/24, 4:03 PM","1/15/24, 5:02 PM","1/15/24, 4:44 PM",,40.883316,-111.937161
-UT-Incident--173915,Incidents,Old Ranch Rd,Summit County,Old Ranch Rd at Hwy 224,"Crash
-NB Old Ranch Rd at Hwy 224 Summit Co.
-Est. Clearance Time: 5:41 PM","1/15/24, 4:44 PM","1/15/24, 5:41 PM","1/15/24, 4:44 PM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--173915,Incidents,Hwy 224,Summit County,Hwy 224 at Old Ranch Rd,"Crash
+NB Hwy 224 at Old Ranch Rd Summit Co.
+Est. Clearance Time: 5:41 PM","1/15/24, 4:44 PM","1/15/24, 5:41 PM","1/15/24, 4:50 PM",,40.692381,-111.544206
+UT-Incident--173916,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
+Ramp SB I-15 at MP 340 (SB I-84 Exit) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:53 PM","1/15/24, 4:56 PM","1/15/24, 5:53 PM","1/15/24, 4:56 PM",,41.182676,-112.014444
+UT-Incident--173917,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:13 PM","1/15/24, 5:15 PM","1/15/24, 6:13 PM","1/15/24, 5:15 PM",,40.760605,-111.951068
 UT-Incident--173352,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Dirs SR-143 MP 17 - 27 (S of Brian Head) Iron Co.
-Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/8/24, 2:28 PM",,37.677725,-112.846981
+Road Closed Due to Inclement Weather","1/8/24, 2:27 PM","1/15/24, 3:24 PM","1/15/24, 4:46 PM",,37.677725,-112.846981
