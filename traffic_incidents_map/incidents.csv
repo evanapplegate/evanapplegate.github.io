@@ -5277,7 +5277,6 @@ Est. Clearance Time: 2:45 PM","1/17/24, 12:48 PM","1/17/24, 2:45 PM","1/17/24, 1
 UT-Incident--174109,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 WB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 2:15 PM","1/17/24, 12:54 PM","1/17/24, 2:15 PM","1/17/24, 12:54 PM",,40.640579,-111.452464
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174119,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 SB I-215 W at MP 16 (3900 S) Salt Lake Co.
 3 Right Lanes Closed
@@ -5291,6 +5290,11 @@ UT-Incident--174118,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:23 PM","1/17/24, 2:24 PM","1/17/24, 3:23 PM","1/17/24, 3:00 PM",,40.674449,-111.952751
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174123,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+SB I-15 MP 304 (Ramp to EB I-80) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:15 PM","1/17/24, 3:11 PM","1/17/24, 4:15 PM","1/17/24, 3:22 PM",,40.722629,-111.905057
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5304,7 +5308,8 @@ UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restrict
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
 UT-Incident--174121,Incidents,SR 92,Utah County,SR 92 at MP 26,"Road weather/ Avalanche
-Both Directions SR 92 Closed at MP 26 (1 Mi N of US-189) Utah Co.","1/17/24, 2:49 PM","1/17/24, 8:02 PM","1/17/24, 2:49 PM",,40.377834,-111.568038
+Both Directions SR 92 Closed at US-189 Jct(Sundance) Utah Co.
+Road Closed Until Further Notice","1/17/24, 2:49 PM","1/17/24, 8:02 PM","1/17/24, 3:24 PM",,40.377834,-111.568038
 UT-Incident--174097,Incidents,US 40,Summit County,US 40 at MP 3,"Roadway Restriction
 Both Directions US 40 at MP 3 (Park City & Heber) Summit Co.
 Approved Traction Devices Required for all Vehicles","1/17/24, 12:21 PM","1/18/24, 1:20 PM","1/17/24, 12:21 PM",,40.696221,-111.4715
