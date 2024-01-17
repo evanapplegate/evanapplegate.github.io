@@ -4818,7 +4818,6 @@ UT-Incident--173975,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1/17/2024 12:45 AM","1/16/24, 11:55 PM","1/17/24, 12:45 AM","1/16/24, 11:55 PM",,40.328045,-111.73498
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173982,Incidents,US 89,Davis County,US 89 at MP 403,"Crash
 SB US 89 at MP 403 (2000 N / Layton) Davis Co.
 Est. Clearance Time: 5:39 AM","1/17/24, 4:40 AM","1/17/24, 5:39 AM","1/17/24, 4:40 AM",,41.088959,-111.910716
@@ -4827,9 +4826,19 @@ UT-Incident--173978,Incidents,Hwy 193,Davis County,Hwy 193 at Center St,"Crash
 SB Hwy 193 at Center St Davis Co.
 Right Lane Closed
 Est. Clearance Time: 4:57 AM","1/17/24, 3:58 AM","1/17/24, 4:57 AM","1/17/24, 3:58 AM",,41.109818,-112.032337
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173981,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Roadway Restriction
-Both Directions I-80 at MP 132-143 (Parley's Canyon) Salt Lake/Summit Co.
-Approved Traction Devices Required For All Semis","1/17/24, 4:31 AM","1/18/24, 5:30 AM","1/17/24, 4:31 AM",,40.741134,-111.741641
+EB I-80 at MP 132-143 (Parley's Canyon) Salt Lake/Summit Co.
+Approved Traction Devices Required For All Vehicles","1/17/24, 4:31 AM","1/18/24, 5:30 AM","1/17/24, 5:21 AM",,40.741134,-111.741641
+UT-Incident--173984,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 at MP 143 (Parley's Summit) Summit Co.
+Approved Traction Devices Required for All Semis","1/17/24, 5:20 AM","1/18/24, 6:19 AM","1/17/24, 5:21 AM",,40.740161,-111.558358
+UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
+Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
+UT-Incident--173987,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 at MP 4 (Little Cottonwood) Salt Lake Co.
+Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/24, 5:34 AM",,40.572095,-111.773814
 UT-Incident--173979,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/17/24, 4:13 AM","1/18/24, 5:07 AM","1/17/24, 4:13 AM",,40.624634,-111.501637
