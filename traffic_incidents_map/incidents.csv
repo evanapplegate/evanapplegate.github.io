@@ -5063,7 +5063,6 @@ Est. Clearance Time: 11:15 AM","1/17/24, 10:05 AM","1/17/24, 11:15 AM",,,41.4860
 UT-Incident--174053,Incidents,SR 73,Tooele County,SR 73 at MP 7,"Crash
 SR 73 at MP 7 (8 MI SE of Rush Valley) Tooele Co.
 Est. Clearance Time: 11:15 AM","1/17/24, 10:04 AM","1/17/24, 11:15 AM",,,40.32123,-112.28665
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174055,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
 Right Shoulder
@@ -5094,6 +5093,10 @@ UT-Incident--174062,Incidents,US 89,Piute County,US 89 at MP 182,"Crash
 US 89 at MP 182 (3 miles N of Marysvale) Piute Co.
 Est. Clearance Time: 11:45 AM","1/17/24, 10:41 AM","1/17/24, 11:45 AM","1/17/24, 10:41 AM",,38.48934,-112.242879
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174049,Incidents,I-80,Tooele County,I-80 at MP 79,"Crash
+EB I-80 at MP 79 (2 mi E of Skull Valley Rd) Tooele Co.
+Est. Clearance Time: 11:45 AM","1/17/24, 9:59 AM","1/17/24, 11:45 AM","1/17/24, 11:08 AM",,40.735444,-112.60575
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174077,Incidents,650 N,Davis County,650 N at MAIN ST,"Crash
 600 N at Main St (Clearfield) Davis Co.
 Est. Clearance Time: 12:30 PM","1/17/24, 11:25 AM","1/17/24, 12:30 PM","1/17/24, 11:32 AM",,41.12308,-112.026033
@@ -5104,14 +5107,14 @@ Est. Clearance Time: 12:14 PM","1/17/24, 11:15 AM","1/17/24, 12:14 PM","1/17/24,
 UT-Incident--174058,Incidents,Deer Valley Dr,Summit County,Deer Valley Dr at Swede Aly,"Crash
 SB Deer Valley Dr at Heber Ave (Summit County)
 Right Lane Closed
-Est. Clearance Time: 11:45 AM","1/17/24, 10:18 AM","1/17/24, 11:45 AM","1/17/24, 11:15 AM",,40.646465,-111.495518
+Est. Clearance Time: 12:45 AM","1/17/24, 10:18 AM","1/17/24, 12:45 PM","1/17/24, 11:43 AM",,40.646465,-111.495518
 UT-Incident--174076,Incidents,Hwy 193,Davis County,Hwy 193 at Main St,"Crash
 EB Hwy 193 at H Street (Clearfield) Davis Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","1/17/24, 11:24 AM","1/17/24, 12:30 PM","1/17/24, 11:24 AM",,41.110178,-112.032822
 UT-Incident--174068,Incidents,I-15,Box Elder County,I-15 at MP 371,"Crash
 NB I-15 at MP 371 (Honeyville) Box Elder Co.
-Est. Clearance Time: 12:00 PM","1/17/24, 10:46 AM","1/17/24, 12:00 PM","1/17/24, 10:46 AM",,41.61222,-112.084054
+Est. Clearance Time: 12:45 PM","1/17/24, 10:46 AM","1/17/24, 12:45 PM","1/17/24, 11:45 AM",,41.61222,-112.084054
 UT-Incident--174073,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
@@ -5120,13 +5123,25 @@ UT-Incident--174079,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","1/17/24, 11:32 AM","1/17/24, 12:45 PM","1/17/24, 11:33 AM",,40.659692,-111.901185
+UT-Incident--174080,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
+SB I-15 at MP 352 (Box Elder) Box Elder Co.
+Est. Clearance Time: 12:45 PM","1/17/24, 11:37 AM","1/17/24, 12:45 PM","1/17/24, 11:37 AM",,41.342906,-112.038597
+UT-Incident--174083,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S Onramp, Murray) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 12:45 PM","1/17/24, 11:43 AM","1/17/24, 12:45 PM","1/17/24, 11:43 AM",,40.663317,-111.901503
 UT-Incident--174069,Incidents,I-15 NB X253 On 8000 S Ramp,Utah County,I-15 NB X253 On 8000 S Ramp at 8000 S,"Stalled Vehicle
 NB I-15 X253 On 8000 S Ramp at 8000 S Utah Co.
 On Ramp Blocked
 Est. Clearance Time: 12:15 PM","1/17/24, 10:57 AM","1/17/24, 12:15 PM","1/17/24, 10:57 AM",,40.085358,-111.701233
-UT-Incident--174049,Incidents,I-80,Tooele County,I-80 at MP 79,"Crash
-EB I-80 at MP 79 (2 mi E of Skull Valley Rd) Tooele Co.
-Est. Clearance Time: 11:45 AM","1/17/24, 9:59 AM","1/17/24, 11:45 AM","1/17/24, 11:08 AM",,40.735444,-112.60575
+UT-Incident--174082,Incidents,I-215 S,Salt Lake County,I-215 S at MP 14,"Crash
+NB I-215 S at MP 14 (5400 S, Taylorsville) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 12:45 PM","1/17/24, 11:41 AM","1/17/24, 12:45 PM","1/17/24, 11:41 AM",,40.651986,-111.95219
+UT-Incident--174084,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
+EB I-215 S at MP 7 (2300 E) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 12:50 PM","1/17/24, 11:44 AM","1/17/24, 12:50 PM","1/17/24, 11:44 AM",,40.634375,-111.821002
 UT-Incident--174072,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/17/24, 11:04 AM","1/18/24, 12:00 PM","1/17/24, 11:04 AM",,40.712086,-111.801151
@@ -5139,13 +5154,13 @@ Right Shoulder
 Est. Clearance Time: 12:30 PM","1/17/24, 11:30 AM","1/17/24, 12:30 PM","1/17/24, 11:30 AM",,40.720206,-112.230831
 UT-Incident--174061,Incidents,I-80 WB TO I-15 SB COL RAMP,Salt Lake County,I-80 WB TO I-15 SB COL RAMP at I-15 SB,"Crash
 WB I-80 to I-15 SB On Ramp Salt Lake Co.
-Est. Clearance Time: 11:45 AM","1/17/24, 10:39 AM","1/17/24, 11:45 AM","1/17/24, 10:39 AM",,40.718491,-111.902802
+Est. Clearance Time: 12:45 AM","1/17/24, 10:39 AM","1/17/24, 12:45 PM","1/17/24, 11:44 AM",,40.718491,-111.902802
 UT-Incident--174066,Incidents,I-84,Box Elder County,I-84 at MP 14,"Crash
 WB I-84 at MP 14 (5 mi east of Snowville) Box Elder Co.
-Est. Clearance Time: 11:45 AM","1/17/24, 10:45 AM","1/17/24, 11:45 AM","1/17/24, 10:45 AM",,41.910223,-112.601547
+Est. Clearance Time: 12:45 PM","1/17/24, 10:45 AM","1/17/24, 12:45 PM","1/17/24, 11:44 AM",,41.910223,-112.601547
 UT-Incident--174067,Incidents,I-84,Box Elder County,I-84 at MP 16,"Crash
 EB I-84 at MP 16 (7 mi east of Snowville) Box Elder Co.
-Est. Clearance Time: 11:45 AM","1/17/24, 10:46 AM","1/17/24, 11:45 AM","1/17/24, 10:47 AM",,41.8947,-112.570781
+Est. Clearance Time: 12:45 PM","1/17/24, 10:46 AM","1/17/24, 12:45 PM","1/17/24, 11:44 AM",,41.8947,-112.570781
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5158,6 +5173,10 @@ Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/1
 UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
+UT-Incident--174081,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
+EB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
+Turn Lane to SR-92 Closed
+Est. Clearance Time: 12:45 PM","1/17/24, 11:40 AM","1/17/24, 12:45 PM","1/17/24, 11:40 AM",,40.362967,-111.560551
 UT-Incident--173980,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2-17 (Sardine Summit) Box Elder/Cache Co.
 Approved Traction Devices Requiired For All Vehicles","1/17/24, 4:30 AM","1/18/24, 5:15 AM","1/17/24, 4:32 AM",,41.486554,-112.015642
