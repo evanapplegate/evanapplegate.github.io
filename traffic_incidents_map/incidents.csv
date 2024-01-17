@@ -5195,7 +5195,6 @@ Est. Clearance Time: 12:45 PM","1/17/24, 11:40 AM",,,,40.362967,-111.560551
 UT-Incident--173980,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91 at MP 2-17 (Sardine Summit) Box Elder/Cache Co.
 Approved Traction Devices Requiired For All Vehicles","1/17/24, 4:30 AM",,,,41.486554,-112.015642
-,Type,Route,County,Location,Description,Start Time,,,,,
 UT-Incident--174098,Incidents,BIG COTTONWOOD CANYON RD,Salt Lake County,BIG COTTONWOOD CANYON RD 9435,"Road Weather/Avalanche
 Both Directions SR-190 MP 10 (Big Cottonwood Canyon) Salt Lake Co.
 Alternating Traffic, Expect Delays","1/17/24, 12:25 PM",,,,40.647926,-111.663058
@@ -5270,6 +5269,16 @@ Est. Clearance Time: 2:00 PM","1/17/24, 12:53 PM","1/17/24, 2:00 PM","1/17/24, 1
 UT-Incident--174112,Incidents,I-80,Tooele County,I-80 at MP 78,"Crash
 EB I-80 at MP 78 (1 mi E of Skull Valley Rd) Tooele Co.
 Est. Clearance Time: 2:15 PM","1/17/24, 1:04 PM","1/17/24, 2:15 PM","1/17/24, 1:04 PM",,40.74063,-112.623576
+UT-Incident--174107,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
+US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
+Est. Clearance Time: 2:15 PM","1/17/24, 12:52 PM","1/17/24, 2:15 PM","1/17/24, 12:52 PM",,40.388104,-111.54897
+UT-Incident--174105,Incidents,US 40,Wasatch County,US 40 at MP 12,"Crash
+WB US 40 at MP 12 (1 mi N of Heber) Wasatch Co.
+Est. Clearance Time: 2:45 PM","1/17/24, 12:48 PM","1/17/24, 2:45 PM","1/17/24, 12:48 PM",,40.574514,-111.434154
+UT-Incident--174109,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
+WB US 40 at MP 7 (Deer Crest) Wasatch Co.
+Est. Clearance Time: 2:15 PM","1/17/24, 12:54 PM","1/17/24, 2:15 PM","1/17/24, 12:54 PM",,40.640579,-111.452464
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5282,15 +5291,6 @@ Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/1
 UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
-UT-Incident--174107,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
-US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
-Est. Clearance Time: 2:15 PM","1/17/24, 12:52 PM","1/17/24, 2:15 PM","1/17/24, 12:52 PM",,40.388104,-111.54897
 UT-Incident--174097,Incidents,US 40,Summit County,US 40 at MP 3,"Roadway Restriction
 Both Directions US 40 at MP 3 (Park City & Heber) Summit Co.
 Approved Traction Devices Required for all Vehicles","1/17/24, 12:21 PM","1/18/24, 1:20 PM","1/17/24, 12:21 PM",,40.696221,-111.4715
-UT-Incident--174105,Incidents,US 40,Wasatch County,US 40 at MP 12,"Crash
-WB US 40 at MP 12 (1 mi N of Heber) Wasatch Co.
-Est. Clearance Time: 2:45 PM","1/17/24, 12:48 PM","1/17/24, 2:45 PM","1/17/24, 12:48 PM",,40.574514,-111.434154
-UT-Incident--174109,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
-WB US 40 at MP 7 (Deer Crest) Wasatch Co.
-Est. Clearance Time: 2:15 PM","1/17/24, 12:54 PM","1/17/24, 2:15 PM","1/17/24, 12:54 PM",,40.640579,-111.452464
