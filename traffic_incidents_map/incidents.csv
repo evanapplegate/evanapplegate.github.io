@@ -5095,7 +5095,6 @@ Est. Clearance Time: 11:45 AM","1/17/24, 10:41 AM","1/17/24, 11:45 AM","1/17/24,
 UT-Incident--174049,Incidents,I-80,Tooele County,I-80 at MP 79,"Crash
 EB I-80 at MP 79 (2 mi E of Skull Valley Rd) Tooele Co.
 Est. Clearance Time: 11:45 AM","1/17/24, 9:59 AM","1/17/24, 11:45 AM","1/17/24, 11:08 AM",,40.735444,-112.60575
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174075,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 5200 S,"Crash
 NB Bangerter Hwy at 5200 S  (Salt Lake County)
 Left Lane Closed
@@ -5113,6 +5112,14 @@ Est. Clearance Time: 12:45 PM","1/17/24, 10:45 AM","1/17/24, 12:45 PM","1/17/24,
 UT-Incident--174067,Incidents,I-84,Box Elder County,I-84 at MP 16,"Crash
 EB I-84 at MP 16 (7 mi east of Snowville) Box Elder Co.
 Est. Clearance Time: 12:45 PM","1/17/24, 10:46 AM","1/17/24, 12:45 PM","1/17/24, 11:44 AM",,41.8947,-112.570781
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--174091,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
+SB I-15 at MP 314 (Main St, NSL) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 2:00 PM","1/17/24, 11:57 AM","1/17/24, 2:00 PM",,,40.846156,-111.91486
+UT-Incident--174093,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
+Est. Clearance Time: 1:00 PM","1/17/24, 11:59 AM","1/17/24, 1:00 PM",,,41.155128,-112.024901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174077,Incidents,650 N,Davis County,650 N at MAIN ST,"Crash
 600 N at Main St (Clearfield) Davis Co.
@@ -5142,13 +5149,6 @@ UT-Incident--174083,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S Onramp, Murray) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:45 PM","1/17/24, 11:43 AM","1/17/24, 12:45 PM",,,40.663317,-111.901503
-UT-Incident--174091,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
-SB I-15 at MP 314 (Main St, NSL) Davis Co.
-Right Lane Closed
-Est. Clearance Time: 2:00 PM","1/17/24, 11:57 AM","1/17/24, 2:00 PM",,,40.846156,-111.91486
-UT-Incident--174093,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
-NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
-Est. Clearance Time: 1:00 PM","1/17/24, 11:59 AM","1/17/24, 1:00 PM",,,41.155128,-112.024901
 UT-Incident--174069,Incidents,I-15 NB X253 On 8000 S Ramp,Utah County,I-15 NB X253 On 8000 S Ramp at 8000 S,"Stalled Vehicle
 NB I-15 X253 On 8000 S Ramp at 8000 S Utah Co.
 On Ramp Blocked
@@ -5206,6 +5206,9 @@ Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM",,,40.5
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM",,,40.624634,-111.501637
+UT-Incident--174095,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Crash
+SR 36 at MP 63 (Mills Jct) Tooele Co.
+Est. Clearance Time: 1:15 PM","1/17/24, 12:11 PM","1/17/24, 1:15 PM",,,40.654647,-112.289368
 UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM",,,40.368169,-111.559358
