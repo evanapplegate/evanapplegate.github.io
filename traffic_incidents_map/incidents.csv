@@ -4889,7 +4889,6 @@ UT-Incident--174009,Incidents,US 40,Wasatch County,US 40,"Crash
 SB US 40 Exit 8 (Deer Hollow Rd) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 8:15 AM","1/17/24, 7:12 AM","1/17/24, 8:15 AM","1/17/24, 7:12 AM",,40.629083,-111.444998
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174011,Incidents,CEDAR FORT RD,Utah County,CEDAR FORT RD 101,"Crash
 EB SR-73 at MP 26 Utah Co.
 Est. Clearance Time: 8:15 AM","1/17/24, 7:15 AM","1/17/24, 8:15 AM","1/17/24, 7:15 AM",,40.335283,-112.097706
@@ -4928,6 +4927,14 @@ UT-Incident--173999,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:45 AM","1/17/24, 6:41 AM","1/17/24, 8:45 AM","1/17/24, 6:41 AM",,40.74966,-111.90976
+UT-Incident--174010,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
+WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","1/17/24, 7:13 AM","1/17/24, 9:15 AM","1/17/24, 7:13 AM",,40.719771,-111.855009
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174033,Incidents,1900 W,Weber County,1900 W at Hinckley Dr,"Crash
+SB 1900 W at Hinckley Dr Weber Co.
+Est. Clearance Time: 9:30 AM","1/17/24, 8:30 AM","1/17/24, 9:30 AM","1/17/24, 8:30 AM",,41.198019,-112.025788
 UT-Incident--174008,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Shoulder
@@ -4947,10 +4954,6 @@ Est. Clearance Time: 10:15 AM","1/17/24, 8:13 AM","1/17/24, 10:15 AM","1/17/24, 
 UT-Incident--173984,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143 (Parley's Summit) Summit Co.
 Approved Traction Devices Required for All Semis","1/17/24, 5:20 AM","1/18/24, 6:19 AM","1/17/24, 5:21 AM",,40.740161,-111.558358
-UT-Incident--174010,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
-WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:15 AM","1/17/24, 7:13 AM","1/17/24, 9:15 AM","1/17/24, 7:13 AM",,40.719771,-111.855009
 UT-Incident--174016,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 WB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Right Shoulder
@@ -4974,6 +4977,9 @@ Approved Traction Devices Required For All Vehicles","1/17/24, 4:13 AM","1/18/24
 UT-Incident--174022,Incidents,SR 28,Juab County,SR 28 at MP 19,"Crash
 SR-28 at MP 19 Juab Co.
 Est. Clearance Time: 8:45 AM","1/17/24, 7:46 AM","1/17/24, 8:45 AM","1/17/24, 7:46 AM",,39.409959,-111.925696
+UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
+Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
+Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
 UT-Incident--174020,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
 US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
 Est. Clearance Time: 8:50 AM","1/17/24, 7:45 AM","1/17/24, 8:50 AM","1/17/24, 7:45 AM",,40.398835,-111.538152
