@@ -4962,7 +4962,6 @@ UT-Incident--174031,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 NB US 89 at MP 406 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:20 AM","1/17/24, 8:18 AM","1/17/24, 9:20 AM","1/17/24, 8:19 AM",,41.144394,-111.918626
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174033,Incidents,1900 W,Weber County,1900 W at Hinckley Dr,"Crash
 SB 1900 W at Hinckley Dr Weber Co.
 Center Lanes Closed
@@ -4978,12 +4977,20 @@ UT-Incident--174008,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:40 AM","1/17/24, 7:10 AM","1/17/24, 9:40 AM","1/17/24, 8:54 AM",,40.373184,-111.808465
-UT-Incident--174021,Incidents,I-15,Millard County,I-15 at MP 194,"Crash
-NB I-15 at MP 194 (6 mi N of Scipio) Millard Co.
-Est. Clearance Time: 9:45 AM","1/17/24, 7:46 AM","1/17/24, 9:45 AM","1/17/24, 7:47 AM",,39.327751,-112.082931
 UT-Incident--174023,Incidents,I-15,Juab County,I-15 at MP 199,"Crash
 NB I-15 at MP 199 (11 mi N of Scipio) Juab Co.
 Est. Clearance Time: 10:00 AM","1/17/24, 7:52 AM","1/17/24, 10:00 AM","1/17/24, 8:55 AM",,39.397081,-112.062462
+UT-Incident--174025,Incidents,SR 132,Juab County,SR 132 at MP 15,"Crash
+SR 132 at MP 15 (17 MI from Nephi) Juab Co.
+Est. Clearance Time: 10:15 AM","1/17/24, 8:07 AM","1/17/24, 10:15 AM","1/17/24, 8:07 AM",,39.614449,-112.131221
+UT-Incident--174038,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:45 AM","1/17/24, 8:43 AM","1/17/24, 9:45 AM","1/17/24, 8:53 AM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174021,Incidents,I-15,Millard County,I-15 at MP 194,"Crash
+NB I-15 at MP 194 (6 mi N of Scipio) Millard Co.
+Est. Clearance Time: 9:45 AM","1/17/24, 7:46 AM","1/17/24, 9:45 AM","1/17/24, 7:47 AM",,39.327751,-112.082931
 UT-Incident--174029,Incidents,I-15,Box Elder County,I-15 at MP 382,"Crash
 SB I-15 at MP 382 (N of Tremonton) Box Elder Co.
 Est. Clearance Time: 9:15 AM","1/17/24, 8:12 AM","1/17/24, 9:15 AM","1/17/24, 8:12 AM",,41.739096,-112.189778
@@ -5012,16 +5019,16 @@ Est. Clearance Time: 10:15 AM","1/17/24, 9:15 AM","1/17/24, 10:15 AM","1/17/24, 
 UT-Incident--174043,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
 SB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 11:15 AM","1/17/24, 9:17 AM","1/17/24, 11:15 AM","1/17/24, 9:17 AM",,41.866087,-112.169809
-UT-Incident--174025,Incidents,SR 132,Juab County,SR 132 at MP 15,"Crash
-SR 132 at MP 15 (17 MI from Nephi) Juab Co.
-Est. Clearance Time: 10:15 AM","1/17/24, 8:07 AM","1/17/24, 10:15 AM","1/17/24, 8:07 AM",,39.614449,-112.131221
+UT-Incident--174045,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
+NB I-15 at MP 279 (Main St, Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 10:45 AM","1/17/24, 9:34 AM","1/17/24, 10:45 AM","1/17/24, 9:34 AM",,40.380301,-111.824926
+UT-Incident--174046,Incidents,I-15,Juab County,I-15 at MP 212,"Crash
+SB I-15 at MP 212 (11 mi S of Nephi) Juab Co.
+Est. Clearance Time: 10:45 AM","1/17/24, 9:36 AM","1/17/24, 10:45 AM","1/17/24, 9:36 AM",,39.557434,-111.946834
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
-UT-Incident--174038,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
-WB SR 201 at MP 15 (1300 W) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 9:45 AM","1/17/24, 8:43 AM","1/17/24, 9:45 AM","1/17/24, 8:53 AM",,40.724124,-111.943886
 UT-Incident--173987,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Little Cottonwood) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/24, 5:34 AM",,40.572095,-111.773814
