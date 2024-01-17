@@ -5119,32 +5119,18 @@ Est. Clearance Time: 2:00 PM","1/17/24, 11:57 AM","1/17/24, 2:00 PM",,,40.846156
 UT-Incident--174093,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Est. Clearance Time: 1:00 PM","1/17/24, 11:59 AM","1/17/24, 1:00 PM",,,41.155128,-112.024901
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,,,,,
-UT-Incident--174077,Incidents,650 N,Davis County,650 N at MAIN ST,"Crash
-600 N at Main St (Clearfield) Davis Co.
-Est. Clearance Time: 12:30 PM","1/17/24, 11:25 AM",,,,41.12308,-112.026033
 UT-Incident--174086,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
 NB Bangerter Hwy at 3100 S Salt Lake Co.
 Est. Clearance Time: 12:50 PM","1/17/24, 11:47 AM",,,,40.703886,-111.980001
-UT-Incident--174098,Incidents,BIG COTTONWOOD CANYON RD,Salt Lake County,BIG COTTONWOOD CANYON RD 9435,"Road Weather/Avalanche
-Both Directions SR-190 MP 10 (Big Cottonwood Canyon) Salt Lake Co.
-Road Closed Until Further Notice","1/17/24, 12:25 PM",,,,40.647926,-111.663058
 UT-Incident--174076,Incidents,Hwy 193,Davis County,Hwy 193 at Main St,"Crash
 EB Hwy 193 at H Street (Clearfield) Davis Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","1/17/24, 11:24 AM",,,,41.110178,-112.032822
-UT-Incident--174068,Incidents,I-15,Box Elder County,I-15 at MP 371,"Crash
-NB I-15 at MP 371 (Honeyville) Box Elder Co.
-Est. Clearance Time: 12:45 PM","1/17/24, 10:46 AM",,,,41.61222,-112.084054
 UT-Incident--174073,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","1/17/24, 11:06 AM",,,,41.342906,-112.038597
-UT-Incident--174079,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
-NB I-15 at MP 301 (5200 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 12:45 PM","1/17/24, 11:32 AM",,,,40.659692,-111.901185
 UT-Incident--174080,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Est. Clearance Time: 12:45 PM","1/17/24, 11:37 AM",,,,41.342906,-112.038597
@@ -5152,13 +5138,6 @@ UT-Incident--174083,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S Onramp, Murray) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:45 PM","1/17/24, 11:43 AM",,,,40.663317,-111.901503
-UT-Incident--174069,Incidents,I-15 NB X253 On 8000 S Ramp,Utah County,I-15 NB X253 On 8000 S Ramp at 8000 S,"Stalled Vehicle
-NB I-15 X253 On 8000 S Ramp at 8000 S Utah Co.
-On Ramp Blocked
-Est. Clearance Time: 12:45 PM","1/17/24, 10:57 AM",,,,40.085358,-111.701233
-UT-Incident--174089,Incidents,I-15 NB X301 Off 4500 S Ramp,Salt Lake County,I-15 NB X301 Off 4500 S Ramp at 4500 S,"Crash
-NB I-15 Exit 301 4500 S Off Ramp (Murray) Salt Lake Co.
-Est. Clearance Time: 1:45 PM","1/17/24, 11:52 AM",,,,40.669208,-111.901182
 UT-Incident--174082,Incidents,I-215 S,Salt Lake County,I-215 S at MP 14,"Crash
 NB I-215 S at MP 14 (5400 S, Taylorsville) Salt Lake Co.
 Right Lane Closed
@@ -5167,10 +5146,43 @@ UT-Incident--174084,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 EB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:50 PM","1/17/24, 11:44 AM",,,,40.634375,-111.821002
+,Type,Route,County,Location,Description,Start Time,,,,,
+UT-Incident--174077,Incidents,650 N,Davis County,650 N at MAIN ST,"Crash
+600 N at Main St (Clearfield) Davis Co.
+Est. Clearance Time: 12:30 PM","1/17/24, 11:25 AM",,,,41.12308,-112.026033
+UT-Incident--174102,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 4701,"Crash
+NB Bangerter Hwy at 5400 S (Taylorsville) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 1:45 PM","1/17/24, 12:41 PM",,,,40.655054,-111.982011
+UT-Incident--174098,Incidents,BIG COTTONWOOD CANYON RD,Salt Lake County,BIG COTTONWOOD CANYON RD 9435,"Road Weather/Avalanche
+Both Directions SR-190 MP 10 (Big Cottonwood Canyon) Salt Lake Co.
+Road Closed Until Further Notice","1/17/24, 12:25 PM",,,,40.647926,-111.663058
+UT-Incident--174068,Incidents,I-15,Box Elder County,I-15 at MP 371,"Crash
+NB I-15 at MP 371 (Honeyville) Box Elder Co.
+Est. Clearance Time: 12:45 PM","1/17/24, 10:46 AM",,,,41.61222,-112.084054
+UT-Incident--174079,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (5200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:45 PM","1/17/24, 11:32 AM",,,,40.659692,-111.901185
+UT-Incident--174103,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","1/17/24, 12:44 PM",,,,40.607173,-111.905403
+UT-Incident--174069,Incidents,I-15 NB X253 On 8000 S Ramp,Utah County,I-15 NB X253 On 8000 S Ramp at 8000 S,"Stalled Vehicle
+NB I-15 X253 On 8000 S Ramp at 8000 S Utah Co.
+On Ramp Blocked
+Est. Clearance Time: 12:45 PM","1/17/24, 10:57 AM",,,,40.085358,-111.701233
+UT-Incident--174089,Incidents,I-15 NB X301 Off 4500 S Ramp,Salt Lake County,I-15 NB X301 Off 4500 S Ramp at 4500 S,"Crash
+NB I-15 Exit 301 4500 S Off Ramp (Murray) Salt Lake Co.
+Est. Clearance Time: 1:45 PM","1/17/24, 11:52 AM",,,,40.669208,-111.901182
 UT-Incident--174099,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 EB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 2:30 PM","1/17/24, 12:27 PM",,,,40.634375,-111.821002
+UT-Incident--174101,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
+EB I-215 S at MP 7 (2300 E) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 1:40 PM","1/17/24, 12:36 PM",,,,40.634375,-111.821002
 UT-Incident--174085,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Left Shoulder
@@ -5187,6 +5199,9 @@ UT-Incident--174096,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:30 PM","1/17/24, 12:20 PM",,,,40.775011,-111.949343
+UT-Incident--174100,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Est. Clearance Time: 2:45 PM","1/17/24, 12:32 PM",,,,40.775011,-111.949343
 UT-Incident--174072,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/17/24, 11:04 AM",,,,40.712086,-111.801151
