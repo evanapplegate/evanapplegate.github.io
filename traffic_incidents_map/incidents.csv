@@ -5292,10 +5292,10 @@ Est. Clearance Time: 3:23 PM","1/17/24, 2:24 PM","1/17/24, 3:23 PM","1/17/24, 3:
 UT-Incident--174121,Incidents,SR 92,Utah County,SR 92 at MP 26,"Road weather/ Avalanche
 Both Directions SR 92 Closed at US-189 Jct(Sundance) Utah Co.
 Road Closed Until Further Notice","1/17/24, 2:49 PM","1/17/24, 8:02 PM","1/17/24, 3:24 PM",,40.377834,-111.568038
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174124,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
@@ -5305,6 +5305,10 @@ UT-Incident--174125,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","1/17/24, 4:00 PM","1/17/24, 5:15 PM","1/17/24, 4:00 PM",,40.746426,-111.949053
+UT-Incident--174127,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
+NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:15 PM","1/17/24, 4:10 PM","1/17/24, 5:15 PM","1/17/24, 4:10 PM",,40.803702,-111.949406
 UT-Incident--174123,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 SB I-15 MP 304 (Ramp to EB I-80) Salt Lake Co.
 Right Lane Closed
