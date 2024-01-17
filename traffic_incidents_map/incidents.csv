@@ -4840,11 +4840,22 @@ Est. Clearance Time: 7:00 AM","1/17/24, 5:55 AM","1/17/24, 7:00 AM","1/17/24, 5:
 UT-Incident--173991,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
 NB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
 Est. Clearance Time: 7:15 AM","1/17/24, 6:04 AM","1/17/24, 7:15 AM","1/17/24, 6:04 AM",,40.721584,-111.490111
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173998,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 NB I-215 E at MP 1 (3300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 AM","1/17/24, 6:38 AM","1/17/24, 8:45 AM","1/17/24, 6:38 AM",,40.710695,-111.801136
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174007,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 at MP 297 (7500 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:15 AM","1/17/24, 7:09 AM","1/17/24, 8:15 AM","1/17/24, 7:09 AM",,40.611208,-111.905903
+UT-Incident--174012,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","1/17/24, 7:17 AM","1/17/24, 9:15 AM","1/17/24, 7:17 AM",,40.649847,-111.90236
+UT-Incident--173992,Incidents,I-84,Box Elder County,I-84 at MP 34,"Crash
+EB I-84 at MP 34 (19 mi N of Tremonton) Box Elder Co.
+Est. Clearance Time: 7:15 AM","1/17/24, 6:05 AM","1/17/24, 7:15 AM","1/17/24, 6:05 AM",,41.788088,-112.27837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174011,Incidents,CEDAR FORT RD,Utah County,CEDAR FORT RD 101,"Crash
 EB SR-73 at MP 26 Utah Co.
@@ -4865,18 +4876,10 @@ UT-Incident--174005,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","1/17/24, 7:02 AM","1/17/24, 9:15 AM","1/17/24, 7:02 AM",,40.373184,-111.808465
-UT-Incident--174007,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
-NB I-15 at MP 297 (7500 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 8:15 AM","1/17/24, 7:09 AM","1/17/24, 8:15 AM","1/17/24, 7:09 AM",,40.611208,-111.905903
 UT-Incident--174008,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:10 AM","1/17/24, 7:10 AM","1/17/24, 8:10 AM","1/17/24, 7:10 AM",,40.373184,-111.808465
-UT-Incident--174012,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
-SB I-15 at MP 300 (5200 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:15 AM","1/17/24, 7:17 AM","1/17/24, 9:15 AM","1/17/24, 7:17 AM",,40.649847,-111.90236
 UT-Incident--174014,Incidents,I-15,Juab County,I-15 at MP 221,"Crash
 SB I-15 at MP 221 (2 mi S of Nephi) Juab Co.
 Right Shoulder
@@ -4893,6 +4896,10 @@ UT-Incident--174003,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (2300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/17/24, 6:54 AM","1/17/24, 8:00 AM","1/17/24, 6:54 AM",,40.720141,-111.952847
+UT-Incident--174015,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+NB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","1/17/24, 7:26 AM","1/17/24, 8:30 AM","1/17/24, 7:26 AM",,40.746426,-111.949053
 UT-Incident--173981,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Roadway Restriction
 EB I-80 at MP 132-143 (Parley's Canyon) Salt Lake/Summit Co.
 Approved Traction Devices Required For All Vehicles","1/17/24, 4:31 AM","1/18/24, 5:30 AM","1/17/24, 5:21 AM",,40.741134,-111.741641
@@ -4917,9 +4924,10 @@ UT-Incident--174013,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:20 AM","1/17/24, 7:20 AM","1/17/24, 8:20 AM","1/17/24, 7:20 AM",,40.718459,-111.873941
-UT-Incident--173992,Incidents,I-84,Box Elder County,I-84 at MP 34,"Crash
-EB I-84 at MP 34 (19 mi N of Tremonton) Box Elder Co.
-Est. Clearance Time: 7:15 AM","1/17/24, 6:05 AM","1/17/24, 7:15 AM","1/17/24, 6:05 AM",,41.788088,-112.27837
+UT-Incident--174016,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
+WB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","1/17/24, 7:26 AM","1/17/24, 9:30 AM","1/17/24, 7:26 AM",,40.755521,-111.587294
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
