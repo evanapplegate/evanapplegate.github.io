@@ -5024,7 +5024,6 @@ Est. Clearance Time: 10:15 AM","1/17/24, 9:15 AM","1/17/24, 10:15 AM","1/17/24, 
 UT-Incident--174034,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
 EB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
 Est. Clearance Time: 9:45 AM","1/17/24, 8:35 AM","1/17/24, 9:45 AM","1/17/24, 8:36 AM",,40.588743,-111.436969
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174043,Incidents,I-15,Box Elder County,I-15 at MP 391,"Crash
 SB I-15 at MP 391 (9 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 11:15 AM","1/17/24, 9:17 AM","1/17/24, 11:15 AM","1/17/24, 9:17 AM",,41.866087,-112.169809
@@ -5035,6 +5034,7 @@ UT-Incident--174047,Incidents,I-15 NB X276 On 500 E Ramp,Utah County,I-15 NB X27
 NB I-15 500 E On Ramp (American Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","1/17/24, 9:40 AM","1/17/24, 10:45 AM","1/17/24, 9:40 AM",,40.361929,-111.786316
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174057,Incidents,BANGERTER SB TO I-80 EB RAMP,Salt Lake County,BANGERTER SB TO I-80 EB RAMP at I-80 EB,"Crash
 WB I-80 Ramp to NB Bangerter Hwy (SLC Airport) Salt Lake Co.
