@@ -5233,7 +5233,6 @@ Est. Clearance Time: 2:30 PM","1/17/24, 1:27 PM",,,,40.747119,-111.724705
 UT-Incident--174117,Incidents,I-84,Weber County,I-84 at MP 90,"Crash
 WB I-84 at MP 90 (2 mi W of Mountain Green) Weber Co.
 Est. Clearance Time: 2:45 PM","1/17/24, 1:36 PM",,,,41.138009,-111.872556
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174102,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 4701,"Crash
 NB Bangerter Hwy at 5400 S (Taylorsville) Salt Lake Co.
 Right Lane Closed
@@ -5279,6 +5278,15 @@ UT-Incident--174109,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 WB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 2:15 PM","1/17/24, 12:54 PM","1/17/24, 2:15 PM","1/17/24, 12:54 PM",,40.640579,-111.452464
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174118,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
+NB I-215 W at MP 16 (3900 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:23 PM","1/17/24, 2:24 PM","1/17/24, 3:23 PM","1/17/24, 2:24 PM",,40.674449,-111.952751
+UT-Incident--174119,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
+SB I-215 W at MP 16 (3900 S) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 3:26 PM","1/17/24, 2:27 PM","1/17/24, 3:26 PM","1/17/24, 2:27 PM",,40.674449,-111.952751
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
