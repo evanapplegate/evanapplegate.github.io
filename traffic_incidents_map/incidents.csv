@@ -5145,7 +5145,6 @@ UT-Incident--174084,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 EB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:50 PM","1/17/24, 11:44 AM",,,,40.634375,-111.821002
-,Type,Route,County,Location,Description,Start Time,,,,,
 UT-Incident--174077,Incidents,650 N,Davis County,650 N at MAIN ST,"Crash
 600 N at Main St (Clearfield) Davis Co.
 Est. Clearance Time: 12:30 PM","1/17/24, 11:25 AM",,,,41.12308,-112.026033
@@ -5197,13 +5196,14 @@ UT-Incident--173980,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Rest
 Both Directions US 91 at MP 2-17 (Sardine Summit) Box Elder/Cache Co.
 Approved Traction Devices Requiired For All Vehicles","1/17/24, 4:30 AM",,,,41.486554,-112.015642
 ,Type,Route,County,Location,Description,Start Time,,,,,
+,Type,Route,County,Location,Description,Start Time,,,,,
 UT-Incident--174102,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 4701,"Crash
 NB Bangerter Hwy at 5400 S (Taylorsville) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:45 PM","1/17/24, 12:41 PM",,,,40.655054,-111.982011
 UT-Incident--174098,Incidents,BIG COTTONWOOD CANYON RD,Salt Lake County,BIG COTTONWOOD CANYON RD 9435,"Road Weather/Avalanche
 Both Directions SR-190 MP 10 (Big Cottonwood Canyon) Salt Lake Co.
-Road Closed Until Further Notice","1/17/24, 12:25 PM",,,,40.647926,-111.663058
+Alternating Traffic, Expect Delays","1/17/24, 12:25 PM",,,,40.647926,-111.663058
 UT-Incident--174103,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
@@ -5216,6 +5216,9 @@ UT-Incident--174111,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
 SB I-15 at MP 347 (Farr West) Weber Co.
 Left Shoulder
 Est. Clearance Time: 2:00 PM","1/17/24, 1:02 PM",,,,41.272257,-112.026419
+UT-Incident--174113,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Est. Clearance Time: 2:15 PM","1/17/24, 1:20 PM",,,,40.664677,-111.90152
 UT-Incident--174110,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 NB I-215 E at MP 2 (Salt Lake County)
 Est. Clearance Time: 2:00 PM","1/17/24, 12:57 PM",,,,40.697639,-111.795421
