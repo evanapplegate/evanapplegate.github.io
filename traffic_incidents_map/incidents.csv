@@ -5034,10 +5034,14 @@ UT-Incident--174047,Incidents,I-15 NB X276 On 500 E Ramp,Utah County,I-15 NB X27
 NB I-15 500 E On Ramp (American Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","1/17/24, 9:40 AM","1/17/24, 10:45 AM","1/17/24, 9:40 AM",,40.361929,-111.786316
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174044,Incidents,US 89,Sanpete County,US 89 at MP 291,"Crash
 US 89 at MP 291 (7 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 10:30 AM","1/17/24, 9:23 AM","1/17/24, 10:30 AM",,,39.728254,-111.474741
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--174048,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
+SB I-15 at MP 265 (Center St / Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 11:00 AM","1/17/24, 9:49 AM","1/17/24, 11:00 AM",,,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174057,Incidents,BANGERTER SB TO I-80 EB RAMP,Salt Lake County,BANGERTER SB TO I-80 EB RAMP at I-80 EB,"Crash
 WB I-80 Ramp to NB Bangerter Hwy (SLC Airport) Salt Lake Co.
@@ -5046,10 +5050,6 @@ UT-Incident--174058,Incidents,Deer Valley Dr,Summit County,Deer Valley Dr at Swe
 SB Deer Valley Dr at Heber Ave (Summit County)
 Right Lane Closed
 Est. Clearance Time: 11:20 AM","1/17/24, 10:18 AM","1/17/24, 11:20 AM",,,40.646465,-111.495518
-UT-Incident--174048,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
-SB I-15 at MP 265 (Center St / Provo) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 11:00 AM","1/17/24, 9:49 AM","1/17/24, 11:00 AM",,,40.226604,-111.677837
 UT-Incident--174050,Incidents,I-15,Juab County,I-15 at MP 212,"Crash
 SB I-15 at MP 212 (11 mi S of Nephi) Juab Co.
 Est. Clearance Time: 11:30 AM","1/17/24, 10:01 AM","1/17/24, 11:30 AM",,,39.557434,-111.946834
@@ -5064,6 +5064,16 @@ Est. Clearance Time: 12:30 PM","1/17/24, 10:19 AM","1/17/24, 12:30 PM",,,40.1761
 UT-Incident--174065,Incidents,I-15,Juab County,I-15 at MP 206,"Crash
 NB I-15 at MP 206 (17 mi S of Nephi) Juab Co.
 Est. Clearance Time: 12:45 PM","1/17/24, 10:44 AM","1/17/24, 12:45 PM",,,39.477406,-111.985953
+UT-Incident--174068,Incidents,I-15,Box Elder County,I-15 at MP 371,"Crash
+NB I-15 at MP 371 (Honeyville) Box Elder Co.
+Est. Clearance Time: 12:00 PM","1/17/24, 10:46 AM","1/17/24, 12:00 PM",,,41.61222,-112.084054
+UT-Incident--174071,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
+SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
+Est. Clearance Time: 12:15 PM","1/17/24, 11:04 AM","1/17/24, 12:15 PM",,,41.102376,-112.003101
+UT-Incident--174069,Incidents,I-15 NB X253 On 8000 S Ramp,Utah County,I-15 NB X253 On 8000 S Ramp at 8000 S,"Stalled Vehicle
+NB I-15 X253 On 8000 S Ramp at 8000 S Utah Co.
+On Ramp Blocked
+Est. Clearance Time: 12:15 PM","1/17/24, 10:57 AM","1/17/24, 12:15 PM",,,40.085358,-111.701233
 UT-Incident--174049,Incidents,I-80,Tooele County,I-80 at MP 79,"Crash
 EB I-80 at MP 79 (2 mi E of Skull Valley Rd) Tooele Co.
 Est. Clearance Time: 11:00 AM","1/17/24, 9:59 AM","1/17/24, 11:00 AM",,,40.735444,-112.60575
@@ -5078,6 +5088,9 @@ UT-Incident--174064,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 EB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","1/17/24, 10:42 AM","1/17/24, 11:45 AM",,,40.697978,-112.260296
+UT-Incident--174072,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 at MP 128 (Parley's Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/17/24, 11:04 AM","1/18/24, 12:00 PM",,,40.712086,-111.801151
 UT-Incident--174061,Incidents,I-80 WB TO I-15 SB COL RAMP,Salt Lake County,I-80 WB TO I-15 SB COL RAMP at I-15 SB,"Crash
 WB I-80 to I-15 SB On Ramp Salt Lake Co.
 Est. Clearance Time: 11:45 AM","1/17/24, 10:39 AM","1/17/24, 11:45 AM",,,40.718491,-111.902802
@@ -5087,6 +5100,12 @@ Est. Clearance Time: 11:15 AM","1/17/24, 10:02 AM","1/17/24, 11:15 AM",,,41.9612
 UT-Incident--174056,Incidents,I-84,Box Elder County,I-84 at MP 8,"Crash
 WB I-84 at MP 8 (Snowville) Box Elder Co.
 Est. Clearance Time: 11:15 AM","1/17/24, 10:09 AM","1/17/24, 11:15 AM",,,41.961251,-112.693567
+UT-Incident--174066,Incidents,I-84,Box Elder County,I-84 at MP 14,"Crash
+WB I-84 at MP 14 (5 mi east of Snowville) Box Elder Co.
+Est. Clearance Time: 11:45 AM","1/17/24, 10:45 AM","1/17/24, 11:45 AM",,,41.910223,-112.601547
+UT-Incident--174067,Incidents,I-84,Box Elder County,I-84 at MP 16,"Crash
+EB I-84 at MP 16 (7 mi east of Snowville) Box Elder Co.
+Est. Clearance Time: 11:45 AM","1/17/24, 10:46 AM","1/17/24, 11:45 AM",,,41.8947,-112.570781
 UT-Incident--174054,Incidents,Main St,Box Elder County,Main St at 1200 S,"Crash
 NB Main St at 1100 S (Brigham City) Box Elder Co.
 Median
@@ -5101,6 +5120,9 @@ Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM",,,40.6
 UT-Incident--173987,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Little Cottonwood) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM",,,40.572095,-111.773814
+UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
+Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM",,,40.624634,-111.501637
 UT-Incident--174053,Incidents,SR 73,Tooele County,SR 73 at MP 7,"Crash
 SR 73 at MP 7 (8 MI SE of Rush Valley) Tooele Co.
 Est. Clearance Time: 11:15 AM","1/17/24, 10:04 AM","1/17/24, 11:15 AM",,,40.32123,-112.28665
