@@ -5361,11 +5361,11 @@ Est. Clearance Time: 1/18/2024 12:00 AM","1/17/24, 10:58 PM","1/18/24, 12:00 AM"
 UT-Incident--174139,Incidents,US 40,Duchesne County,US 40 at MP 107,"Crash
 EB US 40 at MP 107 (1 mi S of Roosevelt) Duchesne Co.
 Est. Clearance Time: 1/18/2024 1:00 AM","1/17/24, 10:46 PM","1/18/24, 1:00 AM",,,40.224089,-110.067292
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174143,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 2:58 AM","1/18/24, 1:58 AM","1/18/24, 2:58 AM",,,40.627915,-111.443541
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
@@ -5379,3 +5379,7 @@ Est. Clearance Time: 8:30 AM","1/18/24, 12:36 AM","1/18/24, 8:30 AM",,,40.572095
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM",,,40.624634,-111.501637
+UT-Incident--174144,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
+WB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 4:31 AM","1/18/24, 3:32 AM","1/18/24, 4:31 AM",,,40.696221,-111.4715
