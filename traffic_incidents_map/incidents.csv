@@ -5346,7 +5346,13 @@ NB SR 224 at MP 7 (Meadows Dr) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 9:15 PM","1/17/24, 8:11 PM","1/17/24, 9:15 PM","1/17/24, 8:41 PM",,40.672253,-111.517503
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174137,Incidents,SR 36,Tooele County,SR 36 at MP 53,"Crash
+Both Directions SR 36 at MP 53 (Tooele) Tooele Co.
+Est. Clearance Time: 10:30 PM","1/17/24, 9:07 PM","1/17/24, 10:30 PM","1/17/24, 9:07 PM",,40.514579,-112.308369
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174138,Incidents,I-15,Box Elder County,I-15 at MP 376,"Crash
+SB I-15 at MP 376 (Tremonton) Box Elder Co.
+Est. Clearance Time: 11:17 PM","1/17/24, 10:17 PM","1/17/24, 11:17 PM","1/17/24, 10:17 PM",,41.673598,-112.132466
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5356,6 +5362,3 @@ Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/17/24, 10:59 AM",,40.624634,-111.501637
-UT-Incident--174137,Incidents,SR 36,Tooele County,SR 36 at MP 53,"Crash
-Both Directions SR 36 at MP 53 (Tooele) Tooele Co.
-Est. Clearance Time: 10:30 PM","1/17/24, 9:07 PM","1/17/24, 10:30 PM","1/17/24, 9:07 PM",,40.514579,-112.308369
