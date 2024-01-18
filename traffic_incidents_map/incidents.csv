@@ -5405,7 +5405,6 @@ UT-Incident--174154,Incidents,US 89,Davis County,US 89 at MP 404,"Crash
 NB US 89 at MP 404 (3000 N / Layton) Davis Co.
 Left Shoulder
 Est. Clearance Time: 10:30 AM","1/18/24, 8:23 AM","1/18/24, 10:30 AM","1/18/24, 8:23 AM",,41.103305,-111.910202
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174148,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 WB I-80 at MP 146 (West of US-40) Summit Co.
 Right Shoulder
@@ -5415,6 +5414,18 @@ UT-Incident--174150,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:30 AM","1/18/24, 7:30 AM","1/18/24, 10:30 AM","1/18/24, 9:06 AM",,40.63583,-111.905066
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174156,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:15 AM","1/18/24, 9:08 AM","1/18/24, 10:15 AM","1/18/24, 9:08 AM",,40.578741,-111.900284
+UT-Incident--174157,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292 (11400 S) Salt Lake Co.
+Left Lanes Closed
+Est. Clearance Time: 10:30 AM","1/18/24, 9:23 AM","1/18/24, 10:30 AM","1/18/24, 9:24 AM",,40.53585,-111.892927
 UT-Incident--174151,Incidents,I-80,Tooele County,I-80 at MP 1,"Crash
 EB I-80 at MP 1 (UT/NV Border) Tooele Co.
 Est. Clearance Time: 8:45 AM","1/18/24, 7:38 AM","1/18/24, 8:45 AM","1/18/24, 7:38 AM",,40.743498,-114.026103
+UT-Incident--174155,Incidents,US 89,Cache County,US 89 at MP 475,"Avalanche Mitigation
+Both Directions US 89 at MP 475 (Logan Canyon) Cache Co.
+Road Closed Until Further Notice ","1/18/24, 9:07 AM","1/18/24, 4:00 PM","1/18/24, 9:09 AM",,41.825142,-111.601947
