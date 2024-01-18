@@ -5471,11 +5471,6 @@ UT-Incident--174167,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
 EB US 40 Offramp at MP 4 (SR-248 Jct / Park City) Summit Co.
 Est. Clearance Time: 3:15 PM","1/18/24, 2:05 PM","1/18/24, 3:15 PM","1/18/24, 2:05 PM",,40.68342,-111.462507
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174172,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 4:45 PM","1/18/24, 3:39 PM","1/18/24, 4:45 PM","1/18/24, 3:39 PM",,40.63583,-111.905066
 UT-Incident--174174,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
@@ -5487,3 +5482,8 @@ Est. Clearance Time: 5:00 PM","1/18/24, 4:08 PM","1/18/24, 5:00 PM","1/18/24, 4:
 UT-Incident--174171,Incidents,MIDWAY LN,Wasatch County,MIDWAY LN 901,"Crash
 SR-113 MP 5 (Midway) Wasatch Co.
 Est. Clearance Time: 4:15 PM","1/18/24, 3:13 PM","1/18/24, 4:15 PM","1/18/24, 3:13 PM",,40.509361,-111.452384
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174172,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","1/18/24, 3:39 PM","1/18/24, 4:45 PM","1/18/24, 3:39 PM",,40.63583,-111.905066
