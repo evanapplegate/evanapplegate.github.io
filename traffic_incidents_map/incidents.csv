@@ -5385,7 +5385,7 @@ Left Lane Closed
 Est. Clearance Time: 7:59 AM","1/18/24, 7:00 AM","1/18/24, 7:59 AM",,,40.607173,-111.905403
 UT-Incident--174150,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-2 Right Lanes Closed
+3 Right Lanes Closed
 Est. Clearance Time: 8:30 AM","1/18/24, 7:30 AM","1/18/24, 8:30 AM",,,40.63583,-111.905066
 UT-Incident--174147,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
@@ -5395,6 +5395,9 @@ UT-Incident--174148,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 WB I-80 at MP 146 (West of US-40) Summit Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","1/18/24, 6:46 AM","1/18/24, 7:45 AM",,,40.725101,-111.511877
+UT-Incident--174151,Incidents,I-80,Tooele County,I-80 at MP 1,"Crash
+EB I-80 at MP 1 (UT/NV Border) Tooele Co.
+Est. Clearance Time: 8:45 AM","1/18/24, 7:38 AM","1/18/24, 8:45 AM",,,40.743498,-114.026103
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM",,,40.619107,-111.786281
