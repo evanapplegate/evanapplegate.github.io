@@ -5296,7 +5296,6 @@ UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restrict
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174124,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -5313,13 +5312,21 @@ UT-Incident--174123,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 SB I-15 MP 304 (Ramp to EB I-80) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:15 PM","1/17/24, 3:11 PM","1/17/24, 4:15 PM","1/17/24, 3:22 PM",,40.722629,-111.905057
-UT-Incident--174126,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
-WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 5:15 PM","1/17/24, 4:01 PM","1/17/24, 5:15 PM","1/17/24, 4:01 PM",,40.733836,-112.201288
 UT-Incident--174128,Incidents,Main St,Iron County,Main St at 1000 N,"Crash
 NB Main St at 1325 N Iron Co.
 Est. Clearance Time: 5:30 PM","1/17/24, 4:32 PM","1/17/24, 5:30 PM","1/17/24, 4:32 PM",,0.0,0.0
+UT-Incident--174097,Incidents,US 40,Summit County,US 40 at MP 3,"Roadway Restriction
+Both Directions US 40 at MP 3 (Park City & Heber) Summit Co.
+Approved Traction Devices Required for all Vehicles","1/17/24, 12:21 PM","1/18/24, 1:20 PM","1/17/24, 12:21 PM",,40.696221,-111.4715
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174126,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
+WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
+Cleared at 5:06 PM
+Est. Clearance Time: 5:15 PM","1/17/24, 4:01 PM","1/17/24, 5:15 PM","1/17/24, 5:06 PM",,40.733836,-112.201288
+UT-Incident--174130,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
+WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:21 PM","1/17/24, 5:23 PM","1/17/24, 6:21 PM","1/17/24, 5:23 PM",,40.719771,-111.855009
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5329,6 +5336,6 @@ Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/17/24, 10:59 AM",,40.624634,-111.501637
-UT-Incident--174097,Incidents,US 40,Summit County,US 40 at MP 3,"Roadway Restriction
-Both Directions US 40 at MP 3 (Park City & Heber) Summit Co.
-Approved Traction Devices Required for all Vehicles","1/17/24, 12:21 PM","1/18/24, 1:20 PM","1/17/24, 12:21 PM",,40.696221,-111.4715
+UT-Incident--174129,Incidents,US 40,Wasatch County,US 40 at MP 51,"Crash
+US 40 at MP 51 (10 mi W of Fruitland) Wasatch Co.
+Est. Clearance Time: 6:00 PM","1/17/24, 4:57 PM","1/17/24, 6:00 PM","1/17/24, 4:57 PM",,40.18528,-111.02393
