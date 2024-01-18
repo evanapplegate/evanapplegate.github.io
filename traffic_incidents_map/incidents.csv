@@ -5455,7 +5455,6 @@ UT-Incident--174164,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Debris
 SB I-15 at MP 297 (7200 S, Midvale) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 1:30 PM","1/18/24, 12:20 PM","1/18/24, 1:30 PM","1/18/24, 12:20 PM",,40.614463,-111.906186
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174169,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
 NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
 Right Shoulder
@@ -5471,6 +5470,7 @@ Est. Clearance Time: 3:45 PM","1/18/24, 1:40 PM","1/18/24, 3:45 PM","1/18/24, 2:
 UT-Incident--174167,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
 EB US 40 Offramp at MP 4 (SR-248 Jct / Park City) Summit Co.
 Est. Clearance Time: 3:15 PM","1/18/24, 2:05 PM","1/18/24, 3:15 PM","1/18/24, 2:05 PM",,40.68342,-111.462507
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174171,Incidents,MIDWAY LN,Wasatch County,MIDWAY LN 901,"Crash
 SR-113 MP 5 (Midway) Wasatch Co.
