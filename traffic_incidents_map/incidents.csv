@@ -5338,10 +5338,14 @@ Est. Clearance Time: 7:15 PM","1/17/24, 6:12 PM","1/17/24, 7:15 PM","1/17/24, 6:
 UT-Incident--174134,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 SB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Est. Clearance Time: 8:45 PM","1/17/24, 7:35 PM","1/17/24, 8:45 PM","1/17/24, 7:35 PM",,39.775857,-111.839015
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174135,Incidents,Midland Dr,Weber County,Midland Dr at Hinckley Dr,"Crash
 All Directions Midland Dr at Hinckley Dr Weber Co.
 Est. Clearance Time: 9:15 PM","1/17/24, 8:10 PM","1/17/24, 9:15 PM","1/17/24, 8:10 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174136,Incidents,SR 224,Summit County,SR 224 at MP 7,"Crash
+NB SR 224 at MP 7 (Meadows Dr) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 9:15 PM","1/17/24, 8:11 PM","1/17/24, 9:15 PM","1/17/24, 8:41 PM",,40.672253,-111.517503
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
@@ -5352,7 +5356,6 @@ Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/17/24, 10:59 AM",,40.624634,-111.501637
-UT-Incident--174136,Incidents,SR 224,Summit County,SR 224 at MP 7,"Crash
-NB SR 224 at MP 7 (Meadows Dr) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 9:15 PM","1/17/24, 8:11 PM","1/17/24, 9:15 PM","1/17/24, 8:41 PM",,40.672253,-111.517503
+UT-Incident--174137,Incidents,SR 36,Tooele County,SR 36 at MP 53,"Crash
+Both Directions SR 36 at MP 53 (Tooele) Tooele Co.
+Est. Clearance Time: 10:30 PM","1/17/24, 9:07 PM","1/17/24, 10:30 PM","1/17/24, 9:07 PM",,,
