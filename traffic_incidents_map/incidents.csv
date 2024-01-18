@@ -5385,26 +5385,14 @@ UT-Incident--174142,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenanc
 Both Directions SR 210 Closed (Little Cottonwood Canyon) Salt Lake Co.
 Est. Clearance Time: 8:30 AM","1/18/24, 12:36 AM","1/18/24, 8:30 AM",,,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174149,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Col at 7200 S (MP 297) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:59 AM","1/18/24, 7:00 AM","1/18/24, 7:59 AM","1/18/24, 7:02 AM",,40.607173,-111.905403
-UT-Incident--174150,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:30 AM","1/18/24, 7:30 AM","1/18/24, 8:30 AM","1/18/24, 7:59 AM",,40.63583,-111.905066
 UT-Incident--174153,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 10:15 AM","1/18/24, 8:18 AM","1/18/24, 10:15 AM","1/18/24, 8:24 AM",,40.846156,-111.91486
-UT-Incident--174148,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
-WB I-80 at MP 146 (West of US-40) Summit Co.
-Right Shoulder
-Est. Clearance Time: 7:45 AM","1/18/24, 6:46 AM","1/18/24, 7:45 AM","1/18/24, 6:46 AM",,40.725101,-111.511877
-UT-Incident--174151,Incidents,I-80,Tooele County,I-80 at MP 1,"Crash
-EB I-80 at MP 1 (UT/NV Border) Tooele Co.
-Est. Clearance Time: 8:45 AM","1/18/24, 7:38 AM","1/18/24, 8:45 AM","1/18/24, 7:38 AM",,40.743498,-114.026103
 UT-Incident--173986,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2 (Big Cottonwood Cyn) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/24, 5:36 AM",,40.619107,-111.786281
@@ -5418,3 +5406,15 @@ UT-Incident--174154,Incidents,US 89,Davis County,US 89 at MP 404,"Crash
 NB US 89 at MP 404 (3000 N / Layton) Davis Co.
 Left Shoulder
 Est. Clearance Time: 10:30 AM","1/18/24, 8:23 AM","1/18/24, 10:30 AM","1/18/24, 8:23 AM",,41.103305,-111.910202
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174150,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 AM","1/18/24, 7:30 AM","1/18/24, 8:30 AM","1/18/24, 8:41 AM",,40.63583,-111.905066
+UT-Incident--174148,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
+WB I-80 at MP 146 (West of US-40) Summit Co.
+Right Shoulder
+Est. Clearance Time: 11:00 AM","1/18/24, 6:46 AM","1/18/24, 11:00 AM","1/18/24, 8:40 AM",,40.725101,-111.511877
+UT-Incident--174151,Incidents,I-80,Tooele County,I-80 at MP 1,"Crash
+EB I-80 at MP 1 (UT/NV Border) Tooele Co.
+Est. Clearance Time: 8:45 AM","1/18/24, 7:38 AM","1/18/24, 8:45 AM","1/18/24, 7:38 AM",,40.743498,-114.026103
