@@ -5328,7 +5328,6 @@ Est. Clearance Time: 6:21 PM","1/17/24, 5:23 PM","1/17/24, 6:21 PM","1/17/24, 5:
 UT-Incident--174132,Incidents,SR 210,Salt Lake County,SR 210 at MP 9,"Crash
 WB SR 210 at MP 9 (White Pine) Salt Lake Co.
 Est. Clearance Time: 7:45 PM","1/17/24, 6:29 PM","1/17/24, 7:45 PM","1/17/24, 6:29 PM",,40.575273,-111.685808
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174129,Incidents,US 40,Wasatch County,US 40 at MP 51,"Crash
 US 40 at MP 51 (10 mi W of Fruitland) Wasatch Co.
 Est. Clearance Time: 7:00 PM","1/17/24, 4:57 PM","1/17/24, 7:00 PM","1/17/24, 6:30 PM",,40.18528,-111.02393
@@ -5336,6 +5335,7 @@ UT-Incident--174131,Incidents,US 40,Duchesne County,US 40 at MP 110,"Crash
 EB US 40 at MP 110 (Roosevelt) Duchesne Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","1/17/24, 6:12 PM","1/17/24, 7:15 PM","1/17/24, 6:12 PM",,40.262212,-110.052498
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174134,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 SB I-15 at MP 230 (3 mi S of Mona) Juab Co.
