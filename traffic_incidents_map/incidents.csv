@@ -5427,7 +5427,6 @@ Est. Clearance Time: 8:45 AM","1/18/24, 7:38 AM","1/18/24, 8:45 AM","1/18/24, 7:
 UT-Incident--174155,Incidents,US 89,Cache County,US 89 at MP 475,"Avalanche Mitigation
 Both Directions US 89 at MP 475 (Logan Canyon) Cache Co.
 Road Closed Until Further Notice ","1/18/24, 9:07 AM","1/18/24, 4:00 PM","1/18/24, 9:09 AM",,41.825142,-111.601947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174161,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (6600 S, Midvale) Salt Lake Co.
 Left Lanes Closed
@@ -5437,6 +5436,7 @@ UT-Incident--174158,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
 NB I-15 at MP 290 (13200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:15 AM","1/18/24, 9:52 AM","1/18/24, 11:15 AM","1/18/24, 9:52 AM",,40.506678,-111.891228
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174160,Incidents,I-15,Utah County,I-15 at MP 260,"Signal problems
 NB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Lane Closed
