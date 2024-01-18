@@ -5295,7 +5295,6 @@ Road Closed Until Further Notice","1/17/24, 2:49 PM","1/17/24, 8:02 PM","1/17/24
 UT-Incident--174032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 22 (Sundance) Utah Co.
 Traction Devices Required For All Vehicles","1/17/24, 8:22 AM","1/18/24, 9:20 AM","1/17/24, 8:22 AM",,40.368169,-111.559358
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174124,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -5323,6 +5322,7 @@ UT-Incident--174126,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Cleared at 5:06 PM
 Est. Clearance Time: 5:15 PM","1/17/24, 4:01 PM","1/17/24, 5:15 PM","1/17/24, 5:06 PM",,40.733836,-112.201288
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174130,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
@@ -5333,9 +5333,16 @@ Approved Traction Devices Required","1/17/24, 5:32 AM","1/18/24, 6:30 AM","1/17/
 UT-Incident--173987,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Little Cottonwood) Salt Lake Co.
 Approved Traction Devices Required","1/17/24, 5:34 AM","1/18/24, 6:33 AM","1/17/24, 5:34 AM",,40.572095,-111.773814
+UT-Incident--174132,Incidents,SR 210,Salt Lake County,SR 210 at MP 9,"Crash
+WB SR 210 at MP 9 (White Pine) Salt Lake Co.
+Est. Clearance Time: 7:45 PM","1/17/24, 6:29 PM","1/17/24, 7:45 PM","1/17/24, 6:29 PM",,40.575273,-111.685808
 UT-Incident--174070,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required","1/17/24, 10:59 AM","1/18/24, 12:00 PM","1/17/24, 10:59 AM",,40.624634,-111.501637
 UT-Incident--174129,Incidents,US 40,Wasatch County,US 40 at MP 51,"Crash
 US 40 at MP 51 (10 mi W of Fruitland) Wasatch Co.
-Est. Clearance Time: 6:00 PM","1/17/24, 4:57 PM","1/17/24, 6:00 PM","1/17/24, 4:57 PM",,40.18528,-111.02393
+Est. Clearance Time: 7:00 PM","1/17/24, 4:57 PM","1/17/24, 7:00 PM","1/17/24, 6:30 PM",,40.18528,-111.02393
+UT-Incident--174131,Incidents,US 40,Duchesne County,US 40 at MP 110,"Crash
+EB US 40 at MP 110 (Roosevelt) Duchesne Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","1/17/24, 6:12 PM","1/17/24, 7:15 PM","1/17/24, 6:12 PM",,40.262212,-110.052498
