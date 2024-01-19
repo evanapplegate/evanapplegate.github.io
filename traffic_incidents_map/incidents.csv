@@ -5601,7 +5601,6 @@ Est. Clearance Time: 4:45 PM","1/19/24, 3:38 PM","1/19/24, 4:45 PM","1/19/24, 3:
 UT-Incident--174206,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Other/Oversized Load
 EB I-80 at MP 129 (Parleys Canyon to Evanston WY) Salt Lake/Summit Co.
 Right Lanes Closed during transit","1/19/24, 1:12 PM","1/19/24, 3:30 PM","1/19/24, 1:12 PM",,40.715578,-111.784616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174214,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Stalled Vehicle
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -5611,10 +5610,11 @@ UT-Incident--174217,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","1/19/24, 4:30 PM","1/19/24, 5:30 PM","1/19/24, 4:30 PM",,40.900348,-111.893142
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174215,Incidents,I-80,Tooele County,I-80 at MP 54,"Crash
 EB I-80 at MP 54 (13 mi E of Knolls) Tooele Co.
 Left Shoulder
-Est. Clearance Time: 5:15 PM","1/19/24, 4:15 PM","1/19/24, 5:15 PM","1/19/24, 4:20 PM",,40.756914,-113.024767
+Est. Clearance Time: 5:15 PM","1/19/24, 4:15 PM","1/19/24, 5:15 PM","1/19/24, 4:35 PM",,40.756914,-113.024767
 UT-Incident--174213,Incidents,Washington Blvd,Weber County,Washington Blvd at 31st St,"Crash
 NB Washington Blvd at 31st St Weber Co.
 Right Lane Closed
