@@ -5533,7 +5533,6 @@ Est. Clearance Time: 9:02 PM","1/18/24, 8:02 PM","1/18/24, 9:02 PM","1/18/24, 8:
 UT-Incident--174193,Incidents,SR 113,Wasatch County,SR 113 at MP 5,"Crash
 SR 113 at MP 5 (700 E) Wasatch Co.
 Est. Clearance Time: 9:30 PM","1/18/24, 8:26 PM","1/18/24, 9:30 PM","1/18/24, 8:26 PM",,40.509687,-111.452653
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174194,Incidents,I-84,Box Elder County,I-84 at MP 10,"Vehicle on fire
 WB I-84 at MP 10 (Near Howell) Box Elder Co.
 Right Shoulder
@@ -5541,6 +5540,7 @@ Est. Clearance Time: 9:39 PM","1/18/24, 8:41 PM","1/18/24, 9:39 PM","1/18/24, 8:
 UT-Incident--174189,Incidents,SR 21,Beaver County,SR 21 at MP 98,"Crash
 SR 21 at MP 98 (9 Mi W of Milford) Beaver Co.
 Est. Clearance Time: 8:30 PM","1/18/24, 7:08 PM","1/18/24, 8:30 PM","1/18/24, 7:08 PM",,38.231734,-112.79978
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174195,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
 WB US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
