@@ -5485,7 +5485,6 @@ UT-Incident--174172,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/18/24, 3:39 PM","1/18/24, 4:45 PM","1/18/24, 3:39 PM",,40.63583,-111.905066
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174176,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
 NB US 89 at MP 398 (Farmington Main St.) Davis Co.
 Right Shoulder
@@ -5508,3 +5507,16 @@ Est. Clearance Time: 5:45 PM","1/18/24, 4:45 PM","1/18/24, 5:45 PM","1/18/24, 4:
 UT-Incident--174179,Incidents,SR 37,Davis County,SR 37 at MP 3,"Crash
 Both Directions SR 37 at MP 3 (3000 W) Davis Co.
 Est. Clearance Time: 6:15 PM","1/18/24, 5:02 PM","1/18/24, 6:15 PM","1/18/24, 5:02 PM",,41.139874,-112.083665
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174184,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 7:00 PM","1/18/24, 5:57 PM","1/18/24, 7:00 PM","1/18/24, 6:07 PM",,40.664677,-111.90152
+UT-Incident--174185,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
+SB I-15 at MP 362 (Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","1/18/24, 6:08 PM","1/18/24, 7:15 PM","1/18/24, 6:08 PM",,41.485402,-112.05328
+UT-Incident--174182,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+WB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","1/18/24, 5:40 PM","1/18/24, 6:45 PM","1/18/24, 6:20 PM",,40.560962,-111.427534
