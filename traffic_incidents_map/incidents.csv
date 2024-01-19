@@ -5481,7 +5481,6 @@ Est. Clearance Time: 5:00 PM","1/18/24, 4:08 PM","1/18/24, 5:00 PM","1/18/24, 4:
 UT-Incident--174171,Incidents,MIDWAY LN,Wasatch County,MIDWAY LN 901,"Crash
 SR-113 MP 5 (Midway) Wasatch Co.
 Est. Clearance Time: 4:15 PM","1/18/24, 3:13 PM","1/18/24, 4:15 PM","1/18/24, 3:13 PM",,40.509361,-111.452384
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174172,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -5491,3 +5490,21 @@ UT-Incident--174176,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
 NB US 89 at MP 398 (Farmington Main St.) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","1/18/24, 4:38 PM","1/18/24, 5:45 PM","1/18/24, 4:39 PM",,41.017359,-111.909292
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174178,Incidents,3500 W,Weber County,3500 W at 6000 S,"Crash
+Both Directions 3500 W at 6000 S (Roy) Weber Co.
+Est. Clearance Time: 6:00 PM","1/18/24, 4:59 PM","1/18/24, 6:00 PM","1/18/24, 4:59 PM",,41.154381,-112.064472
+UT-Incident--174181,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
+NB I-15 at MP 337 (Sunset) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","1/18/24, 5:18 PM","1/18/24, 6:30 PM","1/18/24, 5:18 PM",,41.140572,-112.025572
+UT-Incident--174180,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:15 PM","1/18/24, 5:13 PM","1/18/24, 6:15 PM","1/18/24, 5:13 PM",,40.63036,-111.877391
+UT-Incident--174177,Incidents,I-70,Sevier County,I-70 at MP 66,"Debris
+WB I-70 at MP 66 (26 mi E of Richfield) Sevier Co.
+Est. Clearance Time: 5:45 PM","1/18/24, 4:45 PM","1/18/24, 5:45 PM","1/18/24, 4:45 PM",,38.906041,-111.69176
+UT-Incident--174179,Incidents,SR 37,Davis County,SR 37 at MP 3,"Crash
+Both Directions SR 37 at MP 3 (3000 W) Davis Co.
+Est. Clearance Time: 6:15 PM","1/18/24, 5:02 PM","1/18/24, 6:15 PM","1/18/24, 5:02 PM",,41.139874,-112.083665
