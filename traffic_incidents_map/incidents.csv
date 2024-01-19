@@ -5526,7 +5526,6 @@ UT-Incident--174184,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 PM","1/18/24, 5:57 PM","1/18/24, 8:30 PM","1/18/24, 7:28 PM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174192,Incidents,I-84,Morgan County,I-84 at MP 109,"Stalled Vehicle
 WB I-84 at MP 109 (3 mi E of Morgan) Morgan Co.
 Right Shoulder
@@ -5542,3 +5541,7 @@ Est. Clearance Time: 9:39 PM","1/18/24, 8:41 PM","1/18/24, 9:39 PM","1/18/24, 8:
 UT-Incident--174189,Incidents,SR 21,Beaver County,SR 21 at MP 98,"Crash
 SR 21 at MP 98 (9 Mi W of Milford) Beaver Co.
 Est. Clearance Time: 8:30 PM","1/18/24, 7:08 PM","1/18/24, 8:30 PM","1/18/24, 7:08 PM",,38.231734,-112.79978
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174195,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
+WB US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
+Est. Clearance Time: 10:30 PM","1/18/24, 9:19 PM","1/18/24, 10:30 PM","1/18/24, 9:19 PM",,40.328835,-111.637103
