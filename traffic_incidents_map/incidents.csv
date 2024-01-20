@@ -5649,9 +5649,6 @@ UT-Incident--174225,Incidents,US 40,Duchesne County,US 40 at MP 66,"Crash
 WB US 40 at MP 66 (3 mi E of Fruitland) Duchesne Co.
 Est. Clearance Time: 8:30 PM","1/19/24, 7:24 PM","1/19/24, 8:30 PM",,,40.205571,-110.771157
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174228,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
-Both Directions I-70 Closed EB at MP 31 WB at MP 37 Sevier Co.","1/19/24, 7:44 PM","1/19/24, 11:00 PM","1/19/24, 8:21 PM",,38.69938,-112.144845
 UT-Incident--174229,Incidents,SR 113,Wasatch County,SR 113 at MP 4,"Crash
 SR 113 at MP 4 (850 S Midway) Wasatch Co.
 Est. Clearance Time: 9:00 PM","1/19/24, 7:59 PM","1/19/24, 9:00 PM","1/19/24, 7:59 PM",,40.512145,-111.470514
@@ -5659,3 +5656,6 @@ UT-Incident--174227,Incidents,Washington Blvd,Weber County,Washington Blvd at 40
 SB Washington Blvd at 40th St Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 8:45 PM","1/19/24, 7:41 PM","1/19/24, 8:45 PM","1/19/24, 7:41 PM",,41.190563,-111.97117
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174228,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
+Both Directions I-70 Closed EB at MP 31 WB at MP 37 Sevier Co.","1/19/24, 7:44 PM","1/19/24, 11:00 PM","1/19/24, 8:21 PM",,38.69938,-112.144845
