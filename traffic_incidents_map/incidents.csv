@@ -5605,17 +5605,25 @@ UT-Incident--174214,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Stalled Vehi
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:12 PM","1/19/24, 4:13 PM","1/19/24, 5:12 PM","1/19/24, 4:13 PM",,40.63583,-111.905066
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174217,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","1/19/24, 4:30 PM","1/19/24, 5:30 PM","1/19/24, 4:30 PM",,40.900348,-111.893142
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174215,Incidents,I-80,Tooele County,I-80 at MP 54,"Crash
-EB I-80 at MP 54 (13 mi E of Knolls) Tooele Co.
-Left Shoulder
-Est. Clearance Time: 5:15 PM","1/19/24, 4:15 PM","1/19/24, 5:15 PM","1/19/24, 4:35 PM",,40.756914,-113.024767
 UT-Incident--174213,Incidents,Washington Blvd,Weber County,Washington Blvd at 31st St,"Crash
 NB Washington Blvd at 31st St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","1/19/24, 3:50 PM","1/19/24, 4:45 PM","1/19/24, 3:50 PM",,41.208163,-111.970738
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174219,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","1/19/24, 5:22 PM","1/19/24, 6:35 PM","1/19/24, 5:22 PM",,40.707874,-111.90397
+UT-Incident--174218,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
+SB I-215 W at MP 17 (3500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","1/19/24, 5:22 PM","1/19/24, 6:15 PM","1/19/24, 5:22 PM",,40.688869,-111.951947
+UT-Incident--174215,Incidents,I-80,Tooele County,I-80 at MP 54,"Crash
+EB I-80 at MP 54 (13 mi E of Knolls) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 6:15 PM","1/19/24, 4:15 PM","1/19/24, 6:15 PM","1/19/24, 5:10 PM",,40.756914,-113.024767
