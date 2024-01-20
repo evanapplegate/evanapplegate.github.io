@@ -5681,7 +5681,6 @@ UT-Incident--174237,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 400 S,"V
 NB Redwood Rd at 400 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:28 AM","1/20/24, 9:29 AM","1/20/24, 10:28 AM","1/20/24, 9:29 AM",,40.760637,-111.939022
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174238,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Vehicle on fire
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
@@ -5690,6 +5689,7 @@ UT-Incident--174236,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
 Ramp WB SR 201 at MP 11 (5600 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:07 AM","1/20/24, 9:08 AM","1/20/24, 10:07 AM","1/20/24, 9:08 AM",,40.72572,-112.020546
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174233,Incidents,I-70,Sevier County,I-70 at MP 17,"Crash
 WB I-70 at MP 17 (20 Mi W of Richfield) Sevier Co.
