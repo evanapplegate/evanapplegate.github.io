@@ -5701,7 +5701,6 @@ UT-Incident--174240,Incidents,SR 201,Salt Lake County,SR 201 at MP 7,"Crash
 EB SR 201 at MP 7 (8400 W) Salt Lake Co.
 NB 8400 W Closed
 Est. Clearance Time: 12:08 PM","1/20/24, 11:11 AM","1/20/24, 12:08 PM","1/20/24, 11:11 AM",,40.717582,-112.095201
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174241,Incidents,2200 W,Salt Lake County,2200 W at 700 N,"Crash
 NB 2200 W at 700 N Salt Lake Co.
 Right Lane Closed
@@ -5711,3 +5710,4 @@ UT-Incident--174242,Incidents,I-15,Weber County,I-15 at MP 338,"Stalled Vehicle
 Ramp I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","1/20/24, 2:17 PM","1/20/24, 3:45 PM","1/20/24, 3:02 PM",,41.155128,-112.024901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
