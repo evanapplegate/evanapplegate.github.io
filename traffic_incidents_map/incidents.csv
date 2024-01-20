@@ -5613,7 +5613,6 @@ UT-Incident--174213,Incidents,Washington Blvd,Weber County,Washington Blvd at 31
 NB Washington Blvd at 31st St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","1/19/24, 3:50 PM","1/19/24, 4:45 PM","1/19/24, 3:50 PM",,41.208163,-111.970738
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174219,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
@@ -5631,6 +5630,18 @@ UT-Incident--174220,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Vehicle on f
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","1/19/24, 5:50 PM","1/19/24, 7:00 PM","1/19/24, 5:50 PM",,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174222,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","1/19/24, 6:44 PM","1/19/24, 7:45 PM","1/19/24, 6:44 PM",,40.410606,-111.863979
+UT-Incident--174224,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+NB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 PM","1/19/24, 7:14 PM","1/19/24, 8:30 PM","1/19/24, 7:14 PM",,,
+UT-Incident--174223,Incidents,SR 198,Utah County,SR 198 at MP 2,"Crash
+SR 198 at MP 2 (12680 S) Utah Co.
+Est. Clearance Time: 7:45 PM","1/19/24, 6:45 PM","1/19/24, 7:45 PM","1/19/24, 6:45 PM",,39.999257,-111.751327
 UT-Incident--174221,Incidents,SR 20,Iron County,SR 20 at MP 2,"Crash
 SR 20 at MP 2 (2 Mi E of I-15) Iron Co.
 Est. Clearance Time: 7:25 PM","1/19/24, 6:19 PM","1/19/24, 7:25 PM","1/19/24, 6:19 PM",,38.059913,-112.657055
