@@ -5660,8 +5660,10 @@ SB I-15 at MP 362 (Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 10:15 PM","1/19/24, 9:09 PM","1/19/24, 10:15 PM","1/19/24, 9:09 PM",,41.485402,-112.05328
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174228,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
-Both Directions I-70 Closed EB at MP 31 WB at MP 37 Sevier Co.","1/19/24, 7:44 PM","1/19/24, 11:00 PM","1/19/24, 8:21 PM",,38.69938,-112.144845
 UT-Incident--174231,Incidents,I-80,Summit County,I-80 at MP 163,"Crash
 EB I-80 Closed at MP 163 (Coalville) Summit Co.","1/19/24, 10:09 PM","1/19/24, 11:15 PM","1/19/24, 10:12 PM",,40.917191,-111.406893
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174228,Incidents,I-70,Sevier County,I-70 at MP 33,"Crash
+WB I-70 at MP 33 (4 Mi W of Richfield) Sevier Co.
+Right Lane Closed
+Est. Clearance Time: 1/20/2024 1:00 AM","1/19/24, 7:44 PM","1/20/24, 1:00 AM","1/19/24, 11:51 PM",,38.69938,-112.144845
