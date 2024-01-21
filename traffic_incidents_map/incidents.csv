@@ -5781,6 +5781,12 @@ UT-Incident--174269,Incidents,SR 39,Weber County,SR 39 at MP 16,"Crash
 SR 39 at MP 16 (Pineview Res) Weber Co.
 Est. Clearance Time: 9:15 AM","1/21/24, 8:14 AM","1/21/24, 9:15 AM","1/21/24, 8:14 AM",,41.252094,-111.804158
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174248,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/24, 6:20 PM","1/20/24, 5:25 PM",,40.619107,-111.786281
+UT-Incident--174249,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24, 6:25 PM","1/20/24, 5:27 PM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
@@ -5788,9 +5794,3 @@ Semis are prohibited","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 8:06 AM",,
 UT-Incident--174268,Incidents,SR 167,Morgan County,SR 167 at MP 4,"Crash
 SR 167 at MP 4 (4 miles N of I-84 JCT) Morgan Co.
 Est. Clearance Time: 9:15 AM","1/21/24, 8:12 AM","1/21/24, 9:15 AM","1/21/24, 8:12 AM",,41.169107,-111.809854
-UT-Incident--174248,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/24, 6:20 PM","1/20/24, 5:25 PM",,40.619107,-111.786281
-UT-Incident--174249,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24, 6:25 PM","1/20/24, 5:27 PM",,40.572095,-111.773814
