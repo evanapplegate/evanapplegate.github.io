@@ -5762,20 +5762,23 @@ EB Hwy 201 at 7200 W Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:00 AM","1/21/24, 2:25 AM","1/21/24, 5:00 AM","1/21/24, 4:15 AM",,40.718591,-112.061917
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174263,Incidents,I-15,Box Elder County,I-15 at MP 374,"Utility work
 Both Directions I-15 Closed
  between MP 372 - 374 (Tremonton) Box Elder Co.","1/21/24, 5:01 AM","1/21/24, 8:00 AM","1/21/24, 5:11 AM",,41.64527,-112.10867
+UT-Incident--174264,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
+EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
+Right Lane Closed
+Est. Clearance Time: 6:43 AM","1/21/24, 5:44 AM","1/21/24, 6:43 AM","1/21/24, 5:44 AM",,41.139525,-111.854154
+UT-Incident--174266,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
+US 91 at MP 5 (0.5 Mantua) Box Elder Co.
+Est. Clearance Time: 7:04 AM","1/21/24, 6:04 AM","1/21/24, 7:04 AM","1/21/24, 6:04 AM",,41.497336,-111.967135
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174262,Incidents,I-80,Salt Lake County,I-80 at MP 119,"EB I-80 Exit to SB I-15 Closed (MP 119), Salt Lake Co.
 Use I-215","1/21/24, 4:20 AM","1/21/24, 9:00 AM","1/21/24, 4:46 AM",,40.763707,-111.913768
 UT-Incident--174267,Incidents,I-80,Salt Lake County,I-80 at MP 109,"Crash
 EB I-80 at MP 109 (5 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","1/21/24, 7:16 AM","1/21/24, 8:15 AM","1/21/24, 7:16 AM",,40.77111,-112.105407
-UT-Incident--174264,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
-EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
-Right Lane Closed
-Est. Clearance Time: 6:43 AM","1/21/24, 5:44 AM","1/21/24, 6:43 AM","1/21/24, 5:44 AM",,41.139525,-111.854154
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
 Semis are prohibited. Traction devices required for all other vehicles.","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 3:38 AM",,37.653126,-112.985953
@@ -5785,6 +5788,3 @@ Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/2
 UT-Incident--174249,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24, 6:25 PM","1/20/24, 5:27 PM",,40.572095,-111.773814
-UT-Incident--174266,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
-US 91 at MP 5 (0.5 Mantua) Box Elder Co.
-Est. Clearance Time: 7:04 AM","1/21/24, 6:04 AM","1/21/24, 7:04 AM","1/21/24, 6:04 AM",,41.497336,-111.967135
