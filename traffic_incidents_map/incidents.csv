@@ -5720,7 +5720,6 @@ UT-Incident--174244,Incidents,I-84,Box Elder County,I-84 at MP 30,"Crash
 EB I-84 at MP 30 (17 mi N of Tremonton) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:48 PM","1/20/24, 3:49 PM","1/20/24, 4:48 PM","1/20/24, 3:49 PM",,41.813177,-112.347206
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174250,Incidents,I-15,Utah County,I-15 at MP 276,"Debris
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Est. Clearance Time: 6:52 PM","1/20/24, 5:54 PM","1/20/24, 6:52 PM","1/20/24, 5:54 PM",,40.355866,-111.778344
@@ -5733,6 +5732,7 @@ UT-Incident--174252,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Abandoned Ve
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:48 PM","1/20/24, 6:49 PM","1/20/24, 7:48 PM","1/20/24, 6:49 PM",,40.607173,-111.905403
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174253,Incidents,Prospector Ave,Summit County,Prospector Ave at Hillside Ave,"Crash
 Prospector Ave at Hillside Ave Summit Co.
 Est. Clearance Time: 8:00 PM","1/20/24, 6:51 PM","1/20/24, 8:00 PM","1/20/24, 6:51 PM",,0.0,0.0
