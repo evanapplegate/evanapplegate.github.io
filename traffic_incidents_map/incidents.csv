@@ -5750,6 +5750,10 @@ SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:18 AM","1/21/24, 1:19 AM","1/21/24, 2:18 AM","1/21/24, 2:14 AM",,40.656205,-111.807544
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174259,Incidents,Washington Blvd,Weber County,Washington Blvd at 26th St,"Crash
+NB Washington Blvd at 26th St Weber Co.
+Right Lane Closed
+Est. Clearance Time: 3:15 AM","1/21/24, 2:16 AM","1/21/24, 3:15 AM","1/21/24, 2:16 AM",,41.218565,-111.970524
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174258,Incidents,5600 W,Salt Lake County,5600 W at SR 201 WB X11 On 5600 S Ramp,"Crash
 SB 5600 W at SR 201, Salt Lake Co.
@@ -5759,13 +5763,12 @@ UT-Incident--174260,Incidents,Hwy 201,Salt Lake County,Hwy 201 at 7200 W,"Crash
 EB Hwy 201 at 7200 W Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:25 AM","1/21/24, 2:25 AM","1/21/24, 3:25 AM","1/21/24, 2:57 AM",,40.718591,-112.061917
+UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Directions SR 14 between MP 5 - MP 41  Iron Co.
+Semis are prohibited. Traction devices required for all other vehicles.","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 3:38 AM",,37.653126,-112.985953
 UT-Incident--174248,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/24, 6:20 PM","1/20/24, 5:25 PM",,40.619107,-111.786281
 UT-Incident--174249,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24, 6:25 PM","1/20/24, 5:27 PM",,40.572095,-111.773814
-UT-Incident--174259,Incidents,Washington Blvd,Weber County,Washington Blvd at 26th St,"Crash
-NB Washington Blvd at 26th St Weber Co.
-Right Lane Closed
-Est. Clearance Time: 3:15 AM","1/21/24, 2:16 AM","1/21/24, 3:15 AM","1/21/24, 2:16 AM",,41.218565,-111.970524
