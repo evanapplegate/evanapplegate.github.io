@@ -5771,7 +5771,6 @@ Est. Clearance Time: 6:43 AM","1/21/24, 5:44 AM","1/21/24, 6:43 AM","1/21/24, 5:
 UT-Incident--174266,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
 US 91 at MP 5 (0.5 Mantua) Box Elder Co.
 Est. Clearance Time: 7:04 AM","1/21/24, 6:04 AM","1/21/24, 7:04 AM","1/21/24, 6:04 AM",,41.497336,-111.967135
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174262,Incidents,I-80,Salt Lake County,I-80 at MP 119,"EB I-80 Exit to SB I-15 Closed (MP 119), Salt Lake Co.
 Use I-215","1/21/24, 4:20 AM","1/21/24, 9:00 AM","1/21/24, 4:46 AM",,40.763707,-111.913768
 UT-Incident--174267,Incidents,I-80,Salt Lake County,I-80 at MP 109,"Crash
@@ -5781,6 +5780,7 @@ Est. Clearance Time: 8:15 AM","1/21/24, 7:16 AM","1/21/24, 8:15 AM","1/21/24, 7:
 UT-Incident--174269,Incidents,SR 39,Weber County,SR 39 at MP 16,"Crash
 SR 39 at MP 16 (Pineview Res) Weber Co.
 Est. Clearance Time: 9:15 AM","1/21/24, 8:14 AM","1/21/24, 9:15 AM","1/21/24, 8:14 AM",,41.252094,-111.804158
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
