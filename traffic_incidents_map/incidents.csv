@@ -5757,11 +5757,11 @@ UT-Incident--174258,Incidents,5600 W,Salt Lake County,5600 W at SR 201 WB X11 On
 SB 5600 W at SR 201, Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 3:09 AM","1/21/24, 2:10 AM","1/21/24, 3:09 AM","1/21/24, 2:10 AM",,40.72603,-112.024689
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174260,Incidents,Hwy 201,Salt Lake County,Hwy 201 at 7200 W,"Crash
 EB Hwy 201 at 7200 W Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:00 AM","1/21/24, 2:25 AM","1/21/24, 5:00 AM","1/21/24, 4:15 AM",,40.718591,-112.061917
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174263,Incidents,I-15,Box Elder County,I-15 at MP 374,"Utility work
 Both Directions I-15 Closed
@@ -5781,3 +5781,6 @@ Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/2
 UT-Incident--174249,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24, 6:25 PM","1/20/24, 5:27 PM",,40.572095,-111.773814
+UT-Incident--174266,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
+US 91 at MP 5 (0.5 Mantua) Box Elder Co.
+Est. Clearance Time: 7:04 AM","1/21/24, 6:04 AM","1/21/24, 7:04 AM","1/21/24, 6:04 AM",,41.497336,-111.967135
