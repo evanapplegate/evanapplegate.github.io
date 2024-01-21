@@ -5716,7 +5716,6 @@ UT-Incident--174246,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Vehi
 SB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","1/20/24, 4:29 PM","1/20/24, 5:35 PM","1/20/24, 4:29 PM",,40.840909,-111.942301
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174244,Incidents,I-84,Box Elder County,I-84 at MP 30,"Crash
 EB I-84 at MP 30 (17 mi N of Tremonton) Box Elder Co.
 Right Shoulder
@@ -5725,6 +5724,18 @@ Est. Clearance Time: 4:48 PM","1/20/24, 3:49 PM","1/20/24, 4:48 PM","1/20/24, 3:
 UT-Incident--174250,Incidents,I-15,Utah County,I-15 at MP 276,"Debris
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Est. Clearance Time: 6:52 PM","1/20/24, 5:54 PM","1/20/24, 6:52 PM","1/20/24, 5:54 PM",,40.355866,-111.778344
+UT-Incident--174251,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
+SB SR 36 at MP 61 (Stansbury Park) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","1/20/24, 6:02 PM","1/20/24, 7:00 PM","1/20/24, 6:28 PM",,40.626191,-112.29223
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174252,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Abandoned Vehicle
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:48 PM","1/20/24, 6:49 PM","1/20/24, 7:48 PM","1/20/24, 6:49 PM",,40.607173,-111.905403
+UT-Incident--174253,Incidents,Prospector Ave,Summit County,Prospector Ave at Hillside Ave,"Crash
+Prospector Ave at Hillside Ave Summit Co.
+Est. Clearance Time: 8:00 PM","1/20/24, 6:51 PM","1/20/24, 8:00 PM","1/20/24, 6:51 PM",,0.0,0.0
 UT-Incident--174248,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","1/20/24, 5:22 PM","1/25/24, 6:20 PM","1/20/24, 5:25 PM",,40.619107,-111.786281
@@ -5734,7 +5745,3 @@ Approved Traction Devices Required For All Vehicles","1/20/24, 5:27 PM","1/25/24
 UT-Incident--174245,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 SB SR 224 MP 2-5  (Empire Passl) Summit Co.
 Approved Traction Devices Required For All Vehicles","1/20/24, 4:14 PM","1/25/24, 12:00 PM","1/20/24, 4:14 PM",,40.624634,-111.501637
-UT-Incident--174251,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
-SB SR 36 at MP 61 (Stansbury Park) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 7:00 PM","1/20/24, 6:02 PM","1/20/24, 7:00 PM","1/20/24, 6:28 PM",,40.626191,-112.29223
