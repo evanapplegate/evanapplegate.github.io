@@ -5848,7 +5848,6 @@ UT-Incident--174289,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","1/22/24, 6:57 AM","1/22/24, 9:00 AM","1/22/24, 6:57 AM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174286,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Left Shoulder
@@ -5857,12 +5856,13 @@ UT-Incident--174290,Incidents,I-80,Tooele County,I-80 at MP 84,"Crash
 WB I-80 at MP 84 (SR 138 / Grantsville) Tooele Co.
 Est. Clearance Time: 9:00 AM","1/22/24, 6:59 AM","1/22/24, 9:00 AM","1/22/24, 6:59 AM",,40.706401,-112.518586
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174284,Incidents,5600 W,Salt Lake County,5600 W at 5600 S,"Crash
-SB 5600 W at 5500 S Salt Lake Co.
-Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 9:57 AM","1/22/24, 7:30 AM",,0.0,0.0
 UT-Incident--174288,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Est. Clearance Time: 7:10 AM","1/22/24, 6:07 AM","1/22/24, 7:10 AM","1/22/24, 6:07 AM",,40.726429,-112.217783
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174284,Incidents,5600 W,Salt Lake County,5600 W at 5600 S,"Crash
+SB 5600 W at 5500 S Salt Lake Co.
+Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 9:57 AM","1/22/24, 7:30 AM",,0.0,0.0
 UT-Incident--174292,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 9:30 AM","1/22/24, 7:54 AM","1/22/24, 9:30 AM","1/22/24, 7:54 AM",,40.771145,-112.066961
