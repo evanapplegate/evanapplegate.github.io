@@ -5890,12 +5890,16 @@ UT-Incident--174297,Incidents,US 40,Uintah County,US 40 at MP 142,"Crash
 NB US 40 at MP 142 (Vernal) Uintah Co.
 Right Lane Closed
 Est. Clearance Time: 12:45 PM","1/22/24, 11:48 AM","1/22/24, 12:45 PM","1/22/24, 12:16 PM",,40.439938,-109.564119
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174298,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:30 PM","1/22/24, 12:02 PM","1/22/24, 1:30 PM","1/22/24, 12:53 PM",,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174301,Incidents,Center St,Davis County,Center St 700 w,"Crash
+EB Center St at 700 W (Davis County)
+EB Closed
+Use Alt Route","1/22/24, 1:26 PM","1/22/24, 2:30 PM","1/22/24, 1:26 PM",,40.841832,-111.922966
 UT-Incident--174294,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Lane Closed
