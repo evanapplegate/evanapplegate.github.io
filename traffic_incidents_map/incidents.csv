@@ -5840,7 +5840,6 @@ UT-Incident--174285,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 EB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:14 AM","1/22/24, 5:15 AM","1/22/24, 6:14 AM","1/22/24, 5:48 AM",,40.770886,-112.143879
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174287,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 NB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Right Lane Closed
@@ -5850,9 +5849,10 @@ NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","1/22/24, 6:57 AM","1/22/24, 9:00 AM","1/22/24, 6:57 AM",,40.717792,-111.95364
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174284,Incidents,5600 W,Salt Lake County,5600 W at 5600 S,"Crash
 SB 5600 W at 5500 S Salt Lake Co.
-Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 8:12 AM","1/22/24, 6:00 AM",,0.0,0.0
+Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 9:57 AM","1/22/24, 7:30 AM",,0.0,0.0
 UT-Incident--174286,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Left Shoulder
