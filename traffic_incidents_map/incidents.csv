@@ -5871,7 +5871,6 @@ Est. Clearance Time: 8:20 AM","1/22/24, 7:16 AM","1/22/24, 8:20 AM","1/22/24, 7:
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
 Semis are prohibited","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 8:06 AM",,37.653126,-112.985953
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174299,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
@@ -5885,18 +5884,19 @@ UT-Incident--174295,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 9200 
 NB Bangerter Hwy at 9200 S (Salt Lake County)
 2 Right Lanes Closed
 Est. Clearance Time: 1:00 PM","1/22/24, 11:28 AM","1/22/24, 1:00 PM","1/22/24, 12:27 PM",,0.0,0.0
-UT-Incident--174298,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-NB I-15 at MP 295 (9000 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 1:30 PM","1/22/24, 12:02 PM","1/22/24, 1:30 PM","1/22/24, 12:03 PM",,40.578741,-111.900284
 UT-Incident--174292,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 9:30 AM","1/22/24, 7:54 AM","1/22/24, 9:30 AM","1/22/24, 7:54 AM",,40.771145,-112.066961
-UT-Incident--174294,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
-WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 11:20 AM","1/22/24, 10:18 AM","1/22/24, 4:10 PM","1/22/24, 10:18 AM",,40.362967,-111.560551
 UT-Incident--174297,Incidents,US 40,Uintah County,US 40 at MP 142,"Crash
 NB US 40 at MP 142 (Vernal) Uintah Co.
 Right Lane Closed
 Est. Clearance Time: 12:45 PM","1/22/24, 11:48 AM","1/22/24, 12:45 PM","1/22/24, 12:16 PM",,40.439938,-109.564119
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174298,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 1:30 PM","1/22/24, 12:02 PM","1/22/24, 1:30 PM","1/22/24, 12:34 PM",,40.578741,-111.900284
+UT-Incident--174294,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
+WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 11:20 AM","1/22/24, 10:18 AM","1/22/24, 4:10 PM","1/22/24, 10:18 AM",,40.362967,-111.560551
