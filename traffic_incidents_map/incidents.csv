@@ -5879,7 +5879,6 @@ UT-Incident--174300,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:10 PM","1/22/24, 12:09 PM","1/22/24, 1:10 PM","1/22/24, 12:09 PM",,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174295,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy 9200 S,"Crash
 NB Bangerter Hwy at 9200 S (Salt Lake County)
 2 Right Lanes Closed
@@ -5892,10 +5891,11 @@ NB US 40 at MP 142 (Vernal) Uintah Co.
 Right Lane Closed
 Est. Clearance Time: 12:45 PM","1/22/24, 11:48 AM","1/22/24, 12:45 PM","1/22/24, 12:16 PM",,40.439938,-109.564119
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174298,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 1:30 PM","1/22/24, 12:02 PM","1/22/24, 1:30 PM","1/22/24, 12:34 PM",,40.578741,-111.900284
+Right Shoulder
+Est. Clearance Time: 1:30 PM","1/22/24, 12:02 PM","1/22/24, 1:30 PM","1/22/24, 12:53 PM",,40.578741,-111.900284
 UT-Incident--174294,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Lane Closed
