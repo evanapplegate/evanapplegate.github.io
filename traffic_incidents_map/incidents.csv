@@ -5805,7 +5805,6 @@ Est. Clearance Time: 2:30 PM","1/21/24, 12:28 PM","1/21/24, 2:30 PM","1/21/24, 1
 UT-Incident--174274,Incidents,US 89,Box Elder County,US 89 at MP 431,"Crash
 US 89 at MP 431 (3000 S / Perry) Box Elder Co.
 Est. Clearance Time: 3:00 PM","1/21/24, 1:58 PM","1/21/24, 3:00 PM","1/21/24, 1:58 PM",,41.454315,-112.038678
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174276,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Crash
 Ramp NB Legacy Pkwy at MP 4 (500 S on ramp in Woods Cross) Davis Co.
 Right shoulder closed
@@ -5819,6 +5818,11 @@ UT-Incident--174278,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Vehicle on f
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 6:11 PM","1/21/24, 5:12 PM","1/21/24, 6:11 PM","1/21/24, 5:12 PM",,40.74966,-111.90976
+UT-Incident--174279,Incidents,SR 73,Utah County,SR 73 at MP 36,"Stalled Vehicle
+WB SR 73 at MP 36 (SR-85) Utah Co.
+Center Lane Closed
+Est. Clearance Time: 6:15 PM","1/21/24, 5:28 PM","1/21/24, 6:15 PM","1/21/24, 5:28 PM",,40.387493,-111.924536
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174275,Incidents,I-80,Tooele County,I-80 at MP 13,"Crash
 EB I-80 at MP 13 (14 mi E of Wendover) Tooele Co.
 Right Lane Closed
@@ -5826,7 +5830,7 @@ Est. Clearance Time: 8:30 PM","1/21/24, 3:23 PM","1/21/24, 8:30 PM","1/21/24, 4:
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
 Semis are prohibited","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 8:06 AM",,37.653126,-112.985953
-UT-Incident--174279,Incidents,SR 73,Utah County,SR 73 at MP 36,"Stalled Vehicle
-WB SR 73 at MP 36 (SR-85) Utah Co.
-Center Lane Closed
-Est. Clearance Time: 6:15 PM","1/21/24, 5:28 PM","1/21/24, 6:15 PM","1/21/24, 5:28 PM",,40.387493,-111.924536
+UT-Incident--174281,Incidents,SR 144,Utah County,SR 144 at MP 2,"Road weather/Avalanche
+Both Directions SR 144 at MP 2 (Tibble Fork Reservoir) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1/22/2024 11:49 PM","1/21/24, 6:00 PM","1/22/24, 11:49 PM","1/21/24, 6:00 PM",,40.479088,-111.647122
