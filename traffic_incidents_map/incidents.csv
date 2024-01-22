@@ -5849,23 +5849,30 @@ NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","1/22/24, 6:57 AM","1/22/24, 9:00 AM","1/22/24, 6:57 AM",,40.717792,-111.95364
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174284,Incidents,5600 W,Salt Lake County,5600 W at 5600 S,"Crash
-SB 5600 W at 5500 S Salt Lake Co.
-Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 9:57 AM","1/22/24, 7:30 AM",,0.0,0.0
 UT-Incident--174286,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:43 AM","1/22/24, 5:48 AM","1/22/24, 7:43 AM","1/22/24, 6:50 AM",,40.726429,-112.217783
-UT-Incident--174288,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
-EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
-Est. Clearance Time: 7:10 AM","1/22/24, 6:07 AM","1/22/24, 7:10 AM","1/22/24, 6:07 AM",,40.726429,-112.217783
 UT-Incident--174290,Incidents,I-80,Tooele County,I-80 at MP 84,"Crash
 WB I-80 at MP 84 (SR 138 / Grantsville) Tooele Co.
 Est. Clearance Time: 9:00 AM","1/22/24, 6:59 AM","1/22/24, 9:00 AM","1/22/24, 6:59 AM",,40.706401,-112.518586
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174284,Incidents,5600 W,Salt Lake County,5600 W at 5600 S,"Crash
+SB 5600 W at 5500 S Salt Lake Co.
+Right Lane Closed","1/22/24, 1:16 AM","1/23/24, 9:57 AM","1/22/24, 7:30 AM",,0.0,0.0
+UT-Incident--174288,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
+EB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
+Est. Clearance Time: 7:10 AM","1/22/24, 6:07 AM","1/22/24, 7:10 AM","1/22/24, 6:07 AM",,40.726429,-112.217783
+UT-Incident--174292,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
+EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
+Est. Clearance Time: 9:30 AM","1/22/24, 7:54 AM","1/22/24, 9:30 AM","1/22/24, 7:54 AM",,40.771145,-112.066961
 UT-Incident--174261,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Directions SR 14 between MP 5 - MP 41  Iron Co.
 Semis are prohibited","1/21/24, 3:38 AM","1/21/24, 4:35 AM","1/21/24, 8:06 AM",,37.653126,-112.985953
+UT-Incident--174293,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
+EB SR 201 at MP 10 (5600 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","1/22/24, 7:58 AM","1/22/24, 9:30 AM","1/22/24, 7:58 AM",,40.724933,-112.039659
 UT-Incident--174291,Incidents,SR 35,Duchesne County,SR 35 at MP 51,"Crash
 NB SR 35 at MP 51 (9 Mi E of Tabiona) Duchesne Co.
 Est. Clearance Time: 8:20 AM","1/22/24, 7:16 AM","1/22/24, 8:20 AM","1/22/24, 7:16 AM",,40.296387,-110.572263
