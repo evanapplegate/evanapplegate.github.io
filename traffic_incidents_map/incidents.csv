@@ -6008,10 +6008,13 @@ SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:46 PM","1/23/24, 11:47 AM","1/23/24, 12:46 PM","1/23/24, 11:47 AM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174345,Incidents,24th St,Weber County,24th St at Washington Blvd,"Crash
 NB 24th St at Washington Blvd Weber Co.
 Est. Clearance Time: 1:00 PM","1/23/24, 12:00 PM","1/23/24, 1:00 PM","1/23/24, 12:00 PM",,41.22277,-111.971488
+UT-Incident--174346,Incidents,SR 28,Sanpete County,SR 28 at MP 6,"Vehicle on fire
+Other SR 28 at MP 6 (Fayette) Sanpete Co.
+Est. Clearance Time: 1:45 PM","1/23/24, 12:45 PM","1/23/24, 1:45 PM","1/23/24, 12:45 PM",,39.237759,-111.84886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
 SB 600 N at 300 W Salt Lake Co.
 Right Lane Closed
@@ -6020,6 +6023,7 @@ UT-Incident--174347,Incidents,I-84,Weber County,I-84 at MP 89,"Stalled Vehicle
 EB I-84 at MP 89 (3 mi W of Mountain Green) Weber Co.
 Right Shoulder
 Est. Clearance Time: 2:17 PM","1/23/24, 1:18 PM","1/23/24, 2:17 PM","1/23/24, 1:18 PM",,41.137683,-111.891191
-UT-Incident--174346,Incidents,SR 28,Sanpete County,SR 28 at MP 6,"Vehicle on fire
-Other SR 28 at MP 6 (Fayette) Sanpete Co.
-Est. Clearance Time: 1:45 PM","1/23/24, 12:45 PM","1/23/24, 1:45 PM","1/23/24, 12:45 PM",,39.237759,-111.84886
+UT-Incident--174348,Incidents,SR 210,Salt Lake County,SR 210 at MP 8,"Stalled Vehicle
+EB SR 210 at MP 8 (Tanners Flat) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:19 PM","1/23/24, 1:21 PM","1/23/24, 2:19 PM","1/23/24, 1:21 PM",,40.570958,-111.701968
