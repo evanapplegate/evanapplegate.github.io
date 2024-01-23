@@ -5983,11 +5983,6 @@ NB I-15 To I-215 Col S Ramp at I-215 EB (7200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:30 AM","1/23/24, 9:28 AM","1/23/24, 10:30 AM","1/23/24, 9:28 AM",,40.62002,-111.903638
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
-SB 600 N at 300 W Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 2:30 PM","1/23/24, 8:29 AM","1/25/24, 2:30 PM","1/23/24, 8:35 AM",,40.782386,-111.899682
 UT-Incident--174339,Incidents,600 S,Salt Lake County,600 S at 300 W,"Crash
 EB 600 S at 450 W Salt Lake Co.
 Right Shoulder
@@ -6005,3 +6000,12 @@ Est. Clearance Time: 11:40 AM","1/23/24, 10:40 AM","1/23/24, 11:40 AM","1/23/24,
 UT-Incident--174325,Incidents,SR 83,Box Elder County,SR 83 at MP 1,"Crash
 Other SR 83 at MP 1 (1 Mi E of Corinne) Box Elder Co.
 Est. Clearance Time: 11:30 AM","1/23/24, 6:57 AM","1/23/24, 11:30 AM","1/23/24, 9:53 AM",,41.55911,-112.148069
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
+SB 600 N at 300 W Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:30 PM","1/23/24, 8:29 AM","1/25/24, 2:30 PM","1/23/24, 8:35 AM",,40.782386,-111.899682
+UT-Incident--174343,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Stalled Vehicle
+WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:19 PM","1/23/24, 11:23 AM","1/23/24, 12:19 PM","1/23/24, 11:23 AM",,40.747119,-111.724705
