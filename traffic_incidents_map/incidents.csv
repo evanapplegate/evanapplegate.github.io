@@ -5971,7 +5971,6 @@ UT-Incident--174332,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:13 AM","1/23/24, 8:15 AM","1/23/24, 9:13 AM","1/23/24, 8:15 AM",,40.724124,-111.943886
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174338,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Stalled Vehicle
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Shoulder
@@ -5979,6 +5978,7 @@ Est. Clearance Time: 10:41 AM","1/23/24, 9:41 AM","1/23/24, 10:41 AM","1/23/24, 
 UT-Incident--174336,Incidents,US 89,Weber County,US 89 6660,"Crash
 NB US 89  @ 6600 S (Weber County)
 Est. Clearance Time: 9:50 AM","1/23/24, 8:46 AM","1/23/24, 9:50 AM","1/23/24, 8:48 AM",,41.138662,-111.914853
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
 SB 600 N at 300 W Salt Lake Co.
