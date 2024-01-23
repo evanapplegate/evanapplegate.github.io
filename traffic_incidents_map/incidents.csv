@@ -5945,7 +5945,6 @@ SB Wall Ave closed at Harrisville Rd
 NB Wall Ave Closed at North Street
 Weber Co.","1/22/24, 5:26 PM","1/22/24, 8:45 PM","1/22/24, 6:21 PM",,41.26761,-111.977767
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174317,Incidents,4500 S,Salt Lake County,4500 S at 1300 E,"Crash
 WB 4500 S Closed
  at 1300 E Salt Lake Co.
@@ -5954,3 +5953,14 @@ UT-Incident--174318,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 Ramp WB I-80 at MP 124 (700 E Onramp) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:34 PM","1/22/24, 10:37 PM","1/22/24, 11:34 PM","1/22/24, 10:37 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174331,Incidents,3000 N,Iron County,3000 N at Hwy 130/Minersville Hwy/Old H*,"Crash
+SB HWY 130 at 3000 N (Iron County)
+Est. Clearance Time: 8:50 AM","1/23/24, 7:44 AM","1/23/24, 8:50 AM","1/23/24, 7:44 AM",,37.731188,-113.055213
+UT-Incident--174330,Incidents,I-15,Utah County,I-15 at MP 268,"Stalled Vehicle
+NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:40 AM","1/23/24, 7:41 AM","1/23/24, 8:40 AM","1/23/24, 7:41 AM",,40.262286,-111.70752
+UT-Incident--174325,Incidents,SR 83,Box Elder County,SR 83 at MP 1,"Crash
+Other SR 83 at MP 1 (1 Mi E of Corinne) Box Elder Co.
+Est. Clearance Time: 10:00 AM","1/23/24, 6:57 AM","1/23/24, 10:00 AM","1/23/24, 7:54 AM",,41.55911,-112.148069
