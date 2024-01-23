@@ -5907,7 +5907,6 @@ SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:29 PM","1/22/24, 3:29 PM","1/22/24, 4:29 PM","1/22/24, 3:29 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174309,Incidents,200 S,Davis County,200 S at Center St,"Crash
 All Directions 205 S at Center St (Clearfield) Davis Co.
 Est. Clearance Time: 5:30 PM","1/22/24, 4:23 PM","1/22/24, 5:30 PM","1/22/24, 4:23 PM",,41.110843,-112.028137
@@ -5926,3 +5925,16 @@ UT-Incident--174294,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 11:20 AM","1/22/24, 10:18 AM","1/22/24, 4:10 PM","1/22/24, 10:18 AM",,40.362967,-111.560551
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174311,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+WB SR 201 at MP 9 (6800 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:04 PM","1/22/24, 5:04 PM","1/22/24, 6:04 PM","1/22/24, 5:04 PM",View on map,40.718554,-112.056887
+UT-Incident--174310,Incidents,US 89,Sanpete County,US 89 at MP 263,"Crash
+NB US 89 at MP 263 (300 N / Ephraim) Sanpete Co.
+Right Shoulder
+Est. Clearance Time: 5:56 PM","1/22/24, 4:57 PM","1/22/24, 5:56 PM","1/22/24, 4:57 PM",View on map,39.364619,-111.587058
+UT-Incident--174312,Incidents,WALL AVE,Weber County,WALL AVE at NORTH ST,"Fire affecting roadway
+SB WALL AVE at NORTH ST Weber Co.
+Left Lane Closed
+Est. Clearance Time: 7:25 PM","1/22/24, 5:26 PM","1/22/24, 7:25 PM","1/22/24, 5:26 PM",View on map,41.26761,-111.977767
