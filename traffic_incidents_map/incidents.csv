@@ -5956,7 +5956,6 @@ UT-Incident--174330,Incidents,I-15,Utah County,I-15 at MP 268,"Stalled Vehicle
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:40 AM","1/23/24, 7:41 AM","1/23/24, 8:40 AM","1/23/24, 7:41 AM",,40.262286,-111.70752
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174331,Incidents,3000 N,Iron County,3000 N at Hwy 130/Minersville Hwy/Old H*,"Crash
 SB HWY 130 at 3000 N (Iron County)
 Est. Clearance Time: 8:50 AM","1/23/24, 7:44 AM","1/23/24, 8:50 AM","1/23/24, 7:44 AM",,37.731188,-113.055213
@@ -5972,6 +5971,7 @@ UT-Incident--174332,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:13 AM","1/23/24, 8:15 AM","1/23/24, 9:13 AM","1/23/24, 8:15 AM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
 SB 600 N at 300 W Salt Lake Co.
