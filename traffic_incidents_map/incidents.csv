@@ -6028,7 +6028,6 @@ UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility wor
 SB 600 N at 300 W Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","1/23/24, 8:29 AM","1/25/24, 2:30 PM","1/23/24, 8:35 AM",,40.782386,-111.899682
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174352,Incidents,3100 W,Weber County,3100 W at 5600 S,"Crash
 NB 3100 W at 5600 S Weber Co.
 Est. Clearance Time: 4:15 PM","1/23/24, 3:05 PM","1/23/24, 4:15 PM","1/23/24, 3:05 PM",,0.0,0.0
@@ -6044,6 +6043,11 @@ UT-Incident--174354,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","1/23/24, 3:55 PM","1/23/24, 5:00 PM","1/23/24, 3:55 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174355,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
+NB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","1/23/24, 4:10 PM","1/23/24, 5:15 PM","1/23/24, 4:10 PM",,40.725407,-111.98629
 UT-Incident--174353,Incidents,SR 39,Weber County,SR 39 at MP 5,"Crash
 EB SR 39 at MP 5 (Ogden) Weber Co.
 Right Lane Closed
