@@ -5952,7 +5952,6 @@ UT-Incident--174318,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 Ramp WB I-80 at MP 124 (700 E Onramp) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:34 PM","1/22/24, 10:37 PM","1/22/24, 11:34 PM","1/22/24, 10:37 PM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174330,Incidents,I-15,Utah County,I-15 at MP 268,"Stalled Vehicle
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
@@ -5961,10 +5960,6 @@ Est. Clearance Time: 8:40 AM","1/23/24, 7:41 AM","1/23/24, 8:40 AM","1/23/24, 7:
 UT-Incident--174331,Incidents,3000 N,Iron County,3000 N at Hwy 130/Minersville Hwy/Old H*,"Crash
 SB HWY 130 at 3000 N (Iron County)
 Est. Clearance Time: 8:50 AM","1/23/24, 7:44 AM","1/23/24, 8:50 AM","1/23/24, 7:44 AM",,37.731188,-113.055213
-UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
-SB 600 N at 300 W Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 2:30 PM","1/23/24, 8:29 AM","1/25/24, 2:30 PM","1/23/24, 8:35 AM",,40.782386,-111.899682
 UT-Incident--174333,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
 NB I-15 at MP 290 (13200 S) Salt Lake Co.
 Left Shoulder
@@ -5977,6 +5972,14 @@ UT-Incident--174332,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:13 AM","1/23/24, 8:15 AM","1/23/24, 9:13 AM","1/23/24, 8:15 AM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174334,Incidents,600 N,Salt Lake County,600 N at 300 W,"Utility work
+SB 600 N at 300 W Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:30 PM","1/23/24, 8:29 AM","1/25/24, 2:30 PM","1/23/24, 8:35 AM",,40.782386,-111.899682
 UT-Incident--174325,Incidents,SR 83,Box Elder County,SR 83 at MP 1,"Crash
 Other SR 83 at MP 1 (1 Mi E of Corinne) Box Elder Co.
 Est. Clearance Time: 10:00 AM","1/23/24, 6:57 AM","1/23/24, 10:00 AM","1/23/24, 7:54 AM",,41.55911,-112.148069
+UT-Incident--174336,Incidents,US 89,Weber County,US 89 6660,"Crash
+NB US 89  @ 6600 S (Weber County)
+Est. Clearance Time: 9:50 AM","1/23/24, 8:46 AM","1/23/24, 9:50 AM","1/23/24, 8:48 AM",,41.138662,-111.914853
