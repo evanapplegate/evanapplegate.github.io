@@ -6104,14 +6104,10 @@ UT-Incident--174378,Incidents,I-215W NB X25 OFF 2100 N RAMP,Salt Lake County,I-2
 NB I-215 W 2100 N Offramp (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:30 AM","1/24/24, 6:26 AM","1/24/24, 7:30 AM","1/24/24, 6:26 AM",,40.808446,-111.948867
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174380,Incidents,US 89,Sanpete County,US 89 at MP 273,"Crash
 US 89 at MP 273 (4 miles SW of Mt Pleasant) Sanpete Co.
 Est. Clearance Time: 8:20 AM","1/24/24, 7:22 AM","1/24/24, 8:20 AM","1/24/24, 7:22 AM",,39.494383,-111.510114
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174383,Incidents,HWY 35,Summit County,HWY 35 at LOWER RIVER RD,"Crash
-HWY 35 at LOWER RIVER RD Summit Co.
-Est. Clearance Time: 9:00 AM","1/24/24, 8:01 AM","1/24/24, 9:00 AM","1/24/24, 8:01 AM",,40.588898,-111.242251
 UT-Incident--174382,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder 
@@ -6120,3 +6116,15 @@ UT-Incident--174379,Incidents,I-15 SB X305B OFF 2100 S RAMP,Salt Lake County,I-1
 SB I-15 Ramp to SR-201/2100 S (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","1/24/24, 6:54 AM","1/24/24, 8:00 AM","1/24/24, 7:27 AM",,40.731555,-111.905243
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174383,Incidents,HWY 35,Summit County,HWY 35 at LOWER RIVER RD,"Crash
+HWY 35 at LOWER RIVER RD Summit Co.
+Est. Clearance Time: 9:00 AM","1/24/24, 8:01 AM","1/24/24, 9:00 AM","1/24/24, 8:01 AM",,40.588898,-111.242251
+UT-Incident--174385,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (14000 S, Draper) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","1/24/24, 8:20 AM","1/24/24, 9:30 AM","1/24/24, 8:20 AM",,40.490501,-111.892127
+UT-Incident--174384,Incidents,Riverdale Rd,Weber County,Riverdale Rd 3500,"Crash
+WB 3500 Riverdale Rd Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:18 AM","1/24/24, 8:19 AM","1/24/24, 9:18 AM","1/24/24, 8:19 AM",,41.199985,-111.971514
