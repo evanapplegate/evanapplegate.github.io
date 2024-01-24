@@ -6119,7 +6119,6 @@ UT-Incident--174385,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (14000 S, Draper) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","1/24/24, 8:20 AM","1/24/24, 9:30 AM","1/24/24, 8:20 AM",,40.490501,-111.892127
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174384,Incidents,Riverdale Rd,Weber County,Riverdale Rd 3500,"Crash
 WB 3500 Riverdale Rd Weber Co.
 Right Shoulder
@@ -6133,6 +6132,11 @@ UT-Incident--174388,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:50 AM","1/24/24, 8:48 AM","1/24/24, 9:50 AM","1/24/24, 8:51 AM",,40.831692,-111.91596
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174390,Incidents,I-15 SB X269 Off Univ Pkwy Ramp,Utah County,I-15 SB X269 Off Univ Pkwy Ramp at University Pkwy,"Crash
+SB I-15 269 Univ Pkwy Off Ramp (Utah County)
+Right Shoulder
+Est. Clearance Time: 10:30 AM","1/24/24, 9:25 AM","1/24/24, 10:30 AM","1/24/24, 9:25 AM",,40.283366,-111.725286
 UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
 SB I-80 124 State St Off Ramp (Salt Lake County)
 Right Lane Closed
