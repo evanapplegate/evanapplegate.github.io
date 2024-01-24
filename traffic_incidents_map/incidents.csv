@@ -6149,7 +6149,6 @@ UT-Incident--174394,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","1/24/24, 11:26 AM","1/24/24, 12:30 PM","1/24/24, 11:26 AM",,40.337197,-111.749203
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174391,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
@@ -6158,6 +6157,7 @@ UT-Incident--174393,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","1/24/24, 11:23 AM","1/24/24, 12:30 PM","1/24/24, 11:23 AM",,40.718332,-111.893095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
 SB I-80 124 State St Off Ramp (Salt Lake County)
