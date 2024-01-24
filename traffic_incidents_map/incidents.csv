@@ -6177,11 +6177,15 @@ UT-Incident--174400,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:30 PM","1/24/24, 2:25 PM","1/24/24, 3:30 PM","1/24/24, 2:25 PM",,40.715578,-111.784616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174401,Incidents,Hwy 224,Summit County,Hwy 224 at Holiday Ranch Loop Rd,"Crash
 Both Directions Hwy 224 at Holiday Ranch Loop Rd Summit Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","1/24/24, 2:47 PM","1/24/24, 3:45 PM","1/24/24, 2:47 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
+SB I-80 124 State St Off Ramp (Salt Lake County)
+Right Lane Closed
+Est. Clearance Time: 3:30 PM","1/24/24, 8:42 AM","1/24/24, 3:30 PM",,,40.718043,-111.893969
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174404,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
 All Directions 4000 S at Midland Dr (Roy) Weber Co.
@@ -6198,10 +6202,6 @@ UT-Incident--174407,Incidents,I-15,Utah County,I-15 at MP 275,"Stalled Vehicle
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:18 PM","1/24/24, 3:19 PM","1/24/24, 4:18 PM",,,40.346539,-111.763778
-UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
-SB I-80 124 State St Off Ramp (Salt Lake County)
-Right Lane Closed
-Est. Clearance Time: 3:30 PM","1/24/24, 8:42 AM","1/24/24, 3:30 PM",,,40.718043,-111.893969
 UT-Incident--174405,Incidents,Pennsylvania Ave,Weber County,Pennsylvania Ave at Hinckley Dr,"Crash
 SB Pennsylvania Ave at Hinckley Dr Weber Co.
 Left Lane Closed
