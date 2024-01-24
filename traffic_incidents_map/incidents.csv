@@ -6185,7 +6185,6 @@ UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-
 SB I-80 124 State St Off Ramp (Salt Lake County)
 Right Lane Closed
 Est. Clearance Time: 3:30 PM","1/24/24, 8:42 AM","1/24/24, 3:30 PM",,,40.718043,-111.893969
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174407,Incidents,I-15,Utah County,I-15 at MP 275,"Stalled Vehicle
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -6194,15 +6193,23 @@ Est. Clearance Time: 4:18 PM","1/24/24, 3:19 PM","1/24/24, 4:18 PM",,,40.346539,
 UT-Incident--174404,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
 All Directions 4000 S at Midland Dr (Roy) Weber Co.
 Est. Clearance Time: 4:30 PM","1/24/24, 2:59 PM","1/24/24, 4:30 PM",,,41.190672,-112.048299
-UT-Incident--174402,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9800 S/Shields Ln,"Crash
-NB Bangerter Hwy at 9800 S/Shields Ln Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 4:00 PM","1/24/24, 2:54 PM","1/24/24, 4:00 PM",,,40.572668,-111.977146
-UT-Incident--174403,Incidents,HWY 73,Utah County,HWY 73 at 800 W,"Crash
-NB Mountain View Corr at Cory Wride Hwy (Saratoga Springs) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","1/24/24, 2:56 PM","1/24/24, 6:00 PM",,,40.38701,-111.9355
 UT-Incident--174405,Incidents,Pennsylvania Ave,Weber County,Pennsylvania Ave at Hinckley Dr,"Crash
 SB Pennsylvania Ave at Hinckley Dr Weber Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","1/24/24, 3:09 PM","1/24/24, 4:15 PM",,,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174402,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9800 S/Shields Ln,"Crash
+NB Bangerter Hwy at 9800 S/Shields Ln Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:00 PM","1/24/24, 2:54 PM","1/24/24, 4:00 PM","1/24/24, 3:38 PM",,40.572668,-111.977146
+UT-Incident--174403,Incidents,HWY 73,Utah County,HWY 73 at 800 W,"Crash
+NB Mountain View Corr at Cory Wride Hwy (Saratoga Springs) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 PM","1/24/24, 2:56 PM","1/24/24, 6:00 PM","1/24/24, 3:03 PM",,40.38701,-111.9355
+UT-Incident--174408,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Debris
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Est. Clearance Time: 4:44 PM","1/24/24, 3:45 PM","1/24/24, 4:44 PM","1/24/24, 3:45 PM",,40.777705,-111.910735
+UT-Incident--174409,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","1/24/24, 3:49 PM","1/24/24, 5:00 PM","1/24/24, 3:49 PM",,40.707874,-111.90397
