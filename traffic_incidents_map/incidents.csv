@@ -6058,7 +6058,6 @@ UT-Incident--174357,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 On Ramp (Hill Field Rd) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","1/23/24, 4:43 PM","1/23/24, 5:45 PM","1/23/24, 4:43 PM",,41.066718,-111.970064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174361,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
 Right Shoulder
@@ -6067,7 +6066,16 @@ UT-Incident--174359,Incidents,SR 39,Weber County,SR 39 at MP 9,"Debris
 WB SR 39 at MP 9 (1 mile east of Ogden) Weber Co.
 Est. Clearance Time: 6:00 PM","1/23/24, 5:05 PM","1/23/24, 6:00 PM","1/23/24, 5:05 PM",,41.236707,-111.923062
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174368,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 8:00 PM","1/23/24, 6:54 PM","1/23/24, 8:00 PM","1/23/24, 6:54 PM",,40.373184,-111.808465
 UT-Incident--174367,Incidents,I-80,Summit County,I-80 at MP 142,"Lane Closure
 WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Center Lane Closed
 Est. Clearance Time: 7:30 PM","1/23/24, 6:27 PM","1/23/24, 7:30 PM","1/23/24, 6:27 PM",,40.751955,-111.569589
+UT-Incident--174369,Incidents,US 89,Salt Lake County,US 89 at MP 371,"Crash
+SB US 89 at MP 371 (5900 S / Murray) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:00 PM","1/23/24, 6:58 PM","1/23/24, 10:00 PM","1/23/24, 7:12 PM",,40.652965,-111.888384
