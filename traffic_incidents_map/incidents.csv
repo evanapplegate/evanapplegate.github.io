@@ -6165,16 +6165,20 @@ UT-Incident--174397,Incidents,HWY 36,Tooele County,HWY 36 at ERDA WAY,"Crash
 NB HWY 36 at ERDA WAY Tooele Co.
 Right Shoulder
 Est. Clearance Time: 1:20 PM","1/24/24, 12:18 PM","1/24/24, 1:20 PM","1/24/24, 12:18 PM",,40.601796,-112.294222
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174398,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 NB I-15 at MP 340 (Riverdale) Weber Co.
 Right Shoulder
 Est. Clearance Time: 2:15 PM","1/24/24, 1:14 PM","1/24/24, 2:15 PM","1/24/24, 1:14 PM",,41.182676,-112.014444
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174399,Incidents,700 E,Salt Lake County,700 E at 9000 S,"Crash
 WB 700 E at 9000 S Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 3:00 PM","1/24/24, 1:58 PM","1/24/24, 3:00 PM","1/24/24, 1:58 PM",,40.588114,-111.872128
+UT-Incident--174400,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
+WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 3:30 PM","1/24/24, 2:25 PM","1/24/24, 3:30 PM","1/24/24, 2:25 PM",,40.715578,-111.784616
 UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
 SB I-80 124 State St Off Ramp (Salt Lake County)
 Right Lane Closed
