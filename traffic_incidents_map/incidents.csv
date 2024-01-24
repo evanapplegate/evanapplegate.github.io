@@ -6142,11 +6142,6 @@ UT-Incident--174383,Incidents,SR 35,Summit County,SR 35 at MP 3,"Crash
 SR 35 at MP 3 (2 Mi E of Francis) Summit Co.
 Est. Clearance Time: 10:00 AM","1/24/24, 8:01 AM","1/24/24, 10:00 AM","1/24/24, 8:51 AM",,40.588846,-111.242282
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174391,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-SB I-15 at MP 295 (9000 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 12:00 PM","1/24/24, 10:53 AM","1/24/24, 12:00 PM","1/24/24, 10:53 AM",,40.578741,-111.900284
 UT-Incident--174392,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -6155,6 +6150,11 @@ UT-Incident--174394,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","1/24/24, 11:26 AM","1/24/24, 12:30 PM","1/24/24, 11:26 AM",,40.337197,-111.749203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174391,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:00 PM","1/24/24, 10:53 AM","1/24/24, 12:00 PM","1/24/24, 10:53 AM",,40.578741,-111.900284
 UT-Incident--174393,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Left Shoulder
