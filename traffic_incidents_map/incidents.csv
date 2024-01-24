@@ -6046,7 +6046,6 @@ UT-Incident--174353,Incidents,SR 39,Weber County,SR 39 at MP 5,"Crash
 EB SR 39 at MP 5 (Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:00 PM","1/23/24, 3:51 PM","1/23/24, 5:00 PM","1/23/24, 3:51 PM",,41.244447,-111.99682
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174355,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
 NB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.
 Right Shoulder
@@ -6067,3 +6066,8 @@ Est. Clearance Time: 6:25 PM","1/23/24, 5:17 PM","1/23/24, 6:25 PM","1/23/24, 5:
 UT-Incident--174359,Incidents,SR 39,Weber County,SR 39 at MP 9,"Debris
 WB SR 39 at MP 9 (1 mile east of Ogden) Weber Co.
 Est. Clearance Time: 6:00 PM","1/23/24, 5:05 PM","1/23/24, 6:00 PM","1/23/24, 5:05 PM",,41.236707,-111.923062
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174367,Incidents,I-80,Summit County,I-80 at MP 142,"Lane Closure
+WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
+Center Lane Closed
+Est. Clearance Time: 7:30 PM","1/23/24, 6:27 PM","1/23/24, 7:30 PM","1/23/24, 6:27 PM",,40.751955,-111.569589
