@@ -6042,7 +6042,6 @@ UT-Incident--174354,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","1/23/24, 3:55 PM","1/23/24, 5:00 PM","1/23/24, 3:55 PM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174353,Incidents,SR 39,Weber County,SR 39 at MP 5,"Crash
 EB SR 39 at MP 5 (Ogden) Weber Co.
 Right Lane Closed
@@ -6060,3 +6059,11 @@ UT-Incident--174357,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 On Ramp (Hill Field Rd) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","1/23/24, 4:43 PM","1/23/24, 5:45 PM","1/23/24, 4:43 PM",,41.066718,-111.970064
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174361,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:25 PM","1/23/24, 5:17 PM","1/23/24, 6:25 PM","1/23/24, 5:17 PM",,40.578741,-111.900284
+UT-Incident--174359,Incidents,SR 39,Weber County,SR 39 at MP 9,"Debris
+WB SR 39 at MP 9 (1 mile east of Ogden) Weber Co.
+Est. Clearance Time: 6:00 PM","1/23/24, 5:05 PM","1/23/24, 6:00 PM","1/23/24, 5:05 PM",,41.236707,-111.923062
