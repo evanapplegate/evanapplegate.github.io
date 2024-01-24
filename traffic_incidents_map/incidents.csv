@@ -6123,7 +6123,6 @@ UT-Incident--174384,Incidents,Riverdale Rd,Weber County,Riverdale Rd 3500,"Crash
 WB 3500 Riverdale Rd Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:18 AM","1/24/24, 8:19 AM","1/24/24, 9:18 AM","1/24/24, 8:19 AM",,41.199985,-111.971514
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174387,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S, Draper) Salt Lake Co.
 Right Shoulder
@@ -6137,13 +6136,14 @@ UT-Incident--174390,Incidents,I-15 SB X269 Off Univ Pkwy Ramp,Utah County,I-15 S
 SB I-15 269 Univ Pkwy Off Ramp (Utah County)
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/24/24, 9:25 AM","1/24/24, 10:30 AM","1/24/24, 9:25 AM",,40.283366,-111.725286
-UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
-SB I-80 124 State St Off Ramp (Salt Lake County)
-Right Lane Closed
-Est. Clearance Time: 3:30 PM","1/24/24, 8:42 AM","1/24/24, 3:30 PM","1/24/24, 8:42 AM",,40.718043,-111.893969
 UT-Incident--174389,Incidents,KEARNS BLVD,Summit County,KEARNS BLVD 2783,"Crash
 EB SR-248 at MP 2 (Park City) Summit Co.
 Est. Clearance Time: 10:00 AM","1/24/24, 9:00 AM","1/24/24, 10:00 AM","1/24/24, 9:00 AM",,40.671224,-111.475021
 UT-Incident--174383,Incidents,SR 35,Summit County,SR 35 at MP 3,"Crash
 SR 35 at MP 3 (2 Mi E of Francis) Summit Co.
 Est. Clearance Time: 10:00 AM","1/24/24, 8:01 AM","1/24/24, 10:00 AM","1/24/24, 8:51 AM",,40.588846,-111.242282
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
+SB I-80 124 State St Off Ramp (Salt Lake County)
+Right Lane Closed
+Est. Clearance Time: 3:30 PM","1/24/24, 8:42 AM","1/24/24, 3:30 PM","1/24/24, 8:42 AM",,40.718043,-111.893969
