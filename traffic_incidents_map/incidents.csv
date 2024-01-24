@@ -6196,7 +6196,6 @@ UT-Incident--174405,Incidents,Pennsylvania Ave,Weber County,Pennsylvania Ave at 
 SB Pennsylvania Ave at Hinckley Dr Weber Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","1/24/24, 3:09 PM","1/24/24, 4:15 PM",,,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174402,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9800 S/Shields Ln,"Crash
 NB Bangerter Hwy at 9800 S/Shields Ln Salt Lake Co.
 Right Lane Closed
@@ -6208,6 +6207,7 @@ UT-Incident--174409,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","1/24/24, 3:49 PM","1/24/24, 5:00 PM","1/24/24, 3:49 PM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174403,Incidents,HWY 73,Utah County,HWY 73 at 800 W,"Crash
 NB Mountain View Corr at Cory Wride Hwy (Saratoga Springs) Utah Co.
