@@ -6065,7 +6065,6 @@ Est. Clearance Time: 6:25 PM","1/23/24, 5:17 PM","1/23/24, 6:25 PM","1/23/24, 5:
 UT-Incident--174359,Incidents,SR 39,Weber County,SR 39 at MP 9,"Debris
 WB SR 39 at MP 9 (1 mile east of Ogden) Weber Co.
 Est. Clearance Time: 6:00 PM","1/23/24, 5:05 PM","1/23/24, 6:00 PM","1/23/24, 5:05 PM",,41.236707,-111.923062
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174368,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 2 Left Lanes Closed
@@ -6074,6 +6073,7 @@ UT-Incident--174367,Incidents,I-80,Summit County,I-80 at MP 142,"Lane Closure
 WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Center Lane Closed
 Est. Clearance Time: 7:30 PM","1/23/24, 6:27 PM","1/23/24, 7:30 PM","1/23/24, 6:27 PM",,40.751955,-111.569589
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174370,Incidents,5600 S,Weber County,5600 S 2815,"Crash
 WB 5600 S at 3100 W (Roy) Weber Co.
