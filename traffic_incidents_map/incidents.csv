@@ -6131,7 +6131,6 @@ UT-Incident--174388,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:50 AM","1/24/24, 8:48 AM","1/24/24, 9:50 AM","1/24/24, 8:51 AM",,40.831692,-111.91596
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174390,Incidents,I-15 SB X269 Off Univ Pkwy Ramp,Utah County,I-15 SB X269 Off Univ Pkwy Ramp at University Pkwy,"Crash
 SB I-15 269 Univ Pkwy Off Ramp (Utah County)
 Right Shoulder
@@ -6142,6 +6141,7 @@ Est. Clearance Time: 10:00 AM","1/24/24, 9:00 AM","1/24/24, 10:00 AM","1/24/24, 
 UT-Incident--174383,Incidents,SR 35,Summit County,SR 35 at MP 3,"Crash
 SR 35 at MP 3 (2 Mi E of Francis) Summit Co.
 Est. Clearance Time: 10:00 AM","1/24/24, 8:01 AM","1/24/24, 10:00 AM","1/24/24, 8:51 AM",,40.588846,-111.242282
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
 SB I-80 124 State St Off Ramp (Salt Lake County)
