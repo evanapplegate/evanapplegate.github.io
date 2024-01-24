@@ -6169,7 +6169,6 @@ UT-Incident--174398,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 NB I-15 at MP 340 (Riverdale) Weber Co.
 Right Shoulder
 Est. Clearance Time: 2:15 PM","1/24/24, 1:14 PM","1/24/24, 2:15 PM","1/24/24, 1:14 PM",,41.182676,-112.014444
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174399,Incidents,700 E,Salt Lake County,700 E at 9000 S,"Crash
 WB 700 E at 9000 S Salt Lake Co.
 2 Right Lanes Closed
@@ -6179,6 +6178,22 @@ WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:30 PM","1/24/24, 2:25 PM","1/24/24, 3:30 PM","1/24/24, 2:25 PM",,40.715578,-111.784616
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174404,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
+All Directions 4000 S at Midland Dr (Roy) Weber Co.
+Est. Clearance Time: 4:30 PM","1/24/24, 2:59 PM","1/24/24, 4:30 PM","1/24/24, 2:59 PM",,41.190672,-112.048299
+UT-Incident--174402,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9800 S/Shields Ln,"Crash
+NB Bangerter Hwy at 9800 S (Salt Lake County)
+Right Lanes Closed
+Est. Clearance Time: 4:00 PM","1/24/24, 2:54 PM","1/24/24, 4:00 PM","1/24/24, 2:54 PM",,40.572668,-111.977146
+UT-Incident--174401,Incidents,Hwy 224,Summit County,Hwy 224 at Holiday Ranch Loop Rd,"Crash
+Both Directions Hwy 224 at Holiday Ranch Loop Rd Summit Co.
+Right Lane Closed
+Est. Clearance Time: 3:45 PM","1/24/24, 2:47 PM","1/24/24, 3:45 PM","1/24/24, 2:47 PM",,0.0,0.0
+UT-Incident--174403,Incidents,HWY 73,Utah County,HWY 73 at 800 W,"Crash
+NB Mountain View Corr at Cory Wride Hwy (Saratoga Springs) Utah Co.
+NB Closed
+Est. Clearance Time: 6:00 PM","1/24/24, 2:56 PM","1/24/24, 6:00 PM","1/24/24, 2:56 PM",,40.38701,-111.9355
 UT-Incident--174386,Incidents,I-80 EB X124 Off State St Ramp,Salt Lake County,I-80 EB X124 Off State St Ramp at State St,"Lane Closure
 SB I-80 124 State St Off Ramp (Salt Lake County)
 Right Lane Closed
