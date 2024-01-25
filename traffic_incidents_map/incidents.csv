@@ -6331,14 +6331,14 @@ Cleared at 10:41 AM, Expect Residual Delays","1/25/24, 10:33 AM","1/25/24, 11:30
 UT-Incident--174449,Incidents,I-84,Box Elder County,I-84 at MP 25,"Crash
 WB I-84 at MP 25 (16 mil N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:45 AM","1/25/24, 9:47 AM","1/25/24, 11:15 AM","1/25/24, 10:33 AM",,41.834702,-112.431494
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174450,Incidents,SR 12,Garfield County,SR 12 at MP 56,"Crash
 SR 12 at MP 56 (3 Mi West of Escalante) Garfield Co.
 Est. Clearance Time: 10:50 AM","1/25/24, 9:51 AM","1/25/24, 10:50 AM","1/25/24, 9:51 AM",,37.771546,-111.660019
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174452,Incidents,I-15,Iron County,I-15 at MP 82,"Crash
 SB I-15 at MP 82 (5 mi N of Parowan) Iron Co.
-Est. Clearance Time: 11:10 AM","1/25/24, 10:01 AM","1/25/24, 11:10 AM","1/25/24, 10:01 AM",,37.905545,-112.779494
+Est. Clearance Time: 12:40 PM","1/25/24, 10:01 AM","1/25/24, 12:40 PM","1/25/24, 12:16 PM",,37.905545,-112.779494
 UT-Incident--174454,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Cleared at 12:00, Expect Residual Delays","1/25/24, 10:43 AM","1/25/24, 12:00 PM","1/25/24, 12:14 PM",,41.169225,-112.020449
@@ -6356,6 +6356,9 @@ Est. Clearance Time: 1:15 PM","1/25/24, 12:12 PM","1/25/24, 1:15 PM","1/25/24, 1
 UT-Incident--174461,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
 NB I-15 at MP 50 (Kanarraville) Iron Co.
 Est. Clearance Time: 1:15 PM","1/25/24, 12:15 PM","1/25/24, 1:15 PM","1/25/24, 12:15 PM",,37.588408,-113.172321
+UT-Incident--174462,Incidents,I-15 NB X59 On SR 52 Ramp,Iron County,I-15 NB X59 On SR 52 Ramp at SR 52,"Crash
+NB I-15 SR 52 On Ramp  (Iron County)
+Est. Clearance Time: 1:30 PM","1/25/24, 12:24 PM","1/25/24, 1:30 PM","1/25/24, 12:24 PM",,37.680842,-113.078809
 UT-Incident--174456,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 NB I-215 W at MP 24 (1200 N) Salt Lake Co.
 2 Left Lanes Closed
