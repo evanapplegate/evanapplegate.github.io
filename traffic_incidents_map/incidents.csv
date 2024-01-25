@@ -6259,9 +6259,13 @@ Est. Clearance Time: 9:04 PM","1/24/24, 8:07 PM","1/24/24, 9:04 PM","1/24/24, 8:
 UT-Incident--174425,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 11:45 PM","1/24/24, 10:09 PM","1/24/24, 11:45 PM","1/24/24, 10:09 PM",,39.430681,-111.554437
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174426,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 NB US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:18 PM","1/24/24, 10:19 PM","1/24/24, 11:18 PM","1/24/24, 10:19 PM",,39.975722,-112.072947
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174427,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
+EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 1/25/2024 12:45 AM","1/24/24, 11:38 PM","1/25/24, 12:45 AM","1/24/24, 11:43 PM",,40.751955,-111.569589
