@@ -6350,7 +6350,6 @@ Est. Clearance Time: 1:10 PM","1/25/24, 12:05 PM","1/25/24, 1:10 PM","1/25/24, 1
 UT-Incident--174461,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
 NB I-15 at MP 50 (Kanarraville) Iron Co.
 Est. Clearance Time: 1:15 PM","1/25/24, 12:15 PM","1/25/24, 1:15 PM","1/25/24, 12:15 PM",,37.588408,-113.172321
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174457,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (1200 N) Salt Lake Co.
 Cleared at 1:42 PM, Expect Residual Delays","1/25/24, 11:48 AM","1/25/24, 2:47 PM","1/25/24, 1:42 PM",,40.789416,-111.949318
@@ -6358,6 +6357,7 @@ UT-Incident--174455,Incidents,I-215W SB X22A TO I-80 WB RAMP,Salt Lake County,I-
 SB I-215 W Ramp To WB I-80 (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","1/25/24, 10:45 AM","1/25/24, 11:45 AM","1/25/24, 10:45 AM",,40.768076,-111.951294
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174458,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 SB I-15 at MP 282 (Lehi) Utah Co.
