@@ -6219,7 +6219,6 @@ UT-Incident--174410,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 SB SR 36 at MP 59 (Cimmaron Way) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","1/24/24, 4:08 PM","1/24/24, 5:00 PM","1/24/24, 4:08 PM",,40.597521,-112.294273
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174413,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","1/24/24, 5:13 PM","1/24/24, 6:15 PM","1/24/24, 5:15 PM",,40.492398,-111.891485
@@ -6230,18 +6229,23 @@ Est. Clearance Time: 6:30 PM","1/24/24, 5:31 PM","1/24/24, 6:30 PM","1/24/24, 5:
 UT-Incident--174417,Incidents,5600 S,Weber County,5600 S at 1900 W,"WB 5600 S Closed
  at 1900 W Weber Co.
 Use Alt Route","1/24/24, 6:06 PM","1/24/24, 7:15 PM","1/24/24, 6:08 PM",,41.161715,-112.026044
-UT-Incident--174416,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
-NB I-15 at MP 285 (Lehi) Utah Co.
-Left Shoulder
-Est. Clearance Time: 6:52 PM","1/24/24, 5:54 PM","1/24/24, 6:52 PM","1/24/24, 5:54 PM",,40.442142,-111.903011
 UT-Incident--174420,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:15 PM","1/24/24, 6:17 PM","1/24/24, 7:15 PM","1/24/24, 6:17 PM",,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174416,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:52 PM","1/24/24, 5:54 PM","1/24/24, 6:52 PM","1/24/24, 5:54 PM",,40.442142,-111.903011
 UT-Incident--174421,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 WB I-80 at MP 127 On Ramp (2300 E / Holladay) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","1/24/24, 6:35 PM","1/24/24, 7:45 PM","1/24/24, 6:35 PM",,40.713146,-111.819005
+UT-Incident--174422,Incidents,Main St,Davis County,Main St at 800 N,"Crash
+SB Main St at 800 N Davis Co.
+Right Lane Closed
+Est. Clearance Time: 8:00 PM","1/24/24, 6:47 PM","1/24/24, 8:00 PM","1/24/24, 6:47 PM",,0.0,0.0
 UT-Incident--174419,Incidents,US 40,Duchesne County,US 40 at MP 100,"Crash
 Other US 40 at MP 100 (5 mi SW of Myton) Duchesne Co.
 Right Shoulder
