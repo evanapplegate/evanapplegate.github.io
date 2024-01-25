@@ -6275,8 +6275,8 @@ Est. Clearance Time: 5:02 AM","1/25/24, 4:03 AM","1/25/24, 5:02 AM","1/25/24, 4:
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174434,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 8:30 AM","1/25/24, 7:27 AM","1/25/24, 8:30 AM","1/25/24, 7:44 AM",,40.597164,-111.903181
+Right Shoulder
+Est. Clearance Time: 8:30 AM","1/25/24, 7:27 AM","1/25/24, 8:30 AM","1/25/24, 7:57 AM",,40.597164,-111.903181
 UT-Incident--174435,Incidents,I-15,Iron County,I-15 at MP 88,"Crash
 NB I-15 at MP 88 (11 mi N of Parowan) Iron Co.
 Est. Clearance Time: 8:45 AM","1/25/24, 7:42 AM","1/25/24, 8:45 AM","1/25/24, 7:42 AM",,37.985581,-112.735495
@@ -6290,3 +6290,6 @@ Approved Traction Devices Required","1/25/24, 6:33 AM","1/27/24, 8:00 AM","1/25/
 UT-Incident--174432,Incidents,US 189,Wasatch County,US 189 at MP 23,"Crash
 Both Directions US 189 at MP 23 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 7:38 AM","1/25/24, 6:39 AM","1/25/24, 7:38 AM","1/25/24, 6:39 AM",,40.438577,-111.491821
+UT-Incident--174437,Incidents,US 40,Wasatch County,US 40 at MP 47,"Crash
+US 40 at MP 47 (Strawberry Reservoir) Wasatch Co.
+Est. Clearance Time: 8:55 AM","1/25/24, 7:56 AM","1/25/24, 8:55 AM","1/25/24, 7:58 AM",,40.19612,-111.095113
