@@ -6315,7 +6315,6 @@ Est. Clearance Time: 10:15 AM","1/25/24, 9:11 AM","1/25/24, 10:15 AM","1/25/24, 
 UT-Incident--174442,Incidents,SR 56,Iron County,SR 56 at MP 44,"Crash
 SR 56 at MP 44 (12 Mi W of Cedar City) Iron Co.
 Est. Clearance Time: 9:16 AM","1/25/24, 8:17 AM","1/25/24, 9:16 AM","1/25/24, 8:17 AM",,37.608959,-113.354209
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174451,Incidents,3000 N,Iron County,3000 N at Minersville Hwy,"Crash
 WB 3000 N at Minersville Hwy (Iron County)
 Est. Clearance Time: 10:55 AM","1/25/24, 9:57 AM","1/25/24, 10:55 AM","1/25/24, 9:57 AM",,37.730079,-113.055065
@@ -6323,6 +6322,7 @@ UT-Incident--174448,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 NB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/25/24, 9:25 AM","1/25/24, 10:30 AM","1/25/24, 9:25 AM",,40.305888,-111.25888
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174447,Incidents,I-15,Iron County,I-15 at MP 92,"Crash
 SB I-15 at MP 92 (15 mi N of Parowan) Iron Co.
