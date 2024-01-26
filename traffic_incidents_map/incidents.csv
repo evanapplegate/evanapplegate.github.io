@@ -6387,7 +6387,6 @@ UT-Incident--174463,Incidents,I-80,Summit County,I-80 at MP 187,"Vehicle on fire
 WB I-80 at MP 187 (4 mi W of Wasatch) Summit Co.
 Right Shoulder
 Est. Clearance Time: 3:54 PM","1/25/24, 2:56 PM","1/25/24, 3:54 PM","1/25/24, 2:57 PM",,41.14312,-111.150556
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174468,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Cleared at 5:24 PM
@@ -6412,11 +6411,12 @@ UT-Incident--174470,Incidents,I-70,Sevier County,I-70 at MP 50,"Crash
 EB I-70 at MP 50 (10 mi E of Richfield) Sevier Co.
 Cleared at 6:41 PM
 Est. Clearance Time: 8:30 PM","1/25/24, 5:19 PM","1/25/24, 8:30 PM","1/25/24, 6:42 PM",,38.878659,-111.952654
-UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
-SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
-Center Lane Closed
-Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 6:04 PM",,40.869089,-111.939468
 UT-Incident--174472,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 WB US 6 at MP 196 (1 Mi E of Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","1/25/24, 5:32 PM","1/25/24, 6:32 PM","1/25/24, 5:32 PM",,39.965781,-111.32036
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
+SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 7:09 PM",,40.869089,-111.939468
