@@ -10,52 +10,57 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <div id="map" style="width: 100%; height: 600px;"></div>
+    <div id="map" style="width: 100%; height: 500px;"></div>
 
     <script>
         // Initialize Leaflet map
-        var map = L.map('map').setView([21.542511,-86.224823], 3);
+        var map = L.map('map').setView([21.542511, -86.224823], 3);
 
         // Add Mapbox tile layer
         L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/clru53p3q00st01qs9dprbfj9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
             maxZoom: 16
         }).addTo(map);
 
-       // Load GeoJSON data and create green markers
-        var geojsonLayer = L.geoJSON.ajax('members.geojson', {
-            pointToLayer: function (feature, latlng) {
-                return L.circleMarker(latlng, {
-                    radius: 6,
-                    fillColor: 'green',
-                    color: '#000',
-                    weight: 1,
-                    opacity: 1,
-                    fillOpacity: 0.8
+        // Fetch GeoJSON data using jQuery
+        $(document).ready(function() {
+            $.getJSON('members.geojson', function(data) {
+                // Create a green marker layer with circular markers
+                var geojsonLayer = L.geoJSON(data, {
+                    pointToLayer: function (feature, latlng) {
+                        return L.circle(latlng, {
+                            radius: 6,
+                            fillColor: 'green',
+                            color: '#000',
+                            weight: 1,
+                            opacity: 1,
+                            fillOpacity: 0.8
+                        });
+                    },
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties && feature.properties.name) {
+                            layer.bindPopup(feature.properties.name);
+                        }
+                    }
                 });
-            },
-            onEachFeature: function (feature, layer) {
-                if (feature.properties && feature.properties.name) {
-                    layer.bindPopup(feature.properties.name);
-                }
-            }
-        });
 
-        // Create a marker cluster group
-        var markers = L.markerClusterGroup({
-            iconCreateFunction: function(cluster) {
-                return L.divIcon({ 
-                    html: '<div style="background-color: green; color: white;" class="leaflet-div-icon">' + cluster.getChildCount() + '</div>',
-                    className: 'marker-cluster',
-                    iconSize: [40, 40]
+                // Create a marker cluster group
+                var markers = L.markerClusterGroup({
+                    iconCreateFunction: function(cluster) {
+                        return L.divIcon({ 
+                            html: '<div style="background-color: green; color: white;" class="leaflet-div-icon">' + cluster.getChildCount() + '</div>',
+                            className: 'marker-cluster',
+                            iconSize: [40, 40]
+                        });
+                    }
                 });
-            }
+
+                // Add the green marker layer to the marker cluster group
+                markers.addLayer(geojsonLayer);
+
+                // Add the marker cluster group to the map
+                map.addLayer(markers);
+            });
         });
-
-        // Add the GeoJSON layer to the marker cluster group
-        markers.addLayer(geojsonLayer);
-
-        // Add the marker cluster group to the map
-        map.addLayer(markers);
     </script>
 </body>
 </html>
