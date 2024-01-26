@@ -6506,15 +6506,23 @@ WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Cleared at 1:43 PM
 Est. Clearance Time: 2:41 PM","1/26/24, 1:42 PM","1/26/24, 2:41 PM","1/26/24, 2:32 PM",,40.753891,-111.622581
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174502,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
-SB I-15 at MP 300 (5200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 4:01 PM","1/26/24, 3:03 PM","1/26/24, 4:01 PM","1/26/24, 3:03 PM",,40.649847,-111.90236
 UT-Incident--174503,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Lane Closure
 NB I-15 Onramp at MP 303 (3300 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:00 PM","1/26/24, 3:21 PM","1/26/24, 4:00 PM","1/26/24, 3:21 PM",,40.693589,-111.902881
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174502,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:01 PM","1/26/24, 3:03 PM","1/26/24, 4:01 PM","1/26/24, 3:42 PM",,40.649847,-111.90236
+UT-Incident--174506,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:30 PM","1/26/24, 3:30 PM","1/26/24, 4:30 PM","1/26/24, 3:33 PM",,40.679062,-111.902181
+UT-Incident--174507,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 4:32 PM","1/26/24, 3:33 PM","1/26/24, 4:32 PM","1/26/24, 3:33 PM",,40.664677,-111.90152
 UT-Incident--174504,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
  I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Right Shoulder
