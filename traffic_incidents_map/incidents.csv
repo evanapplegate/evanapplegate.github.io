@@ -6418,7 +6418,6 @@ UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Cras
 SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 7:09 PM",,40.869089,-111.939468
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174477,Incidents,Hwy 36,Tooele County,Hwy 36 at Church Rd,"Crash
 SB Hwy 36 at Church Rd Tooele Co.
 Right Shoulder
@@ -6427,6 +6426,7 @@ UT-Incident--174476,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTA
 SB MOUNTAIN VIEW CORRIDOR HWY at 11800 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:04 PM","1/25/24, 8:04 PM","1/25/24, 9:04 PM","1/25/24, 8:04 PM",,40.53491,-112.013477
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174478,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
