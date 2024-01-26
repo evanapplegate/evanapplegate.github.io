@@ -6414,12 +6414,16 @@ UT-Incident--174472,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 WB US 6 at MP 196 (1 Mi E of Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","1/25/24, 5:32 PM","1/25/24, 6:32 PM","1/25/24, 5:32 PM",,39.965781,-111.32036
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
 SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 7:09 PM",,40.869089,-111.939468
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174477,Incidents,Hwy 36,Tooele County,Hwy 36 at Church Rd,"Crash
+SB Hwy 36 at Church Rd Tooele Co.
+Right Shoulder
+Est. Clearance Time: 9:14 PM","1/25/24, 8:14 PM","1/25/24, 9:14 PM","1/25/24, 8:14 PM",,40.613196,-112.295053
 UT-Incident--174476,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 11800 S,"Crash
 SB MOUNTAIN VIEW CORRIDOR HWY at 11800 S Salt Lake Co.
 Right Lane Closed
