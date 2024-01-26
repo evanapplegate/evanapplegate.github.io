@@ -6371,7 +6371,6 @@ UT-Incident--174460,Incidents,I-15,Iron County,I-15 at MP 57,"Crash
 NB I-15 at MP 57 (Main St / Cedar City) Iron Co.
 Left Lane Closed
 Est. Clearance Time: 1:15 PM","1/25/24, 12:12 PM","1/25/24, 1:15 PM","1/25/24, 12:12 PM",,37.655067,-113.081981
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174464,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -6405,17 +6404,18 @@ UT-Incident--174466,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled
 SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:59 PM","1/25/24, 5:00 PM","1/25/24, 5:59 PM","1/25/24, 5:00 PM",,40.659924,-111.952783
+UT-Incident--174471,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
+EB SR 201 at MP 8 (7200 W) Salt Lake Co.
+Est. Clearance Time: 6:23 PM","1/25/24, 5:24 PM","1/25/24, 6:23 PM","1/25/24, 5:24 PM",,40.718237,-112.076122
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174470,Incidents,I-70,Sevier County,I-70 at MP 50,"Crash
 EB I-70 at MP 50 (10 mi E of Richfield) Sevier Co.
-Left Shoulder
-Est. Clearance Time: 6:19 PM","1/25/24, 5:19 PM","1/25/24, 6:19 PM","1/25/24, 5:19 PM",,38.878659,-111.952654
+Cleared at 6:41 PM
+Est. Clearance Time: 8:30 PM","1/25/24, 5:19 PM","1/25/24, 8:30 PM","1/25/24, 6:42 PM",,38.878659,-111.952654
 UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
 SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Center Lane Closed
 Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 6:04 PM",,40.869089,-111.939468
-UT-Incident--174471,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
-EB SR 201 at MP 8 (7200 W) Salt Lake Co.
-Est. Clearance Time: 6:23 PM","1/25/24, 5:24 PM","1/25/24, 6:23 PM","1/25/24, 5:24 PM",,40.718237,-112.076122
 UT-Incident--174472,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 WB US 6 at MP 196 (1 Mi E of Sheep Creek) Utah Co.
 Right Shoulder
