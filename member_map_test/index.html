@@ -1,37 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Member map test</title>
-  <link rel="stylesheet" href="nyc_accidents_styles_alt.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Cluster Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
-
 <body>
-  <div id="title"><p>Member map test</p></div>
-  <div id="map"></div>
+    <div id="map" style="width: 100%; height: 500px;"></div>
 
-  <!-- Load Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script>
+        // Initialize Leaflet map
+        var map = L.map('map').setView([39.801, -75.012], 6);
 
-  <!-- Load Leaflet JS -->
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        // Add Mapbox tile layer
+        L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/clru53p3q00st01qs9dprbfj9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+            attribution: 'Map data &copy; <a href="https://www.mapbox.com/">Mapbox</a> contributors',
+            maxZoom: 18,
+            zoomControl: true,
+        }).addTo(map);
 
-  <!-- Load clusterer JS -->
-  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+        // Fetch GeoJSON data using jQuery
+        $(document).ready(function() {
+            $.getJSON('members.geojson', function(data) {
+                // Create a green marker layer
+                var geojsonLayer = L.geoJSON(data, {
+                    pointToLayer: function (feature, latlng) {
+                        return L.circleMarker(latlng, {
+                            radius: 6,
+                            fillColor: 'green',
+                            color: '#000',
+                            weight: 1,
+                            opacity: 1,
+                            fillOpacity: 0.8
+                        });
+                    },
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties && feature.properties.name) {
+                            layer.bindPopup(feature.properties.name);
+                        }
+                    }
+                });
 
-  <!-- Load D3 stuff -->
-  <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script src="https://unpkg.com/topojson@3"></script>
-  <script src="https://unpkg.com/d3-legend"></script>
-  <script src="https://unpkg.com/d3-tip"></script>
+                // Create a marker cluster group
+                var markers = L.markerClusterGroup({
+                    iconCreateFunction: function(cluster) {
+                        return L.divIcon({ 
+                            html: '<div style="background-color: green; color: white;" class="leaflet-div-icon">' + cluster.getChildCount() + '</div>',
+                            className: 'marker-cluster',
+                            iconSize: [40, 40]
+                        });
+                    }
+                });
 
-  <!-- Load clusterer CSS, works? -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+                // Add the green marker layer to the marker cluster group
+                markers.addLayer(geojsonLayer);
 
-  <script src="member_map.js"></script>
+                // Add the marker cluster group to the map
+                map.addLayer(markers);
+            });
+        });
+    </script>
 </body>
-
 </html>
