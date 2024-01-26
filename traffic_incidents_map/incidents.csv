@@ -6372,7 +6372,6 @@ NB I-15 at MP 57 (Main St / Cedar City) Iron Co.
 Left Lane Closed
 Est. Clearance Time: 1:15 PM","1/25/24, 12:12 PM","1/25/24, 1:15 PM","1/25/24, 12:12 PM",,37.655067,-113.081981
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174464,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -6385,6 +6384,11 @@ UT-Incident--174467,Incidents,I-15,Millard County,I-15 at MP 160,"Crash
 SB I-15 at MP 160 (2 mi N of Medow) Millard Co.
 Left Shoulder
 Est. Clearance Time: 6:11 PM","1/25/24, 5:12 PM","1/25/24, 6:11 PM","1/25/24, 5:12 PM",,38.912021,-112.389904
+UT-Incident--174463,Incidents,I-80,Summit County,I-80 at MP 187,"Vehicle on fire
+WB I-80 at MP 187 (4 mi W of Wasatch) Summit Co.
+Right Shoulder
+Est. Clearance Time: 3:54 PM","1/25/24, 2:56 PM","1/25/24, 3:54 PM","1/25/24, 2:57 PM",,41.14312,-111.150556
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174468,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Cleared at 5:24 PM
@@ -6393,6 +6397,10 @@ UT-Incident--174469,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:17 PM","1/25/24, 5:18 PM","1/25/24, 6:17 PM","1/25/24, 5:28 PM",,41.182676,-112.014444
+UT-Incident--174473,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
+NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
+Left Lane Closed
+Est. Clearance Time: 6:49 PM","1/25/24, 5:50 PM","1/25/24, 6:49 PM","1/25/24, 5:54 PM",,37.669073,-113.079806
 UT-Incident--174466,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled Vehicle
 SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
@@ -6401,10 +6409,14 @@ UT-Incident--174470,Incidents,I-70,Sevier County,I-70 at MP 50,"Crash
 EB I-70 at MP 50 (10 mi E of Richfield) Sevier Co.
 Left Shoulder
 Est. Clearance Time: 6:19 PM","1/25/24, 5:19 PM","1/25/24, 6:19 PM","1/25/24, 5:19 PM",,38.878659,-111.952654
-UT-Incident--174463,Incidents,I-80,Summit County,I-80 at MP 187,"Vehicle on fire
-WB I-80 at MP 187 (4 mi W of Wasatch) Summit Co.
-Right Shoulder
-Est. Clearance Time: 3:54 PM","1/25/24, 2:56 PM","1/25/24, 3:54 PM","1/25/24, 2:57 PM",,41.14312,-111.150556
+UT-Incident--174474,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
+SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
+Center Lane Closed
+Est. Clearance Time: 7:03 PM","1/25/24, 6:04 PM","1/25/24, 7:03 PM","1/25/24, 6:04 PM",,40.869089,-111.939468
 UT-Incident--174471,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Est. Clearance Time: 6:23 PM","1/25/24, 5:24 PM","1/25/24, 6:23 PM","1/25/24, 5:24 PM",,40.718237,-112.076122
+UT-Incident--174472,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
+WB US 6 at MP 196 (1 Mi E of Sheep Creek) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:32 PM","1/25/24, 5:32 PM","1/25/24, 6:32 PM","1/25/24, 5:32 PM",,39.965781,-111.32036
