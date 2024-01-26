@@ -6509,7 +6509,6 @@ UT-Incident--174503,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Lane Closure
 NB I-15 Onramp at MP 303 (3300 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:00 PM","1/26/24, 3:21 PM","1/26/24, 4:00 PM","1/26/24, 3:21 PM",,40.693589,-111.902881
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174506,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
@@ -6527,6 +6526,14 @@ UT-Incident--174502,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:01 PM","1/26/24, 3:03 PM","1/26/24, 4:01 PM","1/26/24, 3:42 PM",,40.649847,-111.90236
+UT-Incident--174509,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 4000 S,"Crash
+SB Riverdale Rd at 4060 S Weber Co.
+Est. Clearance Time: 5:00 PM","1/26/24, 3:59 PM","1/26/24, 5:00 PM","1/26/24, 3:59 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174510,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:14 PM","1/26/24, 4:16 PM","1/26/24, 5:14 PM","1/26/24, 4:16 PM",,40.492398,-111.891485
 UT-Incident--174498,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 EB I-80 at MP 191 (Wasatch) Summit Co.
 Left Lane Closed
@@ -6534,9 +6541,6 @@ Est. Clearance Time: 1:11 PM","1/26/24, 12:11 PM","1/26/24, 1:11 PM","1/26/24, 1
 UT-Incident--174505,Incidents,Midland Dr,Weber County,Midland Dr at 4600 S,"Crash
 NB Midland Dr at 4600 S Weber Co.
 Est. Clearance Time: 4:15 PM","1/26/24, 3:27 PM","1/26/24, 4:15 PM","1/26/24, 3:27 PM",,0.0,0.0
-UT-Incident--174509,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 4000 S,"Crash
-SB Riverdale Rd at 4060 S Weber Co.
-Est. Clearance Time: 5:00 PM","1/26/24, 3:59 PM","1/26/24, 5:00 PM","1/26/24, 3:59 PM",,0.0,0.0
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
