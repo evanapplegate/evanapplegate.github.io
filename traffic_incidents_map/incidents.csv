@@ -6489,11 +6489,11 @@ UT-Incident--174499,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 NB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:11 PM","1/26/24, 12:12 PM","1/26/24, 1:11 PM","1/26/24, 12:12 PM",,40.817974,-111.949525
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174496,Incidents,I-15,Davis County,I-15 at MP 318,"Stalled Vehicle
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 12:37 PM","1/26/24, 11:38 AM","1/26/24, 12:37 PM","1/26/24, 11:47 AM",,40.900348,-111.893142
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174497,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
@@ -6503,14 +6503,13 @@ UT-Incident--174498,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 EB I-80 at MP 191 (Wasatch) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 1:11 PM","1/26/24, 12:11 PM","1/26/24, 1:11 PM","1/26/24, 1:08 PM",,41.193495,-111.117252
-UT-Incident--174500,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Animals inTraffic
-EB I-80 Closed
- at MP 135 (1 mi E of Mountaindale) Salt Lake Co.
-Expect Delays","1/26/24, 1:41 PM","1/26/24, 2:38 PM","1/26/24, 1:41 PM",,40.745148,-111.69119
-UT-Incident--174501,Incidents,I-80,Summit County,I-80 at MP 139,"Animals in Traffic
-WB I-80 Closed
- at MP 139 (Parley Summit / Park City) Summit Co.
-Expect Delays","1/26/24, 1:42 PM","1/26/24, 2:41 PM","1/26/24, 1:42 PM",,40.753891,-111.622581
+UT-Incident--174500,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Animal in traffic
+EB I-80 at MP 135 (1 mi E of Mountaindale) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:38 PM","1/26/24, 1:41 PM","1/26/24, 2:38 PM","1/26/24, 1:43 PM",,40.745148,-111.69119
+UT-Incident--174501,Incidents,I-80,Summit County,I-80 at MP 139,"Animal in traffic
+WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
+Est. Clearance Time: 2:41 PM","1/26/24, 1:42 PM","1/26/24, 2:41 PM","1/26/24, 1:43 PM",,40.753891,-111.622581
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
