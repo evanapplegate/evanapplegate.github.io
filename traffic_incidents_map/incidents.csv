@@ -6465,16 +6465,24 @@ UT-Incident--174491,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP
 SB Bangerter Hwy at MP 20 (2700 S) Salt Lake Co.
 Right 2 Lanes Closed
 Est. Clearance Time: 8:44 AM","1/26/24, 7:45 AM","1/26/24, 8:44 AM","1/26/24, 7:45 AM",,40.711643,-111.98151
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174494,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 10:49 AM","1/26/24, 9:51 AM","1/26/24, 10:49 AM","1/26/24, 9:51 AM",,40.592858,-111.902495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174490,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:31 AM","1/26/24, 7:32 AM","1/26/24, 8:31 AM","1/26/24, 7:32 AM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174493,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 SB I-15 at MP 44 (Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 9:26 AM","1/26/24, 8:26 AM","1/26/24, 9:26 AM","1/26/24, 8:26 AM",,37.508507,-113.213733
+UT-Incident--174495,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+NB I-215 W at MP 22 (N Temple) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:25 AM","1/26/24, 10:26 AM","1/26/24, 11:25 AM","1/26/24, 10:26 AM",,40.760605,-111.951068
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
@@ -6483,10 +6491,6 @@ UT-Incident--174489,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Directions SR 143 Closed
 at MP 17 to MP 27 
 Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
-UT-Incident--174490,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:31 AM","1/26/24, 7:32 AM","1/26/24, 8:31 AM","1/26/24, 7:32 AM",,40.348428,-111.591901
 UT-Incident--174492,Incidents,US 6,Utah County,US 6 at MP 201,"Crash
 Both Directions US 6 at MP 201 (W of Tie Fork Rest Stop) Utah Co.
 Right Shoulder
