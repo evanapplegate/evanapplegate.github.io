@@ -24,12 +24,12 @@
         // Fetch GeoJSON data using jQuery
         $(document).ready(function() {
             $.getJSON('members.geojson', function(data) {
-                // Create a green marker layer with circular markers
+                // Create a white marker layer with circular markers
                 var geojsonLayer = L.geoJSON(data, {
                     pointToLayer: function (feature, latlng) {
                         return L.circle(latlng, {
-                            radius: 6,
-                            fillColor: 'green',
+                            radius: 10, // Marker size set to 10px
+                            fillColor: 'white', // Marker color set to white
                             color: '#000',
                             weight: 1,
                             opacity: 1,
@@ -43,18 +43,18 @@
                     }
                 });
 
-                // Create a marker cluster group
+                // Create a marker cluster group with round, white cluster markers
                 var markers = L.markerClusterGroup({
                     iconCreateFunction: function(cluster) {
                         return L.divIcon({ 
-                            html: '<div style="background-color: green; color: white;" class="leaflet-div-icon">' + cluster.getChildCount() + '</div>',
+                            html: '<div style="background-color: white; color: black; border: 2px solid black; border-radius: 50%; text-align: center; width: 30px; height: 30px; line-height: 30px;">' + cluster.getChildCount() + '</div>',
                             className: 'marker-cluster',
-                            iconSize: [40, 40]
+                            iconSize: [30, 30]
                         });
                     }
                 });
 
-                // Add the green marker layer to the marker cluster group
+                // Add the white marker layer to the marker cluster group
                 markers.addLayer(geojsonLayer);
 
                 // Add the marker cluster group to the map
