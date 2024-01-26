@@ -6521,7 +6521,6 @@ UT-Incident--174504,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
  I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 4:35 PM","1/26/24, 3:22 PM","1/26/24, 4:35 PM","1/26/24, 3:22 PM",,38.865365,-111.978921
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174502,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Lane Closed
@@ -6530,14 +6529,15 @@ UT-Incident--174509,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 4000 S,"
 SB Riverdale Rd at 4060 S Weber Co.
 Est. Clearance Time: 5:00 PM","1/26/24, 3:59 PM","1/26/24, 5:00 PM","1/26/24, 3:59 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174510,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:14 PM","1/26/24, 4:16 PM","1/26/24, 5:14 PM","1/26/24, 4:16 PM",,40.492398,-111.891485
 UT-Incident--174498,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
-EB I-80 at MP 191 (Wasatch) Summit Co.
+EB I-80 at MP 191 (Wahsatch) Summit Co.
 Left Lane Closed
-Est. Clearance Time: 1:11 PM","1/26/24, 12:11 PM","1/26/24, 1:11 PM","1/26/24, 1:08 PM",,41.193495,-111.117252
+Est. Clearance Time: 6:00 PM","1/26/24, 12:11 PM","1/26/24, 6:00 PM","1/26/24, 4:21 PM",,41.193495,-111.117252
 UT-Incident--174505,Incidents,Midland Dr,Weber County,Midland Dr at 4600 S,"Crash
 NB Midland Dr at 4600 S Weber Co.
 Est. Clearance Time: 4:15 PM","1/26/24, 3:27 PM","1/26/24, 4:15 PM","1/26/24, 3:27 PM",,0.0,0.0
