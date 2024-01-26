@@ -6497,7 +6497,6 @@ UT-Incident--174497,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:50 PM","1/26/24, 11:51 AM","1/26/24, 12:50 PM","1/26/24, 11:51 AM",,40.316406,-111.72616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174500,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Animal in traffic
 EB I-80 at MP 135 (1 mi E of Mountaindale) Salt Lake Co.
 Right Shoulder
@@ -6507,6 +6506,15 @@ WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Cleared at 1:43 PM
 Est. Clearance Time: 2:41 PM","1/26/24, 1:42 PM","1/26/24, 2:41 PM","1/26/24, 2:32 PM",,40.753891,-111.622581
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174502,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:01 PM","1/26/24, 3:03 PM","1/26/24, 4:01 PM","1/26/24, 3:03 PM",,40.649847,-111.90236
+UT-Incident--174503,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Lane Closure
+NB I-15 Onramp at MP 303 (3300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:00 PM","1/26/24, 3:21 PM","1/26/24, 4:00 PM","1/26/24, 3:21 PM",,40.693589,-111.902881
 UT-Incident--174498,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 EB I-80 at MP 191 (Wasatch) Summit Co.
 Left Lane Closed
