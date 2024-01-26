@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Map example: NYC auto wrecks</title>
+  <link rel="stylesheet" href="nyc_accidents_styles_alt.css">
+</head>
+
+<body>
+  <div id="title"><p>2022 NYC auto wrecks that resulted in injuries</p></div>
+  <div id="subhed"><p>Move the slider to filter wrecks by time of day</p></div>
+   <!-- Marker Toggle Buttons -->
+  <div id="marker-toggle-buttons">
+      <label>
+        <input type="checkbox" id="zero-kill-toggle" checked>
+        Show <text style="color:#788098;">● non-fatal wrecks</text>
+      </label>
+      <label>
+        <input type="checkbox" id="non-zero-kill-toggle" checked>
+        Show <text style="color:#d39a71;">● fatal wrecks</text>
+      </label>
+    </div>
+  <!--  NYC auto accident map -->
+  <div id="slider"></div>
+  <div id="legend"></div>
+  <div id="map"></div>
+  <div id="source_NYC"><p style="text-align: center">Source: <a href="https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95">NYC Open Data – Motor Vehicle Collisions</a></p></div>
+
+  <!-- Load Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <!-- Load Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <!-- Load noUiSlider CSS, works? -->
+  <link rel="stylesheet" href="https://unpkg.com/nouislider@15.7.0/dist/nouislider.min.css" />
+
+  <!-- Load noUiSlider JS -->
+  <script src="https://unpkg.com/nouislider@15.7.0/dist/nouislider.js"></script>
+
+  <!-- Load clusterer JS -->
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+  <!-- Load D3 stuff -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://unpkg.com/d3-legend"></script>
+  <script src="https://unpkg.com/d3-tip"></script>
+
+  <!-- Load clusterer CSS, works? -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+  <script src="nyc_accidents_script.js"></script>
+</body>
+
+</html>
