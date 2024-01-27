@@ -66,7 +66,7 @@ var nursingHomesLayer5Star = L.geoJSON(null, {
   },
   onEachFeature: function (feature, layer) {
     var tooltipContent = `
-      <strong>Nursing Home Label:</strong> ${feature.properties.nursing_home_label}<br>
+      <strong>Nursing Home:</strong> ${feature.properties.nursing_home_label}<br>
       <strong>Overall Inspection:</strong> ${feature.properties.overall_inspection}<br>
       <strong>Quality of Care:</strong> ${feature.properties.quality_of_care}<br>
       <strong>Quality of Life:</strong> ${feature.properties.quality_of_life}<br>
@@ -99,7 +99,7 @@ var nursingHomesLayer1Star = L.geoJSON(null, {
   },
   onEachFeature: function (feature, layer) {
     var tooltipContent = `
-      <strong>Nursing Home Label:</strong> ${feature.properties.nursing_home_label}<br>
+      <strong>Nursing Home:</strong> ${feature.properties.nursing_home_label}<br>
       <strong>Overall Inspection:</strong> ${feature.properties.overall_inspection}<br>
       <strong>Quality of Care:</strong> ${feature.properties.quality_of_care}<br>
       <strong>Quality of Life:</strong> ${feature.properties.quality_of_life}<br>
