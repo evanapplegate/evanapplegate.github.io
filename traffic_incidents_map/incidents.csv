@@ -6545,7 +6545,6 @@ Est. Clearance Time: 6:00 PM","1/26/24, 4:46 PM","1/26/24, 6:00 PM","1/26/24, 4:
 UT-Incident--174512,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","1/26/24, 5:11 PM","1/26/24, 6:15 PM","1/26/24, 5:11 PM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174516,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Center Lanes Closed
@@ -6559,11 +6558,16 @@ EB I-80 at MP 191 (Wahsatch) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","1/26/24, 12:11 PM","1/26/24, 8:00 PM","1/26/24, 5:44 PM",,41.193495,-111.117252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174519,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:32 PM","1/26/24, 7:33 PM","1/26/24, 8:32 PM","1/26/24, 7:33 PM",View on map,40.718332,-111.893095
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
-Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:55 AM","1/26/24, 6:56 AM",,37.65363,-112.70092
+Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:55 AM","1/26/24, 6:56 AM",View on map,37.65363,-112.70092
 UT-Incident--174489,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather 
 Both Directions SR 143 Closed
 at MP 17 to MP 27 
-Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
+Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",View on map,37.677725,-112.846981
