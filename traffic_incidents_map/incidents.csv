@@ -6635,11 +6635,15 @@ WB I-80 at MP 66 (4 mi E of Lakeside) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 10:32 AM","1/27/24, 9:33 AM","1/27/24, 10:32 AM","1/27/24, 11:06 AM",,40.79289,-112.835958
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174537,Incidents,I-80,Tooele County,I-80 at MP 83,"Crash
 EB I-80 at MP 83 (SR 138 / Grantsville) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 11:38 AM","1/27/24, 10:39 AM","1/27/24, 11:38 AM","1/27/24, 10:39 AM",,40.712461,-112.535628
+UT-Incident--174541,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
+Ramp SR 201 at MP 16 (900 W) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 1:04 PM","1/27/24, 12:05 PM","1/27/24, 1:04 PM","1/27/24, 12:05 PM",,40.724236,-111.924637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
@@ -6648,7 +6652,3 @@ UT-Incident--174489,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Directions SR 143 Closed
 at MP 17 to MP 27 
 Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
-UT-Incident--174541,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
-Ramp SR 201 at MP 16 (900 W) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 1:04 PM","1/27/24, 12:05 PM","1/27/24, 1:04 PM","1/27/24, 12:05 PM",,40.724236,-111.924637
