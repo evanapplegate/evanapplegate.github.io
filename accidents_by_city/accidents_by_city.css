@@ -1,6 +1,13 @@
 body, html, #accident_cities {
+    color: #6e5950;
+    background-color: #FEFAF6;
     font-family: -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
     text-align: center;
+}
+
+a {
+    color: #6e5950;
+    text-decoration: underline;
 }
 
 #city_accident_chart {

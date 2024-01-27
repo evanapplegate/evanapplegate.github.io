@@ -1,5 +1,14 @@
 body {
-  font-family: EB Garamond;
+  color: #6e5950;
+  background-color: #FEFAF6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a {
+    color: #6e5950;
+    text-decoration: underline;
 }
 
 #map {
