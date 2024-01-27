@@ -16,17 +16,16 @@ a {
 }
 
 #SP_world_map {
-	margin-top: -60px;
+	margin-top: -30px;
 }
 
 .map-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 90%; /* Set width to 90% of the viewport width */
     margin: auto; /* Center the container horizontally */
     height: auto; /* Adjust height automatically */
-    aspect-ratio: 16 / 9; /* Optional: maintain an aspect ratio */
+    aspect-ratio: 16 / 9;
 }
 
 svg {
