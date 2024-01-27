@@ -36,7 +36,6 @@ a {
 
 #accident_cities {
   height: 100vh;
-  font-family: EB Garamond;
 }
 
 #city-size-toggle {
@@ -57,69 +56,57 @@ a {
 
 #title {
   text-align: center;
-  font-family: EB Garamond;
 }
 
 #title_choropleth {
   padding-top: 20px;
   text-align: center;
-  font-family: EB Garamond;
 }
 
 #subhed {
   text-align: center;
-  font-family: EB Garamond;
 }
 
 #source_nyc {
   margin: auto;
   text-align: center;
-  font-family: EB Garamond;
 }
 
 #source_NHTSA {
   margin: auto;
   text-align: center;
-  font-family: EB Garamond;
 }
 
 #marker-toggle-buttons {
   text-align: center;
-  font-family: EB Garamond;
 }
 
 .cluster-nonfatal-zero {
-  font-family: EB Garamond;
   background-color: #b8c2e3;
   color: white;
   }
 
   .cluster-nonfatal-medium {
-  font-family: EB Garamond;
   background-color: #788098;
   color: white;
   }
 
   .cluster-nonfatal-high {
-  font-family: EB Garamond;
   background-color: #353e5c;
   color: white;
   }
 
 .cluster-fatal-zero {
-  font-family: EB Garamond;
   background-color: #d39a71;
   color: white;
   }
 
   .cluster-fatal-medium {
-  font-family: EB Garamond;
   background-color: #d39a71;
   color: white;
   }
 
   .cluster-fatal-high {
-  font-family: EB Garamond;
   background-color: #d39a71;
   color: white;
   }
@@ -141,7 +128,6 @@ a {
   height: 20px;
   background-color: white;
   color: white;
-  font-family: EB Garamond;
   z-index: 1000;
 }
 
