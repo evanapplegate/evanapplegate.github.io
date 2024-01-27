@@ -31,11 +31,31 @@
     <div id="accident_cities"></div>
     <div id="source_NHTSA"><p>Source: <a href="https://cdan.dot.gov/tsftables/tsfar.htm#">NHTSA Traffic Safety Facts Annual Report Tables – People Killed, Population, and Fatality Rates in Cities With Populations of 150,000 or Greater, 2020</a></p></div>
 
+
+  <!-- map showing Change in fatalities per 100m vehicle miles traveled, 2010 to 2020
+ -->
+
+<div id="title_choropleth"><h1>Change in fatalities per 100m vehicle miles traveled, 2010 to 2020</h1></div>
+  <div id="choro_legend">
+    <span style="color: #b1bddb;">&#x25A0;</span> <span>-25% to 0%</span>
+    <span style="color: #f5d0bf;">&#x25A0;</span> <span>0% to +25%</span>
+    <span style="color: #e9865b;">&#x25A0;</span> <span>+25% to +50%</span>
+    <span style="color: #ce572b;">&#x25A0;</span> <span>+50% and above</span>
+  </div>
+  <div id="source_NHTSA"><p>Source: <a href="https://cdan.dot.gov/tsftables/tsfar.htm#">NHTSA Traffic Safety Facts Annual Report Tables – Table 125: Fatalities and Fatality Rates, by State, 1975-2020</a></p></div>
+  <div id="state-map"></div>
+
   <!--  US auto accident fatalities in major cities bar chart -->
     <div id="city_accident_chart">
           <h1>2020 vehicle deaths by city</h1>
       <canvas id="chart"></canvas>
     </div> 
+
+<!-- Load D3 stuff -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson@3"></script>
+  <script src="https://unpkg.com/d3-legend"></script>
+  <script src="https://unpkg.com/d3-tip"></script>
 
   <!-- Load Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -43,33 +63,13 @@
   <!-- Load Leaflet JS -->
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-  <!-- Load noUiSlider CSS, works?
-  <link rel="stylesheet" href="https://unpkg.com/nouislider@15.7.0/dist/nouislider.min.css" />  -->
-
-  <!-- Load noUiSlider JS 
-  <script src="https://unpkg.com/nouislider@15.7.0/dist/nouislider.js"></script> -->
-
-  <!-- Load clusterer JS 
-  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script> -->
-
-  <!-- Load D3  
-  <script src="https://d3js.org/d3.v7.min.js"></script> -->
-
   <!-- Load chartjs, jquery, papaparse-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.min.js"></script>
     <script src="https://unpkg.com/papaparse@5.4.1/papaparse.js"></script>
 
-  <!--  <script src="https://unpkg.com/topojson@3"></script>
-  <script src="https://unpkg.com/d3-legend"></script>
-  <script src="https://unpkg.com/d3-tip"></script>   -->  
-
-
-  <!-- Load clusterer CSS, works? 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" /> -->
-
   <script src="accidents_by_city.js"></script>
+  <script src="state_vehicle_deaths_per_miles_traveled.js"></script>
   <script src="accidents_by_city_chart.js"></script>
 </body>
 
