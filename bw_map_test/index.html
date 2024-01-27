@@ -24,7 +24,7 @@
 
         // Fetch GeoJSON data using jQuery
         $(document).ready(function() {
-            $.getJSON('members.geojson', function(data) {
+            $.getJSON('test_points.geojson', function(data) {
                 // Create a white marker layer with size based on zoom level
                 var geojsonLayer = L.geoJSON(data, {
                     pointToLayer: function (feature, latlng) {
