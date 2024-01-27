@@ -6596,14 +6596,22 @@ NB I-215 W at MP 23 (700 N) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 8:23 AM","1/27/24, 6:24 AM","1/27/24, 8:23 AM","1/27/24, 7:46 AM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174531,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
+NB I-15 at MP 261 (1400 N Springville) Utah Co.
+Est. Clearance Time: 10:50 AM","1/27/24, 8:52 AM","1/27/24, 10:50 AM","1/27/24, 8:52 AM",,40.176162,-111.646775
+UT-Incident--174535,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+SB I-15 at MP 293 (10600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 11:04 AM","1/27/24, 10:04 AM","1/27/24, 11:04 AM","1/27/24, 10:16 AM",,40.550055,-111.896336
+UT-Incident--174536,Incidents,SR 48,Salt Lake County,SR 48 at MP 8,"Crash
+EB SR 48 at MP 8 (US-89) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 11:08 AM","1/27/24, 10:09 AM","1/27/24, 11:08 AM","1/27/24, 10:09 AM",,40.609448,-111.979235
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174527,Incidents,I-15,Utah County,I-15 at MP 261,"Vehicle on fire
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:00 AM","1/27/24, 1:33 AM","1/27/24, 10:00 AM","1/27/24, 8:36 AM",,40.176162,-111.646775
-UT-Incident--174531,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
-NB I-15 at MP 261 (1400 N Springville) Utah Co.
-Est. Clearance Time: 10:50 AM","1/27/24, 8:52 AM","1/27/24, 10:50 AM","1/27/24, 8:52 AM",,40.176162,-111.646775
 UT-Incident--174532,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 SB I-15 at MP 294 (10200 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -6612,10 +6620,10 @@ UT-Incident--174534,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 Ramp NB I-15 at MP 309 (600 N) Salt Lake Co.
 WB 600 N right lanes blocked
 Est. Clearance Time: 10:56 AM","1/27/24, 9:57 AM","1/27/24, 10:56 AM","1/27/24, 9:57 AM",,40.777705,-111.910735
-UT-Incident--174535,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
-SB I-15 at MP 293 (10600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 11:04 AM","1/27/24, 10:04 AM","1/27/24, 11:04 AM","1/27/24, 10:16 AM",,40.550055,-111.896336
+UT-Incident--174538,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+NB I-15 at MP 260 (400 S / Springville) Utah Co.
+3 Right Lanes Closed
+Est. Clearance Time: 11:50 AM","1/27/24, 10:52 AM","1/27/24, 11:50 AM","1/27/24, 10:57 AM",,40.161636,-111.646866
 UT-Incident--174528,Incidents,I-80,Tooele County,I-80 at MP 33,"Crash
 EB I-80 at MP 33 (8 mi W of Knolls) Tooele Co.
 Left Lane Closed
@@ -6623,6 +6631,10 @@ Est. Clearance Time: 10:45 AM","1/27/24, 4:44 AM","1/27/24, 10:45 AM","1/27/24, 
 UT-Incident--174533,Incidents,I-80,Tooele County,I-80 at MP 66,"Crash
 WB I-80 at MP 66 (4 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 10:32 AM","1/27/24, 9:33 AM","1/27/24, 10:32 AM","1/27/24, 9:33 AM",,40.79289,-112.835958
+UT-Incident--174537,Incidents,I-80,Tooele County,I-80 at MP 83,"Crash
+EB I-80 at MP 83 (SR 138 / Grantsville) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 11:38 AM","1/27/24, 10:39 AM","1/27/24, 11:38 AM","1/27/24, 10:39 AM",,40.712461,-112.535628
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
@@ -6631,7 +6643,3 @@ UT-Incident--174489,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Directions SR 143 Closed
 at MP 17 to MP 27 
 Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
-UT-Incident--174536,Incidents,SR 48,Salt Lake County,SR 48 at MP 8,"Crash
-EB SR 48 at MP 8 (US-89) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 11:08 AM","1/27/24, 10:09 AM","1/27/24, 11:08 AM","1/27/24, 10:09 AM",,40.609448,-111.979235
