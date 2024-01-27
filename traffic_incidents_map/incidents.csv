@@ -6580,10 +6580,6 @@ UT-Incident--174523,Incidents,I-80,Tooele County,I-80 at MP 80,"Crash
 EB I-80 at MP 80 (3 mi E of Skull Valley Rd) Tooele Co.
 Est. Clearance Time: 11:45 PM","1/26/24, 10:44 PM","1/26/24, 11:45 PM","1/26/24, 10:44 PM",,40.730247,-112.587912
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174527,Incidents,I-15,Utah County,I-15 at MP 261,"NB I-15 Closed
- at MP 261 (1400 N Springville) Utah Co.
-Use Alt Route","1/27/24, 1:33 AM","1/27/24, 7:00 AM","1/27/24, 2:18 AM",,40.176162,-111.646775
 UT-Incident--174526,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 3 Right Lanes Closed
@@ -6592,6 +6588,10 @@ UT-Incident--174525,Incidents,I-84,Morgan County,I-84 at MP 100,"Crash
 EB I-84 at MP 100 (Morgan) Morgan Co.
 Left Shoulder
 Est. Clearance Time: 2:30 AM","1/27/24, 12:36 AM","1/27/24, 2:30 AM","1/27/24, 1:14 AM",,41.07219,-111.716932
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174527,Incidents,I-15,Utah County,I-15 at MP 261,"NB I-15 Closed
+ at MP 261 (1400 N Springville) Utah Co.
+Use Alt Route","1/27/24, 1:33 AM","1/27/24, 7:00 AM","1/27/24, 2:18 AM",,40.176162,-111.646775
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
