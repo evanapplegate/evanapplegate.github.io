@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Member map test</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="map" style="width: 100%; height: 700px;"></div>
+
+    <script>
+        // Initialize Leaflet map
+        var map = L.map('map').setView([21.542511, -86.224823], 3);
+        
+        // Add Mapbox tile layer
+        // L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/clru8uaq400t201qs1r0nfcfk/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+         L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/clru8uaq400t201qs1r0nfcfk/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+            maxZoom: 16
+        }).addTo(map);
+
+        // Fetch GeoJSON data using jQuery
+        $(document).ready(function() {
+            $.getJSON('members.geojson', function(data) {
+                // Create a white marker layer with size based on zoom level
+                var geojsonLayer = L.geoJSON(data, {
+                    pointToLayer: function (feature, latlng) {
+                        var markerSize = 10; // Default marker size
+                        if (map.getZoom() >= 10) {
+                            markerSize = 20; // Increase marker size when zoomed in
+                        }
+                        return L.circle(latlng, {
+                            radius: markerSize,
+                            fillColor: 'white',
+                            color: '#000',
+                            weight: 1,
+                            opacity: 1,
+                            fillOpacity: 0.8
+                        });
+                    },
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties && feature.properties.name) {
+                            layer.bindPopup(feature.properties.name);
+                        }
+                    }
+                });
+
+                // Create a marker cluster group with round, white cluster markers
+                var markers = L.markerClusterGroup({
+                    iconCreateFunction: function(cluster) {
+                        return L.divIcon({ 
+                            html: '<div style="background-color: black; color: white; border: 1px solid white; border-radius: 50%; text-align: center; width: 30px; height: 30px; line-height: 30px;">' + cluster.getChildCount() + '</div>',
+                            className: 'marker-cluster',
+                            iconSize: [30, 30]
+                        });
+                    },
+                    spiderfyOnMaxZoom: false, // Disable spiderfy at max zoom
+                    showCoverageOnHover: false // Disable cluster bounds on hover
+                });
+
+                // Add the white marker layer to the marker cluster group
+                markers.addLayer(geojsonLayer);
+
+                // Add the marker cluster group to the map
+                map.addLayer(markers);
+
+                // Update marker sizes when the map zoom changes
+                map.on('zoomend', function () {
+                    geojsonLayer.eachLayer(function (layer) {
+                        var markerSize = 10; // Default marker size
+                        if (map.getZoom() >= 10) {
+                            markerSize = 20; // Increase marker size when zoomed in
+                        }
+                        layer.setRadius(markerSize);
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>
