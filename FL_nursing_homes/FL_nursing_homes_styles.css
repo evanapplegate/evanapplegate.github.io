@@ -6,6 +6,11 @@ body {
   margin-right: 20px;
 }
 
+a {
+    color: #6e5950;
+    text-decoration: underline;
+}
+
 #title_FL_nursing_homes {
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   text-align: center;
