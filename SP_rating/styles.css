@@ -1,0 +1,41 @@
+body {
+  color: #6e5950;
+  background-color: #FEFAF6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+    color: #6e5950;
+    text-decoration: underline;
+}
+
+#SP_world_map {
+	margin-top: -60px;
+}
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%; /* Set width to 90% of the viewport width */
+    margin: auto; /* Center the container horizontally */
+    height: auto; /* Adjust height automatically */
+    aspect-ratio: 16 / 9; /* Optional: maintain an aspect ratio */
+}
+
+svg {
+    width: 100%; /* Make SVG fill the container width */
+    height: auto; /* Adjust height automatically to maintain aspect ratio */
+}
+
+.country {
+            fill: lightgrey;
+            stroke: #FEFAF6;
+            stroke-width: 0.5px;
+        }
