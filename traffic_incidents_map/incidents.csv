@@ -6642,7 +6642,6 @@ UT-Incident--174541,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
 Ramp SR 201 at MP 16 (900 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 1:04 PM","1/27/24, 12:05 PM","1/27/24, 1:04 PM","1/27/24, 12:05 PM",,40.724236,-111.924637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
@@ -6652,6 +6651,11 @@ Both Directions SR 143 Closed
 at MP 17 to MP 27 
 Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174543,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Debris
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:34 PM","1/27/24, 2:36 PM","1/27/24, 4:34 PM","1/27/24, 2:43 PM",,40.52103,-111.891246
 UT-Incident--174542,Incidents,SR 59,Washington County,SR 59 at MP 20,"Crash
 All Directions SR 59 Closed
  at MP 20 (1 Mi S of Hurricane) Washington Co.
