@@ -6643,7 +6643,6 @@ Ramp SR 201 at MP 16 (900 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 1:04 PM","1/27/24, 12:05 PM","1/27/24, 1:04 PM","1/27/24, 12:05 PM",,40.724236,-111.924637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174488,Incidents,SR 143,Iron County,SR 143 at MP 27,"Road Weather 
 Both Directions SR 143 Closed
 at MP 27 to MP 17  
@@ -6652,3 +6651,8 @@ UT-Incident--174489,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 Both Directions SR 143 Closed
 at MP 17 to MP 27 
 Iron Co.","1/26/24, 6:56 AM","1/29/24, 7:54 AM","1/26/24, 6:56 AM",,37.677725,-112.846981
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174542,Incidents,SR 59,Washington County,SR 59 at MP 20,"Crash
+All Directions SR 59 Closed
+ at MP 20 (1 Mi S of Hurricane) Washington Co.
+Use Alt Route","1/27/24, 2:22 PM","1/27/24, 5:18 PM","1/27/24, 2:25 PM",,37.170783,-113.267275
