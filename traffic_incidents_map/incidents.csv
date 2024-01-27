@@ -6538,7 +6538,6 @@ Est. Clearance Time: 4:15 PM","1/26/24, 3:27 PM","1/26/24, 4:15 PM","1/26/24, 3:
 UT-Incident--174508,Incidents,US 89,Sanpete County,US 89 at MP 239,"Crash
 US 89 at MP 239 (Centerfield) Sanpete Co.
 Est. Clearance Time: 5:00 PM","1/26/24, 3:51 PM","1/26/24, 5:00 PM","1/26/24, 3:51 PM",,39.124546,-111.819245
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174511,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9000 S,"Crash
 SB Bangerter Hwy at 9000 S Salt Lake Co.
 Right Lane Closed
@@ -6546,6 +6545,7 @@ Est. Clearance Time: 6:00 PM","1/26/24, 4:46 PM","1/26/24, 6:00 PM","1/26/24, 4:
 UT-Incident--174512,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","1/26/24, 5:11 PM","1/26/24, 6:15 PM","1/26/24, 5:11 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174516,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
