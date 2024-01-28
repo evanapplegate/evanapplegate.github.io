@@ -47,7 +47,7 @@ d3.json("hex_world_map_v2.geojson").then(data => {
         // Show the tooltip
         d3.select("#tooltip")
             .style("display", "inline")
-            .html(`Country: ${d.properties.mapped_ratings_country}<br>Rating: ${d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023}`)
+            .html(`${d.properties.mapped_ratings_country}<br>Rating: ${d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023}`)
             .style("left", (event.pageX + 5) + "px")
             .style("top", (event.pageY - 28) + "px");
                 }
@@ -63,10 +63,10 @@ d3.json("borders.json").then(bordersData => {
         .data(bordersData.features)
         .enter().append("path")
         .attr("class", "border")
-        .attr("d", path) // Use the same path generator based on your map projection
-        .style("fill", "none") // No fill for borders
-        .style("stroke", "#FEFAF6") // Stroke color
-        .style("stroke-width", "0.5px"); // Stroke width
+        .attr("d", path) // map projection
+        .style("fill", "none") 
+        .style("stroke", "#FEFAF6") 
+        .style("stroke-width", "0.5px"); 
 });
 
 
