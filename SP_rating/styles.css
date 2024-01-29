@@ -79,6 +79,14 @@ a {
     width: calc(20% - 10px);
 }
 
+/* on mobile, display: */
+@media (max-width: 768px) {
+    .chart {
+        width: 100%; /* Full width */
+        margin: 0 auto; /* Center the chart if needed */
+    }
+}
+
 .map-container {
     display: flex;
     justify-content: center;
