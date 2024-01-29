@@ -6,13 +6,13 @@ body, html {
 }
 
 body {
-  color: #6e5950;
   background-color: #FEFAF6;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 h1 {
 	text-align: center;
+    color: #6e5950;
 }
 
 p {
@@ -39,11 +39,21 @@ a {
     display: none;
 }
 
+#charts-header {
+    text-align: center;
+    color: #FEFAF6;
+    background-color: #433079;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 
 #charts-container {
     padding-top: 40px;
     padding-bottom: 40px;
-    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
     background-color: #433079;
     display: flex;
     flex-wrap: wrap;

@@ -54,11 +54,11 @@
                 .call(d3.axisBottom(x).tickValues([x.domain()[0], x.domain()[1]]).tickFormat(d3.timeFormat("%Y")))
                 .selectAll("text")
                 .attr("font-size", "8px")
-                .attr("fill", "#5b4c87");
+                .attr("fill", "#8576af");
 
             // ticks
             svg.selectAll(".tick line")
-                .attr("stroke", "#5b4c87")
+                .attr("stroke", "#8576af")
                 .attr("y2", -height);
 
             // terminal dot
