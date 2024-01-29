@@ -3,7 +3,7 @@
     var parseDate = d3.timeParse("%b. %d, %Y");
 
     // Set the dimensions of each chart
-    var margin = {top: 20, right: 20, bottom: 20, left: 20},
+    var margin = {top: 20, right: 30, bottom: 20, left: 30},
         width = 200 - margin.left - margin.right,
         height = 100 - margin.top - margin.bottom;
 
@@ -29,67 +29,67 @@
         var dataNest = d3.group(data, function(d) { return d.country_name; });
 
         dataNest.forEach(function(countryData, key) {
-            // Scale the range of the data for the x-axis
+            // Scale data
             x.domain(d3.extent(countryData, function(d) { return d.date; }));
 
-            // Append the svg object to the div with id 'charts-container'
+            // Append svg 
             var svg = d3.select("#charts-container").append("svg")
                 .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
                 .attr("class", "chart")
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-            // Add the valueline path
+            // Add line chart
             svg.append("path")
-                .datum(countryData) // Bind data to the line
+                .datum(countryData)
                 .attr("class", "line")
                 .attr("d", valueline)
                 .attr("fill", "none")
-                .attr("stroke", "#6e5950")
+                .attr("stroke", "#FEFAF6")
                 .attr("stroke-width", "2");
 
-            // Add the X Axis with only the beginning and ending values
+            // x axis
             svg.append("g")
                 .attr("transform", "translate(0," + height + ")")
                 .call(d3.axisBottom(x).tickValues([x.domain()[0], x.domain()[1]]).tickFormat(d3.timeFormat("%Y")))
                 .selectAll("text")
                 .attr("font-size", "8px")
-                .attr("fill", "#6e5950");
+                .attr("fill", "#5b4c87");
 
-            // Customize the tick lines
+            // ticks
             svg.selectAll(".tick line")
-                .attr("stroke", "#f1ebe5")
-                .attr("y2", -height); // Extend the ticks up towards the line
+                .attr("stroke", "#5b4c87")
+                .attr("y2", -height);
 
-            // Add the dot at the end of each line
+            // terminal dot
             svg.append("circle")
                 .attr("cx", x(countryData[countryData.length - 1].date))
                 .attr("cy", y(countryData[countryData.length - 1].rating_value))
                 .attr("r", 3)
-                .attr("fill", "#6e5950");
+                .attr("fill", "#FEFAF6");
 
-            // Add the label for the latest date and rating
+            // label last rating
             var latestDataPoint = countryData[countryData.length - 1];
             svg.append("text")
-                .attr("x", x(latestDataPoint.date) + 2) // Adjust the position to the right of the dot
+                .attr("x", x(latestDataPoint.date) + 2) 
                 .attr("y", y(latestDataPoint.rating_value))
-                .attr("dy", "-0.5em") // Adjust vertical alignment
+                .attr("dy", "-0.5em") 
                 .attr("class", "label")
                 .attr("font-size", "8px")
-                .attr("fill", "#6e5950")
+                .attr("fill", "#FEFAF6")
                 .text(latestDataPoint.LT_foreign_currency_rating);
 
-            // Remove the horizontal line from the X Axis
+            // remove X axis line
             svg.selectAll(".domain").remove();
 
-            // Add the title
+            // add title
             svg.append("text")
                 .attr("x", width / 2)
                 .attr("y", -margin.top / 2)
                 .attr("class", "chart-title")
-                .attr("text-anchor", "middle") // Center the title
+                .attr("text-anchor", "middle")
                 .attr("font-size", "8px")
-                .attr("fill", "#6e5950")
+                .attr("fill", "#FEFAF6")
                 .text(key);
         });
     });

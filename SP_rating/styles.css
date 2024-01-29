@@ -1,9 +1,14 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
 body {
   color: #6e5950;
   background-color: #FEFAF6;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
-  margin-left: 20px;
-  margin-right: 20px;
 }
 
 h1 {
@@ -13,8 +18,6 @@ h1 {
 p {
     text-align: center;
 }
-
-
 
 a {
     color: #6e5950;
@@ -29,15 +32,19 @@ a {
     padding: 6px;
     color: #6e5950;
     position: absolute;
-    background-color: #FEFAF6; /* Change the background color */
-    border: none; /* Remove the border */
-    border-radius: 5px; /* Add rounded corners with a 5px diameter */
+    background-color: #FEFAF6; 
+    border: none; 
+    border-radius: 5px; 
     pointer-events: none;
     display: none;
 }
 
 
 #charts-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    background-color: #433079;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -52,7 +59,6 @@ a {
 .chart {
    /* margin: 5px; */
     margin-top: 20px;
-    /* Adjust width as needed, ensure it's 1/3rd or less of the container width minus any margin/padding */
     width: calc(20% - 10px);
 }
 
@@ -60,14 +66,14 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto; /* Center the container horizontally */
-    height: auto; /* Adjust height automatically */
+    margin: auto; 
+    height: auto; 
     aspect-ratio: 16 / 9;
 }
 
 svg {
-    width: 100%; /* Make SVG fill the container width */
-    height: auto; /* Adjust height automatically to maintain aspect ratio */
+    width: 100%;
+    height: auto; 
 }
 
 .country {
