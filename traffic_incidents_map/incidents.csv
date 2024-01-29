@@ -6836,7 +6836,6 @@ Ramp I-80 at MP 146 (West of US-40) Summit Co.
 Cleared at 1:56 PM
 Est. Clearance Time: 2:31 PM","1/29/24, 1:34 PM","1/29/24, 2:31 PM","1/29/24, 1:56 PM",,40.725101,-111.511877
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174599,Incidents,Antelope Dr,Davis County,Antelope Dr at Fort Ln,"Crash
 EB Antelope Dr at Fort Ln Davis Co.
 Right Lane Closed
@@ -6845,14 +6844,15 @@ UT-Incident--174598,Incidents,I-15,Iron County,I-15 at MP 65,"Crash
 NB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 3:30 PM","1/29/24, 2:27 PM","1/29/24, 3:30 PM","1/29/24, 2:27 PM",,37.755967,-113.023287
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174602,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Right 2 Lanes Closed
 Est. Clearance Time: 3:57 PM","1/29/24, 2:59 PM","1/29/24, 3:57 PM","1/29/24, 2:59 PM",,40.238135,-111.689206
 UT-Incident--174600,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:52 PM","1/29/24, 2:52 PM","1/29/24, 3:52 PM","1/29/24, 2:52 PM",,40.63036,-111.877391
+Right Shoulder
+Est. Clearance Time: 3:52 PM","1/29/24, 2:52 PM","1/29/24, 3:52 PM","1/29/24, 3:16 PM",,40.63036,-111.877391
 UT-Incident--174601,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 5400 S,"Crash
 SB Mountain View Corridor Hwy at 5400 S Salt Lake Co.
 Est. Clearance Time: 3:56 PM","1/29/24, 2:57 PM","1/29/24, 3:56 PM","1/29/24, 3:03 PM",,40.653134,-112.045072
