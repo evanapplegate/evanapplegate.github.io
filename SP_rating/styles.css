@@ -39,6 +39,13 @@ a {
     display: none;
 }
 
+#map-header {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 #charts-header {
     text-align: center;
     color: #FEFAF6;
