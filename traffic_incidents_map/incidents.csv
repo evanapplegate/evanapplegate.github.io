@@ -6796,11 +6796,6 @@ UT-Incident--174585,Incidents,Hwy 36,Tooele County,Hwy 36 at Bates Canyon Rd,"Cr
 SB SR-36 at Bates Canyon Rd (Stansbury Park) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","1/29/24, 7:20 AM","1/29/24, 8:30 AM","1/29/24, 7:20 AM",,40.623643,-112.293126
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174591,Incidents,I-15 NB X335 On 650 N Ramp,Davis County,I-15 NB X335 On 650 N Ramp at 650 N,"Crash
-SB I-15 650 N On Ramp (Davis County)
-Right Shoulder
-Est. Clearance Time: 10:00 AM","1/29/24, 9:00 AM","1/29/24, 10:00 AM","1/29/24, 9:00 AM",,41.123906,-112.022906
 UT-Incident--174590,Incidents,I-215W NB TO SR 201 WB RAMP,Salt Lake County,I-215W NB TO SR 201 WB RAMP at SR 201 WB,"Crash
 NB I-215 W Ramp to WB SR-201 (SLC) Salt Lake Co.
 Right Shoulder
@@ -6814,11 +6809,16 @@ UT-Incident--174593,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","1/29/24, 9:22 AM","1/29/24, 10:30 AM","1/29/24, 9:22 AM",,40.355866,-111.778344
-UT-Incident--174587,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Construction
-SB I-215 E at MP 1 (3900 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 2:05 PM","1/29/24, 7:58 AM","1/29/24, 2:05 PM","1/29/24, 7:58 AM",,40.710695,-111.801136
 UT-Incident--174592,Incidents,Main St,Davis County,Main St 499,"Crash
 SB Mains St at 400 N (Davis County)
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/29/24, 9:07 AM","1/29/24, 10:00 AM","1/29/24, 9:07 AM",,40.919634,-111.878976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174591,Incidents,I-15 NB X335 On 650 N Ramp,Davis County,I-15 NB X335 On 650 N Ramp at 650 N,"Crash
+SB I-15 650 N On Ramp (Davis County)
+Right Shoulder
+Est. Clearance Time: 10:00 AM","1/29/24, 9:00 AM","1/29/24, 10:00 AM","1/29/24, 9:32 AM",,41.123906,-112.022906
+UT-Incident--174587,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Construction
+SB I-215 E at MP 1 (3900 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 2:05 PM","1/29/24, 7:58 AM","1/29/24, 2:05 PM","1/29/24, 7:58 AM",,40.710695,-111.801136
