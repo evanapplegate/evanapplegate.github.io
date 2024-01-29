@@ -42,20 +42,20 @@ d3.json("hex_world_map_v2.geojson").then(data => {
         .attr("d", path)
         .style("fill", d => ratingColors[d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023]) // Set color based on rating
         .on("mouseover", function(event, d) {
-    // Check if the country has a current rating
-    if (d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== null && d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== undefined) {
-        // Show the tooltip
-        d3.select("#tooltip")
+// Check if the country has a current rating
+    if (d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== null && d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== undefined) 
+    {
+        // Create a tooltip div element for the map
+        var mapTooltip = d3.select("#map-tooltip");
+
+        // Show the tooltip for the map
+        mapTooltip
             .style("display", "inline")
             .html(`${d.properties.mapped_ratings_country}<br>Rating: ${d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023}`)
             .style("left", (event.pageX + 5) + "px")
             .style("top", (event.pageY - 28) + "px");
-                }
-            })
-            .on("mouseout", function() {
-                // Hide the tooltip on mouseout
-                d3.select("#tooltip").style("display", "none");
-            });
+    }
+})
 
             // Load borders
 d3.json("borders.json").then(bordersData => {

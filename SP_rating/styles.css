@@ -19,6 +19,37 @@ a {
 	margin-top: -30px;
 }
 
+#map-tooltip {
+    padding: 6px;
+    color: #6e5950;
+    position: absolute;
+    background-color: #FEFAF6; /* Change the background color */
+    border: none; /* Remove the border */
+    border-radius: 5px; /* Add rounded corners with a 5px diameter */
+    pointer-events: none;
+    display: none;
+}
+
+
+#charts-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.chart-title {
+    text-anchor: middle;
+    font-size: 10px;
+}
+
+.chart {
+   /* margin: 5px; */
+    margin-top: 20px;
+    /* Adjust width as needed, ensure it's 1/3rd or less of the container width minus any margin/padding */
+    width: calc(20% - 10px);
+}
+
 .map-container {
     display: flex;
     justify-content: center;
@@ -37,21 +68,4 @@ svg {
             fill: #f2ebe4;
         }
 
-#tooltip {
-    position: absolute;
-    text-align: center;
-    width: auto;
-    height: auto;
-    padding: 2px;
-    font: 12px sans-serif;
-    background: lightsteelblue;
-    border: 0px;
-    border-radius: 4px;
-    pointer-events: none; /* Let mouse events pass through */
-    style="position: absolute;
-    display: none;
-    background: rgba(255, 255, 255, 0.9);
-    padding: 5px;
-    border: 1px solid #ccc;
-    pointer-events: none;"
-}
+

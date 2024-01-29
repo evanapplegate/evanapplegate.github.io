@@ -9,14 +9,21 @@
 
 <body>
 <h1>S&P Long Term Currency ratings</h1>
-<div id="tooltip"></div>
+ <div style="max-width: 90%; margin: 0 auto;">
+        <img src="map_key.svg" alt="Map Key" style="width: 100%; height: auto;">
+    </div>
 <div id="SP_world_map" class="map_container">
 <svg viewBox="0 0 960 600"></svg>
-
 </div>
+
+<div id="charts-container"></div>
+
+<div id="map-tooltip"></div>
+<div id="chart-tooltip"></div>
 
 <!-- load scripts -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="map.js"></script>
+    <script src="ratings_charts.js"></script>
 </body>
 </html>
