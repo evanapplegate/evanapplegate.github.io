@@ -71,7 +71,7 @@
             // Add the label for the latest date and rating
             var latestDataPoint = countryData[countryData.length - 1];
             svg.append("text")
-                .attr("x", x(latestDataPoint.date) - 8) // Adjust the position to the right of the dot
+                .attr("x", x(latestDataPoint.date) + 2) // Adjust the position to the right of the dot
                 .attr("y", y(latestDataPoint.rating_value))
                 .attr("dy", "-0.5em") // Adjust vertical alignment
                 .attr("class", "label")
