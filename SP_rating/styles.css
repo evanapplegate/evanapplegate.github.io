@@ -47,6 +47,8 @@ a {
 }
 
 #charts-header {
+    margin-top: -40px;
+    margin-bottom: -40px;
     text-align: center;
     color: #FEFAF6;
     background-color: #433079;
@@ -57,7 +59,7 @@ a {
 
 
 #charts-container {
-    padding-top: 40px;
+    padding-top: 30px;
     padding-bottom: 40px;
     padding-left: 20px;
     padding-right: 20px;
