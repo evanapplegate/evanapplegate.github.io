@@ -6763,7 +6763,6 @@ NB I-215 W at MP 19 ( I-215 W SR-201 Junction)
 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:03 PM","1/28/24, 9:07 PM","1/28/24, 10:03 PM","1/28/24, 9:12 PM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174572,Incidents,I-15,Millard County,I-15 at MP 187,"Crash
 SB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Cleared at 9:25 PM
@@ -6773,3 +6772,11 @@ WB SR 190 at MP 14 (Solitude Ski Resort) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:49 PM","1/28/24, 8:49 PM","1/28/24, 9:49 PM","1/28/24, 8:49 PM",,40.626666,-111.598413
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174579,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Lane Closure
+NB I-15 at MP 305 (2100 S to 700 S) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 1/29/2024 3:15 AM","1/28/24, 10:46 PM","1/29/24, 3:15 AM","1/28/24, 10:46 PM",,40.722344,-111.904691
+UT-Incident--174580,Incidents,I-80,Tooele County,I-80 at MP 98,"Crash
+WB I-80 Off Ramp Closed at SR-36 (MP 98 Exit 99) Tooele Co.
+Use Alt Route","1/28/24, 10:50 PM","1/28/24, 11:49 PM","1/28/24, 10:55 PM",,40.686129,-112.271303
