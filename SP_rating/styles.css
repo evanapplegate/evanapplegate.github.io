@@ -85,6 +85,9 @@ a {
         width: 100%; /* Full width */
         margin: 0 auto; /* Center the chart if needed */
     }
+    .chart svg {
+        height: 150px; /* Adjust the height as needed for mobile devices */
+    }
 }
 
 .map-container {

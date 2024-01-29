@@ -48,13 +48,16 @@
                 .attr("stroke", "#FEFAF6")
                 .attr("stroke-width", "2");
 
-            // x axis
-            svg.append("g")
+             // x axis
+            var xAxis = svg.append("g")
                 .attr("transform", "translate(0," + height + ")")
-                .call(d3.axisBottom(x).tickValues([x.domain()[0], x.domain()[1]]).tickFormat(d3.timeFormat("%Y")))
-                .selectAll("text")
+                .call(d3.axisBottom(x).tickValues([x.domain()[0], x.domain()[1]]).tickFormat(d3.timeFormat("%Y")));
+
+            // Adjust X-axis labels to move them closer to their lines
+            xAxis.selectAll("text")
                 .attr("font-size", "8px")
-                .attr("fill", "#8576af");
+                .attr("fill", "#8576af")
+                .attr("dy", "-0.2em"); // Move the text upwards towards the line
 
             // ticks
             svg.selectAll(".tick line")
