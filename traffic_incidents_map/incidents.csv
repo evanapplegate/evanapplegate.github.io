@@ -6847,7 +6847,6 @@ UT-Incident--174602,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Right 2 Lanes Closed
 Est. Clearance Time: 3:57 PM","1/29/24, 2:59 PM","1/29/24, 3:57 PM","1/29/24, 2:59 PM",,40.238135,-111.689206
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174603,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Right Lanes Closed
@@ -6864,3 +6863,8 @@ UT-Incident--174601,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy at 5400 S Salt Lake Co.
 Est. Clearance Time: 3:56 PM","1/29/24, 2:57 PM","1/29/24, 3:56 PM","1/29/24, 3:03 PM",,40.653134,-112.045072
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174605,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:03 PM","1/29/24, 4:05 PM","1/29/24, 5:03 PM","1/29/24, 4:05 PM",,40.664677,-111.90152
