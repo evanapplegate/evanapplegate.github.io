@@ -40,7 +40,7 @@ a {
 }
 
 #map-header {
-    width: 100%;
+    width: 95%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -59,8 +59,8 @@ a {
 #charts-container {
     padding-top: 40px;
     padding-bottom: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #433079;
     display: flex;
     flex-wrap: wrap;
