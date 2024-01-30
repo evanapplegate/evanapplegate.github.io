@@ -6867,8 +6867,20 @@ SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:03 PM","1/29/24, 4:05 PM","1/29/24, 5:03 PM","1/29/24, 4:05 PM",,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--174607,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at LAKE PARK BLVD,"Crash
+SB BANGERTER HWY at LAKE PARK BLVD Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:48 PM","1/29/24, 4:48 PM","1/29/24, 5:48 PM",,,40.716619,-111.984652
 UT-Incident--174606,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:36 PM","1/29/24, 4:37 PM","1/29/24, 5:36 PM","1/29/24, 4:37 PM",,40.480607,-111.902252
+Est. Clearance Time: 5:36 PM","1/29/24, 4:37 PM","1/29/24, 5:36 PM",,,40.480607,-111.902252
+UT-Incident--174608,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+SB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:48 PM","1/29/24, 4:49 PM","1/29/24, 5:48 PM",,,40.480607,-111.902252
+UT-Incident--174611,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 2100 S,"Power Outage
+All Directions Redwood Rd between 2300 S and 2900 S
+Salt Lake Co.
+Est. Clearance Time: 6:30 PM","1/29/24, 5:21 PM","1/29/24, 6:18 PM",,,40.725883,-111.938953
