@@ -6960,6 +6960,12 @@ NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:43 PM","1/30/24, 11:44 AM","1/30/24, 12:43 PM","1/30/24, 11:44 AM",,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174637,Incidents,SR 39,Weber County,SR 39 at MP 9,"Police incident
+Both Directions SR 39 Closed Through Ogden Canyon (Weber Co)
+Est. Clearance Time: 6:00 PM","1/30/24, 3:06 PM","1/30/24, 6:00 PM","1/30/24, 3:06 PM",,41.236707,-111.923062
+UT-Incident--174636,Incidents,Washington Blvd,Weber County,Washington Blvd at 28th St,"Crash
+SB Washington Blvd at 28th St Weber Co.
+Est. Clearance Time: 4:00 PM","1/30/24, 3:01 PM","1/30/24, 4:00 PM","1/30/24, 3:01 PM",,41.214395,-111.970621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174635,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
@@ -6973,12 +6979,9 @@ UT-Incident--174639,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","1/30/24, 3:38 PM","1/30/24, 4:45 PM","1/30/24, 3:38 PM",,40.346539,-111.763778
-UT-Incident--174637,Incidents,SR 39,Weber County,SR 39 at MP 9,"Police incident
-Both Directions SR 39 Closed Through Ogden Canyon (Weber Co)
-Est. Clearance Time: 6:00 PM","1/30/24, 3:06 PM","1/30/24, 6:00 PM","1/30/24, 3:06 PM",,41.236707,-111.923062
-UT-Incident--174636,Incidents,Washington Blvd,Weber County,Washington Blvd at 28th St,"Crash
-SB Washington Blvd at 28th St Weber Co.
-Est. Clearance Time: 4:00 PM","1/30/24, 3:01 PM","1/30/24, 4:00 PM","1/30/24, 3:01 PM",,41.214395,-111.970621
+UT-Incident--174641,Incidents,SR 113,Wasatch County,SR 113 at MP 4,"Crash
+SR 113 at MP 4 (850 S Midway) Wasatch Co.
+Est. Clearance Time: 5:00 PM","1/30/24, 3:56 PM","1/30/24, 5:00 PM","1/30/24, 3:56 PM",,40.512145,-111.470514
 UT-Incident--174640,Incidents,Washington Blvd,Weber County,Washington Blvd at 2550 S,"Crash
 SB Washington Blvd at 2550 S Weber Co.
 2 Left Lanes Closed
