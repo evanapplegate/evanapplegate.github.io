@@ -6903,19 +6903,30 @@ NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/30/24, 8:13 AM","1/30/24, 9:15 AM","1/30/24, 8:13 AM",,40.63583,-111.905066
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174618,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","1/30/24, 6:54 AM","1/30/24, 8:45 AM","1/30/24, 8:01 AM",,40.693589,-111.902881
-UT-Incident--174622,Incidents,I-15 NB X 289 Off Bangerter Ramp,Salt Lake County,I-15 NB X 289 Off Bangerter Ramp at Bangerter Hwy,"Crash
-NB I-15 Bangerter Off Ramp (Salt Lake County)
-Right Shoulder
-Est. Clearance Time: 9:40 AM","1/30/24, 8:36 AM","1/30/24, 9:40 AM","1/30/24, 8:36 AM",,40.497906,-111.890907
 UT-Incident--174619,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","1/30/24, 8:01 AM","1/30/24, 9:00 AM","1/30/24, 8:01 AM",,40.718332,-111.893095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174622,Incidents,I-15 NB X 289 Off Bangerter Ramp,Salt Lake County,I-15 NB X 289 Off Bangerter Ramp at Bangerter Hwy,"Crash
+NB I-15 Bangerter Off Ramp (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 9:40 AM","1/30/24, 8:36 AM","1/30/24, 9:40 AM","1/30/24, 8:36 AM",,40.497906,-111.890907
+UT-Incident--174624,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:50 AM","1/30/24, 8:51 AM","1/30/24, 9:50 AM","1/30/24, 8:51 AM",,40.718332,-111.893095
+UT-Incident--174623,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Righ Shoulder
+Est. Clearance Time: 9:45 AM","1/30/24, 8:45 AM","1/30/24, 9:45 AM","1/30/24, 8:56 AM",,40.72606,-111.962907
+UT-Incident--174625,Incidents,SR 224,Summit County,SR 224 at MP 8,"Crash
+EB SR 224 at MP 8 (Creek Dr) Summit Co.
+Est. Clearance Time: 10:05 AM","1/30/24, 9:04 AM","1/30/24, 10:05 AM","1/30/24, 9:04 AM",,40.681162,-111.532215
 UT-Incident--174621,Incidents,SR 30,Box Elder County,SR 30 at MP 97,"Crash
 Both Directions SR 30 at MP 97 (10 Mi W of Logan) Box Elder Co.
 Est. Clearance Time: 9:30 AM","1/30/24, 8:25 AM","1/30/24, 9:30 AM","1/30/24, 8:26 AM",,41.795602,-112.053642
