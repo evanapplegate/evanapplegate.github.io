@@ -5,7 +5,7 @@ $(document).ready(function() {
         complete: function(results) {
             var data = results.data;
 
-            // Sort data in descending order based on auto_deaths_2020
+            // desc order
             data.sort(function(a, b) {
                 return b.auto_deaths_2020 - a.auto_deaths_2020;
             });
@@ -14,18 +14,17 @@ $(document).ready(function() {
             var auto_deaths_2020 = data.map(function(row) { return row.auto_deaths_2020; });
             var ped_deaths_2020 = data.map(function(row) { return row.ped_deaths_2020; });
 
-            // Define the height of each bar and gaps in pixels
             var barHeight = 10;
             var barGap = 20;
             var chartHeight = (barHeight + barGap) * cities.length;
-            
-            // Set the height of the canvas
+
             var canvas = document.getElementById('chart');
             canvas.style.height = chartHeight + 'px';
 
             var ctx = canvas.getContext('2d');
 
-            new Chart(ctx, {
+            // new var to store chart
+            var myChart = new Chart(ctx, {
                 type: 'bar',
                 data: {
                     labels: cities,
@@ -49,22 +48,15 @@ $(document).ready(function() {
                     maintainAspectRatio: false,
                     scales: {
                         x: {
-                            beginAtZero: true
-                        },
-                        x1: {
-                            position: "top",
                             beginAtZero: true,
-                            min: 0,
-                            max: 200
+                            position: 'top', // x axis on top
                         },
                         y: {
                             ticks: {
                                 autoSkip: false,
                                 maxRotation: 0
                             }
-
-                        },
-                        
+                        }
                     }
                 }
             });
