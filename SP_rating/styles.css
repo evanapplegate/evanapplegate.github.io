@@ -5,11 +5,12 @@ body, html {
   height: 100%;
 }
 
-  body {
-  background-image: url("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/SP_rating/noise8.png");
-  background-color: #FEFAF6;
-  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
-}
+body {
+background-image: url("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/SP_rating/noise8.png");
+background-color: #FEFAF6;
+font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+background-size: 50%; 
+    }
 
 h1 {
 	text-align: center;
