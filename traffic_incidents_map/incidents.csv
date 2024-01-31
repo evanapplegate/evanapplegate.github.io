@@ -7036,7 +7036,6 @@ UT-Incident--174658,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
 WB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:15 AM","1/31/24, 7:04 AM","1/31/24, 9:15 AM","1/31/24, 7:12 AM",,40.753538,-112.173226
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174666,Incidents,HWY 201,Salt Lake County,HWY 201 at I-215W SB FWY,"Crash
 EB SR-201 at 2500 W (I-215 W Jct) Salt Lake Co.
 Right Shoulder
@@ -7054,14 +7053,23 @@ SB US 89 at I-84 Jct (South Weber) Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/31/24, 8:20 AM","1/31/24, 9:15 AM","1/31/24, 8:20 AM",,41.135583,-111.91275
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174663,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/31/24, 8:18 AM","1/31/24, 9:15 AM","1/31/24, 8:42 AM",,40.693589,-111.902881
+UT-Incident--174669,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
+SB I-15 at MP 310 (600 N, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","1/31/24, 9:16 AM","1/31/24, 10:15 AM","1/31/24, 9:16 AM",,40.784885,-111.912208
 UT-Incident--174661,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
 EB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/31/24, 7:41 AM","1/31/24, 10:00 AM","1/31/24, 7:41 AM",,40.758111,-112.167232
+UT-Incident--174670,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+WB I-80 at MP 117 (Redwood Rd Onramp, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","1/31/24, 9:21 AM","1/31/24, 10:30 AM","1/31/24, 9:21 AM",,40.765438,-111.953251
 UT-Incident--174662,Incidents,US 40,Wasatch County,US 40,"Crash
 EB US 40 at MP 10 Wasatch Co.
 Est. Clearance Time: 9:30 AM","1/31/24, 8:17 AM","1/31/24, 9:30 AM","1/31/24, 8:17 AM",,40.601691,-111.431214
