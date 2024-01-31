@@ -6993,7 +6993,6 @@ Est. Clearance Time: 5:45 PM","1/30/24, 4:39 PM","1/30/24, 5:45 PM","1/30/24, 4:
 UT-Incident--174646,Incidents,1000 N,Tooele County,1000 N at Main St,"Crash
 WB 1000 N at Main St Tooele Co.
 Est. Clearance Time: 6:35 PM","1/30/24, 5:22 PM","1/30/24, 6:35 PM","1/30/24, 5:22 PM",,40.551028,-112.299148
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174648,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 SB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
@@ -7011,3 +7010,4 @@ UT-Incident--174650,Incidents,US 191,Duchesne County,US 191 at MP 266,"Vehicle o
 Both Directions US 191 at MP 266 (16 miles N of Helper) Duchesne Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","1/30/24, 5:53 PM","1/30/24, 7:15 PM","1/30/24, 5:53 PM",,39.878327,-110.755233
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
