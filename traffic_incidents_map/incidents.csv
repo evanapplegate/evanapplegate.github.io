@@ -7030,18 +7030,22 @@ UT-Incident--174657,Incidents,US 91,Box Elder County,US 91 at MP 4,"Crash
 WB US 91 at MP 4 (Mantua) Box Elder Co.
 Est. Clearance Time: 7:15 AM","1/31/24, 6:08 AM","1/31/24, 7:15 AM","1/31/24, 6:08 AM",,41.499746,-111.985862
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174660,Incidents,2100 S,Weber County,2100 S at 1900 W,"Crash
 All Directions 1900 W at 21st St (West Haven) Weber Co.
 Est. Clearance Time: 8:45 AM","1/31/24, 7:33 AM","1/31/24, 8:45 AM","1/31/24, 7:36 AM",,41.228743,-112.025566
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174659,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 NB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
-Est. Clearance Time: 8:30 AM","1/31/24, 7:22 AM","1/31/24, 8:30 AM","1/31/24, 7:22 AM",,40.161636,-111.646866
+Est. Clearance Time: 9:30 AM","1/31/24, 7:22 AM","1/31/24, 9:30 AM","1/31/24, 8:27 AM",,40.161636,-111.646866
 UT-Incident--174663,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/31/24, 8:18 AM","1/31/24, 9:15 AM","1/31/24, 8:18 AM",,40.693589,-111.902881
+UT-Incident--174665,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
+NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
+Right/Left Shoulders
+Est. Clearance Time: 9:30 AM","1/31/24, 8:29 AM","1/31/24, 9:30 AM","1/31/24, 8:29 AM",,40.274259,-111.718248
 UT-Incident--174658,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
 WB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
 Left Lane Closed
@@ -7053,3 +7057,7 @@ Est. Clearance Time: 10:00 AM","1/31/24, 7:41 AM","1/31/24, 10:00 AM","1/31/24, 
 UT-Incident--174662,Incidents,US 40,Wasatch County,US 40,"Crash
 EB US 40 at MP 10 Wasatch Co.
 Est. Clearance Time: 9:30 AM","1/31/24, 8:17 AM","1/31/24, 9:30 AM","1/31/24, 8:17 AM",,40.601691,-111.431214
+UT-Incident--174664,Incidents,US 89,Weber County,US 89 6810,"Crash
+SB US 89 at I-84 Jct (South Weber) Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","1/31/24, 8:20 AM","1/31/24, 9:15 AM","1/31/24, 8:20 AM",,41.135583,-111.91275
