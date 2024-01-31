@@ -6973,7 +6973,6 @@ UT-Incident--174640,Incidents,Washington Blvd,Weber County,Washington Blvd at 25
 SB Washington Blvd at 2550 S Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 4:45 PM","1/30/24, 3:42 PM","1/30/24, 4:45 PM","1/30/24, 3:42 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174639,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -6992,3 +6991,11 @@ Est. Clearance Time: 5:00 PM","1/30/24, 3:56 PM","1/30/24, 5:00 PM","1/30/24, 3:
 UT-Incident--174644,Incidents,Washington Blvd,Weber County,Washington Blvd at 28th St,"Crash
 SB Washington Blvd at 28th St Weber Co.
 Est. Clearance Time: 5:45 PM","1/30/24, 4:39 PM","1/30/24, 5:45 PM","1/30/24, 4:39 PM",,41.214395,-111.970621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174646,Incidents,1000 N,Tooele County,1000 N at Main St,"Crash
+WB 1000 N at Main St Tooele Co.
+Est. Clearance Time: 6:35 PM","1/30/24, 5:22 PM","1/30/24, 6:35 PM","1/30/24, 5:22 PM",,40.551028,-112.299148
+UT-Incident--174647,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Crash
+NB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 6:35 PM","1/30/24, 5:28 PM","1/30/24, 6:35 PM","1/30/24, 5:28 PM",,40.883316,-111.937161
