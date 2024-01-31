@@ -7080,7 +7080,6 @@ NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","1/31/24, 12:55 PM","1/31/24, 2:30 PM","1/31/24, 12:55 PM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174672,Incidents,ALPINE LOOP RD,Utah County,ALPINE LOOP RD 2451,"Crash
 SR-92 at MP 25 (Alpine Loop) Utah Co.
 Est. Clearance Time: 1:45 PM","1/31/24, 12:36 PM","1/31/24, 1:45 PM","1/31/24, 12:36 PM",,40.390217,-111.57563
@@ -7092,3 +7091,7 @@ UT-Incident--174674,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:30 PM","1/31/24, 1:18 PM","1/31/24, 2:30 PM","1/31/24, 1:18 PM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174676,Incidents,SR 28,Sanpete County,SR 28 at MP 15,"Crash
+SR 28 at MP 15 (Yuba Lake) Sanpete Co.
+Est. Clearance Time: 4:30 PM","1/31/24, 3:12 PM","1/31/24, 4:30 PM","1/31/24, 3:12 PM",,39.352252,-111.92932
