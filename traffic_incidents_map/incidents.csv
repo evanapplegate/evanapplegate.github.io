@@ -7017,7 +7017,6 @@ UT-Incident--174653,Incidents,US 40,Uintah County,US 40 at MP 129,"Vehicle on fi
 US 40 at MP 129 (15 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 1/31/2024 12:30 AM","1/30/24, 11:18 PM","1/31/24, 12:30 AM","1/30/24, 11:18 PM",,40.314124,-109.717703
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174654,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 Right Shoulder
@@ -7025,3 +7024,4 @@ Est. Clearance Time: 1/31/2024 12:30 AM","1/30/24, 11:26 PM","1/31/24, 12:30 AM"
 UT-Incident--174655,Incidents,SR 39,Weber County,SR 39 at MP 14,"Crash
 Both Directions SR 39 at MP 14 (Pineview Res) Weber Co.
 Est. Clearance Time: 1/31/2024 1:30 AM","1/30/24, 11:48 PM","1/31/24, 1:30 AM","1/30/24, 11:48 PM",,41.254631,-111.837868
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
