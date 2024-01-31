@@ -7052,7 +7052,6 @@ UT-Incident--174664,Incidents,US 89,Weber County,US 89 6810,"Crash
 SB US 89 at I-84 Jct (South Weber) Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","1/31/24, 8:20 AM","1/31/24, 9:15 AM","1/31/24, 8:20 AM",,41.135583,-111.91275
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174663,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -7061,6 +7060,7 @@ UT-Incident--174661,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
 EB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","1/31/24, 7:41 AM","1/31/24, 10:00 AM","1/31/24, 7:41 AM",,40.758111,-112.167232
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174669,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (600 N, SLC) Salt Lake Co.
@@ -7072,8 +7072,8 @@ Right Shoulder
 Est. Clearance Time: 10:30 AM","1/31/24, 9:21 AM","1/31/24, 10:30 AM","1/31/24, 9:21 AM",,40.765438,-111.953251
 UT-Incident--174671,Incidents,SR 201 EB X15 TO I-215W SB RAMP,Salt Lake County,SR 201 EB X15 TO I-215W SB RAMP at I-215W SB,"Crash
 EB SR 201 Exit 15 To I-215W SB Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 11:30 AM","1/31/24, 9:28 AM","1/31/24, 11:30 AM","1/31/24, 9:28 AM",,40.724953,-111.954561
+Ramp Closed
+Est. Clearance Time: 11:30 AM","1/31/24, 9:28 AM","1/31/24, 11:30 AM","1/31/24, 9:41 AM",,40.724953,-111.954561
 UT-Incident--174662,Incidents,US 40,Wasatch County,US 40,"Crash
 EB US 40 at MP 10 Wasatch Co.
 Est. Clearance Time: 9:30 AM","1/31/24, 8:17 AM","1/31/24, 9:30 AM","1/31/24, 8:17 AM",,40.601691,-111.431214
