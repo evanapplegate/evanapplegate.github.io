@@ -7170,7 +7170,6 @@ UT-Incident--174712,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 SB I-15 at MP 269 (University Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","2/1/24, 3:02 PM","2/1/24, 4:00 PM",,,40.274259,-111.718248
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174709,Incidents,Midland Dr,Weber County,Midland Dr at 4000 S,"Crash
 NB Midland Dr at 4000 S Weber Co.
 Cleared at 3:23 PM
@@ -7187,7 +7186,16 @@ Est. Clearance Time: 4:00 PM","2/1/24, 2:57 PM","2/1/24, 4:00 PM","2/1/24, 2:58 
 UT-Incident--174708,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 4:00 PM","2/1/24, 2:47 PM","2/1/24, 4:00 PM","2/1/24, 2:47 PM",,37.613172,-113.153387
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174711,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/1/24, 3:00 PM","2/1/24, 4:00 PM","2/1/24, 3:00 PM",,37.479917,-113.221413
+UT-Incident--174714,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 Onramp at MP 297 (7200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","2/1/24, 3:58 PM","2/1/24, 4:56 PM","2/1/24, 3:58 PM",,40.607173,-111.905403
+UT-Incident--174713,Incidents,I-15 SB X278 OFF MAIN ST WB RAMP,Utah County,I-15 SB X278 OFF MAIN ST WB RAMP at MAIN ST,"Crash
+WB Pioneer Crossing at I-15 Fwy Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","2/1/24, 3:55 PM","2/1/24, 4:45 PM","2/1/24, 3:59 PM",,40.376962,-111.821138
