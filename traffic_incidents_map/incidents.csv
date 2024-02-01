@@ -7140,7 +7140,6 @@ UT-Incident--174700,Incidents,I-15,Utah County,I-15 at MP 270,"Vehicle on fire
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:01 AM","2/1/24, 7:02 AM","2/1/24, 8:01 AM","2/1/24, 7:02 AM",View on map,40.282988,-111.724829
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174705,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -7164,7 +7163,8 @@ UT-Incident--174703,Incidents,I-80 EB X124 On State St Ramp,Salt Lake County,I-8
 EB I-80 State St On Ramp Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","2/1/24, 8:32 AM","2/1/24, 9:30 AM",,,40.717874,-111.888252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174706,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 2850,"Crash
 SB Washington Blvd at 29th St (Ogden) Weber Co.
-SB Lanes Closed
+Right Shoulder
 Est. Clearance Time: 10:45 AM","2/1/24, 9:42 AM","2/1/24, 10:45 AM",,,41.212669,-111.970645
