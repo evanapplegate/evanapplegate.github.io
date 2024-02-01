@@ -7178,7 +7178,6 @@ UT-Incident--174707,Incidents,Wall Ave,Weber County,Wall Ave at North St,"HAZMAT
 Both Directions Wall Ave at North St (Ogden/Harrisville) Weber Co.
 SB Right Shoulder
 Est. Clearance Time: 3:45 PM","2/1/24, 2:22 PM","2/1/24, 3:45 PM",,,41.268008,-111.977676
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174710,Incidents,5600 W,Salt Lake County,5600 W 89,"Crash
 SB 5600 W at I-80 EB Fwy Salt Lake Co.
 Left Lane Closed
@@ -7191,11 +7190,12 @@ UT-Incident--174711,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/1/24, 3:00 PM","2/1/24, 4:00 PM","2/1/24, 3:00 PM",,37.479917,-113.221413
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174714,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Onramp at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:00 PM","2/1/24, 3:58 PM","2/1/24, 4:56 PM","2/1/24, 3:58 PM",,40.607173,-111.905403
+Est. Clearance Time: 5:00 PM","2/1/24, 3:58 PM","2/1/24, 4:56 PM","2/1/24, 3:58 PM",View on map,40.607173,-111.905403
 UT-Incident--174713,Incidents,I-15 SB X278 OFF MAIN ST WB RAMP,Utah County,I-15 SB X278 OFF MAIN ST WB RAMP at MAIN ST,"Crash
 WB Pioneer Crossing at I-15 Fwy Utah Co.
 Right Shoulder
-Est. Clearance Time: 4:45 PM","2/1/24, 3:55 PM","2/1/24, 4:45 PM","2/1/24, 3:59 PM",,40.376962,-111.821138
+Est. Clearance Time: 4:45 PM","2/1/24, 3:55 PM","2/1/24, 4:45 PM","2/1/24, 3:59 PM",View on map,40.376962,-111.821138
