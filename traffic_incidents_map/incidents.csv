@@ -7117,7 +7117,6 @@ Est. Clearance Time: 10:15 PM","1/31/24, 9:04 PM","1/31/24, 10:15 PM","1/31/24, 
 UT-Incident--174693,Incidents,SR 92,Utah County,SR 92 at MP 27,"Crash
 SR 92 at MP 27 (US-189 Jct) Utah Co.
 Est. Clearance Time: 1:00 AM","1/31/24, 10:36 PM","2/1/24, 1:00 AM","1/31/24, 11:47 PM",,40.368169,-111.559358
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174695,Incidents,HWY 201,Salt Lake County,HWY 201 at 5600 W,"Crash
 WB HWY 201 at 5600 W Salt Lake Co.
 Left Shoulder
@@ -7126,6 +7125,7 @@ UT-Incident--174696,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Stalled Vehi
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:24 AM","2/1/24, 1:25 AM","2/1/24, 2:24 AM","2/1/24, 1:25 AM",,40.599986,-111.904069
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174694,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Construction
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
