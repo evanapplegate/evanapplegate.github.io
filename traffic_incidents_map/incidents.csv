@@ -7185,17 +7185,29 @@ Est. Clearance Time: 4:00 PM","2/1/24, 2:57 PM","2/1/24, 4:00 PM","2/1/24, 2:58 
 UT-Incident--174708,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 4:00 PM","2/1/24, 2:47 PM","2/1/24, 4:00 PM","2/1/24, 2:47 PM",,37.613172,-113.153387
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174711,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/1/24, 3:00 PM","2/1/24, 4:00 PM","2/1/24, 3:00 PM",,37.479917,-113.221413
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174716,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
+SB 3500 W at 5600 S Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:30 PM","2/1/24, 4:23 PM","2/1/24, 5:30 PM","2/1/24, 4:24 PM",,41.161556,-112.064462
 UT-Incident--174714,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Onramp at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:00 PM","2/1/24, 3:58 PM","2/1/24, 4:56 PM","2/1/24, 3:58 PM",View on map,40.607173,-111.905403
+Est. Clearance Time: 5:00 PM","2/1/24, 3:58 PM","2/1/24, 4:56 PM","2/1/24, 3:58 PM",,40.607173,-111.905403
 UT-Incident--174713,Incidents,I-15 SB X278 OFF MAIN ST WB RAMP,Utah County,I-15 SB X278 OFF MAIN ST WB RAMP at MAIN ST,"Crash
 WB Pioneer Crossing at I-15 Fwy Utah Co.
 Right Shoulder
-Est. Clearance Time: 4:45 PM","2/1/24, 3:55 PM","2/1/24, 4:45 PM","2/1/24, 3:59 PM",View on map,40.376962,-111.821138
+Est. Clearance Time: 4:45 PM","2/1/24, 3:55 PM","2/1/24, 4:45 PM","2/1/24, 3:59 PM",,40.376962,-111.821138
+UT-Incident--174717,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","2/1/24, 4:26 PM","2/1/24, 5:30 PM","2/1/24, 4:26 PM",,40.724124,-111.943886
+UT-Incident--174715,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","2/1/24, 4:19 PM","2/1/24, 5:30 PM","2/1/24, 4:19 PM",,40.560962,-111.427534
