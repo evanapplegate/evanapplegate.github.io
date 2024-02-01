@@ -7090,7 +7090,6 @@ UT-Incident--174674,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:30 PM","1/31/24, 1:18 PM","1/31/24, 2:30 PM","1/31/24, 1:18 PM",,40.63036,-111.877391
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174678,Incidents,I-15,Washington County,I-15 at MP 10,"Crash
 NB I-15 at MP 10 (2100 E / St George) Washington Co.
 Right Lane Closed
@@ -7103,3 +7102,7 @@ UT-Incident--174676,Incidents,SR 28,Sanpete County,SR 28 at MP 15,"Crash
 SR 28 at MP 15 (Yuba Lake) Sanpete Co.
 Est. Clearance Time: 4:30 PM","1/31/24, 3:12 PM","1/31/24, 4:30 PM","1/31/24, 3:12 PM",,39.352252,-111.92932
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174689,Incidents,SR 126,Davis County,SR 126 at MP 3,"Crash
+NB SR 126 at MP 3 (2000 N) Davis Co.
+Est. Clearance Time: 7:35 PM","1/31/24, 6:23 PM","1/31/24, 7:35 PM","1/31/24, 6:23 PM",,41.085413,-111.997292
