@@ -7333,11 +7333,14 @@ UT-Incident--174754,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:50 AM","2/2/24, 9:51 AM","2/2/24, 10:50 AM","2/2/24, 9:51 AM",View on map,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174759,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:29 AM","2/2/24, 10:31 AM","2/2/24, 11:29 AM","2/2/24, 10:39 AM",View on map,40.831692,-111.91596
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174755,Incidents,I-80,Summit County,I-80 at MP 168,"Crash
+EB I-80 at MP 168 (I-84/ Echo Jct) Summit Co.
+Est. Clearance Time: 11:28 AM","2/2/24, 10:00 AM","2/2/24, 11:28 AM","2/2/24, 10:00 AM",View on map,40.976838,-111.428675
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174758,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
 NB I-15 at MP 329 (550 S Layton) Davis Co.
@@ -7354,9 +7357,10 @@ UT-Incident--174760,Incidents,I-215W SB X22A TO I-80 WB RAMP,Salt Lake County,I-
 SB I-215W X22A TO I-80  RAMP at I-80 WB Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:49 AM","2/2/24, 10:50 AM","2/2/24, 11:49 AM","2/2/24, 10:50 AM",View on map,40.767655,-111.951823
-UT-Incident--174755,Incidents,I-80,Summit County,I-80 at MP 168,"Crash
-EB I-80 at MP 168 (I-84/ Echo Jct) Summit Co.
-Est. Clearance Time: 11:28 AM","2/2/24, 10:00 AM","2/2/24, 11:28 AM","2/2/24, 10:00 AM",View on map,40.976838,-111.428675
+UT-Incident--174764,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 12:10 PM","2/2/24, 11:11 AM","2/2/24, 12:10 PM","2/2/24, 11:11 AM",View on map,40.765438,-111.953251
 UT-Incident--174756,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80  TO I-215 W COL at I-215 W SB Salt Lake Co.
 Est. Clearance Time: 11:00 AM","2/2/24, 10:01 AM","2/2/24, 11:00 AM","2/2/24, 10:05 AM",View on map,40.761648,-111.951645
