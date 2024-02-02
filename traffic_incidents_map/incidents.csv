@@ -7258,11 +7258,15 @@ UT-Incident--174735,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2/2/2024 12:30 AM","2/1/24, 11:32 PM","2/2/24, 12:30 AM","2/1/24, 11:32 PM",,40.846156,-111.91486
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174736,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Est. Clearance Time: 1:02 AM","2/2/24, 12:03 AM","2/2/24, 1:02 AM","2/2/24, 12:03 AM",,37.476893,-113.221935
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174737,Incidents,I-15,Utah County,I-15 at MP 274,"Stalled Vehicle
+NB I-15 at MP 274 (Lindon) Utah Co.
+Right Shoulder
+Est. Clearance Time: 2:27 AM","2/2/24, 1:29 AM","2/2/24, 2:27 AM","2/2/24, 1:29 AM",View on map,40.337197,-111.749203
 UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron/Garfield Co.
 Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",View on map,37.828866,-112.814606
