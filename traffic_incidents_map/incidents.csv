@@ -7205,7 +7205,6 @@ UT-Incident--174715,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","2/1/24, 4:19 PM","2/1/24, 5:30 PM","2/1/24, 4:19 PM",,40.560962,-111.427534
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174719,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Stalled Vehicle
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Center Lane Closed
@@ -7222,10 +7221,18 @@ WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","2/1/24, 4:26 PM","2/1/24, 5:30 PM","2/1/24, 4:26 PM",View on map,40.724124,-111.943886
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174729,Incidents,700 E,Salt Lake County,700 E at 11000 S,"Crash
+NB 700 E at 11000 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:00 PM","2/1/24, 7:00 PM","2/1/24, 8:00 PM","2/1/24, 7:00 PM",,40.551615,-111.872212
 UT-Incident--174725,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","2/1/24, 5:53 PM","2/1/24, 7:00 PM","2/1/24, 5:53 PM",,40.492398,-111.891485
+UT-Incident--174728,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
+SB I-15 at MP 59 (200 N / Cedar City) Iron Co.
+Est. Clearance Time: 7:45 PM","2/1/24, 6:42 PM","2/1/24, 7:45 PM","2/1/24, 6:42 PM",,37.68304,-113.079774
 UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron/Garfield Co.
 Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",,37.828866,-112.814606
