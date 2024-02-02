@@ -7356,11 +7356,18 @@ EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 12:01 PM","2/2/24, 11:02 AM","2/2/24, 12:01 PM","2/2/24, 11:02 AM",View on map,40.654652,-111.457229
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174758,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
 NB I-15 at MP 329 (550 S Layton) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:17 AM","2/2/24, 10:18 AM","2/2/24, 11:17 AM","2/2/24, 10:18 AM",View on map,41.041629,-111.953074
+UT-Incident--174757,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
+SB I-215 W at MP 24 (1200 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 11:08 AM","2/2/24, 10:09 AM","2/2/24, 11:08 AM","2/2/24, 10:13 AM",View on map,40.789416,-111.949318
+UT-Incident--174756,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
+WB I-80  TO I-215 W COL at I-215 W SB Salt Lake Co.
+Est. Clearance Time: 11:00 AM","2/2/24, 10:01 AM","2/2/24, 11:00 AM","2/2/24, 10:05 AM",View on map,40.761648,-111.951645
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174766,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 SB I-15 at MP 267 (N of Center St) Utah Co.
 Left Shoulder
@@ -7372,10 +7379,9 @@ Est. Clearance Time: 1:10 PM","2/2/24, 12:11 PM","2/2/24, 1:10 PM","2/2/24, 12:1
 UT-Incident--174768,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
 NB I-215 to I-80 Salt Lake Co.
 Est. Clearance Time: 1:24 PM","2/2/24, 12:25 PM","2/2/24, 1:24 PM","2/2/24, 12:25 PM",View on map,40.759327,-111.950195
-UT-Incident--174757,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
-SB I-215 W at MP 24 (1200 N) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 11:08 AM","2/2/24, 10:09 AM","2/2/24, 11:08 AM","2/2/24, 10:13 AM",View on map,40.789416,-111.949318
-UT-Incident--174756,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
-WB I-80  TO I-215 W COL at I-215 W SB Salt Lake Co.
-Est. Clearance Time: 11:00 AM","2/2/24, 10:01 AM","2/2/24, 11:00 AM","2/2/24, 10:05 AM",View on map,40.761648,-111.951645
+UT-Incident--174769,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+Ramp SB I-215 W  at MP 23 (700 N On Ramp) Salt Lake Co.
+Est. Clearance Time: 1:27 PM","2/2/24, 12:31 PM","2/2/24, 1:27 PM","2/2/24, 12:31 PM",View on map,40.775011,-111.949343
+UT-Incident--174770,Incidents,US 6,Utah County,US 6 at MP 207,"Crash
+Both Directions US 6 at MP 207 (3 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 1:33 PM","2/2/24, 12:35 PM","2/2/24, 1:33 PM","2/2/24, 12:35 PM",View on map,39.935788,-111.143823
