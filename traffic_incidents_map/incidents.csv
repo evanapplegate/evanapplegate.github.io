@@ -7228,7 +7228,6 @@ UT-Incident--174727,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
 WB SR 201 at MP 9 (6800 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:30 PM","2/1/24, 6:22 PM","2/1/24, 7:30 PM","2/1/24, 6:27 PM",,40.718554,-112.056887
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174729,Incidents,700 E,Salt Lake County,700 E at 11000 S,"Crash
 NB 700 E at 11000 S Salt Lake Co.
 Right Lane Closed
@@ -7237,6 +7236,11 @@ UT-Incident--174728,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 SB I-15 at MP 59 (200 N / Cedar City) Iron Co.
 Est. Clearance Time: 7:45 PM","2/1/24, 6:42 PM","2/1/24, 7:45 PM","2/1/24, 6:42 PM",,37.68304,-113.079774
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174730,Incidents,I-80,Salt Lake County,I-80 at MP 110,"Crash
+WB I-80 at MP 110 (7200 W) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:52 PM","2/1/24, 7:56 PM","2/1/24, 8:52 PM","2/1/24, 7:56 PM",,40.771146,-112.086172
 UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron/Garfield Co.
 Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",,37.828866,-112.814606
