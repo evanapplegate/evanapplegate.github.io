@@ -7288,7 +7288,6 @@ UT-Incident--174742,Incidents,SR 20,Iron County,SR 20 at MP 8,"Crash
 WB SR 20 at MP 8 (8 Mi E of I-15) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:40 AM","2/2/24, 6:41 AM","2/2/24, 7:40 AM","2/2/24, 6:41 AM",View on map,38.041941,-112.561375
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174746,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
@@ -7298,17 +7297,22 @@ UT-Incident--174747,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:16 AM","2/2/24, 8:18 AM","2/2/24, 9:16 AM","2/2/24, 8:18 AM",View on map,40.401041,-111.849765
-UT-Incident--174744,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-SB I-215 W at MP 23 (700 N) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 9:24 AM","2/2/24, 7:24 AM","2/2/24, 9:24 AM","2/2/24, 7:54 AM",View on map,40.775011,-111.949343
 UT-Incident--174743,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 to NB I-215 W Exit, Salt Lake Co.
 Exit Closed
 Est. Clearance Time: 8:30 AM","2/2/24, 6:59 AM","2/2/24, 7:58 AM","2/2/24, 8:06 AM",View on map,40.76411,-111.949928
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174744,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:24 AM","2/2/24, 7:24 AM","2/2/24, 9:24 AM","2/2/24, 7:54 AM",View on map,40.775011,-111.949343
 UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron/Garfield Co.
 Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",View on map,37.828866,-112.814606
 UT-Incident--174721,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143 Closed MP 17-27 Iron Co.
 Road Closed Until Further Notice Due to Inclement Weather","2/1/24, 5:11 PM","2/2/24, 12:00 PM","2/1/24, 5:11 PM",View on map,37.677725,-112.846981
+UT-Incident--174748,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
+WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:39 AM","2/2/24, 8:39 AM","2/2/24, 9:39 AM","2/2/24, 8:39 AM",View on map,39.932532,-111.161681
