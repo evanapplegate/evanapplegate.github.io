@@ -7189,7 +7189,6 @@ UT-Incident--174711,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/1/24, 3:00 PM","2/1/24, 4:00 PM","2/1/24, 3:00 PM",,37.479917,-113.221413
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174716,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 SB 3500 W at 5600 S Weber Co.
 Right Lane Closed
@@ -7218,13 +7217,25 @@ Est. Clearance Time: 6:00 PM","2/1/24, 4:55 PM","2/1/24, 6:00 PM","2/1/24, 4:55 
 UT-Incident--174722,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 Onramp at MP 263 (University Ave) Utah Co.
 Est. Clearance Time: 6:15 PM","2/1/24, 5:16 PM","2/1/24, 6:15 PM","2/1/24, 5:16 PM",View on map,40.203376,-111.655441
-UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 MP 4-50 Iron/Garfield Co.
-Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",View on map,37.828866,-112.814606
-UT-Incident--174721,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143 Closed MP 17-27 Iron Co.
-Road Closed Until Further Notice Due to Inclement Weather","2/1/24, 5:11 PM","2/2/24, 12:00 PM","2/1/24, 5:11 PM",View on map,37.677725,-112.846981
 UT-Incident--174717,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","2/1/24, 4:26 PM","2/1/24, 5:30 PM","2/1/24, 4:26 PM",View on map,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174725,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bangerter Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","2/1/24, 5:53 PM","2/1/24, 7:00 PM","2/1/24, 5:53 PM",,40.492398,-111.891485
+UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 MP 4-50 Iron/Garfield Co.
+Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",,37.828866,-112.814606
+UT-Incident--174721,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Directions SR 143 Closed MP 17-27 Iron Co.
+Road Closed Until Further Notice Due to Inclement Weather","2/1/24, 5:11 PM","2/2/24, 12:00 PM","2/1/24, 5:11 PM",,37.677725,-112.846981
+UT-Incident--174727,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+WB SR 201 at MP 9 (6800 W) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:30 PM","2/1/24, 6:22 PM","2/1/24, 7:30 PM","2/1/24, 6:27 PM",,40.718554,-112.056887
+UT-Incident--174726,Incidents,SR 44,Daggett County,SR 44 at MP 11,"Crash
+SR 44 at MP 11 (17 Mi S of Manila) Daggett Co.
+Est. Clearance Time: 7:15 PM","2/1/24, 6:09 PM","2/1/24, 7:15 PM","2/1/24, 6:09 PM",,40.84932,-109.670427
