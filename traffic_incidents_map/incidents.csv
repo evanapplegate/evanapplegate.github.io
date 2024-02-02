@@ -7402,12 +7402,16 @@ UT-Incident--174779,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:15 PM","2/2/24, 3:13 PM","2/2/24, 4:15 PM","2/2/24, 3:13 PM",View on map,40.765165,-111.991516
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174773,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 WB I-215 S at MP 11 (700 W) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:45 PM","2/2/24, 1:46 PM","2/2/24, 2:45 PM","2/2/24, 1:55 PM",View on map,40.634373,-111.895376
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174785,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
+SB I-15 at MP 330 (Layton Pkwy) Davis Co.
+Left Shoulder
+Est. Clearance Time: 5:25 PM","2/2/24, 4:22 PM","2/2/24, 5:25 PM","2/2/24, 4:22 PM",View on map,41.054659,-111.961089
 UT-Incident--174778,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
@@ -7423,6 +7427,9 @@ UT-Incident--174782,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","2/2/24, 3:51 PM","2/2/24, 5:00 PM","2/2/24, 3:51 PM",View on map,40.765438,-111.953251
+UT-Incident--174784,Incidents,SR 20,Iron County,SR 20 at MP 10,"Crash
+SB SR 20 at MP 10 (10 Mi E of I-15) Iron Co.
+Est. Clearance Time: 5:30 PM","2/2/24, 4:19 PM","2/2/24, 5:30 PM","2/2/24, 4:19 PM",View on map,38.031112,-112.530889
 UT-Incident--174783,Incidents,SR 68,Davis County,SR 68 at MP 64,"Crash
 NB SR 68 at MP 64 (420 N / North Salt Lake) Davis Co.
 Right Shoulder
