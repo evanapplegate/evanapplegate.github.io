@@ -7304,11 +7304,11 @@ UT-Incident--174748,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
 WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:39 AM","2/2/24, 8:39 AM","2/2/24, 9:39 AM","2/2/24, 8:39 AM",View on map,39.932532,-111.161681
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174749,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (400 N on ramp) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:56 AM","2/2/24, 8:56 AM","2/2/24, 9:56 AM","2/2/24, 8:56 AM",View on map,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174744,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
@@ -7318,6 +7318,10 @@ UT-Incident--174750,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:03 AM","2/2/24, 9:06 AM","2/2/24, 10:03 AM","2/2/24, 9:06 AM",View on map,40.765772,-111.934049
+UT-Incident--174752,Incidents,I-84,Summit County,I-84 at MP 115,"Crash
+WB I-84 at MP 115 (Henefer) Summit Co.
+Right Shoulder
+Est. Clearance Time: 10:28 AM","2/2/24, 9:29 AM","2/2/24, 10:28 AM","2/2/24, 9:29 AM",View on map,41.020995,-111.493439
 UT-Incident--174718,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50 Iron/Garfield Co.
 Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 6:00 AM","2/1/24, 4:42 PM",View on map,37.828866,-112.814606
