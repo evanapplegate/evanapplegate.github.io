@@ -7383,7 +7383,6 @@ Est. Clearance Time: 1:24 PM","2/2/24, 12:25 PM","2/2/24, 1:24 PM","2/2/24, 12:2
 UT-Incident--174772,Incidents,MAIN ST,Iron County,MAIN ST 901,"Crash
 SB Main St at 1045 N Iron Co.
 Est. Clearance Time: 2:45 PM","2/2/24, 1:40 PM","2/2/24, 2:45 PM","2/2/24, 1:52 PM",View on map,37.700389,-113.064044
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174767,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Left Lane Closed
@@ -7391,6 +7390,7 @@ Est. Clearance Time: 2:10 PM","2/2/24, 12:11 PM","2/2/24, 2:10 PM","2/2/24, 1:17
 UT-Incident--174770,Incidents,US 6,Utah County,US 6 at MP 207,"Crash
 Both Directions US 6 at MP 207 (3 Mi W of Soldier Summit) Utah Co.
 Est. Clearance Time: 1:33 PM","2/2/24, 12:35 PM","2/2/24, 1:33 PM","2/2/24, 12:35 PM",View on map,39.935788,-111.143823
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174775,Incidents,3500 S,Salt Lake County,3500 S at 4000 W,"Crash
 EB 3500 S at 4000 W Salt Lake Co.
@@ -7400,3 +7400,7 @@ UT-Incident--174773,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 WB I-215 S at MP 11 (700 W) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:45 PM","2/2/24, 1:46 PM","2/2/24, 2:45 PM","2/2/24, 1:55 PM",View on map,40.634373,-111.895376
+UT-Incident--174776,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
+SB I-215 W at MP 26 (2800 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:30 PM","2/2/24, 2:31 PM","2/2/24, 3:30 PM","2/2/24, 2:31 PM",View on map,40.817974,-111.949525
