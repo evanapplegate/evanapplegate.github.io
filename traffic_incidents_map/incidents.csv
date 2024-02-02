@@ -7292,7 +7292,6 @@ UT-Incident--174746,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:42 AM","2/2/24, 7:43 AM","2/2/24, 8:42 AM","2/2/24, 7:43 AM",View on map,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174747,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
@@ -7302,6 +7301,15 @@ EB I-80 to NB I-215 W Exit, Salt Lake Co.
 Exit Closed
 Est. Clearance Time: 8:30 AM","2/2/24, 6:59 AM","2/2/24, 7:58 AM","2/2/24, 8:06 AM",View on map,40.76411,-111.949928
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174748,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
+WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:39 AM","2/2/24, 8:39 AM","2/2/24, 9:39 AM","2/2/24, 8:39 AM",View on map,39.932532,-111.161681
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174749,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+SB I-15 at MP 309 (400 N on ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:56 AM","2/2/24, 8:56 AM","2/2/24, 9:56 AM","2/2/24, 8:56 AM",View on map,40.777705,-111.910735
 UT-Incident--174744,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Lane Closed
@@ -7312,7 +7320,3 @@ Approved Traction Devices Required For All Vehicles","2/1/24, 4:42 PM","2/5/24, 
 UT-Incident--174721,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143 Closed MP 17-27 Iron Co.
 Road Closed Until Further Notice Due to Inclement Weather","2/1/24, 5:11 PM","2/2/24, 12:00 PM","2/1/24, 5:11 PM",View on map,37.677725,-112.846981
-UT-Incident--174748,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
-WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:39 AM","2/2/24, 8:39 AM","2/2/24, 9:39 AM","2/2/24, 8:39 AM",View on map,39.932532,-111.161681
