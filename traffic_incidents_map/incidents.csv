@@ -7484,7 +7484,6 @@ Est. Clearance Time: 9:30 PM","2/2/24, 8:22 PM","2/2/24, 9:30 PM","2/2/24, 8:22 
 UT-Incident--174808,Incidents,US 6,Utah County,US 6 at MP 193,"Crash
 US 6 at MP 193 (2 Mi W of Sheep Creek) Utah Co.
 Est. Clearance Time: 9:19 PM","2/2/24, 8:20 PM","2/2/24, 9:19 PM","2/2/24, 8:20 PM",,39.988452,-111.368324
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174811,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 2 Right Lanes Closed
@@ -7492,6 +7491,7 @@ Est. Clearance Time: 10:15 PM","2/2/24, 9:01 PM","2/2/24, 10:15 PM","2/2/24, 9:0
 UT-Incident--174798,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 I-70 at MP 6 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:15 PM","2/2/24, 7:06 PM","2/2/24, 8:15 PM","2/2/24, 7:06 PM",,38.604882,-112.50653
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
 SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
@@ -7503,6 +7503,10 @@ UT-Incident--174812,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 10:30 PM","2/2/24, 9:23 PM","2/2/24, 10:30 PM","2/2/24, 9:23 PM",,40.753891,-111.622581
+UT-Incident--174813,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:45 PM","2/2/24, 9:36 PM","2/2/24, 10:45 PM","2/2/24, 9:36 PM",,40.765438,-111.953251
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
