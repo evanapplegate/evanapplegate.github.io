@@ -7475,17 +7475,24 @@ UT-Incident--174806,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Left Shoulder
 Est. Clearance Time: 9:15 PM","2/2/24, 8:04 PM","2/2/24, 9:15 PM","2/2/24, 8:04 PM",,40.85851,-111.904912
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174805,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
  I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 9:00 PM","2/2/24, 7:55 PM","2/2/24, 9:00 PM","2/2/24, 7:55 PM",,38.605345,-112.542012
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
-SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
-Est. Clearance Time: 9:00 PM","2/2/24, 7:50 PM","2/2/24, 9:00 PM","2/2/24, 7:50 PM",,38.146484,-112.614659
 UT-Incident--174809,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 NB I-15 Offramp at MP 315 (2600 S, Woods X) Davis Co.
 Est. Clearance Time: 9:30 PM","2/2/24, 8:22 PM","2/2/24, 9:30 PM","2/2/24, 8:22 PM",,40.85851,-111.904912
+UT-Incident--174808,Incidents,US 6,Utah County,US 6 at MP 193,"Crash
+US 6 at MP 193 (2 Mi W of Sheep Creek) Utah Co.
+Est. Clearance Time: 9:19 PM","2/2/24, 8:20 PM","2/2/24, 9:19 PM","2/2/24, 8:20 PM",,39.988452,-111.368324
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
+SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
+Est. Clearance Time: 9:00 PM","2/2/24, 7:50 PM","2/2/24, 9:00 PM","2/2/24, 7:50 PM",,38.146484,-112.614659
+UT-Incident--174811,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:15 PM","2/2/24, 9:01 PM","2/2/24, 10:15 PM","2/2/24, 9:01 PM",,40.775011,-111.949343
 UT-Incident--174798,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 I-70 at MP 6 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:15 PM","2/2/24, 7:06 PM","2/2/24, 8:15 PM","2/2/24, 7:06 PM",,38.604882,-112.50653
@@ -7502,6 +7509,3 @@ UT-Incident--174807,Incidents,US 40,Wasatch County,US 40 at MP 46,"Crash
 WB US 40 at MP 46 (Strawberry Reservoir) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 9:15 PM","2/2/24, 8:08 PM","2/2/24, 9:15 PM","2/2/24, 8:08 PM",,40.205931,-111.104368
-UT-Incident--174808,Incidents,US 6,Utah County,US 6 at MP 193,"Crash
-US 6 at MP 193 (2 Mi W of Sheep Creek) Utah Co.
-Est. Clearance Time: 9:19 PM","2/2/24, 8:20 PM","2/2/24, 9:19 PM","2/2/24, 8:20 PM",,39.988452,-111.368324
