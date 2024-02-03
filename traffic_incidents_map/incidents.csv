@@ -7414,7 +7414,6 @@ UT-Incident--174780,Incidents,I-80,Tooele County,I-80 at MP 89,"Crash
 EB I-80 at MP 89 (Grantsville) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 4:15 PM","2/2/24, 3:16 PM","2/2/24, 4:15 PM","2/2/24, 3:16 PM",View on map,40.682336,-112.429199
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174781,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 4:45 PM","2/2/24, 3:46 PM","2/2/24, 4:45 PM","2/2/24, 3:46 PM",View on map,40.775011,-111.949343
@@ -7437,7 +7436,28 @@ UT-Incident--174788,Incidents,I-15,Utah County,I-15 at MP 261,"Stalled Vehicle
 SB I-15 at MP 261 Off Ramp (1400 N Springville) Utah Co.
 Cleared at 5:07 PM
 Est. Clearance Time: 6:15 PM","2/2/24, 5:07 PM","2/2/24, 6:15 PM","2/2/24, 5:07 PM",View on map,40.176162,-111.646775
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174795,Incidents,5400 S,Salt Lake County,5400 S at 5200 W,"Crash
+Both Directions 5400 S at 5400 W Salt Lake Co.
+Est. Clearance Time: 7:00 PM","2/2/24, 6:13 PM","2/2/24, 7:00 PM","2/2/24, 6:13 PM",View on map,0.0,0.0
+UT-Incident--174791,Incidents,I-15,Iron County,I-15 at MP 96,"Crash
+SB I-15 at MP 96 (12 mi S of Beaver) Iron Co.
+Est. Clearance Time: 6:45 PM","2/2/24, 5:39 PM","2/2/24, 6:45 PM","2/2/24, 5:39 PM",View on map,38.089617,-112.671364
+UT-Incident--174792,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
+NB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
+Est. Clearance Time: 6:45 PM","2/2/24, 5:41 PM","2/2/24, 6:45 PM","2/2/24, 5:41 PM",View on map,38.146484,-112.614659
+UT-Incident--174794,Incidents,I-15,Iron County,I-15 at MP 98,"Crash
+NB I-15 at MP 98 (10 mi S of Beaver) Iron Co.
+Est. Clearance Time: 7:15 PM","2/2/24, 6:07 PM","2/2/24, 7:15 PM","2/2/24, 6:07 PM",View on map,38.110984,-112.646468
+UT-Incident--174796,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+SB I-15 at MP 297 (7200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:30 PM","2/2/24, 6:16 PM","2/2/24, 7:30 PM","2/2/24, 6:16 PM",View on map,40.607173,-111.905403
 UT-Incident--174778,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 5:30 PM","2/2/24, 3:03 PM","2/2/24, 5:30 PM","2/2/24, 4:08 PM",View on map,40.760605,-111.951068
+Est. Clearance Time: 6:00 PM","2/2/24, 3:03 PM","2/2/24, 6:00 PM","2/2/24, 5:29 PM",View on map,40.760605,-111.951068
+UT-Incident--174793,Incidents,State St,Davis County,State St at 700 S,"Crash
+NB State St at 700 S Davis Co.
+Right Lane Closed
+Est. Clearance Time: 7:00 PM","2/2/24, 6:00 PM","2/2/24, 7:00 PM","2/2/24, 6:00 PM",View on map,41.103558,-112.015338
