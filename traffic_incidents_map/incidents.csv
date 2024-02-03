@@ -7633,7 +7633,6 @@ UT-Incident--174839,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:15 PM","2/3/24, 1:15 PM","2/3/24, 2:15 PM","2/3/24, 1:15 PM",,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174852,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Crash
 NB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Est. Clearance Time: 5:00 PM","2/3/24, 3:47 PM","2/3/24, 5:00 PM","2/3/24, 3:47 PM",,40.840909,-111.942301
@@ -7642,6 +7641,11 @@ UT-Incident--174841,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 NB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Right Shoulder
 Est. Clearance Time: 2:36 PM","2/3/24, 1:38 PM","2/3/24, 2:36 PM","2/3/24, 1:38 PM",,39.87629,-111.828733
+UT-Incident--174850,Incidents,I-15,Box Elder County,I-15 at MP 366,"Crash
+NB I-15 at MP 366 (Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 4:35 PM","2/3/24, 3:27 PM","2/3/24, 4:35 PM","2/3/24, 3:27 PM",,41.541993,-112.067259
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
 SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
 Left Lane Closed
@@ -7654,14 +7658,14 @@ UT-Incident--174849,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:25 PM","2/3/24, 3:25 PM","2/3/24, 4:25 PM","2/3/24, 3:25 PM",,40.020219,-111.762745
-UT-Incident--174850,Incidents,I-15,Box Elder County,I-15 at MP 366,"Crash
-NB I-15 at MP 366 (Brigham City) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 4:35 PM","2/3/24, 3:27 PM","2/3/24, 4:35 PM","2/3/24, 3:27 PM",,41.541993,-112.067259
 UT-Incident--174851,Incidents,I-15,Millard County,I-15 at MP 188,"Stalled Vehicle
 SB I-15 at MP 188 (US-50 Jct / Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 4:36 PM","2/3/24, 3:41 PM","2/3/24, 4:36 PM","2/3/24, 3:41 PM",,39.248056,-112.119654
+UT-Incident--174854,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:35 PM","2/3/24, 4:30 PM","2/3/24, 5:35 PM","2/3/24, 4:30 PM",,40.348428,-111.591901
 UT-Incident--174846,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 3:45 PM","2/3/24, 2:43 PM","2/3/24, 3:45 PM","2/3/24, 2:43 PM",,40.305888,-111.25888
