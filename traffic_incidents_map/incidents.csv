@@ -7560,7 +7560,6 @@ UT-Incident--174823,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 8:56 AM","2/3/24, 5:59 AM","2/3/24, 8:56 AM","2/3/24, 7:39 AM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174832,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 Ramp I-15 at MP 279 (Main St, Lehi) Utah Co.
 Right Lane Closed
@@ -7581,6 +7580,7 @@ UT-Incident--174825,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at 800 N Off Ramp (MP 271 / Orem) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:48 AM","2/3/24, 6:49 AM","2/3/24, 7:48 AM","2/3/24, 6:51 AM",,40.366312,-111.795402
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174833,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp NB I-215 W to WB I80 Salt Lake Co.
 Right Shoulder
