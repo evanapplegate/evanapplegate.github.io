@@ -7503,14 +7503,10 @@ WB US 40 at MP 46 (Strawberry Reservoir) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 11:30 PM","2/2/24, 8:08 PM","2/2/24, 11:30 PM","2/2/24, 9:28 PM",,40.205931,-111.104368
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174815,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:00 PM","2/2/24, 9:55 PM","2/2/24, 11:00 PM","2/2/24, 10:44 PM",,40.122652,-111.658929
-UT-Incident--174803,Incidents,I-70,Millard County,I-70 at MP 1,"Roadway Restriction
-Both Directions I-70 MP 1-17  Millard/ Sevier Co.
-Approved Traction Devices Required For All Vehicles","2/2/24, 7:44 PM","2/8/24, 8:45 PM","2/2/24, 7:44 PM",,38.584117,-112.59032
 UT-Incident--174813,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
@@ -7519,6 +7515,10 @@ UT-Incident--174814,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 WB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:47 PM","2/2/24, 9:47 PM","2/2/24, 10:47 PM","2/2/24, 9:47 PM",,40.768207,-112.000016
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174803,Incidents,I-70,Millard County,I-70 at MP 1,"Roadway Restriction
+Both Directions I-70 MP 1-17  Millard/ Sevier Co.
+Approved Traction Devices Required For All Vehicles","2/2/24, 7:44 PM","2/8/24, 8:45 PM","2/2/24, 7:44 PM",,38.584117,-112.59032
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
