@@ -7485,10 +7485,6 @@ UT-Incident--174808,Incidents,US 6,Utah County,US 6 at MP 193,"Crash
 US 6 at MP 193 (2 Mi W of Sheep Creek) Utah Co.
 Est. Clearance Time: 9:19 PM","2/2/24, 8:20 PM","2/2/24, 9:19 PM","2/2/24, 8:20 PM",,39.988452,-111.368324
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
-SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
-Est. Clearance Time: 9:00 PM","2/2/24, 7:50 PM","2/2/24, 9:00 PM","2/2/24, 7:50 PM",,38.146484,-112.614659
 UT-Incident--174811,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 2 Right Lanes Closed
@@ -7496,9 +7492,17 @@ Est. Clearance Time: 10:15 PM","2/2/24, 9:01 PM","2/2/24, 10:15 PM","2/2/24, 9:0
 UT-Incident--174798,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 I-70 at MP 6 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:15 PM","2/2/24, 7:06 PM","2/2/24, 8:15 PM","2/2/24, 7:06 PM",,38.604882,-112.50653
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
+SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
+Est. Clearance Time: 9:00 PM","2/2/24, 7:50 PM","2/2/24, 9:00 PM","2/2/24, 7:50 PM",,38.146484,-112.614659
 UT-Incident--174803,Incidents,I-70,Millard County,I-70 at MP 1,"Roadway Restriction
 Both Directions I-70 MP 1-17  Millard/ Sevier Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:44 PM","2/8/24, 8:45 PM","2/2/24, 7:44 PM",,38.584117,-112.59032
+UT-Incident--174812,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
+EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 10:30 PM","2/2/24, 9:23 PM","2/2/24, 10:30 PM","2/2/24, 9:23 PM",,40.753891,-111.622581
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
@@ -7508,4 +7512,4 @@ Approved Traction Devices Required For All Vehicles ","2/2/24, 7:17 PM","2/8/24,
 UT-Incident--174807,Incidents,US 40,Wasatch County,US 40 at MP 46,"Crash
 WB US 40 at MP 46 (Strawberry Reservoir) Wasatch Co.
 Left Shoulder
-Est. Clearance Time: 9:15 PM","2/2/24, 8:08 PM","2/2/24, 9:15 PM","2/2/24, 8:08 PM",,40.205931,-111.104368
+Est. Clearance Time: 11:30 PM","2/2/24, 8:08 PM","2/2/24, 11:30 PM","2/2/24, 9:28 PM",,40.205931,-111.104368
