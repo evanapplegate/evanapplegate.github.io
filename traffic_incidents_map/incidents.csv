@@ -7609,12 +7609,16 @@ UT-Incident--174837,Incidents,US 40,Summit County,US 40 at MP 6,"Crash
 NB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
 Left Shoulder 
 Est. Clearance Time: 1:40 PM","2/3/24, 12:41 PM","2/3/24, 1:40 PM","2/3/24, 12:41 PM",View on map,40.654652,-111.457229
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174838,Incidents,US 40,Uintah County,US 40 at MP 141,"Crash
 EB US 40 at MP 141 (1 Mi W of Vernal) Uintah Co.
 Right Shoulder
 Est. Clearance Time: 2:01 PM","2/3/24, 1:02 PM","2/3/24, 2:01 PM","2/3/24, 1:02 PM",View on map,40.429113,-109.576822
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174840,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
+Ramp NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 2:23 PM","2/3/24, 1:23 PM","2/3/24, 2:23 PM","2/3/24, 1:23 PM",View on map,40.274259,-111.718248
 UT-Incident--174839,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
