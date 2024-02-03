@@ -7548,9 +7548,13 @@ Est. Clearance Time: 5:59 AM","2/3/24, 4:59 AM","2/3/24, 5:59 AM","2/3/24, 4:59 
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174824,Incidents,I-15,Millard County,I-15 at MP 180,"Crash
-Both Directions I-15 at MP 180 (5 mi N of Holden) Millard Co.
+NB I-15 at MP 180 (5 mi N of Holden) Millard Co.
 Right Shoulder
-Est. Clearance Time: 7:20 AM","2/3/24, 6:21 AM","2/3/24, 7:20 AM","2/3/24, 6:21 AM",,39.164907,-112.219762
+Est. Clearance Time: 7:20 AM","2/3/24, 6:21 AM","2/3/24, 7:20 AM","2/3/24, 6:45 AM",,39.164907,-112.219762
+UT-Incident--174825,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
+NB I-15 at 800 N Off Ramp (MP 271 / Orem) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 7:48 AM","2/3/24, 6:49 AM","2/3/24, 7:48 AM","2/3/24, 6:51 AM",,40.366312,-111.795402
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
