@@ -7571,7 +7571,6 @@ Est. Clearance Time: 8:25 AM","2/3/24, 7:26 AM","2/3/24, 8:25 AM","2/3/24, 7:26 
 UT-Incident--174829,Incidents,SR 39,Weber County,SR 39 at MP 9,"Debris
 Both Directions SR 39 at MP 9 (1 mile east of Ogden) Weber Co.
 Est. Clearance Time: 8:22 AM","2/3/24, 7:24 AM","2/3/24, 8:22 AM","2/3/24, 7:24 AM",,41.236707,-111.923062
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174824,Incidents,I-15,Millard County,I-15 at MP 180,"Crash
 NB I-15 at MP 180 (5 mi N of Holden) Millard Co.
 Right Shoulder
@@ -7580,6 +7579,7 @@ UT-Incident--174825,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at 800 N Off Ramp (MP 271 / Orem) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:48 AM","2/3/24, 6:49 AM","2/3/24, 7:48 AM","2/3/24, 6:51 AM",,40.366312,-111.795402
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174833,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp NB I-215 W to WB I80 Salt Lake Co.
