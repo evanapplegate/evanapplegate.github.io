@@ -7583,7 +7583,6 @@ UT-Incident--174833,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp NB I-215 W to WB I80 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:09 AM","2/3/24, 8:11 AM","2/3/24, 9:09 AM","2/3/24, 8:11 AM",,40.760605,-111.951068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174834,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Shoulder
@@ -7593,13 +7592,14 @@ EB I-80 at MP 106 (2 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:14 AM","2/3/24, 7:14 AM","2/3/24, 8:14 AM","2/3/24, 7:14 AM",,40.760061,-112.16452
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174835,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Ramp to I-215 S, Left Shoulder
-Est. Clearance Time: 10:58 AM","2/3/24, 9:59 AM","2/3/24, 10:58 AM","2/3/24, 9:59 AM",,40.63583,-111.905066
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
 UT-Incident--174801,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/2/24, 7:17 PM","2/8/24, 8:16 PM","2/2/24, 7:17 PM",,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174835,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Ramp to I-215 S, Left Shoulder
+Est. Clearance Time: 10:58 AM","2/3/24, 9:59 AM","2/3/24, 10:58 AM","2/3/24, 10:04 AM",View on map,40.63583,-111.905066
