@@ -7494,7 +7494,6 @@ Est. Clearance Time: 8:15 PM","2/2/24, 7:06 PM","2/2/24, 8:15 PM","2/2/24, 7:06 
 UT-Incident--174804,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
 SB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
 Est. Clearance Time: 9:00 PM","2/2/24, 7:50 PM","2/2/24, 9:00 PM","2/2/24, 7:50 PM",,38.146484,-112.614659
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174812,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
@@ -7504,10 +7503,11 @@ WB US 40 at MP 46 (Strawberry Reservoir) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 11:30 PM","2/2/24, 8:08 PM","2/2/24, 11:30 PM","2/2/24, 9:28 PM",,40.205931,-111.104368
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174815,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 11:00 PM","2/2/24, 9:55 PM","2/2/24, 11:00 PM","2/2/24, 9:56 PM",,40.122652,-111.658929
+Left Shoulder
+Est. Clearance Time: 11:00 PM","2/2/24, 9:55 PM","2/2/24, 11:00 PM","2/2/24, 10:44 PM",,40.122652,-111.658929
 UT-Incident--174803,Incidents,I-70,Millard County,I-70 at MP 1,"Roadway Restriction
 Both Directions I-70 MP 1-17  Millard/ Sevier Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:44 PM","2/8/24, 8:45 PM","2/2/24, 7:44 PM",,38.584117,-112.59032
