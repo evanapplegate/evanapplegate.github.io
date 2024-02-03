@@ -7541,15 +7541,19 @@ UT-Incident--174821,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:11 AM","2/3/24, 3:12 AM","2/3/24, 4:11 AM","2/3/24, 3:18 AM",,40.491623,-111.891411
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174822,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 SB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:59 AM","2/3/24, 4:59 AM","2/3/24, 5:59 AM","2/3/24, 4:59 AM",,40.690083,-111.903461
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174800,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/2/24, 7:16 PM","2/8/24, 8:14 PM","2/2/24, 7:16 PM",,40.619107,-111.786281
+UT-Incident--174823,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Traffic using center lanes
+Est. Clearance Time: 6:56 AM","2/3/24, 5:59 AM","2/3/24, 6:56 AM","2/3/24, 5:59 AM",,40.72606,-111.962907
 UT-Incident--174801,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/2/24, 7:17 PM","2/8/24, 8:16 PM","2/2/24, 7:17 PM",,40.572095,-111.773814
