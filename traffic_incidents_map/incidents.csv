@@ -7445,7 +7445,6 @@ UT-Incident--174793,Incidents,State St,Davis County,State St at 700 S,"Crash
 NB State St at 700 S Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","2/2/24, 6:00 PM","2/2/24, 7:00 PM","2/2/24, 6:00 PM",View on map,41.103558,-112.015338
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174797,Incidents,2000 W,Davis County,2000 W at 1800 N,"Crash
 SB 2000 W at 1800 N Davis Co.
 2 Left Lanes Closed
@@ -7462,6 +7461,7 @@ NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:00 PM","2/2/24, 3:03 PM","2/2/24, 8:00 PM","2/2/24, 6:58 PM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174791,Incidents,I-15,Iron County,I-15 at MP 96,"Crash
 SB I-15 at MP 96 (12 mi S of Beaver) Iron Co.
 Est. Clearance Time: 6:45 PM","2/2/24, 5:39 PM","2/2/24, 6:45 PM","2/2/24, 5:39 PM",,38.089617,-112.671364
@@ -7469,6 +7469,10 @@ UT-Incident--174799,Incidents,I-15,Millard County,I-15 at MP 133,"Crash
 SB I-15 at MP 133 (Cove Fort) Millard Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","2/2/24, 7:08 PM","2/2/24, 8:15 PM","2/2/24, 7:08 PM",,38.588905,-112.605955
+UT-Incident--174802,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","2/2/24, 7:39 PM","2/2/24, 8:45 PM","2/2/24, 7:39 PM",,40.775011,-111.949343
 UT-Incident--174798,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 I-70 at MP 6 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:15 PM","2/2/24, 7:06 PM","2/2/24, 8:15 PM","2/2/24, 7:06 PM",,38.604882,-112.50653
