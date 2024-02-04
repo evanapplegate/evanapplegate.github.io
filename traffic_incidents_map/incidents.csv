@@ -7694,7 +7694,6 @@ UT-Incident--174866,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:35 PM","2/3/24, 9:25 PM","2/3/24, 10:35 PM","2/3/24, 9:25 PM",,40.122652,-111.658929
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174863,Incidents,Bonanza Dr,Summit County,Bonanza Dr at Deer Valley Dr,"Crash
 Both Directions Bonanza Dr at Deer Valley Dr Summit Co.
 Left Lane Closed
@@ -7707,10 +7706,11 @@ UT-Incident--174868,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
 US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
 Est. Clearance Time: 11:00 PM","2/3/24, 9:48 PM","2/3/24, 11:00 PM","2/3/24, 9:48 PM",,40.328835,-111.637103
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174867,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 10:45 PM","2/3/24, 9:46 PM","2/3/24, 10:45 PM","2/3/24, 9:49 PM",,40.492398,-111.891485
+Cleared at 10:23 PM
+Est. Clearance Time: 10:45 PM","2/3/24, 9:46 PM","2/3/24, 10:45 PM","2/3/24, 10:23 PM",,40.492398,-111.891485
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/3/24, 5:58 PM","2/8/24, 12:00 PM","2/3/24, 5:58 PM",,40.619107,-111.786281
