@@ -7682,7 +7682,6 @@ UT-Incident--174860,Incidents,US 89,Weber County,US 89 at MP 415,"Crash
 NB US 89 at MP 415 (15th / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 7:45 PM","2/3/24, 6:45 PM","2/3/24, 7:45 PM","2/3/24, 6:45 PM",,41.238174,-111.970071
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174862,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 SB I-15 at MP 330 (Layton Pkwy) Davis Co.
 2 Right Lanes Closed
@@ -7691,6 +7690,7 @@ UT-Incident--174864,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:35 PM","2/3/24, 8:23 PM","2/3/24, 9:35 PM","2/3/24, 8:23 PM",,40.215696,-111.665414
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174863,Incidents,Bonanza Dr,Summit County,Bonanza Dr at Deer Valley Dr,"Crash
 Both Directions Bonanza Dr at Deer Valley Dr Summit Co.
