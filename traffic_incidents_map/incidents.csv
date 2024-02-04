@@ -7659,7 +7659,6 @@ Est. Clearance Time: 5:35 PM","2/3/24, 4:30 PM","2/3/24, 5:35 PM","2/3/24, 4:30 
 UT-Incident--174846,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 3:45 PM","2/3/24, 2:43 PM","2/3/24, 3:45 PM","2/3/24, 2:43 PM",,40.305888,-111.25888
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174848,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Left Shoulder
@@ -7669,14 +7668,18 @@ US 6 at MP 136 (3 Miles West of Eureka) Juab Co.
 Right Shoulder
 Est. Clearance Time: 6:21 PM","2/3/24, 5:21 PM","2/3/24, 6:21 PM","2/3/24, 5:22 PM",View on map,39.909753,-112.140767
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
-SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
-Left Lane Closed
-Est. Clearance Time: 8:00 PM","2/3/24, 1:40 PM","2/3/24, 8:00 PM","2/3/24, 5:20 PM",,39.594206,-111.917594
 UT-Incident--174856,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:35 PM","2/3/24, 5:28 PM","2/3/24, 6:35 PM","2/3/24, 5:38 PM",,40.715578,-111.784616
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
+SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
+Left Lane Closed
+Est. Clearance Time: 8:00 PM","2/3/24, 1:40 PM","2/3/24, 8:00 PM","2/3/24, 5:20 PM",,39.594206,-111.917594
+UT-Incident--174861,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Police incident
+SB Legacy Pkwy at MP 5 (Jct I-215 N) Salt Lake Co.
+Est. Clearance Time: 7:54 PM","2/3/24, 6:56 PM","2/3/24, 7:54 PM","2/3/24, 7:06 PM",,40.883316,-111.937161
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/3/24, 5:58 PM","2/8/24, 12:00 PM","2/3/24, 5:58 PM",,40.619107,-111.786281
@@ -7686,3 +7689,7 @@ Approved Traction Devices Required For All Vehicles","2/3/24, 5:59 PM","2/8/24, 
 UT-Incident--174859,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/3/24, 6:13 PM","2/8/24, 12:00 PM","2/3/24, 6:13 PM",,40.624634,-111.501637
+UT-Incident--174860,Incidents,US 89,Weber County,US 89 at MP 415,"Crash
+NB US 89 at MP 415 (15th / Ogden) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 7:45 PM","2/3/24, 6:45 PM","2/3/24, 7:45 PM","2/3/24, 6:45 PM",,41.238174,-111.970071
