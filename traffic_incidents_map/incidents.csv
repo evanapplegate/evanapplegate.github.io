@@ -7739,10 +7739,14 @@ UT-Incident--174873,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
 WB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:06 AM","2/4/24, 6:07 AM","2/4/24, 7:06 AM","2/4/24, 6:07 AM",,39.980043,-111.353152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174884,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
 NB I-15 at MP 258 (Spanish Fork) Utah Co.
 Est. Clearance Time: 9:00 AM","2/4/24, 7:54 AM","2/4/24, 9:00 AM","2/4/24, 7:54 AM",,40.132763,-111.646987
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174881,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+NB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:40 AM","2/4/24, 7:36 AM","2/4/24, 8:40 AM","2/4/24, 7:36 AM",,40.316406,-111.72616
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174875,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
@@ -7760,10 +7764,6 @@ UT-Incident--174879,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","2/4/24, 7:27 AM","2/4/24, 8:30 AM","2/4/24, 7:27 AM",,40.316406,-111.72616
-UT-Incident--174881,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
-NB I-15 at MP 272 (1600 N / Orem) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:40 AM","2/4/24, 7:36 AM","2/4/24, 8:40 AM","2/4/24, 7:36 AM",,40.316406,-111.72616
 UT-Incident--174882,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
@@ -7772,6 +7772,14 @@ UT-Incident--174883,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","2/4/24, 7:39 AM","2/4/24, 8:40 AM","2/4/24, 7:39 AM",,40.316406,-111.72616
+UT-Incident--174885,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+SB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","2/4/24, 8:24 AM","2/4/24, 9:30 AM","2/4/24, 8:24 AM",,40.316406,-111.72616
+UT-Incident--174886,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:25 AM","2/4/24, 8:26 AM","2/4/24, 9:25 AM","2/4/24, 8:26 AM",,40.122652,-111.658929
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/3/24, 5:58 PM","2/8/24, 12:00 PM","2/3/24, 5:58 PM",,40.619107,-111.786281
