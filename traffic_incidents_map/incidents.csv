@@ -7675,7 +7675,6 @@ UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
 SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
 Left Lane Closed
 Est. Clearance Time: 8:00 PM","2/3/24, 1:40 PM","2/3/24, 8:00 PM","2/3/24, 5:20 PM",,39.594206,-111.917594
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174861,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Police incident
 SB Legacy Pkwy at MP 5 (Jct I-215 N) Salt Lake Co.
 Est. Clearance Time: 7:54 PM","2/3/24, 6:56 PM","2/3/24, 7:54 PM","2/3/24, 7:06 PM",,40.883316,-111.937161
@@ -7683,6 +7682,7 @@ UT-Incident--174860,Incidents,US 89,Weber County,US 89 at MP 415,"Crash
 NB US 89 at MP 415 (15th / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 7:45 PM","2/3/24, 6:45 PM","2/3/24, 7:45 PM","2/3/24, 6:45 PM",,41.238174,-111.970071
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174863,Incidents,Bonanza Dr,Summit County,Bonanza Dr at Deer Valley Dr,"Crash
 Both Directions Bonanza Dr at Deer Valley Dr Summit Co.
@@ -7692,6 +7692,10 @@ UT-Incident--174862,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 SB I-15 at MP 330 (Layton Pkwy) Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 8:35 PM","2/3/24, 7:21 PM","2/3/24, 8:35 PM","2/3/24, 7:21 PM",,41.054659,-111.961089
+UT-Incident--174864,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:35 PM","2/3/24, 8:23 PM","2/3/24, 9:35 PM","2/3/24, 8:23 PM",,40.215696,-111.665414
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/3/24, 5:58 PM","2/8/24, 12:00 PM","2/3/24, 5:58 PM",,40.619107,-111.786281
