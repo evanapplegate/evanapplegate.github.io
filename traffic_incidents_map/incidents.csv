@@ -7636,7 +7636,6 @@ Est. Clearance Time: 2:15 PM","2/3/24, 1:15 PM","2/3/24, 2:15 PM","2/3/24, 1:15 
 UT-Incident--174852,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Crash
 NB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Est. Clearance Time: 5:00 PM","2/3/24, 3:47 PM","2/3/24, 5:00 PM","2/3/24, 3:47 PM",,40.840909,-111.942301
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174841,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 NB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Right Shoulder
@@ -7646,14 +7645,6 @@ NB I-15 at MP 366 (Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:35 PM","2/3/24, 3:27 PM","2/3/24, 4:35 PM","2/3/24, 3:27 PM",,41.541993,-112.067259
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
-SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
-Left Lane Closed
-Est. Clearance Time: 2:39 PM","2/3/24, 1:40 PM","2/3/24, 2:39 PM","2/3/24, 1:47 PM",,39.594206,-111.917594
-UT-Incident--174848,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
-SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
-Left Shoulder
-Est. Clearance Time: 4:10 PM","2/3/24, 3:10 PM","2/3/24, 4:10 PM","2/3/24, 3:10 PM",,40.020219,-111.762745
 UT-Incident--174849,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Left Lane Closed
@@ -7669,3 +7660,20 @@ Est. Clearance Time: 5:35 PM","2/3/24, 4:30 PM","2/3/24, 5:35 PM","2/3/24, 4:30 
 UT-Incident--174846,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 3:45 PM","2/3/24, 2:43 PM","2/3/24, 3:45 PM","2/3/24, 2:43 PM",,40.305888,-111.25888
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174843,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
+SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
+Left Lane Closed
+Est. Clearance Time: 8:00 PM","2/3/24, 1:40 PM","2/3/24, 8:00 PM","2/3/24, 5:20 PM",View on map,39.594206,-111.917594
+UT-Incident--174848,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
+SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:00 PM","2/3/24, 3:10 PM","2/3/24, 6:00 PM","2/3/24, 5:23 PM",View on map,40.020219,-111.762745
+UT-Incident--174856,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
+WB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","2/3/24, 5:28 PM","2/3/24, 6:35 PM","2/3/24, 5:28 PM",View on map,40.715578,-111.784616
+UT-Incident--174855,Incidents,US 6,Juab County,US 6 at MP 136,"Vehicle on fire
+US 6 at MP 136 (3 Miles West of Eureka) Juab Co.
+Right Shoulder
+Est. Clearance Time: 6:21 PM","2/3/24, 5:21 PM","2/3/24, 6:21 PM","2/3/24, 5:22 PM",View on map,39.909753,-112.140767
