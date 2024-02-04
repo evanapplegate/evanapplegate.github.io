@@ -7758,7 +7758,6 @@ UT-Incident--174887,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 9:45 AM","2/4/24, 8:42 AM","2/4/24, 9:45 AM","2/4/24, 8:42 AM",,40.316406,-111.72616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174875,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 2 Left Lanes Closed
@@ -7783,6 +7782,7 @@ UT-Incident--174886,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:25 AM","2/4/24, 8:26 AM","2/4/24, 9:25 AM","2/4/24, 8:26 AM",,40.122652,-111.658929
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
