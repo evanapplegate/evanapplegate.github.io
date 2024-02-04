@@ -7725,11 +7725,22 @@ NB I-15 at MP 348 (Harrisville Rd) Weber Co.
 Right Shoulder
 Est. Clearance Time: 5:48 AM","2/4/24, 4:49 AM","2/4/24, 5:48 AM","2/4/24, 4:49 AM",,41.291476,-112.025835
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174874,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 7:27 AM","2/4/24, 6:28 AM","2/4/24, 7:27 AM","2/4/24, 6:30 AM",,40.122652,-111.658929
+UT-Incident--174880,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
+SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
+Est. Clearance Time: 8:30 AM","2/4/24, 7:31 AM","2/4/24, 8:30 AM","2/4/24, 7:31 AM",,40.020219,-111.762745
+UT-Incident--174872,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:57 AM","2/4/24, 5:58 AM","2/4/24, 6:57 AM","2/4/24, 5:58 AM",,40.35648,-111.576663
+UT-Incident--174873,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
+WB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:06 AM","2/4/24, 6:07 AM","2/4/24, 7:06 AM","2/4/24, 6:07 AM",,39.980043,-111.353152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174875,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 2 Left Lanes Closed
@@ -7746,9 +7757,6 @@ UT-Incident--174879,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","2/4/24, 7:27 AM","2/4/24, 8:30 AM","2/4/24, 7:27 AM",,40.316406,-111.72616
-UT-Incident--174880,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
-SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
-Est. Clearance Time: 8:30 AM","2/4/24, 7:31 AM","2/4/24, 8:30 AM","2/4/24, 7:31 AM",,40.020219,-111.762745
 UT-Incident--174881,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
@@ -7761,17 +7769,12 @@ UT-Incident--174883,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","2/4/24, 7:39 AM","2/4/24, 8:40 AM","2/4/24, 7:39 AM",,40.316406,-111.72616
+UT-Incident--174884,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
+NB I-15 at MP 258 (Spanish Fork) Utah Co.
+Est. Clearance Time: 9:00 AM","2/4/24, 7:54 AM","2/4/24, 9:00 AM","2/4/24, 7:54 AM",,40.132763,-111.646987
 UT-Incident--174857,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles ","2/3/24, 5:58 PM","2/8/24, 12:00 PM","2/3/24, 5:58 PM",,40.619107,-111.786281
 UT-Incident--174858,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/3/24, 5:59 PM","2/8/24, 12:00 PM","2/3/24, 5:59 PM",,40.572095,-111.773814
-UT-Incident--174872,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 6:57 AM","2/4/24, 5:58 AM","2/4/24, 6:57 AM","2/4/24, 5:58 AM",,40.35648,-111.576663
-UT-Incident--174873,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
-WB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
-Right Shoulder
-Est. Clearance Time: 7:06 AM","2/4/24, 6:07 AM","2/4/24, 7:06 AM","2/4/24, 6:07 AM",,39.980043,-111.353152
