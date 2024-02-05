@@ -7912,11 +7912,11 @@ UT-Incident--174925,Incidents,US 40,Wasatch County,US 40 at MP 28,"Crash
 EB US 40 at MP 28 (7 mi S of Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 1:41 PM","2/5/24, 12:42 PM","2/5/24, 1:41 PM","2/5/24, 12:42 PM",,40.381341,-111.299697
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174929,Incidents,Washington Blvd,Weber County,Washington Blvd at 28th St,"Crash
 SB Washington Blvd at 28th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:15 PM","2/5/24, 2:12 PM","2/5/24, 3:15 PM","2/5/24, 2:13 PM",,41.214395,-111.970621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
 EB 9000 S at Monroe St Salt Lake Co.
@@ -7934,4 +7934,5 @@ Both Directions SR 224 at MP 2 - 5 (Empire Pass) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",View on map,40.624634,-111.501637
 UT-Incident--174930,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
-Est. Clearance Time: 3:20 PM","2/5/24, 2:18 PM","2/5/24, 3:20 PM","2/5/24, 2:18 PM",View on map,40.407126,-111.60589
+SR-92 closed at US-189 Jct
+Est. Clearance Time: 3:20 PM","2/5/24, 2:18 PM","2/5/24, 4:45 PM","2/5/24, 2:52 PM",View on map,40.407126,-111.60589
