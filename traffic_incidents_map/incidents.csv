@@ -7866,7 +7866,6 @@ Est. Clearance Time: 9:20 AM","2/5/24, 8:18 AM","2/5/24, 9:20 AM",,,41.139114,-1
 UT-Incident--174916,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
 EB I-84 at MP 92 (Mountain Green) Morgan Co.
 Est. Clearance Time: 9:40 AM","2/5/24, 8:34 AM","2/5/24, 9:40 AM",,,41.139114,-111.835183
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174909,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 731,"Crash
 EB Antelope Dr at 400 W (Clearfield) Davis Co.
 Right Shoulder
@@ -7877,6 +7876,7 @@ Est. Clearance Time: 9:20 AM","2/5/24, 8:22 AM","2/5/24, 9:20 AM",,,40.72647,-11
 UT-Incident--174910,Incidents,US 40,Duchesne County,US 40 at MP 62,"Crash
 Other US 40 at MP 62 (Fruitland) Duchesne Co.
 Est. Clearance Time: 8:50 AM","2/5/24, 7:50 AM","2/5/24, 8:50 AM",,,40.212468,-110.839928
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
