@@ -7807,12 +7807,12 @@ EB SR 201 at MP 3 (SR-202) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:15 PM","2/4/24, 12:24 PM","2/4/24, 2:15 PM","2/4/24, 1:38 PM",View on map,40.727646,-112.167011
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174895,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
-NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 8:06 PM","2/4/24, 7:06 PM","2/4/24, 8:06 PM","2/4/24, 7:06 PM",View on map,40.005686,-111.762644
 UT-Incident--174894,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:37 PM","2/4/24, 6:39 PM","2/4/24, 7:37 PM","2/4/24, 6:39 PM",View on map,40.771145,-112.066961
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174895,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
+NB I-15 at MP 247 (Payson) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 9:06 PM","2/4/24, 7:06 PM","2/4/24, 9:06 PM","2/4/24, 7:27 PM",View on map,40.005686,-111.762644
