@@ -7884,7 +7884,6 @@ UT-Incident--174919,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:00 AM","2/5/24, 10:08 AM","2/5/24, 11:00 AM","2/5/24, 10:08 AM",,41.028688,-111.946853
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Cleared at 10:13 AM, Expect Residual Delays","2/5/24, 6:45 AM","2/5/24, 10:30 AM","2/5/24, 10:13 AM",,40.733836,-112.201288
@@ -7892,6 +7891,7 @@ UT-Incident--174920,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Crash
 WB SR 201 at MP 1 (I-80) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:20 AM","2/5/24, 10:19 AM","2/5/24, 11:20 AM","2/5/24, 10:47 AM",,40.725554,-112.204975
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174922,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 SB I-215 N at MP 27 (Legacy Pkwy Jct) Salt Lake Co.
