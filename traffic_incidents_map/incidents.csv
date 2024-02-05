@@ -7838,28 +7838,39 @@ NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","2/5/24, 6:56 AM","2/5/24, 8:00 AM","2/5/24, 6:56 AM",,40.592858,-111.902495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174904,Incidents,3000 W,Davis County,3000 W 201,"Crash
 WB Hwy 193 at 3000 W (Syracuse) Davis Co.
 Right Shoulder
-Est. Clearance Time: 8:30 AM","2/5/24, 6:54 AM","2/5/24, 8:30 AM","2/5/24, 6:57 AM",,41.110903,-112.083766
+Est. Clearance Time: 8:30 AM","2/5/24, 6:54 AM","2/5/24, 8:30 AM",,,41.110903,-112.083766
+UT-Incident--174909,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 731,"Crash
+EB Antelope Dr at 400 W (Clearfield) Davis Co.
+EB Closed
+Est. Clearance Time: 8:45 AM","2/5/24, 7:47 AM","2/5/24, 8:45 AM",,,41.089176,-112.039017
 UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 7:50 AM","2/5/24, 6:45 AM","2/5/24, 7:50 AM","2/5/24, 6:45 AM",,40.733836,-112.201288
+Est. Clearance Time: 7:50 AM","2/5/24, 6:45 AM","2/5/24, 7:50 AM",,,40.733836,-112.201288
 UT-Incident--174907,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 9:00 AM","2/5/24, 7:01 AM","2/5/24, 9:00 AM","2/5/24, 7:01 AM",,40.733836,-112.201288
+Est. Clearance Time: 9:00 AM","2/5/24, 7:01 AM","2/5/24, 9:00 AM",,,40.733836,-112.201288
+UT-Incident--174911,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
+EB I-84 at MP 92 (Mountain Green) Morgan Co.
+Right Lane Closed
+Est. Clearance Time: 9:00 AM","2/5/24, 7:59 AM","2/5/24, 9:00 AM",,,41.139114,-111.835183
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM",,,37.677725,-112.846981
 UT-Incident--174902,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Dirs SR 224 MP 2 - 5 (Empire Pass) Summit Co.
-Approved Traction Devices Required","2/5/24, 6:42 AM","2/6/24, 12:00 PM","2/5/24, 6:42 AM",,40.624634,-111.501637
+Approved Traction Devices Required","2/5/24, 6:42 AM","2/6/24, 12:00 PM",,,40.624634,-111.501637
 UT-Incident--174901,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
-US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/5/24, 3:13 AM","2/7/24, 4:12 AM","2/5/24, 3:13 AM",,40.997685,-109.432538
+US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/5/24, 3:13 AM","2/7/24, 4:12 AM",,,40.997685,-109.432538
 UT-Incident--174908,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 NB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
-Est. Clearance Time: 8:15 AM","2/5/24, 7:09 AM","2/5/24, 8:15 AM","2/5/24, 7:10 AM",,40.627915,-111.443541
+Est. Clearance Time: 8:15 AM","2/5/24, 7:09 AM","2/5/24, 8:15 AM",,,40.627915,-111.443541
+UT-Incident--174910,Incidents,US 40,Duchesne County,US 40 at MP 62,"Crash
+Other US 40 at MP 62 (Fruitland) Duchesne Co.
+Est. Clearance Time: 8:50 AM","2/5/24, 7:50 AM","2/5/24, 8:50 AM",,,40.212468,-110.839928
