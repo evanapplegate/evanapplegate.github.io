@@ -7876,17 +7876,25 @@ Est. Clearance Time: 9:20 AM","2/5/24, 8:22 AM","2/5/24, 9:20 AM",,,40.72647,-11
 UT-Incident--174910,Incidents,US 40,Duchesne County,US 40 at MP 62,"Crash
 Other US 40 at MP 62 (Fruitland) Duchesne Co.
 Est. Clearance Time: 8:50 AM","2/5/24, 7:50 AM","2/5/24, 8:50 AM",,,40.212468,-110.839928
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174917,Incidents,I-84,Morgan County,I-84 at MP 96,"Crash
 WB I-84 at MP 96 (1 mile N of Morgan) Morgan Co.
 Right Lane Closed
 Est. Clearance Time: 10:10 AM","2/5/24, 9:08 AM","2/5/24, 10:10 AM","2/5/24, 9:08 AM",,41.123098,-111.76516
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174919,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
+SB I-15 at MP 328 (200 N/SR-273) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:00 AM","2/5/24, 10:08 AM","2/5/24, 11:00 AM","2/5/24, 10:08 AM",,41.028688,-111.946853
 UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
-Freeway Closed at SR-201 Jct (MP 101)","2/5/24, 6:45 AM","2/5/24, 10:30 AM","2/5/24, 8:36 AM",,40.733836,-112.201288
+Cleared at 10:13 AM, Expect Residual Delays","2/5/24, 6:45 AM","2/5/24, 10:30 AM","2/5/24, 10:13 AM",,40.733836,-112.201288
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
+UT-Incident--174920,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
+WB SR 201 at MP 6 (9180 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:20 AM","2/5/24, 10:19 AM","2/5/24, 11:20 AM","2/5/24, 10:19 AM",,40.71806,-112.114369
 UT-Incident--174901,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/5/24, 3:13 AM","2/7/24, 4:12 AM","2/5/24, 3:13 AM",,40.997685,-109.432538
