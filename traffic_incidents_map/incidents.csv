@@ -7917,22 +7917,29 @@ SB Washington Blvd at 28th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:15 PM","2/5/24, 2:12 PM","2/5/24, 3:15 PM","2/5/24, 2:13 PM",,41.214395,-111.970621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
-EB 9000 S at Monroe St Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 3:45 PM","2/5/24, 12:47 PM","2/5/24, 3:45 PM","2/5/24, 2:25 PM",View on map,40.588065,-111.895936
 UT-Incident--174928,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 NB I-15 at MP 233 (Mona) Juab Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","2/5/24, 1:47 PM","2/5/24, 2:45 PM","2/5/24, 1:47 PM",View on map,39.81888,-111.833832
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
+EB 9000 S at Monroe St Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 3:45 PM","2/5/24, 12:47 PM","2/5/24, 3:45 PM","2/5/24, 2:25 PM",,40.588065,-111.895936
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",View on map,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
 UT-Incident--174921,Incidents,SR 224,Summit County,SR 224 at MP 2,"Road weather
 Both Directions SR 224 at MP 2 - 5 (Empire Pass) Summit Co.
-Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",View on map,40.624634,-111.501637
+Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",,40.624634,-111.501637
 UT-Incident--174930,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
 SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
 SR-92 closed at US-189 Jct
-Est. Clearance Time: 3:20 PM","2/5/24, 2:18 PM","2/5/24, 4:45 PM","2/5/24, 2:52 PM",View on map,40.407126,-111.60589
+Est. Clearance Time: 3:20 PM","2/5/24, 2:18 PM","2/5/24, 4:45 PM","2/5/24, 2:52 PM",,40.407126,-111.60589
+UT-Incident--174932,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
+US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
+Est. Clearance Time: 4:15 PM","2/5/24, 3:12 PM","2/5/24, 4:15 PM","2/5/24, 3:12 PM",,40.362967,-111.560551
+UT-Incident--174933,Incidents,US 40,Wasatch County,US 40 at MP 33,"Crash
+NB US 40 at MP 33 (12 mi S of Heber) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 4:30 PM","2/5/24, 3:20 PM","2/5/24, 4:30 PM","2/5/24, 3:20 PM",,40.319919,-111.258703
