@@ -7895,15 +7895,15 @@ UT-Incident--174922,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 SB I-215 N at MP 27 (Legacy Pkwy Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:00 PM","2/5/24, 10:55 AM","2/5/24, 12:00 PM","2/5/24, 10:55 AM",,40.829518,-111.946561
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174923,Incidents,5300 S,Salt Lake County,5300 S 329,"Signal problems
 All Directions I-15 at 5300 S (Murray) Salt Lake Co.
 Est. Clearance Time: 12:45 PM","2/5/24, 11:34 AM","2/5/24, 12:45 PM","2/5/24, 11:34 AM",,40.654786,-111.90144
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
-EB Closed 9000 S at Monroe St
- (Sandy) Salt Lake Co.
-Use Alt Route","2/5/24, 12:47 PM","2/5/24, 1:45 PM","2/5/24, 12:47 PM",,40.588065,-111.895936
+EB 9000 S at Monroe St Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 1:45 PM","2/5/24, 12:47 PM","2/5/24, 1:45 PM","2/5/24, 1:11 PM",,40.588065,-111.895936
 UT-Incident--174924,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
 Right Shoulder
