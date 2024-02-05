@@ -7898,18 +7898,22 @@ Est. Clearance Time: 12:00 PM","2/5/24, 10:55 AM","2/5/24, 12:00 PM","2/5/24, 10
 UT-Incident--174923,Incidents,5300 S,Salt Lake County,5300 S 329,"Signal problems
 All Directions I-15 at 5300 S (Murray) Salt Lake Co.
 Est. Clearance Time: 12:45 PM","2/5/24, 11:34 AM","2/5/24, 12:45 PM","2/5/24, 11:34 AM",,40.654786,-111.90144
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174901,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/5/24, 3:13 AM","2/7/24, 4:12 AM","2/5/24, 3:13 AM",,40.997685,-109.432538
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174924,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
+NB I-15 at MP 324 (Park Ln) Davis Co.
+Righrt Shoulder
+Est. Clearance Time: 1:45 PM","2/5/24, 12:25 PM","2/5/24, 1:45 PM","2/5/24, 1:22 PM",,40.985152,-111.899709
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
 EB 9000 S at Monroe St Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 1:45 PM","2/5/24, 12:47 PM","2/5/24, 1:45 PM","2/5/24, 1:11 PM",,40.588065,-111.895936
-UT-Incident--174924,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
-NB I-15 at MP 324 (Park Ln) Davis Co.
-Righrt Shoulder
-Est. Clearance Time: 1:45 PM","2/5/24, 12:25 PM","2/5/24, 1:45 PM","2/5/24, 1:22 PM",,40.985152,-111.899709
+UT-Incident--174927,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Medical
+SB I-15 at MP 294 (10200 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:32 PM","2/5/24, 1:32 PM","2/5/24, 2:32 PM","2/5/24, 1:32 PM",,40.564298,-111.899489
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
