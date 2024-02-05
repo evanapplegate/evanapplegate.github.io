@@ -7845,7 +7845,6 @@ UT-Incident--174908,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 NB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","2/5/24, 7:09 AM","2/5/24, 8:15 AM",,,40.627915,-111.443541
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174914,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Col Ramp Salt Lake Co.
 Left Shoulder
@@ -7854,13 +7853,6 @@ UT-Incident--174902,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Dirs SR 224 MP 2 - 5 (Empire Pass) Summit Co.
 Approved Traction Devices Required","2/5/24, 6:42 AM","2/6/24, 12:00 PM",,,40.624634,-111.501637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--174909,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 731,"Crash
-EB Antelope Dr at 400 W (Clearfield) Davis Co.
-Right Shoulder
-Est. Clearance Time: 8:45 AM","2/5/24, 7:47 AM","2/5/24, 8:45 AM",,,41.089176,-112.039017
-UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
-EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
-Freeway Closed at SR-201 Jct (MP 101)","2/5/24, 6:45 AM","2/5/24, 10:30 AM",,,40.733836,-112.201288
 UT-Incident--174907,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 Closed at MP 103 (1 mi E of Magna) Salt Lake Co.
 Use Alt Route","2/5/24, 7:01 AM","2/5/24, 10:00 AM",,,40.733836,-112.201288
@@ -7875,6 +7867,14 @@ Est. Clearance Time: 9:20 AM","2/5/24, 8:18 AM","2/5/24, 9:20 AM",,,41.139114,-1
 UT-Incident--174916,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
 EB I-84 at MP 92 (Mountain Green) Morgan Co.
 Est. Clearance Time: 9:40 AM","2/5/24, 8:34 AM","2/5/24, 9:40 AM",,,41.139114,-111.835183
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--174909,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 731,"Crash
+EB Antelope Dr at 400 W (Clearfield) Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:45 AM","2/5/24, 7:47 AM","2/5/24, 8:45 AM",,,41.089176,-112.039017
+UT-Incident--174903,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
+EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
+Freeway Closed at SR-201 Jct (MP 101)","2/5/24, 6:45 AM","2/5/24, 10:30 AM",,,40.733836,-112.201288
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM",,,37.677725,-112.846981
