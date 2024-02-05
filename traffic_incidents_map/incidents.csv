@@ -7904,11 +7904,15 @@ UT-Incident--174924,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
 Righrt Shoulder
 Est. Clearance Time: 1:45 PM","2/5/24, 12:25 PM","2/5/24, 1:45 PM","2/5/24, 1:22 PM",,40.985152,-111.899709
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174927,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Medical
 SB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:32 PM","2/5/24, 1:32 PM","2/5/24, 2:32 PM","2/5/24, 1:32 PM",,40.564298,-111.899489
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174925,Incidents,US 40,Wasatch County,US 40 at MP 28,"Crash
+EB US 40 at MP 28 (7 mi S of Heber) Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 1:41 PM","2/5/24, 12:42 PM","2/5/24, 1:41 PM","2/5/24, 12:42 PM",,40.381341,-111.299697
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
 EB 9000 S at Monroe St Salt Lake Co.
@@ -7924,7 +7928,10 @@ Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:0
 UT-Incident--174921,Incidents,SR 224,Summit County,SR 224 at MP 2,"Road weather
 Both Directions SR 224 at MP 2 - 5 (Empire Pass) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",,40.624634,-111.501637
-UT-Incident--174925,Incidents,US 40,Wasatch County,US 40 at MP 28,"Crash
-EB US 40 at MP 28 (7 mi S of Heber) Wasatch Co.
+UT-Incident--174930,Incidents,SR 92,Utah County,SR 92 at MP 22,"Crash
+SR 92 at MP 22 (5 Mi N of US-189) Utah Co.
+Est. Clearance Time: 3:20 PM","2/5/24, 2:18 PM","2/5/24, 3:20 PM","2/5/24, 2:18 PM",,,
+UT-Incident--174929,Incidents,Washington Blvd,Weber County,Washington Blvd at 28th St,"Crash
+SB Washington Blvd at 28th St Weber Co.
 Right Lane Closed
-Est. Clearance Time: 1:41 PM","2/5/24, 12:42 PM","2/5/24, 1:41 PM","2/5/24, 12:42 PM",,40.381341,-111.299697
+Est. Clearance Time: 3:15 PM","2/5/24, 2:12 PM","2/5/24, 3:15 PM","2/5/24, 2:13 PM",,41.214395,-111.970621
