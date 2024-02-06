@@ -7942,7 +7942,6 @@ UT-Incident--174936,Incidents,US 40,Wasatch County,US 40 at MP 30,"Stalled Vehic
 EB US 40 at MP 30 (9 mi S of Heber) Wasatch Co.
 Center Lane Closed
 Est. Clearance Time: 4:48 PM","2/5/24, 3:49 PM","2/5/24, 4:48 PM",,,40.356561,-111.281525
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--174926,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Debris
 EB 9000 S at Monroe St Salt Lake Co.
 Right Lane Closed
@@ -7959,17 +7958,22 @@ EB US 40 at MP 18 to MP 58 (Heber to Duchesne) Wasatch Co.","2/5/24, 4:35 PM","2
 UT-Incident--174939,Incidents,US 40,Duchesne County,US 40 at MP 59,"Roadway Restriction/Traction Control Devices Required ALL vehicles
 WB US 40 at MP 58 to MP 18 (Duchesne to Heber) Wasatch Co.","2/5/24, 4:37 PM","2/6/24, 5:36 PM",,,40.198631,-110.890795
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
 UT-Incident--174943,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 WB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:28 PM","2/5/24, 5:29 PM","2/5/24, 6:28 PM","2/5/24, 6:09 PM",,40.725741,-112.001283
-UT-Incident--174921,Incidents,SR 224,Summit County,SR 224 at MP 2,"Road weather
-Both Directions SR 224 at MP 2 - 5 (Empire Pass) Summit Co.
-Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",,40.624634,-111.501637
 UT-Incident--174942,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
 WB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 6:26 PM","2/5/24, 5:26 PM","2/5/24, 6:26 PM","2/5/24, 5:49 PM",,40.405503,-111.524184
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174947,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
+SB I-15 at MP 335 (650 N Clrfld) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:42 PM","2/5/24, 6:45 PM","2/5/24, 7:42 PM","2/5/24, 6:59 PM",View on map,41.114242,-112.014007
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",View on map,37.677725,-112.846981
+UT-Incident--174921,Incidents,SR 224,Summit County,SR 224 at MP 2,"Road weather
+Both Directions SR 224 at MP 2 - 5 (Empire Pass) Summit Co.
+Approved Traction Devices Required for all Vehicles","2/5/24, 10:27 AM","2/12/24, 11:30 AM","2/5/24, 10:58 AM",View on map,40.624634,-111.501637
