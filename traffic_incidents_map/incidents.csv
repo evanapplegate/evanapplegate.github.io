@@ -8016,7 +8016,6 @@ UT-Incident--174956,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:10 AM","2/6/24, 7:07 AM","2/6/24, 8:10 AM","2/6/24, 7:07 AM",View on map,40.791232,-111.916128
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174961,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Debris
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Lane Closed
@@ -8026,14 +8025,23 @@ NB I-15 Plsnt Grv Off Ramp (Utah County)
 Left Shoulder
 Est. Clearance Time: 8:30 AM","2/6/24, 7:15 AM","2/6/24, 8:30 AM","2/6/24, 7:54 AM",View on map,40.346585,-111.763386
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174962,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:30 AM","2/6/24, 8:22 AM","2/6/24, 9:30 AM","2/6/24, 8:22 AM",View on map,40.480607,-111.902252
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",View on map,37.677725,-112.846981
 UT-Incident--174960,Incidents,US 89,Davis County,US 89 1651,"Crash
 SB US 89 at Gordon Ave (Layton) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 9:30 AM","2/6/24, 7:53 AM","2/6/24, 9:30 AM","2/6/24, 7:55 AM",View on map,41.0866,-111.910763
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174963,Incidents,2100 S,Weber County,2100 S 1602,"Crash
+EB 2100 S Weber Co.
+Center Lanes Closed
+Est. Clearance Time: 9:40 AM","2/6/24, 8:35 AM","2/6/24, 9:40 AM","2/6/24, 8:44 AM",View on map,41.228708,-112.01644
+UT-Incident--174962,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","2/6/24, 8:22 AM","2/6/24, 9:30 AM","2/6/24, 8:22 AM",View on map,40.480607,-111.902252
+UT-Incident--174964,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:40 AM","2/6/24, 8:38 AM","2/6/24, 9:40 AM","2/6/24, 8:38 AM",View on map,40.442142,-111.903011
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",View on map,37.677725,-112.846981
