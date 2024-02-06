@@ -57,6 +57,8 @@ d3.json("hex_world_map_v2.geojson").then(data => {
     }
 })
 
+});
+
             // Load borders
 d3.json("borders.json").then(bordersData => {
     svg.selectAll(".border")
@@ -67,7 +69,4 @@ d3.json("borders.json").then(bordersData => {
         .style("fill", "none") 
         .style("stroke", "#FEFAF6") 
         .style("stroke-width", "0.5px"); 
-});
-
-
 });

@@ -3,115 +3,58 @@ body, html {
   padding: 0;
   width: 100%;
   height: 100%;
+  background-image: url("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/SP_rating/noise9.png");
+  background-color: #FEFAF6;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+  background-size: 50%; 
 }
 
-body {
-background-image: url("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/SP_rating/noise9.png");
-background-color: #FEFAF6;
-font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
-background-size: 50%; 
-    }
-
 h1 {
-	text-align: center;
-    color: #6e5950;
+  text-align: center;
+  color: #6e5950;
 }
 
 p {
-    text-align: center;
+  text-align: center;
 }
 
 a {
-    color: #6e5950;
-    text-decoration: underline;
+  color: #6e5950;
+  text-decoration: underline;
 }
 
-#SP_world_map {
-	margin-top: -30px;
+.tooltip {
+  padding: 6px;
+  color: #6e5950;
+  position: absolute;
+  background-color: #FEFAF6;
+  border: none;
+  border-radius: 5px;
+  pointer-events: none;
+  display: none;
 }
 
-#map-tooltip {
-    padding: 6px;
-    color: #6e5950;
-    position: absolute;
-    background-color: #FEFAF6; 
-    border: none; 
-    border-radius: 5px; 
-    pointer-events: none;
-    display: none;
+.hex:hover {
+  stroke-width: 1px;
 }
 
-#map-header {
-    width: 95%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-#charts-header {
-    margin-top: -20px;
-    margin-bottom: -40px;
-    text-align: center;
-    color: #FEFAF6;
-    background-color: #433079;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-
-#charts-container {
-    padding-top: 30px;
-    padding-bottom: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-image: url("https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/SP_rating/noise_purp.png");
-    background-color: #433079;
-    background-size: 50%; 
-    }
-
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-
-.chart-title {
-    text-anchor: middle;
-    font-size: 10px;
-}
-
-.chart {
-   /* margin: 5px; */
-    margin-top: 20px;
-    width: calc(20% - 10px);
-}
-
-/* on mobile, display: */
-@media (max-width: 768px) {
-    .chart {
-        width: 100%; /* Full width */
-        margin: 0 auto; /* Center the chart if needed */
-    }
-    .chart svg {
-        height: 150px; /* Adjust the height as needed for mobile devices */
-    }
-}
-
-.map-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto; 
-    height: auto; 
-    aspect-ratio: 16 / 9;
+.map_container {
+  position: relative;
+  width: 100%;
+  max-width: 99%; /* Maximum width of your SVG */
+  margin: 0 auto; /* Center the map container */
+  overflow: hidden; /* Ensures no overflow of the SVG */
 }
 
 svg {
-    width: 100%;
-    height: auto; 
+  display: block; /* Remove any default margin */
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
 }
 
-.country {
-        fill: #f2ebe4;
-    }
+/* Responsive aspect ratio hack */
+.map_container::before {
+  content: '';
+  display: block;
+  padding-top: (600 / 960 * 100)% /* Height / Width * 100% */;
+}

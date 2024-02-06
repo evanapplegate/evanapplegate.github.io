@@ -1,73 +1,77 @@
-// SVG width, height
-const width = 960, height = 600;
+const width = 960;
+const height = 600;
 
-// SVG element + attributes
-const svg = d3.select("svg").attr("width", width).attr("height", height);
+const projection = d3.geoCylindricalStereographic()
+    .scale(width / 2 / Math.PI)
+    .translate([width / 2, height / 2]);
 
-// projection type
-const projection = d3.geoStereographic().scale(width / 2 / Math.PI).translate([width / 2, height / 2]);
-
-// projection
 const path = d3.geoPath().projection(projection);
 
-// color scale for different ratings
-const ratingColors = {
-    "AAA": "#440154",
-    "AA+": "#481a6c",
-    "AA": "#472f7d",
-    "A+": "#414487",
-    "A": "#39568c",
-    "A-": "#31688e",
-    "BBB+": "#2a788e",
-    "BBB": "#23888e",
-    "BBB-": "#219097",
-    "BB+": "#1f988b",
-    "BB": "#22a884",
-    "BB-": "#28ae80",
-    "B+": "#35b779",
-    "B": "#54c568",
-    "B-": "#7ad151",
-    "CCC+": "#a5db36",
-    "CCC": "#d2e21b",
-    "CCC-": "#e0e21b",
-    "SD/D": "#fde725"
-};
+// const svg = d3.select("#map")
+//     .attr("width", width)
+//     .attr("height", height);
 
-// Load countries
-d3.json("hex_world_map_v2.geojson").then(data => {
-    svg.selectAll(".country")
+    const svg = d3.select("#map")
+    .attr("viewBox", `0 0 ${width} ${height}`);
+
+const tooltip = d3.select("#tooltip");
+
+d3.json("geodata/land.geojson").then(land => {
+    svg.append("path")
+        .datum(land)
+        .attr("d", path)
+        .attr("fill", "#F2EBE4");
+});
+
+
+const colorScale = d3.scaleOrdinal()
+    .domain(["publichealth", "gov", "founders", "associates", "env", "education", "arts"])
+    .range(["#45C1C0", "#45C1C0", "#AC4399", "#E56722", "#6EBE4A", "#004685", "#D8365B"]);
+
+d3.json("geodata/hexes_with_programs.geojson").then(data => {
+    svg.selectAll(".hex")
         .data(data.features)
         .enter().append("path")
-        .attr("class", "country")
+        .attr("class", "hex")
         .attr("d", path)
-        .style("fill", d => ratingColors[d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023]) // Set color based on rating
+        .attr("fill", d => colorScale(d.properties.main_program))
         .on("mouseover", function(event, d) {
-// Check if the country has a current rating
-    if (d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== null && d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023 !== undefined) 
-    {
-        // Create a tooltip div element for the map
-        var mapTooltip = d3.select("#map-tooltip");
-
-        // Show the tooltip for the map
-        mapTooltip
-            .style("display", "inline")
-            .html(`${d.properties.mapped_ratings_country}<br>Rating: ${d.properties.mapped_ratings_sovereign_foreign_currency_rating_nov_2023}`)
-            .style("left", (event.pageX + 5) + "px")
-            .style("top", (event.pageY - 28) + "px");
-    }
+            d3.select(this).attr("stroke", d3.select(this).attr("fill"));
+            let tooltipHtml = `${d.properties.country}<br>`;
+            ["arts", "associates", "education", "env", "founders", "gov", "publichealth"].forEach(field => {
+                if (d.properties[field] !== 0) {
+                    let fieldName = field.charAt(0).toUpperCase() + field.slice(1); // Capitalize the first letter
+                    if (field === "arts") fieldName = "Arts";
+                    if (field === "associates") fieldName = "Bloomberg Associates";
+                    if (field === "education") fieldName = "Education";
+                    if (field === "env") fieldName = "Environment";
+                    if (field === "founders") fieldName = "Founder’s projects";
+                    if (field === "gov") fieldName = "Government Innovation";
+                    if (field === "publichealth") fieldName = "Public Health";
+                    tooltipHtml += `${fieldName}: ${d.properties[field]}<br>`;
+                }
+            });
+            tooltip.html(tooltipHtml)
+                .style("display", "block")
+                .style("left", (event.pageX + 15) + "px")
+                .style("top", (event.pageY - 28) + "px");
+        })
+        .on("mouseout", function() {
+            d3.select(this).attr("stroke", "none");
+            tooltip.style("display", "none");
+    
+    });
 })
 
-            // Load borders
-d3.json("borders.json").then(bordersData => {
-    svg.selectAll(".border")
-        .data(bordersData.features)
-        .enter().append("path")
-        .attr("class", "border")
-        .attr("d", path) // map projection
+// borders
+    d3.json("geodata/borders.geojson").then(borders => { // borders
+    svg.append("path")
+        .datum(borders)
+        .attr("d", path)
         .style("fill", "none") 
-        .style("stroke", "#FEFAF6") 
+        .style("stroke", "#FDF8F4") 
         .style("stroke-width", "0.5px"); 
-});
-
-
-});
+        // .attr("stroke", "#FDF8F4")
+        // .attr("stroke-width", 0.5)
+        // .attr("fill", "none");
+        });

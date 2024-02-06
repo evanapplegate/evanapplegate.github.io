@@ -3,30 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>S&P long term currency ratings as of Nov. 2023</title>
+    <title>Overall program map test</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 
 <div id="map-header" style="margin-left: auto; margin-right: auto;">
-<h1>S&P Global’s Long Term Currency ratings</h1>
-<p style="margin-top: -15px;"><a href='https://www.spglobal.com/ratings/en/research/articles/231207-sovereign-ratings-history-12938172'>Starting with the U.S. in 1941,</a> S&P Global regularly assesses nations’ risk of defaulting on their foreign currency-denominated obligations. People who invest your pile of money rely on S&P’s assessments; <a href="https://archive.nytimes.com/dealbook.nytimes.com/2015/02/03/s-p-announces-1-37-billion-settlement-with-prosecutors/">they can be a little wrong sometimes.</a></p>
-<img src="map_key.svg" alt="Map Key" style="width: 95%; height: auto; margin-left: auto; margin-right: auto;">
-
-</div>
-<div id="SP_world_map" class="map_container">
-<svg viewBox="0 0 960 600"></svg>
+<h1>BP’s 2023 programs</h1>
+<p style="margin-top: -15px;">Testing</p>
 </div>
 
-<div id="charts-header"><p>Historical long-term currency ratings</p></div>
-<div id="charts-container"></div>
+<div class="map_container">
+<svg id="map"></svg>
+</div>
 
-<div id="map-tooltip"></div>
+<div id="tooltip" class="tooltip"></div>
 
 <!-- load scripts -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="map.js"></script>
-    <script src="ratings_charts.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="map.js"></script>
 </body>
 </html>
