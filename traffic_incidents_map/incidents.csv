@@ -8212,21 +8212,25 @@ UT-Incident--175029,Incidents,Kearns Blvd,Summit County,Kearns Blvd 2783,"Crash
 SB Kearns Blvd at Richardson Flat Rd (Summit County)
 Right Shoulder
 Est. Clearance Time: 9:20 AM","2/7/24, 8:23 AM","2/7/24, 9:20 AM","2/7/24, 8:23 AM",,40.674533,-111.469042
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175031,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 NB I-15 at MP 319 (Parrish Ln) Davis Co.
 Est. Clearance Time: 10:15 AM","2/7/24, 8:50 AM","2/7/24, 10:15 AM","2/7/24, 8:50 AM",,40.914229,-111.891449
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175024,Incidents,Main St,Tooele County,Main St 1500,"Crash
+Main St at 1500 N (Tooele County)
+Est. Clearance Time: 9:00 AM","2/7/24, 7:55 AM","2/7/24, 9:00 AM","2/7/24, 7:55 AM",,40.561426,-112.296487
+UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 9:11 AM","2/7/24, 5:42 AM","2/7/24, 9:11 AM","2/7/24, 8:00 AM",,39.933221,-111.107262
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 SB I-15 at MP 44 (Kanarraville) Iron Co.
-Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
+Est. Clearance Time: 10:30 AM","2/7/24, 8:07 AM","2/7/24, 10:30 AM","2/7/24, 9:33 AM",,37.508507,-113.213733
 UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
-UT-Incident--175024,Incidents,Main St,Tooele County,Main St 1500,"Crash
-Main St at 1500 N (Tooele County)
-Est. Clearance Time: 9:00 AM","2/7/24, 7:55 AM","2/7/24, 9:00 AM","2/7/24, 7:55 AM",,40.561426,-112.296487
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8244,7 +8248,7 @@ Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
 UT-Incident--175025,Incidents,SR 73,Tooele County,SR 73 at MP 11,"Crash
 SR 73 at MP 11 (8 MI W of Fairfield) Tooele Co.
-Est. Clearance Time: 9:15 AM","2/7/24, 7:58 AM","2/7/24, 9:15 AM","2/7/24, 7:58 AM",,40.272986,-112.247573
+Est. Clearance Time: 10:15 AM","2/7/24, 7:58 AM","2/7/24, 10:15 AM","2/7/24, 9:32 AM",,40.272986,-112.247573
 UT-Incident--175035,Incidents,SR 73,Tooele County,SR 73 at MP 3,"Crash
 SR 73 at MP 3 (4 MI E of Rush Valley) Tooele Co.
 Est. Clearance Time: 10:15 AM","2/7/24, 9:14 AM","2/7/24, 10:15 AM","2/7/24, 9:14 AM",,40.362958,-112.335036
@@ -8253,7 +8257,7 @@ Other SR 87 at MP 20 (1 Mi W of Altamont) Duchesne Co.
 Est. Clearance Time: 10:00 AM","2/7/24, 7:48 AM","2/7/24, 10:00 AM","2/7/24, 7:48 AM",,40.355893,-110.308696
 UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
 SR 92 at MP 10 (Timpanogos Cave) Utah Co.
-Est. Clearance Time: 9:40 AM","2/7/24, 8:34 AM","2/7/24, 9:40 AM","2/7/24, 8:34 AM",,40.443302,-111.708308
+Est. Clearance Time: 10:40 AM","2/7/24, 8:34 AM","2/7/24, 10:40 AM","2/7/24, 9:33 AM",,40.443302,-111.708308
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
@@ -8263,16 +8267,12 @@ Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10
 UT-Incident--175036,Incidents,US 40,Wasatch County,US 40 at MP 22,"Crash
 US 40 at MP 22 (1 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 10:15 AM","2/7/24, 9:17 AM","2/7/24, 10:15 AM","2/7/24, 9:17 AM",,40.446281,-111.365862
-UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
-EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 9:11 AM","2/7/24, 5:42 AM","2/7/24, 9:11 AM","2/7/24, 8:00 AM",,39.933221,-111.107262
 UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
 UT-Incident--175026,Incidents,US 89,Garfield County,US 89 at MP 128,"Crash
 US 89 at MP 128 (3 mi S of Panguitch) Garfield Co.
-Est. Clearance Time: 9:45 AM","2/7/24, 8:03 AM","2/7/24, 9:45 AM","2/7/24, 8:03 AM",,37.800357,-112.39969
+Est. Clearance Time: 10:45 AM","2/7/24, 8:03 AM","2/7/24, 10:45 AM","2/7/24, 9:32 AM",,37.800357,-112.39969
 UT-Incident--175027,Incidents,US 89,Sanpete County,US 89 at MP 265,"Crash
 US 89 at MP 265 (2 miles N of Ephraim) Sanpete Co.
-Est. Clearance Time: 9:30 AM","2/7/24, 8:04 AM","2/7/24, 9:30 AM","2/7/24, 8:04 AM",,39.392227,-111.57835
+Est. Clearance Time: 10:30 AM","2/7/24, 8:04 AM","2/7/24, 10:30 AM","2/7/24, 9:33 AM",,39.392227,-111.57835
