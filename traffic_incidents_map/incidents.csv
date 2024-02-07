@@ -8340,7 +8340,6 @@ Est. Clearance Time: 2:40 PM","2/7/24, 1:33 PM","2/7/24, 2:40 PM","2/7/24, 1:33 
 UT-Incident--175063,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Est. Clearance Time: 3:00 PM","2/7/24, 1:51 PM","2/7/24, 3:00 PM","2/7/24, 1:51 PM",,40.674449,-111.952751
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175062,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Est. Clearance Time: 2:40 PM","2/7/24, 1:41 PM","2/7/24, 2:40 PM","2/7/24, 1:41 PM",,39.215913,-112.156307
@@ -8357,10 +8356,19 @@ UT-Incident--175069,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:45 PM","2/7/24, 2:54 PM","2/7/24, 3:45 PM","2/7/24, 2:54 PM",,40.670175,-111.805204
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175072,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
+SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:00 PM","2/7/24, 3:55 PM","2/7/24, 5:00 PM","2/7/24, 3:55 PM",,40.753564,-111.986694
 UT-Incident--175065,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:15 PM","2/7/24, 2:05 PM","2/7/24, 3:15 PM","2/7/24, 2:05 PM",,40.659924,-111.952783
+UT-Incident--175073,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","2/7/24, 4:00 PM","2/7/24, 5:00 PM","2/7/24, 4:00 PM",,40.775011,-111.949343
 UT-Incident--175071,Incidents,I-80,Summit County,I-80 at MP 178,"Congestion
 EB I-80 at MP 178 (Emory) Summit Co.
 Est. Clearance Time: 5:00 PM","2/7/24, 3:38 PM","2/7/24, 5:00 PM","2/7/24, 3:38 PM",,41.064452,-111.281164
