@@ -8288,14 +8288,10 @@ Est. Clearance Time: 12:15 AM","2/7/24, 9:12 AM","2/7/24, 12:15 PM","2/7/24, 11:
 UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 at MP 18 -58 (Wasatch County)
 Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175051,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Est. Clearance Time: 12:45 PM","2/7/24, 11:40 AM","2/7/24, 12:45 PM","2/7/24, 11:40 AM",,39.957242,-111.796974
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175050,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
-NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
-Est. Clearance Time: 1:40 PM","2/7/24, 11:37 AM","2/7/24, 1:40 PM","2/7/24, 12:45 PM",,40.005686,-111.762644
 UT-Incident--175053,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -8304,6 +8300,14 @@ UT-Incident--175054,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","2/7/24, 12:04 PM","2/7/24, 1:15 PM","2/7/24, 12:04 PM",,40.287343,-111.725712
+UT-Incident--175049,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
+EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:30 PM","2/7/24, 11:28 AM","2/7/24, 12:30 PM","2/7/24, 11:28 AM",,40.741134,-111.741641
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175050,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
+NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
+Est. Clearance Time: 1:40 PM","2/7/24, 11:37 AM","2/7/24, 1:40 PM","2/7/24, 12:45 PM",,40.005686,-111.762644
 UT-Incident--175057,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Left Shoulder
@@ -8311,14 +8315,10 @@ Est. Clearance Time: 2:00 PM","2/7/24, 12:51 PM","2/7/24, 2:00 PM","2/7/24, 12:5
 UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 2:30 PM","2/7/24, 11:21 AM","2/7/24, 2:30 PM","2/7/24, 12:44 PM",,41.183783,-111.131084
-UT-Incident--175049,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
-EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 12:30 PM","2/7/24, 11:28 AM","2/7/24, 12:30 PM","2/7/24, 11:28 AM",,40.741134,-111.741641
 UT-Incident--175055,Incidents,I-80,Tooele County,I-80 at MP 97,"Crash
 EB I-80 at MP 97 (1 mi W of Tooele) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 1:15 PM","2/7/24, 12:08 PM","2/7/24, 1:15 PM","2/7/24, 12:08 PM",,40.676333,-112.285248
+Est. Clearance Time: 1:45 PM","2/7/24, 12:08 PM","2/7/24, 1:45 PM","2/7/24, 1:10 PM",,40.676333,-112.285248
 UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
 NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
 2 Right Lanes Closed","2/7/24, 9:50 AM","2/14/24, 1:45 PM","2/7/24, 12:53 PM",,40.687995,-111.938889
@@ -8339,10 +8339,13 @@ Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
 UT-Incident--175052,Incidents,SR 62,Piute County,SR 62 at MP 36,"Crash
 SR 62 at MP 36 (2 Mi S of Koosharem) Piute Co.
-Est. Clearance Time: 12:40 PM","2/7/24, 11:41 AM","2/7/24, 12:40 PM","2/7/24, 11:41 AM",,38.485451,-111.88896
+Est. Clearance Time: 1:40 PM","2/7/24, 11:41 AM","2/7/24, 1:40 PM","2/7/24, 1:08 PM",,38.485451,-111.88896
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
 UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash:
 EB US 6 Closed at MP 196 (1 Mi E of Sheep Creek) Utah Co.
 Use Alt Route","2/7/24, 11:12 AM","2/7/24, 12:15 PM","2/7/24, 11:22 AM",,39.965781,-111.32036
+UT-Incident--175058,Incidents,US 6,Carbon County,US 6 at MP 236,"Crash
+Both Directions US 6 at MP 236 (SR-139 Jct) Carbon Co.
+Use Alt","2/7/24, 1:11 PM","2/7/24, 5:00 PM","2/7/24, 1:19 PM",,39.644197,-110.85975
