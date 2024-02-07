@@ -8347,7 +8347,6 @@ UT-Incident--175070,Incidents,I-15,Davis County,I-15 at MP 335,"Maintenance
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 4:06 PM","2/7/24, 3:07 PM","2/7/24, 4:06 PM","2/7/24, 3:07 PM",,41.114242,-112.014007
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175064,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
@@ -8357,10 +8356,15 @@ SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:45 PM","2/7/24, 2:54 PM","2/7/24, 3:45 PM","2/7/24, 2:54 PM",,40.670175,-111.805204
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175072,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
 SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:00 PM","2/7/24, 3:55 PM","2/7/24, 5:00 PM","2/7/24, 3:55 PM",,40.753564,-111.986694
+UT-Incident--175074,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+SB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","2/7/24, 4:06 PM","2/7/24, 5:00 PM","2/7/24, 4:06 PM",,41.066718,-111.970064
 UT-Incident--175065,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
@@ -8404,3 +8408,6 @@ Est. Clearance Time: 3:15 PM","2/7/24, 2:09 PM","2/7/24, 3:15 PM","2/7/24, 2:09 
 UT-Incident--175068,Incidents,US 89,Cache County,US 89 at MP 463,"Crash
 Both Directions US 89 at MP 463 (2 miles NE of Logan) Cache Co.
 Est. Clearance Time: 4:30 PM","2/7/24, 2:31 PM","2/7/24, 4:30 PM","2/7/24, 2:50 PM",,41.743512,-111.760083
+UT-Incident--175075,Incidents,US 89,Davis County,US 89 at 2600 S,"Crash
+SB US 89 at 2600 S Davis Co.
+Est. Clearance Time: 5:15 PM","2/7/24, 4:18 PM","2/7/24, 5:15 PM","2/7/24, 4:19 PM",,0.0,0.0
