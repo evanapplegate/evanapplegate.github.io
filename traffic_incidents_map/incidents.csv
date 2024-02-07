@@ -8355,20 +8355,20 @@ UT-Incident--175069,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:45 PM","2/7/24, 2:54 PM","2/7/24, 3:45 PM","2/7/24, 2:54 PM",,40.670175,-111.805204
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175074,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","2/7/24, 4:06 PM","2/7/24, 5:00 PM","2/7/24, 4:06 PM",,41.066718,-111.970064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175072,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
-SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 5:00 PM","2/7/24, 3:55 PM","2/7/24, 5:00 PM","2/7/24, 3:55 PM",,40.753564,-111.986694
 UT-Incident--175077,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 5:30 PM","2/7/24, 4:28 PM","2/7/24, 5:30 PM","2/7/24, 4:28 PM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175072,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
+SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:00 PM","2/7/24, 3:55 PM","2/7/24, 5:00 PM","2/7/24, 3:55 PM",,40.753564,-111.986694
 UT-Incident--175065,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
@@ -8408,7 +8408,7 @@ UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 Both Directions US 6
  at MP 196 (1 Mi E of Sheep Creek) Utah Co.
 Intermittent closures with alternating traffic.
-Two hour travel delay.","2/7/24, 11:12 AM","2/7/24, 4:30 PM","2/7/24, 3:42 PM",,39.965781,-111.32036
+Two hour travel delay.","2/7/24, 11:12 AM","2/7/24, 6:00 PM","2/7/24, 4:42 PM",,39.965781,-111.32036
 UT-Incident--175067,Incidents,US 89,Davis County,US 89 at MP 399,"Crash
 NB US 89 at MP 399 (Green Rd. / Fruit Heights) Davis Co.
 Est. Clearance Time: 3:15 PM","2/7/24, 2:09 PM","2/7/24, 3:15 PM","2/7/24, 2:09 PM",,41.031665,-111.90884
