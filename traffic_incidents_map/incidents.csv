@@ -8175,14 +8175,18 @@ EB US 91 at MP 1 (775 W Brigham City) Box Elder Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:13 AM","2/7/24, 4:13 AM","2/7/24, 5:13 AM","2/7/24, 4:13 AM",,41.486567,-112.034906
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175010,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Est. Clearance Time: 7:30 AM","2/7/24, 5:22 AM","2/7/24, 7:30 AM","2/7/24, 5:22 AM",,38.488583,-112.61792
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175012,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
+Right Lane Closed
+Est. Clearance Time: 6:45 AM","2/7/24, 5:46 AM","2/7/24, 6:45 AM","2/7/24, 5:51 AM",,40.753891,-111.622581
+UT-Incident--175013,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
+EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Right Shoulder
-Est. Clearance Time: 6:45 AM","2/7/24, 5:46 AM","2/7/24, 6:45 AM","2/7/24, 5:46 AM",,40.753891,-111.622581
+Est. Clearance Time: 6:53 AM","2/7/24, 5:54 AM","2/7/24, 6:53 AM","2/7/24, 5:54 AM",,40.753891,-111.622581
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8193,8 +8197,8 @@ UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM","2/6/24, 6:07 PM",,40.572095,-111.773814
 UT-Incident--175007,Incidents,SR 24,Sevier County,SR 24 at MP 30,"Crash
-SR 24 at MP 30 (20 Mi S of Sigurd) Sevier Co.
-Est. Clearance Time: 4:08 AM","2/7/24, 3:08 AM","2/7/24, 4:08 AM","2/7/24, 3:08 AM",,38.600308,-111.847283
+Both Directions SR 24 at MP 30 (20 Mi S of Sigurd) Sevier Co.
+Est. Clearance Time: 6:23 AM","2/7/24, 3:08 AM","2/7/24, 6:23 AM","2/7/24, 5:56 AM",,38.600308,-111.847283
 UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Est. Clearance Time: 6:41 AM","2/7/24, 5:42 AM","2/7/24, 6:41 AM","2/7/24, 5:42 AM",,39.933221,-111.107262
