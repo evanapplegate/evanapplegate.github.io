@@ -8330,7 +8330,6 @@ Est. Clearance Time: 4:30 PM","2/7/24, 11:21 AM","2/7/24, 4:30 PM","2/7/24, 2:40
 UT-Incident--175058,Incidents,US 6,Carbon County,US 6 at MP 236,"Crash
 Both Directions US 6 at MP 236 (SR-139 Jct) Carbon Co.
 Use Alt","2/7/24, 1:11 PM","2/7/24, 5:00 PM","2/7/24, 1:43 PM",,39.644197,-110.85975
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175059,Incidents,I-15,Millard County,I-15 at MP 186,"Crash
 I-15 at MP 186 (2 mi S of Scipio) Millard Co.
 Est. Clearance Time: 2:45 PM","2/7/24, 1:31 PM","2/7/24, 2:45 PM","2/7/24, 1:31 PM",,39.227657,-112.145873
@@ -8345,14 +8344,15 @@ Est. Clearance Time: 3:00 PM","2/7/24, 1:51 PM","2/7/24, 3:00 PM","2/7/24, 1:51 
 UT-Incident--175062,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Est. Clearance Time: 2:40 PM","2/7/24, 1:41 PM","2/7/24, 2:40 PM","2/7/24, 1:41 PM",,39.215913,-112.156307
-UT-Incident--175064,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
-NB I-15 at MP 311 (2300 N) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 4:00 PM","2/7/24, 1:54 PM","2/7/24, 4:00 PM","2/7/24, 3:30 PM",,40.804836,-111.922481
 UT-Incident--175070,Incidents,I-15,Davis County,I-15 at MP 335,"Maintenance
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 4:06 PM","2/7/24, 3:07 PM","2/7/24, 4:06 PM","2/7/24, 3:07 PM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175064,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
+NB I-15 at MP 311 (2300 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","2/7/24, 1:54 PM","2/7/24, 4:00 PM","2/7/24, 3:30 PM",,40.804836,-111.922481
 UT-Incident--175069,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Lane Closed
@@ -8361,6 +8361,9 @@ UT-Incident--175065,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:15 PM","2/7/24, 2:05 PM","2/7/24, 3:15 PM","2/7/24, 2:05 PM",,40.659924,-111.952783
+UT-Incident--175071,Incidents,I-80,Summit County,I-80 at MP 178,"Congestion
+EB I-80 at MP 178 (Emory) Summit Co.
+Est. Clearance Time: 5:00 PM","2/7/24, 3:38 PM","2/7/24, 5:00 PM","2/7/24, 3:38 PM",,41.064452,-111.281164
 UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
 NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
 2 Right Lanes Closed","2/7/24, 9:50 AM","2/14/24, 1:45 PM","2/7/24, 12:53 PM",,40.687995,-111.938889
@@ -8385,7 +8388,8 @@ Est. Clearance Time: 3:38 PM","2/7/24, 2:08 PM","2/7/24, 3:38 PM","2/7/24, 2:08 
 UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 Both Directions US 6
  at MP 196 (1 Mi E of Sheep Creek) Utah Co.
-Intermittent closures with alternating traffic.","2/7/24, 11:12 AM","2/7/24, 4:30 PM","2/7/24, 3:28 PM",,39.965781,-111.32036
+Intermittent closures with alternating traffic.
+Two hour travel delay.","2/7/24, 11:12 AM","2/7/24, 4:30 PM","2/7/24, 3:42 PM",,39.965781,-111.32036
 UT-Incident--175067,Incidents,US 89,Davis County,US 89 at MP 399,"Crash
 NB US 89 at MP 399 (Green Rd. / Fruit Heights) Davis Co.
 Est. Clearance Time: 3:15 PM","2/7/24, 2:09 PM","2/7/24, 3:15 PM","2/7/24, 2:09 PM",,41.031665,-111.90884
