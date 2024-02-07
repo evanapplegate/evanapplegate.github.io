@@ -8141,7 +8141,6 @@ Est. Clearance Time: 9:30 PM","2/6/24, 6:56 PM","2/6/24, 9:30 PM","2/6/24, 8:25 
 UT-Incident--174998,Incidents,SR 24,Sevier County,SR 24 at MP 37,"Crash
 SR 24 at MP 37 (14 Mi W of Loa) Sevier Co.
 Est. Clearance Time: 9:00 PM","2/6/24, 7:27 PM","2/6/24, 9:00 PM","2/6/24, 7:27 PM",,38.502294,-111.832824
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175003,Incidents,I-15,Davis County,I-15 at MP 336,"Lane Closure
 SB I-15 at MP 336 (Sunset) Davis Co.
 2 Right Lanes Closed
@@ -8150,6 +8149,7 @@ UT-Incident--175002,Incidents,I-15 SB/I-80 WB ON COL RAMP,Salt Lake County,I-15 
 SB I-15/I-80 500 S Onramp Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 11:00 PM","2/6/24, 9:54 PM","2/6/24, 11:00 PM","2/6/24, 9:54 PM",,40.758308,-111.908624
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175005,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
