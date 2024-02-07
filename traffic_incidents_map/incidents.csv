@@ -8177,14 +8177,10 @@ Est. Clearance Time: 5:13 AM","2/7/24, 4:13 AM","2/7/24, 5:13 AM","2/7/24, 4:13 
 UT-Incident--175010,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Est. Clearance Time: 7:30 AM","2/7/24, 5:22 AM","2/7/24, 7:30 AM","2/7/24, 5:22 AM",,38.488583,-112.61792
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175007,Incidents,SR 24,Sevier County,SR 24 at MP 30,"Crash
 Both Directions SR 24 at MP 30 (20 Mi S of Sigurd) Sevier Co.
 Est. Clearance Time: 6:23 AM","2/7/24, 3:08 AM","2/7/24, 6:23 AM","2/7/24, 5:56 AM",,38.600308,-111.847283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175016,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
-NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
-Est. Clearance Time: 7:30 AM","2/7/24, 6:25 AM","2/7/24, 7:30 AM","2/7/24, 6:25 AM",,40.005686,-111.762644
 UT-Incident--175012,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Right Lane Closed
@@ -8193,6 +8189,10 @@ UT-Incident--175013,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 6:53 AM","2/7/24, 5:54 AM","2/7/24, 6:53 AM","2/7/24, 5:54 AM",,40.753891,-111.622581
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175016,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
+NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
+Est. Clearance Time: 7:30 AM","2/7/24, 6:25 AM","2/7/24, 7:30 AM","2/7/24, 6:25 AM",,40.005686,-111.762644
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
