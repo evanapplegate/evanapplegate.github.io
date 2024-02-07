@@ -8208,15 +8208,18 @@ UT-Incident--175021,Incidents,I-80,Summit County,I-80 at MP 150,"Crash
 WB I-80 at MP 150 (3 mi E of Sliver Creek) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 8:41 AM","2/7/24, 7:42 AM","2/7/24, 8:41 AM","2/7/24, 7:45 AM",,40.765812,-111.470127
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175029,Incidents,Kearns Blvd,Summit County,Kearns Blvd 2783,"Crash
 SB Kearns Blvd at Richardson Flat Rd (Summit County)
 Right Shoulder
 Est. Clearance Time: 9:20 AM","2/7/24, 8:23 AM","2/7/24, 9:20 AM","2/7/24, 8:23 AM",,40.674533,-111.469042
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 SB I-15 at MP 44 (Kanarraville) Iron Co.
 Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
+UT-Incident--175031,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+NB I-15 at MP 319 (Parrish Ln) Davis Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 8:50 AM","2/7/24, 10:15 AM","2/7/24, 8:50 AM",,40.914229,-111.891449
 UT-Incident--175024,Incidents,Main St,Tooele County,Main St 1500,"Crash
 Main St at 1500 N (Tooele County)
 Est. Clearance Time: 9:00 AM","2/7/24, 7:55 AM","2/7/24, 9:00 AM","2/7/24, 7:55 AM",,40.561426,-112.296487
@@ -8241,6 +8244,9 @@ Est. Clearance Time: 10:00 AM","2/7/24, 7:48 AM","2/7/24, 10:00 AM","2/7/24, 7:4
 UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
 SR 92 at MP 10 (Timpanogos Cave) Utah Co.
 Est. Clearance Time: 9:40 AM","2/7/24, 8:34 AM","2/7/24, 9:40 AM","2/7/24, 8:34 AM",,40.443302,-111.708308
+UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
+NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
+Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
 UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Right Lane Closed
