@@ -8356,15 +8356,19 @@ SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:45 PM","2/7/24, 2:54 PM","2/7/24, 3:45 PM","2/7/24, 2:54 PM",,40.670175,-111.805204
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175074,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+SB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","2/7/24, 4:06 PM","2/7/24, 5:00 PM","2/7/24, 4:06 PM",,41.066718,-111.970064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175072,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
 SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:00 PM","2/7/24, 3:55 PM","2/7/24, 5:00 PM","2/7/24, 3:55 PM",,40.753564,-111.986694
-UT-Incident--175074,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
-SB I-15 at MP 331 (Hill Field Rd) Davis Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","2/7/24, 4:06 PM","2/7/24, 5:00 PM","2/7/24, 4:06 PM",,41.066718,-111.970064
+UT-Incident--175077,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
+NB I-15 at MP 274 (Lindon) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 5:30 PM","2/7/24, 4:28 PM","2/7/24, 5:30 PM","2/7/24, 4:28 PM",,,
 UT-Incident--175065,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
@@ -8397,6 +8401,9 @@ Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24,
 UT-Incident--175066,Incidents,US 189,Utah County,US 189 at MP 11,"Crash
 Both Directions US 189 at MP 11 (Bridal Veil Falls) Utah Co.
 Est. Clearance Time: 3:38 PM","2/7/24, 2:08 PM","2/7/24, 3:38 PM","2/7/24, 2:08 PM",,40.340167,-111.606843
+UT-Incident--175076,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
+Both Directions US 191 MP 260-272 (Indian Canyon) Carbon/Duchesne Co.
+Approved Traction Devices Required For All Semis","2/7/24, 4:20 PM","2/14/24, 12:00 PM","2/7/24, 4:22 PM",,39.809161,-110.778864
 UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash
 Both Directions US 6
  at MP 196 (1 Mi E of Sheep Creek) Utah Co.
@@ -8408,6 +8415,6 @@ Est. Clearance Time: 3:15 PM","2/7/24, 2:09 PM","2/7/24, 3:15 PM","2/7/24, 2:09 
 UT-Incident--175068,Incidents,US 89,Cache County,US 89 at MP 463,"Crash
 Both Directions US 89 at MP 463 (2 miles NE of Logan) Cache Co.
 Est. Clearance Time: 4:30 PM","2/7/24, 2:31 PM","2/7/24, 4:30 PM","2/7/24, 2:50 PM",,41.743512,-111.760083
-UT-Incident--175075,Incidents,US 89,Davis County,US 89 at 2600 S,"Crash
+UT-Incident--175075,Incidents,US 89,Davis County,US 89 at 1100 N/2600 S,"Crash
 SB US 89 at 2600 S Davis Co.
-Est. Clearance Time: 5:15 PM","2/7/24, 4:18 PM","2/7/24, 5:15 PM","2/7/24, 4:19 PM",,0.0,0.0
+Est. Clearance Time: 5:15 PM","2/7/24, 4:18 PM","2/7/24, 5:15 PM","2/7/24, 4:21 PM",,40.861472,-111.896413
