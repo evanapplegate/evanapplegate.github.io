@@ -8235,11 +8235,23 @@ UT-Incident--175027,Incidents,US 89,Sanpete County,US 89 at MP 265,"Crash
 US 89 at MP 265 (2 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 10:30 AM","2/7/24, 8:04 AM","2/7/24, 10:30 AM","2/7/24, 9:33 AM",,39.392227,-111.57835
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175025,Incidents,SR 73,Tooele County,SR 73 at MP 11,"Crash
+SR 73 at MP 11 (8 MI W of Fairfield) Tooele Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 7:58 AM","2/7/24, 10:15 AM","2/7/24, 9:32 AM",,40.272986,-112.247573
+UT-Incident--175035,Incidents,SR 73,Tooele County,SR 73 at MP 3,"Crash
+SR 73 at MP 3 (4 MI E of Rush Valley) Tooele Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 9:14 AM","2/7/24, 10:15 AM","2/7/24, 9:14 AM",,40.362958,-112.335036
+UT-Incident--175036,Incidents,US 40,Wasatch County,US 40 at MP 22,"Crash
+US 40 at MP 22 (1 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 9:17 AM","2/7/24, 10:15 AM","2/7/24, 9:17 AM",,40.446281,-111.365862
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175038,Incidents,5600 W,Salt Lake County,5600 W at 5400 S,"Crash
 SB 5400 S at 5600 S Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:00 AM","2/7/24, 9:49 AM","2/7/24, 11:00 AM","2/7/24, 9:57 AM",,40.653045,-112.024693
+UT-Incident--175041,Incidents,I-15,Iron County,I-15 at MP 95,"Vehicle on fire
+SB I-15 at MP 95 (13 mi S of Beaver) Iron Co.
+Est. Clearance Time: 11:30 AM","2/7/24, 10:08 AM","2/7/24, 11:30 AM","2/7/24, 10:08 AM",,38.082988,-112.678506
 UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
@@ -8263,12 +8275,6 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24,
 UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
-UT-Incident--175025,Incidents,SR 73,Tooele County,SR 73 at MP 11,"Crash
-SR 73 at MP 11 (8 MI W of Fairfield) Tooele Co.
-Est. Clearance Time: 10:15 AM","2/7/24, 7:58 AM","2/7/24, 10:15 AM","2/7/24, 9:32 AM",,40.272986,-112.247573
-UT-Incident--175035,Incidents,SR 73,Tooele County,SR 73 at MP 3,"Crash
-SR 73 at MP 3 (4 MI E of Rush Valley) Tooele Co.
-Est. Clearance Time: 10:15 AM","2/7/24, 9:14 AM","2/7/24, 10:15 AM","2/7/24, 9:14 AM",,40.362958,-112.335036
 UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
 SR 92 at MP 10 (Timpanogos Cave) Utah Co.
 Est. Clearance Time: 10:40 AM","2/7/24, 8:34 AM","2/7/24, 10:40 AM","2/7/24, 9:33 AM",,40.443302,-111.708308
@@ -8278,9 +8284,10 @@ Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24,
 UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 at MP 18 -58 (Wasatch County)
 Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
-UT-Incident--175036,Incidents,US 40,Wasatch County,US 40 at MP 22,"Crash
-US 40 at MP 22 (1 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 10:15 AM","2/7/24, 9:17 AM","2/7/24, 10:15 AM","2/7/24, 9:17 AM",,40.446281,-111.365862
+UT-Incident--175040,Incidents,US 40 WB X1 TO I-80 WB RAMP,Summit County,US 40 WB X1 TO I-80 WB RAMP at I-80 WB,"Crash
+WB US-40 Exit1 To I-80 WB Ramp Summit Co.
+Ramp Closed to WB I-80
+Est. Clearance Time: 11:05 AM","2/7/24, 10:07 AM","2/7/24, 11:05 AM","2/7/24, 10:12 AM",,40.730371,-111.497952
 UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
