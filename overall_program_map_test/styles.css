@@ -9,18 +9,49 @@ body, html {
   background-size: 50%; 
 }
 
-h1 {
+#map-header h1, #map-header p {
   text-align: center;
   color: #6e5950;
 }
 
-p {
+#buttons-container {
   text-align: center;
+  margin-bottom: 20px;
 }
 
-a {
-  color: #6e5950;
-  text-decoration: underline;
+.filter-btn {
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+  color: white;
+  padding: 5px 10px;
+  margin: 1px;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.5s;
+  border-radius: 5px;
+}
+
+.filter-btn:hover {
+  opacity: 0.7;
+}
+
+.map_container {
+  position: relative;
+  width: 100%;
+  max-width: 99%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.map_container::before {
+  content: '';
+  display: block;
+  padding-top: (600 / 960 * 100)%; /* Height / Width * 100% */
+}
+
+svg {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .tooltip {
@@ -28,51 +59,32 @@ a {
   color: #6e5950;
   position: absolute;
   background-color: #FEFAF6;
-  border: none;
+/*  border: 2px solid #F2EBE4;*/
   border-radius: 5px;
   pointer-events: none;
   display: none;
+  text-align: left;
 }
 
-.hex:hover {
-  stroke-width: 3px;
+
+.click-tooltip {
+  max-width: 200px;
+  padding: 6px;
+  color: #6e5950;
+  position: absolute;
+  background-color: #FEFAF6;
+  border: 1px solid #F2EBE4;
+  border-radius: 5px;
+  pointer-events: none;
+  display: none;
+  text-align: left;
 }
 
-.map_container {
-  position: relative;
-  width: 100%;
-  max-width: 99%; /* Maximum width of your SVG */
-  margin: 0 auto; /* Center the map container */
-  overflow: hidden; /* Ensures no overflow of the SVG */
+.click-tooltip img {
+  max-width: 200px; /* Adjust based on your preference */
+/*  margin-top: 5px;*/
 }
 
-svg {
-  display: block; /* Remove any default margin */
-  width: 100%;
-  height: auto; /* Maintain aspect ratio */
-}
-
-/* Responsive aspect ratio hack */
-.map_container::before {
-  content: '';
-  display: block;
-  padding-top: (600 / 960 * 100)% /* Height / Width * 100% */;
-}
-
-#buttons-container {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.filter-btn {
-    color: white;
-    padding: 5px 20px;
-    margin: 1px;
-    border: none;
-    cursor: pointer;
-    transition: opacity 0.5s;
-}
-
-.filter-btn:hover {
-    opacity: 0.7;
+.click-tooltip p {
+  margin: 5px 0 0 0;
 }
