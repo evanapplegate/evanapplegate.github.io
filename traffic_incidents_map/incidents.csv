@@ -8101,7 +8101,6 @@ Est. Clearance Time: 5:06 PM","2/6/24, 4:09 PM","2/6/24, 5:06 PM","2/6/24, 4:09 
 UT-Incident--174981,Incidents,Wall Ave,Weber County,Wall Ave at 12th St,"Crash
 SB Wall Ave at 12th St Weber Co.
 Est. Clearance Time: 5:30 PM","2/6/24, 4:31 PM","2/6/24, 5:30 PM","2/6/24, 4:31 PM",,41.244242,-111.978229
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174984,Incidents,1900 W,Weber County,1900 W at 5350 S,"Crash
 WB 1900 W at 5400 S Weber Co.
 Est. Clearance Time: 6:00 PM","2/6/24, 4:50 PM","2/6/24, 6:00 PM","2/6/24, 4:52 PM",,0.0,0.0
@@ -8113,14 +8112,27 @@ SB Washington Blvd at 36th St Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:15 PM","2/6/24, 5:05 PM","2/6/24, 6:15 PM","2/6/24, 5:05 PM",,41.197792,-111.971001
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--174993,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
-WB 5600 S at 3500 W Weber Co.
-Left Lane Closed
-Est. Clearance Time: 7:15 PM","2/6/24, 6:09 PM","2/6/24, 7:15 PM","2/6/24, 6:09 PM",,41.161599,-112.06442
 UT-Incident--174987,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 SB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","2/6/24, 5:27 PM","2/6/24, 6:30 PM","2/6/24, 5:27 PM",,40.693589,-111.902881
+UT-Incident--174989,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
+SB SR 36 at MP 64 (Canyon Rd) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","2/6/24, 5:55 PM","2/6/24, 7:00 PM","2/6/24, 5:55 PM",,40.667795,-112.284101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--174993,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
+WB 5600 S at 3500 W Weber Co.
+Left Lane Closed
+Est. Clearance Time: 7:15 PM","2/6/24, 6:09 PM","2/6/24, 7:15 PM","2/6/24, 6:09 PM",,41.161599,-112.06442
+UT-Incident--174995,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","2/6/24, 6:56 PM","2/6/24, 8:30 PM","2/6/24, 6:56 PM",,40.775011,-111.949343
+UT-Incident--174994,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:00 PM","2/6/24, 6:54 PM","2/6/24, 8:00 PM","2/6/24, 6:54 PM",,40.765165,-111.991516
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8133,7 +8145,3 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24,
 UT-Incident--174990,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 5:57 PM","2/12/24, 12:00 PM","2/6/24, 5:59 PM",,40.624634,-111.501637
-UT-Incident--174989,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
-SB SR 36 at MP 64 (Canyon Rd) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 7:00 PM","2/6/24, 5:55 PM","2/6/24, 7:00 PM","2/6/24, 5:55 PM",,40.667795,-112.284101
