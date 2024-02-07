@@ -8127,11 +8127,11 @@ UT-Incident--174997,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","2/6/24, 7:09 PM","2/6/24, 8:15 PM","2/6/24, 7:09 PM",,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174994,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:00 PM","2/6/24, 6:54 PM","2/6/24, 8:00 PM","2/6/24, 6:54 PM",,40.765165,-111.991516
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174995,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
@@ -8152,3 +8152,5 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 5:57 PM","2/12/24,
 UT-Incident--174998,Incidents,SR 24,Sevier County,SR 24 at MP 37,"Crash
 SR 24 at MP 37 (14 Mi W of Loa) Sevier Co.
 Est. Clearance Time: 9:00 PM","2/6/24, 7:27 PM","2/6/24, 9:00 PM","2/6/24, 7:27 PM",,38.502294,-111.832824
+UT-Incident--174999,Incidents,US 191,Grand County,US 191 at MP 120,"Crash
+Both Directions US 191 Closed at MP 120 (Moab) Grand Co.","2/6/24, 8:17 PM","2/6/24, 10:00 PM","2/6/24, 8:17 PM",,38.511376,-109.486612
