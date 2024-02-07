@@ -8268,11 +8268,18 @@ Est. Clearance Time: 12:00 PM","2/7/24, 10:59 AM","2/7/24, 12:00 PM","2/7/24, 10
 UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
 SR 92 at MP 10 (Timpanogos Cave) Utah Co.
 Est. Clearance Time: 10:40 AM","2/7/24, 8:34 AM","2/7/24, 10:40 AM","2/7/24, 9:33 AM",,40.443302,-111.708308
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175043,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80 Exit 117 To I-215 W SB Col Ramp Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:45 AM","2/7/24, 10:43 AM","2/7/24, 11:45 AM","2/7/24, 10:43 AM",,40.761801,-111.951636
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
+NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
+UT-Incident--175046,Incidents,I-80,Summit County,I-80 at MP 171,"Crash
+WB I-80 at MP 171 (3 mi E of Echo) Summit Co.
+Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11:04 AM",,41.004453,-111.3847
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
@@ -8283,13 +8290,10 @@ Est. Clearance Time: 12:40 PM","2/7/24, 11:37 AM","2/7/24, 12:40 PM","2/7/24, 11
 UT-Incident--175051,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Est. Clearance Time: 12:45 PM","2/7/24, 11:40 AM","2/7/24, 12:45 PM","2/7/24, 11:40 AM",,39.957242,-111.796974
-UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
-NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
-UT-Incident--175046,Incidents,I-80,Summit County,I-80 at MP 171,"Crash
-WB I-80 at MP 171 (3 mi E of Echo) Summit Co.
-Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11:04 AM",,41.004453,-111.3847
+UT-Incident--175053,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:15 PM","2/7/24, 11:58 AM","2/7/24, 1:15 PM","2/7/24, 11:58 AM",,40.480607,-111.902252
 UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 12:30 PM","2/7/24, 11:21 AM","2/7/24, 12:30 PM","2/7/24, 11:22 AM",,41.183783,-111.131084
@@ -8309,7 +8313,7 @@ Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:06 PM","2/13/24, 12:00 PM","2/6/24, 6:06 PM",,40.619107,-111.786281
 UT-Incident--175034,Incidents,SR 199,Tooele County,SR 199 at MP 12,"Crash
 SR 199 at MP 12 (Johnson Pass) Tooele Co.
-Est. Clearance Time: 10:15 AM","2/7/24, 9:12 AM","2/7/24, 10:15 AM","2/7/24, 9:12 AM",,40.337285,-112.572602
+Est. Clearance Time: 12:15 AM","2/7/24, 9:12 AM","2/7/24, 12:15 PM","2/7/24, 11:44 AM",,40.337285,-112.572602
 UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM","2/6/24, 6:07 PM",,40.572095,-111.773814
