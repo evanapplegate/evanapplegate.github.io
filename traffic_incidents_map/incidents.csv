@@ -8272,7 +8272,6 @@ UT-Incident--175043,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake Coun
 WB I-80 Exit 117 To I-215 W SB Col Ramp Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:45 AM","2/7/24, 10:43 AM","2/7/24, 11:45 AM","2/7/24, 10:43 AM",,40.761801,-111.951636
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
@@ -8280,6 +8279,7 @@ Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:2
 UT-Incident--175046,Incidents,I-80,Summit County,I-80 at MP 171,"Crash
 WB I-80 at MP 171 (3 mi E of Echo) Summit Co.
 Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11:04 AM",,41.004453,-111.3847
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
@@ -8294,6 +8294,10 @@ UT-Incident--175053,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","2/7/24, 11:58 AM","2/7/24, 1:15 PM","2/7/24, 11:58 AM",,40.480607,-111.902252
+UT-Incident--175054,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
+NB I-15 at MP 270 (Center St / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1:15 PM","2/7/24, 12:04 PM","2/7/24, 1:15 PM","2/7/24, 12:04 PM",,40.287343,-111.725712
 UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 12:30 PM","2/7/24, 11:21 AM","2/7/24, 12:30 PM","2/7/24, 11:22 AM",,41.183783,-111.131084
@@ -8301,6 +8305,10 @@ UT-Incident--175049,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","2/7/24, 11:28 AM","2/7/24, 12:30 PM","2/7/24, 11:28 AM",,40.741134,-111.741641
+UT-Incident--175055,Incidents,I-80,Tooele County,I-80 at MP 97,"Crash
+EB I-80 at MP 97 (1 mi W of Tooele) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 1:15 PM","2/7/24, 12:08 PM","2/7/24, 1:15 PM","2/7/24, 12:08 PM",,40.676333,-112.285248
 UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
 NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
 2 Right Lanes Closed
