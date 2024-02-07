@@ -23,7 +23,7 @@ Papa.parse("incidents.csv", {
             if (incident.latitude && incident.longitude && isRecent(incident.startTime)) {
                 var descriptionFirstLine = incident.description.split('\n')[0]; // Get first line of description
                 var marker = L.circleMarker([incident.latitude, incident.longitude], {
-                    radius: 3,
+                    radius: 5,
                     fillColor: '#fa9900',
                     fillOpacity: 0.5,
                     color: '#ff6c00',
