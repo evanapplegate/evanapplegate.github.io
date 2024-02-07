@@ -8131,7 +8131,6 @@ UT-Incident--174994,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:00 PM","2/6/24, 6:54 PM","2/6/24, 8:00 PM","2/6/24, 6:54 PM",,40.765165,-111.991516
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175000,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 Onramp at MP 313 (US-89) Davis Co.
 Est. Clearance Time: 10:15 PM","2/6/24, 9:07 PM","2/6/24, 10:15 PM","2/6/24, 9:07 PM",,40.831692,-111.91596
@@ -8143,6 +8142,15 @@ UT-Incident--174998,Incidents,SR 24,Sevier County,SR 24 at MP 37,"Crash
 SR 24 at MP 37 (14 Mi W of Loa) Sevier Co.
 Est. Clearance Time: 9:00 PM","2/6/24, 7:27 PM","2/6/24, 9:00 PM","2/6/24, 7:27 PM",,38.502294,-111.832824
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175003,Incidents,I-15,Davis County,I-15 at MP 336,"Lane Closure
+SB I-15 at MP 336 (Sunset) Davis Co.
+2 Right Lanes Closed
+Est. Clearance Time: 11:30 PM","2/6/24, 10:16 PM","2/6/24, 11:30 PM","2/6/24, 10:16 PM",,41.125961,-112.025249
+UT-Incident--175002,Incidents,I-15 SB/I-80 WB ON COL RAMP,Salt Lake County,I-15 SB/I-80 WB ON COL RAMP at 500 S,"Crash
+SB I-15/I-80 500 S Onramp Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 11:00 PM","2/6/24, 9:54 PM","2/6/24, 11:00 PM","2/6/24, 9:54 PM",,40.758308,-111.908624
 UT-Incident--175001,Incidents,I-80 EB X117 To I-215w NB Ramp,Salt Lake County,I-80 EB X117 To I-215w NB Ramp at I-215w NB,"Crash
 Ramp from I-80 EB to I-215 W NB Salt Lake Co.
 Est. Clearance Time: 11:30 PM","2/6/24, 9:28 PM","2/6/24, 11:30 PM","2/6/24, 9:28 PM",,40.763389,-111.950677
@@ -8159,4 +8167,4 @@ UT-Incident--174990,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 5:57 PM","2/12/24, 12:00 PM","2/6/24, 5:59 PM",,40.624634,-111.501637
 UT-Incident--174999,Incidents,US 191,Grand County,US 191 at MP 120,"Crash
-Both Directions US 191 Closed at MP 120 (Moab) Grand Co.","2/6/24, 8:17 PM","2/6/24, 10:00 PM","2/6/24, 8:17 PM",,38.511376,-109.486612
+Both Directions US 191 Closed at MP 120 (Moab) Grand Co.","2/6/24, 8:17 PM","2/7/24, 1:00 AM","2/6/24, 10:09 PM",,38.511376,-109.486612
