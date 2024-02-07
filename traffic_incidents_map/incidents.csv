@@ -8213,13 +8213,17 @@ SB Kearns Blvd at Richardson Flat Rd (Summit County)
 Right Shoulder
 Est. Clearance Time: 9:20 AM","2/7/24, 8:23 AM","2/7/24, 9:20 AM","2/7/24, 8:23 AM",,40.674533,-111.469042
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175031,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+NB I-15 at MP 319 (Parrish Ln) Davis Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 8:50 AM","2/7/24, 10:15 AM","2/7/24, 8:50 AM",,40.914229,-111.891449
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 SB I-15 at MP 44 (Kanarraville) Iron Co.
 Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
-UT-Incident--175031,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
-NB I-15 at MP 319 (Parrish Ln) Davis Co.
-Est. Clearance Time: 10:15 AM","2/7/24, 8:50 AM","2/7/24, 10:15 AM","2/7/24, 8:50 AM",,40.914229,-111.891449
+UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
+NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
 UT-Incident--175024,Incidents,Main St,Tooele County,Main St 1500,"Crash
 Main St at 1500 N (Tooele County)
 Est. Clearance Time: 9:00 AM","2/7/24, 7:55 AM","2/7/24, 9:00 AM","2/7/24, 7:55 AM",,40.561426,-112.296487
@@ -8229,6 +8233,9 @@ Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:0
 UT-Incident--174991,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:06 PM","2/13/24, 12:00 PM","2/6/24, 6:06 PM",,40.619107,-111.786281
+UT-Incident--175034,Incidents,SR 199,Tooele County,SR 199 at MP 12,"Crash
+SR 199 at MP 12 (Johnson Pass) Tooele Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 9:12 AM","2/7/24, 10:15 AM","2/7/24, 9:12 AM",,40.337285,-112.572602
 UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM","2/6/24, 6:07 PM",,40.572095,-111.773814
@@ -8238,6 +8245,9 @@ Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24,
 UT-Incident--175025,Incidents,SR 73,Tooele County,SR 73 at MP 11,"Crash
 SR 73 at MP 11 (8 MI W of Fairfield) Tooele Co.
 Est. Clearance Time: 9:15 AM","2/7/24, 7:58 AM","2/7/24, 9:15 AM","2/7/24, 7:58 AM",,40.272986,-112.247573
+UT-Incident--175035,Incidents,SR 73,Tooele County,SR 73 at MP 3,"Crash
+SR 73 at MP 3 (4 MI E of Rush Valley) Tooele Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 9:14 AM","2/7/24, 10:15 AM","2/7/24, 9:14 AM",,40.362958,-112.335036
 UT-Incident--175022,Incidents,SR 87,Duchesne County,SR 87 at MP 20,"Crash
 Other SR 87 at MP 20 (1 Mi W of Altamont) Duchesne Co.
 Est. Clearance Time: 10:00 AM","2/7/24, 7:48 AM","2/7/24, 10:00 AM","2/7/24, 7:48 AM",,40.355893,-110.308696
@@ -8247,6 +8257,12 @@ Est. Clearance Time: 9:40 AM","2/7/24, 8:34 AM","2/7/24, 9:40 AM","2/7/24, 8:34 
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
+UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
+EB US 40 at MP 18 -58 (Wasatch County)
+Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
+UT-Incident--175036,Incidents,US 40,Wasatch County,US 40 at MP 22,"Crash
+US 40 at MP 22 (1 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 10:15 AM","2/7/24, 9:17 AM","2/7/24, 10:15 AM","2/7/24, 9:17 AM",,40.446281,-111.365862
 UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Right Lane Closed
