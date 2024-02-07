@@ -8251,7 +8251,6 @@ UT-Incident--175040,Incidents,US 40 WB X1 TO I-80 WB RAMP,Summit County,US 40 WB
 WB US-40 Exit1 To I-80 WB Ramp Summit Co.
 Ramp Closed to WB I-80
 Est. Clearance Time: 11:05 AM","2/7/24, 10:07 AM","2/7/24, 11:05 AM","2/7/24, 10:12 AM",,40.730371,-111.497952
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175041,Incidents,I-15,Iron County,I-15 at MP 95,"Vehicle on fire
 SB I-15 at MP 95 (13 mi S of Beaver) Iron Co.
 Est. Clearance Time: 11:30 AM","2/7/24, 10:08 AM","2/7/24, 11:30 AM","2/7/24, 10:08 AM",,38.082988,-112.678506
@@ -8263,13 +8262,17 @@ UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restricti
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
-SB I-15 at MP 331 (Hill Field Rd) Davis Co.
-Est. Clearance Time: 12:15 PM","2/7/24, 10:49 AM","2/7/24, 12:15 PM","2/7/24, 10:49 AM",,41.066718,-111.970064
 UT-Incident--175045,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 12:00 PM","2/7/24, 10:59 AM","2/7/24, 12:00 PM","2/7/24, 10:59 AM",,40.722344,-111.904691
+UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
+SR 92 at MP 10 (Timpanogos Cave) Utah Co.
+Est. Clearance Time: 10:40 AM","2/7/24, 8:34 AM","2/7/24, 10:40 AM","2/7/24, 9:33 AM",,40.443302,-111.708308
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+SB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Est. Clearance Time: 12:15 PM","2/7/24, 10:49 AM","2/7/24, 12:15 PM","2/7/24, 10:49 AM",,41.066718,-111.970064
 UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
@@ -8280,6 +8283,10 @@ Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11
 UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 12:30 PM","2/7/24, 11:21 AM","2/7/24, 12:30 PM","2/7/24, 11:22 AM",,41.183783,-111.131084
+UT-Incident--175049,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
+EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:30 PM","2/7/24, 11:28 AM","2/7/24, 12:30 PM","2/7/24, 11:28 AM",,40.741134,-111.741641
 UT-Incident--175043,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80 Exit 117 To I-215 W SB Col Ramp Salt Lake Co.
 Left Shoulder
@@ -8303,9 +8310,6 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24,
 UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
-UT-Incident--175030,Incidents,SR 92,Utah County,SR 92 at MP 10,"Crash
-SR 92 at MP 10 (Timpanogos Cave) Utah Co.
-Est. Clearance Time: 10:40 AM","2/7/24, 8:34 AM","2/7/24, 10:40 AM","2/7/24, 9:33 AM",,40.443302,-111.708308
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
