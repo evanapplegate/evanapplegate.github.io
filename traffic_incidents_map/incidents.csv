@@ -8318,6 +8318,13 @@ EB I-80 at MP 97 (1 mi W of Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","2/7/24, 12:08 PM","2/7/24, 2:45 PM","2/7/24, 1:52 PM",,40.676333,-112.285248
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175061,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+NB I-15 at MP 280 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 2:35 PM","2/7/24, 1:36 PM","2/7/24, 2:35 PM","2/7/24, 1:36 PM",,40.39191,-111.835579
+UT-Incident--175056,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalanche Mitigation
+Both Directions SR 210 Closed
+ at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.","2/7/24, 12:30 PM","2/7/24, 3:30 PM","2/7/24, 12:30 PM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175059,Incidents,I-15,Millard County,I-15 at MP 186,"Crash
 I-15 at MP 186 (2 mi S of Scipio) Millard Co.
@@ -8326,10 +8333,6 @@ UT-Incident--175060,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 NB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 2:40 PM","2/7/24, 1:33 PM","2/7/24, 2:40 PM","2/7/24, 1:33 PM",,40.885849,-111.896677
-UT-Incident--175061,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
-NB I-15 at MP 280 (Lehi) Utah Co.
-Left Shoulder
-Est. Clearance Time: 2:35 PM","2/7/24, 1:36 PM","2/7/24, 2:35 PM","2/7/24, 1:36 PM",,40.39191,-111.835579
 UT-Incident--175062,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Est. Clearance Time: 2:40 PM","2/7/24, 1:41 PM","2/7/24, 2:40 PM","2/7/24, 1:41 PM",,39.215913,-112.156307
@@ -8337,6 +8340,10 @@ UT-Incident--175064,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","2/7/24, 1:54 PM","2/7/24, 3:00 PM","2/7/24, 1:54 PM",,40.804836,-111.922481
+UT-Incident--175069,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
+SB I-215 E at MP 4 (5200 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:45 PM","2/7/24, 2:54 PM","2/7/24, 3:45 PM","2/7/24, 2:54 PM",,40.670175,-111.805204
 UT-Incident--175063,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Est. Clearance Time: 3:00 PM","2/7/24, 1:51 PM","2/7/24, 3:00 PM","2/7/24, 1:51 PM",,40.674449,-111.952751
@@ -8359,9 +8366,6 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:06 PM","2/13/24,
 UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM","2/6/24, 6:07 PM",,40.572095,-111.773814
-UT-Incident--175056,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalanche Mitigation
-Both Directions SR 210 Closed
- at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.","2/7/24, 12:30 PM","2/7/24, 3:30 PM","2/7/24, 12:30 PM",,40.572095,-111.773814
 UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
@@ -8380,5 +8384,5 @@ UT-Incident--175067,Incidents,US 89,Davis County,US 89 at MP 399,"Crash
 NB US 89 at MP 399 (Green Rd. / Fruit Heights) Davis Co.
 Est. Clearance Time: 3:15 PM","2/7/24, 2:09 PM","2/7/24, 3:15 PM","2/7/24, 2:09 PM",,41.031665,-111.90884
 UT-Incident--175068,Incidents,US 89,Cache County,US 89 at MP 463,"Crash
-Both Directions US 89 Closed
- at MP 463 (2 miles NE of Logan) Cache Co.","2/7/24, 2:31 PM","2/7/24, 4:30 PM","2/7/24, 2:31 PM",,41.743512,-111.760083
+Both Directions US 89 at MP 463 (2 miles NE of Logan) Cache Co.
+Est. Clearance Time: 4:30 PM","2/7/24, 2:31 PM","2/7/24, 4:30 PM","2/7/24, 2:50 PM",,41.743512,-111.760083
