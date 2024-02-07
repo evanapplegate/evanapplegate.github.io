@@ -8244,11 +8244,15 @@ UT-Incident--175036,Incidents,US 40,Wasatch County,US 40 at MP 22,"Crash
 US 40 at MP 22 (1 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 10:15 AM","2/7/24, 9:17 AM","2/7/24, 10:15 AM","2/7/24, 9:17 AM",,40.446281,-111.365862
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175038,Incidents,5600 W,Salt Lake County,5600 W at 5400 S,"Crash
 SB 5400 S at 5600 S Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:00 AM","2/7/24, 9:49 AM","2/7/24, 11:00 AM","2/7/24, 9:57 AM",,40.653045,-112.024693
+UT-Incident--175040,Incidents,US 40 WB X1 TO I-80 WB RAMP,Summit County,US 40 WB X1 TO I-80 WB RAMP at I-80 WB,"Crash
+WB US-40 Exit1 To I-80 WB Ramp Summit Co.
+Ramp Closed to WB I-80
+Est. Clearance Time: 11:05 AM","2/7/24, 10:07 AM","2/7/24, 11:05 AM","2/7/24, 10:12 AM",,40.730371,-111.497952
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175041,Incidents,I-15,Iron County,I-15 at MP 95,"Vehicle on fire
 SB I-15 at MP 95 (13 mi S of Beaver) Iron Co.
 Est. Clearance Time: 11:30 AM","2/7/24, 10:08 AM","2/7/24, 11:30 AM","2/7/24, 10:08 AM",,38.082988,-112.678506
@@ -8256,6 +8260,14 @@ UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
+UT-Incident--175042,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 11:35 AM","2/7/24, 10:36 AM","2/7/24, 11:35 AM","2/7/24, 10:36 AM",,40.775011,-111.949343
+UT-Incident--175043,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
+WB I-80 Exit 117 To I-215 W SB Col Ramp Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 11:45 AM","2/7/24, 10:43 AM","2/7/24, 11:45 AM","2/7/24, 10:43 AM",,40.761801,-111.951636
 UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
 NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
 2 Right Lanes Closed
@@ -8284,10 +8296,6 @@ Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24,
 UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 at MP 18 -58 (Wasatch County)
 Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
-UT-Incident--175040,Incidents,US 40 WB X1 TO I-80 WB RAMP,Summit County,US 40 WB X1 TO I-80 WB RAMP at I-80 WB,"Crash
-WB US-40 Exit1 To I-80 WB Ramp Summit Co.
-Ramp Closed to WB I-80
-Est. Clearance Time: 11:05 AM","2/7/24, 10:07 AM","2/7/24, 11:05 AM","2/7/24, 10:12 AM",,40.730371,-111.497952
 UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
