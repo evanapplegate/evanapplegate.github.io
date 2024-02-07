@@ -8119,7 +8119,6 @@ UT-Incident--174989,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Crash
 SB SR 36 at MP 64 (Canyon Rd) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","2/6/24, 5:55 PM","2/6/24, 7:00 PM","2/6/24, 5:55 PM",,40.667795,-112.284101
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174993,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 WB 5600 S at 3500 W Weber Co.
 Left Lane Closed
@@ -8128,6 +8127,7 @@ UT-Incident--174997,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","2/6/24, 7:09 PM","2/6/24, 8:15 PM","2/6/24, 7:09 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--174995,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
