@@ -8189,7 +8189,6 @@ EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 6:53 AM","2/7/24, 5:54 AM","2/7/24, 6:53 AM","2/7/24, 5:54 AM",,40.753891,-111.622581
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175016,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Est. Clearance Time: 7:30 AM","2/7/24, 6:25 AM","2/7/24, 7:30 AM","2/7/24, 6:25 AM",,40.005686,-111.762644
@@ -8197,6 +8196,14 @@ UT-Incident--175019,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","2/7/24, 7:26 AM","2/7/24, 8:30 AM","2/7/24, 7:26 AM",,40.85851,-111.904912
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175020,Incidents,I-15 SB TO LEGACY SB RAMP,Davis County,I-15 SB TO LEGACY SB RAMP at LEGACY SB PKWY,"Crash
+SB I-15 To Legacy On Ramp (Davis County)
+Est. Clearance Time: 8:40 AM","2/7/24, 7:37 AM","2/7/24, 8:40 AM","2/7/24, 7:37 AM",,40.982968,-111.90102
+UT-Incident--175021,Incidents,I-80,Summit County,I-80 at MP 150,"Crash
+WB I-80 at MP 150 (3 mi E of Sliver Creek) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 8:41 AM","2/7/24, 7:42 AM","2/7/24, 8:41 AM","2/7/24, 7:45 AM",,40.765812,-111.470127
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8210,12 +8217,12 @@ UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
 UT-Incident--175017,Incidents,US 40,Wasatch County,US 40 at MP 30,"Stalled Vehicle
-WB US 40 Closed at MP 30 (9 mi S of Heber) Wasatch Co.
-Use Alt Route","2/7/24, 7:08 AM","2/7/24, 8:30 AM","2/7/24, 7:18 AM",,40.356561,-111.281525
+Both Directions US 40 Closed at MP 30 (9 mi S of Heber) Wasatch Co.
+Use Alt Route","2/7/24, 7:08 AM","2/7/24, 9:45 AM","2/7/24, 7:45 AM",,40.356561,-111.281525
 UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Right Lane Closed
-Est. Clearance Time: 6:41 AM","2/7/24, 5:42 AM","2/7/24, 6:41 AM","2/7/24, 7:24 AM",,39.933221,-111.107262
+Est. Clearance Time: 8:11 AM","2/7/24, 5:42 AM","2/7/24, 8:11 AM","2/7/24, 7:38 AM",,39.933221,-111.107262
 UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
