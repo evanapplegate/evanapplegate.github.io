@@ -8195,14 +8195,20 @@ UT-Incident--175019,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","2/7/24, 7:26 AM","2/7/24, 8:30 AM","2/7/24, 7:26 AM",,40.85851,-111.904912
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175020,Incidents,I-15 SB TO LEGACY SB RAMP,Davis County,I-15 SB TO LEGACY SB RAMP at LEGACY SB PKWY,"Crash
 SB I-15 To Legacy On Ramp (Davis County)
 Est. Clearance Time: 8:40 AM","2/7/24, 7:37 AM","2/7/24, 8:40 AM","2/7/24, 7:37 AM",,40.982968,-111.90102
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175017,Incidents,US 40,Wasatch County,US 40 at MP 30,"Stalled Vehicle
+Both Directions US 40 Closed at MP 30 (9 mi S of Heber) Wasatch Co.
+Use Alt Route","2/7/24, 7:08 AM","2/7/24, 9:45 AM","2/7/24, 7:45 AM",,40.356561,-111.281525
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175023,Incidents,I-15,Iron County,I-15 at MP 53,"Crash
 NB I-15 at MP 53 (2 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 9:15 AM","2/7/24, 7:49 AM","2/7/24, 9:15 AM","2/7/24, 7:49 AM",,37.622903,-113.139948
+UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
+SB I-15 at MP 44 (Kanarraville) Iron Co.
+Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
 UT-Incident--175021,Incidents,I-80,Summit County,I-80 at MP 150,"Crash
 WB I-80 at MP 150 (3 mi E of Sliver Creek) Summit Co.
 Left Lane Closed
@@ -8228,9 +8234,6 @@ Est. Clearance Time: 9:15 AM","2/7/24, 7:58 AM","2/7/24, 9:15 AM","2/7/24, 7:58 
 UT-Incident--175022,Incidents,SR 87,Duchesne County,SR 87 at MP 20,"Crash
 Other SR 87 at MP 20 (1 Mi W of Altamont) Duchesne Co.
 Est. Clearance Time: 10:00 AM","2/7/24, 7:48 AM","2/7/24, 10:00 AM","2/7/24, 7:48 AM",,40.355893,-110.308696
-UT-Incident--175017,Incidents,US 40,Wasatch County,US 40 at MP 30,"Stalled Vehicle
-Both Directions US 40 Closed at MP 30 (9 mi S of Heber) Wasatch Co.
-Use Alt Route","2/7/24, 7:08 AM","2/7/24, 9:45 AM","2/7/24, 7:45 AM",,40.356561,-111.281525
 UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Right Lane Closed
@@ -8238,3 +8241,9 @@ Est. Clearance Time: 9:11 AM","2/7/24, 5:42 AM","2/7/24, 9:11 AM","2/7/24, 8:00 
 UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
 Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
+UT-Incident--175026,Incidents,US 89,Garfield County,US 89 at MP 128,"Crash
+US 89 at MP 128 (3 mi S of Panguitch) Garfield Co.
+Est. Clearance Time: 9:45 AM","2/7/24, 8:03 AM","2/7/24, 9:45 AM","2/7/24, 8:03 AM",,37.800357,-112.39969
+UT-Incident--175027,Incidents,US 89,Sanpete County,US 89 at MP 265,"Crash
+US 89 at MP 265 (2 miles N of Ephraim) Sanpete Co.
+Est. Clearance Time: 9:30 AM","2/7/24, 8:04 AM","2/7/24, 9:30 AM","2/7/24, 8:04 AM",,39.392227,-111.57835
