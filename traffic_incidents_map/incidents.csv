@@ -8198,7 +8198,6 @@ Est. Clearance Time: 8:30 AM","2/7/24, 7:26 AM","2/7/24, 8:30 AM","2/7/24, 7:26 
 UT-Incident--175020,Incidents,I-15 SB TO LEGACY SB RAMP,Davis County,I-15 SB TO LEGACY SB RAMP at LEGACY SB PKWY,"Crash
 SB I-15 To Legacy On Ramp (Davis County)
 Est. Clearance Time: 8:40 AM","2/7/24, 7:37 AM","2/7/24, 8:40 AM","2/7/24, 7:37 AM",,40.982968,-111.90102
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175017,Incidents,US 40,Wasatch County,US 40 at MP 30,"Stalled Vehicle
 Both Directions US 40 Closed at MP 30 (9 mi S of Heber) Wasatch Co.
 Use Alt Route","2/7/24, 7:08 AM","2/7/24, 9:45 AM","2/7/24, 7:45 AM",,40.356561,-111.281525
@@ -8206,13 +8205,18 @@ Use Alt Route","2/7/24, 7:08 AM","2/7/24, 9:45 AM","2/7/24, 7:45 AM",,40.356561,
 UT-Incident--175023,Incidents,I-15,Iron County,I-15 at MP 53,"Crash
 NB I-15 at MP 53 (2 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 9:15 AM","2/7/24, 7:49 AM","2/7/24, 9:15 AM","2/7/24, 7:49 AM",,37.622903,-113.139948
-UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
-SB I-15 at MP 44 (Kanarraville) Iron Co.
-Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
 UT-Incident--175021,Incidents,I-80,Summit County,I-80 at MP 150,"Crash
 WB I-80 at MP 150 (3 mi E of Sliver Creek) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 8:41 AM","2/7/24, 7:42 AM","2/7/24, 8:41 AM","2/7/24, 7:45 AM",,40.765812,-111.470127
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
+SB I-15 at MP 44 (Kanarraville) Iron Co.
+Est. Clearance Time: 9:10 AM","2/7/24, 8:07 AM","2/7/24, 9:10 AM","2/7/24, 8:07 AM",,37.508507,-113.213733
+UT-Incident--175029,Incidents,Kearns Blvd,Summit County,Kearns Blvd 2783,"Crash
+SB Kearns Blvd at Richardson Flat Rd (Summit County)
+Right Shoulder
+Est. Clearance Time: 9:20 AM","2/7/24, 8:23 AM","2/7/24, 9:20 AM","2/7/24, 8:23 AM",,40.674533,-111.469042
 UT-Incident--175024,Incidents,Main St,Tooele County,Main St 1500,"Crash
 Main St at 1500 N (Tooele County)
 Est. Clearance Time: 9:00 AM","2/7/24, 7:55 AM","2/7/24, 9:00 AM","2/7/24, 7:55 AM",,40.561426,-112.296487
