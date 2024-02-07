@@ -8252,10 +8252,17 @@ WB US-40 Exit1 To I-80 WB Ramp Summit Co.
 Ramp Closed to WB I-80
 Est. Clearance Time: 11:05 AM","2/7/24, 10:07 AM","2/7/24, 11:05 AM","2/7/24, 10:12 AM",,40.730371,-111.497952
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175041,Incidents,I-15,Iron County,I-15 at MP 95,"Vehicle on fire
 SB I-15 at MP 95 (13 mi S of Beaver) Iron Co.
 Est. Clearance Time: 11:30 AM","2/7/24, 10:08 AM","2/7/24, 11:30 AM","2/7/24, 10:08 AM",,38.082988,-112.678506
+UT-Incident--175042,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 11:35 AM","2/7/24, 10:36 AM","2/7/24, 11:35 AM","2/7/24, 10:36 AM",,40.775011,-111.949343
+UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
+Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Est. Clearance Time: 12:15 PM","2/7/24, 10:49 AM","2/7/24, 12:15 PM","2/7/24, 10:49 AM",,41.066718,-111.970064
@@ -8267,13 +8274,12 @@ UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
-UT-Incident--175042,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-NB I-215 W at MP 23 (700 N) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 11:35 AM","2/7/24, 10:36 AM","2/7/24, 11:35 AM","2/7/24, 10:36 AM",,40.775011,-111.949343
 UT-Incident--175046,Incidents,I-80,Summit County,I-80 at MP 171,"Crash
 WB I-80 at MP 171 (3 mi E of Echo) Summit Co.
 Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11:04 AM",,41.004453,-111.3847
+UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
+EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
+Est. Clearance Time: 12:30 PM","2/7/24, 11:21 AM","2/7/24, 12:30 PM","2/7/24, 11:22 AM",,41.183783,-111.131084
 UT-Incident--175043,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80 Exit 117 To I-215 W SB Col Ramp Salt Lake Co.
 Left Shoulder
@@ -8306,6 +8312,6 @@ Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24,
 UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 at MP 18 -58 (Wasatch County)
 Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
-UT-Incident--175015,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
-EB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
-Approved Traction Devices Required for all Semis","2/7/24, 6:20 AM","2/14/24, 5:30 PM","2/7/24, 6:20 AM",,40.058914,-111.564458
+UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash:
+EB US 6 Closed at MP 196 (1 Mi E of Sheep Creek) Utah Co.
+Use Alt Route","2/7/24, 11:12 AM","2/7/24, 12:15 PM","2/7/24, 11:22 AM",,39.965781,-111.32036
