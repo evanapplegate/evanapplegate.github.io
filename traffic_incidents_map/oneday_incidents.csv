@@ -1,0 +1,117 @@
+route,county,location,time,latitude,longitude,type
+US 40,Wasatch County,US 40 at MP 9,"1/10/24, 1:18 PM",40.615495,-111.433889,Crash
+Hwy 39,Weber County,Hwy 39 5576,"1/10/24, 1:30 PM",41.25212,-111.804141,Crash
+US 40,Wasatch County,US 40 at MP 9,"1/10/24, 1:38 PM",40.615495,-111.433889,Crash
+I-15,Salt Lake County,I-15 at MP 309,"1/10/24, 1:49 PM",40.777705,-111.910735,Crash
+US 89,Sanpete County,US 89 23321,"1/10/24, 1:59 PM",39.618768,-111.440905,Crash
+I-80,Tooele County,I-80 at MP 85,"1/10/24, 10:10 PM",40.703193,-112.499976,Lane Closure
+I-15,Utah County,I-15 at MP 257,"1/10/24, 10:13 PM",40.122652,-111.658929,Crash
+I-215 W,Salt Lake County,I-215 W at MP 21,"1/10/24, 10:25 PM",40.746426,-111.949053,Crash
+US 91,Cache County,US 91 at MP 11,"1/10/24, 10:28 AM",41.562271,-111.962763,Crash
+I-15,Salt Lake County,I-15 at MP 298,"1/10/24, 10:39 PM",40.621691,-111.903876,Crash
+I-15,Salt Lake County,I-15 at MP 299,"1/10/24, 10:41 PM",40.63583,-111.905066,Crash
+I-80 EB X115 OFF BANGERTER NB RAMP,Salt Lake County,I-80 EB X115 OFF BANGERTER NB RAMP at BANGERTER NB HWY,"1/10/24, 10:42 AM",40.763074,-111.986661,Crash
+HWY 201,Salt Lake County,HWY 201 at 900 W,"1/10/24, 10:56 PM",40.724732,-111.926352,Crash
+BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at I-80 EB FWY,"1/10/24, 11:02 PM",40.763051,-111.986978,Crash
+US 40,Wasatch County,US 40 at MP 11,"1/10/24, 11:09 AM",40.588743,-111.436969,Crash
+I-215 S,Salt Lake County,I-215 S at MP 10,"1/10/24, 11:19 PM",40.63036,-111.877391,Crash
+I-15,Box Elder County,I-15 at MP 385,"1/10/24, 11:21 AM",41.78057,-112.173474,Crash
+I-80,Salt Lake County,I-80 at MP 115,"1/10/24, 11:21 PM",40.765165,-111.991516,Crash
+I-15,Box Elder County,I-15 at MP 385,"1/10/24, 11:29 AM",41.78057,-112.173474,Crash
+US 189,Wasatch County,US 189 at MP 25,"1/10/24, 11:47 PM",40.456806,-111.46973,Crash
+SR 210,Salt Lake County,SR 210 at MP 4,"1/10/24, 12:01 PM",40.572095,-111.773814,Avalanche Control
+Washington Blvd,Weber County,Washington Blvd 2850,"1/10/24, 12:32 PM",41.212136,-111.970693,Crash
+US 40,Wasatch County,US 40 at MP 10,"1/10/24, 12:46 PM",40.602142,-111.430846,Crash
+US 40,Wasatch County,US 40 at MP 23,"1/10/24, 12:57 PM",40.434401,-111.355111,Crash
+I-15,Box Elder County,I-15 at MP 369,"1/10/24, 2:05 AM",41.584819,-112.073061,Crash
+I-80,Tooele County,I-80 at MP 35,"1/10/24, 2:10 AM",40.728989,-113.378533,Crash
+US 6,Utah County,US 6 at MP 182,"1/10/24, 2:17 PM",40.040823,-111.541266,Stalled Vehicle
+US 6,Utah County,US 6 at MP 180,"1/10/24, 2:43 PM",40.058914,-111.564458,Roadway Restriction
+US 40,Wasatch County,US 40 at MP 39,"1/10/24, 2:53 AM",40.254679,-111.199016,Crash
+US 189,Wasatch County,US 189 at MP 24,"1/10/24, 3:00 PM",40.446013,-111.477114,Crash
+US 91,Cache County,US 91 at MP 17,"1/10/24, 3:04 PM",41.616749,-111.932782,Roadway Restriction
+US 40,Wasatch County,US 40 at MP 34,"1/10/24, 3:13 PM",40.305888,-111.25888,Crash
+SR 32,Wasatch County,SR 32 at MP 1,"1/10/24, 3:24 PM",40.571329,-111.420722,Crash
+I-80,Tooele County,I-80 at MP 2,"1/10/24, 3:27 AM",40.747236,-114.007715,Crash
+US 191,Carbon County,US 191 at MP 260,"1/10/24, 3:49 PM",39.809161,-110.778864,Roadway Restriction
+US 40,Summit County,US 40 at MP 6,"1/10/24, 3:50 PM",40.654652,-111.457229,Roadway Restriction
+I-215 W,Salt Lake County,I-215 W at MP 15,"1/10/24, 3:59 AM",40.659924,-111.952783,Crash
+I-15,Box Elder County,I-15 at MP 361,"1/10/24, 4:08 PM",41.470922,-112.054458,Crash
+I-80,Summit County,I-80 at MP 155,"1/10/24, 4:09 PM",40.808708,-111.407486,Crash
+I-15,Box Elder County,I-15 at MP 352,"1/10/24, 4:09 PM",41.342906,-112.038597,Crash
+SR 199,Tooele County,SR 199 at MP 11,"1/10/24, 4:12 PM",40.34542,-112.586806,Crash
+I-84,Box Elder County,I-84 at MP 18,"1/10/24, 4:13 PM",41.89652,-112.532513,Stalled Vehicle
+US 191,San Juan County,US 191 at MP 115,"1/10/24, 4:19 PM",38.450724,-109.437607,Crash
+US 40,Wasatch County,US 40 at MP 14,"1/10/24, 4:24 PM",40.54763,-111.419951,Crash
+I-215 W,Salt Lake County,I-215 W at MP 18,"1/10/24, 4:26 PM",40.703296,-111.95315,Crash
+I-80,Salt Lake County,I-80 at MP 128,"1/10/24, 4:44 PM",40.712086,-111.801151,Roadway Restriction
+I-215 W,Salt Lake County,I-215 W at MP 15,"1/10/24, 4:52 PM",40.659924,-111.952783,Crash
+5600 W,Salt Lake County,5600 W at California Ave,"1/10/24, 4:58 AM",40.740261,-112.024905,Crash
+I-80,Summit County,I-80 at MP 143,"1/10/24, 4:58 PM",40.740161,-111.558358,Roadway Restriction
+I-15,Salt Lake County,I-15 at MP 300,"1/10/24, 5:02 PM",40.649847,-111.90236,Crash
+I-15,Box Elder County,I-15 at MP 360,"1/10/24, 5:21 PM",41.45645,-112.055635,Crash
+I-15,Box Elder County,I-15 at MP 362,"1/10/24, 5:26 PM",41.485402,-112.05328,Crash
+US 189,Utah County,US 189 at MP 8,"1/10/24, 5:27 PM",40.319492,-111.649399,Roadway Restriction
+I-80,Salt Lake County,I-80 at MP 128,"1/10/24, 5:29 PM",40.712086,-111.801151,Crash
+I-215 E,Salt Lake County,I-215 E at MP 2,"1/10/24, 5:37 PM",40.697639,-111.795421,Crash
+I-215W NB X20 TO SR 201 EB RAMP,Salt Lake County,I-215W NB X20 TO SR 201 EB RAMP at SR 201 EB,"1/10/24, 5:46 AM",40.720875,-111.952412,Crash
+I-15,Utah County,I-15 at MP 284,"1/10/24, 5:50 AM",40.431127,-111.890772,Crash
+I-15,Utah County,I-15 at MP 257,"1/10/24, 6:02 AM",40.122652,-111.658929,Crash
+I-15,Davis County,I-15 at MP 315,"1/10/24, 6:02 PM",40.85851,-111.904912,Crash
+I-15,Utah County,I-15 at MP 269,"1/10/24, 6:03 PM",40.274259,-111.718248,Crash
+I-15,Utah County,I-15 at MP 272,"1/10/24, 6:04 PM",40.316406,-111.72616,Crash
+I-15,Utah County,I-15 at MP 285,"1/10/24, 6:06 PM",40.442142,-111.903011,Crash
+I-80,Salt Lake County,I-80 at MP 115,"1/10/24, 6:07 PM",40.765165,-111.991516,Crash
+I-215 S,Salt Lake County,I-215 S at MP 10,"1/10/24, 6:11 AM",40.63036,-111.877391,Crash
+I-15,Juab County,I-15 at MP 224,"1/10/24, 6:12 PM",39.694255,-111.825785,Crash
+I-15,Salt Lake County,I-15 at MP 305,"1/10/24, 6:12 PM",40.722344,-111.904691,Crash
+I-80,Salt Lake County,I-80 at MP 126,"1/10/24, 6:12 PM",40.717537,-111.836246,Stalled Vehicle
+I-15,Salt Lake County,I-15 at MP 306,"1/10/24, 6:18 PM",40.736823,-111.90475,Crash
+I-15,Salt Lake County,I-15 at MP 308,"1/10/24, 6:19 PM",40.763745,-111.914284,Crash
+I-215 W,Salt Lake County,I-215 W at MP 23,"1/10/24, 6:31 PM",40.775011,-111.949343,Crash
+I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On Ramp at Center St,"1/10/24, 6:40 AM",40.230396,-111.681974,Crash
+MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY at 4100 S,"1/10/24, 6:47 PM",40.681834,-112.031469,Weather
+I-15,Salt Lake County,I-15 at MP 304,"1/10/24, 6:48 PM",40.707874,-111.90397,Crash
+I-15 NB X 293 Off 10600 S Ramp,Salt Lake County,I-15 NB X 293 Off 10600 S Ramp at 10600 S,"1/10/24, 7:03 AM",40.554383,-111.896936,Crash
+I-215 W,Salt Lake County,I-215 W at MP 23,"1/10/24, 7:03 PM",40.775011,-111.949343,Crash
+I-15,Utah County,I-15 at MP 277,"1/10/24, 7:05 AM",40.365209,-111.792922,Crash
+REDWOOD RD,Utah County,REDWOOD RD at 2100 N,"1/10/24, 7:05 PM",40.413082,-111.923091,Weather
+I-15,Salt Lake County,I-15 at MP 303,"1/10/24, 7:10 PM",40.693589,-111.902881,Crash
+I-15,Utah County,I-15 at MP 278,"1/10/24, 7:15 AM",40.373184,-111.808465,Crash
+I-80,Salt Lake County,I-80 at MP 108,"1/10/24, 7:15 PM",40.771064,-112.124659,Crash
+I-215 W,Salt Lake County,I-215 W at MP 23,"1/10/24, 7:21 PM",40.775011,-111.949343,Crash
+I-15,Salt Lake County,I-15 at MP 311,"1/10/24, 7:22 PM",40.804836,-111.922481,Crash
+I-15,Salt Lake County,I-15 at MP 291,"1/10/24, 7:28 AM",40.52103,-111.891246,Crash
+I-15,Salt Lake County,I-15 at MP 295,"1/10/24, 7:29 PM",40.578741,-111.900284,Crash
+US 189,Wasatch County,US 189 at MP 18,"1/10/24, 7:33 AM",40.405503,-111.524184,Crash
+US 191,Duchesne County,US 191 at MP 266,"1/10/24, 7:39 PM",39.878327,-110.755233,Weather
+I-15,Juab County,I-15 at MP 208,"1/10/24, 7:44 PM",39.501581,-111.966452,Crash
+I-15,Salt Lake County,I-15 at MP 293,"1/10/24, 7:54 PM",40.550055,-111.896336,Crash
+I-15,Salt Lake County,I-15 at MP 301,"1/10/24, 7:56 PM",40.664677,-111.90152,Crash
+SR 201,Salt Lake County,SR 201 at MP 13,"1/10/24, 8:02 PM",40.725733,-111.982034,Crash
+I-15,Salt Lake County,I-15 at MP 301,"1/10/24, 8:04 PM",40.664677,-111.90152,Crash
+I-15 SB X265 Off Center St Ramp,Utah County,I-15 SB X265 Off Center St Ramp at Center St,"1/10/24, 8:06 AM",40.236691,-111.687843,Crash
+HARRISON BLVD,Weber County,HARRISON BLVD 2200,"1/10/24, 8:17 AM",41.22304,-111.948209,Crash
+US 6,Utah County,US 6 at MP 180,"1/10/24, 8:18 PM",40.058914,-111.564458,Roadway Restriction
+I-15,Utah County,I-15 at MP 242,"1/10/24, 8:36 PM",39.945085,-111.807481,Crash
+I-15,Salt Lake County,I-15 at MP 307,"1/10/24, 8:37 PM",40.74966,-111.90976,Crash
+I-215 W,Salt Lake County,I-215 W at MP 23,"1/10/24, 8:40 PM",40.775011,-111.949343,Crash
+I-15,Utah County,I-15 at MP 273,"1/10/24, 8:45 AM",40.328045,-111.73498,Crash
+I-215 S,Salt Lake County,I-215 S at MP 8,"1/10/24, 8:51 AM",40.631583,-111.839435,Crash
+I-15,Utah County,I-15 at MP 270,"1/10/24, 8:51 PM",40.287343,-111.725712,Crash
+I-15,Juab County,I-15 at MP 230,"1/10/24, 8:52 PM",39.775857,-111.839015,Crash
+I-215 W,Salt Lake County,I-215 W at MP 23,"1/10/24, 8:58 PM",40.775011,-111.949343,Crash
+I-15,Juab County,I-15 at MP 233,"1/10/24, 9:00 PM",39.81888,-111.833832,Crash
+I-80,Salt Lake County,I-80 at MP 126,"1/10/24, 9:00 PM",40.717537,-111.836246,Crash
+I-15,Utah County,I-15 at MP 247,"1/10/24, 9:01 PM",40.005686,-111.762644,Crash
+I-15,Utah County,I-15 at MP 267,"1/10/24, 9:13 AM",40.251153,-111.695664,Crash
+I-15 SB X288 OFF 14600 S EB RAMP,Salt Lake County,I-15 SB X288 OFF 14600 S EB RAMP at HIGHLAND DR,"1/10/24, 9:13 PM",40.484671,-111.899426,Crash
+I-80,Tooele County,I-80 at MP 94,"1/10/24, 9:15 AM",40.662601,-112.338265,Crash
+I-15,Salt Lake County,I-15 at MP 304,"1/10/24, 9:15 PM",40.707874,-111.90397,Crash
+US 40,Wasatch County,US 40 at MP 58,"1/10/24, 9:20 AM",40.200198,-110.909422,Crash
+I-15,Salt Lake County,I-15 at MP 301,"1/10/24, 9:21 PM",40.664677,-111.90152,Crash
+US 6,Utah County,US 6 at MP 209,"1/10/24, 9:23 PM",39.933221,-111.107262,Crash
+I-15,Salt Lake County,I-15 at MP 292,"1/10/24, 9:40 PM",40.53585,-111.892927,Stalled Vehicle
+SR 36,Tooele County,SR 36 at MP 42,"1/10/24, 9:43 AM",40.375413,-112.394364,Vehicle Fire
+I-15,Salt Lake County,I-15 at MP 292,"1/10/24, 9:52 AM",40.53585,-111.892927,Crash
+I-15,Utah County,I-15 at MP 278,"1/10/24, 9:59 PM",40.373184,-111.808465,Crash

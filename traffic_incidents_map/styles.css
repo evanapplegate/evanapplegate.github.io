@@ -1,0 +1,15 @@
+#map { height: 600px; }
+
+#filters {
+    margin-bottom: 20px;
+}
+
+#incidentTypeFilters {
+    list-style: none;
+    padding: 0;
+}
+
+#incidentTypeFilters li {
+    display: inline-block;
+    margin-right: 10px;
+}
