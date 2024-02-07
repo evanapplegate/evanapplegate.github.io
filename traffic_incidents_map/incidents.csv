@@ -8291,7 +8291,6 @@ Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10
 UT-Incident--175051,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Est. Clearance Time: 12:45 PM","2/7/24, 11:40 AM","2/7/24, 12:45 PM","2/7/24, 11:40 AM",,39.957242,-111.796974
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175053,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -8304,6 +8303,7 @@ UT-Incident--175049,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","2/7/24, 11:28 AM","2/7/24, 12:30 PM","2/7/24, 11:28 AM",,40.741134,-111.741641
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175050,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
@@ -8344,8 +8344,7 @@ UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restrict
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
 UT-Incident--175047,Incidents,US 6,Utah County,US 6 at MP 196,"Crash:
-EB US 6 Closed at MP 196 (1 Mi E of Sheep Creek) Utah Co.
-Use Alt Route","2/7/24, 11:12 AM","2/7/24, 12:15 PM","2/7/24, 11:22 AM",,39.965781,-111.32036
+EB US 6 Closed at MP 196 (1 Mi E of Sheep Creek) Utah Co.","2/7/24, 11:12 AM","2/7/24, 2:30 PM","2/7/24, 1:26 PM",,39.965781,-111.32036
 UT-Incident--175058,Incidents,US 6,Carbon County,US 6 at MP 236,"Crash
 Both Directions US 6 at MP 236 (SR-139 Jct) Carbon Co.
 Use Alt","2/7/24, 1:11 PM","2/7/24, 5:00 PM","2/7/24, 1:19 PM",,39.644197,-110.85975
