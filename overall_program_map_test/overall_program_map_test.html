@@ -6,21 +6,33 @@
     <title>Overall program map test</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
 
+
 <div id="map-header" style="margin-left: auto; margin-right: auto;">
-<h1>BP’s 2023 programs</h1>
-<p style="margin-top: -15px;">Testing</p>
+    <h1>2022 Overall Program Map</h1>
+    <p>Binned each program location into hexagons. Click the buttons below to filter by program area.</p>
+</div>
+
+<div id="buttons-container">
+    <button class="filter-btn" data-program="all" style="background-color: #000000;">All Programs</button>
+    <button class="filter-btn" data-program="arts" style="background-color: #D8365B;">Arts</button>
+    <button class="filter-btn" data-program="associates" style="background-color: #E56722;">Bloomberg Associates</button>
+    <button class="filter-btn" data-program="education" style="background-color: #004685;">Education</button>
+    <button class="filter-btn" data-program="env" style="background-color: #6EBE4A;">Environment</button>
+    <button class="filter-btn" data-program="founders" style="background-color: #AC4399;">Founder’s Projects</button>
+    <button class="filter-btn" data-program="gov" style="background-color: #45C1C0;">Government Innovation</button>
+    <button class="filter-btn" data-program="publichealth" style="background-color: #F6A229;">Public Health</button>
 </div>
 
 <div class="map_container">
-<svg id="map"></svg>
+    <svg id="map"></svg>
 </div>
 
 <div id="tooltip" class="tooltip"></div>
 
 <!-- load scripts -->
+<script src="https://d3js.org/topojson.v3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
 <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>

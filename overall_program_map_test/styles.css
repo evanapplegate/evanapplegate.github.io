@@ -35,7 +35,7 @@ a {
 }
 
 .hex:hover {
-  stroke-width: 1px;
+  stroke-width: 3px;
 }
 
 .map_container {
@@ -57,4 +57,22 @@ svg {
   content: '';
   display: block;
   padding-top: (600 / 960 * 100)% /* Height / Width * 100% */;
+}
+
+#buttons-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.filter-btn {
+    color: white;
+    padding: 5px 20px;
+    margin: 1px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.5s;
+}
+
+.filter-btn:hover {
+    opacity: 0.7;
 }
