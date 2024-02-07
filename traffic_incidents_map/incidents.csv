@@ -8222,7 +8222,6 @@ UT-Incident--175011,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 9:11 AM","2/7/24, 5:42 AM","2/7/24, 9:11 AM","2/7/24, 8:00 AM",,39.933221,-111.107262
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175028,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 SB I-15 at MP 44 (Kanarraville) Iron Co.
 Est. Clearance Time: 10:30 AM","2/7/24, 8:07 AM","2/7/24, 10:30 AM","2/7/24, 9:33 AM",,37.508507,-113.213733
@@ -8236,10 +8235,19 @@ UT-Incident--175027,Incidents,US 89,Sanpete County,US 89 at MP 265,"Crash
 US 89 at MP 265 (2 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 10:30 AM","2/7/24, 8:04 AM","2/7/24, 10:30 AM","2/7/24, 9:33 AM",,39.392227,-111.57835
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175038,Incidents,5600 W,Salt Lake County,5600 W at 5400 S,"Crash
+SB 5400 S at 5600 S Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 11:00 AM","2/7/24, 9:49 AM","2/7/24, 11:00 AM","2/7/24, 9:57 AM",,40.653045,-112.024693
 UT-Incident--175037,Incidents,I-215 N,Salt Lake County,I-215 N at MP 27,"Crash
 NB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:20 AM",,40.832165,-111.944651
+UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
+NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 1:45 PM","2/7/24, 9:50 AM","2/7/24, 1:45 PM","2/7/24, 9:50 AM",,40.687995,-111.938889
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
