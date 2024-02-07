@@ -8279,7 +8279,6 @@ Est. Clearance Time: 10:45 AM","2/7/24, 9:20 AM","2/7/24, 10:45 AM","2/7/24, 9:2
 UT-Incident--175046,Incidents,I-80,Summit County,I-80 at MP 171,"Crash
 WB I-80 at MP 171 (3 mi E of Echo) Summit Co.
 Est. Clearance Time: 12:15 PM","2/7/24, 11:04 AM","2/7/24, 12:15 PM","2/7/24, 11:04 AM",,41.004453,-111.3847
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175044,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Est. Clearance Time: 12:15 PM","2/7/24, 10:49 AM","2/7/24, 12:15 PM","2/7/24, 10:49 AM",,41.066718,-111.970064
@@ -8290,12 +8289,13 @@ UT-Incident--175033,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restr
 EB US 40 at MP 18 -58 (Wasatch County)
 Approved traction devices required for all semis ","2/7/24, 9:10 AM","2/8/24, 10:08 AM","2/7/24, 9:10 AM",,40.492161,-111.412613
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175050,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
-NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
-Est. Clearance Time: 12:40 PM","2/7/24, 11:37 AM","2/7/24, 12:40 PM","2/7/24, 11:37 AM",,40.005686,-111.762644
 UT-Incident--175051,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Est. Clearance Time: 12:45 PM","2/7/24, 11:40 AM","2/7/24, 12:45 PM","2/7/24, 11:40 AM",,39.957242,-111.796974
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175050,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
+NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
+Est. Clearance Time: 1:40 PM","2/7/24, 11:37 AM","2/7/24, 1:40 PM","2/7/24, 12:45 PM",,40.005686,-111.762644
 UT-Incident--175053,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -8304,6 +8304,10 @@ UT-Incident--175054,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","2/7/24, 12:04 PM","2/7/24, 1:15 PM","2/7/24, 12:04 PM",,40.287343,-111.725712
+UT-Incident--175057,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 2:00 PM","2/7/24, 12:51 PM","2/7/24, 2:00 PM","2/7/24, 12:51 PM",,40.410606,-111.863979
 UT-Incident--175048,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 EB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 2:30 PM","2/7/24, 11:21 AM","2/7/24, 2:30 PM","2/7/24, 12:44 PM",,41.183783,-111.131084
@@ -8317,8 +8321,7 @@ Right Shoulder
 Est. Clearance Time: 1:15 PM","2/7/24, 12:08 PM","2/7/24, 1:15 PM","2/7/24, 12:08 PM",,40.676333,-112.285248
 UT-Incident--175039,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"Road damage
 NB Redwood Rd at 3800 S (Taylorsville) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 1:45 PM","2/7/24, 9:50 AM","2/7/24, 1:45 PM","2/7/24, 9:50 AM",,40.687995,-111.938889
+2 Right Lanes Closed","2/7/24, 9:50 AM","2/14/24, 1:45 PM","2/7/24, 12:53 PM",,40.687995,-111.938889
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
