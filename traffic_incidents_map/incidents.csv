@@ -8653,7 +8653,6 @@ Est. Clearance Time: 1:30 PM","2/8/24, 11:54 AM","2/8/24, 1:30 PM","2/8/24, 11:5
 UT-Incident--175153,Incidents,US 40,Duchesne County,US 40 26001,"Crash
 US 40 at MP 79 Duchesne Co.
 Est. Clearance Time: 1:00 PM","2/8/24, 11:30 AM","2/8/24, 1:00 PM","2/8/24, 11:30 AM",,40.176583,-110.538727
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175158,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 WB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Left Lane Closed
@@ -8662,6 +8661,11 @@ Est. Clearance Time: 2:30 PM","2/8/24, 1:19 PM","2/8/24, 2:30 PM","2/8/24, 1:19 
 UT-Incident--175159,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 WB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 2:45 PM","2/8/24, 1:44 PM","2/8/24, 2:45 PM","2/8/24, 1:44 PM",View on map,40.764633,-111.972427
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175160,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
+EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","2/8/24, 1:47 PM","2/8/24, 2:45 PM","2/8/24, 1:47 PM",View on map,40.770664,-112.009234
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
