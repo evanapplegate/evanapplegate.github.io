@@ -8529,11 +8529,19 @@ EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:54 AM","2/8/24, 1:54 AM","2/8/24, 2:54 AM",,,40.769928,-112.007845
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175122,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:42 AM","2/8/24, 3:42 AM","2/8/24, 4:42 AM",,,41.345651,-112.039095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175124,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+NB I-15 at MP 355 (Box Elder) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 5:56 AM","2/8/24, 4:57 AM","2/8/24, 5:56 AM",,,41.383685,-112.041828
+UT-Incident--175125,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
+SB I-15 at MP 332 (Antelope Dr) Davis Co.
+Left Shoulder
+Est. Clearance Time: 5:59 AM","2/8/24, 4:59 AM","2/8/24, 5:59 AM",,,41.082924,-111.985077
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM",,,37.677725,-112.846981
