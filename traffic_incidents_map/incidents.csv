@@ -8544,7 +8544,6 @@ UT-Incident--175123,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
 NB US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 5:16 AM","2/8/24, 4:16 AM","2/8/24, 5:16 AM",,,39.416924,-111.560119
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175126,Incidents,I-15,Iron County,I-15 at MP 46,"Crash
 SB I-15 at MP 46 (Kanarraville) Iron Co.
 Left Shoulder
@@ -8560,6 +8559,11 @@ UT-Incident--175127,Incidents,SR 132,Juab County,SR 132 at MP 15,"Crash
 Both Directions SR 132 at MP 15 (17 MI from Nephi) Juab Co.
 Est. Clearance Time: 6:47 AM","2/8/24, 5:48 AM","2/8/24, 6:47 AM",,,39.614449,-112.131221
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175133,Incidents,40th St,Weber County,40th St at Washington Blvd,"Crash
+EB 40th St at Washington Blvd (South Ogden)Weber Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 AM","2/8/24, 7:15 AM","2/8/24, 8:30 AM",,,41.190563,-111.97117
 UT-Incident--175130,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
 WB I-84 at MP 85 (South Weber) Weber Co.
 Left Lane Closed
