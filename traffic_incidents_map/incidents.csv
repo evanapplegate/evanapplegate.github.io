@@ -8566,7 +8566,6 @@ UT-Incident--175138,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 Both Directions US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 All Lanes Blocked
 Est. Clearance Time: 9:30 AM","2/8/24, 8:03 AM","2/8/24, 9:30 AM",,,40.305888,-111.25888
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175135,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S, Draper) Salt Lake Co.
 Cleared at 8:14 AM, Expect Residual Delays","2/8/24, 7:48 AM","2/8/24, 9:00 AM",,,40.467787,-111.911227
@@ -8580,6 +8579,10 @@ UT-Incident--175114,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenanc
 Both Dirs SR 210 (Little Cottonwood Canyon) Salt Lake Co.
 Canyon Closed","2/8/24, 12:36 AM","2/8/24, 8:30 AM",,,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175149,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
+SR-112 at Industrial Loop Rd (Tooele) Tooele Co.
+Est. Clearance Time: 10:00 AM","2/8/24, 9:01 AM","2/8/24, 10:00 AM","2/8/24, 9:01 AM",,40.548297,-112.342013
 UT-Incident--175134,Incidents,HWY 12,Garfield County,HWY 12 1,"Crash
 NB SR-12 at MP 23 Garfield Co.
 Est. Clearance Time: 8:30 AM","2/8/24, 7:27 AM","2/8/24, 8:30 AM","2/8/24, 7:27 AM",,37.60502,-112.060582
@@ -8597,13 +8600,32 @@ UT-Incident--175143,Incidents,I-15,Juab County,I-15 at MP 195,"Crash
 NB I-15 at MP 195 (7 mi N of Scipio) Juab Co.
 Left Shoulder
 Est. Clearance Time: 9:45 AM","2/8/24, 8:35 AM","2/8/24, 9:45 AM","2/8/24, 8:35 AM",,39.342098,-112.080981
+UT-Incident--175144,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
+NB I-15 at MP 321 (2100 N, Centerville) Davis Co.
+Left Lanes Closed
+Est. Clearance Time: 10:00 AM","2/8/24, 8:45 AM","2/8/24, 10:00 AM","2/8/24, 9:05 AM",,40.94534,-111.891093
+UT-Incident--175147,Incidents,I-15 NB X278 OFF MAIN ST WB RAMP,Utah County,I-15 NB X278 OFF MAIN ST WB RAMP at MAIN ST,"Crash
+NB I-15 to WB Pioneer Crossing Offramp Utah Co.
+Left Lane Closed
+Est. Clearance Time: 10:00 AM","2/8/24, 8:52 AM","2/8/24, 10:00 AM","2/8/24, 8:57 AM",,40.376304,-111.816791
+UT-Incident--175146,Incidents,I-215W SB X15 OFF 4700 S RAMP,Salt Lake County,I-215W SB X15 OFF 4700 S RAMP at 4700 S,"Crash
+SB I-215 W 4700 S Offramp (Taylorsville) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:00 AM","2/8/24, 8:49 AM","2/8/24, 10:00 AM","2/8/24, 8:49 AM",,40.670676,-111.952938
 UT-Incident--175140,Incidents,I-80,Summit County,I-80 at MP 190,"Crash
 WB I-80 at MP 190 (1 mi W of Wasatch) Summit Co.
 Est. Clearance Time: 9:30 AM","2/8/24, 8:09 AM","2/8/24, 9:30 AM","2/8/24, 8:09 AM",,41.183783,-111.131084
+UT-Incident--175150,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
+WB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","2/8/24, 9:04 AM","2/8/24, 10:30 AM","2/8/24, 9:04 AM",,40.741134,-111.741641
 UT-Incident--175130,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
 WB I-84 at MP 85 (South Weber) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 7:47 AM","2/8/24, 6:48 AM","2/8/24, 7:47 AM","2/8/24, 7:02 AM",,41.146953,-111.961855
+UT-Incident--175145,Incidents,I-84,Morgan County,I-84 at MP 100,"Crash
+WB I-84 at MP 100 (Morgan) Morgan Co.
+Est. Clearance Time: 10:00 AM","2/8/24, 8:47 AM","2/8/24, 10:00 AM","2/8/24, 8:47 AM",,41.07759,-111.723102
 UT-Incident--175141,Incidents,OGDEN CANYON,Weber County,OGDEN CANYON 251,"Crash
 SR-39 at MP 11 (Ogden Canyon) Weber Co.
 Est. Clearance Time: 9:15 AM","2/8/24, 8:11 AM","2/8/24, 9:15 AM","2/8/24, 8:11 AM",,41.24708,-111.890148
@@ -8613,6 +8635,9 @@ Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:0
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
+UT-Incident--175148,Incidents,US 189,Wasatch County,US 189 4481,"Crash
+US 189 at MP 24 (Deer Creek) Wasatch Co.
+Est. Clearance Time: 10:00 AM","2/8/24, 8:57 AM","2/8/24, 10:00 AM","2/8/24, 8:57 AM",,40.446582,-111.477208
 UT-Incident--175136,Incidents,US 6,Utah County,US 6 at MP 200,"Crash
 WB US 6 at MP 200 (W of Tie Fork Rest Stop) Utah Co.
 Both Lanes Blocked
