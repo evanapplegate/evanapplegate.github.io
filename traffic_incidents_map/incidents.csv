@@ -8639,7 +8639,6 @@ Est. Clearance Time: 10:30 AM","2/8/24, 9:04 AM","2/8/24, 10:30 AM","2/8/24, 9:0
 UT-Incident--175152,Incidents,I-15,Utah County,I-15 at MP 252,"Crash
 NB I-15 at MP 252 (1 mi NE of Payson) Utah Co.
 Est. Clearance Time: 10:45 AM","2/8/24, 9:38 AM","2/8/24, 10:45 AM","2/8/24, 9:38 AM",View on map,40.067893,-111.720751
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175154,Incidents,I-15,Utah County,I-15 at MP 282,"Vehicle on fire
 NB I-15 at MP 282 (Lehi) Utah Co.
 Right Lane Closed
@@ -8652,12 +8651,13 @@ UT-Incident--175155,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (9000 S, Sandy) Salt Lake Co.
 Left Lanes Blocked
 Est. Clearance Time: 1:30 PM","2/8/24, 11:54 AM","2/8/24, 1:30 PM","2/8/24, 11:54 AM",,40.591377,-111.901812
-UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
-Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.653126,-112.985953
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",,37.677725,-112.846981
 UT-Incident--175153,Incidents,US 40,Duchesne County,US 40 26001,"Crash
 US 40 at MP 79 Duchesne Co.
 Est. Clearance Time: 1:00 PM","2/8/24, 11:30 AM","2/8/24, 1:00 PM","2/8/24, 11:30 AM",,40.176583,-110.538727
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",View on map,37.677725,-112.846981
