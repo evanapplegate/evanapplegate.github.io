@@ -8507,14 +8507,18 @@ UT-Incident--175115,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 11,"Cra
 NB Legacy Pkwy at MP 11 (500 S, Farmington) Davis Co.
 Est. Clearance Time: 1:40 AM","2/8/24, 12:41 AM","2/8/24, 1:40 AM",,,40.971947,-111.895238
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175117,Incidents,I-15,Beaver County,I-15 at MP 127,"Crash
-SB I-15 at MP 127 (5 mi S of cove fort) Beaver Co.
-Est. Clearance Time: 1:47 AM","2/8/24, 12:48 AM","2/8/24, 1:47 AM",,,38.509816,-112.614529
 UT-Incident--175118,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
 SB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 1:51 AM","2/8/24, 12:52 AM","2/8/24, 1:51 AM",,,39.575936,-111.934037
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175117,Incidents,I-15,Beaver County,I-15 at MP 127,"Crash
+SB I-15 at MP 127 (5 mi S of cove fort) Beaver Co.
+Est. Clearance Time: 1:47 AM","2/8/24, 12:48 AM","2/8/24, 1:47 AM",,,38.509816,-112.614529
+UT-Incident--175120,Incidents,I-15,Beaver County,I-15 at MP 124,"Crash
+NB I-15 at MP 124 (8 mi S of cove fort) Beaver Co.
+Right Lane Closed
+Est. Clearance Time: 2:31 AM","2/8/24, 1:32 AM","2/8/24, 2:31 AM",,,38.46428,-112.618714
 UT-Incident--175116,Incidents,I-15 SB TO LEGACY SB RAMP,Davis County,I-15 SB TO LEGACY SB RAMP at LEGACY SB PKWY,"Crash
 SB I-15 Exit to SB Legacy Pkwy, Davis Co.
 Left Lane Closed
