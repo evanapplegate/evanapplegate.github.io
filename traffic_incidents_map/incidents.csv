@@ -8578,7 +8578,6 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24,
 UT-Incident--175114,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Control
 Both Dirs SR 210 (Little Cottonwood Canyon) Salt Lake Co.
 Canyon Closed","2/8/24, 12:36 AM","2/8/24, 8:30 AM",,,40.572095,-111.773814
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175142,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
@@ -8609,12 +8608,13 @@ WB US 6 at MP 200 (W of Tie Fork Rest Stop) Utah Co.
 Both Lanes Blocked
 Est. Clearance Time: 9:00 AM","2/8/24, 7:52 AM","2/8/24, 9:00 AM","2/8/24, 7:52 AM",,39.955266,-111.254349
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175149,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
-SR-112 at Industrial Loop Rd (Tooele) Tooele Co.
-Est. Clearance Time: 10:00 AM","2/8/24, 9:01 AM","2/8/24, 10:00 AM","2/8/24, 9:01 AM",,40.548297,-112.342013
 UT-Incident--175134,Incidents,HWY 12,Garfield County,HWY 12 1,"Crash
 NB SR-12 at MP 23 Garfield Co.
 Est. Clearance Time: 10:30 AM","2/8/24, 7:27 AM","2/8/24, 10:30 AM","2/8/24, 9:19 AM",,37.60502,-112.060582
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175149,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
+SR-112 at Industrial Loop Rd (Tooele) Tooele Co.
+Est. Clearance Time: 10:00 AM","2/8/24, 9:01 AM","2/8/24, 10:00 AM","2/8/24, 9:01 AM",,40.548297,-112.342013
 UT-Incident--175137,Incidents,I-15,Juab County,I-15 at MP 195,"Crash
 NB I-15 at MP 195 (7 mi N of Scipio) Juab Co.
 Est. Clearance Time: 10:15 AM","2/8/24, 7:54 AM","2/8/24, 10:15 AM","2/8/24, 9:19 AM",,39.342098,-112.080981
