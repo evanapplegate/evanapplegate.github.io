@@ -8528,23 +8528,27 @@ UT-Incident--175121,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:54 AM","2/8/24, 1:54 AM","2/8/24, 2:54 AM",,,40.769928,-112.007845
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175122,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:42 AM","2/8/24, 3:42 AM","2/8/24, 4:42 AM",,,41.345651,-112.039095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175124,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
-NB I-15 at MP 355 (Box Elder) Box Elder Co.
-Left Shoulder
-Est. Clearance Time: 5:56 AM","2/8/24, 4:57 AM","2/8/24, 5:56 AM",,,41.383685,-112.041828
 UT-Incident--175125,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
 SB I-15 at MP 332 (Antelope Dr) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:59 AM","2/8/24, 4:59 AM","2/8/24, 5:59 AM",,,41.082924,-111.985077
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175124,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+NB I-15 at MP 355 (Box Elder) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 5:56 AM","2/8/24, 4:57 AM","2/8/24, 5:56 AM",,,41.383685,-112.041828
+UT-Incident--175126,Incidents,I-15,Iron County,I-15 at MP 46,"Crash
+SB I-15 at MP 46 (Kanarraville) Iron Co.
+Left Shoulder
+Est. Clearance Time: 6:29 AM","2/8/24, 5:29 AM","2/8/24, 6:29 AM",,,37.541533,-113.202363
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM",,,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM",,,37.677725,-112.846981
 UT-Incident--174991,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:06 PM","2/13/24, 12:00 PM",,,40.619107,-111.786281
@@ -8552,7 +8556,8 @@ UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM",,,40.572095,-111.773814
 UT-Incident--175114,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Control
-Both Directions SR 210 (Little Cottonwood Canyon) Closed Salt Lake Co.","2/8/24, 12:36 AM","2/8/24, 8:30 AM",,,40.572095,-111.773814
+Both Dirs SR 210 (Little Cottonwood Canyon) Salt Lake Co.
+Canyon Closed","2/8/24, 12:36 AM","2/8/24, 8:30 AM",,,40.572095,-111.773814
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM",,,40.368169,-111.559358
