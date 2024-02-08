@@ -8536,11 +8536,15 @@ UT-Incident--175125,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
 SB I-15 at MP 332 (Antelope Dr) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:59 AM","2/8/24, 4:59 AM","2/8/24, 5:59 AM",,,41.082924,-111.985077
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175124,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 NB I-15 at MP 355 (Box Elder) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 5:56 AM","2/8/24, 4:57 AM","2/8/24, 5:56 AM",,,41.383685,-112.041828
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175123,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
+NB US 89 at MP 267 (SR-132 Jct) Sanpete Co.
+Right Shoulder
+Est. Clearance Time: 5:16 AM","2/8/24, 4:16 AM","2/8/24, 5:16 AM",,,39.416924,-111.560119
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175126,Incidents,I-15,Iron County,I-15 at MP 46,"Crash
 SB I-15 at MP 46 (Kanarraville) Iron Co.
@@ -8568,7 +8572,3 @@ Canyon Closed","2/8/24, 12:36 AM","2/8/24, 8:30 AM",,,40.572095,-111.773814
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM",,,40.368169,-111.559358
-UT-Incident--175123,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
-NB US 89 at MP 267 (SR-132 Jct) Sanpete Co.
-Right Shoulder
-Est. Clearance Time: 5:16 AM","2/8/24, 4:16 AM","2/8/24, 5:16 AM",,,39.416924,-111.560119
