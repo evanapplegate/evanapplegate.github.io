@@ -8545,7 +8545,6 @@ NB US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 5:16 AM","2/8/24, 4:16 AM","2/8/24, 5:16 AM",,,39.416924,-111.560119
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175126,Incidents,I-15,Iron County,I-15 at MP 46,"Crash
 SB I-15 at MP 46 (Kanarraville) Iron Co.
 Left Shoulder
@@ -8560,6 +8559,11 @@ Est. Clearance Time: 7:29 AM","2/8/24, 6:29 AM","2/8/24, 7:29 AM",,,40.668077,-1
 UT-Incident--175127,Incidents,SR 132,Juab County,SR 132 at MP 15,"Crash
 Both Directions SR 132 at MP 15 (17 MI from Nephi) Juab Co.
 Est. Clearance Time: 6:47 AM","2/8/24, 5:48 AM","2/8/24, 6:47 AM",,,39.614449,-112.131221
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175130,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
+WB I-84 at MP 85 (South Weber) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 7:47 AM","2/8/24, 6:48 AM","2/8/24, 7:47 AM",,,41.146953,-111.961855
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM",,,37.677725,-112.846981
