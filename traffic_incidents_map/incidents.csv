@@ -8525,11 +8525,15 @@ NB I-15 at MP 124 (8 mi S of cove fort) Beaver Co.
 Right Lane Closed
 Est. Clearance Time: 2:31 AM","2/8/24, 1:32 AM","2/8/24, 2:31 AM",,,38.46428,-112.618714
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175121,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:54 AM","2/8/24, 1:54 AM","2/8/24, 2:54 AM",,,40.769928,-112.007845
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175122,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
+NB I-15 at MP 352 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 4:42 AM","2/8/24, 3:42 AM","2/8/24, 4:42 AM",,,41.345651,-112.039095
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM",,,37.677725,-112.846981
