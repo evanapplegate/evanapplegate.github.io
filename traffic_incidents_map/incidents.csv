@@ -8616,7 +8616,6 @@ Est. Clearance Time: 10:15 AM","2/8/24, 8:04 AM","2/8/24, 10:15 AM","2/8/24, 9:1
 UT-Incident--175144,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
 NB I-15 at MP 321 (2100 N, Centerville) Davis Co.
 Cleared at 9:10 AM, Expect Residual Delays","2/8/24, 8:45 AM","2/8/24, 10:00 AM","2/8/24, 9:12 AM",,40.94534,-111.891093
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175149,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
 SR-112 at Industrial Loop Rd (Tooele) Tooele Co.
 Est. Clearance Time: 10:00 AM","2/8/24, 9:01 AM","2/8/24, 10:00 AM","2/8/24, 9:01 AM",,40.548297,-112.342013
@@ -8631,6 +8630,10 @@ UT-Incident--175148,Incidents,US 189,Wasatch County,US 189 4481,"Crash
 US 189 at MP 24 (Deer Creek) Wasatch Co.
 Est. Clearance Time: 10:00 AM","2/8/24, 8:57 AM","2/8/24, 10:00 AM","2/8/24, 8:57 AM",,40.446582,-111.477208
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
+NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
+Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",View on map,40.368169,-111.559358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175152,Incidents,I-15,Utah County,I-15 at MP 252,"Crash
 NB I-15 at MP 252 (1 mi NE of Payson) Utah Co.
 Est. Clearance Time: 10:45 AM","2/8/24, 9:38 AM","2/8/24, 10:45 AM","2/8/24, 9:38 AM",View on map,40.067893,-111.720751
@@ -8641,6 +8644,3 @@ Est. Clearance Time: 10:30 AM","2/8/24, 9:04 AM","2/8/24, 10:30 AM","2/8/24, 9:0
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",View on map,37.677725,-112.846981
-UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
-NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
-Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",View on map,40.368169,-111.559358
