@@ -8449,10 +8449,10 @@ UT-Incident--175098,Incidents,SR 28,Sanpete County,SR 28 at MP 11,"Crash
 Other SR 28 at MP 11 (Yuba Lake) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 8:14 PM","2/7/24, 7:17 PM","2/7/24, 8:14 PM","2/7/24, 7:17 PM",,39.301234,-111.893925
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175099,Incidents,I-15,Millard County,I-15 at MP 193,"Crash
 SB I-15 at MP 193 (5 mi N of Scipio) Millard Co.
@@ -8470,7 +8470,8 @@ NB I-15 at MP 225 (100 S / Nephi) Juab Co.
 Est. Clearance Time: 9:35 PM","2/7/24, 8:20 PM","2/7/24, 9:35 PM","2/7/24, 8:21 PM",,39.707193,-111.818689
 UT-Incident--175102,Incidents,I-80,Summit County,I-80 at MP 141,"Structure Emergency
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
-Est. Clearance Time: 10:00 PM","2/7/24, 8:07 PM","2/7/24, 10:00 PM","2/7/24, 8:09 PM",,40.755521,-111.587294
+Right Lane Closed
+Est. Clearance Time: 10:00 PM","2/7/24, 8:07 PM","2/7/24, 10:00 PM","2/7/24, 9:13 PM",,40.755521,-111.587294
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8487,3 +8488,9 @@ UT-Incident--175105,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:45 PM","2/7/24, 8:40 PM","2/7/24, 9:45 PM","2/7/24, 8:40 PM",,40.35648,-111.576663
+UT-Incident--175107,Incidents,US 40,Wasatch County,US 40 at MP 36,"Crash
+EB US 40 at MP 36 (15 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 10:15 PM","2/7/24, 9:09 PM","2/7/24, 10:15 PM","2/7/24, 9:09 PM",,40.283151,-111.236711
+UT-Incident--175106,Incidents,US 91,Box Elder County,US 91 at MP 9,"Crash
+NB US 91 at MP 9 (1 MI from Sardine Summit) Box Elder Co.
+Est. Clearance Time: 10:30 PM","2/7/24, 9:09 PM","2/7/24, 10:30 PM","2/7/24, 9:09 PM",,41.535774,-111.958242
