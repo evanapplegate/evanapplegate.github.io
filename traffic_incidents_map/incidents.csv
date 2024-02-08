@@ -8486,11 +8486,25 @@ EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 10:00 PM","2/7/24, 8:07 PM","2/7/24, 10:00 PM","2/7/24, 9:13 PM",,40.755521,-111.587294
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175110,Incidents,I-15,Davis County,I-15 at MP 326,"Crash
 NB I-15 at MP 326 (Kysvll) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:45 PM","2/7/24, 10:19 PM","2/7/24, 11:45 PM","2/7/24, 11:05 PM",,41.00356,-111.928848
+UT-Incident--175111,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
+WB US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 2/8/2024 12:00 AM","2/7/24, 11:02 PM","2/8/24, 12:00 AM","2/7/24, 11:02 PM",,40.388104,-111.54897
+UT-Incident--175107,Incidents,US 40,Wasatch County,US 40 at MP 36,"Crash
+EB US 40 at MP 36 (15 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 2/8/2024 1:00 AM","2/7/24, 9:09 PM","2/8/24, 1:00 AM","2/7/24, 11:07 PM",,40.283151,-111.236711
+UT-Incident--175112,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
+US 6 at MP 210 (Soldier Summit) Utah Co.
+Est. Clearance Time: 2/8/2024 12:35 AM","2/7/24, 11:20 PM","2/8/24, 12:35 AM","2/7/24, 11:20 PM",,39.931871,-111.089175
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175113,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+SB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 1:25 AM","2/8/24, 12:27 AM","2/8/24, 1:25 AM","2/8/24, 12:27 AM",,41.066718,-111.970064
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/7/24, 12:00 PM","2/5/24, 7:00 AM",,37.677725,-112.846981
@@ -8503,13 +8517,3 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24,
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
-UT-Incident--175111,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
-WB US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 2/8/2024 12:00 AM","2/7/24, 11:02 PM","2/8/24, 12:00 AM","2/7/24, 11:02 PM",,40.388104,-111.54897
-UT-Incident--175107,Incidents,US 40,Wasatch County,US 40 at MP 36,"Crash
-EB US 40 at MP 36 (15 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 2/8/2024 1:00 AM","2/7/24, 9:09 PM","2/8/24, 1:00 AM","2/7/24, 11:07 PM",,40.283151,-111.236711
-UT-Incident--175112,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
-US 6 at MP 210 (Soldier Summit) Utah Co.
-Est. Clearance Time: 2/8/2024 12:35 AM","2/7/24, 11:20 PM","2/8/24, 12:35 AM","2/7/24, 11:20 PM",,39.931871,-111.089175
