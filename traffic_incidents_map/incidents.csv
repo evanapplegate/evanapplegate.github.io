@@ -8510,7 +8510,6 @@ UT-Incident--175118,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
 SB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 1:51 AM","2/8/24, 12:52 AM","2/8/24, 1:51 AM",,,39.575936,-111.934037
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175117,Incidents,I-15,Beaver County,I-15 at MP 127,"Crash
 SB I-15 at MP 127 (5 mi S of cove fort) Beaver Co.
 Est. Clearance Time: 1:47 AM","2/8/24, 12:48 AM","2/8/24, 1:47 AM",,,38.509816,-112.614529
@@ -8521,6 +8520,7 @@ Est. Clearance Time: 1:44 AM","2/8/24, 12:45 AM","2/8/24, 1:44 AM",,,40.98647,-1
 UT-Incident--175119,Incidents,Legacy SB Pkwy,Davis County,Legacy SB Pkwy at Glovers Ln,"Crash
 NB West Davis Hwy (SR-177) at MP 1, Davis Co.
 Est. Clearance Time: 1:56 AM","2/8/24, 12:57 AM","2/8/24, 1:56 AM",,,40.960643,-111.89336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175120,Incidents,I-15,Beaver County,I-15 at MP 124,"Crash
 NB I-15 at MP 124 (8 mi S of cove fort) Beaver Co.
