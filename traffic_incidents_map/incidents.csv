@@ -8660,11 +8660,15 @@ Est. Clearance Time: 2:30 PM","2/8/24, 1:19 PM","2/8/24, 2:30 PM","2/8/24, 1:19 
 UT-Incident--175159,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 WB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 2:45 PM","2/8/24, 1:44 PM","2/8/24, 2:45 PM","2/8/24, 1:44 PM",View on map,40.764633,-111.972427
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175161,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Collector at MP 297 (7200 S) Salt Lake Co.
 Est. Clearance Time: 3:00 PM","2/8/24, 2:12 PM","2/8/24, 3:00 PM","2/8/24, 2:12 PM",View on map,40.607173,-111.905403
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175164,Incidents,Hwy 224,Summit County,Hwy 224 at Ute Blvd,"Crash
+NB Hwy 224 at Olympic Pkwy Summit Co.
+Right Shoulder
+Est. Clearance Time: 3:29 PM","2/8/24, 2:32 PM","2/8/24, 3:29 PM","2/8/24, 2:32 PM",View on map,40.724907,-111.544656
 UT-Incident--175162,Incidents,I-15,Beaver County,I-15 at MP 109,"Crash
 Both Dirs I-15 at MP 109 (Beaver River) Beaver Co.
 SB Left Lane Closed
@@ -8677,6 +8681,10 @@ UT-Incident--175163,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (4400 W) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:30 PM","2/8/24, 2:20 PM","2/8/24, 3:30 PM","2/8/24, 2:22 PM",View on map,40.765833,-111.994878
+UT-Incident--175165,Incidents,I-80,Summit County,I-80 at MP 144,"Crash
+EB I-80 at MP 144 (Kimball Jct/ SR-224 Jct) Summit Co.
+Right Shoulder
+Est. Clearance Time: 3:30 PM","2/8/24, 2:35 PM","2/8/24, 3:30 PM","2/8/24, 2:35 PM",View on map,40.728806,-111.546712
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
