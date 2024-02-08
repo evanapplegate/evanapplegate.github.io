@@ -8453,7 +8453,6 @@ UT-Incident--175018,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 7:12 AM","2/14/24, 8:15 AM","2/7/24, 7:12 AM",,40.624634,-111.501637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175099,Incidents,I-15,Millard County,I-15 at MP 193,"Crash
 SB I-15 at MP 193 (5 mi N of Scipio) Millard Co.
 Right Shoulder
@@ -8462,6 +8461,11 @@ UT-Incident--175101,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","2/7/24, 7:52 PM","2/7/24, 8:45 PM","2/7/24, 7:55 PM",,40.607173,-111.905403
+UT-Incident--175105,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:45 PM","2/7/24, 8:40 PM","2/7/24, 9:45 PM","2/7/24, 8:40 PM",,40.35648,-111.576663
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175103,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 NB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 9:30 PM","2/7/24, 8:11 PM","2/7/24, 9:30 PM","2/7/24, 8:11 PM",,39.747541,-111.834299
@@ -8481,13 +8485,13 @@ Approved Traction Devices Required For All Vehicles","2/6/24, 6:06 PM","2/13/24,
 UT-Incident--174992,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/6/24, 6:07 PM","2/13/24, 12:00 PM","2/6/24, 6:07 PM",,40.572095,-111.773814
+UT-Incident--175108,Incidents,SR 39,Weber County,SR 39 at MP 14,"Crash
+WB SR 39 at MP 14 (Pineview Res) Weber Co.
+Right Shoulder
+Est. Clearance Time: 11:00 PM","2/7/24, 9:42 PM","2/7/24, 11:00 PM","2/7/24, 9:42 PM",,41.254631,-111.837868
 UT-Incident--175032,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 NB SR 92 at MP 27-23 (US-189 Jct) Utah Co.
 Approved Traction Devices Required for all Vehicles","2/7/24, 8:54 AM","2/14/24, 10:00 AM","2/7/24, 8:54 AM",,40.368169,-111.559358
-UT-Incident--175105,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:45 PM","2/7/24, 8:40 PM","2/7/24, 9:45 PM","2/7/24, 8:40 PM",,40.35648,-111.576663
 UT-Incident--175107,Incidents,US 40,Wasatch County,US 40 at MP 36,"Crash
 EB US 40 at MP 36 (15 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 10:15 PM","2/7/24, 9:09 PM","2/7/24, 10:15 PM","2/7/24, 9:09 PM",,40.283151,-111.236711
