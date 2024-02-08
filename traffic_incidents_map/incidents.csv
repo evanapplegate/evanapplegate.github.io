@@ -8532,7 +8532,6 @@ UT-Incident--175122,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:42 AM","2/8/24, 3:42 AM","2/8/24, 4:42 AM",,,41.345651,-112.039095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175125,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
 SB I-15 at MP 332 (Antelope Dr) Davis Co.
 Left Shoulder
@@ -8542,10 +8541,18 @@ UT-Incident--175124,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 NB I-15 at MP 355 (Box Elder) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 5:56 AM","2/8/24, 4:57 AM","2/8/24, 5:56 AM",,,41.383685,-112.041828
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175126,Incidents,I-15,Iron County,I-15 at MP 46,"Crash
 SB I-15 at MP 46 (Kanarraville) Iron Co.
 Left Shoulder
 Est. Clearance Time: 6:29 AM","2/8/24, 5:29 AM","2/8/24, 6:29 AM",,,37.541533,-113.202363
+UT-Incident--175128,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:49 AM","2/8/24, 5:49 AM","2/8/24, 6:49 AM",,,40.406979,-111.858601
+UT-Incident--175127,Incidents,SR 132,Juab County,SR 132 at MP 15,"Crash
+Both Directions SR 132 at MP 15 (17 MI from Nephi) Juab Co.
+Est. Clearance Time: 6:47 AM","2/8/24, 5:48 AM","2/8/24, 6:47 AM",,,39.614449,-112.131221
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM",,,37.677725,-112.846981
