@@ -8752,7 +8752,6 @@ UT-Incident--175189,Incidents,Main St,Iron County,Main St at Nichols Canyon Rd,"
 SB Main St at Nichols Canyon Rd Iron Co.
 Right Lane Closed
 Est. Clearance Time: 7:30 PM","2/8/24, 6:33 PM","2/8/24, 7:30 PM","2/8/24, 6:33 PM",,37.720228,-113.055602
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175185,Incidents,SR 248,Summit County,SR 248 at MP 13,"Crash
 NB SR 248 at MP 13 (1.5 MI from Main St) Summit Co.
 Cleared at 7:19 PM
@@ -8762,14 +8761,15 @@ UT-Incident--175187,Incidents,I-15,Iron County,I-15 at MP 75,"Crash
 SB I-15 at MP 75 (200 S / Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:28 PM","2/8/24, 6:28 PM","2/8/24, 7:28 PM","2/8/24, 6:28 PM",,37.838211,-112.872515
-UT-Incident--175196,Incidents,I-15,Beaver County,I-15 at MP 107,"Crash
-SB I-15 at MP 107 (1 mi S of Beaver) Beaver Co.
-Left Lane Closed
-Est. Clearance Time: 8:28 PM","2/8/24, 7:29 PM","2/8/24, 8:28 PM","2/8/24, 7:39 PM",,38.223888,-112.649474
 UT-Incident--175190,Incidents,I-80,Salt Lake County,I-80 at MP 130,"HAZMAT
 WB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 PM","2/8/24, 6:35 PM","2/8/24, 9:00 PM","2/8/24, 6:35 PM",,40.7252,-111.771166
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175196,Incidents,I-15,Beaver County,I-15 at MP 107,"Crash
+SB I-15 at MP 107 (1 mi S of Beaver) Beaver Co.
+Left Lane Closed
+Est. Clearance Time: 8:28 PM","2/8/24, 7:29 PM","2/8/24, 8:28 PM","2/8/24, 7:39 PM",,38.223888,-112.649474
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.653126,-112.985953
