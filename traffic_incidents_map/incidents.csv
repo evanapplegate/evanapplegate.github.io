@@ -8767,10 +8767,10 @@ Est. Clearance Time: 9:00 PM","2/8/24, 6:35 PM","2/8/24, 9:00 PM","2/8/24, 6:35 
 UT-Incident--175195,Incidents,US 40,Uintah County,US 40 at MP 149,"Crash
 EB US 40 at MP 149 (1 Mi W of Naples) Uintah Co.
 Est. Clearance Time: 8:45 PM","2/8/24, 7:12 PM","2/8/24, 8:45 PM","2/8/24, 8:13 PM",,40.408809,-109.486313
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175194,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 NB US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
 Est. Clearance Time: 8:45 PM","2/8/24, 7:04 PM","2/8/24, 8:45 PM","2/8/24, 8:13 PM",,39.430681,-111.554437
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175196,Incidents,I-15,Beaver County,I-15 at MP 107,"Crash
 SB I-15 at MP 107 (1 mi S of Beaver) Beaver Co.
@@ -8789,6 +8789,9 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.6
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",,37.677725,-112.846981
+UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 MP 4-50  Iron Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",,37.828866,-112.814606
 UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",,40.619107,-111.786281
