@@ -8877,7 +8877,6 @@ Est. Clearance Time: 7:34 AM","2/9/24, 6:34 AM","2/9/24, 7:34 AM","2/9/24, 6:34 
 UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Both Directions SR 143 MP 4-50  Iron Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",View on map,37.828866,-112.814606
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175226,Incidents,Bacchus Hwy,Salt Lake County,Bacchus Hwy at 11800 S,"Crash
 Other Bacchus Hwy at 11800 S Salt Lake Co.
 Est. Clearance Time: 8:06 AM","2/9/24, 7:06 AM","2/9/24, 8:06 AM","2/9/24, 7:06 AM",View on map,40.537699,-112.069778
@@ -8885,6 +8884,7 @@ UT-Incident--175224,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:31 AM","2/9/24, 6:32 AM","2/9/24, 7:31 AM","2/9/24, 6:32 AM",View on map,40.52103,-111.891246
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175227,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 Ramp EB I-215 S at MP 6 (6200 S Exit) Salt Lake Co.
