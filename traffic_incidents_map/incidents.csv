@@ -8785,7 +8785,6 @@ Est. Clearance Time: 11:30 PM","2/8/24, 10:31 PM","2/8/24, 11:30 PM","2/8/24, 10
 UT-Incident--175188,Incidents,US 191,Duchesne County,US 191 at MP 261,"Roadway Restriction
 Both Directions US 191 MP 261-272 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required For Semis","2/8/24, 6:30 PM","2/9/24, 12:00 PM","2/8/24, 6:30 PM",,39.822816,-110.785101
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175201,Incidents,US 6,Utah County,US 6 at MP 186,"Stalled Vehicle
 WB US 6 at MP 186 (Billys Mtn View Area) Utah Co.
 3 Right Lanes Closed
@@ -8801,6 +8800,11 @@ Est. Clearance Time: 10:00 PM","2/8/24, 8:43 PM","2/8/24, 11:00 PM","2/8/24, 9:3
 UT-Incident--175205,Incidents,I-70,Sevier County,I-70 at MP 68,"Crash
 WB I-70 at MP 68 (28 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 2/9/2024 12:30 AM","2/8/24, 11:22 PM","2/9/24, 12:30 AM","2/8/24, 11:22 PM",View on map,38.898347,-111.656745
+UT-Incident--175206,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
+EB SR 201 at MP 6 (9180 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2/9/2024 12:33 AM","2/8/24, 11:34 PM","2/9/24, 12:33 AM","2/8/24, 11:34 PM",View on map,40.71806,-112.114369
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
@@ -8813,10 +8817,6 @@ Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24,
 UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",View on map,40.619107,-111.786281
-UT-Incident--175206,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
-EB SR 201 at MP 6 (9180 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 2/9/2024 12:33 AM","2/8/24, 11:34 PM","2/9/24, 12:33 AM","2/8/24, 11:34 PM",View on map,40.71806,-112.114369
 UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",View on map,40.572095,-111.773814
