@@ -8756,7 +8756,6 @@ UT-Incident--175185,Incidents,SR 248,Summit County,SR 248 at MP 13,"Crash
 NB SR 248 at MP 13 (1.5 MI from Main St) Summit Co.
 Cleared at 7:19 PM
 Est. Clearance Time: 7:20 PM","2/8/24, 6:22 PM","2/8/24, 7:20 PM","2/8/24, 7:19 PM",,40.639986,-111.309001
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175187,Incidents,I-15,Iron County,I-15 at MP 75,"Crash
 SB I-15 at MP 75 (200 S / Parowan) Iron Co.
 Right Shoulder
@@ -8766,10 +8765,15 @@ WB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 PM","2/8/24, 6:35 PM","2/8/24, 9:00 PM","2/8/24, 6:35 PM",,40.7252,-111.771166
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175196,Incidents,I-15,Beaver County,I-15 at MP 107,"Crash
 SB I-15 at MP 107 (1 mi S of Beaver) Beaver Co.
 Left Lane Closed
 Est. Clearance Time: 8:28 PM","2/8/24, 7:29 PM","2/8/24, 8:28 PM","2/8/24, 7:39 PM",,38.223888,-112.649474
+UT-Incident--175197,Incidents,I-15,Box Elder County,I-15 at MP 372,"Vehicle on fire
+NB I-15 at MP 372 (Honeyville) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 9:15 PM","2/8/24, 8:13 PM","2/8/24, 9:15 PM","2/8/24, 8:13 PM",,41.625024,-112.09268
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.653126,-112.985953
@@ -8790,7 +8794,7 @@ Both Directions US 191 MP 261-272 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required For Semis","2/8/24, 6:30 PM","2/9/24, 12:00 PM","2/8/24, 6:30 PM",,39.822816,-110.785101
 UT-Incident--175195,Incidents,US 40,Uintah County,US 40 at MP 149,"Crash
 EB US 40 at MP 149 (1 Mi W of Naples) Uintah Co.
-Est. Clearance Time: 8:15 PM","2/8/24, 7:12 PM","2/8/24, 8:15 PM","2/8/24, 7:12 PM",,40.408809,-109.486313
+Est. Clearance Time: 8:45 PM","2/8/24, 7:12 PM","2/8/24, 8:45 PM","2/8/24, 8:13 PM",,40.408809,-109.486313
 UT-Incident--175194,Incidents,US 89,Sanpete County,US 89 at MP 268,"Crash
 NB US 89 at MP 268 (4 miles N of Ephraim) Sanpete Co.
-Est. Clearance Time: 8:30 PM","2/8/24, 7:04 PM","2/8/24, 8:30 PM","2/8/24, 7:04 PM",,39.430681,-111.554437
+Est. Clearance Time: 8:45 PM","2/8/24, 7:04 PM","2/8/24, 8:45 PM","2/8/24, 8:13 PM",,39.430681,-111.554437
