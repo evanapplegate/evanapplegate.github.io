@@ -8793,7 +8793,6 @@ UT-Incident--175202,Incidents,US 6,Utah County,US 6 at MP 185,"Stalled Vehicle
 EB US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 2/9/2024 12:06 AM","2/8/24, 11:07 PM","2/9/24, 12:06 AM","2/8/24, 11:07 PM",View on map,40.018787,-111.496233
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175198,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
 NB I-15 Closed at MP 245 (1 mi N of Santaquin) Utah Co.
 Est. Clearance Time: 10:00 PM","2/8/24, 8:43 PM","2/8/24, 11:00 PM","2/8/24, 9:35 PM",View on map,39.977775,-111.770508
@@ -8804,6 +8803,7 @@ UT-Incident--175206,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
 EB SR 201 at MP 6 (9180 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2/9/2024 12:33 AM","2/8/24, 11:34 PM","2/9/24, 12:33 AM","2/8/24, 11:34 PM",View on map,40.71806,-112.114369
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
