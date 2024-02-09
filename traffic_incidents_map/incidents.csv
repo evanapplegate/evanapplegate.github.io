@@ -8993,10 +8993,10 @@ UT-Incident--175257,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
 SB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:35 PM","2/9/24, 3:20 PM","2/9/24, 4:35 PM","2/9/24, 3:21 PM",View on map,40.102705,-111.684864
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175260,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
 NB I-15 at MP 225 (100 S / Nephi) Juab Co.
 Est. Clearance Time: 4:45 PM","2/9/24, 3:38 PM","2/9/24, 4:45 PM","2/9/24, 3:38 PM",,39.707193,-111.818689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175251,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 SB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
@@ -9030,3 +9030,6 @@ Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:0
 UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",,40.624634,-111.501637
+UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
+WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM","2/9/24, 4:24 PM",,40.333619,-111.261279
