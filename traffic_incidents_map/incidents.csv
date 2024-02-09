@@ -8871,10 +8871,13 @@ UT-Incident--175222,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
 EB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 6:06 AM","2/9/24, 5:08 AM","2/9/24, 6:06 AM","2/9/24, 5:08 AM",View on map,41.497336,-111.967135
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175225,Incidents,SR 102,Box Elder County,SR 102 at MP 14,"Crash
 WB SR 102 at MP 14 (I-84 Jct) Box Elder Co.
 Est. Clearance Time: 7:34 AM","2/9/24, 6:34 AM","2/9/24, 7:34 AM","2/9/24, 6:34 AM",View on map,41.710726,-112.209937
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 MP 4-50  Iron Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",View on map,37.828866,-112.814606
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175226,Incidents,Bacchus Hwy,Salt Lake County,Bacchus Hwy at 11800 S,"Crash
 Other Bacchus Hwy at 11800 S Salt Lake Co.
@@ -8889,9 +8892,6 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View 
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",View on map,37.677725,-112.846981
-UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 MP 4-50  Iron Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",View on map,37.828866,-112.814606
 UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",View on map,40.619107,-111.786281
