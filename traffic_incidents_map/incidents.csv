@@ -8964,11 +8964,17 @@ UT-Incident--175250,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:28 PM","2/9/24, 1:28 PM","2/9/24, 2:28 PM","2/9/24, 1:28 PM",View on map,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175252,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
 Ramp WB SR 201 at MP 11 (4600 W Exit) Salt Lake Co.
 Left Shouler
 Est. Clearance Time: 3:05 PM","2/9/24, 2:06 PM","2/9/24, 3:05 PM","2/9/24, 2:06 PM",View on map,40.72572,-112.020546
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",View on map,40.619107,-111.786281
+UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",View on map,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175242,Incidents,I-15,Box Elder County,I-15 at MP 394,"Crash
 NB I-15 at MP 394 (6 Mi S of UT border) Box Elder Co.
@@ -8996,15 +9002,9 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View 
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",View on map,37.677725,-112.846981
-UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",View on map,40.619107,-111.786281
 UT-Incident--175247,Incidents,SR 190,Salt Lake County,SR 190 at MP 7,"Crash
 EB SR 190 at MP 7 (4 MI into Big Cttnwd Cnyn) Salt Lake Co.
 Est. Clearance Time: 1:34 PM","2/9/24, 12:35 PM","2/9/24, 1:34 PM","2/9/24, 12:35 PM",View on map,40.634069,-111.711455
-UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",View on map,40.572095,-111.773814
 UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",View on map,40.624634,-111.501637
