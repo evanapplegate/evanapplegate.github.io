@@ -8736,7 +8736,6 @@ Est. Clearance Time: 6:27 PM","2/8/24, 5:29 PM","2/8/24, 6:27 PM","2/8/24, 5:29 
 UT-Incident--175184,Incidents,MAIN ST,Iron County,MAIN ST at NICHOLS CANYON RD,"Crash
 SB Main St at Canyon Ranch Rd Iron Co.
 Est. Clearance Time: 7:00 PM","2/8/24, 6:03 PM","2/8/24, 7:00 PM","2/8/24, 6:06 PM",,37.724424,-113.049915
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175193,Incidents,Deer Valley Dr,Summit County,Deer Valley Dr at Bonanza Dr,"Crash
 SB Deer Valley Dr at Bonanza Dr Summit Co.
 Right Lane Closed
@@ -8753,6 +8752,7 @@ UT-Incident--175189,Incidents,Main St,Iron County,Main St at Nichols Canyon Rd,"
 SB Main St at Nichols Canyon Rd Iron Co.
 Right Lane Closed
 Est. Clearance Time: 7:30 PM","2/8/24, 6:33 PM","2/8/24, 7:30 PM","2/8/24, 6:33 PM",,37.720228,-113.055602
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175187,Incidents,I-15,Iron County,I-15 at MP 75,"Crash
 SB I-15 at MP 75 (200 S / Parowan) Iron Co.
