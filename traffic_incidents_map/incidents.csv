@@ -8989,11 +8989,14 @@ Est. Clearance Time: 3:35 PM","2/9/24, 2:24 PM","2/9/24, 3:35 PM","2/9/24, 2:24 
 UT-Incident--175247,Incidents,SR 190,Salt Lake County,SR 190 at MP 7,"Crash
 EB SR 190 at MP 7 (4 MI into Big Cttnwd Cnyn) Salt Lake Co.
 Est. Clearance Time: 1:34 PM","2/9/24, 12:35 PM","2/9/24, 1:34 PM","2/9/24, 12:35 PM",View on map,40.634069,-111.711455
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175257,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
 SB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:35 PM","2/9/24, 3:20 PM","2/9/24, 4:35 PM","2/9/24, 3:21 PM",View on map,40.102705,-111.684864
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175260,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
+NB I-15 at MP 225 (100 S / Nephi) Juab Co.
+Est. Clearance Time: 4:45 PM","2/9/24, 3:38 PM","2/9/24, 4:45 PM","2/9/24, 3:38 PM",,39.707193,-111.818689
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175251,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 SB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
@@ -9011,9 +9014,9 @@ UT-Incident--175259,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 Off Ramp (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:35 PM","2/9/24, 3:29 PM","2/9/24, 4:35 PM","2/9/24, 3:29 PM",,40.550055,-111.896336
-UT-Incident--175260,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
-NB I-15 at MP 225 (100 S / Nephi) Juab Co.
-Est. Clearance Time: 4:45 PM","2/9/24, 3:38 PM","2/9/24, 4:45 PM","2/9/24, 3:38 PM",,39.707193,-111.818689
+UT-Incident--175262,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
+SB I-15 at MP 343 Off Ramp (Ogden) Weber Co.
+Est. Clearance Time: 5:15 PM","2/9/24, 4:08 PM","2/9/24, 5:15 PM","2/9/24, 4:08 PM",,41.218498,-112.004065
 UT-Incident--175261,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 4100 S,"Crash
 NB Mountain View Corridor Hwy at 4100 S Salt Lake Co.
 Right Lane Closed
