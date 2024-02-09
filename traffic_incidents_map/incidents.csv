@@ -8836,22 +8836,6 @@ UT-Incident--175204,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restricti
 EB US 6 MP 180-232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 11:12 PM","2/9/24, 12:00 PM","2/8/24, 11:12 PM",View on map,40.058914,-111.564458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175221,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
-NB I-15 at MP 354 (Box Elder) Box Elder Co.
-Left Shoulder
-Est. Clearance Time: 6:05 AM","2/9/24, 5:06 AM","2/9/24, 6:05 AM","2/9/24, 5:06 AM",View on map,41.374069,-112.042475
-UT-Incident--175216,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
-EB I-80 between MP 128-143 (Parleys Canyon) Salt Lake Co.
-Traction Devices Required for All Vehicles","2/9/24, 4:22 AM","2/9/24, 5:20 AM","2/9/24, 4:22 AM",View on map,40.712086,-111.801151
-UT-Incident--175219,Incidents,I-80,Summit County,I-80 at MP 144,"Crash
-WB I-80 at MP 144 (Kimball Jct/ SR-224 Jct) Summit Co.
-3 Right Lanes Closed
-Est. Clearance Time: 5:54 AM","2/9/24, 4:54 AM","2/9/24, 5:54 AM","2/9/24, 4:54 AM",View on map,40.729873,-111.548671
-UT-Incident--175210,Incidents,I-84,Box Elder County,I-84 at MP 14,"Crash
-Both Directions I-84 at MP 14 (5 mi east of Snowville) Box Elder Co.
-Left Lane Closed
-Est. Clearance Time: 5:00 AM","2/9/24, 1:41 AM","2/9/24, 5:00 AM","2/9/24, 3:27 AM",View on map,41.910733,-112.604701
 UT-Incident--175212,Incidents,I-84,Box Elder County,I-84 at MP 17,"Crash
 WB I-84 at MP 17 (8 mi east of Snowville) Box Elder Co.
 Est. Clearance Time: 5:00 AM","2/9/24, 2:34 AM","2/9/24, 5:00 AM","2/9/24, 3:27 AM",View on map,41.896302,-112.551782
@@ -8859,6 +8843,26 @@ UT-Incident--175218,Incidents,I-84,Box Elder County,I-84 at MP 31,"Crash
 EB I-84 at MP 31 (19 mil N of Tremonton) Box Elder Co.
 Center Lane Closed
 Est. Clearance Time: 5:52 AM","2/9/24, 4:52 AM","2/9/24, 5:52 AM","2/9/24, 4:52 AM",View on map,41.806672,-112.332958
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175221,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
+NB I-15 at MP 354 (Box Elder) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 6:05 AM","2/9/24, 5:06 AM","2/9/24, 6:05 AM","2/9/24, 5:06 AM",View on map,41.374069,-112.042475
+UT-Incident--175223,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+SB I-15 at MP 355 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 6:57 AM","2/9/24, 5:58 AM","2/9/24, 6:57 AM","2/9/24, 5:58 AM",View on map,41.386011,-112.042059
+UT-Incident--175216,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 between MP 128-143 (Parleys Canyon) Salt Lake Co.
+Traction Devices Required for All Vehicles","2/9/24, 4:22 AM","2/9/24, 5:20 AM","2/9/24, 4:22 AM",View on map,40.712086,-111.801151
+UT-Incident--175219,Incidents,I-80,Summit County,I-80 at MP 144,"Crash
+WB I-80 at MP 144 (Kimball Jct/ SR-224 Jct) Summit Co.
+3 Right Lanes Closed
+Est. Clearance Time: 10:00 AM","2/9/24, 4:54 AM","2/9/24, 10:00 AM","2/9/24, 6:01 AM",View on map,40.729873,-111.548671
+UT-Incident--175210,Incidents,I-84,Box Elder County,I-84 at MP 14,"Crash
+Both Directions I-84 at MP 14 (5 mi east of Snowville) Box Elder Co.
+Left Lane Closed
+Est. Clearance Time: 7:00 AM","2/9/24, 1:41 AM","2/9/24, 7:00 AM","2/9/24, 6:01 AM",View on map,41.910733,-112.604701
 UT-Incident--175220,Incidents,I-84,Box Elder County,I-84 at MP 28,"Crash
 WB I-84 at MP 28 (16 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 6:04 AM","2/9/24, 5:05 AM","2/9/24, 6:04 AM","2/9/24, 5:05 AM",View on map,41.815498,-112.393985
