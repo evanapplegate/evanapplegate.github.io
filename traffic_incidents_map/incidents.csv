@@ -8845,7 +8845,6 @@ Est. Clearance Time: 5:52 AM","2/9/24, 4:52 AM","2/9/24, 5:52 AM","2/9/24, 4:52 
 UT-Incident--175216,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/9/24, 4:22 AM","2/9/24, 5:20 AM","2/9/24, 4:22 AM",View on map,40.712086,-111.801151
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175223,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Right Shoulder
@@ -8866,6 +8865,21 @@ Est. Clearance Time: 7:00 AM","2/9/24, 1:41 AM","2/9/24, 7:00 AM","2/9/24, 6:01 
 UT-Incident--175220,Incidents,I-84,Box Elder County,I-84 at MP 28,"Crash
 WB I-84 at MP 28 (16 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 6:04 AM","2/9/24, 5:05 AM","2/9/24, 6:04 AM","2/9/24, 5:05 AM",View on map,41.815498,-112.393985
+UT-Incident--175215,Incidents,US 91,Cache County,US 91 at MP 11,"Roadway Restriction
+Both Directions US 91 between MP 2-17 (Sardine Canyon) Cache Co.
+Traction Devices Required for All Vehicles","2/9/24, 4:18 AM","2/9/24, 5:17 AM","2/9/24, 4:18 AM",View on map,41.562271,-111.962763
+UT-Incident--175222,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
+EB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 6:06 AM","2/9/24, 5:08 AM","2/9/24, 6:06 AM","2/9/24, 5:08 AM",View on map,41.497336,-111.967135
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175224,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:31 AM","2/9/24, 6:32 AM","2/9/24, 7:31 AM","2/9/24, 6:32 AM",View on map,40.52103,-111.891246
+UT-Incident--175225,Incidents,SR 102,Box Elder County,SR 102 at MP 14,"Crash
+WB SR 102 at MP 14 (I-84 Jct) Box Elder Co.
+Est. Clearance Time: 7:34 AM","2/9/24, 6:34 AM","2/9/24, 7:34 AM","2/9/24, 6:34 AM",View on map,41.710726,-112.209937
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
@@ -8884,10 +8898,3 @@ Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24,
 UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",View on map,40.624634,-111.501637
-UT-Incident--175215,Incidents,US 91,Cache County,US 91 at MP 11,"Roadway Restriction
-Both Directions US 91 between MP 2-17 (Sardine Canyon) Cache Co.
-Traction Devices Required for All Vehicles","2/9/24, 4:18 AM","2/9/24, 5:17 AM","2/9/24, 4:18 AM",View on map,41.562271,-111.962763
-UT-Incident--175222,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
-EB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 6:06 AM","2/9/24, 5:08 AM","2/9/24, 6:06 AM","2/9/24, 5:08 AM",View on map,41.497336,-111.967135
