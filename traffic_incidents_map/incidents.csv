@@ -8687,7 +8687,6 @@ UT-Incident--175166,Incidents,NORTH TEMPLE EB RAMP,Salt Lake County,NORTH TEMPLE
 EB I-80 Ramp To North Temple Street Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","2/8/24, 2:59 PM","2/8/24, 4:00 PM","2/8/24, 2:59 PM",View on map,40.762372,-111.970601
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175169,Incidents,SR 201,Salt Lake County,SR 201 at MP 5,"Crash
 EB SR 201 at MP 5 (E of SR-202) Salt Lake Co.
 Est. Clearance Time: 4:45 PM","2/8/24, 3:54 PM","2/8/24, 4:45 PM","2/8/24, 3:54 PM",View on map,40.716738,-112.133098
@@ -8696,14 +8695,6 @@ UT-Incident--175171,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:04 PM","2/8/24, 4:04 PM","2/8/24, 5:04 PM","2/8/24, 4:04 PM",View on map,40.777705,-111.910735
-UT-Incident--175173,Incidents,I-15,Iron County,I-15 at MP 67,"Crash
-SB I-15 at MP 67 (3 mi N of Cedar City) Iron Co.
-Right Shoulder
-Est. Clearance Time: 6:00 PM","2/8/24, 4:23 PM","2/8/24, 6:00 PM","2/8/24, 4:23 PM",View on map,37.77491,-112.995101
-UT-Incident--175180,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
-NB I-15 at MP 304 (2700 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:06 PM","2/8/24, 5:07 PM","2/8/24, 6:06 PM","2/8/24, 5:07 PM",View on map,40.707874,-111.90397
 UT-Incident--175172,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
@@ -8720,12 +8711,6 @@ UT-Incident--175177,Incidents,Main St,Iron County,Main St at Nichols Canyon Rd,"
 EB Main St at Nichols Canyon Rd Iron Co.
 Right Lane Closed
 Est. Clearance Time: 5:55 PM","2/8/24, 5:01 PM","2/8/24, 5:55 PM","2/8/24, 5:01 PM",View on map,37.720228,-113.055602
-UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
-Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",View on map,37.677725,-112.846981
 UT-Incident--175174,Incidents,SR 201,Salt Lake County,SR 201 at MP 5,"Crash
 EB SR 201 at MP 5 (E of SR-202) Salt Lake Co.
 Right Shoulder
@@ -8737,3 +8722,34 @@ UT-Incident--175179,Incidents,Wall Ave,Weber County,Wall Ave at 22nd St,"Crash
 NB Wall Ave at 22nd St Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","2/8/24, 5:04 PM","2/8/24, 6:00 PM","2/8/24, 5:04 PM",View on map,41.227045,-111.978726
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175173,Incidents,I-15,Iron County,I-15 at MP 67,"Crash
+SB I-15 at MP 67 (3 mi N of Cedar City) Iron Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","2/8/24, 4:23 PM","2/8/24, 7:00 PM","2/8/24, 5:57 PM",,37.77491,-112.995101
+UT-Incident--175180,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:06 PM","2/8/24, 5:07 PM","2/8/24, 6:06 PM","2/8/24, 5:07 PM",,40.707874,-111.90397
+UT-Incident--175181,Incidents,I-70,Sevier County,I-70 at MP 52,"Crash
+EB I-70 at MP 52 (12 mi E of Richfield) Sevier Co.
+Right Shoulder
+Est. Clearance Time: 6:27 PM","2/8/24, 5:29 PM","2/8/24, 6:27 PM","2/8/24, 5:29 PM",,38.887776,-111.913608
+UT-Incident--175184,Incidents,MAIN ST,Iron County,MAIN ST at NICHOLS CANYON RD,"Crash
+SB Main St at Canyon Ranch Rd Iron Co.
+Est. Clearance Time: 7:00 PM","2/8/24, 6:03 PM","2/8/24, 7:00 PM","2/8/24, 6:06 PM",,37.724424,-113.049915
+UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.653126,-112.985953
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",,37.677725,-112.846981
+UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",,40.619107,-111.786281
+UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",,40.572095,-111.773814
+UT-Incident--175185,Incidents,SR 248,Summit County,SR 248 at MP 13,"NB SR 248 Closed
+ at MP 13 (1.5 MI from Main St) Summit Co.
+Use Alt Route","2/8/24, 6:22 PM","2/8/24, 7:20 PM","2/8/24, 6:22 PM",,40.639986,-111.309001
