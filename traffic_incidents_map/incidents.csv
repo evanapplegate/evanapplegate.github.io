@@ -8825,7 +8825,6 @@ Est. Clearance Time: 5:00 AM","2/9/24, 1:14 AM","2/9/24, 5:00 AM","2/9/24, 3:27 
 UT-Incident--175214,Incidents,I-15,Weber County,I-15 at MP 343,"SB I-15 Closed
  at MP 343 (Ogden) Weber Co.
 Use Alt Route","2/9/24, 3:53 AM","2/9/24, 5:30 AM","2/9/24, 4:43 AM",View on map,41.218498,-112.004065
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175217,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 SB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
@@ -8836,6 +8835,7 @@ Traction Devices Required for All Vehicles","2/8/24, 11:12 PM","2/9/24, 10:00 AM
 UT-Incident--175204,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 EB US 6 MP 180-232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 11:12 PM","2/9/24, 12:00 PM","2/8/24, 11:12 PM",View on map,40.058914,-111.564458
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175221,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
 NB I-15 at MP 354 (Box Elder) Box Elder Co.
