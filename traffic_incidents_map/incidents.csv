@@ -8952,20 +8952,20 @@ UT-Incident--175245,Incidents,SR 190,Salt Lake County,SR 190 at MP 7,"Crash
 WB SR 190 at MP 7 (4 MI into Big Cttnwd Cnyn) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:41 AM","2/9/24, 10:42 AM","2/9/24, 11:41 AM","2/9/24, 10:42 AM",View on map,40.634069,-111.711455
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175248,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:10 PM","2/9/24, 1:11 PM","2/9/24, 2:10 PM","2/9/24, 1:11 PM",View on map,40.770664,-112.009234
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175242,Incidents,I-15,Box Elder County,I-15 at MP 394,"Crash
-NB I-15 at MP 394 (6 Mi S of UT border) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 11:18 AM","2/9/24, 10:18 AM","2/9/24, 11:18 AM","2/9/24, 10:18 AM",View on map,41.909561,-112.171428
 UT-Incident--175249,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:22 PM","2/9/24, 1:23 PM","2/9/24, 2:22 PM","2/9/24, 1:24 PM",View on map,40.775011,-111.949343
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175242,Incidents,I-15,Box Elder County,I-15 at MP 394,"Crash
+NB I-15 at MP 394 (6 Mi S of UT border) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 11:18 AM","2/9/24, 10:18 AM","2/9/24, 11:18 AM","2/9/24, 10:18 AM",View on map,41.909561,-112.171428
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
@@ -8978,6 +8978,10 @@ Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24,
 UT-Incident--175247,Incidents,SR 190,Salt Lake County,SR 190 at MP 7,"Crash
 EB SR 190 at MP 7 (4 MI into Big Cttnwd Cnyn) Salt Lake Co.
 Est. Clearance Time: 1:34 PM","2/9/24, 12:35 PM","2/9/24, 1:34 PM","2/9/24, 12:35 PM",View on map,40.634069,-111.711455
+UT-Incident--175250,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:28 PM","2/9/24, 1:28 PM","2/9/24, 2:28 PM","2/9/24, 1:28 PM",View on map,40.72606,-111.962907
 UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",View on map,40.572095,-111.773814
