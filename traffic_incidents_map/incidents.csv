@@ -8775,36 +8775,40 @@ NB I-15 at MP 372 (Honeyville) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 9:15 PM","2/8/24, 8:13 PM","2/8/24, 9:15 PM","2/8/24, 8:22 PM",,41.625024,-112.09268
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175196,Incidents,I-15,Beaver County,I-15 at MP 107,"Crash
 SB I-15 at MP 107 (1 mi S of Beaver) Beaver Co.
 Left Lane Closed
 Est. Clearance Time: 10:30 PM","2/8/24, 7:29 PM","2/8/24, 10:30 PM","2/8/24, 9:10 PM",,38.223888,-112.649474
-UT-Incident--175198,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
-NB I-15 Closed at MP 245 (1 mi N of Santaquin) Utah Co.
-Est. Clearance Time: 10:00 PM","2/8/24, 8:43 PM","2/8/24, 11:00 PM","2/8/24, 9:35 PM",,39.977775,-111.770508
 UT-Incident--175200,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Shoulder
 Est. Clearance Time: 11:30 PM","2/8/24, 10:31 PM","2/8/24, 11:30 PM","2/8/24, 10:31 PM",,40.753891,-111.622581
-UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
-Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.653126,-112.985953
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",,37.677725,-112.846981
-UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
-Both Directions SR 143 MP 4-50  Iron Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",,37.828866,-112.814606
-UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",,40.619107,-111.786281
-UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",,40.572095,-111.773814
-UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
-Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",,40.624634,-111.501637
 UT-Incident--175188,Incidents,US 191,Duchesne County,US 191 at MP 261,"Roadway Restriction
 Both Directions US 191 MP 261-272 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required For Semis","2/8/24, 6:30 PM","2/9/24, 12:00 PM","2/8/24, 6:30 PM",,39.822816,-110.785101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175198,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
+NB I-15 Closed at MP 245 (1 mi N of Santaquin) Utah Co.
+Est. Clearance Time: 10:00 PM","2/8/24, 8:43 PM","2/8/24, 11:00 PM","2/8/24, 9:35 PM",View on map,39.977775,-111.770508
+UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",View on map,37.653126,-112.985953
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/8/24, 5:14 AM",View on map,37.677725,-112.846981
+UT-Incident--175199,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
+Both Directions SR 143 MP 4-50  Iron Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 9:27 PM","2/10/24, 10:24 PM","2/8/24, 9:27 PM",View on map,37.828866,-112.814606
+UT-Incident--175182,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Big Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:39 PM","2/10/24, 6:00 AM","2/8/24, 5:39 PM",View on map,40.619107,-111.786281
+UT-Incident--175183,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 2-10 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 5:41 PM","2/10/24, 6:00 AM","2/8/24, 5:41 PM",View on map,40.572095,-111.773814
+UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
+Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",View on map,40.624634,-111.501637
+UT-Incident--175201,Incidents,US 6,Utah County,US 6 at MP 186,"Stalled Vehicle
+WB US 6 at MP 186 (Billys Mtn View Area) Utah Co.
+3 Right Lanes Closed
+Est. Clearance Time: 11:47 PM","2/8/24, 10:48 PM","2/8/24, 11:47 PM","2/8/24, 10:48 PM",View on map,40.00534,-111.491875
