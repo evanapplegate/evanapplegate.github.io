@@ -9148,7 +9148,6 @@ UT-Incident--175301,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:15 PM","2/10/24, 1:16 PM","2/10/24, 2:15 PM","2/10/24, 1:16 PM",,40.079244,-111.709158
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175305,Incidents,I-15,Utah County,I-15 at MP 284,"Debris
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Est. Clearance Time: 2:59 PM","2/10/24, 2:00 PM","2/10/24, 2:59 PM","2/10/24, 2:00 PM",,40.431127,-111.890772
@@ -9156,14 +9155,15 @@ UT-Incident--175304,Incidents,SR 252,Cache County,SR 252 at MP 5,"Crash
 Other SR 252 at MP 5 (2500 N) Cache Co.
 Est. Clearance Time: 2:41 PM","2/10/24, 1:48 PM","2/10/24, 2:41 PM","2/10/24, 1:57 PM",,41.770705,-111.858456
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175303,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 17,"Crash
-NB Bangerter Hwy at MP 17 (4700 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 2:36 PM","2/10/24, 1:39 PM","2/10/24, 2:36 PM","2/10/24, 1:39 PM",,40.668487,-111.981506
 UT-Incident--175302,Incidents,I-70,Sevier County,I-70 at MP 43,"Vehicle on fire
 WB I-70 at MP 43 (Richfield) Sevier Co.
 Left Lane Closed
 Est. Clearance Time: 2:31 PM","2/10/24, 1:36 PM","2/10/24, 2:31 PM","2/10/24, 1:37 PM",,38.818578,-112.048899
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175303,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 17,"Crash
+NB Bangerter Hwy at MP 17 (4700 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:36 PM","2/10/24, 1:39 PM","2/10/24, 2:36 PM","2/10/24, 1:39 PM",,40.668487,-111.981506
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
