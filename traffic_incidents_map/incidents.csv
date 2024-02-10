@@ -9134,7 +9134,6 @@ Est. Clearance Time: 9:57 AM","2/10/24, 8:59 AM","2/10/24, 9:57 AM","2/10/24, 9:
 UT-Incident--175298,Incidents,COTTONWOOD ST,Salt Lake County,COTTONWOOD ST at 7200 S,"Crash
 SB COTTONWOOD ST at 7200 S Salt Lake Co.
 Est. Clearance Time: 11:43 AM","2/10/24, 10:44 AM","2/10/24, 11:43 AM",,,40.620636,-111.899903
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175297,Incidents,SR 92,Utah County,SR 92 at MP 9,"Crash
 Other SR 92 at MP 9 (1 Mi E of Alpine) Utah Co.
 Est. Clearance Time: 11:41 AM","2/10/24, 10:43 AM","2/10/24, 11:41 AM","2/10/24, 10:43 AM",,40.437361,-111.724982
@@ -9142,9 +9141,14 @@ UT-Incident--175296,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Est. Clearance Time: 11:30 AM","2/10/24, 9:00 AM","2/10/24, 11:30 AM","2/10/24, 10:57 AM",,40.35648,-111.576663
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175299,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+SB I-15 at MP 296 (8000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:12 PM","2/10/24, 12:13 PM","2/10/24, 1:12 PM","2/10/24, 12:13 PM",,40.592858,-111.902495
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",View on map,37.653126,-112.985953
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",View on map,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
