@@ -9099,11 +9099,14 @@ Est. Clearance Time: 10:35 PM","2/9/24, 9:31 PM","2/9/24, 10:35 PM",,,40.107795,
 UT-Incident--175277,Incidents,SR 7,Washington County,SR 7 at MP 13,"Crash
 Both Directions SR 7 at MP 13 (Sand Hollow) Washington Co.
 Est. Clearance Time: 11:00 PM","2/9/24, 7:15 PM","2/9/24, 11:00 PM",,,37.108271,-113.402551
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175288,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2/10/2024 1:00 AM","2/9/24, 11:33 PM","2/10/24, 1:00 AM","2/9/24, 11:33 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175286,Incidents,SR 172,Salt Lake County,SR 172 at MP 9,"Crash
+SB 5600 W at I-80 Fwy Salt Lake Co.
+Est. Clearance Time: 11:30 PM","2/9/24, 10:00 PM","2/9/24, 11:30 PM","2/10/24, 12:56 AM",,40.769015,-112.02505
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
@@ -9111,9 +9114,6 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/8/24, 12:16 PM",,37.6
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
-UT-Incident--175286,Incidents,SR 172,Salt Lake County,SR 172 at MP 9,"Crash
-SB 5600 W at I-80 Fwy Salt Lake Co.
-Est. Clearance Time: 11:30 PM","2/9/24, 10:00 PM","2/9/24, 11:30 PM","2/10/24, 12:56 AM",,40.769015,-112.02505
 UT-Incident--175269,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
 Both Directions US 191 MP 260-272 (Indian Canyon) Carbon/Duchesne Co.
 Approved Traction Devices Required For All Vehicles","2/9/24, 5:56 PM","2/17/24, 12:00 PM","2/9/24, 5:56 PM",,39.809161,-110.778864
