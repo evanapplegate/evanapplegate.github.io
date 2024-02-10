@@ -9029,16 +9029,16 @@ Est. Clearance Time: 7:35 PM","2/9/24, 6:23 PM","2/9/24, 7:35 PM","2/9/24, 6:23 
 UT-Incident--175191,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/8/24, 6:45 PM","2/10/24, 6:00 AM","2/8/24, 6:45 PM",,40.624634,-111.501637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175254,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
+NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 7:00 PM","2/9/24, 2:11 PM","2/9/24, 7:00 PM",,,39.967345,-111.783318
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175275,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 8600 S,"Crash
 SB Bangerter Hwy at 8600 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:00 PM","2/9/24, 7:03 PM","2/9/24, 8:00 PM",,,0.0,0.0
-UT-Incident--175254,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
-NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 7:00 PM","2/9/24, 2:11 PM","2/9/24, 7:00 PM",,,39.967345,-111.783318
 UT-Incident--175271,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Left Lane Closed
@@ -9065,6 +9065,9 @@ UT-Incident--175267,Incidents,SR 198,Utah County,SR 198 at MP 2,"Crash
 SB SR 198 at MP 2 (12680 S) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","2/9/24, 5:20 PM","2/9/24, 6:30 PM",,,39.999257,-111.751327
+UT-Incident--175277,Incidents,SR 7,Washington County,SR 7 at MP 13,"Crash
+Both Directions SR 7 at MP 13 (Sand Hollow) Washington Co.
+Est. Clearance Time: 11:00 PM","2/9/24, 7:15 PM","2/9/24, 11:00 PM",,,37.108271,-113.402551
 UT-Incident--175270,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Est. Clearance Time: 7:15 PM","2/9/24, 6:06 PM","2/9/24, 7:15 PM",,,40.35648,-111.576663
