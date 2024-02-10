@@ -9055,7 +9055,6 @@ Est. Clearance Time: 7:15 PM","2/9/24, 6:06 PM","2/9/24, 7:15 PM",,,40.35648,-11
 UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
 WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM",,,40.333619,-111.261279
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175274,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
@@ -9073,13 +9072,18 @@ EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:29 PM","2/9/24, 8:29 PM","2/9/24, 9:29 PM",,,40.750653,-111.708179
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175279,Incidents,I-15,Juab County,I-15 at MP 219,"Crash
+NB I-15 at MP 219 (4 mi S of Nephi) Juab Co.
+Est. Clearance Time: 9:30 PM","2/9/24, 8:14 PM","2/9/24, 9:30 PM",,,39.649016,-111.897156
+UT-Incident--175282,Incidents,US 6,Utah County,US 6 at MP 180,"Crash
+NB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:21 PM","2/9/24, 8:24 PM","2/9/24, 9:21 PM",,,40.058914,-111.564458
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175278,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Right Shoulder
 Est. Clearance Time: 8:57 PM","2/9/24, 7:58 PM","2/9/24, 8:57 PM",,,38.631515,-112.610353
-UT-Incident--175279,Incidents,I-15,Juab County,I-15 at MP 219,"Crash
-NB I-15 at MP 219 (4 mi S of Nephi) Juab Co.
-Est. Clearance Time: 9:30 PM","2/9/24, 8:14 PM","2/9/24, 9:30 PM",,,39.649016,-111.897156
 UT-Incident--175280,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 9:30 PM","2/9/24, 8:16 PM","2/9/24, 9:30 PM",,,38.617668,-112.609775
@@ -9099,7 +9103,3 @@ Est. Clearance Time: 11:00 PM","2/9/24, 7:15 PM","2/9/24, 11:00 PM",,,37.108271,
 UT-Incident--175269,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
 Both Directions US 191 MP 260-272 (Indian Canyon) Carbon/Duchesne Co.
 Approved Traction Devices Required For All Vehicles","2/9/24, 5:56 PM","2/17/24, 12:00 PM",,,39.809161,-110.778864
-UT-Incident--175282,Incidents,US 6,Utah County,US 6 at MP 180,"Crash
-NB US 6 at MP 180 (2 Mi E of US-89) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:21 PM","2/9/24, 8:24 PM","2/9/24, 9:21 PM",,,40.058914,-111.564458
