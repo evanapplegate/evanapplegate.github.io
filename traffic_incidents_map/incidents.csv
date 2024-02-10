@@ -9033,7 +9033,6 @@ UT-Incident--175254,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
 NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","2/9/24, 2:11 PM","2/9/24, 7:00 PM",,,39.967345,-111.783318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175275,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 8600 S,"Crash
 SB Bangerter Hwy at 8600 S Salt Lake Co.
 Right Lane Closed
@@ -9057,6 +9056,7 @@ UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
 WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM",,,40.333619,-111.261279
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175274,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
@@ -9069,6 +9069,12 @@ UT-Incident--175278,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Right Shoulder
 Est. Clearance Time: 8:57 PM","2/9/24, 7:58 PM","2/9/24, 8:57 PM",,,38.631515,-112.610353
+UT-Incident--175279,Incidents,I-15,Juab County,I-15 at MP 219,"Crash
+NB I-15 at MP 219 (4 mi S of Nephi) Juab Co.
+Est. Clearance Time: 9:30 PM","2/9/24, 8:14 PM","2/9/24, 9:30 PM",,,39.649016,-111.897156
+UT-Incident--175280,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 9:30 PM","2/9/24, 8:16 PM","2/9/24, 9:30 PM",,,38.617668,-112.609775
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM",,,37.653126,-112.985953
