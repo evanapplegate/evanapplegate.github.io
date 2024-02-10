@@ -9034,7 +9034,6 @@ NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","2/9/24, 2:11 PM","2/9/24, 7:00 PM",,,39.967345,-111.783318
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175275,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 8600 S,"Crash
 SB Bangerter Hwy at 8600 S Salt Lake Co.
 Right Lane Closed
@@ -9047,6 +9046,17 @@ UT-Incident--175273,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:27 PM","2/9/24, 6:30 PM","2/9/24, 7:27 PM",,,40.74966,-111.90976
+UT-Incident--175267,Incidents,SR 198,Utah County,SR 198 at MP 2,"Crash
+SB SR 198 at MP 2 (12680 S) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","2/9/24, 5:20 PM","2/9/24, 6:30 PM",,,39.999257,-111.751327
+UT-Incident--175270,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Est. Clearance Time: 7:15 PM","2/9/24, 6:06 PM","2/9/24, 7:15 PM",,,40.35648,-111.576663
+UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
+WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM",,,40.333619,-111.261279
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175274,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
@@ -9055,25 +9065,19 @@ UT-Incident--175276,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
 NB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 8:09 PM","2/9/24, 7:10 PM","2/9/24, 8:09 PM",,,37.600834,-113.162952
+UT-Incident--175278,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
+NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
+Right Shoulder
+Est. Clearance Time: 8:57 PM","2/9/24, 7:58 PM","2/9/24, 8:57 PM",,,38.631515,-112.610353
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM",,,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM",,,37.677725,-112.846981
-UT-Incident--175267,Incidents,SR 198,Utah County,SR 198 at MP 2,"Crash
-SB SR 198 at MP 2 (12680 S) Utah Co.
-Right Shoulder
-Est. Clearance Time: 6:30 PM","2/9/24, 5:20 PM","2/9/24, 6:30 PM",,,39.999257,-111.751327
 UT-Incident--175277,Incidents,SR 7,Washington County,SR 7 at MP 13,"Crash
 Both Directions SR 7 at MP 13 (Sand Hollow) Washington Co.
 Est. Clearance Time: 11:00 PM","2/9/24, 7:15 PM","2/9/24, 11:00 PM",,,37.108271,-113.402551
-UT-Incident--175270,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Est. Clearance Time: 7:15 PM","2/9/24, 6:06 PM","2/9/24, 7:15 PM",,,40.35648,-111.576663
 UT-Incident--175269,Incidents,US 191,Carbon County,US 191 at MP 260,"Roadway Restriction
 Both Directions US 191 MP 260-272 (Indian Canyon) Carbon/Duchesne Co.
 Approved Traction Devices Required For All Vehicles","2/9/24, 5:56 PM","2/17/24, 12:00 PM",,,39.809161,-110.778864
-UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
-WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM",,,40.333619,-111.261279
