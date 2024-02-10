@@ -9120,7 +9120,6 @@ UT-Incident--175291,Incidents,US 40,Summit County,US 40 at MP 3,"Stalled Vehicle
 EB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:41 AM","2/10/24, 5:41 AM","2/10/24, 6:41 AM","2/10/24, 5:41 AM",,40.696221,-111.4715
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175293,Incidents,3500 S,Salt Lake County,3500 S at 3200 W,"Crash
 NB 3500 S at 3200 W Salt Lake Co.
 Right Lane Closed
@@ -9128,6 +9127,7 @@ Est. Clearance Time: 9:38 AM","2/10/24, 8:41 AM","2/10/24, 9:38 AM","2/10/24, 8:
 UT-Incident--175294,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
 EB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
 Est. Clearance Time: 9:47 AM","2/10/24, 8:50 AM","2/10/24, 9:47 AM","2/10/24, 8:50 AM",,40.696221,-111.4715
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
