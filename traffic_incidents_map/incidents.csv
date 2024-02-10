@@ -9056,7 +9056,6 @@ UT-Incident--175264,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
 WB US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 5:35 PM","2/9/24, 4:24 PM","2/9/24, 5:35 PM",,,40.333619,-111.261279
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175274,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
@@ -9065,6 +9064,15 @@ UT-Incident--175276,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
 NB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 8:09 PM","2/9/24, 7:10 PM","2/9/24, 8:09 PM",,,,
+UT-Incident--175281,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 On Ramp (Main St / Spanish Fork) Utah Co.
+Cleared at 8:22 PM
+Est. Clearance Time: 9:35 PM","2/9/24, 8:23 PM","2/9/24, 9:35 PM",,,40.122652,-111.658929
+UT-Incident--175283,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Lane Closure
+EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:29 PM","2/9/24, 8:29 PM","2/9/24, 9:29 PM",,,40.750653,-111.708179
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175278,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Right Shoulder
@@ -9075,18 +9083,10 @@ Est. Clearance Time: 9:30 PM","2/9/24, 8:14 PM","2/9/24, 9:30 PM",,,39.649016,-1
 UT-Incident--175280,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 9:30 PM","2/9/24, 8:16 PM","2/9/24, 9:30 PM",,,38.617668,-112.609775
-UT-Incident--175281,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
-SB I-15 at MP 257 On Ramp (Main St / Spanish Fork) Utah Co.
-Cleared at 8:22 PM
-Est. Clearance Time: 9:35 PM","2/9/24, 8:23 PM","2/9/24, 9:35 PM",,,40.122652,-111.658929
 UT-Incident--175284,Incidents,I-15,Beaver County,I-15 at MP 120,"Crash
 NB I-15 at MP 120 (9 mi N of Beaver) Beaver Co.
 Right Shoulder
 Est. Clearance Time: 9:28 PM","2/9/24, 8:30 PM","2/9/24, 9:28 PM",,,38.411117,-112.653001
-UT-Incident--175283,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Lane Closure
-EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 9:29 PM","2/9/24, 8:29 PM","2/9/24, 9:29 PM",,,40.750653,-111.708179
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM",,,37.653126,-112.985953
