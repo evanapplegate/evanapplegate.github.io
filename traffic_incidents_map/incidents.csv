@@ -9204,7 +9204,6 @@ UT-Incident--175323,Incidents,5600 S,Weber County,5600 S at 1900 W,"Crash
 EB 5600 S at 1900 W Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:15 PM","2/10/24, 9:04 PM","2/10/24, 10:15 PM","2/10/24, 9:04 PM",,41.161715,-112.026044
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175306,Incidents,Redwood Rd,Utah County,Redwood Rd at Pioneer Crossing,"Signal problems/Treat as 4 Way Stop
 All Directions Redwood Rd at Pioneer Crossing Utah Co.
 Est. Clearance Time: 4:36 PM","2/10/24, 3:51 PM","2/10/24, 4:36 PM","2/10/24, 3:51 PM",,40.37269,-111.916361
@@ -9213,12 +9212,6 @@ UT-Incident--175320,Incidents,I-15,Utah County,I-15 at MP 263,"Vehicle on fire
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:46 PM","2/10/24, 8:47 PM","2/10/24, 9:46 PM","2/10/24, 9:01 PM",,40.203376,-111.655441
-UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
-Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
-UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
 UT-Incident--175321,Incidents,US 40,Wasatch County,US 40 at MP 19,"Crash
 US 40 at MP 19 (Heber) Wasatch Co.
 Est. Clearance Time: 10:00 PM","2/10/24, 8:47 PM","2/10/24, 10:00 PM","2/10/24, 8:47 PM",,40.480704,-111.400864
@@ -9226,3 +9219,10 @@ UT-Incident--175324,Incidents,US 40,Wasatch County,US 40 at MP 13,"Stalled Vehic
 NB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 PM","2/10/24, 9:33 PM","2/10/24, 10:45 PM","2/10/24, 9:33 PM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",View on map,37.653126,-112.985953
+UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",View on map,37.677725,-112.846981
