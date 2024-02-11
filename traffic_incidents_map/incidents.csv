@@ -9238,10 +9238,10 @@ SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:06 AM","2/11/24, 2:06 AM","2/11/24, 3:06 AM","2/11/24, 2:06 AM",,40.688869,-111.951947
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175331,Incidents,5400 S,Salt Lake County,5400 S at 5415 S/Cougar Ln,"Lane Closure
 Both Directions 5400 S at 5415 S/Cougar Ln Salt Lake Co.
 Est. Clearance Time: 3:25 AM","2/11/24, 2:25 AM","2/11/24, 3:25 AM","2/11/24, 2:25 AM",,40.652793,-112.007707
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175329,Incidents,I-70,Grand County,I-70 at MP 227,"Crash
 WB I-70 at MP 227 (4 mi W of UT/CO border) Grand Co.
 Est. Clearance Time: 4:00 AM","2/11/24, 12:30 AM","2/11/24, 4:00 AM","2/11/24, 12:53 AM",,39.17889,-109.123608
@@ -9251,3 +9251,7 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.6
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
+UT-Incident--175332,Incidents,US 89,Box Elder County,US 89 at MP 431,"Crash
+Both Directions US 89 at MP 431 (3000 S / Perry) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 3:50 AM","2/11/24, 2:50 AM","2/11/24, 3:50 AM","2/11/24, 2:50 AM",,41.454315,-112.038678
