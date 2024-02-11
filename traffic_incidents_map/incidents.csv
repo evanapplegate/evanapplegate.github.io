@@ -9184,7 +9184,6 @@ UT-Incident--175316,Incidents,I-15,Utah County,I-15 at MP 269,"Stalled Vehicle
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:29 PM","2/10/24, 7:31 PM","2/10/24, 8:29 PM","2/10/24, 7:31 PM",,40.274259,-111.718248
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175310,Incidents,I-15,Millard County,I-15 at MP 140,"Crash
 SB I-15 at MP 140 (6 mi N of Cove Fort) Millard Co.
 Left Shoulder
@@ -9201,6 +9200,7 @@ UT-Incident--175319,Incidents,Washington Blvd,Weber County,Washington Blvd at 20
 NB Washington Blvd at 20th St Weber Co.
 Left Lane Closed
 Est. Clearance Time: 9:35 PM","2/10/24, 8:20 PM","2/10/24, 9:35 PM",,,41.231111,-111.970233
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175323,Incidents,5600 S,Weber County,5600 S at 1900 W,"Crash
 EB 5600 S at 1900 W Weber Co.
