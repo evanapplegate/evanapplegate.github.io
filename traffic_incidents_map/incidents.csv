@@ -9254,7 +9254,6 @@ UT-Incident--175334,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 1:50 PM","2/11/24, 12:49 PM","2/11/24, 1:50 PM","2/11/24, 12:49 PM",,38.488562,-112.618222
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175336,Incidents,I-15 SB X305C ON 1300 RAMP,Salt Lake County,I-15 SB X305C ON 1300 RAMP at 1300 S,"Medical
 SB I-15 On 1500 S Collector Ramp (Salt Lake County)
 Right Shoulder
@@ -9268,6 +9267,7 @@ UT-Incident--175338,Incidents,I-15 SB X261 On SR 75 Ramp,Utah County,I-15 SB X26
 SB I-15 1400 N/ SR 75 On Ramp (Utah County
 Right Shoulder
 Est. Clearance Time: 3:20 PM","2/11/24, 2:21 PM","2/11/24, 3:20 PM","2/11/24, 2:21 PM",,40.187769,-111.648637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175337,Incidents,SR 118,Sevier County,SR 118 at MP 12,"Crash
 Both Directions SR 118 at MP 12 (2.5 MI of Richfield) Sevier Co.
 Est. Clearance Time: 3:10 PM","2/11/24, 2:03 PM","2/11/24, 3:10 PM","2/11/24, 2:08 PM",,38.713241,-112.105361
