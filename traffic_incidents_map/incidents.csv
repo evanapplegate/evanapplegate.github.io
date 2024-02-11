@@ -9230,11 +9230,14 @@ US 6 at MP 203 (Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:55 PM","2/10/24, 10:49 PM","2/10/24, 11:55 PM","2/10/24, 10:49 PM",,39.943541,-111.202593
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175328,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Lane Closure
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:58 AM","2/10/24, 11:59 PM","2/11/24, 12:58 AM","2/11/24, 12:10 AM",,40.649847,-111.90236
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175329,Incidents,I-70,Grand County,I-70 at MP 227,"Crash
+WB I-70 at MP 227 (4 mi W of UT/CO border) Grand Co.
+Est. Clearance Time: 1:30 AM","2/11/24, 12:30 AM","2/11/24, 1:30 AM","2/11/24, 12:30 AM",,39.17889,-109.123608
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
