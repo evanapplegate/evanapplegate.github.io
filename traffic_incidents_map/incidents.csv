@@ -9207,7 +9207,6 @@ Est. Clearance Time: 10:15 PM","2/10/24, 9:04 PM","2/10/24, 10:15 PM","2/10/24, 
 UT-Incident--175306,Incidents,Redwood Rd,Utah County,Redwood Rd at Pioneer Crossing,"Signal problems/Treat as 4 Way Stop
 All Directions Redwood Rd at Pioneer Crossing Utah Co.
 Est. Clearance Time: 4:36 PM","2/10/24, 3:51 PM","2/10/24, 4:36 PM","2/10/24, 3:51 PM",,40.37269,-111.916361
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175320,Incidents,I-15,Utah County,I-15 at MP 263,"Vehicle on fire
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Shoulder
@@ -9219,6 +9218,7 @@ UT-Incident--175324,Incidents,US 40,Wasatch County,US 40 at MP 13,"Stalled Vehic
 NB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 PM","2/10/24, 9:33 PM","2/10/24, 10:45 PM","2/10/24, 9:33 PM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
