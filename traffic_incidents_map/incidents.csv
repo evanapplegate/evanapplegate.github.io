@@ -9312,15 +9312,15 @@ SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Cleared at 8:22 AM
 Expect Residual Delays","2/12/24, 8:01 AM","2/12/24, 9:00 AM","2/12/24, 8:22 AM",,41.194004,-112.002614
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175352,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Right Lanes Closed
-Est. Clearance Time: 9:00 AM","2/12/24, 7:51 AM","2/12/24, 9:00 AM","2/12/24, 9:02 AM",,40.480607,-111.902252
 UT-Incident--175354,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N, Kaysville) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:45 AM","2/12/24, 8:45 AM","2/12/24, 9:45 AM","2/12/24, 8:45 AM",,41.03203,-111.947814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175352,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:45 AM","2/12/24, 7:51 AM","2/12/24, 9:45 AM","2/12/24, 9:35 AM",,40.480607,-111.902252
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
