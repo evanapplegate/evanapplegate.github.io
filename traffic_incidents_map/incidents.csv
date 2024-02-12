@@ -9323,7 +9323,11 @@ Est. Clearance Time: 9:45 AM","2/12/24, 7:51 AM","2/12/24, 9:45 AM","2/12/24, 9:
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",View on map,37.653126,-112.985953
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/10/24, 8:38 AM",,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",View on map,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
+UT-Incident--175355,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+SB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 11:40 AM","2/12/24, 10:32 AM","2/12/24, 11:40 AM","2/12/24, 10:33 AM",,40.35648,-111.576663
