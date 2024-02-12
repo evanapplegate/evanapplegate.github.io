@@ -9335,7 +9335,6 @@ WB 5400 S at 2200 W Salt Lake Co.
 WB Right Lane Closed
 NB 2200 W Closed
 Est. Clearance Time: 2:07 PM","2/12/24, 1:08 PM","2/12/24, 2:07 PM","2/12/24, 1:08 PM",,40.653066,-111.949893
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175359,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 22,"Crash
 NB Bangerter Hwy at MP 22 (1400 S) Salt Lake Co.
 Left Lane Closed
@@ -9343,6 +9342,7 @@ Est. Clearance Time: 2:13 PM","2/12/24, 1:14 PM","2/12/24, 2:13 PM","2/12/24, 1:
 UT-Incident--175360,Incidents,I-215w NB X23 Off 700 N Ramp,Salt Lake County,I-215w NB X23 Off 700 N Ramp at 700 N,"Crash
 NB I-215w 700 N Off Ramp (Salt Lake County)
 Est. Clearance Time: 2:40 PM","2/12/24, 1:40 PM","2/12/24, 2:40 PM","2/12/24, 1:40 PM",,40.77986,-111.948846
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
