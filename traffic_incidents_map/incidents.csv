@@ -9280,7 +9280,6 @@ UT-Incident--175343,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:05 PM","2/11/24, 9:06 PM","2/11/24, 10:05 PM","2/11/24, 9:44 PM",,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175345,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 Ramp SB I-15 at MP 265 (Center St Exit) Utah Co.
 Right Shoulder
@@ -9289,6 +9288,7 @@ UT-Incident--175344,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 WB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:30 PM","2/11/24, 9:40 PM","2/11/24, 11:30 PM","2/11/24, 10:58 PM",,40.64406,-111.929407
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
