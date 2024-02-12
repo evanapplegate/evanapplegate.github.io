@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Deck.gl Visualization Example</title>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css" rel="stylesheet">
+
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
+    </style>
+</head>
+
+<body>
+<div id="map"></div>
+<div id="tooltip" style="position: absolute; z-index: 9; display: none; background: white; padding: 10px; border-radius: 5px; font-size: 12px;"></div>
+
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js"></script>
+<script src="https://unpkg.com/deck.gl@8.4.0/dist.min.js"></script>
+<script src="deckgl_script_test.js" type="text/javascript"></script>
+</body>
+</html>
