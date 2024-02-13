@@ -9394,7 +9394,6 @@ WB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","2/13/24, 7:33 AM","2/13/24, 8:45 AM","2/13/24, 7:33 AM",,40.764633,-111.972427
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175380,Incidents,900 W NB TO I-15 I-80 RAMP,Salt Lake County,900 W NB TO I-15 I-80 RAMP at I-80,"Crash
 EB SR 201 900 W On Ramp Salt Lake Co.
 Est. Clearance Time: 8:45 AM","2/13/24, 7:47 AM","2/13/24, 8:45 AM","2/13/24, 7:48 AM",,40.723619,-111.917012
@@ -9402,6 +9401,15 @@ UT-Incident--175377,Incidents,Midland Dr,Weber County,Midland Dr at 1900 W,"Cras
 Both Directions Midland Dr at 1900 W Weber Co.
 Center Lanes Closed
 Est. Clearance Time: 8:20 AM","2/13/24, 7:21 AM","2/13/24, 8:20 AM","2/13/24, 7:28 AM",,41.205374,-112.025826
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175382,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+SB I-15 at MP 319 (Parrish Ln) Davis Co.
+Right Shoulder
+Est. Clearance Time: 9:50 AM","2/13/24, 8:42 AM","2/13/24, 9:50 AM","2/13/24, 9:07 AM",,40.914229,-111.891449
+UT-Incident--175383,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
+SB I-15 at MP 321 (2100 N, Centrvl) Davis Co.
+Left Shoulder
+Est. Clearance Time: 10:00 AM","2/13/24, 8:52 AM","2/13/24, 10:00 AM","2/13/24, 9:02 AM",,40.943029,-111.891485
 UT-Incident--175381,Incidents,SR 116,Sanpete County,SR 116 at MP 5,"Crash
 SR 116 at MP 5 (5 MI of SR-132 Jct Moroni) Sanpete Co.
 Est. Clearance Time: 9:15 AM","2/13/24, 8:13 AM","2/13/24, 9:15 AM","2/13/24, 8:13 AM",,39.546755,-111.493942
@@ -9411,3 +9419,7 @@ Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.6
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/15/24, 12:00 PM","2/12/24, 5:47 PM",,37.677725,-112.846981
+UT-Incident--175384,Incidents,Washington Blvd,Weber County,Washington Blvd 2700,"Crash
+NB Washington Blvd at 27th St (Weber County)
+Center Lane Closed
+Est. Clearance Time: 10:00 AM","2/13/24, 8:59 AM","2/13/24, 10:00 AM","2/13/24, 8:59 AM",,41.216579,-111.970559
