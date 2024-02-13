@@ -9464,7 +9464,6 @@ UT-Incident--175398,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
 SB SR 36 at MP 61 (Stansbury Park) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","2/13/24, 3:33 PM","2/13/24, 4:30 PM","2/13/24, 3:52 PM",,40.626191,-112.29223
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175401,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Stalled Vehicle
 NB I-15 at MP 288 On Ramp (14600 S) Salt Lake Co.
 Left Lane Closed
@@ -9473,15 +9472,19 @@ Est. Clearance Time: 5:15 PM","2/13/24, 4:08 PM","2/13/24, 5:15 PM","2/13/24, 4:
 UT-Incident--175399,Incidents,I-15,Iron County,I-15 at MP 62,"Crash
 SB I-15 at MP 62 On Ramp (Cedar City) Iron Co.
 Est. Clearance Time: 4:45 PM","2/13/24, 3:38 PM","2/13/24, 4:45 PM","2/13/24, 3:38 PM",,37.722619,-113.058258
+UT-Incident--175395,Incidents,US 40,Duchesne County,US 40 at MP 74,"Crash
+US 40 at MP 74 (7 mi W of Starvation) Duchesne Co.
+Est. Clearance Time: 4:15 PM","2/13/24, 3:04 PM","2/13/24, 4:15 PM","2/13/24, 3:04 PM",,40.180875,-110.629418
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/15/24, 12:00 PM","2/12/24, 5:47 PM",,37.677725,-112.846981
+UT-Incident--175403,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
+SB SR 36 Closed at MP 59 (Erda Way) Tooele Co.
+Est. Clearance Time: 5:45 PM","2/13/24, 4:29 PM","2/13/24, 5:45 PM","2/13/24, 4:29 PM",,40.597521,-112.294273
 UT-Incident--175402,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
 NB US 189 at MP 28 (1300 S) Wasatch Co.
 Est. Clearance Time: 5:15 PM","2/13/24, 4:12 PM","2/13/24, 5:15 PM","2/13/24, 4:12 PM",,40.484644,-111.426263
-UT-Incident--175395,Incidents,US 40,Duchesne County,US 40 at MP 74,"Crash
-US 40 at MP 74 (7 mi W of Starvation) Duchesne Co.
-Est. Clearance Time: 4:15 PM","2/13/24, 3:04 PM","2/13/24, 4:15 PM","2/13/24, 3:04 PM",,40.180875,-110.629418
