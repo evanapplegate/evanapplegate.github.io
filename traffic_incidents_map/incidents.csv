@@ -9359,7 +9359,6 @@ NB Highland Dr at Fort Union Blvd
 Salt Lake Co.
 NB to WB Right turn lanes closed
 Est. Clearance Time: 4:33 PM","2/12/24, 3:35 PM","2/12/24, 4:33 PM","2/12/24, 3:37 PM",,40.626663,-111.834008
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175366,Incidents,Foothill Dr,Salt Lake County,Foothill Dr at 1700 S,"Crash
 SB Foothill Dr at 1700 S Salt Lake Co.
 Left Lane Closed
@@ -9369,12 +9368,13 @@ EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","2/12/24, 3:44 PM","2/12/24, 4:45 PM","2/12/24, 3:44 PM",,40.35648,-111.576663
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
-Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/10/24, 12:00 PM","2/9/24, 1:08 PM",,37.677725,-112.846981
+Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/15/24, 12:00 PM","2/12/24, 5:47 PM",,37.677725,-112.846981
 UT-Incident--175367,Incidents,SR 73,Utah County,SR 73 at MP 27,"Crash
 WB SR 73 at MP 27 (2 MI NE of Cedar Fort) Utah Co.
 Right Shoulder
