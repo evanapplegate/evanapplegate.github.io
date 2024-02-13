@@ -9382,15 +9382,19 @@ UT-Incident--175375,Incidents,US 89,Box Elder County,US 89 at MP 430,"Crash
 US 89 at MP 430 (3750 S / Brigham City) Box Elder Co.
 Est. Clearance Time: 6:30 AM","2/13/24, 5:33 AM","2/13/24, 6:30 AM","2/13/24, 5:33 AM",,41.440012,-112.03661
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175376,Incidents,I-15 NB X300 Off 5300 S Ramp,Salt Lake County,I-15 NB X300 Off 5300 S Ramp at 5300 S,"Crash
 NB I-15 5300 S Off Ramp (Salt Lake County)
 Right Lane Closed
 Est. Clearance Time: 8:00 AM","2/13/24, 7:01 AM","2/13/24, 8:00 AM","2/13/24, 7:01 AM",,40.65268,-111.901349
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175378,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+NB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","2/13/24, 7:26 AM","2/13/24, 8:30 AM","2/13/24, 7:26 AM",,40.316406,-111.72616
 UT-Incident--175377,Incidents,Midland Dr,Weber County,Midland Dr at 1900 W,"Crash
-NB Midland Dr at 1900 W Weber Co.
-Center Lane Closed
-Est. Clearance Time: 8:20 AM","2/13/24, 7:21 AM","2/13/24, 8:20 AM","2/13/24, 7:21 AM",,41.205374,-112.025826
+Both Directions Midland Dr at 1900 W Weber Co.
+Center Lanes Closed
+Est. Clearance Time: 8:20 AM","2/13/24, 7:21 AM","2/13/24, 8:20 AM","2/13/24, 7:28 AM",,41.205374,-112.025826
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
 Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
