@@ -9393,7 +9393,6 @@ UT-Incident--175379,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 WB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","2/13/24, 7:33 AM","2/13/24, 8:45 AM","2/13/24, 7:33 AM",,40.764633,-111.972427
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175380,Incidents,900 W NB TO I-15 I-80 RAMP,Salt Lake County,900 W NB TO I-15 I-80 RAMP at I-80,"Crash
 EB SR 201 900 W On Ramp Salt Lake Co.
 Est. Clearance Time: 8:45 AM","2/13/24, 7:47 AM","2/13/24, 8:45 AM","2/13/24, 7:48 AM",,40.723619,-111.917012
@@ -9401,6 +9400,7 @@ UT-Incident--175377,Incidents,Midland Dr,Weber County,Midland Dr at 1900 W,"Cras
 Both Directions Midland Dr at 1900 W Weber Co.
 Center Lanes Closed
 Est. Clearance Time: 8:20 AM","2/13/24, 7:21 AM","2/13/24, 8:20 AM","2/13/24, 7:28 AM",,41.205374,-112.025826
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175382,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
