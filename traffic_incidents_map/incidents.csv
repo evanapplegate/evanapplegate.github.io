@@ -9487,7 +9487,6 @@ Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:0
 UT-Incident--175403,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 SB SR 36 Closed at MP 59 (Erda Way) Tooele Co.
 Est. Clearance Time: 5:45 PM","2/13/24, 4:29 PM","2/13/24, 5:45 PM","2/13/24, 4:29 PM",,40.597521,-112.294273
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175407,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Shoulder
@@ -9496,6 +9495,11 @@ UT-Incident--175406,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
 WB SR 201 at MP 9 (6800 W) Salt Lake Co.
 Est. Clearance Time: 7:35 PM","2/13/24, 6:27 PM","2/13/24, 7:35 PM","2/13/24, 6:27 PM",,40.718554,-112.056887
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175408,Incidents,Hwy 198,Utah County,Hwy 198 at 100 E,"Crash
+WB Hwy 198 at 100 E (Salem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:00 PM","2/13/24, 7:03 PM","2/13/24, 8:00 PM","2/13/24, 7:03 PM",,40.057238,-111.672842
 UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
 Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",View on map,37.653126,-112.985953
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
