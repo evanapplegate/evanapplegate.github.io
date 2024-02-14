@@ -9538,7 +9538,6 @@ UT-Incident--175418,Incidents,I-80,Summit County,I-80 at MP 172,"Crash
 EB I-80 at MP 172 (4 mi W of Emory) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 9:40 AM","2/14/24, 8:34 AM","2/14/24, 9:40 AM","2/14/24, 8:34 AM",,41.012773,-111.369567
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175420,Incidents,2100 S,Salt Lake County,2100 S 400,"Crash
 EB 2100 S at 400 W (Salt Lake County)
 Center Lanes Closed
@@ -9546,6 +9545,7 @@ Est. Clearance Time: 11:00 AM","2/14/24, 9:45 AM","2/14/24, 11:00 AM","2/14/24, 
 UT-Incident--175419,Incidents,MAIN ST,Davis County,MAIN ST 651,"Crash
 Main St at 800 N (Centerville) Davis Co.
 Est. Clearance Time: 10:15 AM","2/14/24, 9:08 AM","2/14/24, 10:15 AM","2/14/24, 9:08 AM",,40.926362,-111.878917
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175421,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 NB I-15 at MP 263 (University Ave / Provo) Utah Co.
