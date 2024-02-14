@@ -9474,7 +9474,6 @@ Est. Clearance Time: 4:45 PM","2/13/24, 3:38 PM","2/13/24, 4:45 PM","2/13/24, 3:
 UT-Incident--175395,Incidents,US 40,Duchesne County,US 40 at MP 74,"Crash
 US 40 at MP 74 (7 mi W of Starvation) Duchesne Co.
 Est. Clearance Time: 4:15 PM","2/13/24, 3:04 PM","2/13/24, 4:15 PM","2/13/24, 3:04 PM",,40.180875,-110.629418
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175402,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
 NB US 189 at MP 28 (1300 S) Wasatch Co.
 Est. Clearance Time: 5:15 PM","2/13/24, 4:12 PM","2/13/24, 5:15 PM","2/13/24, 4:12 PM",,40.484644,-111.426263
@@ -9483,12 +9482,20 @@ UT-Incident--175404,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Vehicle on f
 NB I-15 at MP 300 (5500 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:45 PM","2/13/24, 4:48 PM","2/13/24, 5:45 PM","2/13/24, 4:48 PM",,40.649847,-111.90236
-UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
-Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
-Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
 UT-Incident--174906,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Dirs SR 143 at MP 17-27 (1 Mi S of Brian Head) Iron Co.
 Road Closed Due to Adverse Weather Conditions Until Further Notice","2/5/24, 7:00 AM","2/15/24, 12:00 PM","2/12/24, 5:47 PM",,37.677725,-112.846981
 UT-Incident--175403,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 SB SR 36 Closed at MP 59 (Erda Way) Tooele Co.
 Est. Clearance Time: 5:45 PM","2/13/24, 4:29 PM","2/13/24, 5:45 PM","2/13/24, 4:29 PM",,40.597521,-112.294273
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175407,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 at MP 296 (8000 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:30 PM","2/13/24, 6:31 PM","2/13/24, 7:30 PM","2/13/24, 6:31 PM",,40.592858,-111.902495
+UT-Incident--175156,Incidents,SR 14,Iron County,SR 14 at MP 5,"Roadway Restriction
+Both Dirs SR 14 MP 5 - 41 (3 Mi E of Cedar City) Iron Co.
+Semis Prohibited","2/8/24, 12:16 PM","2/9/24, 12:00 PM","2/12/24, 3:10 PM",,37.653126,-112.985953
+UT-Incident--175406,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+WB SR 201 at MP 9 (6800 W) Salt Lake Co.
+Est. Clearance Time: 7:35 PM","2/13/24, 6:27 PM","2/13/24, 7:35 PM","2/13/24, 6:27 PM",,40.718554,-112.056887
