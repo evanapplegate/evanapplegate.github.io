@@ -9563,11 +9563,15 @@ Est. Clearance Time: 1:50 PM","2/14/24, 12:21 PM","2/14/24, 1:50 PM","2/14/24, 1
 UT-Incident--175425,Incidents,1900 W,Weber County,1900 W at 6000 S,"Crash
 All Directions 1900 W at 6000 S Weber Co.
 Est. Clearance Time: 1:30 PM","2/14/24, 12:24 PM","2/14/24, 1:30 PM","2/14/24, 12:24 PM",,41.154435,-112.026056
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175422,Incidents,I-15,Davis County,I-15 at MP 335,"Construction
 Both Directions I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Lanes Closed, Expect Delays
 Est. Clearance Time: 2:00 PM","2/14/24, 10:40 AM","2/14/24, 2:00 PM","2/14/24, 1:16 PM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175430,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+SB I-15 at MP 292 Off Ramp (11400 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:35 PM","2/14/24, 3:17 PM","2/14/24, 4:35 PM","2/14/24, 3:17 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175427,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
@@ -9576,7 +9580,3 @@ Est. Clearance Time: 3:30 PM","2/14/24, 2:28 PM","2/14/24, 3:30 PM","2/14/24, 3:
 UT-Incident--175428,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Est. Clearance Time: 5:00 PM","2/14/24, 3:02 PM","2/14/24, 5:00 PM","2/14/24, 3:02 PM",,41.155128,-112.024901
-UT-Incident--175430,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
-SB I-15 at MP 292 Off Ramp (11400 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 4:35 PM","2/14/24, 3:17 PM","2/14/24, 4:35 PM","2/14/24, 3:17 PM",,40.53585,-111.892927
