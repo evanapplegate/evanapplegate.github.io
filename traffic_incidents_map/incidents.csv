@@ -9610,7 +9610,6 @@ NB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:23 PM","2/14/24, 6:24 PM","2/14/24, 7:23 PM","2/14/24, 6:24 PM",,40.621691,-111.903876
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175440,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
@@ -9619,10 +9618,11 @@ UT-Incident--175443,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 Collector at MP 296 (8500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:30 PM","2/14/24, 7:33 PM","2/14/24, 8:30 PM","2/14/24, 7:33 PM",,40.592858,-111.902495
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175437,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 7:15 PM","2/14/24, 6:12 PM","2/14/24, 7:15 PM","2/14/24, 6:12 PM",,40.630157,-111.858352
+Est. Clearance Time: 7:45 PM","2/14/24, 6:12 PM","2/14/24, 7:45 PM","2/14/24, 7:37 PM",,40.630157,-111.858352
 UT-Incident--175442,Incidents,I-80,Summit County,I-80 at MP 144,"Crash
 WB I-80 Onramp at MP 144 (Kimball Jct/ SR-224 Jct) Summit Co.
 Est. Clearance Time: 8:15 PM","2/14/24, 7:24 PM","2/14/24, 8:15 PM","2/14/24, 7:24 PM",,40.728806,-111.546712
