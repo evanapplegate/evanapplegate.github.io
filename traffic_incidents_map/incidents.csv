@@ -9664,15 +9664,15 @@ NB I-15 at MP 22 (SR-228 Jct / Leeds) Washington Co.
 Right Shoulder
 Est. Clearance Time: 6:00 AM","2/15/24, 3:17 AM","2/15/24, 6:00 AM","2/15/24, 4:42 AM",,37.227818,-113.375714
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175458,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct, Murray) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:00 AM","2/15/24, 6:57 AM","2/15/24, 8:00 AM","2/15/24, 6:57 AM",,40.631909,-111.904381
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175457,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S Onramp, Draper) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 AM","2/15/24, 5:40 AM","2/15/24, 6:45 AM","2/15/24, 5:40 AM",,40.52103,-111.891246
-UT-Incident--175458,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-NB I-15 at MP 299 (I-15/I-215 Jct, Murray) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 8:00 AM","2/15/24, 6:57 AM","2/15/24, 8:00 AM","2/15/24, 6:57 AM",,40.631909,-111.904381
 UT-Incident--175459,Incidents,SR 12,Garfield County,SR 12 at MP 80,"Crash
 SR 12 at MP 80 (1 Mi W of Boulder) Garfield Co.
 Est. Clearance Time: 8:00 AM","2/15/24, 6:58 AM","2/15/24, 8:00 AM","2/15/24, 6:58 AM",,37.849103,-111.428587
@@ -9685,3 +9685,6 @@ Traction Devices Required for all Vehicles","2/15/24, 4:00 AM","2/16/24, 5:00 AM
 UT-Incident--175456,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 SR-224 (Empire Pass) between MP 2 and 5. Summit Co. 
 Approved traction devices required for all vehicles ","2/15/24, 5:03 AM","2/16/24, 6:00 AM","2/15/24, 5:03 AM",,40.624634,-111.501637
+UT-Incident--175460,Incidents,SR 36,Tooele County,SR 36 at MP 46,"Crash
+SR 36 at MP 46 (Rush Lake) Tooele Co.
+Est. Clearance Time: 8:30 AM","2/15/24, 7:21 AM","2/15/24, 8:30 AM","2/15/24, 7:21 AM",,40.430058,-112.378827
