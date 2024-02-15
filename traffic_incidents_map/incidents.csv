@@ -9699,7 +9699,6 @@ UT-Incident--175472,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 10:20 AM","2/15/24, 9:22 AM","2/15/24, 10:20 AM","2/15/24, 9:22 AM",,40.329534,-111.619014
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175474,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 EB SR-193 at 1000 W (Syracuse) Davis Co.
 Intersection Blocked
@@ -9711,6 +9710,7 @@ UT-Incident--175477,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Stalled
 EB I-215 S at MP 10 (State St) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:12 AM","2/15/24, 10:15 AM","2/15/24, 11:12 AM","2/15/24, 10:15 AM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
 SR-32 at MP 33 Wasatch Co.
