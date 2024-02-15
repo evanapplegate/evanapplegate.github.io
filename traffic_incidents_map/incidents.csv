@@ -9748,16 +9748,6 @@ EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
 Left Shoulder
 Est. Clearance Time: 1:15 PM","2/15/24, 12:04 PM","2/15/24, 1:15 PM","2/15/24, 12:04 PM",,40.654652,-111.457229
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175454,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 (Big Cottonwood Canyon) Salt Lake Co.
-Traction Devices Required for all Vehicles","2/15/24, 3:57 AM","2/16/24, 5:00 AM","2/15/24, 4:09 AM",,40.619107,-111.786281
-UT-Incident--175455,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 (Little Cottonwood Canyon) Salt Lake Co.
-Traction Devices Required for all Vehicles","2/15/24, 4:00 AM","2/16/24, 5:00 AM","2/15/24, 4:09 AM",,40.572095,-111.773814
-UT-Incident--175456,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-SR-224 (Empire Pass) between MP 2 and 5. Summit Co. 
-Approved traction devices required for all vehicles ","2/15/24, 5:03 AM","2/16/24, 6:00 AM","2/15/24, 5:03 AM",,40.624634,-111.501637
 UT-Incident--175483,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 NB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Est. Clearance Time: 2:17 PM","2/15/24, 1:18 PM","2/15/24, 2:17 PM","2/15/24, 1:18 PM",,40.362967,-111.560551
@@ -9768,3 +9758,13 @@ UT-Incident--175485,Incidents,Washington Blvd,Weber County,Washington Blvd at 40
 SB Washington Blvd at 40th St (Ogden) Weber Co.
 SB Closed
 Est. Clearance Time: 3:00 PM","2/15/24, 1:47 PM","2/15/24, 3:00 PM","2/15/24, 1:47 PM",,41.190252,-111.971183
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175454,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 (Big Cottonwood Canyon) Salt Lake Co.
+Traction Devices Required for all Vehicles","2/15/24, 3:57 AM","2/16/24, 5:00 AM","2/15/24, 4:09 AM",,40.619107,-111.786281
+UT-Incident--175455,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 (Little Cottonwood Canyon) Salt Lake Co.
+Traction Devices Required for all Vehicles","2/15/24, 4:00 AM","2/16/24, 5:00 AM","2/15/24, 4:09 AM",,40.572095,-111.773814
+UT-Incident--175456,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+SR-224 (Empire Pass) between MP 2 and 5. Summit Co. 
+Approved traction devices required for all vehicles ","2/15/24, 5:03 AM","2/16/24, 6:00 AM","2/15/24, 5:03 AM",,40.624634,-111.501637
