@@ -9577,7 +9577,6 @@ Cleared: Expect Delays In The Area","2/14/24, 3:02 PM","2/14/24, 4:15 PM","2/14/
 UT-Incident--175431,Incidents,SR 113,Wasatch County,SR 113 at MP 7,"Crash
 Both Directions SR 113 at MP 7 (100 W) Wasatch Co.
 Est. Clearance Time: 4:45 PM","2/14/24, 3:48 PM","2/14/24, 4:45 PM","2/14/24, 3:48 PM",,40.506398,-111.416147
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175433,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 Off Ramp (Bngrtr Hwy) Salt Lake Co.
 Right Lane Closed
@@ -9591,6 +9590,7 @@ UT-Incident--175427,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","2/14/24, 2:28 PM","2/14/24, 5:30 PM","2/14/24, 4:26 PM",,40.079244,-111.709158
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175432,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 SB I-15 at MP 294 (10200 S) Salt Lake Co.
 Left Lane Closed
