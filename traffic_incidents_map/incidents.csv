@@ -9678,7 +9678,6 @@ Est. Clearance Time: 9:15 AM","2/15/24, 8:15 AM","2/15/24, 9:15 AM","2/15/24, 8:
 UT-Incident--175460,Incidents,SR 36,Tooele County,SR 36 at MP 46,"Crash
 SR 36 at MP 46 (Rush Lake) Tooele Co.
 Est. Clearance Time: 8:30 AM","2/15/24, 7:21 AM","2/15/24, 8:30 AM","2/15/24, 7:21 AM",,40.430058,-112.378827
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175463,Incidents,24th St,Weber County,24th St at Washington Blvd,"Crash
 EB 24th St at Washington Blvd Weber Co.
 Est. Clearance Time: 9:14 AM","2/15/24, 8:16 AM","2/15/24, 9:14 AM",,,41.22277,-111.971488
@@ -9686,6 +9685,7 @@ UT-Incident--175461,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/15/24, 8:11 AM","2/15/24, 9:15 AM",,,41.070056,-111.973468
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
 SR-32 at MP 33 Wasatch Co.
