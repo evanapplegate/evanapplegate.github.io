@@ -1,0 +1,28 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Map Request Form</title>
+</head>
+<body>
+    <h1>Map Request</h1>
+    <form id="mapForm" method="post">
+        <label for="map_request">Enter your map request:</label><br>
+        <textarea id="map_request" name="map_request" rows="4" cols="50"></textarea><br>
+        <input type="submit" value="Generate Map">
+    </form>
+    <div id="loadingMessage" style="display:none;">Generating maps...</div>
+    <script>
+        document.getElementById('mapForm').onsubmit = function() {
+            document.getElementById('loadingMessage').style.display = 'block';
+        };
+    </script>
+    {% if image_files %}
+        <h2>Any of these maps work?</h2>
+        {% for image_file in image_files %}
+            <img src="{{ image_file }}" alt="Generated Map" width="60%">
+        {% endfor %}
+    {% endif %}
+</body>
+</html>
