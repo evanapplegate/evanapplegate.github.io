@@ -9685,7 +9685,6 @@ UT-Incident--175461,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/15/24, 8:11 AM","2/15/24, 9:15 AM",,,41.070056,-111.973468
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175470,Incidents,I-84,Box Elder County,I-84 at MP 33,"Crash
 EB I-84 at MP 33 (20 mil N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:30 AM","2/15/24, 9:17 AM","2/15/24, 10:30 AM",,,41.796778,-112.293707
@@ -9697,6 +9696,7 @@ NB US 89 at Antelope Drive Davis Co.
 Right Shoulder 
 Est. Clearance Time: 9:41 AM","2/15/24, 8:43 AM","2/15/24, 9:41 AM",,,41.093906,-111.910648
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175474,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 EB SR-193 at 1000 W (Syracuse) Davis Co.
 Intersection Blocked
@@ -9707,6 +9707,10 @@ Est. Clearance Time: 10:15 AM","2/15/24, 9:03 AM","2/15/24, 10:15 AM","2/15/24, 
 UT-Incident--175476,Incidents,I-15,Box Elder County,I-15 at MP 379,"Crash
 NB I-15 at MP 379 (Tremonton) Box Elder Co.
 Est. Clearance Time: 10:59 AM","2/15/24, 10:00 AM","2/15/24, 10:59 AM","2/15/24, 10:00 AM",,41.698166,-112.178764
+UT-Incident--175477,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Stalled Vehicle
+EB I-215 S at MP 10 (State St) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 11:12 AM","2/15/24, 10:15 AM","2/15/24, 11:12 AM","2/15/24, 10:15 AM",,40.63036,-111.877391
 UT-Incident--175467,Incidents,I-84,Box Elder County,I-84 at MP 30,"Crash
 EB I-84 at MP 30 (17 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:00 AM","2/15/24, 8:58 AM","2/15/24, 10:00 AM","2/15/24, 8:58 AM",,41.809649,-112.339374
