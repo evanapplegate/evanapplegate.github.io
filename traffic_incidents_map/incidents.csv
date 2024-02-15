@@ -9731,7 +9731,6 @@ Approved Traction Devices Required","2/15/24, 9:42 AM","2/16/24, 12:00 PM","2/15
 UT-Incident--175475,Incidents,Washington Blvd,Weber County,Washington Blvd at 24th St,"Crash
  Washington Blvd at 25th St Weber Co.
 Est. Clearance Time: 10:51 AM","2/15/24, 9:55 AM","2/15/24, 10:51 AM","2/15/24, 9:55 AM",,41.222756,-111.970423
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175480,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 WB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Left Shoulder
@@ -9741,6 +9740,11 @@ UT-Incident--175479,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 WB I-215 S at MP 8 (1500 E, Cottonwood Heights) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","2/15/24, 11:39 AM","2/15/24, 12:45 PM","2/15/24, 11:39 AM",,40.630959,-111.84487
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175482,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Stalled Vehicle
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 1:30 PM","2/15/24, 12:23 PM","2/15/24, 1:30 PM","2/15/24, 12:23 PM",,40.63583,-111.905066
 UT-Incident--175454,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 (Big Cottonwood Canyon) Salt Lake Co.
 Traction Devices Required for all Vehicles","2/15/24, 3:57 AM","2/16/24, 5:00 AM","2/15/24, 4:09 AM",,40.619107,-111.786281
