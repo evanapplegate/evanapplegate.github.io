@@ -9695,7 +9695,6 @@ UT-Incident--175464,Incidents,US 89,Davis County,US 89 2501,"Crash
 NB US 89 at Antelope Drive Davis Co.
 Right Shoulder 
 Est. Clearance Time: 9:41 AM","2/15/24, 8:43 AM","2/15/24, 9:41 AM",,,41.093906,-111.910648
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175472,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 2 Left Lanes Closed
@@ -9705,9 +9704,6 @@ UT-Incident--175474,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 EB SR-193 at 1000 W (Syracuse) Davis Co.
 Intersection Blocked
 Est. Clearance Time: 11:00 AM","2/15/24, 9:53 AM","2/15/24, 11:00 AM","2/15/24, 9:53 AM",,41.110642,-112.045255
-UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
-SR-32 at MP 33 Wasatch Co.
-Est. Clearance Time: 10:15 AM","2/15/24, 9:03 AM","2/15/24, 10:15 AM","2/15/24, 9:03 AM",,40.594515,-111.411562
 UT-Incident--175476,Incidents,I-15,Box Elder County,I-15 at MP 379,"Crash
 NB I-15 at MP 379 (Tremonton) Box Elder Co.
 Est. Clearance Time: 10:59 AM","2/15/24, 10:00 AM","2/15/24, 10:59 AM","2/15/24, 10:00 AM",,41.698166,-112.178764
@@ -9715,6 +9711,10 @@ UT-Incident--175477,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Stalled
 EB I-215 S at MP 10 (State St) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:12 AM","2/15/24, 10:15 AM","2/15/24, 11:12 AM","2/15/24, 10:15 AM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
+SR-32 at MP 33 Wasatch Co.
+Est. Clearance Time: 10:15 AM","2/15/24, 9:03 AM","2/15/24, 10:15 AM","2/15/24, 9:03 AM",,40.594515,-111.411562
 UT-Incident--175467,Incidents,I-84,Box Elder County,I-84 at MP 30,"Crash
 EB I-84 at MP 30 (17 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:00 AM","2/15/24, 8:58 AM","2/15/24, 10:00 AM","2/15/24, 8:58 AM",,41.809649,-112.339374
