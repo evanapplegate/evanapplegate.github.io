@@ -9678,21 +9678,27 @@ Est. Clearance Time: 9:15 AM","2/15/24, 8:15 AM","2/15/24, 9:15 AM","2/15/24, 8:
 UT-Incident--175460,Incidents,SR 36,Tooele County,SR 36 at MP 46,"Crash
 SR 36 at MP 46 (Rush Lake) Tooele Co.
 Est. Clearance Time: 8:30 AM","2/15/24, 7:21 AM","2/15/24, 8:30 AM","2/15/24, 7:21 AM",,40.430058,-112.378827
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175463,Incidents,24th St,Weber County,24th St at Washington Blvd,"Crash
 EB 24th St at Washington Blvd Weber Co.
 Est. Clearance Time: 9:14 AM","2/15/24, 8:16 AM","2/15/24, 9:14 AM",,,41.22277,-111.971488
-UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
-SR-32 at MP 33 Wasatch Co.
-Est. Clearance Time: 10:15 AM","2/15/24, 9:03 AM","2/15/24, 10:15 AM",,,40.594515,-111.411562
 UT-Incident--175461,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/15/24, 8:11 AM","2/15/24, 9:15 AM",,,41.070056,-111.973468
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175469,Incidents,HWY 32,Wasatch County,HWY 32 6261,"Crash
+SR-32 at MP 33 Wasatch Co.
+Est. Clearance Time: 10:15 AM","2/15/24, 9:03 AM","2/15/24, 10:15 AM",,,40.594515,-111.411562
 UT-Incident--175467,Incidents,I-84,Box Elder County,I-84 at MP 30,"Crash
 EB I-84 at MP 30 (17 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:00 AM","2/15/24, 8:58 AM","2/15/24, 10:00 AM",,,41.809649,-112.339374
+UT-Incident--175470,Incidents,I-84,Box Elder County,I-84 at MP 33,"Crash
+EB I-84 at MP 33 (20 mil N of Tremonton) Box Elder Co.
+Est. Clearance Time: 10:30 AM","2/15/24, 9:17 AM","2/15/24, 10:30 AM",,,41.796778,-112.293707
+UT-Incident--175471,Incidents,I-84,Box Elder County,I-84 at MP 22,"Crash
+EB I-84 at MP 22 (13 mi east of Snowville) Box Elder Co.
+Est. Clearance Time: 10:15 AM","2/15/24, 9:18 AM","2/15/24, 10:15 AM",,,41.87089,-112.464013
 UT-Incident--175459,Incidents,SR 12,Garfield County,SR 12 at MP 80,"Crash
 SR 12 at MP 80 (1 Mi W of Boulder) Garfield Co.
 Est. Clearance Time: 8:00 AM","2/15/24, 6:58 AM","2/15/24, 8:00 AM",,,37.849103,-111.428587
@@ -9711,6 +9717,10 @@ Est. Clearance Time: 10:15 AM","2/15/24, 9:01 AM","2/15/24, 10:15 AM",,,41.21625
 UT-Incident--175466,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Est. Clearance Time: 9:46 AM","2/15/24, 8:51 AM","2/15/24, 9:46 AM",,,40.348428,-111.591901
+UT-Incident--175472,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+EB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 10:20 AM","2/15/24, 9:22 AM","2/15/24, 10:20 AM",,,40.329534,-111.619014
 UT-Incident--175464,Incidents,US 89,Davis County,US 89 2501,"Crash
 NB US 89 at Antelope Drive Davis Co.
 Right Shoulder 
