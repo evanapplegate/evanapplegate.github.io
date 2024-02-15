@@ -9617,7 +9617,6 @@ UT-Incident--175443,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 Collector at MP 296 (8500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:30 PM","2/14/24, 7:33 PM","2/14/24, 8:30 PM","2/14/24, 7:33 PM",,40.592858,-111.902495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175437,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Shoulder
@@ -9629,7 +9628,12 @@ UT-Incident--175441,Incidents,SR 198,Utah County,SR 198 at MP 3,"Crash
 SR 198 at MP 3 (1900 S) Utah Co.
 Est. Clearance Time: 8:15 PM","2/14/24, 7:22 PM","2/14/24, 8:15 PM","2/14/24, 7:22 PM",,40.012938,-111.745157
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175444,Incidents,I-15,Utah County,I-15 at MP 263,"Vehicle on fire
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","2/14/24, 7:51 PM","2/14/24, 8:45 PM","2/14/24, 7:51 PM",,40.203376,-111.655441
+UT-Incident--175445,Incidents,I-15,Weber County,I-15 at MP 341,"Vehicle on fire
+NB I-15 at MP 341 (31st St, Ogden) Weber Co.
+Left Shoulder
+Est. Clearance Time: 9:16 PM","2/14/24, 8:17 PM","2/14/24, 9:16 PM","2/14/24, 8:17 PM",,41.194004,-112.002614
