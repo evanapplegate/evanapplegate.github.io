@@ -9778,7 +9778,6 @@ UT-Incident--175489,Incidents,I-15 SB X301 OFF 4500 S WB RAMP,Salt Lake County,I
 SB I-15 OFF RAMP at 4500 S Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:07 PM","2/15/24, 4:08 PM","2/15/24, 5:07 PM","2/15/24, 4:08 PM",,40.674684,-111.902363
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175491,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -9791,14 +9790,6 @@ UT-Incident--175494,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:21 PM","2/15/24, 5:22 PM","2/15/24, 6:21 PM","2/15/24, 5:23 PM",,40.492398,-111.891485
-UT-Incident--175497,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:40 PM","2/15/24, 5:41 PM","2/15/24, 6:40 PM","2/15/24, 5:41 PM",,40.480607,-111.902252
-UT-Incident--175499,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
-NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:57 PM","2/15/24, 5:58 PM","2/15/24, 6:57 PM","2/15/24, 5:58 PM",,40.492398,-111.891485
 UT-Incident--175500,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
@@ -9810,3 +9801,12 @@ UT-Incident--175495,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","2/15/24, 5:33 PM","2/15/24, 6:32 PM","2/15/24, 6:00 PM",,40.718332,-111.893095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175497,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:40 PM","2/15/24, 5:41 PM","2/15/24, 7:10 PM","2/15/24, 6:47 PM",,40.480607,-111.902252
+UT-Incident--175499,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:57 PM","2/15/24, 5:58 PM","2/15/24, 6:57 PM","2/15/24, 5:58 PM",,40.492398,-111.891485
