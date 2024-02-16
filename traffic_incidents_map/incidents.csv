@@ -9875,6 +9875,10 @@ SB Riverdale Rd at 550 W Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:45 PM","2/16/24, 1:43 PM","2/16/24, 2:45 PM",,,41.188751,-111.983123
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175525,Incidents,US 89,Weber County,US 89 at MP 415,"Crash
+SB US 89 at MP 415 (15th / Ogden) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 4:21 PM","2/16/24, 3:22 PM","2/16/24, 4:21 PM","2/16/24, 3:22 PM",,41.238174,-111.970071
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175524,Incidents,I-15,Juab County,I-15 at MP 231,"Crash
 SB I-15 at MP 231 (2 mi S of Mona) Juab Co.
@@ -9884,7 +9888,6 @@ UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Re
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 1:45 PM","2/16/24, 12:46 PM",,40.572095,-111.773814
-UT-Incident--175525,Incidents,US 89,Weber County,US 89 at MP 415,"Crash
-SB US 89 at MP 415 (15th / Ogden) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 4:21 PM","2/16/24, 3:22 PM","2/16/24, 4:21 PM","2/16/24, 3:22 PM",,41.238174,-111.970071
+UT-Incident--175526,Incidents,SR 24,Wayne County,SR 24 at MP 99,"Crash
+Both Directions SR 24 at MP 99 (Caineville) Wayne Co.
+Est. Clearance Time: 7:41 PM","2/16/24, 3:43 PM","2/16/24, 7:41 PM","2/16/24, 3:43 PM",,38.339401,-111.004128
