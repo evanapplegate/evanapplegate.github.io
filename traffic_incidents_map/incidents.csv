@@ -9836,12 +9836,20 @@ NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:58 AM","2/16/24, 6:59 AM","2/16/24, 7:58 AM",,,40.693589,-111.902881
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175510,Incidents,6200 S,Salt Lake County,6200 S at 2700 W,"Emergency Utility Work
-6200 S at 2700 W Salt Lake Co.
-All Directions Closed / Use Alt
-Est. Clearance Time: 09:00 AM","2/16/24, 6:58 AM","2/16/24, 7:55 AM",,,40.638563,-111.957816
 UT-Incident--175508,Incidents,CALIFORNIA AVE,Salt Lake County,CALIFORNIA AVE 4089,"Crash
 NB Bangerter HWY at CALIFORNIA AVE Salt Lake Co.
 WB Left Lane Closed and NB Right Lane Closed
 Est. Clearance Time: 7:33 AM","2/16/24, 6:39 AM","2/16/24, 7:33 AM",,,40.743265,-111.989302
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175510,Incidents,6200 S,Salt Lake County,6200 S at 2700 W,"Emergency Utility Work
+6200 S at 2700 W Salt Lake Co.
+All Directions Closed / Use Alt
+Est. Clearance Time: 09:00 AM","2/16/24, 6:58 AM","2/16/24, 9:00 AM","2/16/24, 7:48 AM",,40.638563,-111.957816
+UT-Incident--175514,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+SB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 8:56 AM","2/16/24, 7:57 AM","2/16/24, 8:56 AM","2/16/24, 7:57 AM",,40.431127,-111.890772
+UT-Incident--175513,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
+WB I-80 at MP 113 (5600 W / Salt Lake City) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:49 AM","2/16/24, 7:49 AM","2/16/24, 8:49 AM","2/16/24, 7:49 AM",,40.771201,-112.028497
