@@ -9785,7 +9785,6 @@ Est. Clearance Time: 5:50 PM","2/15/24, 4:42 PM","2/15/24, 5:50 PM","2/15/24, 4:
 UT-Incident--175492,Incidents,SR 18,Washington County,SR 18 at MP 15,"Crash
 SR 18 at MP 15 (Dammeron Valley) Washington Co.
 Est. Clearance Time: 5:50 PM","2/15/24, 4:44 PM","2/15/24, 5:50 PM","2/15/24, 4:44 PM",,37.276489,-113.649032
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175494,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
@@ -9802,6 +9801,7 @@ EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","2/15/24, 5:33 PM","2/15/24, 6:32 PM","2/15/24, 6:00 PM",,40.718332,-111.893095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175497,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -9810,3 +9810,7 @@ UT-Incident--175499,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:57 PM","2/15/24, 5:58 PM","2/15/24, 6:57 PM","2/15/24, 5:58 PM",,40.492398,-111.891485
+UT-Incident--175502,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Stalled Vehicle
+SB I-15 at MP 291 (12300 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 8:10 PM","2/15/24, 7:07 PM","2/15/24, 8:10 PM","2/15/24, 7:07 PM",,40.52103,-111.891246
