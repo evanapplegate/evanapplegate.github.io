@@ -9867,12 +9867,16 @@ EB US 91 Sardine Canyon MP 2 to 17 Box Elder Co.","2/16/24, 12:10 PM","2/16/24, 
 UT-Incident--175519,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction/Traction Device Reqired for all Vehicles
 WB US 91 Sardine Canyon MP 17 to 2 Cache Co.","2/16/24, 12:11 PM","2/16/24, 1:10 PM","2/16/24, 12:11 PM",,41.616749,-111.932782
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175520,Incidents,I-15,Juab County,I-15 at MP 236,"Vehicle on fire
 NB I-15 at MP 236 (3 mi N of Mona) Juab Co.
 Right Shoulder
-Est. Clearance Time: 1:41 PM","2/16/24, 12:42 PM","2/16/24, 1:41 PM","2/16/24, 12:42 PM",,39.862085,-111.832321
+Est. Clearance Time: 1:41 PM","2/16/24, 12:42 PM","2/16/24, 1:41 PM",,,39.862085,-111.832321
+UT-Incident--175523,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 530 W,"Crash
+SB Riverdale Rd at 550 W Weber Co.
+2 Left Lanes Closed
+Est. Clearance Time: 2:45 PM","2/16/24, 1:43 PM","2/16/24, 2:45 PM",,,41.188751,-111.983123
 UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
+Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM",,,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 1:45 PM","2/16/24, 12:46 PM",,40.572095,-111.773814
+Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 1:45 PM",,,40.572095,-111.773814
