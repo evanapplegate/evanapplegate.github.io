@@ -9848,11 +9848,6 @@ UT-Incident--175510,Incidents,6200 S,Salt Lake County,6200 S at 2700 W,"Emergenc
 All Directions Closed / Use Alt
 Est. Clearance Time: 09:00 AM","2/16/24, 6:58 AM","2/16/24, 9:00 AM","2/16/24, 7:48 AM",,40.638563,-111.957816
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175516,Incidents,9000 S,Salt Lake County,9000 S at 4000 W,"Crash
-9000 S at 4000 W Salt Lake Co.
-EB and NB Right Lanes Closed 
-Est. Clearance Time: 10:05 AM","2/16/24, 9:11 AM","2/16/24, 10:05 AM","2/16/24, 9:15 AM",,40.58787,-111.987747
 UT-Incident--175514,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 SB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Lane Closed
@@ -9860,6 +9855,11 @@ Est. Clearance Time: 8:56 AM","2/16/24, 7:57 AM","2/16/24, 8:56 AM","2/16/24, 7:
 UT-Incident--175515,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
 SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
 Est. Clearance Time: 9:49 AM","2/16/24, 8:50 AM","2/16/24, 9:49 AM","2/16/24, 9:17 AM",,40.87142,-111.897275
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175516,Incidents,9000 S,Salt Lake County,9000 S at 4000 W,"Crash
+9000 S at 4000 W Salt Lake Co.
+EB and NB Right Lanes Closed 
+Est. Clearance Time: 10:05 AM","2/16/24, 9:11 AM","2/16/24, 10:05 AM","2/16/24, 9:15 AM",,40.58787,-111.987747
 UT-Incident--175517,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 Ramp NB  I-15 at MP 297 (7200 S On Ramp) Salt Lake Co.
 Right Shoulder
