@@ -9980,7 +9980,6 @@ Est. Clearance Time: 1:07 AM","2/17/24, 12:08 AM","2/17/24, 1:07 AM","2/17/24, 1
 UT-Incident--175547,Incidents,SR 36,Tooele County,SR 36 at MP 7,"Crash
 Both Directions SR 36 at MP 7 (1 Mi from Co Line) Tooele Co.
 Est. Clearance Time: 2/17/2024 2:00 AM","2/16/24, 10:01 PM","2/17/24, 2:00 AM","2/16/24, 11:45 PM",,39.966898,-112.253256
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175554,Incidents,I-15 SB Fwy,Utah County,I-15 SB Fwy at 2100 N,"Crash
 SB I-15 Fwy at 2100 N On Ramp, Utah Co.
 Left Lane Closed
@@ -9989,6 +9988,7 @@ UT-Incident--175556,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 EB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:34 AM","2/17/24, 1:34 AM","2/17/24, 2:34 AM",,,40.362967,-111.560551
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175557,Incidents,I-15 SB COL RAMP,Salt Lake County,I-15 SB COL RAMP at I-15 SB FWY,"Crash
 SB I-15 Col Ramp to SR 201 WB (Salt Lake County)
