@@ -9968,7 +9968,6 @@ WB US 189 at MP 21 (Wallsburg) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 11:33 PM","2/16/24, 10:34 PM","2/16/24, 11:33 PM",,,40.414112,-111.480348
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175551,Incidents,I-15,Millard County,I-15 at MP 154,"Crash
 SB I-15 at MP 154 (4 mi S of Meadow) Millard Co.
 Est. Clearance Time: 2/17/2024 12:30 AM","2/16/24, 11:18 PM","2/17/24, 12:30 AM","2/16/24, 11:18 PM",,38.848365,-112.466304
@@ -9979,13 +9978,21 @@ UT-Incident--175553,Incidents,I-15 NB X282 ON 2100 N RAMP,Utah County,I-15 NB X2
 SB I-15 at 2100 N On Ramp Utah Co.
 Left Lane Closed
 Est. Clearance Time: 1:07 AM","2/17/24, 12:08 AM","2/17/24, 1:07 AM","2/17/24, 12:08 AM",,40.416938,-111.873067
-UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
-UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 11:00 PM","2/16/24, 8:44 PM",,40.572095,-111.773814
-UT-Incident--175527,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-Both Directions SR 224  MP 2-5 (Silver Strike Trail) Summit Co.
-Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM","2/16/24, 3:49 PM",,40.624634,-111.501637
 UT-Incident--175547,Incidents,SR 36,Tooele County,SR 36 at MP 7,"Crash
 Both Directions SR 36 at MP 7 (1 Mi from Co Line) Tooele Co.
 Est. Clearance Time: 2/17/2024 2:00 AM","2/16/24, 10:01 PM","2/17/24, 2:00 AM","2/16/24, 11:45 PM",,39.966898,-112.253256
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175554,Incidents,I-15 SB Fwy,Utah County,I-15 SB Fwy at 2100 N,"Crash
+SB I-15 Fwy at 2100 N On Ramp, Utah Co.
+Left Lane Closed
+Est. Clearance Time: 1:51 AM","2/17/24, 12:52 AM","2/17/24, 1:51 AM",,,40.411064,-111.864659
+UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
+Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM",,,40.619107,-111.786281
+UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
+Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 11:00 PM",,,40.572095,-111.773814
+UT-Incident--175527,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224  MP 2-5 (Silver Strike Trail) Summit Co.
+Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM",,,40.624634,-111.501637
+UT-Incident--175555,Incidents,US 40,Wasatch County,US 40 at MP 42,"Crash
+US 40 at MP 42 (Strawberry Reservoir) Wasatch Co.
+Est. Clearance Time: 2:00 AM","2/17/24, 12:52 AM","2/17/24, 2:00 AM",,,40.241387,-111.151284
