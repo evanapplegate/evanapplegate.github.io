@@ -10042,17 +10042,21 @@ UT-Incident--175569,Incidents,I-15,Utah County,I-15 at MP 267,"Vehicle on fire
 NB I-15 at MP 267 (N of Center St) Utah Co.
 Left Shoulder
 Est. Clearance Time: 4:30 PM","2/17/24, 3:31 PM","2/17/24, 4:30 PM","2/17/24, 3:31 PM",,40.251153,-111.695664
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175570,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Medical
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:12 PM","2/17/24, 4:14 PM","2/17/24, 5:12 PM","2/17/24, 4:14 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175571,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","2/17/24, 4:26 PM","2/17/24, 5:30 PM","2/17/24, 4:26 PM",,40.203376,-111.655441
 UT-Incident--175572,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
-EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+EB I-80 at MP 115 On Ramp (40th W / Salt Lake City) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:35 PM","2/17/24, 4:29 PM","2/17/24, 5:35 PM","2/17/24, 4:29 PM",,40.765165,-111.991516
+Est. Clearance Time: 5:35 PM","2/17/24, 4:29 PM","2/17/24, 5:35 PM","2/17/24, 4:37 PM",,40.765165,-111.991516
+UT-Incident--175573,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Vehicle on fire
+WB SR 201 at MP 8 (7200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","2/17/24, 4:35 PM","2/17/24, 5:45 PM","2/17/24, 4:35 PM",,40.718237,-112.076122
