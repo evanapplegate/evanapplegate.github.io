@@ -9882,16 +9882,11 @@ UT-Incident--175524,Incidents,I-15,Juab County,I-15 at MP 231,"Crash
 SB I-15 at MP 231 (2 mi S of Mona) Juab Co.
 Left Lane Closed
 Est. Clearance Time: 2:55 PM","2/16/24, 1:56 PM","2/16/24, 2:55 PM","2/16/24, 1:56 PM",,39.790156,-111.838511
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175530,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:15 PM","2/16/24, 4:11 PM","2/16/24, 5:15 PM","2/16/24, 4:11 PM",,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175529,Incidents,1000 N,Tooele County,1000 N at Main St,"Stalled Vehicle
-EB 1000 N at Main St Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 5:07 PM","2/16/24, 4:09 PM","2/16/24, 5:07 PM","2/16/24, 4:09 PM",,40.551028,-112.299148
 UT-Incident--175532,Incidents,1900 W,Weber County,1900 W at 21st St,"Crash
 SB 1900 W at 21st St Weber Co.
 2 Right Lanes Closed
@@ -9900,14 +9895,35 @@ UT-Incident--175528,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:15 PM","2/16/24, 4:05 PM","2/16/24, 5:15 PM","2/16/24, 4:05 PM",,40.664677,-111.90152
-UT-Incident--175531,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
-SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
-Left Shoulder
-Est. Clearance Time: 5:27 PM","2/16/24, 4:29 PM","2/16/24, 5:27 PM","2/16/24, 4:29 PM",,40.079244,-111.709158
 UT-Incident--175533,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:31 PM","2/16/24, 4:32 PM","2/16/24, 5:31 PM","2/16/24, 4:32 PM",,40.804836,-111.922481
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175531,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
+SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:27 PM","2/16/24, 4:29 PM","2/16/24, 5:27 PM","2/16/24, 4:29 PM",,40.079244,-111.709158
+UT-Incident--175537,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+NB I-15 at MP 280 (Lehi) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:13 PM","2/16/24, 5:15 PM","2/16/24, 6:13 PM","2/16/24, 5:15 PM",,40.39191,-111.835579
+UT-Incident--175538,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:25 PM","2/16/24, 5:26 PM","2/16/24, 6:25 PM","2/16/24, 5:26 PM",,40.63036,-111.877391
+UT-Incident--175534,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Stalled Vehicle
+EB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:55 PM","2/16/24, 4:56 PM","2/16/24, 5:55 PM","2/16/24, 4:56 PM",,40.717537,-111.836246
+UT-Incident--175529,Incidents,Main St,Tooele County,Main St at 1000 N,"Stalled Vehicle
+NB Main St at 1000 N Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 5:07 PM","2/16/24, 4:09 PM","2/16/24, 5:07 PM","2/16/24, 5:00 PM",,40.552085,-112.297932
+UT-Incident--175535,Incidents,Main St,Tooele County,Main St at 400 S,"Crash
+SB Main St at 400 S Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 PM","2/16/24, 5:01 PM","2/16/24, 6:00 PM","2/16/24, 5:01 PM",,40.523106,-112.298687
 UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
