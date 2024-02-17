@@ -9989,21 +9989,25 @@ EB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:34 AM","2/17/24, 1:34 AM","2/17/24, 2:34 AM",,,40.362967,-111.560551
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175557,Incidents,I-15 SB COL RAMP,Salt Lake County,I-15 SB COL RAMP at I-15 SB FWY,"Crash
-SB I-15 Col Ramp to SR 201 WB (Salt Lake County)
-Center Lanes Closed
-Est. Clearance Time: 2:50 AM","2/17/24, 1:52 AM","2/17/24, 2:50 AM",,,40.737417,-111.905005
-UT-Incident--175558,Incidents,I-80,Tooele County,I-80 at MP 7,"Crash
-EB I-80 at MP 7 (5 mi E of Wendover) Tooele Co.
-Est. Clearance Time: 3:40 AM","2/17/24, 2:33 AM","2/17/24, 3:40 AM",,,40.740598,-113.913011
-UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM",,,40.619107,-111.786281
-UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 11:00 PM",,,40.572095,-111.773814
-UT-Incident--175527,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-Both Directions SR 224  MP 2-5 (Silver Strike Trail) Summit Co.
-Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM",,,40.624634,-111.501637
 UT-Incident--175555,Incidents,US 40,Wasatch County,US 40 at MP 42,"Crash
 US 40 at MP 42 (Strawberry Reservoir) Wasatch Co.
 Est. Clearance Time: 2:00 AM","2/17/24, 12:52 AM","2/17/24, 3:15 AM",,,40.241387,-111.151284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175559,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Left Shoulder
+Est. Clearance Time: 3:50 AM","2/17/24, 2:50 AM","2/17/24, 3:50 AM","2/17/24, 2:50 AM",,40.37568,-111.816698
+UT-Incident--175557,Incidents,I-15 SB COL RAMP,Salt Lake County,I-15 SB COL RAMP at I-15 SB FWY,"Crash
+SB I-15 Col Ramp to SR 201 WB (Salt Lake County)
+Center Lanes Closed
+Est. Clearance Time: 2:50 AM","2/17/24, 1:52 AM","2/17/24, 2:50 AM","2/17/24, 1:52 AM",,40.737417,-111.905005
+UT-Incident--175558,Incidents,I-80,Tooele County,I-80 at MP 7,"Crash
+EB I-80 at MP 7 (5 mi E of Wendover) Tooele Co.
+Est. Clearance Time: 3:40 AM","2/17/24, 2:33 AM","2/17/24, 3:40 AM","2/17/24, 2:33 AM",,40.740598,-113.913011
+UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
+Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
+UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
+Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 11:00 PM","2/16/24, 8:44 PM",,40.572095,-111.773814
+UT-Incident--175527,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224  MP 2-5 (Silver Strike Trail) Summit Co.
+Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM","2/16/24, 3:49 PM",,40.624634,-111.501637
