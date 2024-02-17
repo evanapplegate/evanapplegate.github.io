@@ -9967,7 +9967,6 @@ UT-Incident--175549,Incidents,US 189,Wasatch County,US 189 at MP 21,"Crash
 WB US 189 at MP 21 (Wallsburg) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 11:33 PM","2/16/24, 10:34 PM","2/16/24, 11:33 PM",,,40.414112,-111.480348
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175551,Incidents,I-15,Millard County,I-15 at MP 154,"Crash
 SB I-15 at MP 154 (4 mi S of Meadow) Millard Co.
 Est. Clearance Time: 2/17/2024 12:30 AM","2/16/24, 11:18 PM","2/17/24, 12:30 AM","2/16/24, 11:18 PM",,38.848365,-112.466304
@@ -9981,6 +9980,7 @@ Est. Clearance Time: 1:07 AM","2/17/24, 12:08 AM","2/17/24, 1:07 AM","2/17/24, 1
 UT-Incident--175547,Incidents,SR 36,Tooele County,SR 36 at MP 7,"Crash
 Both Directions SR 36 at MP 7 (1 Mi from Co Line) Tooele Co.
 Est. Clearance Time: 2/17/2024 2:00 AM","2/16/24, 10:01 PM","2/17/24, 2:00 AM","2/16/24, 11:45 PM",,39.966898,-112.253256
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175554,Incidents,I-15 SB Fwy,Utah County,I-15 SB Fwy at 2100 N,"Crash
 SB I-15 Fwy at 2100 N On Ramp, Utah Co.
