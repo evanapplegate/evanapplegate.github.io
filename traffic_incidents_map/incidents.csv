@@ -9948,7 +9948,6 @@ Est. Clearance Time: 10:22 PM","2/16/24, 9:22 PM","2/16/24, 10:22 PM","2/16/24, 
 UT-Incident--175526,Incidents,SR 24,Wayne County,SR 24 at MP 99,"Crash
 Both Directions SR 24 at MP 99 (Caineville) Wayne Co.
 Est. Clearance Time: 7:41 PM","2/16/24, 3:43 PM","2/16/24, 11:00 PM",,,38.339401,-111.004128
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175542,Incidents,I-15,Millard County,I-15 at MP 165,"Crash
 SB I-15 at MP 165 (400 N / Fillmore) Millard Co.
 Est. Clearance Time: 8:30 PM","2/16/24, 7:17 PM","2/16/24, 8:30 PM",,,38.971626,-112.342173
@@ -9968,6 +9967,7 @@ UT-Incident--175549,Incidents,US 189,Wasatch County,US 189 at MP 21,"Crash
 WB US 189 at MP 21 (Wallsburg) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 11:33 PM","2/16/24, 10:34 PM","2/16/24, 11:33 PM",,,40.414112,-111.480348
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175551,Incidents,I-15,Millard County,I-15 at MP 154,"Crash
 SB I-15 at MP 154 (4 mi S of Meadow) Millard Co.
