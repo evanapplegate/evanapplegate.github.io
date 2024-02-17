@@ -9898,7 +9898,6 @@ UT-Incident--175533,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:31 PM","2/16/24, 4:32 PM","2/16/24, 5:31 PM","2/16/24, 4:32 PM",,40.804836,-111.922481
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175531,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Left Shoulder
@@ -9924,10 +9923,11 @@ UT-Incident--175537,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 NB I-15 at MP 280 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 6:13 PM","2/16/24, 5:15 PM","2/16/24, 6:13 PM","2/16/24, 5:15 PM",,40.39191,-111.835579
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175539,Incidents,I-15,Utah County,I-15 at MP 278,"Police incident
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
-Est. Clearance Time: 6:56 PM","2/16/24, 5:58 PM","2/16/24, 6:56 PM","2/16/24, 5:58 PM",,40.373184,-111.808465
+Est. Clearance Time: 6:56 PM","2/16/24, 5:58 PM","2/16/24, 6:56 PM","2/16/24, 6:53 PM",,40.373184,-111.808465
 UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
