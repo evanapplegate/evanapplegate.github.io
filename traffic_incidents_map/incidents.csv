@@ -9886,7 +9886,6 @@ UT-Incident--175530,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:15 PM","2/16/24, 4:11 PM","2/16/24, 5:15 PM","2/16/24, 4:11 PM",,40.722344,-111.904691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175532,Incidents,1900 W,Weber County,1900 W at 21st St,"Crash
 SB 1900 W at 21st St Weber Co.
 2 Right Lanes Closed
@@ -9904,10 +9903,6 @@ UT-Incident--175531,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 SB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:27 PM","2/16/24, 4:29 PM","2/16/24, 5:27 PM","2/16/24, 4:29 PM",,40.079244,-111.709158
-UT-Incident--175537,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
-NB I-15 at MP 280 (Lehi) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 6:13 PM","2/16/24, 5:15 PM","2/16/24, 6:13 PM","2/16/24, 5:15 PM",,40.39191,-111.835579
 UT-Incident--175538,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
@@ -9924,6 +9919,15 @@ UT-Incident--175535,Incidents,Main St,Tooele County,Main St at 400 S,"Crash
 SB Main St at 400 S Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 6:00 PM","2/16/24, 5:01 PM","2/16/24, 6:00 PM","2/16/24, 5:01 PM",,40.523106,-112.298687
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175537,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+NB I-15 at MP 280 (Lehi) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:13 PM","2/16/24, 5:15 PM","2/16/24, 6:13 PM","2/16/24, 5:15 PM",,40.39191,-111.835579
+UT-Incident--175539,Incidents,I-15,Utah County,I-15 at MP 278,"Police incident
+NB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:56 PM","2/16/24, 5:58 PM","2/16/24, 6:56 PM","2/16/24, 5:58 PM",,40.373184,-111.808465
 UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
