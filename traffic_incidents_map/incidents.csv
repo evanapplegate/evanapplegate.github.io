@@ -9927,18 +9927,6 @@ NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:56 PM","2/16/24, 5:58 PM","2/16/24, 6:56 PM",,,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175542,Incidents,I-15,Millard County,I-15 at MP 165,"Crash
-SB I-15 at MP 165 (400 N / Fillmore) Millard Co.
-Est. Clearance Time: 8:30 PM","2/16/24, 7:17 PM","2/16/24, 8:30 PM",,,38.971626,-112.342173
-UT-Incident--175543,Incidents,I-15,Iron County,I-15 at MP 65,"Vehicle on fire
-SB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
-Right Shoulder
-Est. Clearance Time: 8:48 PM","2/16/24, 7:49 PM","2/16/24, 8:48 PM",,,37.756376,-113.023426
-UT-Incident--175544,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
-WB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
-Right Shoulder
-Est. Clearance Time: 9:05 PM","2/16/24, 8:06 PM","2/16/24, 9:05 PM",,,40.755521,-111.587294
 UT-Incident--175541,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 SB I-84 at MP 82 On Ramp (South Weber) Weber Co.
 Right Shoulder
@@ -9946,13 +9934,25 @@ Est. Clearance Time: 8:30 PM","2/16/24, 7:14 PM","2/16/24, 8:30 PM",,,41.171852,
 UT-Incident--175540,Incidents,SR 113,Wasatch County,SR 113 at MP 5,"Crash
 SR 113 at MP 5 (100 E) Wasatch Co.
 Est. Clearance Time: 8:15 PM","2/16/24, 7:03 PM","2/16/24, 8:15 PM",,,40.509687,-111.452653
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175542,Incidents,I-15,Millard County,I-15 at MP 165,"Crash
+SB I-15 at MP 165 (400 N / Fillmore) Millard Co.
+Est. Clearance Time: 8:30 PM","2/16/24, 7:17 PM","2/16/24, 8:30 PM","2/16/24, 7:17 PM",,38.971626,-112.342173
+UT-Incident--175543,Incidents,I-15,Iron County,I-15 at MP 65,"Vehicle on fire
+SB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
+Right Shoulder
+Est. Clearance Time: 8:48 PM","2/16/24, 7:49 PM","2/16/24, 8:48 PM","2/16/24, 7:49 PM",,37.756376,-113.023426
+UT-Incident--175544,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
+WB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 9:05 PM","2/16/24, 8:06 PM","2/16/24, 9:05 PM","2/16/24, 8:06 PM",,40.755521,-111.587294
 UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM",,,40.619107,-111.786281
+Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
-Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 1:45 PM",,,40.572095,-111.773814
+Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 1:45 PM","2/16/24, 12:46 PM",,40.572095,-111.773814
 UT-Incident--175527,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224  MP 2-5 (Silver Strike Trail) Summit Co.
-Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM",,,40.624634,-111.501637
+Approved traction devices required for all vehicles ","2/16/24, 3:49 PM","2/20/24, 4:47 PM","2/16/24, 3:49 PM",,40.624634,-111.501637
 UT-Incident--175526,Incidents,SR 24,Wayne County,SR 24 at MP 99,"Crash
 Both Directions SR 24 at MP 99 (Caineville) Wayne Co.
-Est. Clearance Time: 7:41 PM","2/16/24, 3:43 PM","2/16/24, 7:41 PM",,,38.339401,-111.004128
+Est. Clearance Time: 7:41 PM","2/16/24, 3:43 PM","2/16/24, 7:41 PM","2/16/24, 3:43 PM",,38.339401,-111.004128
