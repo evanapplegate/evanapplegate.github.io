@@ -10013,12 +10013,14 @@ UT-Incident--175521,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Re
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood to Town of Brighton) Salt Lake Co.","2/16/24, 12:45 PM","2/19/24, 1:43 PM","2/16/24, 12:46 PM",,40.619107,-111.786281
 UT-Incident--175522,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction control Devices Required ALL vehicles
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood to Town of Alta) Salt Lake Co.","2/16/24, 12:46 PM","2/16/24, 11:00 PM","2/16/24, 8:44 PM",,40.572095,-111.773814
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175561,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
 NB US-89 at Ramp to EB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
 Ramp Closed
 Est. Clearance Time: 11:16 AM","2/17/24, 10:28 AM","2/17/24, 11:16 AM","2/17/24, 10:30 AM",,41.137693,-111.909879
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175563,Incidents,9000 S,Salt Lake County,9000 S at Bangerter Hwy,"Signal problems/Treat as 4 way stop
+All Directions 9000 S at Bangerter Hwy Salt Lake Co.","2/17/24, 11:18 AM","2/17/24, 12:17 PM","2/17/24, 11:18 AM",,40.587902,-111.974334
 UT-Incident--175562,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 Ramp SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Lane Closed
