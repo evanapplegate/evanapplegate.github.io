@@ -10032,7 +10032,6 @@ Ramp NB I-15 at MP 332 (Antelope Dr) Davis Co.
 EB Right Lane Closed
 Est. Clearance Time: 1:12 PM","2/17/24, 12:16 PM","2/17/24, 1:12 PM","2/17/24, 12:39 PM",,41.078599,-111.981198
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175568,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 Off Ramp (7200 S) Salt Lake Co.
 Est. Clearance Time: 4:00 PM","2/17/24, 2:58 PM","2/17/24, 4:00 PM","2/17/24, 2:58 PM",,40.607173,-111.905403
@@ -10040,3 +10039,4 @@ UT-Incident--175567,Incidents,US 89,Weber County,US 89 at MP 419,"Crash
 NB US 89 at MP 419 (1800 N / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 3:24 PM","2/17/24, 2:25 PM","2/17/24, 3:24 PM","2/17/24, 2:54 PM",,41.291245,-111.992296
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
