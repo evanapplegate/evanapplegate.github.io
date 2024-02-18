@@ -10106,11 +10106,11 @@ UT-Incident--175585,Incidents,US 40,Duchesne County,US 40 at MP 64,"Crash
 WB US 40 at MP 64 (1 mi E of Fruitland) Duchesne Co.
 Right Shoulder
 Est. Clearance Time: 3:19 AM","2/18/24, 2:20 AM","2/18/24, 3:19 AM","2/18/24, 2:20 AM",,40.205253,-110.80334
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175587,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
 EB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 8:18 AM","2/18/24, 7:18 AM","2/18/24, 8:18 AM","2/18/24, 7:18 AM",,40.405503,-111.524184
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175591,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
 NB Bangerter Hwy at 4600 S (Taylorsville)Salt Lake Co.
@@ -10137,6 +10137,9 @@ Est. Clearance Time: 9:20 AM","2/18/24, 8:15 AM","2/18/24, 9:20 AM",,,40.35648,-
 UT-Incident--175590,Incidents,US 191,Duchesne County,US 191 at MP 270,"Roadway Restriction
 Both Dirs US 191 MP 272 - 261 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required for Semis","2/18/24, 8:02 AM","2/18/24, 3:30 PM",,,39.907155,-110.708233
+UT-Incident--175595,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
+WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
+Est. Clearance Time: 9:30 AM","2/18/24, 8:24 AM","2/18/24, 9:30 AM",,,40.721584,-111.490111
 UT-Incident--175592,Incidents,US 40 WB,Summit County,US 40 WB,"Crash
 WB US 40  at MP 2 Summit Co.
 Est. Clearance Time: 9:15 AM","2/18/24, 8:11 AM","2/18/24, 9:15 AM",,,40.707551,-111.478847
