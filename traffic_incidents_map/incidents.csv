@@ -10062,7 +10062,6 @@ UT-Incident--175573,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Vehicle on
 WB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","2/17/24, 4:35 PM","2/17/24, 5:45 PM","2/17/24, 4:35 PM",,40.718237,-112.076122
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175579,Incidents,US 189,Wasatch County,US 189 at MP 19,"Crash
 EB US 189 at MP 19 (Deer Creek Reservoir) Wasatch Co.
 Left Lane Closed
@@ -10072,14 +10071,15 @@ WB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
 Cleared at 5:55 PM
 Est. Clearance Time: 6:30 PM","2/17/24, 5:16 PM","2/17/24, 6:30 PM","2/17/24, 5:55 PM",,40.696221,-111.4715
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175577,Incidents,I-15,Box Elder County,I-15 at MP 364,"Crash
 NB I-15 at MP 364 (Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","2/17/24, 5:53 PM","2/17/24, 7:00 PM","2/17/24, 5:53 PM",,41.513423,-112.061717
 UT-Incident--175580,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
-2 Right Lanes Closed
-Est. Clearance Time: 8:00 PM","2/17/24, 6:59 PM","2/17/24, 8:00 PM","2/17/24, 6:59 PM",,40.226604,-111.677837
+Left Lane Closed
+Est. Clearance Time: 8:00 PM","2/17/24, 6:59 PM","2/17/24, 8:00 PM","2/17/24, 7:07 PM",,40.226604,-111.677837
 UT-Incident--175574,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Medical
 EB SR 201 at MP 2 (SR-202) Salt Lake Co.
 Right Shoulder
