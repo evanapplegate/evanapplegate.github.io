@@ -10047,16 +10047,28 @@ SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:12 PM","2/17/24, 4:14 PM","2/17/24, 5:12 PM","2/17/24, 4:14 PM",,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175571,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","2/17/24, 4:26 PM","2/17/24, 5:30 PM","2/17/24, 4:26 PM",,40.203376,-111.655441
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175575,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
+NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6:09 PM","2/17/24, 5:09 PM","2/17/24, 6:09 PM","2/17/24, 5:09 PM",,41.169225,-112.020449
 UT-Incident--175572,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
-EB I-80 at MP 115 On Ramp (40th W / Salt Lake City) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:35 PM","2/17/24, 4:29 PM","2/17/24, 5:35 PM","2/17/24, 4:37 PM",,40.765165,-111.991516
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 5:35 PM","2/17/24, 4:29 PM","2/17/24, 5:35 PM","2/17/24, 5:29 PM",,40.765165,-111.991516
 UT-Incident--175573,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Vehicle on fire
 WB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","2/17/24, 4:35 PM","2/17/24, 5:45 PM","2/17/24, 4:35 PM",,40.718237,-112.076122
+UT-Incident--175574,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Medical
+EB SR 201 at MP 2 (SR-202) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:52 PM","2/17/24, 4:53 PM","2/17/24, 5:52 PM","2/17/24, 4:53 PM",,40.727579,-112.186092
+UT-Incident--175576,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
+WB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 6:30 PM","2/17/24, 5:16 PM","2/17/24, 6:30 PM","2/17/24, 5:16 PM",,40.696221,-111.4715
