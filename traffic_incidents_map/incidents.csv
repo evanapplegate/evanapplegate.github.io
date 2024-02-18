@@ -10114,7 +10114,6 @@ UT-Incident--175594,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 9:20 AM","2/18/24, 8:15 AM","2/18/24, 9:20 AM",,,40.35648,-111.576663
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175589,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
 SB I-15 at MP 347 (Farr West) Weber Co.
 Right Shoulder
@@ -10127,22 +10126,30 @@ UT-Incident--175591,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 47
 NB Bangerter Hwy at 4600 S (Taylorsville)Salt Lake Co.
 Left Lanes Closed
 Est. Clearance Time: 9:30 AM","2/18/24, 8:07 AM","2/18/24, 9:30 AM",,,40.667559,-111.9815
-UT-Incident--175593,Incidents,HINCKLEY DR,Weber County,HINCKLEY DR at 3600 S/MIDLAND DR,"Crash
-WB HINCKLEY DR at 3600 S/MIDLAND DR Weber Co.
-Center Lane Closed
-Est. Clearance Time: 9:15 AM","2/18/24, 8:13 AM","2/18/24, 9:15 AM",,,41.197365,-112.035573
-UT-Incident--175588,Incidents,SR 132,Juab County,SR 132 at MP 34,"Crash
-SR 132 at MP 34 (800 E Nephi) Juab Co.
-Est. Clearance Time: 8:40 AM","2/18/24, 7:39 AM","2/18/24, 8:40 AM",,,39.710036,-111.821556
-UT-Incident--175586,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
-Both Directions SR 224 between MP 2 and 5 (Empire Pass) Summit Co.
-Traction Devices Required for all Vehicles","2/18/24, 4:13 AM","2/18/24, 5:12 AM",,,40.649413,-111.49858
-UT-Incident--175596,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
-Both Dirs SR 92 at MP 27 - 23 (Sundance) Utah Co.
-Approved Traction Devices Required","2/18/24, 8:41 AM","2/18/24, 3:30 PM",,,40.368169,-111.559358
 UT-Incident--175590,Incidents,US 191,Duchesne County,US 191 at MP 272,"Roadway Restriction
 Both Dirs US 191 MP 272 - 261 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required for Semis","2/18/24, 8:02 AM","2/18/24, 3:30 PM",,,39.926392,-110.680996
 UT-Incident--175592,Incidents,US 40 WB,Summit County,US 40 WB,"Crash
 WB US 40  at MP 2 Summit Co.
 Est. Clearance Time: 9:15 AM","2/18/24, 8:11 AM","2/18/24, 9:15 AM",,,40.707551,-111.478847
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175593,Incidents,HINCKLEY DR,Weber County,HINCKLEY DR at 3600 S/MIDLAND DR,"Crash
+WB HINCKLEY DR at 3600 S/MIDLAND DR Weber Co.
+Center Lanes Closed
+Est. Clearance Time: 10:15 AM","2/18/24, 8:13 AM","2/18/24, 10:15 AM","2/18/24, 9:09 AM",,41.197365,-112.035573
+UT-Incident--175598,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
+NB I-15 at MP 340 (Riverdale) Weber Co.
+Right Shoulder
+Est. Clearance Time: 10:20 AM","2/18/24, 9:18 AM","2/18/24, 10:20 AM","2/18/24, 9:18 AM",,41.182676,-112.014444
+UT-Incident--175588,Incidents,SR 132,Juab County,SR 132 at MP 34,"Crash
+SR 132 at MP 34 (800 E Nephi) Juab Co.
+Est. Clearance Time: 8:40 AM","2/18/24, 7:39 AM","2/18/24, 8:40 AM","2/18/24, 7:39 AM",,39.710036,-111.821556
+UT-Incident--175586,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
+Both Directions SR 224 between MP 2 and 5 (Empire Pass) Summit Co.
+Traction Devices Required for all Vehicles","2/18/24, 4:13 AM","2/18/24, 5:12 AM","2/18/24, 4:13 AM",,40.649413,-111.49858
+UT-Incident--175596,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
+Both Dirs SR 92 at MP 27 - 23 (Sundance) Utah Co.
+Approved Traction Devices Required","2/18/24, 8:41 AM","2/18/24, 3:30 PM","2/18/24, 8:41 AM",,40.368169,-111.559358
+UT-Incident--175597,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
+US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
+Est. Clearance Time: 10:00 AM","2/18/24, 9:04 AM","2/18/24, 10:00 AM","2/18/24, 9:04 AM",,40.018787,-111.496233
