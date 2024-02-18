@@ -10070,7 +10070,6 @@ UT-Incident--175576,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
 WB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
 Cleared at 5:55 PM
 Est. Clearance Time: 6:30 PM","2/17/24, 5:16 PM","2/17/24, 6:30 PM","2/17/24, 5:55 PM",,40.696221,-111.4715
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175577,Incidents,I-15,Box Elder County,I-15 at MP 364,"Crash
 NB I-15 at MP 364 (Brigham City) Box Elder Co.
 Right Shoulder
@@ -10092,3 +10091,4 @@ UT-Incident--175581,Incidents,US 89,Weber County,US 89 at MP 416,"Crash
 NB US 89 at MP 416 (700 S / Ogden) Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 9:15 PM","2/17/24, 8:01 PM","2/17/24, 9:15 PM","2/17/24, 8:01 PM",,41.252537,-111.96978
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
