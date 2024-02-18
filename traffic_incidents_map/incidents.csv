@@ -10110,11 +10110,18 @@ UT-Incident--175587,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
 EB US 189 at MP 18 (Deer Creek Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 8:18 AM","2/18/24, 7:18 AM","2/18/24, 8:18 AM","2/18/24, 7:18 AM",,40.405503,-111.524184
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175594,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 9:20 AM","2/18/24, 8:15 AM","2/18/24, 9:20 AM",,,40.35648,-111.576663
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175589,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
+SB I-15 at MP 347 (Farr West) Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:00 AM","2/18/24, 8:02 AM","2/18/24, 9:00 AM",,,41.272257,-112.026419
+UT-Incident--175595,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
+WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
+Est. Clearance Time: 9:30 AM","2/18/24, 8:24 AM","2/18/24, 9:30 AM",,,40.721584,-111.490111
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175591,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
 NB Bangerter Hwy at 4600 S (Taylorsville)Salt Lake Co.
@@ -10124,10 +10131,6 @@ UT-Incident--175593,Incidents,HINCKLEY DR,Weber County,HINCKLEY DR at 3600 S/MID
 WB HINCKLEY DR at 3600 S/MIDLAND DR Weber Co.
 Center Lane Closed
 Est. Clearance Time: 9:15 AM","2/18/24, 8:13 AM","2/18/24, 9:15 AM",,,41.197365,-112.035573
-UT-Incident--175589,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
-SB I-15 at MP 347 (Farr West) Weber Co.
-Right Shoulder
-Est. Clearance Time: 9:00 AM","2/18/24, 8:02 AM","2/18/24, 9:00 AM",,,41.272257,-112.026419
 UT-Incident--175588,Incidents,SR 132,Juab County,SR 132 at MP 34,"Crash
 SR 132 at MP 34 (800 E Nephi) Juab Co.
 Est. Clearance Time: 8:40 AM","2/18/24, 7:39 AM","2/18/24, 8:40 AM",,,39.710036,-111.821556
@@ -10140,9 +10143,6 @@ Approved Traction Devices Required","2/18/24, 8:41 AM","2/18/24, 3:30 PM",,,40.3
 UT-Incident--175590,Incidents,US 191,Duchesne County,US 191 at MP 272,"Roadway Restriction
 Both Dirs US 191 MP 272 - 261 (Indian Canyon) Duchesne Co.
 Approved Traction Devices Required for Semis","2/18/24, 8:02 AM","2/18/24, 3:30 PM",,,39.926392,-110.680996
-UT-Incident--175595,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
-WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
-Est. Clearance Time: 9:30 AM","2/18/24, 8:24 AM","2/18/24, 9:30 AM",,,40.721584,-111.490111
 UT-Incident--175592,Incidents,US 40 WB,Summit County,US 40 WB,"Crash
 WB US 40  at MP 2 Summit Co.
 Est. Clearance Time: 9:15 AM","2/18/24, 8:11 AM","2/18/24, 9:15 AM",,,40.707551,-111.478847
