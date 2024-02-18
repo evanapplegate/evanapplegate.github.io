@@ -10121,7 +10121,6 @@ Est. Clearance Time: 9:00 AM","2/18/24, 8:02 AM","2/18/24, 9:00 AM",,,41.272257,
 UT-Incident--175595,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
 WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
 Est. Clearance Time: 9:30 AM","2/18/24, 8:24 AM","2/18/24, 9:30 AM",,,40.721584,-111.490111
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175591,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
 NB Bangerter Hwy at 4600 S (Taylorsville)Salt Lake Co.
 Left Lanes Closed
@@ -10132,6 +10131,7 @@ Approved Traction Devices Required for Semis","2/18/24, 8:02 AM","2/18/24, 3:30 
 UT-Incident--175592,Incidents,US 40 WB,Summit County,US 40 WB,"Crash
 WB US 40  at MP 2 Summit Co.
 Est. Clearance Time: 9:15 AM","2/18/24, 8:11 AM","2/18/24, 9:15 AM",,,40.707551,-111.478847
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175593,Incidents,HINCKLEY DR,Weber County,HINCKLEY DR at 3600 S/MIDLAND DR,"Crash
 WB HINCKLEY DR at 3600 S/MIDLAND DR Weber Co.
