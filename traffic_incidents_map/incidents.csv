@@ -10241,7 +10241,6 @@ UT-Incident--175627,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:10 PM","2/19/24, 11:02 AM","2/19/24, 12:10 PM","2/19/24, 11:37 AM",,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175631,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (800 N) Salt Lake Co.
 Right Shoulder
@@ -10251,6 +10250,11 @@ SB Main St at 2000 N Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 2:15 PM","2/19/24, 1:01 PM","2/19/24, 2:15 PM","2/19/24, 1:01 PM",,40.56816,-112.295748
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175632,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 3:15 PM","2/19/24, 2:12 PM","2/19/24, 3:15 PM","2/19/24, 2:12 PM",,40.328045,-111.73498
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175628,Incidents,US 40,Duchesne County,US 40 at MP 67,"Crash
