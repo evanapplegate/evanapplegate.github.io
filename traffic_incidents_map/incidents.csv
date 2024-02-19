@@ -10220,7 +10220,6 @@ Est. Clearance Time: 6:49 AM","2/19/24, 5:49 AM","2/19/24, 6:49 AM","2/19/24, 5:
 UT-Incident--175624,Incidents,US 89,Sanpete County,US 89 at MP 256,"Crash
 US 89 at MP 256 (400 N / Manti) Sanpete Co.
 Est. Clearance Time: 7:40 AM","2/19/24, 6:40 AM","2/19/24, 7:40 AM","2/19/24, 6:40 AM",,39.27198,-111.636815
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175614,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
 NB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
 Est. Clearance Time: 11:00 PM","2/18/24, 5:43 PM","2/18/24, 11:00 PM","2/18/24, 8:42 PM",,38.146484,-112.614659
@@ -10234,6 +10233,7 @@ UT-Incident--175625,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 EB US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 8:14 AM","2/19/24, 7:16 AM","2/19/24, 9:44 AM","2/19/24, 9:05 AM",,40.388104,-111.54897
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175626,Incidents,I-15,Davis County,I-15 at MP 322,"Vehicle on fire
 SB I-15 at MP 322 (Glover Ln) Davis Co.
