@@ -10344,19 +10344,19 @@ Est. Clearance Time: 9:45 AM","2/20/24, 8:47 AM","2/20/24, 9:45 AM",,,41.089179,
 UT-Incident--175662,Incidents,US 40,Duchesne County,US 40 at MP 69,"Crash
 US 40 at MP 69 (6 mi E of Fruitland) Duchesne Co.
 Est. Clearance Time: 9:45 AM","2/20/24, 7:35 AM","2/20/24, 9:45 AM",,,40.203616,-110.717308
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175669,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 SB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Est. Clearance Time: 10:56 AM","2/20/24, 9:56 AM","2/20/24, 10:56 AM","2/20/24, 9:56 AM",,39.775857,-111.839015
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175668,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
+WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
+Cleared at 10:39 AM
+Expect Residual Delays","2/20/24, 9:48 AM","2/20/24, 10:45 AM","2/20/24, 10:39 AM",,40.751955,-111.569589
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175670,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 11:13 AM","2/20/24, 10:14 AM","2/20/24, 11:13 AM","2/20/24, 10:14 AM",,39.215996,-112.156841
-UT-Incident--175668,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
-WB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
-Cleared at 10:39 AM
-Expect Residual Delays","2/20/24, 9:48 AM","2/20/24, 10:45 AM","2/20/24, 10:39 AM",,40.751955,-111.569589
 UT-Incident--175667,Incidents,SR 14,Iron County,SR 14 at MP 15,"Crash
 SR 14 at MP 15 (13 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 11:15 AM","2/20/24, 9:06 AM","2/20/24, 11:15 AM","2/20/24, 10:40 AM",,37.581477,-112.881484
@@ -10374,6 +10374,9 @@ Both Directions SR 224 from MP 2 to MP 5 Summit Co.
 Traction Devices required for all Vehicles","2/19/24, 6:23 PM","2/19/24, 7:21 PM","2/19/24, 7:28 PM",,40.624634,-111.501637
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
+UT-Incident--175671,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
+US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 12:30 PM","2/20/24, 10:55 AM","2/20/24, 12:30 PM","2/20/24, 10:55 AM",,40.305888,-111.25888
 UT-Incident--175647,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 EB US 91 from MP 2 to MP 17 Box Elder Co.
 Traction Devices Required for Semis","2/19/24, 8:00 PM","2/19/24, 8:52 PM","2/19/24, 8:05 PM",,41.486554,-112.015642
