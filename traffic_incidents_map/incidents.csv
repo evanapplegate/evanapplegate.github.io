@@ -10295,7 +10295,6 @@ UT-Incident--175646,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
 NB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 8:19 PM","2/19/24, 7:20 PM","2/19/24, 8:19 PM","2/19/24, 7:20 PM",,37.600834,-113.162952
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175653,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 NB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Left Lane Closed
@@ -10306,6 +10305,7 @@ Est. Clearance Time: 2/20/2024 12:06 AM","2/19/24, 11:08 PM","2/20/24, 12:06 AM"
 UT-Incident--175652,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 EB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 1:45 AM","2/20/24, 2:03 AM","2/20/24, 1:45 AM","2/20/24, 2:03 AM",,40.640579,-111.452464
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
