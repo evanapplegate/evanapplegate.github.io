@@ -10386,10 +10386,14 @@ Traction Devices required for all Vehicles","2/19/24, 6:23 PM","2/19/24, 7:21 PM
 UT-Incident--175676,Incidents,SR 59,Washington County,SR 59 at MP 9,"Crash
 EB SR 59 at MP 9 (8 Mi N of Hilldale) Washington Co.
 Est. Clearance Time: 2:45 PM","2/20/24, 1:30 PM","2/20/24, 2:45 PM","2/20/24, 1:30 PM",,37.087205,-113.112798
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175677,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 Offramp at MP 279 (Main St, Lehi) Utah Co.
 Est. Clearance Time: 4:15 PM","2/20/24, 3:09 PM","2/20/24, 4:15 PM","2/20/24, 3:09 PM",,40.380301,-111.824926
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175679,Incidents,Washington Blvd,Weber County,Washington Blvd at 24th St,"Crash
+SB Washington Blvd at 24th St (Ogden) Weber Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","2/20/24, 4:05 PM","2/20/24, 5:15 PM",,,41.222756,-111.970423
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175680,Incidents,HWY 130,Iron County,HWY 130 at 3000 N/MINERSVILLE HWY/OLD HI*,"Crash
 SB Hwy 130 at 3000 N Iron Co.
@@ -10404,7 +10408,3 @@ UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM",,,40.997685,-109.432538
 UT-Incident--175678,Incidents,US 191,Carbon County,US 191 at MP 252,"Crash
 Both Directions US 191 Closed at MP 252 (2 miles N of Helper) Carbon Co.","2/20/24, 3:53 PM","2/20/24, 5:30 PM",,,39.72584,-110.861789
-UT-Incident--175679,Incidents,Washington Blvd,Weber County,Washington Blvd at 24th St,"Crash
-SB Washington Blvd at 24th St (Ogden) Weber Co.
-Right Shoulder
-Est. Clearance Time: 5:15 PM","2/20/24, 4:05 PM","2/20/24, 5:15 PM",,,41.222756,-111.970423
