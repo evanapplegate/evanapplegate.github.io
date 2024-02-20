@@ -10253,7 +10253,6 @@ UT-Incident--175633,Incidents,I-80 WB X113 Off 5600 W Ramp,Salt Lake County,I-80
 WB I-80 Exit 113 5600 W Off Ramp Salt Lake Co.
 Left Turn Lanes to SB
 Est. Clearance Time: 4:45 PM","2/19/24, 3:04 PM","2/19/24, 4:45 PM","2/19/24, 3:04 PM",,40.771229,-112.019431
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175635,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 4:30 PM","2/19/24, 3:31 PM","2/19/24, 4:30 PM","2/19/24, 3:31 PM",,37.613172,-113.153387
@@ -10262,6 +10261,11 @@ UT-Incident--175634,Incidents,700 N,Salt Lake County,700 N at Redwood Rd,"Debris
 SB 700 N at Redwood Rd Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:05 PM","2/19/24, 3:07 PM","2/19/24, 4:05 PM","2/19/24, 3:17 PM",,40.784713,-111.938428
+UT-Incident--175637,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Lane Closure
+Ramp I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:06 PM","2/19/24, 4:07 PM","2/19/24, 5:06 PM","2/19/24, 4:07 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175632,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Lane Closed
@@ -10269,10 +10273,9 @@ Est. Clearance Time: 4:00 PM","2/19/24, 2:12 PM","2/19/24, 4:00 PM","2/19/24, 3:
 UT-Incident--175636,Incidents,I-15,Millard County,I-15 at MP 163,"Crash
 SB I-15 at MP 163 (Fillmore Exit) Millard Co.
 Est. Clearance Time: 5:00 PM","2/19/24, 3:49 PM","2/19/24, 5:00 PM","2/19/24, 3:49 PM",,38.944,-112.352655
-UT-Incident--175637,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Lane Closure
-Ramp I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:06 PM","2/19/24, 4:07 PM","2/19/24, 5:06 PM","2/19/24, 4:07 PM",,40.718459,-111.873941
+UT-Incident--175638,Incidents,I-15,Iron County,I-15 at MP 48,"Crash
+NB I-15 at MP 48 (Kanarraville) Iron Co.
+Est. Clearance Time: 6:16 PM","2/19/24, 5:17 PM","2/19/24, 6:16 PM","2/19/24, 5:17 PM",,37.562604,-113.188908
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175628,Incidents,US 40,Duchesne County,US 40 at MP 67,"Crash
