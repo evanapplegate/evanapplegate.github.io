@@ -10355,18 +10355,21 @@ UT-Incident--175667,Incidents,SR 14,Iron County,SR 14 at MP 15,"Crash
 SR 14 at MP 15 (13 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 11:15 AM","2/20/24, 9:06 AM","2/20/24, 11:15 AM","2/20/24, 10:40 AM",,37.581477,-112.881484
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175670,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 12:13 PM","2/20/24, 10:14 AM","2/20/24, 12:13 PM","2/20/24, 11:58 AM",,39.215996,-112.156841
-UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
-Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/19/24, 7:35 PM","2/19/24, 6:36 PM",,40.619107,-111.786281
 UT-Incident--175672,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:17 PM","2/20/24, 11:18 AM","2/20/24, 12:17 PM","2/20/24, 11:18 AM",,40.724124,-111.943886
+UT-Incident--175674,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
+WB US 6 at MP 210 (Soldier Summit) Utah Co.
+Est. Clearance Time: 12:45 PM","2/20/24, 11:36 AM","2/20/24, 12:45 PM","2/20/24, 11:43 AM",,39.931871,-111.089175
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
+Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/19/24, 7:35 PM","2/19/24, 6:36 PM",,40.619107,-111.786281
 UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 EB SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/19/24, 7:30 PM","2/19/24, 6:36 PM",,40.572095,-111.773814
@@ -10380,10 +10383,7 @@ UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175671,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 12:30 PM","2/20/24, 10:55 AM","2/20/24, 12:30 PM","2/20/24, 10:55 AM",,40.305888,-111.25888
-UT-Incident--175674,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
-WB US 6 at MP 210 (Soldier Summit) Utah Co.
-Est. Clearance Time: 12:45 PM","2/20/24, 11:36 AM","2/20/24, 12:45 PM","2/20/24, 11:43 AM",,39.931871,-111.089175
+Est. Clearance Time: 1:30 PM","2/20/24, 10:55 AM","2/20/24, 1:30 PM","2/20/24, 12:23 PM",,40.305888,-111.25888
 UT-Incident--175673,Incidents,US 89,Sanpete County,US 89 at MP 290,"Crash
 US 89 at MP 290 (6 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 12:30 PM","2/20/24, 11:29 AM","2/20/24, 12:30 PM","2/20/24, 11:29 AM",,39.714207,-111.471293
