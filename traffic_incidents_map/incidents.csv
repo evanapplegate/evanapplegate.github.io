@@ -10256,7 +10256,6 @@ Est. Clearance Time: 4:45 PM","2/19/24, 3:04 PM","2/19/24, 4:45 PM","2/19/24, 3:
 UT-Incident--175635,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 4:30 PM","2/19/24, 3:31 PM","2/19/24, 4:30 PM","2/19/24, 3:31 PM",,37.613172,-113.153387
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175634,Incidents,700 N,Salt Lake County,700 N at Redwood Rd,"Debris
 SB 700 N at Redwood Rd Salt Lake Co.
 2 Right Lanes Closed
@@ -10265,6 +10264,7 @@ UT-Incident--175637,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Lane Closure
 Ramp I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:06 PM","2/19/24, 4:07 PM","2/19/24, 5:06 PM","2/19/24, 4:07 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175632,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
@@ -10276,9 +10276,25 @@ Est. Clearance Time: 5:00 PM","2/19/24, 3:49 PM","2/19/24, 5:00 PM","2/19/24, 3:
 UT-Incident--175638,Incidents,I-15,Iron County,I-15 at MP 48,"Crash
 NB I-15 at MP 48 (Kanarraville) Iron Co.
 Est. Clearance Time: 6:16 PM","2/19/24, 5:17 PM","2/19/24, 6:16 PM","2/19/24, 5:17 PM",,37.562604,-113.188908
+UT-Incident--175641,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
+NB I-15 at MP 314 (Main St, NSL) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 7:21 PM","2/19/24, 6:22 PM","2/19/24, 7:21 PM","2/19/24, 6:22 PM",,40.846156,-111.91486
+UT-Incident--175643,Incidents,I-84,Box Elder County,I-84 at MP 14,"Crash
+WB I-84 at MP 14 (5 mi east of Snowville) Box Elder Co.
+Est. Clearance Time: 7:23 PM","2/19/24, 6:25 PM","2/19/24, 7:23 PM","2/19/24, 6:25 PM",,41.910223,-112.601547
+UT-Incident--175642,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 from MP 2 to MP 5 Summit Co.
+Traqction Devices required for all Vehicles","2/19/24, 6:23 PM","2/19/24, 7:21 PM","2/19/24, 6:23 PM",,40.624634,-111.501637
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175628,Incidents,US 40,Duchesne County,US 40 at MP 67,"Crash
 Both Directions US 40 at MP 67 (4 mi E of Fruitland) Duchesne Co.
 Right Shoulder
 Est. Clearance Time: 2:30 PM","2/19/24, 12:14 PM","2/19/24, 5:30 PM","2/19/24, 3:14 PM",,40.210519,-110.754168
+UT-Incident--175639,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
+EB US 91 from MP 2 to MP 17 Box Elder Co.
+Traction Devices Required for all Semi-Trucks","2/19/24, 6:14 PM","2/19/24, 7:11 PM","2/19/24, 6:14 PM",,41.486554,-112.015642
+UT-Incident--175640,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
+WB US 91 from MP 17 to MP 2 Cache Co.
+Traction Devices required for all Semi-Trucks","2/19/24, 6:15 PM","2/19/24, 7:14 PM","2/19/24, 6:15 PM",,41.616749,-111.932782
