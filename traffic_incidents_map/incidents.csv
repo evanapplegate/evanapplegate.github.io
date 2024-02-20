@@ -10337,7 +10337,6 @@ UT-Incident--175659,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:04 AM","2/20/24, 7:05 AM","2/20/24, 8:04 AM","2/20/24, 7:33 AM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175666,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 2371,"Crash
 WB Antelope Dr at 2500 W (Syracuse) Davis Co.
 Right Shoulder
@@ -10345,6 +10344,7 @@ Est. Clearance Time: 9:45 AM","2/20/24, 8:47 AM","2/20/24, 9:45 AM",,,41.089179,
 UT-Incident--175662,Incidents,US 40,Duchesne County,US 40 at MP 69,"Crash
 US 40 at MP 69 (6 mi E of Fruitland) Duchesne Co.
 Est. Clearance Time: 9:45 AM","2/20/24, 7:35 AM","2/20/24, 9:45 AM",,,40.203616,-110.717308
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175667,Incidents,SR 14,Iron County,SR 14 at MP 15,"Crash
 SR 14 at MP 15 (13 Mi E of Cedar City) Iron Co.
