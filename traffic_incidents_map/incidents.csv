@@ -10372,6 +10372,12 @@ UT-Incident--175673,Incidents,US 89,Sanpete County,US 89 at MP 290,"Crash
 US 89 at MP 290 (6 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 12:30 PM","2/20/24, 11:29 AM","2/20/24, 12:30 PM","2/20/24, 11:29 AM",,39.714207,-111.471293
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175647,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
+EB US 91 from MP 2 to MP 17 Box Elder Co.
+Traction Devices Required for Semis","2/19/24, 8:00 PM","2/19/24, 8:52 PM","2/19/24, 8:05 PM",,41.486554,-112.015642
+UT-Incident--175648,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
+WB US 91 from MP 17 to MP 2 Cache County
+Traction Devices Reqired for Semis","2/19/24, 8:01 PM","2/19/24, 9:00 PM","2/19/24, 8:13 PM",,41.616749,-111.932782
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
@@ -10390,9 +10396,3 @@ EB SR 59 at MP 9 (8 Mi N of Hilldale) Washington Co.
 Est. Clearance Time: 2:45 PM","2/20/24, 1:30 PM","2/20/24, 2:45 PM","2/20/24, 1:30 PM",,37.087205,-113.112798
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175647,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
-EB US 91 from MP 2 to MP 17 Box Elder Co.
-Traction Devices Required for Semis","2/19/24, 8:00 PM","2/19/24, 8:52 PM","2/19/24, 8:05 PM",,41.486554,-112.015642
-UT-Incident--175648,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
-WB US 91 from MP 17 to MP 2 Cache County
-Traction Devices Reqired for Semis","2/19/24, 8:01 PM","2/19/24, 9:00 PM","2/19/24, 8:13 PM",,41.616749,-111.932782
