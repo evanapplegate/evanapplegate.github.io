@@ -10317,12 +10317,16 @@ UT-Incident--175655,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:51 AM","2/20/24, 4:53 AM","2/20/24, 5:51 AM","2/20/24, 4:56 AM",,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175657,Incidents,SR 201,Salt Lake County,SR 201 at MP 7,"Crash
 EB SR 201 at MP 7 (8400 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:42 AM","2/20/24, 5:43 AM","2/20/24, 6:42 AM","2/20/24, 5:52 AM",,40.717582,-112.095201
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175661,Incidents,I-15,Utah County,I-15 at MP 282,"Debris
+NB I-15 at MP 282 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:23 AM","2/20/24, 7:23 AM","2/20/24, 8:23 AM","2/20/24, 7:23 AM",,40.410606,-111.863979
 UT-Incident--175660,Incidents,I-15 SB X260 Off 400 S Ramp,Utah County,I-15 SB X260 Off 400 S Ramp at 400 S,"Crash
 SB I-15 Exit 260 400 S Off Ramp (Springville) Utah Co.
 Right Shoulder
