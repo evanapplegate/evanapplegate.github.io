@@ -10296,7 +10296,6 @@ NB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 8:19 PM","2/19/24, 7:20 PM","2/19/24, 8:19 PM","2/19/24, 7:20 PM",,37.600834,-113.162952
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175653,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 NB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Left Lane Closed
@@ -10304,6 +10303,10 @@ Est. Clearance Time: 3:04 AM","2/20/24, 2:04 AM","2/20/24, 3:04 AM","2/20/24, 2:
 UT-Incident--175651,Incidents,I-80,Tooele County,I-80 at MP 60,"Crash
 WB I-80 at MP 60 (19 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 2/20/2024 12:06 AM","2/19/24, 11:08 PM","2/20/24, 12:06 AM","2/19/24, 11:08 PM",,40.807999,-112.933391
+UT-Incident--175652,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
+EB US 40 at MP 7 (Deer Crest) Wasatch Co.
+Est. Clearance Time: 1:45 AM","2/20/24, 2:03 AM","2/20/24, 1:45 AM","2/20/24, 2:03 AM",,40.640579,-111.452464
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/19/24, 7:35 PM","2/19/24, 6:36 PM",,40.619107,-111.786281
@@ -10318,9 +10321,6 @@ Both Directions SR 224 from MP 2 to MP 5 Summit Co.
 Traction Devices required for all Vehicles","2/19/24, 6:23 PM","2/19/24, 7:21 PM","2/19/24, 7:28 PM",,40.624634,-111.501637
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175652,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
-EB US 40 at MP 7 (Deer Crest) Wasatch Co.
-Est. Clearance Time: 1:45 AM","2/20/24, 2:03 AM","2/20/24, 1:45 AM","2/20/24, 2:03 AM",,40.640579,-111.452464
 UT-Incident--175647,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 EB US 91 from MP 2 to MP 17 Box Elder Co.
 Traction Devices Required for Semis","2/19/24, 8:00 PM","2/19/24, 8:52 PM","2/19/24, 8:05 PM",,41.486554,-112.015642
