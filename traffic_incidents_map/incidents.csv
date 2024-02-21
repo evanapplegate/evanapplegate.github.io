@@ -10574,10 +10574,6 @@ NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Cleared at 2:16 PM
 Expect Residual Delays","2/21/24, 1:42 PM","2/21/24, 3:00 PM","2/21/24, 2:16 PM",,40.493083,-111.891004
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
-NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
-Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
 UT-Incident--175736,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
 NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
 Right Shoulder
@@ -10590,6 +10586,10 @@ UT-Incident--175738,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 NB I-15 at MP 233 (Mona) Juab Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/21/24, 2:49 PM","2/21/24, 4:00 PM","2/21/24, 2:49 PM",,39.81888,-111.833832
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
+NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
+Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
 UT-Incident--175741,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
