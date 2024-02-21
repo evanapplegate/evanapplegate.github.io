@@ -10573,7 +10573,6 @@ UT-Incident--175733,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Cleared at 2:16 PM
 Expect Residual Delays","2/21/24, 1:42 PM","2/21/24, 3:00 PM","2/21/24, 2:16 PM",,40.493083,-111.891004
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175736,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
 NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
 Right Shoulder
@@ -10587,9 +10586,6 @@ NB I-15 at MP 233 (Mona) Juab Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/21/24, 2:49 PM","2/21/24, 4:00 PM","2/21/24, 2:49 PM",,39.81888,-111.833832
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
-NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
-Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
 UT-Incident--175741,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
@@ -10597,6 +10593,17 @@ Est. Clearance Time: 4:00 PM","2/21/24, 2:54 PM","2/21/24, 4:00 PM","2/21/24, 2:
 UT-Incident--175742,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Est. Clearance Time: 4:30 PM","2/21/24, 3:26 PM","2/21/24, 4:30 PM","2/21/24, 3:26 PM",,40.664677,-111.90152
+UT-Incident--175735,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
+WB SR 201 at MP 8 (7200 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:30 PM","2/21/24, 2:24 PM","2/21/24, 3:30 PM","2/21/24, 2:24 PM",,40.718237,-112.076122
+UT-Incident--175740,Incidents,US 6,Juab County,US 6 at MP 127,"Crash
+US 6 at MP 127 (6 Mi E of Jericho Jct) Juab Co.
+Est. Clearance Time: 4:30 PM","2/21/24, 2:53 PM","2/21/24, 4:30 PM","2/21/24, 2:53 PM",,39.780731,-112.152263
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
+NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
+Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
 UT-Incident--175739,Incidents,MAIN ST,Tooele County,MAIN ST at 2000 N,"Crash
 NB MAIN ST at 2000 N Tooele Co.
 Right Shoulder
@@ -10604,15 +10611,8 @@ Est. Clearance Time: 4:00 PM","2/21/24, 2:51 PM","2/21/24, 4:00 PM","2/21/24, 2:
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/21/24, 7:35 PM","2/21/24, 6:20 AM",,40.619107,-111.786281
-UT-Incident--175735,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
-WB SR 201 at MP 8 (7200 W) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:30 PM","2/21/24, 2:24 PM","2/21/24, 3:30 PM","2/21/24, 2:24 PM",,40.718237,-112.076122
 UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/21/24, 7:30 PM","2/21/24, 6:20 AM",,40.572095,-111.773814
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175740,Incidents,US 6,Juab County,US 6 at MP 127,"Crash
-US 6 at MP 127 (6 Mi E of Jericho Jct) Juab Co.
-Est. Clearance Time: 4:30 PM","2/21/24, 2:53 PM","2/21/24, 4:30 PM","2/21/24, 2:53 PM",,39.780731,-112.152263
