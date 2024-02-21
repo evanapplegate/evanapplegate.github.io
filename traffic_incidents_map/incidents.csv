@@ -10471,12 +10471,18 @@ Est. Clearance Time: 2/21/2024 12:30 AM","2/20/24, 11:17 PM","2/21/24, 12:30 AM"
 UT-Incident--175704,Incidents,US 89,Utah County,US 89 at MP 304,"Crash
 NB US 89 at MP 304 (1 mile S of Birdseye) Utah Co.
 Est. Clearance Time: 1:42 AM","2/21/24, 12:42 AM","2/21/24, 1:42 AM","2/21/24, 12:42 AM",,39.905277,-111.549549
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175708,Incidents,I-15,Utah County,I-15 at MP 265,"Stalled Vehicle
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 7:40 AM","2/21/24, 6:34 AM","2/21/24, 7:40 AM","2/21/24, 6:34 AM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175707,Incidents,US 40,Wasatch County,US 40 at MP 31,"Crash
+EB US 40 at MP 31 (10 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 7:06 AM","2/21/24, 5:07 AM","2/21/24, 7:06 AM","2/21/24, 6:08 AM",,40.346562,-111.267838
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175710,Incidents,HWY 30,Box Elder County,HWY 30 at HWY 38,"Crash
+Both Directions SR-30 at SR-38 Box Elder Co.
+Est. Clearance Time: 8:30 AM","2/21/24, 7:17 AM","2/21/24, 8:30 AM","2/21/24, 7:17 AM",,41.785271,-112.090755
 UT-Incident--175709,Incidents,Redwood Rd,Davis County,Redwood Rd at 600 N,"Crash
 SB Redwood Rd at 600 N (North Salt Lake) Davis Co.
 Right Shoulder
@@ -10495,9 +10501,6 @@ Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/20/24, 7:46 PM","2/25/24, 8:44 PM","2/20/24, 7:47 PM",,40.624634,-111.501637
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175707,Incidents,US 40,Wasatch County,US 40 at MP 31,"Crash
-EB US 40 at MP 31 (10 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 7:06 AM","2/21/24, 5:07 AM","2/21/24, 7:06 AM","2/21/24, 6:08 AM",,40.346562,-111.267838
 UT-Incident--175705,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 EB US 91 at MP 2-17 Box Elder/Cache Cos.
 Approved traction devices required for all vehicles.","2/21/24, 4:28 AM","2/21/24, 5:25 AM","2/21/24, 4:28 AM",,41.486554,-112.015642
