@@ -10541,6 +10541,12 @@ UT-Incident--175691,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/20/24, 7:46 PM","2/25/24, 8:44 PM","2/20/24, 7:47 PM",,40.624634,-111.501637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175705,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
+EB US 91 at MP 2-17 Box Elder/Cache Cos.
+Approved traction devices required for all vehicles.","2/21/24, 4:28 AM","2/21/24, 5:25 AM","2/21/24, 4:28 AM",,41.486554,-112.015642
+UT-Incident--175706,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
+WB US 91 at MP 2-17 Box Elder/Cache Cos.
+Approved traction devices required for all vehicles.","2/21/24, 4:29 AM","2/21/24, 5:28 AM","2/21/24, 4:29 AM",,41.616749,-111.932782
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175726,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S, South SL) Salt Lake Co.
@@ -10550,6 +10556,10 @@ UT-Incident--175728,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:17 PM","2/21/24, 12:17 PM","2/21/24, 1:17 PM","2/21/24, 12:19 PM",,40.707874,-111.90397
+UT-Incident--175729,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1:30 PM","2/21/24, 12:31 PM","2/21/24, 1:30 PM","2/21/24, 12:31 PM",,40.350334,-111.76972
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/21/24, 7:35 PM","2/21/24, 6:20 AM",,40.619107,-111.786281
@@ -10561,9 +10571,3 @@ Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10
 UT-Incident--175727,Incidents,US 40,Uintah County,US 40 at MP 123,"Vehicle on fire
 US 40 at MP 123 (9 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 1:45 PM","2/21/24, 11:55 AM","2/21/24, 1:45 PM","2/21/24, 11:55 AM",,40.301953,-109.828934
-UT-Incident--175705,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
-EB US 91 at MP 2-17 Box Elder/Cache Cos.
-Approved traction devices required for all vehicles.","2/21/24, 4:28 AM","2/21/24, 5:25 AM","2/21/24, 4:28 AM",,41.486554,-112.015642
-UT-Incident--175706,Incidents,US 91,Cache County,US 91 at MP 17,"Roadway Restriction
-WB US 91 at MP 2-17 Box Elder/Cache Cos.
-Approved traction devices required for all vehicles.","2/21/24, 4:29 AM","2/21/24, 5:28 AM","2/21/24, 4:29 AM",,41.616749,-111.932782
