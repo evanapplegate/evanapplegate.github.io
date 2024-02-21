@@ -10569,11 +10569,11 @@ UT-Incident--175732,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","2/21/24, 1:21 PM","2/21/24, 2:30 PM","2/21/24, 1:21 PM",,41.066718,-111.970064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175733,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Cleared at 2:16 PM
 Expect Residual Delays","2/21/24, 1:42 PM","2/21/24, 3:00 PM","2/21/24, 2:16 PM",,40.493083,-111.891004
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
 NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
@@ -10594,6 +10594,9 @@ UT-Incident--175741,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","2/21/24, 2:54 PM","2/21/24, 4:00 PM","2/21/24, 2:54 PM",,40.664677,-111.90152
+UT-Incident--175742,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Est. Clearance Time: 4:30 PM","2/21/24, 3:26 PM","2/21/24, 4:30 PM","2/21/24, 3:26 PM",,40.664677,-111.90152
 UT-Incident--175739,Incidents,MAIN ST,Tooele County,MAIN ST at 2000 N,"Crash
 NB MAIN ST at 2000 N Tooele Co.
 Right Shoulder
