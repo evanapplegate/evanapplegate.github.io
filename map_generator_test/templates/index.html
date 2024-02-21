@@ -7,11 +7,16 @@
 </head>
 <body>
     <h1>Map Request</h1>
-    <form id="mapForm" method="post">
-        <label for="map_request">Enter your map request:</label><br>
-        <textarea id="map_request" name="map_request" rows="4" cols="50"></textarea><br>
-        <input type="submit" value="Generate Map">
-    </form>
+
+    <form id="mapForm" method="post" enctype="multipart/form-data">
+
+    <label for="map_request">Enter your map request:</label><br>
+    <textarea id="map_request" name="map_request" rows="4" cols="50"></textarea><br>
+
+    <label for="file">Upload a file (CSV, XLS, XLSX):</label><br>
+    <input type="file" id="file" name="file"><br>
+    <input type="submit" value="Generate Map">
+</form>
     <div id="loadingMessage" style="display:none;">Generating maps...</div>
     <script>
         document.getElementById('mapForm').onsubmit = function() {

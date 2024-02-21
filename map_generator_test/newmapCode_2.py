@@ -1,43 +1,25 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 plt.rcParams['pdf.fonttype'] = 42
 plt.rcParams['ps.fonttype'] = 42
 plt.rcParams['font.family'] = 'Arial'
 
-# Load GeoJSON files
-states = gpd.read_file('US_states.geojson')
-bounds = gpd.read_file('US_bounds.geojson')
+map_data_path = 'map_data/'
+data_path = 'uploads/world_gdp.xlsx'
 
-# Specify colors for states
-state_colors = {'CA': 'red', 'MN': 'red', 'NV': 'red', 'WA': 'red',
-                'NY': 'blue', 'OR': 'blue'}
+gdp_data = pd.read_excel(data_path)
+world = gpd.read_file(f'{map_data_path}countries.geojson').to_crs('ESRI:54030')
+world_bounds = gpd.read_file(f'{map_data_path}country_bounds.geojson').to_crs('ESRI:54030')
 
-# Apply colors
-states['color'] = states['postal'].apply(lambda x: state_colors.get(x, 'lightgrey'))
+world = world.merge(gdp_data, how='left', on='NAME')
+world['gdp_per_capita'] = pd.to_numeric(world['gdp_per_capita'], errors='coerce')
 
-# Plot setup
-fig, ax = plt.subplots(figsize=(10, 6))
-ax.set_aspect('equal')
+fig, ax = plt.subplots(figsize=(15, 10))
+world.plot(column='gdp_per_capita', cmap='Greens', linewidth=0, missing_kwds={'color': '#eeeeee'}, ax=ax)
+world_bounds.plot(ax=ax, color='white', linewidth=0.5)
 
-# Reproject to a suitable projection
-states = states.to_crs('esri:102003')
-
-# Plot states with colors
-states.plot(ax=ax, color=states['color'], edgecolor='none')
-
-# Plot borders
-bounds.to_crs(states.crs).plot(ax=ax, color='white', linewidth=1)
-
-# Add labels
-for idx, row in states.iterrows():
-    plt.text(row.geometry.centroid.x, row.geometry.centroid.y, row['postal'],
-             horizontalalignment='center', verticalalignment='center',
-             fontsize=9, fontweight='normal', color='black')
-
-# Remove axis
-ax.axis('off')
-
-# Save figures
-plt.savefig('US_map.pdf', bbox_inches='tight')
-plt.savefig('US_map.png', bbox_inches='tight')
+plt.axis('off')
+plt.savefig('world_gdp_map.pdf', bbox_inches='tight')
+plt.savefig('world_gdp_map.png', bbox_inches='tight')

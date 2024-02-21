@@ -1,38 +1,21 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
+import pandas as pd
 
-# Setting the matplotlib parameters
 plt.rcParams['pdf.fonttype'] = 42
 plt.rcParams['ps.fonttype'] = 42
 plt.rcParams['font.family'] = 'Arial'
 
-# Loading the GeoJSON data
-states = gpd.read_file('US_states.geojson')
-borders = gpd.read_file('US_bounds.geojson')
+gdp_df = pd.read_excel('uploads/world_gdp.xlsx')
+countries = gpd.read_file('map_data/countries.geojson').to_crs('ESRI:54030')
+country_bounds = gpd.read_file('map_data/country_bounds.geojson').to_crs('ESRI:54030')
 
-# Color conditions
-colors = {'CA': 'red', 'MN': 'red', 'NV': 'red', 'WA': 'red',
-          'NY': 'blue', 'OR': 'blue'}
-states['color'] = states['postal'].apply(lambda x: colors.get(x, 'lightgrey'))
+map_df = countries.merge(gdp_df, left_on='NAME', right_on='NAME', how='left')
 
-# Setting up the figure and axis
-fig, ax = plt.subplots(figsize=(12, 8))
+fig, ax = plt.subplots(figsize=(15, 10))
+map_df.plot(column='gdp_per_capita', ax=ax, legend=True, cmap='Greens', missing_kwds={'color': '#eeeeee', 'label': 'Missing values'})
+country_bounds.plot(ax=ax, color='white', linewidth=0.5)
 
-# Plot the states
-states.to_crs(epsg=2163).plot(column='color', ax=ax, linewidth=0, edgecolor=None, legend=True)
-
-# Plot borders
-borders.to_crs(epsg=2163).plot(ax=ax, color='white', linewidth=1)
-
-# Adding postal code labels
-for _, row in states.iterrows():
-    plt.text(s=row['postal'], x=row.geometry.centroid.x, y=row.geometry.centroid.y,
-             horizontalalignment='center', verticalalignment='center',
-             fontsize=8, transform=ax.transData, color='black')
-
-# Removing axis
-ax.set_axis_off()
-
-# Saving the outputs
-plt.savefig("map_output.pdf", bbox_inches='tight')
-plt.savefig("map_output.png", bbox_inches='tight')
+plt.axis('off')
+plt.savefig('world_gdp_map.pdf', bbox_inches='tight')
+plt.savefig('world_gdp_map.png', bbox_inches='tight')
