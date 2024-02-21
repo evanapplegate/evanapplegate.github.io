@@ -10427,12 +10427,20 @@ UT-Incident--175690,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:15 PM","2/20/24, 7:21 PM","2/20/24, 8:15 PM","2/20/24, 7:21 PM",,40.846156,-111.91486
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175687,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Left Shoulder
 Est. Clearance Time: 7:45 PM","2/20/24, 6:44 PM","2/20/24, 7:45 PM","2/20/24, 6:44 PM",,38.617668,-112.609775
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175694,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 3,"Crash
+EB Bangerter Hwy at MP 3 (Redwood Rd) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:45 PM","2/20/24, 8:47 PM","2/20/24, 9:45 PM","2/20/24, 8:47 PM",,40.49997,-111.934246
+UT-Incident--175695,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 at MP 282 (Lehi) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 10:00 PM","2/20/24, 8:56 PM","2/20/24, 10:00 PM","2/20/24, 8:56 PM",,40.410606,-111.863979
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/20/24, 7:35 PM","2/20/24, 3:07 PM",,40.619107,-111.786281
