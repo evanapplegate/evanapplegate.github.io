@@ -10599,7 +10599,6 @@ Est. Clearance Time: 3:30 PM","2/21/24, 2:24 PM","2/21/24, 3:30 PM","2/21/24, 2:
 UT-Incident--175740,Incidents,US 6,Juab County,US 6 at MP 127,"Crash
 US 6 at MP 127 (6 Mi E of Jericho Jct) Juab Co.
 Est. Clearance Time: 4:30 PM","2/21/24, 2:53 PM","2/21/24, 4:30 PM","2/21/24, 2:53 PM",,39.780731,-112.152263
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
 NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
 Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
@@ -10607,6 +10606,7 @@ UT-Incident--175739,Incidents,MAIN ST,Tooele County,MAIN ST at 2000 N,"Crash
 NB MAIN ST at 2000 N Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","2/21/24, 2:51 PM","2/21/24, 4:00 PM","2/21/24, 2:51 PM",,40.565892,-112.296012
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
