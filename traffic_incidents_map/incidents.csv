@@ -10585,7 +10585,6 @@ UT-Incident--175738,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 NB I-15 at MP 233 (Mona) Juab Co.
 Left Shoulder
 Est. Clearance Time: 4:00 PM","2/21/24, 2:49 PM","2/21/24, 4:00 PM","2/21/24, 2:49 PM",,39.81888,-111.833832
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175741,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
@@ -10608,11 +10607,16 @@ UT-Incident--175739,Incidents,MAIN ST,Tooele County,MAIN ST at 2000 N,"Crash
 NB MAIN ST at 2000 N Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","2/21/24, 2:51 PM","2/21/24, 4:00 PM","2/21/24, 2:51 PM",,40.565892,-112.296012
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/21/24, 7:35 PM","2/21/24, 6:20 AM",,40.619107,-111.786281
 UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/21/24, 7:30 PM","2/21/24, 6:20 AM",,40.572095,-111.773814
+UT-Incident--175744,Incidents,SR 224,Summit County,SR 224 at MP 11,"Crash
+SB SR 224 at MP 11 (Newpark Town Center) Summit Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:15 PM","2/21/24, 4:06 PM","2/21/24, 5:15 PM","2/21/24, 4:06 PM",,40.719592,-111.544709
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
