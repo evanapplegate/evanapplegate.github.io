@@ -10397,18 +10397,32 @@ UT-Incident--175680,Incidents,HWY 130,Iron County,HWY 130 at 3000 N/MINERSVILLE 
 SB Hwy 130 at 3000 N Iron Co.
 Est. Clearance Time: 5:00 PM","2/20/24, 4:07 PM","2/20/24, 5:00 PM",,,37.731304,-113.055232
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
-Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/20/24, 7:35 PM","2/20/24, 3:07 PM",,40.619107,-111.786281
 UT-Incident--175681,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 WB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","2/20/24, 4:56 PM","2/20/24, 6:00 PM","2/20/24, 4:56 PM",,40.718237,-112.076122
+UT-Incident--175678,Incidents,US 191,Carbon County,US 191 at MP 252,"Crash
+Both Directions US 191 Closed at MP 252 (2 miles N of Helper) Carbon Co.","2/20/24, 3:53 PM","2/20/24, 5:30 PM","2/20/24, 3:56 PM",,39.72584,-110.861789
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175684,Incidents,1900 W,Weber County,1900 W at 6000 S,"SB 1900 W Closed
+ at 6000 S Weber Co.
+Use Alt Route","2/20/24, 6:14 PM","2/20/24, 7:30 PM","2/20/24, 6:15 PM",,41.154435,-112.026056
+UT-Incident--175683,Incidents,I-15,Washington County,I-15 at MP 37,"Crash
+NB I-15 at MP 37 (5 mi S of Kanarraville) Washington Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","2/20/24, 5:42 PM","2/20/24, 7:00 PM","2/20/24, 5:42 PM",,37.408393,-113.23669
+UT-Incident--175685,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","2/20/24, 6:26 PM","2/20/24, 7:35 PM","2/20/24, 6:26 PM",,40.64406,-111.929407
+UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
+Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/20/24, 7:35 PM","2/20/24, 3:07 PM",,40.619107,-111.786281
 UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/20/24, 7:30 PM","2/20/24, 3:07 PM",,40.572095,-111.773814
+UT-Incident--175682,Incidents,SR 232,Davis County,SR 232 at MP 1,"Crash
+SR 232 at MP 1 (1425 North) Davis Co.
+Est. Clearance Time: 6:30 PM","2/20/24, 5:32 PM","2/20/24, 6:30 PM","2/20/24, 5:32 PM",,41.085175,-111.973454
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175678,Incidents,US 191,Carbon County,US 191 at MP 252,"Crash
-Both Directions US 191 Closed at MP 252 (2 miles N of Helper) Carbon Co.","2/20/24, 3:53 PM","2/20/24, 5:30 PM","2/20/24, 3:56 PM",,39.72584,-110.861789
