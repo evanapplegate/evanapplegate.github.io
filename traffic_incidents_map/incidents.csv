@@ -10482,7 +10482,6 @@ UT-Incident--175713,Incidents,I-15 SB X 295 Off 9000 S Ramp,Salt Lake County,I-1
 SB I-15 Exit 295 9000 S Off Ramp (Sandy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/21/24, 8:05 AM","2/21/24, 9:15 AM","2/21/24, 8:05 AM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175703,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalance Control
 Both Directions SR 210 Closed at MP 4 (Little Cottonwood Canyon) Salt Lake Co.
 Est. Clearance Time: 8:30 AM","2/21/24, 12:40 AM","2/21/24, 8:30 AM","2/21/24, 12:40 AM",,40.572095,-111.773814
@@ -10494,6 +10493,17 @@ UT-Incident--175709,Incidents,Redwood Rd,Davis County,Redwood Rd at 600 N,"Crash
 SB Redwood Rd at 600 N (North Salt Lake) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","2/21/24, 6:59 AM","2/21/24, 8:00 AM","2/21/24, 6:59 AM",,40.856649,-111.929815
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175715,Incidents,HWY 30,Box Elder County,HWY 30 at BEAVER DAM RD,"Crash
+SR-30 at MP 98 Box Elder Co.
+Est. Clearance Time: 9:45 AM","2/21/24, 8:31 AM","2/21/24, 9:45 AM","2/21/24, 8:31 AM",,41.793781,-112.035917
+UT-Incident--175716,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
+NB I-15 at MP 350 (Farr West) Weber Co.
+Left Shoulder
+Est. Clearance Time: 9:45 AM","2/21/24, 8:34 AM","2/21/24, 9:45 AM","2/21/24, 8:34 AM",,41.315731,-112.026127
+UT-Incident--175714,Incidents,I-15 NB X288 On 14600 S Ramp,Salt Lake County,I-15 NB X288 On 14600 S Ramp at Highland Dr,"Crash
+NB I-15 14600 S On Ramp at Highland Dr (Bluffdale) Salt Lake Co.
+Est. Clearance Time: 9:30 AM","2/21/24, 8:29 AM","2/21/24, 9:30 AM","2/21/24, 8:29 AM",,40.48774,-111.894786
 UT-Incident--175711,Incidents,South Frontage Rd,Salt Lake County,South Frontage Rd at Bangerter Hwy,"Crash
 WB South Frontage Rd at Bangerter Hwy (Salt Lake County)
 Right Lane Closed
