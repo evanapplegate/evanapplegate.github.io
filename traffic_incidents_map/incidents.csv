@@ -10469,6 +10469,9 @@ UT-Incident--175702,Incidents,US 40,Wasatch County,US 40 at MP 33,"Crash
 WB US 40 at MP 33 (12 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 2/21/2024 12:30 AM","2/20/24, 11:17 PM","2/21/24, 12:30 AM","2/20/24, 11:17 PM",,40.319919,-111.258703
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175704,Incidents,US 89,Utah County,US 89 at MP 304,"Crash
+NB US 89 at MP 304 (1 mile S of Birdseye) Utah Co.
+Est. Clearance Time: 1:42 AM","2/21/24, 12:42 AM","2/21/24, 1:42 AM","2/21/24, 12:42 AM",,39.905277,-111.549549
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
@@ -10484,6 +10487,3 @@ Both Directions SR 224 MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles","2/20/24, 7:46 PM","2/25/24, 8:44 PM","2/20/24, 7:47 PM",,40.624634,-111.501637
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
-UT-Incident--175704,Incidents,US 89,Utah County,US 89 at MP 304,"Crash
-NB US 89 at MP 304 (1 mile S of Birdseye) Utah Co.
-Est. Clearance Time: 1:42 AM","2/21/24, 12:42 AM","2/21/24, 1:42 AM","2/21/24, 12:42 AM",,39.905277,-111.549549
