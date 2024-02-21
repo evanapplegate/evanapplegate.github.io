@@ -10561,7 +10561,6 @@ Est. Clearance Time: 1:30 PM","2/21/24, 12:31 PM","2/21/24, 1:30 PM","2/21/24, 1
 UT-Incident--175727,Incidents,US 40,Uintah County,US 40 at MP 123,"Vehicle on fire
 US 40 at MP 123 (9 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 1:45 PM","2/21/24, 11:55 AM","2/21/24, 1:45 PM","2/21/24, 11:55 AM",,40.301953,-109.828934
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175731,Incidents,I-15,Millard County,I-15 at MP 161,"Crash
 NB I-15 at MP 161 (2 mi S of Fillmore) Millard Co.
 Right Shoulder
@@ -10571,10 +10570,11 @@ SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","2/21/24, 1:21 PM","2/21/24, 2:30 PM","2/21/24, 1:21 PM",,41.066718,-111.970064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175733,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
-NB I-15 at MP 289 (14200 S, Draper) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:00 PM","2/21/24, 1:42 PM","2/21/24, 3:00 PM","2/21/24, 1:42 PM",,40.493083,-111.891004
+NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Cleared at 2:16 PM
+Expect Residual Delays","2/21/24, 1:42 PM","2/21/24, 3:00 PM","2/21/24, 2:16 PM",,40.493083,-111.891004
 UT-Incident--175734,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
 NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
 Est. Clearance Time: 3:00 PM","2/21/24, 1:52 PM","2/21/24, 3:00 PM","2/21/24, 1:52 PM",,37.972209,-112.742728
