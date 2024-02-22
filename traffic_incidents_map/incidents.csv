@@ -10668,14 +10668,14 @@ UT-Incident--175755,Incidents,Mountain View Corr,Salt Lake County,Mountain View 
  at MP 21 (W 3500 S) Salt Lake Co.
 Use Alt Route","2/21/24, 10:53 PM","2/22/24, 2:51 AM","2/21/24, 11:17 PM",,40.691955,-112.02898
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
-NB I-215 Ramp to WB I-80/Redwood Rd (SLC) Salt Lake Co.
-Est. Clearance Time: 7:30 AM","2/22/24, 6:22 AM","2/22/24, 7:30 AM","2/22/24, 6:22 AM",,40.761621,-111.949811
 UT-Incident--175764,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:44 AM","2/22/24, 5:47 AM","2/22/24, 6:44 AM","2/22/24, 5:47 AM",,40.755521,-111.587294
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
+NB I-215 Ramp to WB I-80/Redwood Rd (SLC) Salt Lake Co.
+Est. Clearance Time: 7:30 AM","2/22/24, 6:22 AM","2/22/24, 7:30 AM","2/22/24, 6:22 AM",,40.761621,-111.949811
 UT-Incident--175765,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 WB I-80 at MP 145 Summit Co.
 Right Shoulder
