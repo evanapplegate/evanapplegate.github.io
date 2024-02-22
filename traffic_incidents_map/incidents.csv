@@ -10718,7 +10718,6 @@ UT-Incident--175774,Incidents,I-15 SB X309 ON 600 N RAMP,Salt Lake County,I-15 S
 SB I-15 600 N Onramp (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","2/22/24, 9:09 AM","2/22/24, 10:15 AM","2/22/24, 9:09 AM",,40.781053,-111.911063
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175775,Incidents,I-15 SB X244 Off Main St Ramp,Utah County,I-15 SB X244 Off Main St Ramp at Main St,"Crash
 SB I-15 Exit 244 Main St Off Ramp (Santaquin) Utah Co.
 Right Shoulder
@@ -10728,10 +10727,15 @@ UT-Incident--175776,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:15 PM","2/22/24, 10:49 AM","2/22/24, 12:15 PM","2/22/24, 10:49 AM",,40.410606,-111.863979
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175778,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 12:15 PM","2/22/24, 11:03 AM","2/22/24, 12:15 PM","2/22/24, 11:03 AM",,40.749305,-111.908791
+UT-Incident--175779,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
+NB I-215 E at 2900 S (Millcreek) Salt Lake Co.
+Center Lane Open
+Est. Clearance Time: 12:30 PM","2/22/24, 11:17 AM","2/22/24, 12:30 PM","2/22/24, 11:17 AM",,40.706983,-111.796631
 UT-Incident--175777,Incidents,Redwood Rd,Utah County,Redwood Rd at 2700 N,"Crash
 NB Redwood Rd at 2700 N (Lehi) Utah Co.
 Right Shoulder
