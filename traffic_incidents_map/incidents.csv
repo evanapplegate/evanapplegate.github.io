@@ -10731,7 +10731,6 @@ NB Redwood Rd at 2700 N (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:00 PM","2/22/24, 11:01 AM","2/22/24, 12:00 PM","2/22/24, 11:01 AM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175778,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -10744,6 +10743,7 @@ UT-Incident--175779,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 NB I-215 E at 2900 S (Millcreek) Salt Lake Co.
 Center Lane Open
 Est. Clearance Time: 12:30 PM","2/22/24, 11:17 AM","2/22/24, 12:30 PM","2/22/24, 11:17 AM",,40.706983,-111.796631
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175781,Incidents,REDWOOD RD,Utah County,REDWOOD RD 2101,"Signal problems
 All Directions Redwood Rd at 2700 N (Lehi) Utah Co.
 Est. Clearance Time: 5:30 PM","2/22/24, 12:05 PM","2/22/24, 5:30 PM","2/22/24, 12:08 PM",,40.422245,-111.925738
