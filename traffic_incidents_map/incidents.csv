@@ -10687,7 +10687,6 @@ UT-Incident--175767,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 WB Mountain View Corridor Hwy at 7800 S Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","2/22/24, 6:46 AM","2/22/24, 7:45 AM","2/22/24, 6:46 AM",,40.60943,-112.035576
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/28/24, 7:35 PM","2/22/24, 6:59 AM",,40.619107,-111.786281
@@ -10695,14 +10694,15 @@ UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/28/24, 7:30 PM","2/22/24, 6:59 AM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175772,Incidents,7200 S,Salt Lake County,7200 S at Cottonwood St,"Crash
-EB 7200 S at 300 W (Midvale) Salt Lake Co.
-Right Lanes Closed
-Est. Clearance Time: 9:30 AM","2/22/24, 8:18 AM","2/22/24, 9:30 AM","2/22/24, 8:18 AM",,40.620677,-111.900174
 UT-Incident--175771,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/22/24, 8:10 AM","2/22/24, 9:15 AM","2/22/24, 8:10 AM",,40.346539,-111.763778
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175772,Incidents,7200 S,Salt Lake County,7200 S at Cottonwood St,"Crash
+EB 7200 S at 300 W (Midvale) Salt Lake Co.
+Right Lanes Closed
+Est. Clearance Time: 9:30 AM","2/22/24, 8:18 AM","2/22/24, 9:30 AM","2/22/24, 8:18 AM",,40.620677,-111.900174
 UT-Incident--175769,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
