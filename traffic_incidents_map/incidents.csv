@@ -10671,7 +10671,6 @@ UT-Incident--175764,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:44 AM","2/22/24, 5:47 AM","2/22/24, 6:44 AM","2/22/24, 5:47 AM",,40.755521,-111.587294
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175765,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 WB I-80 at MP 145 Summit Co.
 Right Shoulder
@@ -10681,6 +10680,7 @@ UT-Incident--175768,Incidents,HWY 201,Salt Lake County,HWY 201 at BANGERTER HWY,
 EB SR-201 at Bangerter Hwy (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","2/22/24, 7:02 AM","2/22/24, 8:15 AM","2/22/24, 7:02 AM",,40.725706,-111.987726
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
 NB I-215 Ramp to WB I-80 (SLC) Salt Lake Co.
 Ramp Closed
