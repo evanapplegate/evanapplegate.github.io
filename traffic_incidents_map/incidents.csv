@@ -10610,7 +10610,6 @@ UT-Incident--175744,Incidents,SR 224,Summit County,SR 224 at MP 11,"Crash
 SB SR 224 at MP 11 (Newpark Town Center) Summit Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:15 PM","2/21/24, 4:06 PM","2/21/24, 5:15 PM","2/21/24, 4:06 PM",,40.719592,-111.544709
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175746,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (800 N / Orem) Utah Co.
 Est. Clearance Time: 6:00 PM","2/21/24, 4:53 PM","2/21/24, 6:00 PM","2/21/24, 4:53 PM",,40.316406,-111.72616
@@ -10621,6 +10620,11 @@ UT-Incident--175745,Incidents,SR 28,Juab County,SR 28 at MP 25,"Crash
 SR 28 at MP 25 (4 Mi S of Levan) Juab Co.
 Est. Clearance Time: 5:45 PM","2/21/24, 4:39 PM","2/21/24, 5:45 PM","2/21/24, 4:39 PM",,39.489956,-111.883092
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175751,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
+NB I-15 at MP 336 (Sunset) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","2/21/24, 6:33 PM","2/21/24, 7:45 PM","2/21/24, 6:33 PM",,41.125961,-112.025249
 UT-Incident--175750,Incidents,Main St,Sanpete County,Main St at 700 S,"Crash
 NB Main St at 1300 S (Richfield) Sanpete Co.
 Right Shoulder
