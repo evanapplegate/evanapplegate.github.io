@@ -10705,7 +10705,6 @@ UT-Incident--175769,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/22/24, 7:54 AM","2/22/24, 9:15 AM","2/22/24, 7:54 AM",,40.775011,-111.949343
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175770,Incidents,I-80,Tooele County,I-80 at MP 70,"Crash
 WB I-80 at MP 70 (Delle) Tooele Co.
 Est. Clearance Time: 9:45 AM","2/22/24, 7:56 AM","2/22/24, 9:45 AM","2/22/24, 9:21 AM",,40.759175,-112.773801
@@ -10720,5 +10719,10 @@ UT-Incident--175774,Incidents,I-15 SB X309 ON 600 N RAMP,Salt Lake County,I-15 S
 SB I-15 600 N Onramp (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","2/22/24, 9:09 AM","2/22/24, 10:15 AM","2/22/24, 9:09 AM",,40.781053,-111.911063
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175775,Incidents,I-15 SB X244 Off Main St Ramp,Utah County,I-15 SB X244 Off Main St Ramp at Main St,"Crash
+SB I-15 Exit 244 Main St Off Ramp (Santaquin) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:15 AM","2/22/24, 10:16 AM","2/22/24, 11:15 AM","2/22/24, 10:16 AM",,39.977993,-111.770394
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
