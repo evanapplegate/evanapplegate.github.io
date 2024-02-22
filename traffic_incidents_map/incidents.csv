@@ -10667,25 +10667,34 @@ Est. Clearance Time: 2:10 AM","2/22/24, 1:11 AM","2/22/24, 2:10 AM","2/22/24, 1:
 UT-Incident--175755,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 21,"SB Mountain View Corr Closed
  at MP 21 (W 3500 S) Salt Lake Co.
 Use Alt Route","2/21/24, 10:53 PM","2/22/24, 2:51 AM","2/21/24, 11:17 PM",,40.691955,-112.02898
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175764,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:44 AM","2/22/24, 5:47 AM","2/22/24, 6:44 AM","2/22/24, 5:47 AM",,40.755521,-111.587294
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
-NB I-215 Ramp to WB I-80/Redwood Rd (SLC) Salt Lake Co.
-Est. Clearance Time: 7:30 AM","2/22/24, 6:22 AM","2/22/24, 7:30 AM","2/22/24, 6:22 AM",,40.761621,-111.949811
 UT-Incident--175765,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 WB I-80 at MP 145 Summit Co.
 Right Shoulder
 Est. Clearance Time: 7:03 AM","2/22/24, 6:04 AM","2/22/24, 7:03 AM","2/22/24, 6:17 AM",,40.722312,-111.518201
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175768,Incidents,HWY 201,Salt Lake County,HWY 201 at BANGERTER HWY,"Crash
+EB SR-201 at Bangerter Hwy (SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:15 AM","2/22/24, 7:02 AM","2/22/24, 8:15 AM","2/22/24, 7:02 AM",,40.725706,-111.987726
+UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
+NB I-215 Ramp to WB I-80 (SLC) Salt Lake Co.
+Ramp Closed
+Est. Clearance Time: 7:30 AM","2/22/24, 6:22 AM","2/22/24, 7:30 AM","2/22/24, 6:52 AM",,40.761621,-111.949811
+UT-Incident--175767,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 7800 S,"Crash
+WB Mountain View Corridor Hwy at 7800 S Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:45 AM","2/22/24, 6:46 AM","2/22/24, 7:45 AM","2/22/24, 6:46 AM",,40.60943,-112.035576
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
-Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/21/24, 7:35 PM","2/21/24, 6:20 AM",,40.619107,-111.786281
+Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/28/24, 7:35 PM","2/22/24, 6:59 AM",,40.619107,-111.786281
 UT-Incident--175644,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
-Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/21/24, 7:30 PM","2/21/24, 6:20 AM",,40.572095,-111.773814
+Traction Devices Required for All Vehicles","2/19/24, 6:35 PM","2/28/24, 7:30 PM","2/22/24, 6:59 AM",,40.572095,-111.773814
 UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175763,Incidents,US 40,Uintah County,US 40 at MP 121,"Crash
