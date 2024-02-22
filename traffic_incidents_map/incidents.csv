@@ -10639,7 +10639,6 @@ UT-Incident--175754,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Lane Closure
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:30 PM","2/21/24, 10:15 PM","2/21/24, 11:30 PM","2/21/24, 10:15 PM",,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175758,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Lane Closed
@@ -10656,9 +10655,14 @@ UT-Incident--175759,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 EB I-215 S at MP 7 (2300 E) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 1:17 AM","2/22/24, 12:17 AM","2/22/24, 1:17 AM","2/22/24, 12:17 AM",,40.634098,-111.815185
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175757,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143-128 (Parley's Canyon) Salt Lake/Summit Co
 Approved traction devices required for all semis","2/21/24, 11:28 PM","2/22/24, 12:26 AM","2/21/24, 11:28 PM",,40.740161,-111.558358
+UT-Incident--175761,Incidents,I-80,Summit County,I-80 at MP 140,"Road weather
+WB I-80 at Exit 140 (Summit Park / Park City) Summit Co.
+Off-Ramp Closed
+Est. Clearance Time: 2:10 AM","2/22/24, 1:11 AM","2/22/24, 2:10 AM","2/22/24, 1:11 AM",,40.750021,-111.604602
 UT-Incident--175755,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 21,"SB Mountain View Corr Closed
  at MP 21 (W 3500 S) Salt Lake Co.
 Use Alt Route","2/21/24, 10:53 PM","2/22/24, 2:51 AM","2/21/24, 11:17 PM",,40.691955,-112.02898
