@@ -10680,7 +10680,6 @@ EB SR-201 at Bangerter Hwy (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","2/22/24, 7:02 AM","2/22/24, 8:15 AM","2/22/24, 7:02 AM",,40.725706,-111.987726
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175766,Incidents,I-215 NB X22 COL OFF RAMP,Salt Lake County,I-215 NB X22 COL OFF RAMP at I-215W NB FWY,"Crash
 NB I-215 Ramp to WB I-80 (SLC) Salt Lake Co.
 Ramp Closed
@@ -10689,6 +10688,14 @@ UT-Incident--175767,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 WB Mountain View Corridor Hwy at 7800 S Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","2/22/24, 6:46 AM","2/22/24, 7:45 AM","2/22/24, 6:46 AM",,40.60943,-112.035576
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175769,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","2/22/24, 7:54 AM","2/22/24, 9:15 AM","2/22/24, 7:54 AM",,40.775011,-111.949343
+UT-Incident--175770,Incidents,I-80,Tooele County,I-80 at MP 70,"Crash
+WB I-80 at MP 70 (Delle) Tooele Co.
+Est. Clearance Time: 9:15 AM","2/22/24, 7:56 AM","2/22/24, 9:15 AM","2/22/24, 7:57 AM",,40.759175,-112.773801
 UT-Incident--175645,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Traction Devices Required for All Vehicles","2/19/24, 6:36 PM","2/28/24, 7:35 PM","2/22/24, 6:59 AM",,40.619107,-111.786281
