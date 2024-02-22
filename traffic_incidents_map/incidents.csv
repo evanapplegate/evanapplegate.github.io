@@ -10706,19 +10706,19 @@ SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","2/22/24, 7:54 AM","2/22/24, 9:15 AM","2/22/24, 7:54 AM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175774,Incidents,I-15 SB X309 ON 600 N RAMP,Salt Lake County,I-15 SB X309 ON 600 N RAMP at 600 N,"Crash
-SB I-15 600 N Onramp (SLC) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:15 AM","2/22/24, 9:09 AM","2/22/24, 10:15 AM","2/22/24, 9:09 AM",,40.781053,-111.911063
 UT-Incident--175770,Incidents,I-80,Tooele County,I-80 at MP 70,"Crash
 WB I-80 at MP 70 (Delle) Tooele Co.
 Est. Clearance Time: 9:45 AM","2/22/24, 7:56 AM","2/22/24, 9:45 AM","2/22/24, 9:21 AM",,40.759175,-112.773801
-UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
-Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
 UT-Incident--175763,Incidents,US 40,Uintah County,US 40 at MP 121,"Crash
 US 40 at MP 121 (7 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 5:07 AM","2/22/24, 4:07 AM","2/22/24, 5:07 AM","2/22/24, 4:07 AM",,40.301924,-109.866916
 UT-Incident--175773,Incidents,US 40,Wasatch County,US 40 at MP 57,"Crash
 WB US 40 at MP 57 (4 mi W of Fruitland) Wasatch Co.
 Est. Clearance Time: 10:00 AM","2/22/24, 9:01 AM","2/22/24, 10:00 AM","2/22/24, 9:01 AM",,40.196721,-110.927367
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175774,Incidents,I-15 SB X309 ON 600 N RAMP,Salt Lake County,I-15 SB X309 ON 600 N RAMP at 600 N,"Crash
+SB I-15 600 N Onramp (SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","2/22/24, 9:09 AM","2/22/24, 10:15 AM","2/22/24, 9:09 AM",,40.781053,-111.911063
+UT-Incident--175618,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
+Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/18/24, 10:24 PM","3/3/24, 11:23 PM","2/18/24, 10:24 PM",,40.997685,-109.432538
