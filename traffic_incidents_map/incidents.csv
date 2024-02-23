@@ -10767,16 +10767,20 @@ UT-Incident--175786,Incidents,SR 112,Tooele County,SR 112 at MP 7,"Crash
 EB SR 112 at MP 7 (Franks Drive) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 5:32 PM","2/22/24, 4:33 PM","2/22/24, 5:32 PM","2/22/24, 4:33 PM",,40.550823,-112.321443
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175788,Incidents,200 N,Davis County,200 N 401,"Crash
 EB 200 N at I-15 Fwy (Kaysville) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","2/22/24, 4:53 PM","2/22/24, 5:45 PM","2/22/24, 4:55 PM",,41.038167,-111.949928
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175790,Incidents,I-15,Box Elder County,I-15 at MP 400,"Crash
-NB I-15 at MP 400 (UT/ID State Line) Box Elder Co.
-Est. Clearance Time: 7:00 PM","2/22/24, 5:43 PM","2/22/24, 7:00 PM","2/22/24, 5:43 PM",,41.993017,-112.195719
 UT-Incident--175791,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","2/22/24, 6:11 PM","2/22/24, 7:00 PM","2/22/24, 6:11 PM",,40.401041,-111.849765
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175790,Incidents,I-15,Box Elder County,I-15 at MP 400,"Crash
+NB I-15 at MP 400 (UT/ID State Line) Box Elder Co.
+Est. Clearance Time: 7:00 PM","2/22/24, 5:43 PM","2/22/24, 7:00 PM","2/22/24, 5:43 PM",,41.993017,-112.195719
+UT-Incident--175792,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
+NB I-15 at MP 303 (3300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","2/22/24, 6:58 PM","2/22/24, 7:45 PM","2/22/24, 6:58 PM",,40.693589,-111.902881
