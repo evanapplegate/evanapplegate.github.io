@@ -10828,9 +10828,17 @@ UT-Incident--175810,Incidents,Washington Blvd,Weber County,Washington Blvd at 2n
 SB Washington Blvd at 2nd St/Harrisville Rd Weber Co.
 Right Shoulder
 Est. Clearance Time: 1:59 PM","2/23/24, 1:00 PM","2/23/24, 1:59 PM","2/23/24, 1:00 PM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175804,Incidents,I-15,Juab County,I-15 at MP 227,"Crash
 SB I-15 at MP 227 (1 mi N of Nephi) Juab Co.
 Right Lane Closed
 Est. Clearance Time: 1:00 PM","2/23/24, 11:02 AM","2/23/24, 12:00 PM","2/23/24, 11:19 AM",,39.734421,-111.826163
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175811,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 21,"Crash
+NB Mountain View Corr at MP 21 (W 3500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:19 PM","2/23/24, 2:20 PM","2/23/24, 3:19 PM","2/23/24, 2:20 PM",,40.691955,-112.02898
+UT-Incident--175812,Incidents,US 6,Utah County,US 6 at MP 174,"Crash
+NB US 6 at MP 174 (800 North, Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 3:27 PM","2/23/24, 2:28 PM","2/23/24, 3:27 PM","2/23/24, 2:28 PM",,40.119015,-111.638342
