@@ -6,16 +6,29 @@ plt.rcParams['pdf.fonttype'] = 42
 plt.rcParams['ps.fonttype'] = 42
 plt.rcParams['font.family'] = 'Arial'
 
-gdp_df = pd.read_excel('uploads/world_gdp.xlsx')
-countries = gpd.read_file('map_data/countries.geojson').to_crs('ESRI:54030')
-country_bounds = gpd.read_file('map_data/country_bounds.geojson').to_crs('ESRI:54030')
+# Load GeoJSON
+countries = gpd.read_file('map_data/countries.geojson')
+country_bounds = gpd.read_file('map_data/country_bounds.geojson')
 
-map_df = countries.merge(gdp_df, left_on='NAME', right_on='NAME', how='left')
+# Load GDP data
+gdp_data = pd.read_excel('uploads/world_gdp.xlsx')
 
+# Merge the GDP data with the countries GeoDataFrame
+countries = countries.merge(gdp_data, on='NAME', how='left')
+
+# Set NaN gdp_per_capita values to a specific color
+countries['gdp_per_capita'] = countries['gdp_per_capita'].fillna(value=-1)  # Using -1 as a placeholder for NaN values
+
+# Plot
 fig, ax = plt.subplots(figsize=(15, 10))
-map_df.plot(column='gdp_per_capita', ax=ax, legend=True, cmap='Greens', missing_kwds={'color': '#eeeeee', 'label': 'Missing values'})
-country_bounds.plot(ax=ax, color='white', linewidth=0.5)
+countries.to_crs('ESRI:54030').plot(ax=ax, column='gdp_per_capita', cmap='Greens', legend=True, missing_kwds={'color': '#eeeeee', 'label': 'Missing values'}, linewidth=0)
+
+# Country borders
+country_bounds.to_crs('ESRI:54030').plot(ax=ax, color='white', linewidth=0.5)
 
 plt.axis('off')
+plt.legend(title='GDP per Capita')
+
+# Saving the figures
 plt.savefig('world_gdp_map.pdf', bbox_inches='tight')
 plt.savefig('world_gdp_map.png', bbox_inches='tight')
