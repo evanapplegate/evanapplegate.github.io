@@ -10798,7 +10798,6 @@ UT-Incident--175796,Incidents,STATE ST,Salt Lake County,STATE ST 6495,"Crash
 SB State St at 6400 S Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 3:02 AM","2/23/24, 2:03 AM","2/23/24, 3:02 AM","2/23/24, 2:08 AM",,40.631182,-111.889606
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175798,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Vehicle on fire
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 2 Right Lanes Closed
@@ -10808,3 +10807,4 @@ UT-Incident--175799,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:52 AM","2/23/24, 5:53 AM","2/23/24, 6:52 AM","2/23/24, 5:53 AM",,40.203376,-111.655441
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
