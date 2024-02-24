@@ -10924,15 +10924,6 @@ SB I-15 at MP 253  Off Ramp (8000 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:15 PM","2/24/24, 2:07 PM","2/24/24, 3:15 PM","2/24/24, 2:07 PM",,40.079244,-111.709158
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
-NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
-Right Lane Closed
-Est. Clearance Time: 1:49 PM","2/24/24, 12:50 PM","2/24/24, 1:49 PM","2/24/24, 1:13 PM",,38.658157,-112.595083
-UT-Incident--175839,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
-NB I-15 at MP 301 (4500 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 4:06 PM","2/24/24, 3:07 PM","2/24/24, 4:06 PM","2/24/24, 3:07 PM",,40.664677,-111.90152
 UT-Incident--175836,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at North Temple St,"Crash
 NB Redwood Rd at North Temple St Salt Lake Co.
 Left Lane Closed
@@ -10940,3 +10931,20 @@ Est. Clearance Time: 3:15 PM","2/24/24, 1:58 PM","2/24/24, 3:15 PM","2/24/24, 1:
 UT-Incident--175837,Incidents,US 6,Utah County,US 6 at MP 222,"Crash
 WB US 6 at MP 222 (6 MI E of Scofiled Jct) Utah Co.
 Est. Clearance Time: 3:00 PM","2/24/24, 2:01 PM","2/24/24, 3:00 PM","2/24/24, 2:01 PM",,39.813951,-110.939035
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
+NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Center Lane Closed
+Est. Clearance Time: 6:00 PM","2/24/24, 12:50 PM","2/24/24, 6:00 PM","2/24/24, 3:39 PM",,38.658157,-112.595083
+UT-Incident--175839,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:06 PM","2/24/24, 3:07 PM","2/24/24, 4:06 PM","2/24/24, 3:07 PM",,40.664677,-111.90152
+UT-Incident--175840,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
+SB I-15 at MP 263 (University Ave / Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 4:34 PM","2/24/24, 3:35 PM","2/24/24, 4:34 PM","2/24/24, 3:35 PM",,40.203376,-111.655441
+UT-Incident--175841,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
+SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","2/24/24, 3:44 PM","2/24/24, 4:45 PM","2/24/24, 3:44 PM",,40.928541,-111.891476
