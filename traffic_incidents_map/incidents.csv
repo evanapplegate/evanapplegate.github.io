@@ -10859,7 +10859,6 @@ UT-Incident--175819,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","2/23/24, 7:07 PM","2/23/24, 8:15 PM","2/23/24, 7:20 PM",,40.621691,-111.903876
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175817,Incidents,I-80,Summit County,I-80 at MP 194,"Crash
 EB I-80 at MP 194 (2 mi W of WY border) Summit Co.
 Est. Clearance Time: 7:45 PM","2/23/24, 6:15 PM","2/23/24, 7:45 PM","2/23/24, 7:28 PM",,41.229134,-111.085394
@@ -10875,3 +10874,4 @@ UT-Incident--175818,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
 EB SR 201 at MP 6 (9180 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:01 PM","2/23/24, 7:04 PM","2/23/24, 8:01 PM","2/23/24, 7:19 PM",,40.71806,-112.114369
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
