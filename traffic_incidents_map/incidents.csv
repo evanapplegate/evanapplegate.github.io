@@ -10930,11 +10930,11 @@ Est. Clearance Time: 3:15 PM","2/24/24, 1:58 PM","2/24/24, 3:15 PM","2/24/24, 1:
 UT-Incident--175837,Incidents,US 6,Utah County,US 6 at MP 222,"Crash
 WB US 6 at MP 222 (6 MI E of Scofiled Jct) Utah Co.
 Est. Clearance Time: 3:00 PM","2/24/24, 2:01 PM","2/24/24, 3:00 PM","2/24/24, 2:01 PM",,39.813951,-110.939035
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175839,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:06 PM","2/24/24, 3:07 PM","2/24/24, 4:06 PM","2/24/24, 3:07 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
 NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
@@ -10956,3 +10956,7 @@ UT-Incident--175843,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","2/24/24, 4:10 PM","2/24/24, 5:15 PM","2/24/24, 4:10 PM",,40.53585,-111.892927
+UT-Incident--175844,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","2/24/24, 4:42 PM","2/24/24, 5:45 PM","2/24/24, 4:42 PM",,40.52103,-111.891246
