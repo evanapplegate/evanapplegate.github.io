@@ -10887,7 +10887,6 @@ UT-Incident--175825,Incidents,US 40,Wasatch County,US 40 at MP 23,"Crash
 WB US 40 at MP 23 (2 mi S of Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 1:57 AM","2/24/24, 12:59 AM","2/24/24, 1:57 AM","2/24/24, 12:59 AM",,40.434401,-111.355111
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175826,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 Ramp I-15 at MP 307 (600 S) Salt Lake Co.
 Left Shoulder
@@ -10897,3 +10896,8 @@ UT-Incident--175827,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:33 AM","2/24/24, 4:34 AM","2/24/24, 5:33 AM","2/24/24, 4:43 AM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175828,Incidents,I-80,Summit County,I-80 at MP 164,"Debris
+WB I-80 at MP 164 (1 mi N of Coalville) Summit Co.
+Cleared at 5:30 AM
+Est. Clearance Time: 6:28 AM","2/24/24, 5:30 AM","2/24/24, 6:28 AM","2/24/24, 5:30 AM",,40.931083,-111.410391
