@@ -11035,7 +11035,6 @@ UT-Incident--175866,Incidents,28th St,Weber County,28th St at Washington Blvd,"C
 Both Directions 28th St at Washington Blvd (Weber County)
 Center Lanes Closed
 Est. Clearance Time: 12:30 PM","2/25/24, 11:28 AM","2/25/24, 12:30 PM","2/25/24, 11:28 AM",,41.214395,-111.970621
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175867,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
 SB I-15 at MP 346 (Pioneer Rd) Weber Co.
 Right Shoulder
@@ -11045,3 +11044,8 @@ UT-Incident--175868,Incidents,Main St,Davis County,Main St at Hill Field Rd,"Cra
 NB Main St at Hill Field Rd (Davis County)
 Left Lane Closed
 Est. Clearance Time: 1:30 PM","2/25/24, 12:25 PM","2/25/24, 1:30 PM","2/25/24, 12:35 PM",,41.072258,-111.978377
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175869,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+SB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:00 PM","2/25/24, 12:45 PM","2/25/24, 2:00 PM","2/25/24, 12:45 PM",,40.726643,-111.904701
