@@ -10990,7 +10990,6 @@ Est. Clearance Time: 9:15 PM","2/24/24, 8:06 PM","2/24/24, 9:15 PM","2/24/24, 8:
 UT-Incident--175851,Incidents,SR 102,Box Elder County,SR 102 at MP 18,"Crash
 SR 102 at MP 18 (E of Tremonton) Box Elder Co.
 Est. Clearance Time: 8:15 PM","2/24/24, 7:15 PM","2/24/24, 8:15 PM","2/24/24, 7:15 PM",,41.712467,-112.132541
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175854,Incidents,I-15,Washington County,I-15 at MP 17,"Crash
 NB I-15 at MP 17 (4 mi NE of Washington) Washington Co.
 Right Lane Closed
@@ -10998,6 +10997,7 @@ Est. Clearance Time: 2/25/2024 5:00 AM","2/24/24, 8:32 PM","2/25/24, 5:00 AM","2
 UT-Incident--175856,Incidents,SR 12,Garfield County,SR 12 at MP 23,"Crash
 SR 12 at MP 23 (2 Mi W of Cannonville) Garfield Co.
 Est. Clearance Time: 11:00 PM","2/24/24, 9:54 PM","2/24/24, 11:00 PM","2/24/24, 9:54 PM",,37.605377,-112.060577
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175857,Incidents,Wall Ave,Weber County,Wall Ave at 900 S,"NB Wall Ave Closed
  at 900 S Weber Co.
