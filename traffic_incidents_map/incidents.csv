@@ -10934,7 +10934,6 @@ UT-Incident--175839,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehi
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:06 PM","2/24/24, 3:07 PM","2/24/24, 4:06 PM","2/24/24, 3:07 PM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175840,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Lane Closed
@@ -10955,10 +10954,6 @@ Est. Clearance Time: 5:45 PM","2/24/24, 4:42 PM","2/24/24, 5:45 PM","2/24/24, 4:
 UT-Incident--175847,Incidents,12th St,Weber County,12th St at 300 W,"Crash
 EB 12th St at 200 W Weber Co.
 Est. Clearance Time: 6:35 PM","2/24/24, 5:21 PM","2/24/24, 6:35 PM","2/24/24, 5:21 PM",,0.0,0.0
-UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
-NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","2/24/24, 12:50 PM","2/24/24, 6:00 PM","2/24/24, 3:47 PM",,38.658157,-112.595083
 UT-Incident--175842,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Lane Closure
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 3 Right Lanes Closed
@@ -10967,6 +10962,18 @@ UT-Incident--175845,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","2/24/24, 4:55 PM","2/24/24, 6:00 PM","2/24/24, 4:57 PM",,40.52103,-111.891246
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
+NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 6:00 PM","2/24/24, 12:50 PM","2/24/24, 9:00 PM","2/24/24, 6:27 PM",,38.658157,-112.595083
+UT-Incident--175848,Incidents,I-15,Utah County,I-15 at MP 251,"Debris
+SB I-15 at MP 251 (Main St /Payson) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:58 PM","2/24/24, 5:59 PM","2/24/24, 6:58 PM","2/24/24, 5:59 PM",,40.056219,-111.731751
 UT-Incident--175846,Incidents,SR 143,Iron County,SR 143 at MP 23,"Crash
 SR 143 at MP 23 (7 Mi SE of Brian Head) Iron Co.
 Est. Clearance Time: 6:15 PM","2/24/24, 5:07 PM","2/24/24, 6:15 PM","2/24/24, 5:07 PM",,37.655025,-112.760786
+UT-Incident--175849,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Vehicle on fire
+EB SR 201 at MP 2 (SR-202) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:27 PM","2/24/24, 6:29 PM","2/24/24, 7:27 PM","2/24/24, 6:30 PM",,40.727579,-112.186092
