@@ -10935,11 +10935,6 @@ NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:06 PM","2/24/24, 3:07 PM","2/24/24, 4:06 PM","2/24/24, 3:07 PM",,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
-NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","2/24/24, 12:50 PM","2/24/24, 6:00 PM","2/24/24, 3:47 PM",,38.658157,-112.595083
 UT-Incident--175840,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Lane Closed
@@ -10948,10 +10943,6 @@ UT-Incident--175841,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
 SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","2/24/24, 3:44 PM","2/24/24, 4:45 PM","2/24/24, 3:44 PM",,40.928541,-111.891476
-UT-Incident--175842,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
-NB I-15 at MP 293 (10600 S) Salt Lake Co.
-3 Right Lanes Closed
-Est. Clearance Time: 5:15 PM","2/24/24, 4:04 PM","2/24/24, 5:15 PM","2/24/24, 4:04 PM",,40.550055,-111.896336
 UT-Incident--175843,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
@@ -10960,3 +10951,22 @@ UT-Incident--175844,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","2/24/24, 4:42 PM","2/24/24, 5:45 PM","2/24/24, 4:42 PM",,40.52103,-111.891246
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175847,Incidents,12th St,Weber County,12th St at 300 W,"Crash
+EB 12th St at 200 W Weber Co.
+Est. Clearance Time: 6:35 PM","2/24/24, 5:21 PM","2/24/24, 6:35 PM","2/24/24, 5:21 PM",,0.0,0.0
+UT-Incident--175835,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
+NB I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 PM","2/24/24, 12:50 PM","2/24/24, 6:00 PM","2/24/24, 3:47 PM",,38.658157,-112.595083
+UT-Incident--175842,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Lane Closure
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 5:15 PM","2/24/24, 4:04 PM","2/24/24, 5:15 PM","2/24/24, 5:29 PM",,40.550055,-111.896336
+UT-Incident--175845,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:00 PM","2/24/24, 4:55 PM","2/24/24, 6:00 PM","2/24/24, 4:57 PM",,40.52103,-111.891246
+UT-Incident--175846,Incidents,SR 143,Iron County,SR 143 at MP 23,"Crash
+SR 143 at MP 23 (7 Mi SE of Brian Head) Iron Co.
+Est. Clearance Time: 6:15 PM","2/24/24, 5:07 PM","2/24/24, 6:15 PM","2/24/24, 5:07 PM",,37.655025,-112.760786
