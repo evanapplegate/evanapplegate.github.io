@@ -11054,12 +11054,12 @@ UT-Incident--175871,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 SB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","2/25/24, 4:48 PM","2/25/24, 5:47 PM","2/25/24, 4:48 PM",,40.362967,-111.560551
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175874,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Stalled Vehicle
 Ramp I-15 at MP 303 (3300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:45 PM","2/25/24, 7:04 PM","2/25/24, 8:45 PM","2/25/24, 8:02 PM",,40.693589,-111.902881
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175875,Incidents,I-70,Emery County,I-70 at MP 158,"Vehicle Fire
-WB I-70 Closed
- at MP 158 (2 mi W of Green River) Emery Co.","2/25/24, 9:07 PM","2/25/24, 10:04 PM","2/25/24, 9:07 PM",,,
+EB I-70 Closed
+ at MP 158 (2 mi W of Green River) Emery Co.","2/25/24, 9:07 PM","2/25/24, 10:04 PM","2/25/24, 9:17 PM",,38.982019,-110.231802
