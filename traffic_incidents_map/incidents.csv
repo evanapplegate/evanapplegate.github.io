@@ -11090,7 +11090,6 @@ UT-Incident--175884,Incidents,SR 39,Weber County,SR 39 at MP 10,"Debris
 EB SR 39 at MP 10 (2 miles east of Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:21 AM","2/26/24, 4:29 AM","2/26/24, 5:21 AM","2/26/24, 4:29 AM",,41.240008,-111.90543
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175886,Incidents,1000 W,Davis County,1000 W at 200 S,"Crash
 EB SR-193 at 1000 W (Syracuse) Davis Co.
 Right Shoulder
@@ -11100,7 +11099,12 @@ NB I-215w 4700 S Off Ramp (Salt Lake County)
 Left Shoulder
 Est. Clearance Time: 6:30 AM","2/26/24, 5:21 AM","2/26/24, 6:30 AM","2/26/24, 5:44 AM",,40.667614,-111.949829
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175875,Incidents,I-70,Emery County,I-70 at MP 158,"Vehicle on fire
 EB I-70 MP 158
 Right Lane Closed
 Est. Clearance Time: 2/26/2024 10:04 AM","2/25/24, 9:07 PM","2/26/24, 10:04 AM","2/25/24, 11:22 PM",,38.982019,-110.231802
+UT-Incident--175887,Incidents,I-84,Box Elder County,I-84 at MP 24,"Crash
+WB I-84 at MP 24 (14 mi N of Tremonton) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 8:15 AM","2/26/24, 7:02 AM","2/26/24, 8:15 AM","2/26/24, 7:02 AM",,41.846768,-112.44232
