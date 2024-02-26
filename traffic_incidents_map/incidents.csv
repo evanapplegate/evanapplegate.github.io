@@ -11099,15 +11099,19 @@ NB I-215w 4700 S Off Ramp (Salt Lake County)
 Left Shoulder
 Est. Clearance Time: 6:30 AM","2/26/24, 5:21 AM","2/26/24, 6:30 AM","2/26/24, 5:44 AM",,40.667614,-111.949829
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175889,Incidents,300 N,Davis County,300 N 75,"Crash
 SB Main St at 300 N (Clearfield) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","2/26/24, 7:33 AM","2/26/24, 8:40 AM","2/26/24, 7:43 AM",,41.118057,-112.026032
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175888,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 NB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Cleared at 7:38 AM
 Expect Residual Delays","2/26/24, 7:17 AM","2/26/24, 8:15 AM","2/26/24, 7:38 AM",,40.203376,-111.655441
+UT-Incident--175890,Incidents,I-15 NB To I-215 EB Col S Ramp,Salt Lake County,I-15 NB To I-215 EB Col S Ramp at I-215 EB,"Crash
+NB I-15 To I-215 Col Ramp (Salt Lake Co)
+Left Lane Closed
+Est. Clearance Time: 9:00 AM","2/26/24, 8:00 AM","2/26/24, 9:00 AM","2/26/24, 8:00 AM",,40.62002,-111.903638
 UT-Incident--175875,Incidents,I-70,Emery County,I-70 at MP 158,"Vehicle on fire
 EB I-70 MP 158
 Right Lane Closed
