@@ -11187,7 +11187,6 @@ UT-Incident--175915,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Crash
 WB SR 201 at MP 2 (SR-202) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2/27/2024 12:19 AM","2/26/24, 11:20 PM","2/27/24, 12:19 AM","2/26/24, 11:20 PM",,40.727579,-112.186092
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175916,Incidents,I-15,Box Elder County,I-15 at MP 376,"Crash
 SB I-15 at MP 376 (Tremonton) Box Elder Co.
 Est. Clearance Time: 1:13 AM","2/27/24, 12:13 AM","2/27/24, 1:13 AM","2/27/24, 12:13 AM",,41.673943,-112.132669
@@ -11195,6 +11194,7 @@ UT-Incident--175917,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:13 AM","2/27/24, 12:15 AM","2/27/24, 1:13 AM","2/27/24, 12:15 AM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175919,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 MP 128-143 (Parley's Canyon) Salt Lake/Summit Co
