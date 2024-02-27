@@ -11347,20 +11347,24 @@ NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","2/27/24, 10:39 AM","2/27/24, 11:45 AM","2/27/24, 10:39 AM",,40.74966,-111.90976
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175965,Incidents,Redwood Rd,Utah County,Redwood Rd at 2100 N,"Crash
 SB Redwood Rd at 2100 N Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 12:40 PM","2/27/24, 11:33 AM","2/27/24, 12:40 PM",,,40.413012,-111.923074
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175966,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:27 PM","2/27/24, 12:28 PM","2/27/24, 1:27 PM","2/27/24, 12:28 PM",,40.578741,-111.900284
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
-Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM",,,40.619107,-111.786281
+Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM","2/26/24, 8:38 PM",,40.619107,-111.786281
 UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
-Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM",,,40.572095,-111.773814
+Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM","2/26/24, 8:39 PM",,40.572095,-111.773814
 UT-Incident--175911,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 EB SR-224 (Empire Pass) between MP 2 and 5.
-Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM",,,40.624634,-111.501637
+Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM","2/26/24, 10:18 PM",,40.624634,-111.501637
 UT-Incident--175912,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 WB SR-224 (Empire Pass) between MP 5 and 2.
-Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM",,,40.649413,-111.49858
+Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM","2/26/24, 10:18 PM",,40.649413,-111.49858
