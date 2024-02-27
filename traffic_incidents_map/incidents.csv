@@ -11306,7 +11306,6 @@ Est. Clearance Time: 8:30 AM","2/27/24, 7:31 AM","2/27/24, 8:30 AM",,,39.161038,
 UT-Incident--175958,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
 NB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
 Est. Clearance Time: 8:40 AM","2/27/24, 7:39 AM","2/27/24, 8:40 AM",,,41.497336,-111.967135
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
 NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
 Cleared at 8:47 AM
@@ -11318,6 +11317,7 @@ UT-Incident--175953,Incidents,I-15,Beaver County,I-15 at MP 128,"Crash
 NB I-15 at MP 128 (4 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 8:30 AM","2/27/24, 7:29 AM","2/27/24, 8:30 AM",,,38.517256,-112.613301
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175926,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
