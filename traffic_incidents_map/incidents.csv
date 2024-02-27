@@ -11282,35 +11282,46 @@ UT-Incident--175957,Incidents,I-15 NB X244 On Main St Ramp,Utah County,I-15 NB X
 NB I-15 Main St On Ramp (Santaquin) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","2/27/24, 7:38 AM","2/27/24, 8:45 AM",,,39.975581,-111.771454
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175952,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:25 AM","2/27/24, 8:30 AM",,,40.627915,-111.443541
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
-NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 8:15 AM","2/27/24, 7:17 AM","2/27/24, 8:15 AM",,,40.55325,-111.977994
-UT-Incident--175926,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
-NB I-15 at MP 283 (Lehi) Utah Co.
-Est. Clearance Time: 6:00 AM","2/27/24, 5:06 AM","2/27/24, 6:00 AM",,,40.420056,-111.878496
 UT-Incident--175937,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:40 AM","2/27/24, 5:39 AM","2/27/24, 6:40 AM",,,40.410606,-111.863979
-UT-Incident--175945,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
-SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
-Est. Clearance Time: 7:40 AM","2/27/24, 6:37 AM","2/27/24, 7:40 AM",,,38.488516,-112.617781
 UT-Incident--175949,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
 NB I-15 at MP 225 (100 S / Nephi) Juab Co.
 Est. Clearance Time: 8:10 AM","2/27/24, 7:09 AM","2/27/24, 8:10 AM",,,39.707193,-111.818689
+UT-Incident--175955,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
+NB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
+Est. Clearance Time: 8:30 AM","2/27/24, 7:33 AM","2/27/24, 8:30 AM",,,39.384797,-112.074376
+UT-Incident--175956,Incidents,I-84,Weber County,I-84 at MP 90,"Crash
+WB I-84 at MP 90 (2 mi W of Mountain Green) Weber Co.
+Est. Clearance Time: 8:45 AM","2/27/24, 7:35 AM","2/27/24, 8:45 AM",,,41.138009,-111.872556
+UT-Incident--175918,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalance Control
+Both Directions SR 210 Closed at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.","2/27/24, 12:25 AM","2/27/24, 8:30 AM",,,40.572095,-111.773814
+UT-Incident--175954,Incidents,US 89,Sanpete County,US 89 at MP 243,"Crash
+US 89 at MP 243 (1 mile NE of Gunnison) Sanpete Co.
+Est. Clearance Time: 8:30 AM","2/27/24, 7:31 AM","2/27/24, 8:30 AM",,,39.161038,-111.789164
+UT-Incident--175958,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
+NB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
+Est. Clearance Time: 8:40 AM","2/27/24, 7:39 AM","2/27/24, 8:40 AM",,,41.497336,-111.967135
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
+NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
+Cleared at 8:47 AM
+Expect Residual Delays","2/27/24, 7:17 AM","2/27/24, 8:15 AM",,,40.55325,-111.977994
+UT-Incident--175926,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+Est. Clearance Time: 6:00 AM","2/27/24, 5:06 AM","2/27/24, 6:00 AM",,,40.420056,-111.878496
+UT-Incident--175945,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
+SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
+Est. Clearance Time: 7:40 AM","2/27/24, 6:37 AM","2/27/24, 7:40 AM",,,38.488516,-112.617781
 UT-Incident--175953,Incidents,I-15,Beaver County,I-15 at MP 128,"Crash
 NB I-15 at MP 128 (4 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 8:30 AM","2/27/24, 7:29 AM","2/27/24, 8:30 AM",,,38.517256,-112.613301
-UT-Incident--175955,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
-NB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
-Est. Clearance Time: 8:30 AM","2/27/24, 7:33 AM","2/27/24, 8:30 AM",,,39.384797,-112.074376
 UT-Incident--175961,Incidents,I-215w NB X18 On 3500 S Ramp,Salt Lake County,I-215w NB X18 On 3500 S Ramp at 3500 S,"Crash
 NB I-215w 3500 S On Ramp (Salt Lake County)
 Right Shoulder
@@ -11322,9 +11333,6 @@ UT-Incident--175924,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 5:37 AM","2/27/24, 4:38 AM","2/27/24, 5:37 AM",,,40.753891,-111.622581
-UT-Incident--175956,Incidents,I-84,Weber County,I-84 at MP 90,"Crash
-WB I-84 at MP 90 (2 mi W of Mountain Green) Weber Co.
-Est. Clearance Time: 8:45 AM","2/27/24, 7:35 AM","2/27/24, 8:45 AM",,,41.138009,-111.872556
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
 Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM",,,40.619107,-111.786281
@@ -11335,8 +11343,6 @@ Est. Clearance Time: 9:15 AM","2/27/24, 7:50 AM","2/27/24, 9:15 AM",,,40.718554,
 UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
 Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM",,,40.572095,-111.773814
-UT-Incident--175918,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Avalance Control
-Both Directions SR 210 Closed at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.","2/27/24, 12:25 AM","2/27/24, 8:30 AM",,,40.572095,-111.773814
 UT-Incident--175911,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 EB SR-224 (Empire Pass) between MP 2 and 5.
 Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM",,,40.624634,-111.501637
@@ -11346,9 +11352,3 @@ Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM",,,40.649413,-111.49858
 UT-Incident--175962,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 9:10 AM","2/27/24, 8:10 AM","2/27/24, 9:10 AM",,,40.627915,-111.443541
-UT-Incident--175954,Incidents,US 89,Sanpete County,US 89 at MP 243,"Crash
-US 89 at MP 243 (1 mile NE of Gunnison) Sanpete Co.
-Est. Clearance Time: 8:30 AM","2/27/24, 7:31 AM","2/27/24, 8:30 AM",,,39.161038,-111.789164
-UT-Incident--175958,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
-NB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
-Est. Clearance Time: 8:40 AM","2/27/24, 7:39 AM","2/27/24, 8:40 AM",,,41.497336,-111.967135
