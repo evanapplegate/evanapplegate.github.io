@@ -11163,12 +11163,16 @@ UT-Incident--175903,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled
 Ramp NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Center Lane Blocked
 Est. Clearance Time: 5:57 PM","2/26/24, 4:58 PM","2/26/24, 5:57 PM","2/26/24, 4:58 PM",,40.659924,-111.952783
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175906,Incidents,6200 S,Salt Lake County,6200 S at 2700 W,"Police incident
 EB 6200 S at 2700 W Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:49 PM","2/26/24, 7:50 PM","2/26/24, 8:49 PM","2/26/24, 8:08 PM",,40.638563,-111.957816
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175909,Incidents,5600 W,Salt Lake County,5600 W at 3500 S,"Crash
+SB 5600 W at 3100 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:08 PM","2/26/24, 9:09 PM","2/26/24, 10:08 PM","2/26/24, 9:09 PM",,40.696204,-112.024843
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
 Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM","2/26/24, 8:38 PM",,40.619107,-111.786281
