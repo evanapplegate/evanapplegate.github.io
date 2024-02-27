@@ -11167,11 +11167,11 @@ UT-Incident--175906,Incidents,6200 S,Salt Lake County,6200 S at 2700 W,"Police i
 EB 6200 S at 2700 W Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:49 PM","2/26/24, 7:50 PM","2/26/24, 8:49 PM","2/26/24, 8:08 PM",,40.638563,-111.957816
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175909,Incidents,5600 W,Salt Lake County,5600 W at 3500 S,"Crash
 SB 5600 W at 3100 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:08 PM","2/26/24, 9:09 PM","2/26/24, 10:08 PM","2/26/24, 9:09 PM",,40.696204,-112.024843
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
@@ -11183,3 +11183,9 @@ Est. Clearance Time: 10:53 PM","2/26/24, 9:54 PM","2/26/24, 10:53 PM","2/26/24, 
 UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
 Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM","2/26/24, 8:39 PM",,40.572095,-111.773814
+UT-Incident--175911,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+EB SR-224 (Empire Pass) between MP 2 and 5.
+Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM","2/26/24, 10:18 PM",,40.624634,-111.501637
+UT-Incident--175912,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+WB SR-224 (Empire Pass) between MP 5 and 2.
+Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM","2/26/24, 10:18 PM",,40.649413,-111.49858
