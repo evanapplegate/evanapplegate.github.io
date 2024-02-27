@@ -11236,7 +11236,6 @@ UT-Incident--175947,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:50 AM","2/27/24, 6:43 AM","2/27/24, 7:50 AM",,,40.550055,-111.896336
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175931,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
@@ -11260,6 +11259,10 @@ Est. Clearance Time: 7:29 AM","2/27/24, 6:30 AM","2/27/24, 7:29 AM",,,38.60408,-
 UT-Incident--175941,Incidents,US 89,Sanpete County,US 89 at CHRISTIANBURG RD,"Crash
 WB US 89 at MP 246 (Sanpete County)
 Est. Clearance Time: 7:20 AM","2/27/24, 6:16 AM","2/27/24, 7:20 AM",,,39.163283,-111.736961
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175951,Incidents,I-80 EB X124 On State St Ramp,Salt Lake County,I-80 EB X124 On State St Ramp at State St,"Crash
+WB I-80 X124 On State St Ramp at State St Salt Lake Co.
+Est. Clearance Time: 8:30 AM","2/27/24, 7:18 AM","2/27/24, 8:30 AM",,,40.717874,-111.888252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
 NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
@@ -11298,9 +11301,6 @@ UT-Incident--175924,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 5:37 AM","2/27/24, 4:38 AM","2/27/24, 5:37 AM",,,40.753891,-111.622581
-UT-Incident--175951,Incidents,I-80 EB X124 On State St Ramp,Salt Lake County,I-80 EB X124 On State St Ramp at State St,"Crash
-WB I-80 X124 On State St Ramp at State St Salt Lake Co.
-Est. Clearance Time: 8:30 AM","2/27/24, 7:18 AM","2/27/24, 8:30 AM",,,40.717874,-111.888252
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
 Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM",,,40.619107,-111.786281
@@ -11315,3 +11315,6 @@ Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM",,,40.624634,-111.501637
 UT-Incident--175912,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 WB SR-224 (Empire Pass) between MP 5 and 2.
 Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM",,,40.649413,-111.49858
+UT-Incident--175952,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
+EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
+Est. Clearance Time: 8:30 AM","2/27/24, 7:25 AM","2/27/24, 8:30 AM",,,40.627915,-111.443541
