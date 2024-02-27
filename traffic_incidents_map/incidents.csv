@@ -11317,7 +11317,6 @@ UT-Incident--175953,Incidents,I-15,Beaver County,I-15 at MP 128,"Crash
 NB I-15 at MP 128 (4 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 8:30 AM","2/27/24, 7:29 AM","2/27/24, 8:30 AM",,,38.517256,-112.613301
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175926,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
 Est. Clearance Time: 6:00 AM","2/27/24, 5:06 AM","2/27/24, 6:00 AM",,,40.420056,-111.878496
@@ -11326,10 +11325,6 @@ WB I-80 at MP 110 (6 mi E of Saltair) Salt Lake Co.
 Rightr Lane Closed
 Est. Clearance Time: 10:30 AM","2/27/24, 9:18 AM","2/27/24, 10:30 AM",,,40.771146,-112.086172
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--175961,Incidents,I-215w NB X18 On 3500 S Ramp,Salt Lake County,I-215w NB X18 On 3500 S Ramp at 3500 S,"Crash
-NB I-215w 3500 S On Ramp (Salt Lake County)
-Right Shoulder
-Est. Clearance Time: 9:10 AM","2/27/24, 8:06 AM","2/27/24, 9:10 AM",,,40.698942,-111.951672
 UT-Incident--175960,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
 WB I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 9:15 AM","2/27/24, 7:53 AM","2/27/24, 9:15 AM",,,38.865365,-111.978921
@@ -11337,22 +11332,27 @@ UT-Incident--175924,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 5:37 AM","2/27/24, 4:38 AM","2/27/24, 5:37 AM",,,40.753891,-111.622581
-UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
-Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
-Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM",,,40.619107,-111.786281
 UT-Incident--175959,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
 EB SR 201 at MP 9 (6800 W) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","2/27/24, 7:50 AM","2/27/24, 9:15 AM",,,40.718554,-112.056887
-UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
-Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
-Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM",,,40.572095,-111.773814
-UT-Incident--175911,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
-EB SR-224 (Empire Pass) between MP 2 and 5.
-Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM",,,40.624634,-111.501637
-UT-Incident--175912,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
-WB SR-224 (Empire Pass) between MP 5 and 2.
-Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM",,,40.649413,-111.49858
 UT-Incident--175962,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 9:10 AM","2/27/24, 8:10 AM","2/27/24, 9:10 AM",,,40.627915,-111.443541
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175961,Incidents,I-215w NB X18 On 3500 S Ramp,Salt Lake County,I-215w NB X18 On 3500 S Ramp at 3500 S,"Crash
+NB I-215w 3500 S On Ramp (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 9:10 AM","2/27/24, 8:06 AM","2/27/24, 9:10 AM","2/27/24, 8:06 AM",,40.698942,-111.951672
+UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
+Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM","2/26/24, 8:38 PM",,40.619107,-111.786281
+UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
+Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM","2/26/24, 8:39 PM",,40.572095,-111.773814
+UT-Incident--175911,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+EB SR-224 (Empire Pass) between MP 2 and 5.
+Summit Co","2/26/24, 10:09 PM","2/26/24, 11:08 PM","2/26/24, 10:18 PM",,40.624634,-111.501637
+UT-Incident--175912,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
+WB SR-224 (Empire Pass) between MP 5 and 2.
+Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM","2/26/24, 10:18 PM",,40.649413,-111.49858
