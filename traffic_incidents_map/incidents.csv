@@ -11217,7 +11217,6 @@ UT-Incident--175929,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 3 Left Lanes Closed
 Est. Clearance Time: 6:10 AM","2/27/24, 5:12 AM","2/27/24, 6:10 AM","2/27/24, 5:16 AM",,40.410606,-111.863979
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175925,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 NB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Est. Clearance Time: 6:04 AM","2/27/24, 5:05 AM","2/27/24, 6:04 AM",,,40.020219,-111.762745
@@ -11233,6 +11232,7 @@ UT-Incident--175934,Incidents,I-80,Summit County,I-80 at MP 173,"Crash
 WB I-80 at MP 173 (3 mi W of Emory) Summit Co.
 Left Shoulder
 Est. Clearance Time: 6:17 AM","2/27/24, 5:22 AM","2/27/24, 6:17 AM",,,41.022822,-111.35689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175926,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
@@ -11268,6 +11268,22 @@ Est. Clearance Time: 7:30 AM","2/27/24, 5:59 AM","2/27/24, 7:30 AM",,,39.747541,
 UT-Incident--175942,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 SB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 7:20 AM","2/27/24, 6:18 AM","2/27/24, 7:20 AM",,,39.747541,-111.834299
+UT-Incident--175944,Incidents,I-15,Millard County,I-15 at MP 184,"Crash
+NB I-15 at MP 184 (4 mi S of Scipio) Millard Co.
+Est. Clearance Time: 7:30 AM","2/27/24, 6:31 AM","2/27/24, 7:30 AM",,,39.205209,-112.167473
+UT-Incident--175945,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
+SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
+Est. Clearance Time: 7:40 AM","2/27/24, 6:37 AM","2/27/24, 7:40 AM",,,38.488516,-112.617781
+UT-Incident--175946,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
+SB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
+Est. Clearance Time: 7:45 AM","2/27/24, 6:40 AM","2/27/24, 7:45 AM",,,39.747541,-111.834299
+UT-Incident--175947,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:50 AM","2/27/24, 6:43 AM","2/27/24, 7:50 AM",,,40.550055,-111.896336
+UT-Incident--175943,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
+EB I-70 at MP 6 (Cove Fort) Millard Co.
+Est. Clearance Time: 7:29 AM","2/27/24, 6:30 AM","2/27/24, 7:29 AM",,,38.60408,-112.506915
 UT-Incident--175924,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 2 Left Lanes Closed
