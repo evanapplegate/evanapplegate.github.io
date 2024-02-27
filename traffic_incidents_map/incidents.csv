@@ -11262,7 +11262,6 @@ Est. Clearance Time: 7:20 AM","2/27/24, 6:16 AM","2/27/24, 7:20 AM",,,39.163283,
 UT-Incident--175951,Incidents,I-80 EB X124 On State St Ramp,Salt Lake County,I-80 EB X124 On State St Ramp at State St,"Crash
 WB I-80 X124 On State St Ramp at State St Salt Lake Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:18 AM","2/27/24, 8:30 AM",,,40.717874,-111.888252
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175928,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
 NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
 Est. Clearance Time: 6:05 AM","2/27/24, 5:10 AM","2/27/24, 6:05 AM",,,39.977775,-111.770508
@@ -11279,6 +11278,11 @@ Est. Clearance Time: 7:20 AM","2/27/24, 6:18 AM","2/27/24, 7:20 AM",,,39.747541,
 UT-Incident--175946,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 SB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 7:45 AM","2/27/24, 6:40 AM","2/27/24, 7:45 AM",,,39.747541,-111.834299
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--175957,Incidents,I-15 NB X244 On Main St Ramp,Utah County,I-15 NB X244 On Main St Ramp at Main St,"Crash
+NB I-15 Main St On Ramp (Santaquin) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:45 AM","2/27/24, 7:38 AM","2/27/24, 8:45 AM",,,39.975581,-111.771454
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
 NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
@@ -11304,10 +11308,9 @@ Est. Clearance Time: 8:30 AM","2/27/24, 7:29 AM","2/27/24, 8:30 AM",,,38.517256,
 UT-Incident--175955,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
 NB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:33 AM","2/27/24, 8:30 AM",,,39.384797,-112.074376
-UT-Incident--175957,Incidents,I-15 NB X244 On Main St Ramp,Utah County,I-15 NB X244 On Main St Ramp at Main St,"Crash
-NB I-15 Main St On Ramp (Santaquin) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:45 AM","2/27/24, 7:38 AM","2/27/24, 8:45 AM",,,39.975581,-111.771454
+UT-Incident--175960,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
+WB I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
+Est. Clearance Time: 9:15 AM","2/27/24, 7:53 AM","2/27/24, 9:15 AM",,,38.865365,-111.978921
 UT-Incident--175924,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
@@ -11318,6 +11321,10 @@ Est. Clearance Time: 8:45 AM","2/27/24, 7:35 AM","2/27/24, 8:45 AM",,,41.138009,
 UT-Incident--175907,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 190 Mouth of Big Cottonwood to Town of Brighton 
 Salt Lake Co.","2/26/24, 8:38 PM","2/26/24, 9:36 PM",,,40.619107,-111.786281
+UT-Incident--175959,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+EB SR 201 at MP 9 (6800 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","2/27/24, 7:50 AM","2/27/24, 9:15 AM",,,40.718554,-112.056887
 UT-Incident--175908,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction/Traction Control Devices Required for ALL Vehicles
 Both Directions SR 210 Mouth of Ltl Cottonwood to Town of Alta
 Salt Lake Co.","2/26/24, 8:39 PM","2/29/24, 9:38 PM",,,40.572095,-111.773814
