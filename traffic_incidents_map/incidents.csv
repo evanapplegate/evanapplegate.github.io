@@ -11278,11 +11278,11 @@ Est. Clearance Time: 7:20 AM","2/27/24, 6:18 AM","2/27/24, 7:20 AM",,,39.747541,
 UT-Incident--175946,Incidents,I-15,Juab County,I-15 at MP 228,"Crash
 SB I-15 at MP 228 (2 mi N of Nephi) Juab Co.
 Est. Clearance Time: 7:45 AM","2/27/24, 6:40 AM","2/27/24, 7:45 AM",,,39.747541,-111.834299
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175957,Incidents,I-15 NB X244 On Main St Ramp,Utah County,I-15 NB X244 On Main St Ramp at Main St,"Crash
 NB I-15 Main St On Ramp (Santaquin) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","2/27/24, 7:38 AM","2/27/24, 8:45 AM",,,39.975581,-111.771454
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--175950,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 9,"Crash
 NB Bangerter Hwy at MP 9 (10800 S) Salt Lake Co.
@@ -11308,6 +11308,10 @@ Est. Clearance Time: 8:30 AM","2/27/24, 7:29 AM","2/27/24, 8:30 AM",,,38.517256,
 UT-Incident--175955,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
 NB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:33 AM","2/27/24, 8:30 AM",,,39.384797,-112.074376
+UT-Incident--175961,Incidents,I-215w NB X18 On 3500 S Ramp,Salt Lake County,I-215w NB X18 On 3500 S Ramp at 3500 S,"Crash
+NB I-215w 3500 S On Ramp (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 9:10 AM","2/27/24, 8:06 AM","2/27/24, 9:10 AM",,,40.698942,-111.951672
 UT-Incident--175960,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
 WB I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 9:15 AM","2/27/24, 7:53 AM","2/27/24, 9:15 AM",,,38.865365,-111.978921
@@ -11339,6 +11343,9 @@ Summit Co","2/26/24, 10:18 PM","2/26/24, 11:14 PM",,,40.649413,-111.49858
 UT-Incident--175952,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:25 AM","2/27/24, 8:30 AM",,,40.627915,-111.443541
+UT-Incident--175962,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
+US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
+Est. Clearance Time: 9:10 AM","2/27/24, 8:10 AM","2/27/24, 9:10 AM",,,40.627915,-111.443541
 UT-Incident--175954,Incidents,US 89,Sanpete County,US 89 at MP 243,"Crash
 US 89 at MP 243 (1 mile NE of Gunnison) Sanpete Co.
 Est. Clearance Time: 8:30 AM","2/27/24, 7:31 AM","2/27/24, 8:30 AM",,,39.161038,-111.789164
