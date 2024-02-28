@@ -11377,7 +11377,6 @@ UT-Incident--175971,Incidents,Washington Blvd,Weber County,Washington Blvd at 29
 SB Washington Blvd at 29th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","2/27/24, 3:38 PM","2/27/24, 4:45 PM",,,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175974,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 Offramp at MP 10 (5600 W) Salt Lake Co.
 Left Lanes Closed
@@ -11387,3 +11386,14 @@ UT-Incident--175977,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:35 PM","2/27/24, 5:24 PM","2/27/24, 6:35 PM","2/27/24, 5:24 PM",,40.649847,-111.90236
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175982,Incidents,I-15,Weber County,I-15 at MP 344,"Stalled Vehicle
+SB I-15 at MP 344 On Ramp (12th St) Weber Co.
+Est. Clearance Time: 7:35 PM","2/27/24, 6:29 PM","2/27/24, 7:35 PM","2/27/24, 6:29 PM",,,
+UT-Incident--175981,Incidents,Redwood Rd,Davis County,Redwood Rd at 1500 S,"Crash
+SB Redwood Rd at 1500 S Davis Co.
+2 Left Lanes Closed
+Est. Clearance Time: 7:15 PM","2/27/24, 6:10 PM","2/27/24, 7:15 PM","2/27/24, 6:10 PM",,40.874689,-111.930014
+UT-Incident--175980,Incidents,US 40,Wasatch County,US 40 at MP 40,"Crash
+WB US 40 at MP 40 (19 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 7:00 PM","2/27/24, 5:56 PM","2/27/24, 7:00 PM","2/27/24, 5:56 PM",,40.243881,-111.186309
