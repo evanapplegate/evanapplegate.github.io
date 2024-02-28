@@ -11395,7 +11395,6 @@ Est. Clearance Time: 7:15 PM","2/27/24, 6:10 PM","2/27/24, 7:15 PM","2/27/24, 6:
 UT-Incident--175980,Incidents,US 40,Wasatch County,US 40 at MP 40,"Crash
 WB US 40 at MP 40 (19 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 7:00 PM","2/27/24, 5:56 PM","2/27/24, 7:00 PM","2/27/24, 5:56 PM",,40.243881,-111.186309
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175984,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
 NB US 91 at MP 1 (1200 W Brigham City) Box Elder Co.
 Right Shoulder
@@ -11404,3 +11403,4 @@ Est. Clearance Time: 8:00 PM","2/27/24, 6:56 PM","2/27/24, 8:00 PM","2/27/24, 6:
 UT-Incident--175985,Incidents,Hwy 193,Davis County,Hwy 193 at 1000 W,"Crash
 Hwy 193 at 1000 W Davis Co.
 Est. Clearance Time: 8:00 PM","2/27/24, 7:19 PM","2/27/24, 8:00 PM","2/27/24, 7:19 PM",,41.110649,-112.045267
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
