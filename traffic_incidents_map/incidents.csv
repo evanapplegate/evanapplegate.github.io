@@ -11381,7 +11381,6 @@ UT-Incident--175974,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 Offramp at MP 10 (5600 W) Salt Lake Co.
 Left Lanes Closed
 Est. Clearance Time: 5:30 PM","2/27/24, 4:30 PM","2/27/24, 5:30 PM","2/27/24, 4:30 PM",,40.724933,-112.039659
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175977,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Shoulder
@@ -11397,3 +11396,8 @@ Est. Clearance Time: 7:15 PM","2/27/24, 6:10 PM","2/27/24, 7:15 PM","2/27/24, 6:
 UT-Incident--175980,Incidents,US 40,Wasatch County,US 40 at MP 40,"Crash
 WB US 40 at MP 40 (19 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 7:00 PM","2/27/24, 5:56 PM","2/27/24, 7:00 PM","2/27/24, 5:56 PM",,40.243881,-111.186309
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175984,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
+NB US 91 at MP 1 (1200 W Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 8:00 PM","2/27/24, 6:56 PM","2/27/24, 8:00 PM","2/27/24, 6:56 PM",,41.486567,-112.034906
