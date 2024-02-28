@@ -11421,7 +11421,6 @@ UT-Incident--175990,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 NB I-15 at MP 322 (Glover Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:02 AM","2/28/24, 4:02 AM","2/28/24, 5:02 AM","2/28/24, 4:02 AM",,40.957495,-111.891392
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175995,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Stalled Vehicle
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
@@ -11434,6 +11433,10 @@ WB US 40 at MP 40 (19 mi S of Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 9:32 AM","2/28/24, 8:35 AM","2/28/24, 9:32 AM","2/28/24, 8:35 AM",,40.243881,-111.186309
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175998,Incidents,I-80,Salt Lake County,I-80 at MP 130,"Crash
+WB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
+Est. Clearance Time: 9:55 AM","2/28/24, 8:55 AM","2/28/24, 9:55 AM","2/28/24, 8:57 AM",,40.7252,-111.771166
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175996,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
@@ -11444,8 +11447,8 @@ Right Shoulder
 Est. Clearance Time: 10:15 AM","2/28/24, 8:49 AM","2/28/24, 10:15 AM","2/28/24, 8:49 AM",,40.442142,-111.903011
 UT-Incident--175999,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 10:15 AM","2/28/24, 9:16 AM","2/28/24, 10:15 AM","2/28/24, 9:18 AM",,40.578741,-111.900284
+Left Lane Closed
+Est. Clearance Time: 10:15 AM","2/28/24, 9:16 AM","2/28/24, 10:15 AM","2/28/24, 9:26 AM",,40.578741,-111.900284
 UT-Incident--176000,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
@@ -11453,8 +11456,5 @@ Est. Clearance Time: 10:15 AM","2/28/24, 9:18 AM","2/28/24, 10:15 AM","2/28/24, 
 UT-Incident--176001,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 SB I-15 at MP 286 (15800 S) Salt Lake Co.
 Est. Clearance Time: 10:30 AM","2/28/24, 9:23 AM","2/28/24, 10:30 AM","2/28/24, 9:23 AM",,40.453646,-111.91388
-UT-Incident--175998,Incidents,I-80,Salt Lake County,I-80 at MP 130,"Crash
-WB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
-Est. Clearance Time: 9:55 AM","2/28/24, 8:55 AM","2/28/24, 9:55 AM","2/28/24, 8:57 AM",,40.7252,-111.771166
 UT-Incident--175991,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/28/24, 5:32 AM","3/5/24, 6:29 AM","2/28/24, 5:32 AM",,40.997685,-109.432538
