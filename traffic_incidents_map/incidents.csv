@@ -11378,8 +11378,12 @@ SB Washington Blvd at 29th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","2/27/24, 3:38 PM","2/27/24, 4:45 PM",,,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175974,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 Offramp at MP 10 (5600 W) Salt Lake Co.
 Left Lanes Closed
 Est. Clearance Time: 5:30 PM","2/27/24, 4:30 PM","2/27/24, 5:30 PM","2/27/24, 4:30 PM",,40.724933,-112.039659
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175977,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:35 PM","2/27/24, 5:24 PM","2/27/24, 6:35 PM","2/27/24, 5:24 PM",,40.649847,-111.90236
