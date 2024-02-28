@@ -11418,8 +11418,10 @@ UT-Incident--175989,Incidents,12th St,Weber County,12th St at Grant Ave,"Crash
 EB 12th St at Grant Ave Weber Co.
 Est. Clearance Time: 4:32 AM","2/28/24, 3:32 AM","2/28/24, 4:32 AM","2/28/24, 3:32 AM",,41.244338,-111.972354
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175990,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 NB I-15 at MP 322 (Glover Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:02 AM","2/28/24, 4:02 AM","2/28/24, 5:02 AM","2/28/24, 4:02 AM",,40.957495,-111.891392
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--175991,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
+Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/28/24, 5:32 AM","3/5/24, 6:29 AM","2/28/24, 5:32 AM",,40.997685,-109.432538
