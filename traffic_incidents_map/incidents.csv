@@ -11402,7 +11402,6 @@ Est. Clearance Time: 8:00 PM","2/27/24, 6:56 PM","2/27/24, 8:00 PM","2/27/24, 6:
 UT-Incident--175985,Incidents,Hwy 193,Davis County,Hwy 193 at 1000 W,"Crash
 Hwy 193 at 1000 W Davis Co.
 Est. Clearance Time: 8:00 PM","2/27/24, 7:19 PM","2/27/24, 8:00 PM","2/27/24, 7:19 PM",,41.110649,-112.045267
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--175986,Incidents,500 S,Salt Lake County,500 S at 200 W,"Crash
 WB 500 S at 200 W Salt Lake Co.
 Left Lane Closed
@@ -11412,3 +11411,4 @@ UT-Incident--175987,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 On Ramp (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","2/27/24, 9:00 PM","2/27/24, 10:00 PM","2/27/24, 9:00 PM",,40.765438,-111.953251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
