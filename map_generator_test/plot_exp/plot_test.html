@@ -1,0 +1,61 @@
+<!-- <!DOCTYPE html>
+<div id="myplot"></div>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+<script type="module">
+
+const plot = Plot.rectY({length: 10000}, Plot.binX({y: "count"}, {x: Math.random})).plot();
+const div = document.querySelector("#myplot");
+div.append(plot);
+
+</script> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Auto-Save SVG Plot</title>
+<!--     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script> -->
+</head>
+<body>
+    <div id="myplot"></div>
+    <script type="module">
+    	import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+        const plot = Plot.rectY({length: 10000}, Plot.binX({y: "count"}, {x: Math.random})).plot({svg: true});
+        const div = document.querySelector("#myplot");
+        div.appendChild(plot);
+
+        // Function to automatically save the SVG
+        (function saveSVG() {
+            const svg = div.querySelector('svg');
+            const serializer = new XMLSerializer();
+            let source = serializer.serializeToString(svg);
+
+            // Add name spaces.
+            if(!source.match(/^<svg[^>]+xmlns="http\:\/\/www.w3.org\/2000\/svg"/)){
+                source = source.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
+            }
+            if(!source.match(/^<svg[^>]+"http\:\/\/www.w3.org\/1999\/xlink"/)){
+                source = source.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"');
+            }
+
+            // Add xml declaration
+            source = '<?xml version="1.0" standalone="no"?>\r\n' + source;
+
+            // Convert SVG source to URI
+            const url = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source);
+
+            const link = document.createElement("a");
+            link.href = url;
+            link.download = "plot.svg";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        })();
+    </script>
+</body>
+</html>
+

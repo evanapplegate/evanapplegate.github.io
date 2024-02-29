@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vega-Lite USA Map with NV and NY Highlighted</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+    <div id="vis"></div>
+
+    <script>
+ const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "projection": {
+    "type": "albersUsa"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/us-counties-10m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "states"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+      }
+    },
+
+  {
+    "data": {
+      "url": "data/US_bounds.json", // Adjust this if the file is hosted online
+      "format": {
+        "type": "topojson",
+        "feature": "US_bounds"
+      }
+    },
+    "mark": {
+      "type": "geoshape",
+      "stroke": "white",
+      "fill": null, // No fill, only the boundary is drawn
+      "strokeWidth": 1
+    }
+  },
+
+  {
+    "data": {
+      "url": "data/centroid.json", // Topojson file for centroids
+      "format": {
+        "type": "topojson",
+        "feature": "centroid"
+      }
+    },
+    "mark": {
+      "type": "text"
+    },
+    "encoding": {
+      "longitude": {"field": "properties.centroid_longitude", "type": "quantitative"},
+      "latitude": {"field": "properties.centroid_latitude", "type": "quantitative"},
+      "text": {"field": "properties.postal_postal", "type": "nominal"}
+    }
+  }
+  ]
+};
+
+        vegaEmbed('#vis', spec, {renderer: 'svg'}).then(result => {
+            const svg = result.view.toSVG(); // Convert the Vega view to an SVG string
+            svg.then(svgString => {
+                const blob = new Blob([svgString], {type: 'image/svg+xml'});
+                const url = URL.createObjectURL(blob);
+
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'usa-map-nv-ny.svg';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+
+                URL.revokeObjectURL(url);
+            });
+        }).catch(console.error);
+    </script>
+</body>
+</html>

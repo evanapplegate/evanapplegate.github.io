@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SVG Plot Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+</head>
+<body>
+    <div id="myplot"></div>
+    <script type="module">
+        import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+        // Use the Fetch API to load your JSON data
+        async function loadData() {
+            const us = await fetch('us-counties-10m.json').then(response => response.json());
+
+            // Use topojson-client to convert TopoJSON to GeoJSON
+            const nation = topojson.feature(us, us.objects.nation);
+            const statemesh = topojson.mesh(us, us.objects.states, (a, b) => a !== b);
+
+            return { nation, statemesh };
+        }
+
+        loadData().then(({ nation, statemesh }) => {
+            const plot = Plot.plot({
+                projection: "albers-usa",
+                marks: [
+                    Plot.geo(nation, { fill: "#ddd" }), // Add fill color for visibility
+                    Plot.geo(statemesh, { stroke: "#aaa", strokeWidth: 0.5, strokeOpacity: 1 }) // Adjust stroke properties for visibility
+                ]
+            });
+
+            document.querySelector("#myplot").appendChild(plot);
+        });
+    </script>
+</body>
+</html>
