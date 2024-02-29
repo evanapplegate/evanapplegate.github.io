@@ -11517,12 +11517,15 @@ NB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","2/29/24, 6:35 AM","2/29/24, 7:45 AM","2/29/24, 6:46 AM",,40.85851,-111.904912
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176021,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
-NB I-15 at MP 267 (N of Center St) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 9:00 AM","2/29/24, 7:35 AM","2/29/24, 9:00 AM","2/29/24, 8:06 AM",,40.24994,-111.695133
 UT-Incident--176022,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:45 AM","2/29/24, 7:44 AM","2/29/24, 8:45 AM","2/29/24, 7:44 AM",,40.215696,-111.665414
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176021,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
+NB I-15 at MP 267 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:00 AM","2/29/24, 7:35 AM","2/29/24, 9:00 AM","2/29/24, 8:34 AM",,40.24994,-111.695133
+UT-Incident--176023,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
+EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
+Est. Clearance Time: 9:45 AM","2/29/24, 8:44 AM","2/29/24, 9:45 AM","2/29/24, 8:44 AM",,40.627915,-111.443541
