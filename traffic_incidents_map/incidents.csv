@@ -11542,13 +11542,17 @@ UT-Incident--176027,Incidents,I-80,Salt Lake County,I-80 at MP 119,"Crash
 WB I-80 at MP 119 (I-15 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:36 PM","2/29/24, 1:37 PM","2/29/24, 2:36 PM","2/29/24, 1:45 PM",,40.763707,-111.913768
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176029,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St, SLC) Salt Lake Co.
 Left Lanes Closed
 Est. Clearance Time: 3:30 PM","2/29/24, 2:26 PM","2/29/24, 3:30 PM","2/29/24, 2:27 PM",,40.718402,-111.880883
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176028,Incidents,I-15,Beaver County,I-15 at MP 103,"Crash
 SB I-15 at MP 103 (5 mi S of Beaver) Beaver Co.
 Right Shoulder
 Est. Clearance Time: 3:14 PM","2/29/24, 2:15 PM","2/29/24, 3:14 PM","2/29/24, 2:15 PM",,38.171491,-112.62323
+UT-Incident--176030,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:20 PM","2/29/24, 3:22 PM","2/29/24, 4:20 PM","2/29/24, 3:22 PM",,40.718332,-111.893095
