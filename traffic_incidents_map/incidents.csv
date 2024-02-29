@@ -11489,7 +11489,6 @@ Est. Clearance Time: 8:15 PM","2/28/24, 7:09 PM","2/28/24, 8:15 PM","2/28/24, 7:
 UT-Incident--176014,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
 Both Directions SR 36 at MP 56 (Tooele) Tooele Co.
 Est. Clearance Time: 8:18 PM","2/28/24, 7:20 PM","2/28/24, 8:18 PM","2/28/24, 7:20 PM",,40.554334,-112.297621
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176015,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
 SB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
 Right Lane Closed
@@ -11498,6 +11497,7 @@ UT-Incident--176013,Incidents,SR 28,Juab County,SR 28 at MP 17,"Crash
 NB SR 28 at MP 17 (1 Mi N of Yuba Lake) Juab Co.
 Right Shoulder
 Est. Clearance Time: 8:07 PM","2/28/24, 7:13 PM","2/28/24, 8:07 PM","2/28/24, 7:13 PM",,39.381152,-111.92775
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176016,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Antelope Dr,"Crash
 NB Hill Field Rd at Antelope Dr Davis Co.
