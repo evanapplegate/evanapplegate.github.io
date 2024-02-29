@@ -11478,11 +11478,22 @@ UT-Incident--176007,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Lane Closure
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 3 Right Lanes Closed
 Est. Clearance Time: 5:30 PM","2/28/24, 4:31 PM","2/28/24, 5:30 PM","2/28/24, 4:31 PM",,40.718332,-111.893095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176009,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","2/28/24, 4:56 PM","2/28/24, 6:00 PM","2/28/24, 4:56 PM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176012,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:15 PM","2/28/24, 7:09 PM","2/28/24, 8:15 PM","2/28/24, 7:09 PM",,40.492398,-111.891485
+UT-Incident--176013,Incidents,SR 28,Juab County,SR 28 at MP 17,"Crash
+NB SR 28 at MP 17 (1 Mi N of Yuba Lake) Juab Co.
+Right Shoulder
+Est. Clearance Time: 8:07 PM","2/28/24, 7:13 PM","2/28/24, 8:07 PM","2/28/24, 7:13 PM",,39.381152,-111.92775
+UT-Incident--176014,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
+Both Directions SR 36 at MP 56 (Tooele) Tooele Co.
+Est. Clearance Time: 8:18 PM","2/28/24, 7:20 PM","2/28/24, 8:18 PM","2/28/24, 7:20 PM",,40.554334,-112.297621
 UT-Incident--175991,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 Both Directions US 191 Closed at MP 404 (UT/WY Border) Daggett Co.","2/28/24, 5:32 AM","3/5/24, 6:29 AM","2/28/24, 5:32 AM",,40.997685,-109.432538
