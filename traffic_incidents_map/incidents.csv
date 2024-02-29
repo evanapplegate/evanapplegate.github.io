@@ -11524,7 +11524,6 @@ UT-Incident--176021,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 NB I-15 at MP 267 (N of Center St) Utah Co.
 Cleared at 8:53 AM, Expect Residual Delays","2/29/24, 7:35 AM","2/29/24, 9:00 AM","2/29/24, 8:54 AM",,40.24994,-111.695133
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176024,Incidents,HWY 186,Salt Lake County,HWY 186 at PARLEYS WAY,"Vehicle on fire
 NB Foothill Dr at Parleys Way Salt Lake Co.
 Right Lane Closed
@@ -11532,3 +11531,4 @@ Est. Clearance Time: 10:30 AM","2/29/24, 9:31 AM","2/29/24, 10:30 AM","2/29/24, 
 UT-Incident--176023,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 9:45 AM","2/29/24, 8:44 AM","2/29/24, 9:45 AM","2/29/24, 8:44 AM",,40.627915,-111.443541
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
