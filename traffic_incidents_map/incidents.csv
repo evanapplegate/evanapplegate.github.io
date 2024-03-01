@@ -11643,9 +11643,13 @@ Est. Clearance Time: 4:15 PM","3/1/24, 3:22 PM","3/1/24, 4:15 PM","3/1/24, 3:22 
 UT-Incident--176059,Incidents,US 40,Duchesne County,US 40 at MP 111,"Fire Affecting Roadway
 Both Directions US 40 at MP 111 (Roosevelt) Duchesne Co.
 Est. Clearance Time: 4:00 PM","3/1/24, 3:07 PM","3/1/24, 4:00 PM","3/1/24, 3:07 PM",,40.27004,-110.036618
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176057,Incidents,1900 W,Weber County,1900 W 5300,"Crash
 SB 1900 W at 5400 S Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","3/1/24, 2:55 PM","3/1/24, 4:00 PM","3/1/24, 2:57 PM",View on map,41.164989,-112.026019
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176062,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:18 PM","3/1/24, 4:19 PM","3/1/24, 5:18 PM","3/1/24, 4:19 PM",View on map,,
