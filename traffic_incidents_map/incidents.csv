@@ -11569,7 +11569,6 @@ UT-Incident--176034,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:26 PM","2/29/24, 4:29 PM","2/29/24, 5:26 PM","2/29/24, 4:29 PM",,40.238135,-111.689206
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176036,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
@@ -11579,3 +11578,8 @@ NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","2/29/24, 5:23 PM","2/29/24, 6:15 PM","2/29/24, 5:23 PM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176040,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 24,"Crash
+NB Bangerter Hwy at MP 24 (Airport/I-80 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:00 PM","2/29/24, 7:01 PM","2/29/24, 8:00 PM","2/29/24, 7:01 PM",,40.767964,-111.98612
