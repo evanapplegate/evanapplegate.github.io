@@ -11629,7 +11629,6 @@ UT-Incident--176055,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 2100 S,"
 SB Redwood Rd at 2100 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:39 PM","3/1/24, 2:40 PM","3/1/24, 3:39 PM","3/1/24, 2:40 PM",,40.725883,-111.938953
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176058,Incidents,1000 W,Weber County,1000 W at 2700 N,"Crash
 Both Directions 1000 W at 2700 N Weber Co.
 Left Lane Closed
@@ -11649,3 +11648,4 @@ UT-Incident--176057,Incidents,1900 W,Weber County,1900 W 5300,"Crash
 SB 1900 W at 5400 S Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","3/1/24, 2:55 PM","3/1/24, 4:00 PM","3/1/24, 2:57 PM",View on map,41.164989,-112.026019
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
