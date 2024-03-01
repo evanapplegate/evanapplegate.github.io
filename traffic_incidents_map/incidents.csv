@@ -11630,15 +11630,10 @@ SB Redwood Rd at 2100 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:39 PM","3/1/24, 2:40 PM","3/1/24, 3:39 PM","3/1/24, 2:40 PM",,40.725883,-111.938953
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176058,Incidents,1000 W,Weber County,1000 W at 2700 N,"Crash
 Both Directions 1000 W at 2700 N Weber Co.
 Left Lane Closed
 Est. Clearance Time: 4:00 PM","3/1/24, 2:59 PM","3/1/24, 4:00 PM","3/1/24, 2:59 PM",,41.306722,-112.00312
-UT-Incident--176057,Incidents,1900 W,Weber County,1900 W 5300,"Crash
-SB 1900 W at 5400 S Weber Co.
-Right Lane Closed
-Est. Clearance Time: 4:00 PM","3/1/24, 2:55 PM","3/1/24, 4:00 PM","3/1/24, 2:57 PM",,41.164989,-112.026019
 UT-Incident--176056,Incidents,2700 N,Weber County,2700 N 1601,"Crash
 EB 2700 N at 1800 N Weber Co.
 2 Left Lanes Closed
@@ -11649,3 +11644,8 @@ Est. Clearance Time: 4:15 PM","3/1/24, 3:22 PM","3/1/24, 4:15 PM","3/1/24, 3:22 
 UT-Incident--176059,Incidents,US 40,Duchesne County,US 40 at MP 111,"Fire Affecting Roadway
 Both Directions US 40 at MP 111 (Roosevelt) Duchesne Co.
 Est. Clearance Time: 4:00 PM","3/1/24, 3:07 PM","3/1/24, 4:00 PM","3/1/24, 3:07 PM",,40.27004,-110.036618
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176057,Incidents,1900 W,Weber County,1900 W 5300,"Crash
+SB 1900 W at 5400 S Weber Co.
+Right Lane Closed
+Est. Clearance Time: 4:00 PM","3/1/24, 2:55 PM","3/1/24, 4:00 PM","3/1/24, 2:57 PM",View on map,41.164989,-112.026019
