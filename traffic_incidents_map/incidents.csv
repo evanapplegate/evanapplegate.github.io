@@ -11554,7 +11554,6 @@ UT-Incident--176028,Incidents,I-15,Beaver County,I-15 at MP 103,"Crash
 SB I-15 at MP 103 (5 mi S of Beaver) Beaver Co.
 Right Shoulder
 Est. Clearance Time: 3:14 PM","2/29/24, 2:15 PM","2/29/24, 3:14 PM","2/29/24, 2:15 PM",,38.171491,-112.62323
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176032,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 Ramp I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -11571,3 +11570,12 @@ UT-Incident--176034,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:26 PM","2/29/24, 4:29 PM","2/29/24, 5:26 PM","2/29/24, 4:29 PM",,40.238135,-111.689206
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176036,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:59 PM","2/29/24, 5:00 PM","2/29/24, 5:59 PM","2/29/24, 5:05 PM",,40.550055,-111.896336
+UT-Incident--176037,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","2/29/24, 5:23 PM","2/29/24, 6:15 PM","2/29/24, 5:23 PM",,40.480607,-111.902252
