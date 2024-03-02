@@ -11722,7 +11722,6 @@ UT-Incident--176093,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:53 PM","3/2/24, 1:54 PM","3/2/24, 2:53 PM","3/2/24, 1:54 PM",,40.740268,-111.674521
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176087,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Right Shoulder
@@ -11739,6 +11738,15 @@ WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:04 PM","3/2/24, 2:04 PM","3/2/24, 3:04 PM","3/2/24, 2:04 PM",,40.74385,-111.657734
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176105,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:53 PM","3/2/24, 2:55 PM","3/2/24, 3:53 PM","3/2/24, 2:55 PM",,40.621691,-111.903876
+UT-Incident--176108,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
+NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
+Right Shoulder
+Est. Clearance Time: 3:58 PM","3/2/24, 2:59 PM","3/2/24, 3:58 PM","3/2/24, 2:59 PM",,41.301243,-112.026067
 UT-Incident--176098,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 NB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Shoulder
@@ -11768,6 +11776,10 @@ WB I-80 Closed
 Use Alt Route","3/2/24, 2:26 PM","3/2/24, 3:25 PM","3/2/24, 2:26 PM",,40.750021,-111.604602
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
+UT-Incident--176106,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
+NB SR 143 at MP 14 (Aspen Dr) Iron Co.
+Right Shoulder
+Est. Clearance Time: 3:55 PM","3/2/24, 2:56 PM","3/2/24, 3:55 PM","3/2/24, 2:56 PM",,37.710954,-112.851847
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
@@ -11785,3 +11797,7 @@ UT-Incident--176099,Incidents,SR 36,Tooele County,SR 36 at MP 40,"Crash
 EB SR 36 at MP 40 (1 mi N of Rush Valley) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 3:21 PM","3/2/24, 2:22 PM","3/2/24, 3:21 PM","3/2/24, 2:26 PM",,40.354909,-112.412974
+UT-Incident--176107,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
+NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 3:56 PM","3/2/24, 2:57 PM","3/2/24, 3:56 PM","3/2/24, 2:57 PM",,40.602142,-111.430846
