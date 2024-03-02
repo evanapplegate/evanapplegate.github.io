@@ -11647,7 +11647,6 @@ UT-Incident--176057,Incidents,1900 W,Weber County,1900 W 5300,"Crash
 SB 1900 W at 5400 S Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","3/1/24, 2:55 PM","3/1/24, 4:00 PM","3/1/24, 2:57 PM",View on map,41.164989,-112.026019
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176062,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
@@ -11667,3 +11666,8 @@ Est. Clearance Time: 6:15 PM","3/1/24, 5:04 PM","3/1/24, 6:15 PM","3/1/24, 5:04 
 UT-Incident--176065,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"Crash
 NB Legacy Pkwy at MP 10 (W 1470 S, Farmington) Davis Co.
 Est. Clearance Time: 5:45 PM","3/1/24, 4:40 PM","3/1/24, 5:45 PM","3/1/24, 4:40 PM",View on map,40.957721,-111.892575
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176068,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+SB I-15 at MP 292 On Ramp (11400 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 7:00 PM","3/1/24, 5:56 PM","3/1/24, 7:00 PM","3/1/24, 5:56 PM",View on map,40.53585,-111.892927
