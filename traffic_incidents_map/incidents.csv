@@ -11665,7 +11665,6 @@ Est. Clearance Time: 6:15 PM","3/1/24, 5:04 PM","3/1/24, 6:15 PM","3/1/24, 5:04 
 UT-Incident--176065,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"Crash
 NB Legacy Pkwy at MP 10 (W 1470 S, Farmington) Davis Co.
 Est. Clearance Time: 5:45 PM","3/1/24, 4:40 PM","3/1/24, 5:45 PM","3/1/24, 4:40 PM",View on map,40.957721,-111.892575
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176071,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Stalled Vehicle
 SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Left Shoulder
@@ -11673,6 +11672,7 @@ Est. Clearance Time: 8:13 PM","3/1/24, 7:14 PM","3/1/24, 8:13 PM","3/1/24, 7:32 
 UT-Incident--176074,Incidents,SR 92,Utah County,SR 92 at MP 0,"Crash
 EB SR 92 at MP 0 (I-15 Jct) Utah Co.
 Est. Clearance Time: 8:45 PM","3/1/24, 7:42 PM","3/1/24, 8:45 PM","3/1/24, 7:42 PM",View on map,40.431289,-111.893495
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176072,Incidents,2000 W,Davis County,2000 W at 1800 N,"Crash
 Both Directions 2000 W at 1800 N Davis Co.
