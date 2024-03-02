@@ -11692,16 +11692,16 @@ UT-Incident--176080,Incidents,SR 117,Sanpete County,SR 117 at MP 11,"Crash
 SR 117 at MP 11 (1 MI of US-89 Jct) Sanpete Co.
 Est. Clearance Time: 5:54 AM","3/2/24, 4:55 AM","3/2/24, 5:54 AM","3/2/24, 4:55 AM",,39.514351,-111.478208
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176082,Incidents,I-15,Millard County,I-15 at MP 132,"Crash
-Ramp SB I-15 at MP 132 (I-70 Cove Fort Jct) Millard Co.
-Right Shoulder
-Est. Clearance Time: 7:12 AM","3/2/24, 6:13 AM","3/2/24, 7:12 AM","3/2/24, 6:13 AM",,38.574664,-112.603566
 UT-Incident--176079,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 7500 S,"Crash
 NB Redwood Rd at 7500 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7
 :00 AM","3/2/24, 4:17 AM","3/2/24, 7:00 AM","3/2/24, 5:37 AM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176082,Incidents,I-15,Millard County,I-15 at MP 132,"Crash
+Ramp SB I-15 at MP 132 (I-70 Cove Fort Jct) Millard Co.
+Right Shoulder
+Est. Clearance Time: 7:12 AM","3/2/24, 6:13 AM","3/2/24, 7:12 AM","3/2/24, 6:13 AM",,38.574664,-112.603566
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
