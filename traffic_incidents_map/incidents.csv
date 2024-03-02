@@ -11708,7 +11708,6 @@ UT-Incident--176084,Incidents,I-80,Tooele County,I-80 at MP 70,"Crash
 EB I-80 at MP 70 (Delle) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 8:10 AM","3/2/24, 7:11 AM","3/2/24, 8:10 AM","3/2/24, 7:11 AM",,40.759175,-112.773801
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176089,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 Ramp SB I-215 W at MP 17 (3500 S On Ramp) Salt Lake Co.
 Right Shoulder
@@ -11720,6 +11719,7 @@ UT-Incident--176086,Incidents,I-80,Tooele County,I-80 at MP 99,"Road weather
 High Profile Vehicles Prohibited EB I-80 from MP 99-0
 (Lake Point to Wenedover) Tooele Co.","3/2/24, 9:24 AM","3/3/24, 10:23 AM","3/2/24, 11:53 AM",,40.697978,-112.260296
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176087,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Right Shoulder
@@ -11728,6 +11728,10 @@ UT-Incident--176088,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Stalled Vehi
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:05 PM","3/2/24, 11:06 AM","3/2/24, 12:05 PM","3/2/24, 11:06 AM",,40.718332,-111.893095
+UT-Incident--176090,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
+EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:21 PM","3/2/24, 1:22 PM","3/2/24, 2:21 PM","3/2/24, 1:22 PM",,40.742835,-112.186308
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
