@@ -44,12 +44,14 @@
         {% endfor %}
     {% endif %}
  -->
-    {% if image_files %}
-        <h2>Any of these work?</h2>
-        {% for image_file in image_files %}
-            <img src="{{ url_for('static', filename=image_file) }}" alt="Generated Map" width="60%">
-        {% endfor %}
-    {% endif %}
+{% if image_files %}
+    <h2>Any of these work?</h2>
+    {% for image_file in image_files %}
+        <img src="{{ url_for('static', filename=image_file) }}" alt="Generated Map" width="60%">
+        <!-- Download link for vector map -->
+        <a href="{{ url_for('static', filename=image_file[:-4] + '.pdf') }}" target="_blank">Download vector map</a>
+    {% endfor %}
+{% endif %}
 
     <script src="{{ url_for('static', filename='scripts.js') }}"></script>
 </body>
