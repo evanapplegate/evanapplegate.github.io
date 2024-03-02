@@ -11773,6 +11773,10 @@ NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 3:56 PM","3/2/24, 2:57 PM","3/2/24, 3:56 PM","3/2/24, 2:57 PM",,40.602142,-111.430846
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176101,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
+WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:25 PM","3/2/24, 2:26 PM","3/2/24, 5:25 PM","3/2/24, 4:03 PM",,40.750021,-111.604602
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176105,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
@@ -11790,6 +11794,14 @@ UT-Incident--176121,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (1200 N) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:16 PM","3/2/24, 4:19 PM","3/2/24, 5:16 PM","3/2/24, 4:19 PM",,40.789416,-111.949318
+UT-Incident--176124,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
+NB I-215 W at MP 19 (1900 S) Salt Lake Co.
+Center Lanes Closed
+Est. Clearance Time: 5:29 PM","3/2/24, 4:31 PM","3/2/24, 5:29 PM","3/2/24, 4:31 PM",,40.717792,-111.95364
+UT-Incident--176125,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
+NB I-215 W at MP 20 (California Ave) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","3/2/24, 4:34 PM","3/2/24, 5:30 PM","3/2/24, 4:34 PM",,40.731947,-111.949915
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for all vehicles traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 1:51 PM",,40.712086,-111.801151
 UT-Incident--176094,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
@@ -11805,10 +11817,6 @@ WB I-80 at MP 61 (20 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 3:15 PM","3/2/24, 2:16 PM","3/2/24, 3:15 PM","3/2/24, 2:16 PM",,40.816021,-112.917407
 UT-Incident--176100,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 Approved traction devices required for all vehicles traveling WB I-80 through Parley's Canyon (MP 143-128).","3/2/24, 2:25 PM","3/3/24, 3:24 PM","3/2/24, 2:25 PM",,40.740161,-111.558358
-UT-Incident--176101,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
-WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
-2 Right Lanes Closed
-Est. Clearance Time: 5:25 PM","3/2/24, 2:26 PM","3/2/24, 5:25 PM","3/2/24, 4:03 PM",,40.750021,-111.604602
 UT-Incident--176109,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 2 Right Lanes Closed
@@ -11819,6 +11827,10 @@ Right Lane Closed
 Est. Clearance Time: 4:27 PM","3/2/24, 3:32 PM","3/2/24, 4:27 PM","3/2/24, 3:32 PM",,40.657758,-112.04152
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
+UT-Incident--176128,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
+NB SR 143 at MP 14 (Aspen Dr) Iron Co.
+Right Shoulder
+Est. Clearance Time: 5:40 PM","3/2/24, 4:40 PM","3/2/24, 5:40 PM","3/2/24, 4:40 PM",,37.710954,-112.851847
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
@@ -11848,6 +11860,14 @@ UT-Incident--176118,Incidents,SR 73,Tooele County,SR 73 at MP 7,"Crash
 EB SR 73 at MP 7 (8 MI SE of Rush Valley) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","3/2/24, 3:45 PM","3/2/24, 4:45 PM","3/2/24, 3:45 PM",,40.32123,-112.28665
+UT-Incident--176126,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:36 PM","3/2/24, 4:37 PM","3/2/24, 5:36 PM","3/2/24, 4:37 PM",,40.348428,-111.591901
+UT-Incident--176127,Incidents,US 189,Wasatch County,US 189 at MP 15,"Lane Closure
+WB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 5:37 PM","3/2/24, 4:39 PM","3/2/24, 5:37 PM","3/2/24, 4:39 PM",,40.375381,-111.556028
 UT-Incident--176111,Incidents,US 40,Wasatch County,US 40 at MP 13,"Roadway Restriction
 Traction Control Devices Required for Semi Trucks
 NB US 40 at MP 13 to MP 4(SR-32 Jct to SR-248 Jct) Wasatch Co.","3/2/24, 3:24 PM","3/3/24, 4:23 PM","3/2/24, 3:24 PM",,40.560962,-111.427534
