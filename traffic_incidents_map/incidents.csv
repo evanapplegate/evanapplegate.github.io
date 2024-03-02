@@ -11704,11 +11704,11 @@ UT-Incident--176082,Incidents,I-15,Millard County,I-15 at MP 132,"Crash
 Ramp SB I-15 at MP 132 (I-70 Cove Fort Jct) Millard Co.
 Right Shoulder
 Est. Clearance Time: 7:12 AM","3/2/24, 6:13 AM","3/2/24, 7:12 AM","3/2/24, 6:13 AM",,38.574664,-112.603566
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176084,Incidents,I-80,Tooele County,I-80 at MP 70,"Crash
 EB I-80 at MP 70 (Delle) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 8:10 AM","3/2/24, 7:11 AM","3/2/24, 8:10 AM","3/2/24, 7:11 AM",,40.759175,-112.773801
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176085,Incidents,I-80,Tooele County,I-80 at MP 0,"Road weather
 High Profile Vehicles Prohibited EB I-80 from MP 0-99
@@ -11716,6 +11716,10 @@ High Profile Vehicles Prohibited EB I-80 from MP 0-99
 UT-Incident--176086,Incidents,I-80,Tooele County,I-80 at MP 99,"Road weather
 High Profile Vehicles Prohibited EB I-80 from MP 99-0
 (Lake Point to Wenedover) Tooele Co.","3/2/24, 9:24 AM","3/2/24, 10:23 AM","3/2/24, 9:24 AM",,40.697978,-112.260296
+UT-Incident--176087,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
+EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:16 AM","3/2/24, 10:18 AM","3/2/24, 11:16 AM","3/2/24, 10:18 AM",,40.733836,-112.201288
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
