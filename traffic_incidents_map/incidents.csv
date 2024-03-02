@@ -11673,7 +11673,6 @@ UT-Incident--176074,Incidents,SR 92,Utah County,SR 92 at MP 0,"Crash
 EB SR 92 at MP 0 (I-15 Jct) Utah Co.
 Est. Clearance Time: 8:45 PM","3/1/24, 7:42 PM","3/1/24, 8:45 PM","3/1/24, 7:42 PM",View on map,40.431289,-111.893495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176072,Incidents,2000 W,Davis County,2000 W at 1800 N,"Crash
 Both Directions 2000 W at 1800 N Davis Co.
 Est. Clearance Time: 8:45 PM","3/1/24, 7:19 PM","3/1/24, 8:45 PM","3/1/24, 8:17 PM",View on map,41.136245,-112.06447
@@ -11683,5 +11682,6 @@ UT-Incident--176073,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 8:21 PM","3/1/24, 7:22 PM","3/1/24, 8:21 PM","3/1/24, 7:22 PM",View on map,41.342906,-112.038597
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",View on map,37.677725,-112.846981
