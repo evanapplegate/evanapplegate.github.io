@@ -11752,7 +11752,6 @@ Est. Clearance Time: 3:55 PM","3/2/24, 2:56 PM","3/2/24, 3:55 PM","3/2/24, 2:56 
 UT-Incident--176102,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Lane Closure
 EB SR 201 at MP 3 (SR-202) Salt Lake Co.
 Est. Clearance Time: 3:30 PM","3/2/24, 2:30 PM","3/2/24, 3:30 PM","3/2/24, 2:33 PM",,40.727646,-112.167011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176108,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
@@ -11774,10 +11773,15 @@ NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 3:56 PM","3/2/24, 2:57 PM","3/2/24, 3:56 PM","3/2/24, 2:57 PM",,40.602142,-111.430846
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176105,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:53 PM","3/2/24, 2:55 PM","3/2/24, 3:53 PM","3/2/24, 2:55 PM",,40.621691,-111.903876
+UT-Incident--176121,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
+SB I-215 W at MP 24 (1200 N) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:16 PM","3/2/24, 4:19 PM","3/2/24, 5:16 PM","3/2/24, 4:19 PM",,40.789416,-111.949318
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for all vehicles traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 1:51 PM",,40.712086,-111.801151
 UT-Incident--176094,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
