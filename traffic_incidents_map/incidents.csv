@@ -11738,6 +11738,21 @@ WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:04 PM","3/2/24, 2:04 PM","3/2/24, 3:04 PM","3/2/24, 2:04 PM",,40.74385,-111.657734
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176098,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
+NB I-215 E at MP 4 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:19 PM","3/2/24, 2:20 PM","3/2/24, 3:19 PM","3/2/24, 2:20 PM",,40.670175,-111.805204
+UT-Incident--176090,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
+EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:21 PM","3/2/24, 1:22 PM","3/2/24, 2:21 PM","3/2/24, 1:22 PM",,40.742835,-112.186308
+UT-Incident--176106,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
+NB SR 143 at MP 14 (Aspen Dr) Iron Co.
+Right Shoulder
+Est. Clearance Time: 3:55 PM","3/2/24, 2:56 PM","3/2/24, 3:55 PM","3/2/24, 2:56 PM",,37.710954,-112.851847
+UT-Incident--176102,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Lane Closure
+EB SR 201 at MP 3 (SR-202) Salt Lake Co.
+Est. Clearance Time: 3:30 PM","3/2/24, 2:30 PM","3/2/24, 3:30 PM","3/2/24, 2:33 PM",,40.727646,-112.167011
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176105,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
@@ -11747,14 +11762,10 @@ UT-Incident--176108,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 3:58 PM","3/2/24, 2:59 PM","3/2/24, 3:58 PM","3/2/24, 2:59 PM",,41.301243,-112.026067
-UT-Incident--176098,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
-NB I-215 E at MP 4 (5200 S) Salt Lake Co.
+UT-Incident--176115,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 3:19 PM","3/2/24, 2:20 PM","3/2/24, 3:19 PM","3/2/24, 2:20 PM",,40.670175,-111.805204
-UT-Incident--176090,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
-EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 2:21 PM","3/2/24, 1:22 PM","3/2/24, 2:21 PM","3/2/24, 1:22 PM",,40.742835,-112.186308
+Est. Clearance Time: 4:32 PM","3/2/24, 3:33 PM","3/2/24, 4:32 PM","3/2/24, 3:33 PM",,40.760605,-111.951068
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for all vehicles traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 1:51 PM",,40.712086,-111.801151
 UT-Incident--176094,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
@@ -11782,18 +11793,15 @@ UT-Incident--176110,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 EB I-80 at MP 131 (Quarry) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:15 PM","3/2/24, 3:16 PM","3/2/24, 4:15 PM","3/2/24, 3:16 PM",,40.732387,-111.755095
+UT-Incident--176114,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 19,"Crash
+SB Mountain View Corr at MP 19 (5400 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:27 PM","3/2/24, 3:32 PM","3/2/24, 4:27 PM","3/2/24, 3:32 PM",,40.657758,-112.04152
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
-UT-Incident--176106,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
-NB SR 143 at MP 14 (Aspen Dr) Iron Co.
-Right Shoulder
-Est. Clearance Time: 3:55 PM","3/2/24, 2:56 PM","3/2/24, 3:55 PM","3/2/24, 2:56 PM",,37.710954,-112.851847
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
-UT-Incident--176102,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Lane Closure
-EB SR 201 at MP 3 (SR-202) Salt Lake Co.
-Est. Clearance Time: 3:30 PM","3/2/24, 2:30 PM","3/2/24, 3:30 PM","3/2/24, 2:33 PM",,40.727646,-112.167011
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
@@ -11809,6 +11817,10 @@ UT-Incident--176112,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 SB SR 36 at MP 59 (Erda) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:16 PM","3/2/24, 3:26 PM","3/2/24, 4:16 PM","3/2/24, 3:26 PM",,40.597521,-112.294273
+UT-Incident--176117,Incidents,SR 36,Tooele County,SR 36 at MP 12,"Crash
+NB SR 36 at MP 12 (6 Mi from Co line) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 4:42 PM","3/2/24, 3:42 PM","3/2/24, 4:42 PM","3/2/24, 3:42 PM",,40.034,-112.285918
 UT-Incident--176107,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 NB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Right Shoulder
