@@ -11723,11 +11723,6 @@ WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:53 PM","3/2/24, 1:54 PM","3/2/24, 2:53 PM","3/2/24, 1:54 PM",,40.740268,-111.674521
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176098,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
-NB I-215 E at MP 4 (5200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:19 PM","3/2/24, 2:20 PM","3/2/24, 3:19 PM","3/2/24, 2:20 PM",,40.670175,-111.805204
 UT-Incident--176087,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 EB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Right Shoulder
@@ -11736,23 +11731,28 @@ UT-Incident--176088,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Stalled Vehi
 EB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:05 PM","3/2/24, 11:06 AM","3/2/24, 12:05 PM","3/2/24, 11:06 AM",,40.718332,-111.893095
+UT-Incident--176091,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Police incident
+EB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
+Est. Clearance Time: 3:49 PM","3/2/24, 1:51 PM","3/2/24, 3:49 PM","3/2/24, 2:30 PM",,40.717537,-111.836246
+UT-Incident--176095,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
+WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:04 PM","3/2/24, 2:04 PM","3/2/24, 3:04 PM","3/2/24, 2:04 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176098,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
+NB I-215 E at MP 4 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:19 PM","3/2/24, 2:20 PM","3/2/24, 3:19 PM","3/2/24, 2:20 PM",,40.670175,-111.805204
 UT-Incident--176090,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:21 PM","3/2/24, 1:22 PM","3/2/24, 2:21 PM","3/2/24, 1:22 PM",,40.742835,-112.186308
-UT-Incident--176091,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Police incident
-EB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
-Est. Clearance Time: 3:49 PM","3/2/24, 1:51 PM","3/2/24, 3:49 PM","3/2/24, 2:30 PM",,40.717537,-111.836246
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for all vehicles traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 1:51 PM",,40.712086,-111.801151
 UT-Incident--176094,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:58 PM","3/2/24, 1:59 PM","3/2/24, 2:58 PM","3/2/24, 1:59 PM",,40.740268,-111.674521
-UT-Incident--176095,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
-WB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:04 PM","3/2/24, 2:04 PM","3/2/24, 3:04 PM","3/2/24, 2:04 PM",,40.74385,-111.657734
 UT-Incident--176096,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Stalled Vehicle
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
@@ -11773,11 +11773,14 @@ Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
 UT-Incident--176102,Incidents,SR 201,Salt Lake County,SR 201 at MP 3,"Lane Closure
 EB SR 201 at MP 3 (SR-202) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 3:30 PM","3/2/24, 2:30 PM","3/2/24, 3:30 PM","3/2/24, 2:30 PM",,40.727646,-112.167011
+Est. Clearance Time: 3:30 PM","3/2/24, 2:30 PM","3/2/24, 3:30 PM","3/2/24, 2:33 PM",,40.727646,-112.167011
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
+UT-Incident--176103,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Approved traction devices required for all vehicles traveling NB SR-224 (Empire Pass) between MP 2 and 5.","3/2/24, 2:38 PM","3/2/24, 3:34 PM","3/2/24, 2:38 PM",,40.624634,-111.501637
+UT-Incident--176104,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
+Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM","3/2/24, 2:40 PM",,40.649413,-111.49858
 UT-Incident--176099,Incidents,SR 36,Tooele County,SR 36 at MP 40,"Crash
 EB SR 36 at MP 40 (1 mi N of Rush Valley) Tooele Co.
 Right Shoulder
