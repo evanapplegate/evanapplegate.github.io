@@ -12060,7 +12060,6 @@ UT-Incident--176174,Incidents,I-70,Sevier County,I-70 at MP 69,"Crash
 EB I-70 at MP 69 (29 mi E of Richfield) Sevier Co.
 Left Shoulder
 Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM",,,38.90331,-111.643095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176184,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (3500 S) Salt Lake Co.
 Right Lane Closed
@@ -12101,6 +12100,10 @@ UT-Incident--176194,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
 NB US 189 at MP 15 (1 Mi East of SR-92 Jct) Wasatch Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-111.556028
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176207,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
+SB I-15 at MP 310 (1000 N) Salt Lake Co.
+Est. Clearance Time: 10:00 AM","3/3/24, 8:57 AM","3/3/24, 10:00 AM","3/3/24, 8:57 AM",,40.789884,-111.91543
 UT-Incident--176188,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (700 N) Salt Lake Co.
 Right Shoulder
@@ -12145,6 +12148,9 @@ SR-224 MP 2 - 5 (Empire Pass)
 Approved traction devices required ","3/2/24, 2:38 PM","3/2/24, 3:34 PM","3/3/24, 5:33 AM",,40.624634,-111.501637
 UT-Incident--176104,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
 Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM","3/2/24, 2:40 PM",,40.649413,-111.49858
+UT-Incident--176206,Incidents,SR 36,Tooele County,SR 36 at MP 21,"Crash
+SR 36 at MP 21 (Vernon) Tooele Co.
+Est. Clearance Time: 10:00 AM","3/3/24, 8:54 AM","3/3/24, 10:00 AM","3/3/24, 8:54 AM",,40.086547,-112.426862
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
