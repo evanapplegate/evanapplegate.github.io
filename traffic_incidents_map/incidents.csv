@@ -12261,7 +12261,6 @@ UT-Incident--176245,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Cleared at 2:39 PM
 Est. Clearance Time: 3:02 PM","3/3/24, 2:04 PM","3/3/24, 3:02 PM","3/3/24, 2:39 PM",,40.348428,-111.591901
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
@@ -12271,6 +12270,11 @@ Est. Clearance Time: 3:20 PM","3/3/24, 2:21 PM","3/3/24, 3:20 PM","3/3/24, 2:21 
 UT-Incident--176249,Incidents,US 50,Millard County,US 50,"Crash
 US-50 MP 137 Millard Co.
 Est. Clearance Time: 4:15 PM","3/3/24, 3:07 PM","3/3/24, 4:15 PM","3/3/24, 3:07 PM",,39.1624,-112.072143
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176248,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 4:03 PM","3/3/24, 3:05 PM","3/3/24, 4:03 PM","3/3/24, 3:10 PM",,40.35648,-111.576663
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176250,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
@@ -12298,7 +12302,3 @@ Est. Clearance Time: 3:20 PM","3/3/24, 2:21 PM","3/3/24, 3:20 PM","3/3/24, 2:50 
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
-UT-Incident--176248,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 4:03 PM","3/3/24, 3:05 PM","3/3/24, 4:03 PM","3/3/24, 3:10 PM",,40.35648,-111.576663
