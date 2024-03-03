@@ -12006,11 +12006,15 @@ UT-Incident--176167,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:07 AM","3/3/24, 12:08 AM","3/3/24, 1:07 AM","3/3/24, 12:08 AM",,40.777705,-111.910735
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176170,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Stalled Vehicle
 Ramp I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:42 AM","3/3/24, 2:43 AM","3/3/24, 3:42 AM","3/3/24, 2:43 AM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176171,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:56 AM","3/3/24, 2:57 AM","3/3/24, 3:56 AM","3/3/24, 2:57 AM",,40.64406,-111.929407
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176166,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
@@ -12020,10 +12024,6 @@ UT-Incident--176168,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
 NB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
 Right Shoulder
 Est. Clearance Time: 3:05 AM","3/3/24, 2:07 AM","3/3/24, 3:05 AM","3/3/24, 2:07 AM",,41.329561,-112.031305
-UT-Incident--176171,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
-EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 3:56 AM","3/3/24, 2:57 AM","3/3/24, 3:56 AM","3/3/24, 2:57 AM",,40.64406,-111.929407
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
