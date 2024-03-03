@@ -12041,11 +12041,11 @@ UT-Incident--176177,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6:15 AM","3/3/24, 5:16 AM","3/3/24, 6:15 AM","3/3/24, 5:16 AM",,40.044918,-111.743767
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176175,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:37 AM","3/3/24, 4:38 AM","3/3/24, 5:37 AM",,,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
 SR-138 at MP 9 (Grantsville) Tooele Co.
@@ -12054,6 +12054,9 @@ UT-Incident--176184,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:15 AM","3/3/24, 6:14 AM","3/3/24, 7:15 AM",,,40.679062,-111.902181
+UT-Incident--176186,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
+SB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
+Est. Clearance Time: 7:30 AM","3/3/24, 6:31 AM","3/3/24, 7:30 AM",,,39.443964,-112.023911
 UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Right Shoulder
@@ -12065,7 +12068,7 @@ Est. Clearance Time: 7:15 AM","3/3/24, 6:09 AM","3/3/24, 7:15 AM",,,40.688869,-1
 UT-Incident--176185,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (1700 N) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 7:30 AM","3/3/24, 6:30 AM","3/3/24, 7:30 AM",,,,
+Est. Clearance Time: 7:30 AM","3/3/24, 6:30 AM","3/3/24, 7:30 AM",,,40.805538,-111.949006
 UT-Incident--176182,Incidents,I-215W NB X21 ON CALIFORNIA WB RAMP,Salt Lake County,I-215W NB X21 ON CALIFORNIA WB RAMP at CALIFORNIA AVE,"Crash
 NB I-215 W California Onramp (SLC) Salt Lake Co.
 Onramp Closed
