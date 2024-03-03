@@ -11931,7 +11931,6 @@ Est. Clearance Time: 5:36 PM","3/2/24, 4:37 PM","3/2/24, 5:36 PM","3/2/24, 4:37 
 UT-Incident--176142,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 Both Directions US 6 MP 180-232 (Spanish Fork Canyon) Utah, Wasatch & Carbon Co.
 Approved Traction Devices Required For Semis","3/2/24, 5:48 PM","3/4/24, 6:43 PM","3/2/24, 5:48 PM",,40.058914,-111.564458
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for semis traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 7:03 PM",,40.712086,-111.801151
 UT-Incident--176100,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
@@ -11944,6 +11943,7 @@ UT-Incident--176150,Incidents,US 6,Utah County,US 6 at MP 181,"Crash
 Both Directions US 6 at MP 181 (3 Mi E of US-89) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:00 PM","3/2/24, 6:41 PM","3/2/24, 8:00 PM","3/2/24, 7:22 PM",,40.052725,-111.548117
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176154,Incidents,I-15,Juab County,I-15 at MP 214,"Vehicle on fire
 NB I-15 at MP 214 (9 mi S of Nephi) Juab Co.
