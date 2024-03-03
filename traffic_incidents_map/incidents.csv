@@ -12190,10 +12190,17 @@ UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
+SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
+Est. Clearance Time: 1:45 PM","3/3/24, 10:35 AM","3/3/24, 1:45 PM","3/3/24, 11:36 AM",,39.87629,-111.828733
+UT-Incident--176225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:00 PM","3/3/24, 10:59 AM","3/3/24, 12:00 PM","3/3/24, 10:59 AM",,40.63698,-111.904427
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
-Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
+Est. Clearance Time: 12:30 PM","3/3/24, 10:25 AM","3/3/24, 12:30 PM","3/3/24, 12:04 PM",,37.791289,-112.437579
 UT-Incident--176232,Incidents,HWY 28,Juab County,HWY 28,"Multiple Crashes
 SR-28 at MP 26 Juab Co.
 Est. Clearance Time: 1:00 PM","3/3/24, 11:48 AM","3/3/24, 1:00 PM","3/3/24, 12:00 PM",,39.502562,-111.874508
@@ -12203,13 +12210,6 @@ Est. Clearance Time: 1:00 PM ","3/3/24, 11:49 AM","3/3/24, 1:00 PM","3/3/24, 11:
 UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
 SR-31 at MP 11 Sanpete Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
-UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
-SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
-Est. Clearance Time: 1:45 PM","3/3/24, 10:35 AM","3/3/24, 1:45 PM","3/3/24, 11:36 AM",,39.87629,-111.828733
-UT-Incident--176225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 12:00 PM","3/3/24, 10:59 AM","3/3/24, 12:00 PM","3/3/24, 10:59 AM",,40.63698,-111.904427
 UT-Incident--176227,Incidents,I-15,Box Elder County,I-15 at MP 367,"Crash
 SB I-15 at MP 367 (Honeyville) Box Elder Co.
 Right Shoulder
@@ -12229,7 +12229,11 @@ WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
 UT-Incident--176216,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
 WB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
-Est. Clearance Time: 11:00 AM","3/3/24, 10:06 AM","3/3/24, 11:00 AM","3/3/24, 10:06 AM",,40.787005,-112.960151
+Est. Clearance Time: 12:30 PM","3/3/24, 10:06 AM","3/3/24, 12:30 PM","3/3/24, 12:03 PM",,40.787005,-112.960151
+UT-Incident--176239,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
+Ramp EB I-80 at MP 125 (700 E Exit) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:12 PM","3/3/24, 12:13 PM","3/3/24, 1:12 PM","3/3/24, 12:14 PM",,40.719771,-111.855009
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
@@ -12238,6 +12242,9 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
+UT-Incident--176238,Incidents,SR 28,Juab County,SR 28 at MP 23,"Crash
+SR 28 at MP 23 (7 Mi N of Yuba Lake) Juab Co.
+Est. Clearance Time: 1:15 PM","3/3/24, 12:03 PM","3/3/24, 1:15 PM","3/3/24, 12:03 PM",,39.464271,-111.900442
 UT-Incident--176234,Incidents,SR 31,Sanpete County,SR 31 at MP 8,"Road Weather 
 Both Directions SR 31 Closed
 Between MP 8 to MP 18 (8 MI E of US-89) Sanpete Co.
