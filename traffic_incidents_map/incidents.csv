@@ -12172,13 +12172,6 @@ SB I-15 at MP 238 (5 mi N of Mona) Juab Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","3/3/24, 10:38 AM","3/3/24, 11:45 AM","3/3/24, 10:38 AM",,39.89078,-111.8287
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
-SR-143 at MP 49 Garfield Co.
-Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
-UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
-SR-31 at MP 11 Sanpete Co.
-Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
 UT-Incident--176218,Incidents,I-15,Juab County,I-15 at MP 239,"Crash
 SB I-15 at MP 239 (4 mi S of Santaquin) Juab Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,39.905017,-111.824761
@@ -12188,12 +12181,25 @@ Est. Clearance Time: 11:30 AM","3/3/24, 10:26 AM","3/3/24, 11:30 AM","3/3/24, 10
 UT-Incident--176220,Incidents,I-15,Juab County,I-15 at MP 199,"Crash
 SB I-15 at MP 199 (11 mi N of Scipio) Juab Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:30 AM","3/3/24, 11:30 AM","3/3/24, 10:30 AM",,39.396614,-112.063525
+UT-Incident--176214,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
+WB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
+Est. Clearance Time: 11:00 AM","3/3/24, 9:47 AM","3/3/24, 11:00 AM","3/3/24, 9:47 AM",,40.745008,-112.641774
+UT-Incident--176208,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+Both Dirs US 6 at MP 180 - 232 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 PM","3/3/24, 9:08 AM",,40.058914,-111.564458
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
+SR-143 at MP 49 Garfield Co.
+Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
+UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
+SR-31 at MP 11 Sanpete Co.
+Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
 UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 11:45 AM","3/3/24, 10:35 AM","3/3/24, 11:45 AM","3/3/24, 10:36 AM",,39.87629,-111.828733
 UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
-Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,39.87629,-111.828733
+Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
 UT-Incident--176225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -12212,9 +12218,6 @@ Est. Clearance Time: 12:15 PM","3/3/24, 11:13 AM","3/3/24, 12:15 PM","3/3/24, 11
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
-UT-Incident--176214,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
-WB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
-Est. Clearance Time: 11:00 AM","3/3/24, 9:47 AM","3/3/24, 11:00 AM","3/3/24, 9:47 AM",,40.745008,-112.641774
 UT-Incident--176216,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
 WB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 11:00 AM","3/3/24, 10:06 AM","3/3/24, 11:00 AM","3/3/24, 10:06 AM",,40.787005,-112.960151
@@ -12229,9 +12232,6 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
-UT-Incident--176208,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
-Both Dirs US 6 at MP 180 - 232 (Spanish Fork Canyon) Utah Co.
-Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 PM","3/3/24, 9:08 AM",,40.058914,-111.564458
 UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
 US 89 at MP 250 Sanpete Co.
 Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
