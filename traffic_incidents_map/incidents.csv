@@ -11912,7 +11912,6 @@ UT-Incident--176127,Incidents,US 189,Wasatch County,US 189 at MP 15,"Lane Closur
 WB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 5:37 PM","3/2/24, 4:39 PM","3/2/24, 5:37 PM","3/2/24, 4:39 PM",,40.375381,-111.556028
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176122,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Vehicle on fire
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
@@ -11929,6 +11928,7 @@ UT-Incident--176126,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:36 PM","3/2/24, 4:37 PM","3/2/24, 5:36 PM","3/2/24, 4:37 PM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for semis traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 7:03 PM",,40.712086,-111.801151
@@ -11963,3 +11963,6 @@ UT-Incident--176150,Incidents,US 6,Utah County,US 6 at MP 181,"Crash
 Both Directions US 6 at MP 181 (3 Mi E of US-89) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:00 PM","3/2/24, 6:41 PM","3/2/24, 8:00 PM","3/2/24, 7:22 PM",,40.052725,-111.548117
+UT-Incident--176152,Incidents,US 6,Utah County,US 6 at MP 154,"Crash
+US 6 at MP 154 (1 Mile East of Goshen) Utah Co.
+Est. Clearance Time: 9:00 PM","3/2/24, 7:36 PM","3/2/24, 9:00 PM","3/2/24, 7:36 PM",,39.956854,-111.879727
