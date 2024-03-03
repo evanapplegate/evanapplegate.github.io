@@ -11972,10 +11972,10 @@ UT-Incident--176153,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 EB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:57 PM","3/2/24, 8:00 PM","3/2/24, 8:57 PM","3/2/24, 8:00 PM",,40.641354,-111.808234
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176157,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Est. Clearance Time: 10:39 PM","3/2/24, 9:40 PM","3/2/24, 10:39 PM","3/2/24, 9:40 PM",,40.64406,-111.929407
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176160,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
@@ -11992,6 +11992,14 @@ Est. Clearance Time: 11:54 PM","3/2/24, 10:54 PM","3/2/24, 11:54 PM","3/2/24, 10
 UT-Incident--176163,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 Ramp I-15 at MP 308 (N Temple) Salt Lake Co.
 Est. Clearance Time: 3/3/2024 12:26 AM","3/2/24, 11:29 PM","3/3/24, 12:26 AM","3/2/24, 11:29 PM",,40.763745,-111.914284
+UT-Incident--176164,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3/3/2024 12:29 AM","3/2/24, 11:30 PM","3/3/24, 12:29 AM","3/2/24, 11:30 PM",,40.578741,-111.900284
+UT-Incident--176165,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Vehicle on fire
+SB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3/3/2024 12:31 AM","3/2/24, 11:32 PM","3/3/24, 12:31 AM","3/2/24, 11:32 PM",,40.707874,-111.90397
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
