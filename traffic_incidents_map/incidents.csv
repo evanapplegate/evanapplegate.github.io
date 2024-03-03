@@ -12049,7 +12049,6 @@ UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM",,,40.655726,-111.806969
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176193,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at CALIFORNIA AVE,"Crash
 SB Bangerter Hwy at California Ave (SLC) Salt Lake Co.
 Right Lane Closed
@@ -12127,3 +12126,4 @@ Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-1
 UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
 Both Directions US 6 at MP 102 Millard Co.
 Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM",,,39.488023,-112.405272
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
