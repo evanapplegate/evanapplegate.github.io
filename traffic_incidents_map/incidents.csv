@@ -12046,6 +12046,10 @@ SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:37 AM","3/3/24, 4:38 AM","3/3/24, 5:37 AM",,,40.717792,-111.95364
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
+SB I-215 E at MP 5 (5600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM",,,40.655726,-111.806969
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
 SR-138 at MP 9 (Grantsville) Tooele Co.
@@ -12057,10 +12061,6 @@ Est. Clearance Time: 7:15 AM","3/3/24, 6:14 AM","3/3/24, 7:15 AM",,,40.679062,-1
 UT-Incident--176186,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
 SB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
 Est. Clearance Time: 7:30 AM","3/3/24, 6:31 AM","3/3/24, 7:30 AM",,,39.443964,-112.023911
-UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
-SB I-215 E at MP 5 (5600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM",,,40.655726,-111.806969
 UT-Incident--176183,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3900 S, West Valley City) Salt Lake Co.
 Left Shoulder
@@ -12103,3 +12103,6 @@ Approved traction devices required for all vehicles traveling SB SR-224 (Empire 
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM",,,40.368169,-111.559358
+UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
+Both Directions US 6 at MP 102 Millard Co.
+Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM",,,39.488023,-112.405272
