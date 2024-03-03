@@ -11979,7 +11979,6 @@ UT-Incident--176162,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:54 PM","3/2/24, 10:54 PM","3/2/24, 11:54 PM","3/2/24, 10:54 PM",,40.846156,-111.91486
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176160,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
@@ -11997,6 +11996,7 @@ NB SR 199 at MP 13 (Johnson Pass) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 10:41 PM","3/2/24, 9:42 PM","3/2/24, 10:41 PM","3/2/24, 9:42 PM",,40.346584,-112.565521
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176163,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 Ramp I-15 at MP 308 (N Temple) Salt Lake Co.
 Est. Clearance Time: 3/3/2024 12:26 AM","3/2/24, 11:29 PM","3/3/24, 12:26 AM","3/2/24, 11:29 PM",,40.763745,-111.914284
@@ -12006,8 +12006,8 @@ Right Shoulder
 Est. Clearance Time: 3/3/2024 12:31 AM","3/2/24, 11:32 PM","3/3/24, 12:31 AM","3/2/24, 11:32 PM",,40.707874,-111.90397
 UT-Incident--176166,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 1:02 AM","3/3/24, 12:04 AM","3/3/24, 1:02 AM","3/3/24, 12:04 AM",,40.578741,-111.900284
+2 Right Lanes Closed
+Est. Clearance Time: 1:02 AM","3/3/24, 12:04 AM","3/3/24, 1:02 AM","3/3/24, 12:25 AM",,40.578741,-111.900284
 UT-Incident--176167,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
