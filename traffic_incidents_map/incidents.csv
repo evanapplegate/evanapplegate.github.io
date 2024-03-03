@@ -11964,20 +11964,28 @@ UT-Incident--176155,Incidents,I-15,Juab County,I-15 at MP 218,"Crash
 SB I-15 at MP 218 (5 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 10:14 PM","3/2/24, 9:15 PM","3/2/24, 10:14 PM","3/2/24, 9:15 PM",,39.635284,-111.903226
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176159,Incidents,I-15,Juab County,I-15 at MP 222,"Crash
 SB I-15 at MP 222 (1 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","3/2/24, 10:02 PM","3/2/24, 11:00 PM","3/2/24, 10:02 PM",,39.673626,-111.851394
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176160,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
-NB I-15 at MP 331 (Hill Field Rd) Davis Co.
-Right Shoulder
-Est. Clearance Time: 11:26 PM","3/2/24, 10:27 PM","3/2/24, 11:26 PM","3/2/24, 10:27 PM",,41.066718,-111.970064
 UT-Incident--176153,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 EB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:57 PM","3/2/24, 8:00 PM","3/2/24, 8:57 PM","3/2/24, 8:00 PM",,40.641354,-111.808234
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176160,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+NB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:26 PM","3/2/24, 10:27 PM","3/2/24, 11:26 PM","3/2/24, 10:27 PM",,41.066718,-111.970064
+UT-Incident--176161,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
+SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:53 PM","3/2/24, 10:53 PM","3/2/24, 11:53 PM","3/2/24, 10:53 PM",,40.85851,-111.904912
+UT-Incident--176162,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
+NB I-15 at MP 314 (Main St, NSL) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:54 PM","3/2/24, 10:54 PM","3/2/24, 11:54 PM","3/2/24, 10:54 PM",,40.846156,-111.91486
 UT-Incident--176157,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Est. Clearance Time: 10:39 PM","3/2/24, 9:40 PM","3/2/24, 10:39 PM","3/2/24, 9:40 PM",,40.64406,-111.929407
