@@ -12141,7 +12141,6 @@ Est. Clearance Time: 9:15 AM","3/3/24, 8:18 AM","3/3/24, 9:15 AM","3/3/24, 8:18 
 UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
 Both Directions US 6 at MP 102 Millard Co.
 Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM","3/3/24, 7:05 AM",,39.488023,-112.405272
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176211,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 SB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Est. Clearance Time: 10:30 AM","3/3/24, 9:16 AM","3/3/24, 10:30 AM","3/3/24, 9:16 AM",,39.991194,-111.764095
@@ -12169,6 +12168,7 @@ Approved traction devices required ","3/2/24, 2:38 PM","3/2/24, 3:34 PM","3/3/24
 UT-Incident--176104,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
 Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM","3/3/24, 10:15 AM",,40.649413,-111.49858
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
@@ -12178,6 +12178,16 @@ Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10
 UT-Incident--176219,Incidents,I-15,Juab County,I-15 at MP 238,"Crash
 SB I-15 at MP 238 (5 mi N of Mona) Juab Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:26 AM","3/3/24, 11:30 AM","3/3/24, 10:26 AM",,39.89078,-111.8287
+UT-Incident--176220,Incidents,I-15,Juab County,I-15 at MP 199,"Crash
+SB I-15 at MP 199 (11 mi N of Scipio) Juab Co.
+Est. Clearance Time: 11:30 AM","3/3/24, 10:30 AM","3/3/24, 11:30 AM","3/3/24, 10:30 AM",,39.396614,-112.063525
+UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
+SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
+Est. Clearance Time: 11:45 AM","3/3/24, 10:35 AM","3/3/24, 11:45 AM","3/3/24, 10:36 AM",,39.87629,-111.828733
+UT-Incident--176222,Incidents,I-15,Juab County,I-15 at MP 238,"Crash
+SB I-15 at MP 238 (5 mi N of Mona) Juab Co.
+Right Shoulder
+Est. Clearance Time: 11:45 AM","3/3/24, 10:38 AM","3/3/24, 11:45 AM","3/3/24, 10:38 AM",,39.89078,-111.8287
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
