@@ -12100,10 +12100,19 @@ UT-Incident--176194,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
 NB US 189 at MP 15 (1 Mi East of SR-92 Jct) Wasatch Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-111.556028
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176180,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 at MP 128 - 143 (Parley's Canyon) Salt Lake Co.
+Approved Traction Devices Required For Semis","3/3/24, 5:51 AM","3/4/24, 12:00 PM","3/3/24, 5:51 AM",,40.712086,-111.801151
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176207,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Est. Clearance Time: 10:00 AM","3/3/24, 8:57 AM","3/3/24, 10:00 AM","3/3/24, 8:57 AM",,40.789884,-111.91543
+UT-Incident--176209,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
+NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
+Est. Clearance Time: 10:30 AM","3/3/24, 9:14 AM","3/3/24, 10:30 AM","3/3/24, 9:14 AM",,39.945085,-111.807481
+UT-Incident--176211,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
+SB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
+Est. Clearance Time: 10:30 AM","3/3/24, 9:16 AM","3/3/24, 10:30 AM","3/3/24, 9:16 AM",,39.991194,-111.764095
 UT-Incident--176188,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (700 N) Salt Lake Co.
 Right Shoulder
@@ -12112,12 +12121,13 @@ UT-Incident--176200,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","3/3/24, 8:18 AM","3/3/24, 9:15 AM","3/3/24, 8:18 AM",,40.775011,-111.949343
+UT-Incident--176210,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+NB I-215 W at MP 21 (California Ave) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","3/3/24, 9:16 AM","3/3/24, 10:15 AM","3/3/24, 9:16 AM",,40.742556,-111.948992
 UT-Incident--176192,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
 EB I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:24 AM","3/3/24, 8:30 AM","3/3/24, 7:24 AM",,38.604781,-112.542943
-UT-Incident--176180,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
-EB I-80 at MP 128 - 143 (Parley's Canyon) Salt Lake Co.
-Approved Traction Devices Required For Semis","3/3/24, 5:51 AM","3/4/24, 12:00 PM","3/3/24, 5:51 AM",,40.712086,-111.801151
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
@@ -12161,3 +12171,6 @@ Est. Clearance Time: 9:30 AM","3/3/24, 8:28 AM","3/3/24, 9:30 AM","3/3/24, 8:28 
 UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
 Both Directions US 6 at MP 102 Millard Co.
 Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM","3/3/24, 7:05 AM",,39.488023,-112.405272
+UT-Incident--176208,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
+Both Dirs US 6 at MP 180 - 232 (Spanish Fork Canyon) Utah Co.
+Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 PM","3/3/24, 9:08 AM",,40.058914,-111.564458
