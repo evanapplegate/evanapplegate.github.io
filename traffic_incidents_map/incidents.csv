@@ -12171,7 +12171,6 @@ UT-Incident--176222,Incidents,I-15,Juab County,I-15 at MP 238,"Crash
 SB I-15 at MP 238 (5 mi N of Mona) Juab Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","3/3/24, 10:38 AM","3/3/24, 11:45 AM","3/3/24, 10:38 AM",,39.89078,-111.8287
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176218,Incidents,I-15,Juab County,I-15 at MP 239,"Crash
 SB I-15 at MP 239 (4 mi S of Santaquin) Juab Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,39.905017,-111.824761
@@ -12188,6 +12187,10 @@ UT-Incident--176208,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restricti
 Both Dirs US 6 at MP 180 - 232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 PM","3/3/24, 9:08 AM",,40.058914,-111.564458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
+SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
+Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
@@ -12196,10 +12199,7 @@ SR-31 at MP 11 Sanpete Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
 UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
-Est. Clearance Time: 11:45 AM","3/3/24, 10:35 AM","3/3/24, 11:45 AM","3/3/24, 10:36 AM",,39.87629,-111.828733
-UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
-SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
-Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
+Est. Clearance Time: 1:45 PM","3/3/24, 10:35 AM","3/3/24, 1:45 PM","3/3/24, 11:36 AM",,39.87629,-111.828733
 UT-Incident--176225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -12232,6 +12232,9 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
+UT-Incident--176230,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 12:32 PM","3/3/24, 11:35 AM","3/3/24, 12:32 PM","3/3/24, 11:35 AM",,39.933221,-111.107262
 UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
 US 89 at MP 250 Sanpete Co.
 Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
