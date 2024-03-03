@@ -12099,10 +12099,10 @@ Est. Clearance Time: 8:45 AM","3/3/24, 7:46 AM","3/3/24, 8:45 AM",,,40.718331,-1
 UT-Incident--176194,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
 NB US 189 at MP 15 (1 Mi East of SR-92 Jct) Wasatch Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-111.556028
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176180,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128 - 143 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:51 AM","3/4/24, 12:00 PM","3/3/24, 5:51 AM",,40.712086,-111.801151
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176207,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
@@ -12113,6 +12113,10 @@ Est. Clearance Time: 10:30 AM","3/3/24, 9:14 AM","3/3/24, 10:30 AM","3/3/24, 9:1
 UT-Incident--176211,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 SB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Est. Clearance Time: 10:30 AM","3/3/24, 9:16 AM","3/3/24, 10:30 AM","3/3/24, 9:16 AM",,39.991194,-111.764095
+UT-Incident--176213,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
+NB I-15 at MP 244 (US-6 Jct, Santaquin) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 10:30 AM","3/3/24, 9:28 AM","3/3/24, 10:30 AM","3/3/24, 9:28 AM",,39.967345,-111.783318
 UT-Incident--176188,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (700 N) Salt Lake Co.
 Right Shoulder
@@ -12125,6 +12129,10 @@ UT-Incident--176210,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (California Ave) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","3/3/24, 9:16 AM","3/3/24, 10:15 AM","3/3/24, 9:16 AM",,40.742556,-111.948992
+UT-Incident--176212,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
+NB I-215 W at MP 16 (4300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","3/3/24, 9:23 AM","3/3/24, 10:30 AM","3/3/24, 9:23 AM",,40.677302,-111.952055
 UT-Incident--176192,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
 EB I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:24 AM","3/3/24, 8:30 AM","3/3/24, 7:24 AM",,38.604781,-112.542943
