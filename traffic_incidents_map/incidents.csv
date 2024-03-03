@@ -12196,7 +12196,6 @@ UT-Incident--176225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:00 PM","3/3/24, 10:59 AM","3/3/24, 12:00 PM","3/3/24, 10:59 AM",,40.63698,-111.904427
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176232,Incidents,HWY 28,Juab County,HWY 28,"Multiple Crashes
 SR-28 at MP 26 Juab Co.
 Est. Clearance Time: 1:00 PM","3/3/24, 11:48 AM","3/3/24, 1:00 PM","3/3/24, 12:00 PM",,39.502562,-111.874508
@@ -12209,6 +12208,7 @@ Est. Clearance Time: 12:30 PM","3/3/24, 10:06 AM","3/3/24, 12:30 PM","3/3/24, 12
 UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
 US 89 at MP 250 Sanpete Co.
 Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
