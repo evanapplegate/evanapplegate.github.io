@@ -12029,15 +12029,11 @@ UT-Incident--176169,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Police in
 EB SR 201 at MP 13 (3200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:13 AM","3/3/24, 2:14 AM","3/3/24, 3:13 AM","3/3/24, 2:14 AM",,40.725733,-111.982034
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176179,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY,"Crash
 NB Bangerter Hwy at SR-201 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:30 AM","3/3/24, 5:25 AM","3/3/24, 6:30 AM",,,40.727865,-111.986352
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
-SR-138 at MP 9 (Grantsville) Tooele Co.
-Est. Clearance Time: 6:30 AM","3/3/24, 5:22 AM","3/3/24, 6:30 AM","3/3/24, 5:22 AM",,40.603032,-112.485282
 UT-Incident--176166,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Cleared at 1:34 AM
@@ -12046,28 +12042,42 @@ UT-Incident--176177,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6:15 AM","3/3/24, 5:16 AM","3/3/24, 6:15 AM","3/3/24, 5:16 AM",,40.044918,-111.743767
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
+SR-138 at MP 9 (Grantsville) Tooele Co.
+Est. Clearance Time: 6:30 AM","3/3/24, 5:22 AM","3/3/24, 6:30 AM",,,40.603032,-112.485282
 UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM","3/3/24, 4:53 AM",,40.655726,-111.806969
+Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM",,,40.655726,-111.806969
 UT-Incident--176175,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 5:37 AM","3/3/24, 4:38 AM","3/3/24, 5:37 AM","3/3/24, 4:38 AM",,40.717792,-111.95364
+Est. Clearance Time: 5:37 AM","3/3/24, 4:38 AM","3/3/24, 5:37 AM",,,40.717792,-111.95364
+UT-Incident--176182,Incidents,I-215W NB X21 ON CALIFORNIA WB RAMP,Salt Lake County,I-215W NB X21 ON CALIFORNIA WB RAMP at CALIFORNIA AVE,"Crash
+NB I-215 W California Onramp (SLC) Salt Lake Co.
+Onramp Closed
+Est. Clearance Time: 8:00 AM","3/3/24, 6:01 AM","3/3/24, 8:00 AM",,,40.740537,-111.947999
 UT-Incident--176174,Incidents,I-70,Sevier County,I-70 at MP 69,"Crash
 EB I-70 at MP 69 (29 mi E of Richfield) Sevier Co.
 Left Shoulder
-Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM","3/3/24, 4:22 AM",,38.90331,-111.643095
+Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM",,,38.90331,-111.643095
+UT-Incident--176180,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
+EB I-80 at MP 128 - 143 (Parley's Canyon) Salt Lake Co.
+Approved Traction Devices Required For Semis","3/3/24, 5:51 AM","3/4/24, 12:00 PM",,,40.712086,-111.801151
+UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
+Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM",,,40.740161,-111.558358
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
+Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM",,,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
+Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM",,,40.619107,-111.786281
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
+Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM",,,40.572095,-111.773814
 UT-Incident--176103,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 SR-224 MP 2 - 5 (Empire Pass)
-Approved traction devices required ","3/2/24, 2:38 PM","3/2/24, 3:34 PM","3/3/24, 5:33 AM",,40.624634,-111.501637
+Approved traction devices required ","3/2/24, 2:38 PM","3/2/24, 3:34 PM",,,40.624634,-111.501637
 UT-Incident--176104,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
-Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM","3/2/24, 2:40 PM",,40.649413,-111.49858
+Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM",,,40.649413,-111.49858
