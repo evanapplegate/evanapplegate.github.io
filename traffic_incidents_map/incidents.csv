@@ -12270,11 +12270,15 @@ Est. Clearance Time: 3:20 PM","3/3/24, 2:21 PM","3/3/24, 3:20 PM","3/3/24, 2:21 
 UT-Incident--176249,Incidents,US 50,Millard County,US 50,"Crash
 US-50 MP 137 Millard Co.
 Est. Clearance Time: 4:15 PM","3/3/24, 3:07 PM","3/3/24, 4:15 PM","3/3/24, 3:07 PM",,39.1624,-112.072143
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176248,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:03 PM","3/3/24, 3:05 PM","3/3/24, 4:03 PM","3/3/24, 3:10 PM",,40.35648,-111.576663
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176246,Incidents,SR 73,Tooele County,SR 73 at MP 10,"Vehicle on fire
+Both Directions SR 73 at MP 10 (9 MI W of Fairfield) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 3:20 PM","3/3/24, 2:21 PM","3/3/24, 3:20 PM","3/3/24, 2:50 PM",,40.283189,-112.261003
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176250,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
@@ -12295,10 +12299,10 @@ UT-Incident--176236,Incidents,SR 31,Sanpete County,SR 31 at MP 18,"Road Weather
 Both Directions SR 31 Closed
 Between MP 18 to MP 8  (E of US-89) Sanpete Co.
 Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/3/24, 11:56 AM",,39.584024,-111.257786
-UT-Incident--176246,Incidents,SR 73,Tooele County,SR 73 at MP 10,"Vehicle on fire
-Both Directions SR 73 at MP 10 (9 MI W of Fairfield) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 3:20 PM","3/3/24, 2:21 PM","3/3/24, 3:20 PM","3/3/24, 2:50 PM",,40.283189,-112.261003
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
+UT-Incident--176251,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 4:49 PM","3/3/24, 3:51 PM","3/3/24, 4:49 PM","3/3/24, 3:51 PM",,40.35648,-111.576663
