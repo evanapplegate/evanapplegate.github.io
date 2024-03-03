@@ -12208,7 +12208,6 @@ Est. Clearance Time: 12:30 PM","3/3/24, 10:06 AM","3/3/24, 12:30 PM","3/3/24, 12
 UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
 US 89 at MP 250 Sanpete Co.
 Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:25 AM","3/3/24, 12:30 PM","3/3/24, 12:04 PM",,37.791289,-112.437579
@@ -12240,6 +12239,7 @@ UT-Incident--176237,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:56 PM","3/3/24, 11:57 AM","3/3/24, 12:56 PM","3/3/24, 11:57 AM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176241,Incidents,1900 W,Weber County,1900 W at 4800 S,"Crash
 SB 1900 W at 4800 S (Roy) Weber Co.
