@@ -11956,7 +11956,6 @@ Est. Clearance Time: 4:50 PM","3/2/24, 3:50 PM","3/2/24, 4:50 PM","3/2/24, 3:50 
 UT-Incident--176138,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 MP 18-58 Wasatch Co.
 Approved Traction Devices Required For Semis","3/2/24, 5:22 PM","3/2/24, 11:00 PM","3/2/24, 5:22 PM",,40.492161,-111.412613
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176154,Incidents,I-15,Juab County,I-15 at MP 214,"Vehicle on fire
 NB I-15 at MP 214 (9 mi S of Nephi) Juab Co.
 Right Shoulder
@@ -11966,10 +11965,15 @@ UT-Incident--176155,Incidents,I-15,Juab County,I-15 at MP 218,"Crash
 SB I-15 at MP 218 (5 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 10:14 PM","3/2/24, 9:15 PM","3/2/24, 10:14 PM","3/2/24, 9:15 PM",,39.635284,-111.903226
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176159,Incidents,I-15,Juab County,I-15 at MP 222,"Crash
 SB I-15 at MP 222 (1 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","3/2/24, 10:02 PM","3/2/24, 11:00 PM","3/2/24, 10:02 PM",,39.673626,-111.851394
+UT-Incident--176160,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+NB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:26 PM","3/2/24, 10:27 PM","3/2/24, 11:26 PM","3/2/24, 10:27 PM",,41.066718,-111.970064
 UT-Incident--176153,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 EB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Left Shoulder
