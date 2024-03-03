@@ -12189,7 +12189,6 @@ Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 P
 UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176221,Incidents,I-15,Juab County,I-15 at MP 237,"Multiple Crashes
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 1:45 PM","3/3/24, 10:35 AM","3/3/24, 1:45 PM","3/3/24, 11:36 AM",,39.87629,-111.828733
@@ -12198,15 +12197,26 @@ NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:00 PM","3/3/24, 10:59 AM","3/3/24, 12:00 PM","3/3/24, 10:59 AM",,40.63698,-111.904427
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
-SR-143 at MP 49 Garfield Co.
-Est. Clearance Time: 12:30 PM","3/3/24, 10:25 AM","3/3/24, 12:30 PM","3/3/24, 12:04 PM",,37.791289,-112.437579
 UT-Incident--176232,Incidents,HWY 28,Juab County,HWY 28,"Multiple Crashes
 SR-28 at MP 26 Juab Co.
 Est. Clearance Time: 1:00 PM","3/3/24, 11:48 AM","3/3/24, 1:00 PM","3/3/24, 12:00 PM",,39.502562,-111.874508
 UT-Incident--176233,Incidents,HWY 28,Juab County,HWY 28,"Crash
 SR-28 at MP 24 Juab Co.
 Est. Clearance Time: 1:00 PM ","3/3/24, 11:49 AM","3/3/24, 1:00 PM","3/3/24, 11:49 AM",,39.476731,-111.892038
+UT-Incident--176216,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
+WB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
+Est. Clearance Time: 12:30 PM","3/3/24, 10:06 AM","3/3/24, 12:30 PM","3/3/24, 12:03 PM",,40.787005,-112.960151
+UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
+US 89 at MP 250 Sanpete Co.
+Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
+SR-143 at MP 49 Garfield Co.
+Est. Clearance Time: 12:30 PM","3/3/24, 10:25 AM","3/3/24, 12:30 PM","3/3/24, 12:04 PM",,37.791289,-112.437579
+UT-Incident--176240,Incidents,HWY 224,Summit County,HWY 224 at MEADOWS DR,"Crash
+SR-224 at Meadows Dr (Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 1:30 PM","3/3/24, 12:29 PM","3/3/24, 1:30 PM","3/3/24, 12:29 PM",,40.675485,-111.520434
 UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
 SR-31 at MP 11 Sanpete Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
@@ -12227,9 +12237,6 @@ Est. Clearance Time: 1:30 PM","3/3/24, 11:50 AM","3/3/24, 1:30 PM","3/3/24, 11:5
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
-UT-Incident--176216,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
-WB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
-Est. Clearance Time: 12:30 PM","3/3/24, 10:06 AM","3/3/24, 12:30 PM","3/3/24, 12:03 PM",,40.787005,-112.960151
 UT-Incident--176239,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 Ramp EB I-80 at MP 125 (700 E Exit) Salt Lake Co.
 Right Shoulder
@@ -12263,6 +12270,3 @@ Est. Clearance Time: 12:56 PM","3/3/24, 11:57 AM","3/3/24, 12:56 PM","3/3/24, 11
 UT-Incident--176230,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Est. Clearance Time: 12:32 PM","3/3/24, 11:35 AM","3/3/24, 12:32 PM","3/3/24, 11:35 AM",,39.933221,-111.107262
-UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
-US 89 at MP 250 Sanpete Co.
-Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
