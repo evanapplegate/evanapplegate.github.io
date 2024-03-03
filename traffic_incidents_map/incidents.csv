@@ -12209,7 +12209,6 @@ UT-Incident--176226,Incidents,US 89,Sanpete County,US 89 3951,"Crash
 US 89 at MP 250 Sanpete Co.
 Est. Clearance Time: 12:00 PM","3/3/24, 11:01 AM","3/3/24, 12:00 PM","3/3/24, 11:01 AM",,39.200271,-111.692118
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:25 AM","3/3/24, 12:30 PM","3/3/24, 12:04 PM",,37.791289,-112.437579
@@ -12220,10 +12219,6 @@ Est. Clearance Time: 1:30 PM","3/3/24, 12:29 PM","3/3/24, 1:30 PM","3/3/24, 12:2
 UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
 SR-31 at MP 11 Sanpete Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
-UT-Incident--176227,Incidents,I-15,Box Elder County,I-15 at MP 367,"Crash
-SB I-15 at MP 367 (Honeyville) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 12:15 PM","3/3/24, 11:10 AM","3/3/24, 12:15 PM","3/3/24, 11:10 AM",,41.55627,-112.069184
 UT-Incident--176228,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
 SB I-15 at MP 333 (700 S /SR-193) Davis Co.
 Left Lane Closed
@@ -12234,13 +12229,29 @@ Est. Clearance Time: 12:15 PM","3/3/24, 11:13 AM","3/3/24, 12:15 PM","3/3/24, 11
 UT-Incident--176235,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 NB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Est. Clearance Time: 1:30 PM","3/3/24, 11:50 AM","3/3/24, 1:30 PM","3/3/24, 11:50 AM",,39.775857,-111.839015
-UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
-WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
-Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
 UT-Incident--176239,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 Ramp EB I-80 at MP 125 (700 E Exit) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:12 PM","3/3/24, 12:13 PM","3/3/24, 1:12 PM","3/3/24, 12:14 PM",,40.719771,-111.855009
+UT-Incident--176238,Incidents,SR 28,Juab County,SR 28 at MP 23,"Crash
+SR 28 at MP 23 (7 Mi N of Yuba Lake) Juab Co.
+Est. Clearance Time: 1:15 PM","3/3/24, 12:03 PM","3/3/24, 1:15 PM","3/3/24, 12:03 PM",,39.464271,-111.900442
+UT-Incident--176237,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 12:56 PM","3/3/24, 11:57 AM","3/3/24, 12:56 PM","3/3/24, 11:57 AM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176241,Incidents,1900 W,Weber County,1900 W at 4800 S,"Crash
+SB 1900 W at 4800 S (Roy) Weber Co.
+Blocking Intersection
+Est. Clearance Time: 2:00 PM","3/3/24, 12:48 PM","3/3/24, 2:00 PM","3/3/24, 12:50 PM",,41.176095,-112.025965
+UT-Incident--176227,Incidents,I-15,Box Elder County,I-15 at MP 367,"Crash
+SB I-15 at MP 367 (Honeyville) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 12:15 PM","3/3/24, 11:10 AM","3/3/24, 12:15 PM","3/3/24, 11:10 AM",,41.55627,-112.069184
+UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
+Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
@@ -12249,9 +12260,6 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
-UT-Incident--176238,Incidents,SR 28,Juab County,SR 28 at MP 23,"Crash
-SR 28 at MP 23 (7 Mi N of Yuba Lake) Juab Co.
-Est. Clearance Time: 1:15 PM","3/3/24, 12:03 PM","3/3/24, 1:15 PM","3/3/24, 12:03 PM",,39.464271,-111.900442
 UT-Incident--176234,Incidents,SR 31,Sanpete County,SR 31 at MP 8,"Road Weather 
 Both Directions SR 31 Closed
 Between MP 8 to MP 18 (8 MI E of US-89) Sanpete Co.
@@ -12263,10 +12271,6 @@ Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/3/24, 11:56 AM",,39.5840
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
-UT-Incident--176237,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 12:56 PM","3/3/24, 11:57 AM","3/3/24, 12:56 PM","3/3/24, 11:57 AM",,40.348428,-111.591901
 UT-Incident--176230,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Est. Clearance Time: 12:32 PM","3/3/24, 11:35 AM","3/3/24, 12:32 PM","3/3/24, 11:35 AM",,39.933221,-111.107262
