@@ -12053,11 +12053,15 @@ UT-Incident--176193,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY
 SB Bangerter Hwy at California Ave (SLC) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 AM","3/3/24, 7:26 AM","3/3/24, 8:30 AM",,,40.743461,-111.989658
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
 SR-138 at MP 9 (Grantsville) Tooele Co.
 Est. Clearance Time: 6:30 AM","3/3/24, 5:22 AM","3/3/24, 6:30 AM",,,40.603032,-112.485282
+UT-Incident--176174,Incidents,I-70,Sevier County,I-70 at MP 69,"Crash
+EB I-70 at MP 69 (29 mi E of Richfield) Sevier Co.
+Left Shoulder
+Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM",,,38.90331,-111.643095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176184,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (3500 S) Salt Lake Co.
 Right Lane Closed
@@ -12089,10 +12093,6 @@ UT-Incident--176182,Incidents,I-215W NB X21 ON CALIFORNIA WB RAMP,Salt Lake Coun
 NB I-215 W California Onramp (SLC) Salt Lake Co.
 Onramp Closed
 Est. Clearance Time: 8:00 AM","3/3/24, 6:01 AM","3/3/24, 8:00 AM",,,40.740537,-111.947999
-UT-Incident--176174,Incidents,I-70,Sevier County,I-70 at MP 69,"Crash
-EB I-70 at MP 69 (29 mi E of Richfield) Sevier Co.
-Left Shoulder
-Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM",,,38.90331,-111.643095
 UT-Incident--176192,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
 EB I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:24 AM","3/3/24, 8:30 AM",,,38.604781,-112.542943
@@ -12108,6 +12108,16 @@ Est. Clearance Time: 8:30 AM","3/3/24, 7:23 AM","3/3/24, 8:30 AM",,,40.682336,-1
 UT-Incident--176198,Incidents,I-80,Tooele County,I-80 at MP 64,"Crash
 EB I-80 at MP 64 (2 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 9:00 AM","3/3/24, 7:50 AM","3/3/24, 9:00 AM",,,40.809856,-112.867
+UT-Incident--176202,Incidents,I-80,Tooele County,I-80 at MP 60,"Crash
+EB I-80 at MP 60 (19 mi E of Knolls) Tooele Co.
+Est. Clearance Time: 9:30 AM","3/3/24, 8:25 AM","3/3/24, 9:30 AM",,,40.807999,-112.933391
+UT-Incident--176203,Incidents,I-80,Tooele County,I-80 at MP 39,"Crash
+EB I-80 at MP 39 (2 mi W of Knolls) Tooele Co.
+Est. Clearance Time: 9:30 AM","3/3/24, 8:26 AM","3/3/24, 9:30 AM",,,40.728127,-113.302151
+UT-Incident--176201,Incidents,I-80 EB X117 TO I-215W COL RAMP,Salt Lake County,I-80 EB X117 TO I-215W COL RAMP at I-215W,"Crash
+EB I-80 Ramp to SB I-215 W (SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","3/3/24, 8:19 AM","3/3/24, 9:30 AM",,,40.764145,-111.957073
 UT-Incident--176195,Incidents,I-80 ON FOOTHILL COL RAMP,Salt Lake County,I-80 ON FOOTHILL COL RAMP at FOOTHILL,"Crash
 Foothill Dr Ramp to EB/WB I-80 (SLC) Salt Lake Co.
 Right Shoulder
@@ -12135,6 +12145,10 @@ Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM",,,40.36
 UT-Incident--176194,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
 NB US 189 at MP 15 (1 Mi East of SR-92 Jct) Wasatch Co.
 Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-111.556028
+UT-Incident--176204,Incidents,US 189,Utah County,US 189 2801,"Crash
+EB US 189 at MP 12 (Provo Canyon) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 9:30 AM","3/3/24, 8:28 AM","3/3/24, 9:30 AM",,,40.349141,-111.589445
 UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
 Both Directions US 6 at MP 102 Millard Co.
 Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM",,,39.488023,-112.405272
