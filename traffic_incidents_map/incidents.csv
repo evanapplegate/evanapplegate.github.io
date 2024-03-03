@@ -12045,12 +12045,16 @@ UT-Incident--176175,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:37 AM","3/3/24, 4:38 AM","3/3/24, 5:37 AM",,,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176176,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:51 AM","3/3/24, 4:53 AM","3/3/24, 5:51 AM",,,40.655726,-111.806969
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176193,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at CALIFORNIA AVE,"Crash
+SB Bangerter Hwy at California Ave (SLC) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 AM","3/3/24, 7:26 AM","3/3/24, 8:30 AM",,,40.743461,-111.989658
 UT-Incident--176178,Incidents,HWY 138,Tooele County,HWY 138 301,"Crash
 SR-138 at MP 9 (Grantsville) Tooele Co.
 Est. Clearance Time: 6:30 AM","3/3/24, 5:22 AM","3/3/24, 6:30 AM",,,40.603032,-112.485282
@@ -12081,12 +12085,18 @@ UT-Incident--176174,Incidents,I-70,Sevier County,I-70 at MP 69,"Crash
 EB I-70 at MP 69 (29 mi E of Richfield) Sevier Co.
 Left Shoulder
 Est. Clearance Time: 5:21 AM","3/3/24, 4:22 AM","3/3/24, 5:21 AM",,,38.90331,-111.643095
+UT-Incident--176192,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
+EB I-70 at MP 4 (Cove Fort) Millard Co.
+Est. Clearance Time: 8:30 AM","3/3/24, 7:24 AM","3/3/24, 8:30 AM",,,38.604781,-112.542943
 UT-Incident--176180,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128 - 143 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:51 AM","3/4/24, 12:00 PM",,,40.712086,-111.801151
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM",,,40.740161,-111.558358
+UT-Incident--176191,Incidents,I-80,Tooele County,I-80 at MP 89,"Crash
+WB I-80 at MP 89 (Grantsville) Tooele Co.
+Est. Clearance Time: 8:30 AM","3/3/24, 7:23 AM","3/3/24, 8:30 AM",,,40.682336,-112.429199
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM",,,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
@@ -12103,6 +12113,9 @@ Approved traction devices required for all vehicles traveling SB SR-224 (Empire 
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM",,,40.368169,-111.559358
+UT-Incident--176194,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
+NB US 189 at MP 15 (1 Mi East of SR-92 Jct) Wasatch Co.
+Est. Clearance Time: 8:30 AM","3/3/24, 7:29 AM","3/3/24, 8:30 AM",,,40.375381,-111.556028
 UT-Incident--176190,Incidents,US 6,Millard County,US 6,"Crash
 Both Directions US 6 at MP 102 Millard Co.
 Est. Clearance Time: 8:15 AM","3/3/24, 7:05 AM","3/3/24, 8:15 AM",,,39.488023,-112.405272
