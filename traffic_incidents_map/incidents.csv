@@ -11841,7 +11841,6 @@ UT-Incident--176148,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 NB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:10 PM","3/2/24, 6:12 PM","3/2/24, 7:10 PM","3/2/24, 6:12 PM",,40.817974,-111.949525
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176130,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 NB I-15 at MP 233 (Mona) Juab Co.
 Right Shoulder
@@ -11918,6 +11917,19 @@ UT-Incident--176122,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Vehicle on f
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:20 PM","3/2/24, 4:23 PM","3/2/24, 5:20 PM","3/2/24, 4:23 PM",,40.550055,-111.896336
+UT-Incident--176128,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
+NB SR 143 at MP 14 (Aspen Dr) Iron Co.
+Right Shoulder
+Est. Clearance Time: 5:40 PM","3/2/24, 4:40 PM","3/2/24, 5:40 PM","3/2/24, 4:40 PM",,37.710954,-112.851847
+UT-Incident--176120,Incidents,SR 199,Tooele County,SR 199 at MP 12,"Crash
+WB SR 199 at MP 12 (Johnson Pass) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","3/2/24, 4:01 PM","3/2/24, 5:00 PM","3/2/24, 4:01 PM",,40.337285,-112.572602
+UT-Incident--176126,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:36 PM","3/2/24, 4:37 PM","3/2/24, 5:36 PM","3/2/24, 4:37 PM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176092,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 Approved traction devices required for semis traveling EB I-80 through Parley's Canyon (MP 128-143).","3/2/24, 1:51 PM","3/3/24, 2:48 PM","3/2/24, 7:03 PM",,40.712086,-111.801151
 UT-Incident--176100,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
@@ -11928,20 +11940,12 @@ Right Shoulder
 Est. Clearance Time: 8:00 PM","3/2/24, 7:01 PM","3/2/24, 8:00 PM","3/2/24, 7:01 PM",,40.719771,-111.855009
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
-UT-Incident--176128,Incidents,SR 143,Iron County,SR 143 at MP 14,"Crash
-NB SR 143 at MP 14 (Aspen Dr) Iron Co.
-Right Shoulder
-Est. Clearance Time: 5:40 PM","3/2/24, 4:40 PM","3/2/24, 5:40 PM","3/2/24, 4:40 PM",,37.710954,-112.851847
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 10:46 PM","3/1/24, 9:48 PM",,40.619107,-111.786281
 UT-Incident--176119,Incidents,SR 190,Salt Lake County,SR 190 at MP 5,"Crash
 Both Directions SR 190 at MP 5 (Storm Mountain) Salt Lake Co.
 Est. Clearance Time: 4:50 PM","3/2/24, 3:50 PM","3/2/24, 4:50 PM","3/2/24, 3:50 PM",,40.627817,-111.741911
-UT-Incident--176120,Incidents,SR 199,Tooele County,SR 199 at MP 12,"Crash
-WB SR 199 at MP 12 (Johnson Pass) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","3/2/24, 4:01 PM","3/2/24, 5:00 PM","3/2/24, 4:01 PM",,40.337285,-112.572602
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
@@ -11949,10 +11953,6 @@ UT-Incident--176103,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Approved traction devices required for all vehicles traveling NB SR-224 (Empire Pass) between MP 2 and 5.","3/2/24, 2:38 PM","3/2/24, 3:34 PM","3/2/24, 2:38 PM",,40.624634,-111.501637
 UT-Incident--176104,Incidents,SR 224,Summit County,SR 224 at MP 5,"Roadway Restriction
 Approved traction devices required for all vehicles traveling SB SR-224 (Empire Pass) between MP 5 and 2.","3/2/24, 2:40 PM","3/3/24, 3:38 PM","3/2/24, 2:40 PM",,40.649413,-111.49858
-UT-Incident--176126,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Left Shoulder
-Est. Clearance Time: 5:36 PM","3/2/24, 4:37 PM","3/2/24, 5:36 PM","3/2/24, 4:37 PM",,40.348428,-111.591901
 UT-Incident--176138,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 EB US 40 MP 18-58 Wasatch Co.
 Approved Traction Devices Required For Semis","3/2/24, 5:22 PM","3/2/24, 11:00 PM","3/2/24, 5:22 PM",,40.492161,-111.412613
