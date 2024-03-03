@@ -12186,14 +12186,20 @@ Est. Clearance Time: 11:00 AM","3/3/24, 9:47 AM","3/3/24, 11:00 AM","3/3/24, 9:4
 UT-Incident--176208,Incidents,US 6,Utah County,US 6 at MP 180,"Roadway Restriction
 Both Dirs US 6 at MP 180 - 232 (Spanish Fork Canyon) Utah Co.
 Approved Traction Devices Required for Semis","3/3/24, 9:08 AM","3/4/24, 12:00 PM","3/3/24, 9:08 AM",,40.058914,-111.564458
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176224,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:56 AM","3/3/24, 12:30 PM","3/3/24, 10:56 AM",,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176217,Incidents,HWY 143,Garfield County,HWY 143 1101,"Crash
 SR-143 at MP 49 Garfield Co.
 Est. Clearance Time: 11:30 AM","3/3/24, 10:25 AM","3/3/24, 11:30 AM","3/3/24, 10:25 AM",,37.791289,-112.437579
+UT-Incident--176232,Incidents,HWY 28,Juab County,HWY 28,"Multiple Crashes
+SR-28 at MP 26 Juab Co.
+Est. Clearance Time: 1:00 PM","3/3/24, 11:48 AM","3/3/24, 1:00 PM","3/3/24, 12:00 PM",,39.502562,-111.874508
+UT-Incident--176233,Incidents,HWY 28,Juab County,HWY 28,"Crash
+SR-28 at MP 24 Juab Co.
+Est. Clearance Time: 1:00 PM ","3/3/24, 11:49 AM","3/3/24, 1:00 PM","3/3/24, 11:49 AM",,39.476731,-111.892038
 UT-Incident--176223,Incidents,HWY 31,Sanpete County,HWY 31,"Crash
 SR-31 at MP 11 Sanpete Co.
 Est. Clearance Time: 12:30 PM","3/3/24, 10:44 AM","3/3/24, 12:30 PM","3/3/24, 10:44 AM",,39.646673,-111.329539
@@ -12215,6 +12221,9 @@ Est. Clearance Time: 12:12 PM","3/3/24, 11:13 AM","3/3/24, 12:12 PM","3/3/24, 11
 UT-Incident--176229,Incidents,I-15,Juab County,I-15 at MP 237,"Crash
 SB I-15 at MP 237 (4 mi N of Mona) Juab Co.
 Est. Clearance Time: 12:15 PM","3/3/24, 11:13 AM","3/3/24, 12:15 PM","3/3/24, 11:13 AM",,39.87629,-111.828733
+UT-Incident--176235,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
+NB I-15 at MP 230 (3 mi S of Mona) Juab Co.
+Est. Clearance Time: 1:30 PM","3/3/24, 11:50 AM","3/3/24, 1:30 PM","3/3/24, 11:50 AM",,39.775857,-111.839015
 UT-Incident--176181,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143 - 128 (Parley's Canyon) Summit Co.
 Approved Traction Devices Required For Semis","3/3/24, 5:53 AM","3/4/24, 12:00 PM","3/3/24, 5:53 AM",,40.740161,-111.558358
@@ -12229,9 +12238,21 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
+UT-Incident--176234,Incidents,SR 31,Sanpete County,SR 31 at MP 8,"Road Weather 
+Both Directions SR 31 Closed
+Between MP 8 to MP 18 (8 MI E of US-89) Sanpete Co.
+Use Alt Route","3/3/24, 11:49 AM","3/7/24, 12:47 PM","3/3/24, 11:49 AM",,39.676459,-111.320791
+UT-Incident--176236,Incidents,SR 31,Sanpete County,SR 31 at MP 18,"Road Weather 
+Both Directions SR 31 Closed
+Between MP 18 to MP 8  (E of US-89) Sanpete Co.
+Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/3/24, 11:56 AM",,39.584024,-111.257786
 UT-Incident--176187,Incidents,SR 92,Utah County,SR 92 at MP 27,"Roadway Restriction
 Both Directions SR 92 MP 27 - 23 (Sundance) Utah Co.
 Approved Traction Devices Required","3/3/24, 6:45 AM","3/4/24, 12:00 PM","3/3/24, 6:45 AM",,40.368169,-111.559358
+UT-Incident--176237,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 12:56 PM","3/3/24, 11:57 AM","3/3/24, 12:56 PM","3/3/24, 11:57 AM",,40.348428,-111.591901
 UT-Incident--176230,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
 WB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
 Est. Clearance Time: 12:32 PM","3/3/24, 11:35 AM","3/3/24, 12:32 PM","3/3/24, 11:35 AM",,39.933221,-111.107262
