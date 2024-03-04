@@ -12308,7 +12308,6 @@ SB US 89 at MP 414 (21st / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:34 PM","3/3/24, 6:36 PM","3/3/24, 7:34 PM","3/3/24, 6:36 PM",,41.223816,-111.970397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176253,Incidents,I-15,Millard County,I-15 at MP 192,"Crash
 NB I-15 at MP 192 (4 mi N of Scipio) Millard Co.
 Est. Clearance Time: 6:23 PM","3/3/24, 5:24 PM","3/3/24, 6:23 PM","3/3/24, 5:24 PM",,39.299202,-112.089324
@@ -12320,6 +12319,7 @@ UT-Incident--176263,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
 NB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 9:01 PM","3/3/24, 8:02 PM","3/3/24, 9:01 PM","3/3/24, 8:02 PM",,39.569943,-111.93753
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
