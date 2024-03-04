@@ -12560,25 +12560,29 @@ UT-Incident--176335,Incidents,MAIN ST,Wasatch County,MAIN ST at HWY 113,"Crash
 SB Main St at 100 S (Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","3/4/24, 2:55 PM","3/4/24, 4:30 PM","3/4/24, 2:55 PM",,40.506553,-111.413465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176334,Incidents,I-80,Summit County,I-80 at MP 192,"Crash
 EB I-80 at MP 192 (Wasatch) Summit Co.
 Est. Clearance Time: 4:30 PM","3/4/24, 2:08 PM","3/4/24, 4:30 PM","3/4/24, 2:42 PM",,41.203951,-111.104087
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176336,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
-NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 4:45 PM","3/4/24, 3:45 PM","3/4/24, 4:45 PM","3/4/24, 3:50 PM",,40.817596,-111.917999
-UT-Incident--176333,Incidents,REDWOOD RD,Utah County,REDWOOD RD 13211,"Crash
-SR-68 Redwood Rd at MP 6.5 Utah Co.
-Est. Clearance Time: 3:00 PM","3/4/24, 1:32 PM","3/4/24, 3:00 PM","3/4/24, 1:32 PM",,40.046572,-111.958258
-UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
-UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
-NB US 191 Closed
- at MP 404 (UT/WY Border) Daggett Co.
-Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM","3/3/24, 7:57 PM",,40.997685,-109.432538
 UT-Incident--176330,Incidents,US 40,Wasatch County,US 40 at MP 45,"Crash
 EB US 40 at MP 45 (Strawberry Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 1:29 PM","3/4/24, 12:30 PM","3/4/24, 1:29 PM","3/4/24, 12:30 PM",,40.220041,-111.104319
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176336,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:45 PM","3/4/24, 3:45 PM","3/4/24, 4:45 PM",,,40.817596,-111.917999
+UT-Incident--176337,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
+SB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
+Right Lane Closed
+Est. Clearance Time: 5:22 PM","3/4/24, 4:24 PM","3/4/24, 5:22 PM",,,37.479917,-113.221413
+UT-Incident--176333,Incidents,REDWOOD RD,Utah County,REDWOOD RD 13211,"Crash
+SR-68 Redwood Rd at MP 6.5 Utah Co.
+Est. Clearance Time: 3:00 PM","3/4/24, 1:32 PM","3/4/24, 3:00 PM",,,40.046572,-111.958258
+UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM",,,37.677725,-112.846981
+UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
+NB US 191 Closed
+ at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM",,,40.997685,-109.432538
