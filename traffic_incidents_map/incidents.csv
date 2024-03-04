@@ -12540,7 +12540,6 @@ NB Harrison Blvd at 30th St (Ogden)  Weber Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","3/4/24, 11:26 AM","3/4/24, 12:30 PM","3/4/24, 11:34 AM",,41.209064,-111.948469
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176327,Incidents,I-84,Box Elder County,I-84 at MP 4,"Crash
 EB I-84 at MP 4 (1 mi east of Snowville) Box Elder Co.
 Right Lane Closed
@@ -12548,12 +12547,20 @@ Est. Clearance Time: 1:15 PM","3/4/24, 11:17 AM","3/4/24, 1:15 PM","3/4/24, 11:1
 UT-Incident--176329,Incidents,I-84,Box Elder County,I-84 at MP 31,"Crash
 EB I-84 at MP 31 (19 mil N of Tremonton) Box Elder Co.
 Est. Clearance Time: 12:30 PM","3/4/24, 11:27 AM","3/4/24, 12:30 PM","3/4/24, 11:27 AM",,41.806192,-112.3303
+UT-Incident--176325,Incidents,US 40,Summit County,US 40 at MP 6,"Crash
+EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
+Est. Clearance Time: 12:00 PM","3/4/24, 10:53 AM","3/4/24, 12:00 PM","3/4/24, 10:53 AM",,40.654652,-111.457229
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
+UT-Incident--176331,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Dirs SR 190 at MP 2 (Big Cottonwood) Salt Lake Co.
+Approved Traction Devices Required","3/4/24, 12:38 PM","3/5/24, 12:00 PM","3/4/24, 12:38 PM",,40.619107,-111.786281
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM","3/3/24, 7:57 PM",,40.997685,-109.432538
-UT-Incident--176325,Incidents,US 40,Summit County,US 40 at MP 6,"Crash
-EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
-Est. Clearance Time: 12:00 PM","3/4/24, 10:53 AM","3/4/24, 12:00 PM","3/4/24, 10:53 AM",,40.654652,-111.457229
+UT-Incident--176330,Incidents,US 40,Wasatch County,US 40 at MP 45,"Crash
+EB US 40 at MP 45 (Strawberry Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 1:29 PM","3/4/24, 12:30 PM","3/4/24, 1:29 PM","3/4/24, 12:30 PM",,40.220041,-111.104319
