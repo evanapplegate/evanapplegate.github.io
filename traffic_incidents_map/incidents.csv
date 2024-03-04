@@ -12467,7 +12467,6 @@ UT-Incident--176322,Incidents,I-15 NB X263 On Univ Ave Ramp,Utah County,I-15 NB 
 NB I-15 263 On Ramp (Utah County)
 Left Lane Closed
 Est. Clearance Time: 11:15 AM","3/4/24, 10:17 AM","3/4/24, 11:15 AM",,,40.213234,-111.659105
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176295,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
@@ -12518,6 +12517,7 @@ Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon 
 UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
 Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM",,,40.154605,-110.411485
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176313,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Lane Closed
@@ -12529,6 +12529,10 @@ Est. Clearance Time: 11:45 AM","3/4/24, 10:38 AM","3/4/24, 11:45 AM","3/4/24, 10
 UT-Incident--176320,Incidents,I-15 NB X372 OFF SR 240 RAMP,Box Elder County,I-15 NB X372 OFF SR 240 RAMP at HWY 240,"Crash
 NB I-15 372 Off Ramp (Box Elder County)
 Est. Clearance Time: 11:00 AM","3/4/24, 10:01 AM","3/4/24, 11:00 AM","3/4/24, 10:01 AM",,41.633942,-112.098317
+UT-Incident--176327,Incidents,I-84,Box Elder County,I-84 at MP 4,"Crash
+EB I-84 at MP 4 (1 mi east of Snowville) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 1:15 PM","3/4/24, 11:17 AM","3/4/24, 1:15 PM","3/4/24, 11:19 AM",,41.970884,-112.774769
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176326,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
