@@ -12460,7 +12460,6 @@ Est. Clearance Time: 10:30 AM","3/4/24, 9:32 AM","3/4/24, 10:30 AM",,,41.681751,
 UT-Incident--176293,Incidents,US 50,Millard County,US 50 at HWY 100,"Crash
 US-50 at 107 (SR-100 Jct) Millard Co.
 Est. Clearance Time: 9:30 AM","3/4/24, 8:25 AM","3/4/24, 9:30 AM",,,39.158057,-112.409844
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176295,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
@@ -12485,6 +12484,7 @@ Est. Clearance Time: 10:15 AM","3/4/24, 9:18 AM","3/4/24, 10:15 AM",,,39.44476,-
 UT-Incident--176312,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 10:20 AM","3/4/24, 9:21 AM","3/4/24, 10:20 AM",,,40.775011,-111.949343
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176303,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
 SB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
