@@ -12354,22 +12354,36 @@ UT-Incident--176236,Incidents,SR 31,Emery County,SR 31 at MP 33,"Road Weather
 Both Directions SR 31 Closed
 Between MP 33 to MP 8 Sanpete Co.
 Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/4/24, 5:12 AM",,39.463878,-111.145413
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176279,Incidents,US 89,Davis County,US 89 at HWY 193,"Crash
 SB US-89 at SR-193 (3000 N, Layton) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 8:30 AM","3/4/24, 7:17 AM","3/4/24, 8:30 AM","3/4/24, 7:17 AM",,41.112041,-111.909213
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176283,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
-5600 S at 3500 W (Roy) Weber Co.
-Est. Clearance Time: 8:45 AM","3/4/24, 7:41 AM","3/4/24, 8:45 AM","3/4/24, 7:41 AM",,41.161599,-112.06442
 UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
 SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
 Est. Clearance Time: 6:45 AM","3/4/24, 5:15 AM","3/4/24, 6:45 AM","3/4/24, 6:04 AM",,39.529345,-111.956239
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176285,Incidents,200 N,Iron County,200 N 1051,"Crash
+WB 1100 W at 200 N (Cedar City) Iron Co.
+Left Lane Blocked
+Est. Clearance Time: 8:45 AM","3/4/24, 7:45 AM","3/4/24, 8:45 AM","3/4/24, 7:47 AM",,37.680842,-113.076459
+UT-Incident--176283,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
+5600 S at 3500 W (Roy) Weber Co.
+Est. Clearance Time: 8:45 AM","3/4/24, 7:41 AM","3/4/24, 8:45 AM","3/4/24, 7:41 AM",,41.161599,-112.06442
+UT-Incident--176287,Incidents,Hwy 138,Tooele County,Hwy 138 at Erda Way,"Crash
+WB Hwy 138 at Erda Way (Tooele County)
+Est. Clearance Time: 9:00 AM","3/4/24, 7:58 AM","3/4/24, 9:00 AM","3/4/24, 7:58 AM",,40.602702,-112.39983
 UT-Incident--176281,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 AM","3/4/24, 7:22 AM","3/4/24, 8:30 AM","3/4/24, 7:22 AM",,41.218498,-112.004065
+UT-Incident--176286,Incidents,I-15,Juab County,I-15 at MP 196,"Crash
+NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
+Est. Clearance Time: 9:15 AM","3/4/24, 7:57 AM","3/4/24, 9:15 AM","3/4/24, 7:57 AM",,39.356588,-112.080446
+UT-Incident--176288,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (North Temple) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","3/4/24, 8:01 AM","3/4/24, 9:15 AM","3/4/24, 8:01 AM",,40.773786,-111.949364
 UT-Incident--176277,Incidents,I-70,Sevier County,I-70 at MP 47,"Crash
 WB I-70 at MP 47 (7 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 8:13 AM","3/4/24, 7:14 AM","3/4/24, 8:13 AM","3/4/24, 7:14 AM",,38.85601,-111.992753
@@ -12395,6 +12409,9 @@ UT-Incident--176271,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon Co.","3/4/24, 5:35 AM","3/4/24, 10:30 AM","3/4/24, 5:39 AM",,39.809161,-110.778864
 UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
 Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM","3/4/24, 5:42 AM",,40.154605,-110.411485
+UT-Incident--176284,Incidents,US 40 WB,Summit County,US 40 WB,"Crash
+WB US 40 at MP 2 Summit Co.
+Est. Clearance Time: 8:45 AM","3/4/24, 7:45 AM","3/4/24, 8:45 AM","3/4/24, 7:45 AM",,40.712377,-111.48264
 UT-Incident--176282,Incidents,US 40 WB X1 To I-80 WB Ramp,Summit County,US 40 WB X1 To I-80 WB Ramp at I-80 WB,"Crash
 WB US 40 To I-80 WB RAMP (Summit County)
 Use Alt Route
