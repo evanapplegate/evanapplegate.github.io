@@ -12403,7 +12403,6 @@ UT-Incident--176294,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:45 AM","3/4/24, 8:36 AM","3/4/24, 9:45 AM","3/4/24, 8:36 AM",,40.775011,-111.949343
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176287,Incidents,Hwy 138,Tooele County,Hwy 138 at Erda Way,"Crash
 WB Hwy 138 at Erda Way Tooele Co.
 Est. Clearance Time: 9:45 AM","3/4/24, 7:58 AM","3/4/24, 9:45 AM","3/4/24, 9:01 AM",,40.602702,-112.39983
@@ -12436,12 +12435,13 @@ UT-Incident--176278,Incidents,US 89,Sanpete County,US 89 25371,"Crash
 US-89 at MP 288 Sanpete Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:15 AM","3/4/24, 8:30 AM","3/4/24, 7:15 AM",,39.686767,-111.459101
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
-Main St at 300 W (Moroni) Sanpete Co.
-Est. Clearance Time: 9:45 AM","3/4/24, 8:04 AM","3/4/24, 9:45 AM",,,39.524951,-111.589415
 UT-Incident--176290,Incidents,Hwy 224,Summit County,Hwy 224 at Meadows Dr,"Crash
 SB Hwy 224 at Canyons Resort Dr  (Summit County)
 Est. Clearance Time: 9:09 AM","3/4/24, 8:10 AM","3/4/24, 9:09 AM",,,40.675371,-111.520272
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
+Main St at 300 W (Moroni) Sanpete Co.
+Est. Clearance Time: 9:45 AM","3/4/24, 8:04 AM","3/4/24, 9:45 AM",,,39.524951,-111.589415
 UT-Incident--176295,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
@@ -12486,6 +12486,9 @@ UT-Incident--176313,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 10:30 AM","3/4/24, 9:23 AM","3/4/24, 10:30 AM",,,40.147126,-111.646959
+UT-Incident--176317,Incidents,I-15 NB X376 On SR 13 Ramp,Box Elder County,I-15 NB X376 On SR 13 Ramp at Hwy 13,"Crash
+NB I-15 376 Off Ramp (Tremonton) Box Elder Co.
+Est. Clearance Time: 10:30 AM","3/4/24, 9:32 AM","3/4/24, 10:30 AM",,,41.681751,-112.141282
 UT-Incident--176312,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 10:20 AM","3/4/24, 9:21 AM","3/4/24, 10:20 AM",,,40.775011,-111.949343
