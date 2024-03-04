@@ -12524,7 +12524,6 @@ UT-Incident--176323,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","3/4/24, 10:25 AM","3/4/24, 11:30 AM","3/4/24, 10:26 AM",,40.627915,-111.443541
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176324,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
 NB I-15 at MP 354 Box Elder Co.
 Right Shoulder
@@ -12541,6 +12540,7 @@ UT-Incident--176328,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 3052,"Cra
 NB Harrison Blvd at 30th St (Ogden)  Weber Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","3/4/24, 11:26 AM","3/4/24, 12:30 PM","3/4/24, 11:34 AM",,41.209064,-111.948469
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176327,Incidents,I-84,Box Elder County,I-84 at MP 4,"Crash
 EB I-84 at MP 4 (1 mi east of Snowville) Box Elder Co.
 Right Lane Closed
