@@ -12553,14 +12553,18 @@ UT-Incident--176332,Incidents,MAIN ST,Davis County,MAIN ST at ANTELOPE DR,"Crash
 NB Main St at Antelope Dr (Layton) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 2:00 PM","3/4/24, 12:58 PM","3/4/24, 2:00 PM","3/4/24, 12:58 PM",,41.090323,-112.002306
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176331,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Dirs SR 190 at MP 2 (Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required","3/4/24, 12:38 PM","3/5/24, 12:00 PM","3/4/24, 12:38 PM",,40.619107,-111.786281
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176334,Incidents,I-80,Summit County,I-80 at MP 192,"Crash
 EB I-80 at MP 192 (Wasatch) Summit Co.
 Est. Clearance Time: 4:30 PM","3/4/24, 2:08 PM","3/4/24, 4:30 PM","3/4/24, 2:42 PM",,41.203951,-111.104087
+UT-Incident--176335,Incidents,MAIN ST,Wasatch County,MAIN ST at HWY 113,"Crash
+SB Main St at 100 S (Heber) Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 4:30 PM","3/4/24, 2:55 PM","3/4/24, 4:30 PM","3/4/24, 2:55 PM",,40.506553,-111.413465
 UT-Incident--176333,Incidents,REDWOOD RD,Utah County,REDWOOD RD 13211,"Crash
 SR-68 Redwood Rd at MP 6.5 Utah Co.
 Est. Clearance Time: 3:00 PM","3/4/24, 1:32 PM","3/4/24, 3:00 PM","3/4/24, 1:32 PM",,40.046572,-111.958258
