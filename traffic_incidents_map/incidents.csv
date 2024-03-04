@@ -12335,6 +12335,13 @@ Right Lane Closed
 Est. Clearance Time: 2:22 AM","3/4/24, 1:25 AM","3/4/24, 2:22 AM","3/4/24, 1:25 AM",,38.57702,-112.473118
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
+SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
+Est. Clearance Time: 6:15 AM","3/4/24, 5:15 AM","3/4/24, 6:15 AM","3/4/24, 5:15 AM",,39.529345,-111.956239
+UT-Incident--176270,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
+NB I-15 at MP 266 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:30 AM","3/4/24, 5:25 AM","3/4/24, 6:30 AM","3/4/24, 5:25 AM",,40.238135,-111.689206
 UT-Incident--176268,Incidents,I-70 WB X91 OFF SR 10 RAMP,Sevier County,I-70 WB X91 OFF SR 10 RAMP at HWY 10,"Crash
 WB I-70  MP 91 Off Ramp (Sevier County)
 Est. Clearance Time: 6:10 AM","3/4/24, 5:05 AM","3/4/24, 6:10 AM","3/4/24, 5:05 AM",,38.767003,-111.346619
@@ -12358,3 +12365,7 @@ UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM","3/3/24, 7:57 PM",,40.997685,-109.432538
+UT-Incident--176271,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weather
+Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon Co.","3/4/24, 5:35 AM","3/4/24, 10:30 AM","3/4/24, 5:39 AM",,39.809161,-110.778864
+UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
+Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM","3/4/24, 5:42 AM",,40.154605,-110.411485
