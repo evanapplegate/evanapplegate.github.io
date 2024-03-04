@@ -12376,7 +12376,6 @@ Est. Clearance Time: 9:15 AM","3/4/24, 8:01 AM","3/4/24, 9:15 AM","3/4/24, 8:01 
 UT-Incident--176277,Incidents,I-70,Sevier County,I-70 at MP 47,"Crash
 WB I-70 at MP 47 (7 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 8:13 AM","3/4/24, 7:14 AM","3/4/24, 8:13 AM","3/4/24, 7:14 AM",,38.85601,-111.992753
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176276,Incidents,MAIN ST,Iron County,MAIN ST 531,"Crash
 Main St at 500 S (Cedar City) Iron Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:13 AM","3/4/24, 8:30 AM","3/4/24, 7:13 AM",,37.67019,-113.061643
@@ -12398,15 +12397,20 @@ NB Wall Ave at 20th St Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:20 AM","3/4/24, 8:19 AM","3/4/24, 9:20 AM","3/4/24, 8:19 AM",,41.230361,-111.97865
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
-Main St at 300 W (Moroni) Sanpete Co.
-Est. Clearance Time: 9:15 AM","3/4/24, 8:04 AM","3/4/24, 9:15 AM","3/4/24, 8:04 AM",,39.524951,-111.589415
 UT-Incident--176283,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 5600 S at 3500 W (Roy) Weber Co.
 Est. Clearance Time: 8:45 AM","3/4/24, 7:41 AM","3/4/24, 8:45 AM","3/4/24, 7:41 AM",,41.161599,-112.06442
+UT-Incident--176294,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:45 AM","3/4/24, 8:36 AM","3/4/24, 9:45 AM","3/4/24, 8:36 AM",,40.775011,-111.949343
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
+Main St at 300 W (Moroni) Sanpete Co.
+Est. Clearance Time: 9:15 AM","3/4/24, 8:04 AM","3/4/24, 9:15 AM","3/4/24, 8:04 AM",,39.524951,-111.589415
 UT-Incident--176287,Incidents,Hwy 138,Tooele County,Hwy 138 at Erda Way,"Crash
-WB Hwy 138 at Erda Way (Tooele County)
-Est. Clearance Time: 9:00 AM","3/4/24, 7:58 AM","3/4/24, 9:00 AM","3/4/24, 7:58 AM",,40.602702,-112.39983
+WB Hwy 138 at Erda Way Tooele Co.
+Est. Clearance Time: 9:45 AM","3/4/24, 7:58 AM","3/4/24, 9:45 AM","3/4/24, 9:01 AM",,40.602702,-112.39983
 UT-Incident--176290,Incidents,Hwy 224,Summit County,Hwy 224 at Meadows Dr,"Crash
 SB Hwy 224 at Canyons Resort Dr  (Summit County)
 Est. Clearance Time: 9:09 AM","3/4/24, 8:10 AM","3/4/24, 9:09 AM","3/4/24, 8:10 AM",,40.675371,-111.520272
@@ -12420,10 +12424,37 @@ UT-Incident--176295,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:45 AM","3/4/24, 8:44 AM","3/4/24, 9:45 AM","3/4/24, 8:44 AM",,40.147126,-111.646959
-UT-Incident--176294,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-SB I-215 W at MP 23 (700 N) Salt Lake Co.
+UT-Incident--176296,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 9:45 AM","3/4/24, 8:45 AM","3/4/24, 9:45 AM","3/4/24, 8:45 AM",,40.122652,-111.658929
+UT-Incident--176297,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:50 AM","3/4/24, 8:46 AM","3/4/24, 9:50 AM","3/4/24, 8:46 AM",,40.147126,-111.646959
+UT-Incident--176298,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+SB I-15 at MP 260 (400 S / Springville) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:50 AM","3/4/24, 8:47 AM","3/4/24, 9:50 AM","3/4/24, 8:47 AM",,40.161636,-111.646866
+UT-Incident--176299,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Left Shoulder
-Est. Clearance Time: 9:45 AM","3/4/24, 8:36 AM","3/4/24, 9:45 AM","3/4/24, 8:36 AM",,40.775011,-111.949343
+Est. Clearance Time: 9:50 AM","3/4/24, 8:48 AM","3/4/24, 9:50 AM","3/4/24, 8:48 AM",,40.122652,-111.658929
+UT-Incident--176300,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:00 AM","3/4/24, 8:51 AM","3/4/24, 10:00 AM","3/4/24, 8:51 AM",,40.147126,-111.646959
+UT-Incident--176301,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
+SB I-15 at MP 262 (Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:00 AM","3/4/24, 8:54 AM","3/4/24, 10:00 AM","3/4/24, 8:54 AM",,40.190632,-111.64694
+UT-Incident--176302,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+SB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Est. Clearance Time: 10:00 AM","3/4/24, 8:55 AM","3/4/24, 10:00 AM","3/4/24, 8:55 AM",,40.215696,-111.665414
+UT-Incident--176303,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
+SB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","3/4/24, 9:00 AM","3/4/24, 10:30 AM","3/4/24, 9:00 AM",,39.44476,-112.02295
 UT-Incident--176280,Incidents,I-80,Tooele County,I-80 at MP 98,"Crash
 EB I-80 at MP 98 (Tooele / Lake point) Tooele Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:20 AM","3/4/24, 8:30 AM","3/4/24, 7:20 AM",,40.686129,-112.271303
