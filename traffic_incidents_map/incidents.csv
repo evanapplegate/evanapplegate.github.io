@@ -12322,7 +12322,6 @@ UT-Incident--176264,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:24 PM","3/3/24, 10:25 PM","3/3/24, 11:24 PM","3/3/24, 10:25 PM",,40.35648,-111.576663
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176265,Incidents,I-15,Juab County,I-15 at MP 202,"Crash
 SB I-15 at MP 202 (14 mi N of Scipio) Juab Co.
 Est. Clearance Time: 1:50 AM","3/4/24, 12:51 AM","3/4/24, 1:50 AM","3/4/24, 12:51 AM",,39.43387,-112.035294
@@ -12335,6 +12334,7 @@ UT-Incident--176267,Incidents,I-70,Sevier County,I-70 at MP 9,"Crash
 WB I-70 at MP 9 (9 Mi E of Cove Fort) Sevier Co.
 Right Lane Closed
 Est. Clearance Time: 2:22 AM","3/4/24, 1:25 AM","3/4/24, 2:22 AM","3/4/24, 1:25 AM",,38.57702,-112.473118
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
