@@ -12358,7 +12358,6 @@ UT-Incident--176279,Incidents,US 89,Davis County,US 89 at HWY 193,"Crash
 SB US-89 at SR-193 (3000 N, Layton) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 8:30 AM","3/4/24, 7:17 AM","3/4/24, 8:30 AM","3/4/24, 7:17 AM",,41.112041,-111.909213
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
 SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
 Est. Clearance Time: 6:45 AM","3/4/24, 5:15 AM","3/4/24, 6:45 AM","3/4/24, 6:04 AM",,39.529345,-111.956239
@@ -12367,19 +12366,10 @@ UT-Incident--176285,Incidents,200 N,Iron County,200 N 1051,"Crash
 WB 1100 W at 200 N (Cedar City) Iron Co.
 Left Lane Blocked
 Est. Clearance Time: 8:45 AM","3/4/24, 7:45 AM","3/4/24, 8:45 AM","3/4/24, 7:47 AM",,37.680842,-113.076459
-UT-Incident--176283,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
-5600 S at 3500 W (Roy) Weber Co.
-Est. Clearance Time: 8:45 AM","3/4/24, 7:41 AM","3/4/24, 8:45 AM","3/4/24, 7:41 AM",,41.161599,-112.06442
-UT-Incident--176287,Incidents,Hwy 138,Tooele County,Hwy 138 at Erda Way,"Crash
-WB Hwy 138 at Erda Way (Tooele County)
-Est. Clearance Time: 9:00 AM","3/4/24, 7:58 AM","3/4/24, 9:00 AM","3/4/24, 7:58 AM",,40.602702,-112.39983
 UT-Incident--176281,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 AM","3/4/24, 7:22 AM","3/4/24, 8:30 AM","3/4/24, 7:22 AM",,41.218498,-112.004065
-UT-Incident--176286,Incidents,I-15,Juab County,I-15 at MP 196,"Crash
-NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
-Est. Clearance Time: 9:15 AM","3/4/24, 7:57 AM","3/4/24, 9:15 AM","3/4/24, 7:57 AM",,39.356588,-112.080446
 UT-Incident--176288,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (North Temple) Salt Lake Co.
 Right Shoulder
@@ -12387,6 +12377,25 @@ Est. Clearance Time: 9:15 AM","3/4/24, 8:01 AM","3/4/24, 9:15 AM","3/4/24, 8:01 
 UT-Incident--176277,Incidents,I-70,Sevier County,I-70 at MP 47,"Crash
 WB I-70 at MP 47 (7 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 8:13 AM","3/4/24, 7:14 AM","3/4/24, 8:13 AM","3/4/24, 7:14 AM",,38.85601,-111.992753
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
+Main St at 300 W (Moroni) Sanpete Co.
+Est. Clearance Time: 9:15 AM","3/4/24, 8:04 AM","3/4/24, 9:15 AM","3/4/24, 8:04 AM",,39.524951,-111.589415
+UT-Incident--176283,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
+5600 S at 3500 W (Roy) Weber Co.
+Est. Clearance Time: 8:45 AM","3/4/24, 7:41 AM","3/4/24, 8:45 AM","3/4/24, 7:41 AM",,41.161599,-112.06442
+UT-Incident--176287,Incidents,Hwy 138,Tooele County,Hwy 138 at Erda Way,"Crash
+WB Hwy 138 at Erda Way (Tooele County)
+Est. Clearance Time: 9:00 AM","3/4/24, 7:58 AM","3/4/24, 9:00 AM","3/4/24, 7:58 AM",,40.602702,-112.39983
+UT-Incident--176290,Incidents,Hwy 224,Summit County,Hwy 224 at Meadows Dr,"Crash
+SB Hwy 224 at Canyons Resort Dr  (Summit County)
+Est. Clearance Time: 9:09 AM","3/4/24, 8:10 AM","3/4/24, 9:09 AM","3/4/24, 8:10 AM",,40.675371,-111.520272
+UT-Incident--176286,Incidents,I-15,Juab County,I-15 at MP 196,"Crash
+NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
+Est. Clearance Time: 9:15 AM","3/4/24, 7:57 AM","3/4/24, 9:15 AM","3/4/24, 7:57 AM",,39.356588,-112.080446
+UT-Incident--176291,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
+SB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
+Est. Clearance Time: 9:20 AM","3/4/24, 8:16 AM","3/4/24, 9:20 AM","3/4/24, 8:16 AM",,39.543687,-111.952749
 UT-Incident--176280,Incidents,I-80,Tooele County,I-80 at MP 98,"Crash
 EB I-80 at MP 98 (Tooele / Lake point) Tooele Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:20 AM","3/4/24, 8:30 AM","3/4/24, 7:20 AM",,40.686129,-112.271303
@@ -12394,11 +12403,11 @@ UT-Incident--176276,Incidents,MAIN ST,Iron County,MAIN ST 531,"Crash
 Main St at 500 S (Cedar City) Iron Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:13 AM","3/4/24, 8:30 AM","3/4/24, 7:13 AM",,37.67019,-113.061643
 UT-Incident--176274,Incidents,SR 132,Juab County,SR 132 at MP 28,"Crash
-SR 132 at MP 28 (4 MI from Nephi) Juab Co.
-Est. Clearance Time: 8:10 AM","3/4/24, 7:11 AM","3/4/24, 8:10 AM","3/4/24, 7:11 AM",,39.70063,-111.932071
+Both Directions SR 132 at MP 28 (4 MI from Nephi) Juab Co.
+Est. Clearance Time: 9:10 AM","3/4/24, 7:11 AM","3/4/24, 9:10 AM","3/4/24, 8:19 AM",,39.70063,-111.932071
 UT-Incident--176275,Incidents,SR 132,Juab County,SR 132 at MP 20,"Crash
 SR 132 at MP 20 (12 MI from Nephi) Juab Co.
-Est. Clearance Time: 8:15 AM","3/4/24, 7:11 AM","3/4/24, 8:15 AM","3/4/24, 7:11 AM",,39.660767,-112.063371
+Est. Clearance Time: 8:15 AM","3/4/24, 7:11 AM","3/4/24, 9:15 AM","3/4/24, 8:20 AM",,39.660767,-112.063371
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
@@ -12419,3 +12428,7 @@ Est. Clearance Time: 8:40 AM","3/4/24, 7:36 AM","3/4/24, 8:40 AM","3/4/24, 7:42 
 UT-Incident--176278,Incidents,US 89,Sanpete County,US 89 25371,"Crash
 US-89 at MP 288 Sanpete Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:15 AM","3/4/24, 8:30 AM","3/4/24, 7:15 AM",,39.686767,-111.459101
+UT-Incident--176292,Incidents,Wall Ave,Weber County,Wall Ave at 20th St,"Crash
+NB Wall Ave at 20th St Weber Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:20 AM","3/4/24, 8:19 AM","3/4/24, 9:20 AM","3/4/24, 8:19 AM",,41.230361,-111.97865
