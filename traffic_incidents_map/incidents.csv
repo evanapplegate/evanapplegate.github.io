@@ -12516,7 +12516,6 @@ UT-Incident--176271,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon Co.","3/4/24, 5:35 AM","3/4/24, 10:30 AM",,,39.809161,-110.778864
 UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
 Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM",,,40.154605,-110.411485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176313,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Lane Closed
@@ -12526,10 +12525,6 @@ EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","3/4/24, 10:25 AM","3/4/24, 11:30 AM","3/4/24, 10:26 AM",,40.627915,-111.443541
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176328,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 30th St,"Crash
-NB Harrison Blvd at 30th St (Ogden)  Weber Co.
-Right Lane Closed
-Est. Clearance Time: 12:30 PM","3/4/24, 11:26 AM","3/4/24, 12:30 PM","3/4/24, 11:26 AM",,0.0,0.0
 UT-Incident--176324,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
 NB I-15 at MP 354 Box Elder Co.
 Right Shoulder
@@ -12537,6 +12532,15 @@ Est. Clearance Time: 11:45 AM","3/4/24, 10:38 AM","3/4/24, 11:45 AM","3/4/24, 10
 UT-Incident--176320,Incidents,I-15 NB X372 OFF SR 240 RAMP,Box Elder County,I-15 NB X372 OFF SR 240 RAMP at HWY 240,"Crash
 NB I-15 372 Off Ramp (Box Elder County)
 Est. Clearance Time: 11:00 AM","3/4/24, 10:01 AM","3/4/24, 11:00 AM","3/4/24, 10:01 AM",,41.633942,-112.098317
+UT-Incident--176326,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Center Lane Closed
+Est. Clearance Time: 12:00 PM","3/4/24, 10:55 AM","3/4/24, 12:00 PM","3/4/24, 10:55 AM",,40.348428,-111.591901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176328,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 3052,"Crash
+NB Harrison Blvd at 30th St (Ogden)  Weber Co.
+Right Lane Closed
+Est. Clearance Time: 12:30 PM","3/4/24, 11:26 AM","3/4/24, 12:30 PM","3/4/24, 11:34 AM",,41.209064,-111.948469
 UT-Incident--176327,Incidents,I-84,Box Elder County,I-84 at MP 4,"Crash
 EB I-84 at MP 4 (1 mi east of Snowville) Box Elder Co.
 Right Lane Closed
@@ -12546,10 +12550,6 @@ EB I-84 at MP 31 (19 mil N of Tremonton) Box Elder Co.
 Est. Clearance Time: 12:30 PM","3/4/24, 11:27 AM","3/4/24, 12:30 PM","3/4/24, 11:27 AM",,41.806192,-112.3303
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
-UT-Incident--176326,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Center Lane Closed
-Est. Clearance Time: 12:00 PM","3/4/24, 10:55 AM","3/4/24, 12:00 PM","3/4/24, 10:55 AM",,40.348428,-111.591901
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
