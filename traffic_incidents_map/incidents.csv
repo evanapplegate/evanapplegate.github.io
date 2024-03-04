@@ -12339,20 +12339,14 @@ Approved Traction Devices Required For All Vehicles","3/1/24, 9:48 PM","3/6/24, 
 UT-Incident--176076,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/1/24, 9:49 PM","3/6/24, 10:48 PM","3/1/24, 9:49 PM",,40.572095,-111.773814
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176268,Incidents,I-70 WB X91 OFF SR 10 RAMP,Sevier County,I-70 WB X91 OFF SR 10 RAMP at HWY 10,"Crash
 WB I-70  X91 OFF SR 10 RAMP at HWY 10 Sevier Co.
 Est. Clearance Time: 6:55 AM","3/4/24, 5:05 AM","3/4/24, 6:55 AM","3/4/24, 6:03 AM",,38.767003,-111.346619
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
-SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
-Est. Clearance Time: 6:45 AM","3/4/24, 5:15 AM","3/4/24, 6:45 AM","3/4/24, 6:04 AM",,39.529345,-111.956239
 UT-Incident--176270,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:30 AM","3/4/24, 5:25 AM","3/4/24, 7:30 AM","3/4/24, 6:59 AM",,40.238135,-111.689206
-UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176234,Incidents,SR 31,Sanpete County,SR 31 at MP 8,"Road Weather 
 Both Directions SR 31 Closed
 Between MP 8 to MP 33 (8 MI E of US-89) Sanpete Co.
@@ -12361,6 +12355,24 @@ UT-Incident--176236,Incidents,SR 31,Emery County,SR 31 at MP 33,"Road Weather
 Both Directions SR 31 Closed
 Between MP 33 to MP 8 Sanpete Co.
 Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/4/24, 5:12 AM",,39.463878,-111.145413
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
+SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
+Est. Clearance Time: 6:45 AM","3/4/24, 5:15 AM","3/4/24, 6:45 AM","3/4/24, 6:04 AM",,39.529345,-111.956239
+UT-Incident--176277,Incidents,I-70,Sevier County,I-70 at MP 47,"Crash
+WB I-70 at MP 47 (7 mi E of Richfield) Sevier Co.
+Est. Clearance Time: 8:13 AM","3/4/24, 7:14 AM","3/4/24, 8:13 AM","3/4/24, 7:14 AM",,38.85601,-111.992753
+UT-Incident--176276,Incidents,MAIN ST,Iron County,MAIN ST 531,"Crash
+Main St at 500 S (Cedar City) Iron Co.
+Est. Clearance Time: 8:30 AM","3/4/24, 7:13 AM","3/4/24, 8:30 AM","3/4/24, 7:13 AM",,37.67019,-113.061643
+UT-Incident--176274,Incidents,SR 132,Juab County,SR 132 at MP 28,"Crash
+SR 132 at MP 28 (4 MI from Nephi) Juab Co.
+Est. Clearance Time: 8:10 AM","3/4/24, 7:11 AM","3/4/24, 8:10 AM","3/4/24, 7:11 AM",,39.70063,-111.932071
+UT-Incident--176275,Incidents,SR 132,Juab County,SR 132 at MP 20,"Crash
+SR 132 at MP 20 (12 MI from Nephi) Juab Co.
+Est. Clearance Time: 8:15 AM","3/4/24, 7:11 AM","3/4/24, 8:15 AM","3/4/24, 7:11 AM",,39.660767,-112.063371
+UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
@@ -12369,3 +12381,10 @@ UT-Incident--176271,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weathe
 Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon Co.","3/4/24, 5:35 AM","3/4/24, 10:30 AM","3/4/24, 5:39 AM",,39.809161,-110.778864
 UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
 Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM","3/4/24, 5:42 AM",,40.154605,-110.411485
+UT-Incident--176278,Incidents,US 89,Sanpete County,US 89 25371,"Crash
+US-89 at MP 288 Sanpete Co.
+Est. Clearance Time: 8:30 AM","3/4/24, 7:15 AM","3/4/24, 8:30 AM","3/4/24, 7:15 AM",,39.686767,-111.459101
+UT-Incident--176279,Incidents,US 89,Davis County,US 89 at HWY 193,"Crash
+SB US-89 at SR-193 (3000 N, Layton) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 8:30 AM","3/4/24, 7:17 AM","3/4/24, 8:30 AM","3/4/24, 7:17 AM",,41.112041,-111.909213
