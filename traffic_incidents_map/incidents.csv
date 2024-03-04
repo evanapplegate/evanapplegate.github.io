@@ -12289,7 +12289,6 @@ UT-Incident--176251,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6:49 PM","3/3/24, 3:51 PM","3/3/24, 6:49 PM","3/3/24, 5:25 PM",,40.35648,-111.576663
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176258,Incidents,I-15,Beaver County,I-15 at MP 117,"Crash
 NB I-15 at MP 117 (6 mi N of Beaver) Beaver Co.
 Right Shoulder
@@ -12309,6 +12308,7 @@ SB US 89 at MP 414 (21st / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:34 PM","3/3/24, 6:36 PM","3/3/24, 7:34 PM","3/3/24, 6:36 PM",,41.223816,-111.970397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176253,Incidents,I-15,Millard County,I-15 at MP 192,"Crash
 NB I-15 at MP 192 (4 mi N of Scipio) Millard Co.
 Est. Clearance Time: 6:23 PM","3/3/24, 5:24 PM","3/3/24, 6:23 PM","3/3/24, 5:24 PM",,39.299202,-112.089324
@@ -12316,6 +12316,10 @@ UT-Incident--176260,Incidents,I-15,Millard County,I-15 at MP 141,"Crash
 SB I-15 at MP 141 (5 mi S of Kanosh) Millard Co.
 Right Shoulder
 Est. Clearance Time: 7:46 PM","3/3/24, 6:47 PM","3/3/24, 7:46 PM","3/3/24, 6:47 PM",,38.696466,-112.602232
+UT-Incident--176263,Incidents,I-15,Juab County,I-15 at MP 213,"Crash
+NB I-15 at MP 213 (10 mi S of Nephi) Juab Co.
+Right Shoulder
+Est. Clearance Time: 9:01 PM","3/3/24, 8:02 PM","3/3/24, 9:01 PM","3/3/24, 8:02 PM",,39.569943,-111.93753
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176075,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
@@ -12332,3 +12336,7 @@ UT-Incident--176236,Incidents,SR 31,Emery County,SR 31 at MP 33,"Road Weather
 Both Directions SR 31 Closed
 Between MP 33 to MP 8 Sanpete Co.
 Use Alt Route","3/3/24, 11:55 AM","3/7/24, 12:54 PM","3/3/24, 6:40 PM",,39.463878,-111.145413
+UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
+NB US 191 Closed
+ at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM","3/3/24, 7:57 PM",,40.997685,-109.432538
