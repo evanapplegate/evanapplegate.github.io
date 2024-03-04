@@ -12463,15 +12463,10 @@ Est. Clearance Time: 9:30 AM","3/4/24, 8:25 AM","3/4/24, 9:30 AM",,,39.158057,-1
 UT-Incident--176312,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 10:20 AM","3/4/24, 9:21 AM","3/4/24, 10:20 AM",,,40.775011,-111.949343
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176322,Incidents,I-15 NB X263 On Univ Ave Ramp,Utah County,I-15 NB X263 On Univ Ave Ramp at Univ Ave,"Crash
 NB I-15 263 On Ramp (Utah County)
 Left Lane Closed
 Est. Clearance Time: 11:15 AM","3/4/24, 10:17 AM","3/4/24, 11:15 AM",,,40.213234,-111.659105
-UT-Incident--176323,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
-EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 11:30 AM","3/4/24, 10:25 AM","3/4/24, 11:30 AM",,,40.627915,-111.443541
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176295,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
@@ -12501,10 +12496,6 @@ UT-Incident--176310,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
 NB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
 Left Shoulder
 Est. Clearance Time: 10:15 AM","3/4/24, 9:18 AM","3/4/24, 10:15 AM",,,39.44476,-112.02295
-UT-Incident--176313,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
-SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 10:30 AM","3/4/24, 9:23 AM","3/4/24, 10:30 AM",,,40.147126,-111.646959
 UT-Incident--176319,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 (1400 N Springville) Utah Co.
 Cleared at 9:57 AM
@@ -12513,9 +12504,6 @@ UT-Incident--176321,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:10 AM","3/4/24, 10:12 AM","3/4/24, 11:10 AM",,,40.176162,-111.646775
-UT-Incident--176320,Incidents,I-15 NB X372 OFF SR 240 RAMP,Box Elder County,I-15 NB X372 OFF SR 240 RAMP at HWY 240,"Crash
-NB I-15 372 Off Ramp (Box Elder County)
-Est. Clearance Time: 11:00 AM","3/4/24, 10:01 AM","3/4/24, 11:00 AM",,,41.633942,-112.098317
 UT-Incident--176314,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 WB I-80 at MP 191 (Wasatch) Summit Co.
 Est. Clearance Time: 10:30 AM","3/4/24, 9:25 AM","3/4/24, 10:30 AM",,,41.193495,-111.117252
@@ -12525,13 +12513,36 @@ Est. Clearance Time: 10:30 AM","3/4/24, 9:26 AM","3/4/24, 10:30 AM",,,40.751769,
 UT-Incident--176315,Incidents,MARSAC AVE,Summit County,MARSAC AVE at GUARDSMAN CONNECTION RD,"Crash
 SB SR-224 at MP 3 (Wheaton Way, Park City) Summit Co.
 Est. Clearance Time: 11:00 AM","3/4/24, 9:26 AM","3/4/24, 11:00 AM",,,40.620876,-111.493402
-UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM",,,37.677725,-112.846981
-UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
-NB US 191 Closed
- at MP 404 (UT/WY Border) Daggett Co.
-Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM",,,40.997685,-109.432538
 UT-Incident--176271,Incidents,US 191,Carbon County,US 191 at MP 260,"Road Weather
 Both Directions US 191 Closed at MP 260-294  (Indian Canyon to Duchesne) Carbon Co.","3/4/24, 5:35 AM","3/4/24, 10:30 AM",,,39.809161,-110.778864
 UT-Incident--176272,Incidents,US 191,Duchesne County,US 191 at MP 294,"Road weather
 Both Directions US 191 Closed at MP 294-260 (US-40 Jct/Duchesne to Indian Canyon) Duchesne Co.","3/4/24, 5:37 AM","3/4/24, 10:30 AM",,,40.154605,-110.411485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176313,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 10:30 AM","3/4/24, 9:23 AM","3/4/24, 10:30 AM","3/4/24, 9:23 AM",,40.147126,-111.646959
+UT-Incident--176324,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
+NB I-15 at MP 354 Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 11:45 AM","3/4/24, 10:38 AM","3/4/24, 11:45 AM","3/4/24, 10:38 AM",,41.370111,-112.042594
+UT-Incident--176320,Incidents,I-15 NB X372 OFF SR 240 RAMP,Box Elder County,I-15 NB X372 OFF SR 240 RAMP at HWY 240,"Crash
+NB I-15 372 Off Ramp (Box Elder County)
+Est. Clearance Time: 11:00 AM","3/4/24, 10:01 AM","3/4/24, 11:00 AM","3/4/24, 10:01 AM",,41.633942,-112.098317
+UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
+UT-Incident--176326,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+EB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Center Lane Closed
+Est. Clearance Time: 12:00 PM","3/4/24, 10:55 AM","3/4/24, 12:00 PM","3/4/24, 10:55 AM",,40.348428,-111.591901
+UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
+NB US 191 Closed
+ at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","3/3/24, 7:57 PM","3/6/24, 8:56 PM","3/3/24, 7:57 PM",,40.997685,-109.432538
+UT-Incident--176323,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
+EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 11:30 AM","3/4/24, 10:25 AM","3/4/24, 11:30 AM","3/4/24, 10:26 AM",,40.627915,-111.443541
+UT-Incident--176325,Incidents,US 40,Summit County,US 40 at MP 6,"Crash
+EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
+Est. Clearance Time: 12:00 PM","3/4/24, 10:53 AM","3/4/24, 12:00 PM","3/4/24, 10:53 AM",,40.654652,-111.457229
