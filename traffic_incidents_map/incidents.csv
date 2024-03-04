@@ -12539,7 +12539,6 @@ UT-Incident--176328,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 3052,"Cra
 NB Harrison Blvd at 30th St (Ogden)  Weber Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","3/4/24, 11:26 AM","3/4/24, 12:30 PM","3/4/24, 11:34 AM",,41.209064,-111.948469
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176327,Incidents,I-84,Box Elder County,I-84 at MP 4,"Crash
 EB I-84 at MP 4 (1 mi east of Snowville) Box Elder Co.
 Right Lane Closed
@@ -12551,6 +12550,11 @@ UT-Incident--176325,Incidents,US 40,Summit County,US 40 at MP 6,"Crash
 EB US 40 at MP 6 (S of SR-248 / Park City) Summit Co.
 Est. Clearance Time: 12:00 PM","3/4/24, 10:53 AM","3/4/24, 12:00 PM","3/4/24, 10:53 AM",,40.654652,-111.457229
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176332,Incidents,MAIN ST,Davis County,MAIN ST at ANTELOPE DR,"Crash
+NB Main St at Antelope Dr (Layton) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 2:00 PM","3/4/24, 12:58 PM","3/4/24, 2:00 PM","3/4/24, 12:58 PM",,41.090323,-112.002306
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176331,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
