@@ -12361,7 +12361,6 @@ Est. Clearance Time: 8:30 AM","3/4/24, 7:17 AM","3/4/24, 8:30 AM","3/4/24, 7:17 
 UT-Incident--176269,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
 SB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
 Est. Clearance Time: 6:45 AM","3/4/24, 5:15 AM","3/4/24, 6:45 AM","3/4/24, 6:04 AM",,39.529345,-111.956239
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176285,Incidents,200 N,Iron County,200 N 1051,"Crash
 WB 1100 W at 200 N (Cedar City) Iron Co.
 Left Lane Blocked
@@ -12377,6 +12376,7 @@ Est. Clearance Time: 9:15 AM","3/4/24, 8:01 AM","3/4/24, 9:15 AM","3/4/24, 8:01 
 UT-Incident--176277,Incidents,I-70,Sevier County,I-70 at MP 47,"Crash
 WB I-70 at MP 47 (7 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 8:13 AM","3/4/24, 7:14 AM","3/4/24, 8:13 AM","3/4/24, 7:14 AM",,38.85601,-111.992753
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176289,Incidents,300 W,Sanpete County,300 W at MAIN ST,"Crash
 Main St at 300 W (Moroni) Sanpete Co.
@@ -12425,6 +12425,9 @@ UT-Incident--176282,Incidents,US 40 WB X1 To I-80 WB Ramp,Summit County,US 40 WB
 WB US 40 To I-80 WB RAMP (Summit County)
 Use Alt Route
 Est. Clearance Time: 8:40 AM","3/4/24, 7:36 AM","3/4/24, 8:40 AM","3/4/24, 7:42 AM",,40.723369,-111.491236
+UT-Incident--176293,Incidents,US 50,Millard County,US 50 at HWY 100,"Crash
+US-50 at 107 (SR-100 Jct) Millard Co.
+Est. Clearance Time: 9:30 AM","3/4/24, 8:25 AM","3/4/24, 9:30 AM","3/4/24, 8:26 AM",,39.158057,-112.409844
 UT-Incident--176278,Incidents,US 89,Sanpete County,US 89 25371,"Crash
 US-89 at MP 288 Sanpete Co.
 Est. Clearance Time: 8:30 AM","3/4/24, 7:15 AM","3/4/24, 8:30 AM","3/4/24, 7:15 AM",,39.686767,-111.459101
