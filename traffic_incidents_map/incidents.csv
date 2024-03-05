@@ -12567,7 +12567,6 @@ UT-Incident--176330,Incidents,US 40,Wasatch County,US 40 at MP 45,"Crash
 EB US 40 at MP 45 (Strawberry Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 1:29 PM","3/4/24, 12:30 PM","3/4/24, 1:29 PM","3/4/24, 12:30 PM",,40.220041,-111.104319
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176336,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right 2 Lanes Closed
@@ -12585,18 +12584,10 @@ Both Directions SR 210 at MP 7 (3 Mi E of the Mouth) Salt Lake Co.
 Alternating Traffic 
 Est. Clearance Time: 7:17 PM","3/4/24, 5:18 PM","3/4/24, 7:17 PM",,,40.571959,-111.720092
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176344,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
-SB I-215 W at MP 16 (3900 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 7:20 PM","3/4/24, 6:21 PM","3/4/24, 7:20 PM","3/4/24, 6:21 PM",,40.674449,-111.952751
 UT-Incident--176341,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:39 PM","3/4/24, 5:41 PM","3/4/24, 6:39 PM","3/4/24, 5:41 PM",,40.718332,-111.893095
-UT-Incident--176343,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
-WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 7:16 PM","3/4/24, 6:17 PM","3/4/24, 7:16 PM","3/4/24, 6:17 PM",,40.765772,-111.934049
 UT-Incident--176342,Incidents,PIONEER CROSSING,Utah County,PIONEER CROSSING 301,"Crash
 WB PIONEER CROSSING at MIll Pond
 Utah Co.
@@ -12605,6 +12596,15 @@ Est. Clearance Time: 6:57 PM","3/4/24, 5:58 PM","3/4/24, 6:57 PM","3/4/24, 5:58 
 UT-Incident--176333,Incidents,REDWOOD RD,Utah County,REDWOOD RD 13211,"Crash
 SR-68 Redwood Rd at MP 6.5 Utah Co.
 Est. Clearance Time: 3:00 PM","3/4/24, 1:32 PM","3/4/24, 3:00 PM","3/4/24, 1:32 PM",,40.046572,-111.958258
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176344,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
+SB I-215 W at MP 16 (3900 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:20 PM","3/4/24, 6:21 PM","3/4/24, 7:20 PM","3/4/24, 6:21 PM",,40.674449,-111.952751
+UT-Incident--176343,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
+WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 7:45 PM","3/4/24, 6:17 PM","3/4/24, 7:45 PM","3/4/24, 6:57 PM",,40.765772,-111.934049
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
