@@ -12583,7 +12583,6 @@ UT-Incident--176340,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Crash
 Both Directions SR 210 at MP 7 (3 Mi E of the Mouth) Salt Lake Co.
 Alternating Traffic 
 Est. Clearance Time: 7:17 PM","3/4/24, 5:18 PM","3/4/24, 7:17 PM",,,40.571959,-111.720092
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176341,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Lane Closed
@@ -12601,6 +12600,7 @@ UT-Incident--176344,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 SB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:20 PM","3/4/24, 6:21 PM","3/4/24, 7:20 PM","3/4/24, 6:21 PM",,40.674449,-111.952751
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176343,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 2 Right Lanes Closed
