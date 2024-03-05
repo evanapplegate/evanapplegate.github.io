@@ -12627,16 +12627,19 @@ UT-Incident--176353,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Est. Clearance Time: 9:15 AM","3/5/24, 8:04 AM","3/5/24, 9:15 AM","3/5/24, 8:04 AM",,40.362967,-111.560551
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176350,Incidents,5400 S,Salt Lake County,5400 S at 3200 W,"Crash
 All Directions 5400 S at 3200 W Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 9:00 AM","3/5/24, 7:30 AM","3/5/24, 9:00 AM","3/5/24, 8:26 AM",,40.653092,-111.967378
-UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
-Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176356,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 9:45 AM","3/5/24, 8:43 AM","3/5/24, 9:45 AM","3/5/24, 8:43 AM",,40.725741,-112.001283
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176358,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Est. Clearance Time: 10:30 AM","3/5/24, 8:53 AM","3/5/24, 10:30 AM","3/5/24, 8:53 AM",,40.550055,-111.896336
+UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
+Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/4/24, 7:58 PM","3/1/24, 7:05 PM",,37.677725,-112.846981
 UT-Incident--176351,Incidents,SR 21,Beaver County,SR 21 at MP 95,"Crash
 SR 21 at MP 95 (12 Mi W of Milford) Beaver Co.
 Est. Clearance Time: 8:50 AM","3/5/24, 7:47 AM","3/5/24, 8:50 AM","3/5/24, 7:47 AM",,38.218483,-112.844821
