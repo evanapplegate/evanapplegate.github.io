@@ -12699,7 +12699,6 @@ Est. Clearance Time: 8:15 PM","3/5/24, 7:13 PM","3/5/24, 8:15 PM","3/5/24, 7:13 
 UT-Incident--176378,Incidents,US 89,Sanpete County,US 89 at MP 254,"Crash
 NB US 89 at MP 254 (1 mile S of Manti) Sanpete Co.
 Est. Clearance Time: 9:30 PM","3/5/24, 8:19 PM","3/5/24, 9:30 PM","3/5/24, 8:19 PM",,39.246367,-111.648425
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176376,Incidents,MAIN ST,Wasatch County,MAIN ST at 600 S,"Crash
 SB Main St at 650 S Wasatch Co.
 Right Shoulder
@@ -12708,6 +12707,11 @@ UT-Incident--176364,Incidents,SR 12,Garfield County,SR 12 at MP 62,"Crash
 SR 12 at MP 62 (2 Mi E of Escalante) Garfield Co.
 Est. Clearance Time: 10:30 PM","3/5/24, 4:10 PM","3/5/24, 10:30 PM","3/5/24, 8:37 PM",,37.749098,-111.565228
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176380,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 36th St,"Crash
+NB Riverdale Rd at 36th St Weber Co.
+Right Lane Closed
+Est. Clearance Time: 10:15 PM","3/5/24, 9:18 PM","3/5/24, 10:15 PM","3/5/24, 9:19 PM",,0.0,0.0
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/8/24, 7:58 PM","3/5/24, 2:09 PM",,37.677725,-112.846981
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
