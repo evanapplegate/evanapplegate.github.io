@@ -12742,12 +12742,16 @@ UT-Incident--176387,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","3/6/24, 8:00 AM","3/6/24, 9:15 AM","3/6/24, 8:00 AM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176389,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (3300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","3/6/24, 8:17 AM","3/6/24, 9:15 AM","3/6/24, 8:17 AM",,40.701115,-111.902834
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176390,Incidents,1500 W,Weber County,1500 W at Riverdale Rd,"Crash
+WB 1500 W at Riverdale Rd Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:45 AM","3/6/24, 8:45 AM","3/6/24, 9:45 AM","3/6/24, 8:45 AM",,41.172747,-112.015639
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
