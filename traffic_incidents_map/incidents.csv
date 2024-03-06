@@ -12763,7 +12763,6 @@ Est. Clearance Time: 1:35 PM","3/6/24, 11:51 AM","3/6/24, 1:35 PM","3/6/24, 1:08
 UT-Incident--176394,Incidents,I-70,Sevier County,I-70 at MP 73,"Crash
 EB I-70 at MP 73 (33 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 2:50 PM","3/6/24, 1:42 PM","3/6/24, 2:50 PM","3/6/24, 1:42 PM",,38.882064,-111.581181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176399,Incidents,SR 201 EB TO I-15 SB I-80E EB RAMP,Salt Lake County,SR 201 EB TO I-15 SB I-80E EB RAMP at I-80E EB,"Stalled Vehicle
 EB SR 201 To I-80 EB Ramp Salt Lake Co.
 Left Lane Closed
@@ -12777,10 +12776,14 @@ UT-Incident--176397,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:40 PM","3/6/24, 2:34 PM","3/6/24, 3:40 PM","3/6/24, 3:07 PM",,41.194004,-112.002614
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176401,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
+NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
+I-15 Closed, Expect Delays","3/6/24, 3:27 PM","3/6/24, 4:30 PM","3/6/24, 3:28 PM",,37.668448,-113.079894
 UT-Incident--176396,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 NB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 3:15 PM","3/6/24, 2:14 PM","3/6/24, 3:15 PM","3/6/24, 2:14 PM",,40.731947,-111.949915
+Est. Clearance Time: 3:45 PM","3/6/24, 2:14 PM","3/6/24, 3:45 PM","3/6/24, 3:23 PM",,40.731947,-111.949915
 UT-Incident--176398,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Left Shoulder
