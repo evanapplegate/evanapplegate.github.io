@@ -12674,17 +12674,24 @@ UT-Incident--176365,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","3/5/24, 4:16 PM","3/5/24, 5:15 PM","3/5/24, 4:16 PM",,40.765165,-111.991516
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176369,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 WB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:35 PM","3/5/24, 5:25 PM","3/5/24, 6:35 PM","3/5/24, 5:25 PM",,40.641354,-111.808234
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176373,Incidents,I-15,Weber County,I-15 at MP 351,"Debris
+SB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
+Est. Clearance Time: 8:05 PM","3/5/24, 6:54 PM","3/5/24, 8:05 PM","3/5/24, 6:54 PM",,41.329561,-112.031305
 UT-Incident--176364,Incidents,SR 12,Garfield County,SR 12 at MP 62,"Crash
 SR 12 at MP 62 (2 Mi E of Escalante) Garfield Co.
 Est. Clearance Time: 8:30 PM","3/5/24, 4:10 PM","3/5/24, 8:30 PM","3/5/24, 5:02 PM",,37.749098,-111.565228
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/8/24, 7:58 PM","3/5/24, 2:09 PM",,37.677725,-112.846981
+UT-Incident--176372,Incidents,State St,Salt Lake County,State St at 2100 S,"Signal problems
+All Directions State St at 2100 S Salt Lake Co.
+Treat As Four Way Stop
+Est. Clearance Time: 8:00 PM","3/5/24, 6:44 PM","3/5/24, 8:00 PM","3/5/24, 6:44 PM",,40.724427,-111.888226
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
