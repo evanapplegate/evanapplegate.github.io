@@ -12662,7 +12662,6 @@ UT-Incident--176366,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","3/5/24, 4:22 PM","3/5/24, 5:35 PM","3/5/24, 4:22 PM",,40.722344,-111.904691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176367,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
 SB I-15 at MP 332 (Antelope Dr) Davis Co.
 Right Shoulder
@@ -12680,6 +12679,7 @@ UT-Incident--176369,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 WB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:35 PM","3/5/24, 5:25 PM","3/5/24, 6:35 PM","3/5/24, 5:25 PM",,40.641354,-111.808234
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176364,Incidents,SR 12,Garfield County,SR 12 at MP 62,"Crash
 SR 12 at MP 62 (2 Mi E of Escalante) Garfield Co.
 Est. Clearance Time: 8:30 PM","3/5/24, 4:10 PM","3/5/24, 8:30 PM","3/5/24, 5:02 PM",,37.749098,-111.565228
