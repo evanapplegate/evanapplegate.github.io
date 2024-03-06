@@ -12686,7 +12686,6 @@ All Directions State St at 2100 S Salt Lake Co.
 Treat As Four Way Stop
 Est. Clearance Time: 8:00 PM","3/5/24, 6:44 PM","3/5/24, 8:00 PM","3/5/24, 6:44 PM",,40.724427,-111.888226
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176375,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -12695,6 +12694,7 @@ UT-Incident--176377,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 SB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:15 PM","3/5/24, 8:01 PM","3/5/24, 9:15 PM","3/5/24, 8:01 PM",,40.274259,-111.718248
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176376,Incidents,MAIN ST,Wasatch County,MAIN ST at 600 S,"Crash
 SB Main St at 650 S Wasatch Co.
 Right Shoulder
