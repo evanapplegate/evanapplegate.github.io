@@ -12787,7 +12787,6 @@ UT-Incident--176398,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:45 PM","3/6/24, 2:40 PM","3/6/24, 3:45 PM","3/6/24, 2:40 PM",,40.688869,-111.951947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176403,Incidents,I-15 NB X332 On Antelope Dr Ramp,Davis County,I-15 NB X332 On Antelope Dr Ramp at Antelope Dr,"Crash
 NB I-15 Antelope Dr On Ramp Davis Co.
 Right Shoulder
@@ -12796,6 +12795,11 @@ Est. Clearance Time: 4:45 PM","3/6/24, 3:42 PM","3/6/24, 4:45 PM","3/6/24, 3:42 
 UT-Incident--176401,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
 NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
 I-15 Closed, Expect Delays","3/6/24, 3:27 PM","3/6/24, 4:30 PM","3/6/24, 3:28 PM",,37.668448,-113.079894
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176407,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 Offramp at MP 306 (900 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 5:45 PM","3/6/24, 4:44 PM","3/6/24, 5:45 PM","3/6/24, 4:44 PM",,40.736823,-111.90475
 UT-Incident--176405,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Lane Closed
