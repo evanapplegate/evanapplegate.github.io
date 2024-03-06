@@ -12738,7 +12738,6 @@ Right Shoulder
 Est. Clearance Time: 8:00 AM","3/6/24, 6:59 AM","3/6/24, 8:00 AM","3/6/24, 7:21 AM",,40.636227,-111.910629
 UT-Incident--176070,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road weather
 Both Directions SR 143  closed from MP 17-27 Iron Co.","3/1/24, 7:05 PM","3/8/24, 7:58 PM","3/5/24, 2:09 PM",,37.677725,-112.846981
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176387,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
@@ -12748,6 +12747,7 @@ UT-Incident--176389,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (3300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","3/6/24, 8:17 AM","3/6/24, 9:15 AM","3/6/24, 8:17 AM",,40.701115,-111.902834
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176262,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
