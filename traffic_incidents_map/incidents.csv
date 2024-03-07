@@ -12829,7 +12829,6 @@ Est. Clearance Time: 7:00 PM","3/6/24, 5:54 PM","3/6/24, 7:00 PM","3/6/24, 5:54 
 UT-Incident--176400,Incidents,US 89,Sanpete County,US 89 at MP 285,"Crash
 Both Dirs US 89 at MP 285 (1 mile N of Fairview) Sanpete Co.
 Est. Clearance Time: 7:00 PM","3/6/24, 3:03 PM","3/6/24, 7:00 PM","3/6/24, 3:03 PM",,39.6446,-111.449894
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176415,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Shoulder
@@ -12839,3 +12838,11 @@ UT-Incident--176416,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","3/6/24, 6:28 PM","3/6/24, 7:35 PM","3/6/24, 6:45 PM",View on map,40.688869,-111.951947
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176419,Incidents,1800 N,Davis County,1800 N at 1500 W,"Crash
+1800 N at 1500 W (Clinton) Davis Co.
+Est. Clearance Time: 8:30 PM","3/6/24, 7:36 PM","3/6/24, 8:30 PM","3/6/24, 7:36 PM",View on map,41.139878,-112.054842
+UT-Incident--176418,Incidents,900 E,Salt Lake County,900 E at 5600 S,"Crash
+SB 900 E at 5600 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 PM","3/6/24, 7:32 PM","3/6/24, 8:30 PM","3/6/24, 7:32 PM",View on map,40.649573,-111.865916
