@@ -12931,12 +12931,15 @@ UT-Incident--176444,Incidents,Antelope Dr,Davis County,Antelope Dr 1251,"Crash
 EB Antelope Dr at I-15 Overpass (Layton) Davis Co.
 Left Lanes Closed
 Est. Clearance Time: 10:45 AM","3/7/24, 9:47 AM","3/7/24, 10:45 AM","3/7/24, 9:47 AM",View on map,41.089234,-111.989374
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176443,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 10:45 AM","3/7/24, 9:42 AM","3/7/24, 10:45 AM","3/7/24, 10:25 AM",View on map,41.342906,-112.038597
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176449,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
+NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
+Est. Clearance Time: 12:00 PM","3/7/24, 10:55 AM","3/7/24, 12:00 PM","3/7/24, 10:55 AM",View on map,39.215182,-112.156473
 UT-Incident--176445,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
 WB I-84 at MP 85 (South Weber) Weber Co.
 Est. Clearance Time: 11:15 AM","3/7/24, 9:50 AM","3/7/24, 11:15 AM","3/7/24, 9:50 AM",View on map,41.146953,-111.961855
