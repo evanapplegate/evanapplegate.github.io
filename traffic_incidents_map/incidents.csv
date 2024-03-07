@@ -12867,7 +12867,6 @@ UT-Incident--176430,Incidents,US 40 EB,Summit County,US 40 EB 1,"Crash
 EB US 40 at MP 2 (Park City) Summit Co.
 Left Shoulder
 Est. Clearance Time: 8:00 AM","3/7/24, 6:57 AM","3/7/24, 8:00 AM","3/7/24, 6:57 AM",,40.713488,-111.483915
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176427,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Lane Closed
@@ -12880,6 +12879,14 @@ UT-Incident--176434,Incidents,800 W,Davis County,800 W at Main St,"Crash
 SB Main St at 800 N (Sunset)  Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 AM","3/7/24, 7:32 AM","3/7/24, 8:45 AM","3/7/24, 7:32 AM",,41.125319,-112.026049
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176437,Incidents,I-15 NB FWY,Utah County,I-15 NB FWY 28447,"Crash
+NB I-15 at MP 284 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:00 AM","3/7/24, 7:56 AM","3/7/24, 9:00 AM","3/7/24, 7:56 AM",,40.439052,-111.898206
+UT-Incident--176436,Incidents,I-80,Summit County,I-80 at MP 148,"Crash
+EB I-80 at MP 148 (1 mi E of Sliver Creek) Summit Co.
+Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM","3/7/24, 7:45 AM",,40.740434,-111.478075
 UT-Incident--176433,Incidents,I-80 EB X117 TO I-215W COL RAMP,Salt Lake County,I-80 EB X117 TO I-215W COL RAMP at I-215W,"Crash
 EB I-80 Exit 117 To SB I-215W Ramp Salt Lake Co.
 Right Shoulder
@@ -12899,3 +12906,6 @@ UT-Incident--176432,Incidents,US 40 EB,Summit County,US 40 EB at SILVER SUMMIT,"
 EB US 40 at MP 2 (Park City) Summit Co.
 Left Shoulder
 Est. Clearance Time: 8:15 AM","3/7/24, 7:15 AM","3/7/24, 8:15 AM","3/7/24, 7:15 AM",,40.71736,-111.486871
+UT-Incident--176435,Incidents,US 40 EB X2 Off Silver Summit Ramp,Summit County,US 40 EB X2 Off Silver Summit Ramp at Silver Summit,"Crash
+EB US 40 Exit 2 Silver Summit Off Ramp Summit Co.
+Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM","3/7/24, 7:45 AM",,40.720768,-111.489487
