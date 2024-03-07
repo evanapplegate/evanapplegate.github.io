@@ -12908,7 +12908,6 @@ EB I-80 at MP 148 (1 mi E of Sliver Creek) Summit Co.
 Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM",,,40.740434,-111.478075
 UT-Incident--176425,Incidents,US 191,Duchesne County,US 191 at MP 283,"Crash
 SB US 191 Closed at MP 283 (11 miles S of Duchesne) Duchesne Co.","3/7/24, 3:47 AM","3/7/24, 10:14 AM",,,40.037368,-110.537748
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176440,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Right Lane Closed
@@ -12925,17 +12924,19 @@ UT-Incident--176431,Incidents,SR 167,Morgan County,SR 167 at MP 6,"Crash
 SR 167 at MP 6 (5 miles S of Old Hwy Rd) Morgan Co.
 Est. Clearance Time: 10:15 AM","3/7/24, 7:07 AM","3/7/24, 10:15 AM","3/7/24, 8:45 AM",View on map,41.193711,-111.81664
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176447,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
+NB I-15 at MP 329 (550 S Layton) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 11:30 AM","3/7/24, 9:54 AM","3/7/24, 11:30 AM","3/7/24, 9:54 AM",View on map,41.041629,-111.953074
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176444,Incidents,Antelope Dr,Davis County,Antelope Dr 1251,"Crash
 EB Antelope Dr at I-15 Overpass (Layton) Davis Co.
 Left Lanes Closed
 Est. Clearance Time: 10:45 AM","3/7/24, 9:47 AM","3/7/24, 10:45 AM","3/7/24, 9:47 AM",View on map,41.089234,-111.989374
 UT-Incident--176443,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
-Est. Clearance Time: 10:45 AM","3/7/24, 9:42 AM","3/7/24, 10:45 AM","3/7/24, 9:42 AM",View on map,41.342906,-112.038597
-UT-Incident--176447,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
-NB I-15 at MP 329 (550 S Layton) Davis Co.
-Right Lane Closed
-Est. Clearance Time: 11:30 AM","3/7/24, 9:54 AM","3/7/24, 11:30 AM","3/7/24, 9:54 AM",View on map,41.041629,-111.953074
+Left Shoulder
+Est. Clearance Time: 10:45 AM","3/7/24, 9:42 AM","3/7/24, 10:45 AM","3/7/24, 10:25 AM",View on map,41.342906,-112.038597
 UT-Incident--176445,Incidents,I-84,Weber County,I-84 at MP 85,"Crash
 WB I-84 at MP 85 (South Weber) Weber Co.
 Est. Clearance Time: 11:15 AM","3/7/24, 9:50 AM","3/7/24, 11:15 AM","3/7/24, 9:50 AM",View on map,41.146953,-111.961855
