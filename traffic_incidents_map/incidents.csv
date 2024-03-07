@@ -12841,7 +12841,6 @@ UT-Incident--176419,Incidents,1800 N,Davis County,1800 N at 1500 W,"Crash
 1800 N at 1500 W (Clinton) Davis Co.
 Est. Clearance Time: 8:30 PM","3/6/24, 7:36 PM","3/6/24, 8:30 PM","3/6/24, 7:36 PM",View on map,41.139878,-112.054842
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176418,Incidents,900 E,Salt Lake County,900 E at 5600 S,"Crash
 SB 900 E at 5600 S Salt Lake Co.
 Right Lane Closed
@@ -12850,6 +12849,7 @@ UT-Incident--176420,Incidents,I-15,Weber County,I-15 at MP 339,"Vehicle on fire
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Right Shoulder
 Est. Clearance Time: 9:45 PM","3/6/24, 8:43 PM","3/6/24, 9:45 PM","3/6/24, 8:43 PM",View on map,41.169225,-112.020449
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176421,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
 SB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
