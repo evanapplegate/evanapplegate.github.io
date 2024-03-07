@@ -12791,7 +12791,6 @@ UT-Incident--176403,Incidents,I-15 NB X332 On Antelope Dr Ramp,Davis County,I-15
 NB I-15 Antelope Dr On Ramp Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","3/6/24, 3:42 PM","3/6/24, 4:45 PM","3/6/24, 3:42 PM",,41.089224,-111.989213
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176401,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
 NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
 I-15 Closed, Expect Delays","3/6/24, 3:27 PM","3/6/24, 4:30 PM","3/6/24, 3:28 PM",,37.668448,-113.079894
@@ -12800,6 +12799,15 @@ UT-Incident--176407,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 Offramp at MP 306 (900 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:45 PM","3/6/24, 4:44 PM","3/6/24, 5:45 PM","3/6/24, 4:44 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176408,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
+EB I-215 S at MP 11 (300 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","3/6/24, 4:57 PM","3/6/24, 6:00 PM","3/6/24, 4:57 PM",,40.634373,-111.895376
+UT-Incident--176409,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","3/6/24, 5:01 PM","3/6/24, 6:00 PM","3/6/24, 5:01 PM",,40.64406,-111.929407
 UT-Incident--176405,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Lane Closed
@@ -12808,6 +12816,10 @@ UT-Incident--176406,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","3/6/24, 4:23 PM","3/6/24, 5:30 PM","3/6/24, 4:23 PM",,40.775011,-111.949343
+UT-Incident--176410,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:15 PM","3/6/24, 5:14 PM","3/6/24, 6:15 PM","3/6/24, 5:14 PM",,40.775011,-111.949343
 UT-Incident--176404,Incidents,STATE ST,Davis County,STATE ST at 700 S,"Crash
 SB State St at 700 S (Clearfield) Davis Co.
 Left Lane Closed
