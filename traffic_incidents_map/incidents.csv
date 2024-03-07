@@ -12896,7 +12896,6 @@ Est. Clearance Time: 8:15 AM","3/7/24, 7:15 AM","3/7/24, 8:15 AM",,,40.71736,-11
 UT-Incident--176435,Incidents,US 40 EB X2 Off Silver Summit Ramp,Summit County,US 40 EB X2 Off Silver Summit Ramp at Silver Summit,"Crash
 EB US 40 Exit 2 Silver Summit Off Ramp Summit Co.
 Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM",,,40.720768,-111.489487
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176439,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Gordon Ave,"Crash
 SB Hill Field Rd at Gordon Ave (Layton) Davis Co.
 Left Lane Closed
@@ -12910,6 +12909,7 @@ Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM",,,40.740434,-1
 UT-Incident--176425,Incidents,US 191,Duchesne County,US 191 at MP 283,"Crash
 SB US 191 Closed at MP 283 (11 miles S of Duchesne) Duchesne Co.","3/7/24, 3:47 AM","3/7/24, 10:14 AM",,,40.037368,-110.537748
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176440,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Right Lane Closed
@@ -12918,6 +12918,10 @@ UT-Incident--176441,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","3/7/24, 9:21 AM","3/7/24, 10:30 AM","3/7/24, 9:21 AM",View on map,41.301243,-112.026067
+UT-Incident--176442,Incidents,I-15,Box Elder County,I-15 at MP 356,"Crash
+SB I-15 at MP 356 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","3/7/24, 9:23 AM","3/7/24, 10:30 AM","3/7/24, 9:23 AM",View on map,41.399901,-112.046487
 UT-Incident--176431,Incidents,SR 167,Morgan County,SR 167 at MP 6,"Crash
 SR 167 at MP 6 (5 miles S of Old Hwy Rd) Morgan Co.
 Est. Clearance Time: 10:15 AM","3/7/24, 7:07 AM","3/7/24, 10:15 AM","3/7/24, 8:45 AM",View on map,41.193711,-111.81664
