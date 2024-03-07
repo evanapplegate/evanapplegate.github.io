@@ -12964,7 +12964,6 @@ UT-Incident--176454,Incidents,I-15 SB X265 On Ramp,Utah County,I-15 SB X265 On R
 SB I-15 Center St On Ramp (Provo) Utah Co.
 Onramp Closed, Use Alt
 Est. Clearance Time: 1:45 PM","3/7/24, 12:46 PM","3/7/24, 1:45 PM","3/7/24, 1:16 PM",View on map,40.230396,-111.681974
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176455,Incidents,I-15,Juab County,I-15 at MP 217,"Multiple Crashes
 Both Directions I-15 at MP 217 (6 mi S of Nephi) Juab Co.
 Est. Clearance Time: 2:45 PM","3/7/24, 1:42 PM","3/7/24, 2:45 PM","3/7/24, 1:42 PM",View on map,39.620933,-111.906013
@@ -12976,9 +12975,13 @@ SB Main St at 200 N Davis Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","3/7/24, 2:06 PM","3/7/24, 3:00 PM","3/7/24, 2:06 PM",View on map,41.038091,-111.938564
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176456,Incidents,I-15,Millard County,I-15 at MP 175,"Crash
 NB I-15 at MP 175 (190 S / Holden) Millard Co.
 Est. Clearance Time: 2:45 PM","3/7/24, 1:44 PM","3/7/24, 2:45 PM","3/7/24, 1:44 PM",View on map,39.099167,-112.259634
 UT-Incident--176458,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 SB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
 Est. Clearance Time: 3:00 PM","3/7/24, 1:51 PM","3/7/24, 3:00 PM","3/7/24, 1:51 PM",View on map,39.543613,-111.952663
+UT-Incident--176460,Incidents,I-15,Millard County,I-15 at MP 183,"Crash
+SB I-15 at MP 183 (5 mi S of Scipio) Millard Co.
+Est. Clearance Time: 3:45 PM","3/7/24, 2:36 PM","3/7/24, 3:45 PM","3/7/24, 2:36 PM",View on map,39.198168,-112.183878
