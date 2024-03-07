@@ -12874,7 +12874,6 @@ Est. Clearance Time: 6:52 AM","3/7/24, 5:53 AM","3/7/24, 6:52 AM","3/7/24, 6:51 
 UT-Incident--176428,Incidents,I-80,Summit County,I-80 at MP 195,"Crash
 WB I-80 at MP 195 (1 mi W of WY border) Summit Co.
 Est. Clearance Time: 7:30 AM","3/7/24, 6:20 AM","3/7/24, 7:30 AM","3/7/24, 6:20 AM",,41.240927,-111.074182
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176434,Incidents,800 W,Davis County,800 W at Main St,"Crash
 SB Main St at 800 N (Sunset)  Davis Co.
 Right Lane Closed
@@ -12884,28 +12883,36 @@ UT-Incident--176437,Incidents,I-15 NB FWY,Utah County,I-15 NB FWY 28447,"Crash
 NB I-15 at MP 284 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:00 AM","3/7/24, 7:56 AM","3/7/24, 9:00 AM","3/7/24, 7:56 AM",,40.439052,-111.898206
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176439,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Gordon Ave,"Crash
+SB Hill Field Rd at Gordon Ave (Layton) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 9:15 AM","3/7/24, 8:13 AM","3/7/24, 9:15 AM",,,41.075522,-111.973849
+UT-Incident--176438,Incidents,HINCKLEY DR,Weber County,HINCKLEY DR at 3600 S/MIDLAND DR,"Crash
+Hinckley Dr at Midland Dr (West Haven) Weber Co.
+Est. Clearance Time: 9:15 AM","3/7/24, 8:06 AM","3/7/24, 9:15 AM",,,41.197745,-112.040086
 UT-Incident--176436,Incidents,I-80,Summit County,I-80 at MP 148,"Crash
 EB I-80 at MP 148 (1 mi E of Sliver Creek) Summit Co.
-Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM","3/7/24, 7:45 AM",,40.740434,-111.478075
+Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM",,,40.740434,-111.478075
 UT-Incident--176433,Incidents,I-80 EB X117 TO I-215W COL RAMP,Salt Lake County,I-80 EB X117 TO I-215W COL RAMP at I-215W,"Crash
 EB I-80 Exit 117 To SB I-215W Ramp Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 8:30 AM","3/7/24, 7:24 AM","3/7/24, 8:30 AM","3/7/24, 7:24 AM",,40.761711,-111.952926
+Est. Clearance Time: 8:30 AM","3/7/24, 7:24 AM","3/7/24, 8:30 AM",,,40.761711,-111.952926
 UT-Incident--176429,Incidents,I-84,Morgan County,I-84 at MP 99,"Crash
 EB I-84 at MP 99 (Morgan) Morgan Co.
-Est. Clearance Time: 7:30 AM","3/7/24, 6:23 AM","3/7/24, 7:30 AM","3/7/24, 6:23 AM",,41.088947,-111.734883
+Est. Clearance Time: 7:30 AM","3/7/24, 6:23 AM","3/7/24, 7:30 AM",,,41.088947,-111.734883
 UT-Incident--176431,Incidents,SR 167,Morgan County,SR 167 at MP 6,"Crash
 SR 167 at MP 6 (5 miles S of Old Hwy Rd) Morgan Co.
-Est. Clearance Time: 8:15 AM","3/7/24, 7:07 AM","3/7/24, 8:15 AM","3/7/24, 7:07 AM",,41.193711,-111.81664
+Est. Clearance Time: 8:15 AM","3/7/24, 7:07 AM","3/7/24, 8:15 AM",,,41.193711,-111.81664
 UT-Incident--176424,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2-5 (Empire Pass) Summit Co.
-Approved traction devices required for all vehicles. ","3/7/24, 3:41 AM","3/7/24, 4:40 AM","3/7/24, 4:51 AM",,40.624634,-111.501637
+Approved traction devices required for all vehicles. ","3/7/24, 3:41 AM","3/7/24, 4:40 AM",,,40.624634,-111.501637
 UT-Incident--176425,Incidents,US 191,Duchesne County,US 191 at MP 283,"Crash
-SB US 191 Closed at MP 283 (11 miles S of Duchesne) Duchesne Co.","3/7/24, 3:47 AM","3/7/24, 6:14 AM","3/7/24, 5:29 AM",,40.037368,-110.537748
+SB US 191 Closed at MP 283 (11 miles S of Duchesne) Duchesne Co.","3/7/24, 3:47 AM","3/7/24, 6:14 AM",,,40.037368,-110.537748
 UT-Incident--176432,Incidents,US 40 EB,Summit County,US 40 EB at SILVER SUMMIT,"Crash
 EB US 40 at MP 2 (Park City) Summit Co.
 Left Shoulder
-Est. Clearance Time: 8:15 AM","3/7/24, 7:15 AM","3/7/24, 8:15 AM","3/7/24, 7:15 AM",,40.71736,-111.486871
+Est. Clearance Time: 8:15 AM","3/7/24, 7:15 AM","3/7/24, 8:15 AM",,,40.71736,-111.486871
 UT-Incident--176435,Incidents,US 40 EB X2 Off Silver Summit Ramp,Summit County,US 40 EB X2 Off Silver Summit Ramp at Silver Summit,"Crash
 EB US 40 Exit 2 Silver Summit Off Ramp Summit Co.
-Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM","3/7/24, 7:45 AM",,40.720768,-111.489487
+Est. Clearance Time: 8:45 AM","3/7/24, 7:45 AM","3/7/24, 8:45 AM",,,40.720768,-111.489487
