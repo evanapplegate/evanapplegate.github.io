@@ -12840,7 +12840,6 @@ Est. Clearance Time: 7:35 PM","3/6/24, 6:28 PM","3/6/24, 7:35 PM","3/6/24, 6:45 
 UT-Incident--176419,Incidents,1800 N,Davis County,1800 N at 1500 W,"Crash
 1800 N at 1500 W (Clinton) Davis Co.
 Est. Clearance Time: 8:30 PM","3/6/24, 7:36 PM","3/6/24, 8:30 PM","3/6/24, 7:36 PM",View on map,41.139878,-112.054842
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176418,Incidents,900 E,Salt Lake County,900 E at 5600 S,"Crash
 SB 900 E at 5600 S Salt Lake Co.
 Right Lane Closed
@@ -12854,6 +12853,7 @@ UT-Incident--176421,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
 SB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 10:00 PM","3/6/24, 8:51 PM","3/6/24, 10:00 PM","3/6/24, 8:51 PM",View on map,39.967345,-111.783318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176422,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Lane Closed
