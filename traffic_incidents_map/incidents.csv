@@ -12974,7 +12974,6 @@ UT-Incident--176459,Incidents,Main St,Davis County,Main St at 200 N,"Crash
 SB Main St at 200 N Davis Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","3/7/24, 2:06 PM","3/7/24, 3:00 PM","3/7/24, 2:06 PM",View on map,41.038091,-111.938564
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176456,Incidents,I-15,Millard County,I-15 at MP 175,"Crash
 NB I-15 at MP 175 (190 S / Holden) Millard Co.
 Est. Clearance Time: 2:45 PM","3/7/24, 1:44 PM","3/7/24, 2:45 PM","3/7/24, 1:44 PM",View on map,39.099167,-112.259634
@@ -12991,12 +12990,17 @@ UT-Incident--176463,Incidents,I-15,Millard County,I-15 at MP 183,"Crash
 SB I-15 at MP 183 (5 mi S of Scipio) Millard Co.
 Est. Clearance Time: 4:00 PM","3/7/24, 2:53 PM","3/7/24, 4:00 PM","3/7/24, 2:53 PM",View on map,39.198168,-112.183878
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176461,Incidents,I-70,Sevier County,I-70 at MP 32,"Crash
-EB I-70 at MP 32 (5 Mi W of Richfield) Sevier Co.
-Est. Clearance Time: 4:00 PM","3/7/24, 2:52 PM","3/7/24, 4:00 PM","3/7/24, 2:52 PM",,38.686774,-112.153815
-UT-Incident--176465,Incidents,SR 113,Wasatch County,SR 113 at MP 1,"Crash
-SR 113 at MP 1 (3000 S) Wasatch Co.
-Est. Clearance Time: 4:45 PM","3/7/24, 3:53 PM","3/7/24, 4:45 PM","3/7/24, 3:53 PM",,40.470096,-111.471713
 UT-Incident--176466,Incidents,Wall Ave,Weber County,Wall Ave at 22nd St,"Crash
 NB Wall Ave at 22nd St Weber Co.
 Est. Clearance Time: 5:00 PM","3/7/24, 4:01 PM","3/7/24, 5:00 PM","3/7/24, 4:01 PM",,41.227045,-111.978726
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176461,Incidents,I-70,Sevier County,I-70 at MP 32,"Crash
+EB I-70 at MP 32 (5 Mi W of Richfield) Sevier Co.
+Est. Clearance Time: 5:00 PM","3/7/24, 2:52 PM","3/7/24, 5:00 PM","3/7/24, 4:11 PM",,38.686774,-112.153815
+UT-Incident--176467,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
+EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","3/7/24, 4:07 PM","3/7/24, 5:00 PM","3/7/24, 4:07 PM",,40.719771,-111.855009
+UT-Incident--176465,Incidents,SR 113,Wasatch County,SR 113 at MP 1,"Crash
+SR 113 at MP 1 (3000 S) Wasatch Co.
+Est. Clearance Time: 4:45 PM","3/7/24, 3:53 PM","3/7/24, 4:45 PM","3/7/24, 3:53 PM",,40.470096,-111.471713
