@@ -12923,7 +12923,6 @@ Est. Clearance Time: 10:30 AM","3/7/24, 9:23 AM","3/7/24, 10:30 AM","3/7/24, 9:2
 UT-Incident--176431,Incidents,SR 167,Morgan County,SR 167 at MP 6,"Crash
 SR 167 at MP 6 (5 miles S of Old Hwy Rd) Morgan Co.
 Est. Clearance Time: 10:15 AM","3/7/24, 7:07 AM","3/7/24, 10:15 AM","3/7/24, 8:45 AM",View on map,41.193711,-111.81664
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176447,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
 NB I-15 at MP 329 (550 S Layton) Davis Co.
 Right Lane Closed
@@ -12933,6 +12932,7 @@ UT-Incident--176444,Incidents,Antelope Dr,Davis County,Antelope Dr 1251,"Crash
 EB Antelope Dr at I-15 Overpass (Layton) Davis Co.
 Left Lanes Closed
 Est. Clearance Time: 10:45 AM","3/7/24, 9:47 AM","3/7/24, 10:45 AM","3/7/24, 9:47 AM",View on map,41.089234,-111.989374
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176443,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 SB I-15 at MP 352 (Box Elder) Box Elder Co.
 Left Shoulder
