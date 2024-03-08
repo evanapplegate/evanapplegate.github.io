@@ -13047,12 +13047,16 @@ UT-Incident--176483,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Medical
 SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:40 AM","3/8/24, 8:42 AM","3/8/24, 9:40 AM","3/8/24, 8:42 AM",View on map,40.659924,-111.952783
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176479,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
 WB I-80 at MP 113 (5600 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:45 AM","3/8/24, 7:38 AM","3/8/24, 9:45 AM","3/8/24, 9:01 AM",,40.771201,-112.028497
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176487,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+Ramp NB I-15 at MP 338 (5600 S Exit) Weber Co.
+Right Shoulder
+Est. Clearance Time: 10:43 AM","3/8/24, 9:44 AM","3/8/24, 10:43 AM","3/8/24, 9:44 AM",,41.155128,-112.024901
 UT-Incident--176486,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Stalled Vehicle
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Right Shoulder
