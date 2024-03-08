@@ -13062,7 +13062,6 @@ UT-Incident--176485,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 7800 S,"
 NB Redwood Rd at 7800 S Salt Lake Co.
 NB 2 Left Lanes Closed
 Est. Clearance Time: 9:52 AM","3/8/24, 8:54 AM","3/8/24, 9:52 AM","3/8/24, 9:00 AM",,40.610961,-111.938764
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176488,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Stalled Vehicle
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -13072,7 +13071,12 @@ EB US 6 at MP 182 (2 Mi W of Diamand Fork Rd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:49 AM","3/8/24, 9:51 AM","3/8/24, 10:49 AM","3/8/24, 9:51 AM",View on map,40.040823,-111.541266
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176486,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Stalled Vehicle
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 10:08 AM","3/8/24, 9:09 AM","3/8/24, 10:08 AM","3/8/24, 9:09 AM",View on map,40.713146,-111.819005
+Est. Clearance Time: 11:30 AM","3/8/24, 9:09 AM","3/8/24, 11:30 AM","3/8/24, 10:51 AM",View on map,40.713146,-111.819005
+UT-Incident--176490,Incidents,US 89,Davis County,US 89 at MP 404,"Stalled Vehicle
+SB US 89 at MP 404 (ANtelope Dr/Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:48 AM","3/8/24, 10:49 AM","3/8/24, 11:48 AM","3/8/24, 10:49 AM",View on map,41.103305,-111.910202
