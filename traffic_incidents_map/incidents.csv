@@ -12992,7 +12992,6 @@ Est. Clearance Time: 4:00 PM","3/7/24, 2:53 PM","3/7/24, 4:00 PM","3/7/24, 2:53 
 UT-Incident--176466,Incidents,Wall Ave,Weber County,Wall Ave at 22nd St,"Crash
 NB Wall Ave at 22nd St Weber Co.
 Est. Clearance Time: 5:00 PM","3/7/24, 4:01 PM","3/7/24, 5:00 PM","3/7/24, 4:01 PM",,41.227045,-111.978726
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176461,Incidents,I-70,Sevier County,I-70 at MP 32,"Crash
 EB I-70 at MP 32 (5 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 5:00 PM","3/7/24, 2:52 PM","3/7/24, 5:00 PM","3/7/24, 4:11 PM",,38.686774,-112.153815
@@ -13004,5 +13003,13 @@ Est. Clearance Time: 5:00 PM","3/7/24, 4:07 PM","3/7/24, 5:00 PM","3/7/24, 4:07 
 UT-Incident--176465,Incidents,SR 113,Wasatch County,SR 113 at MP 1,"Crash
 SR 113 at MP 1 (3000 S) Wasatch Co.
 Est. Clearance Time: 4:45 PM","3/7/24, 3:53 PM","3/7/24, 4:45 PM","3/7/24, 3:53 PM",,40.470096,-111.471713
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176469,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at MP 280 (Lehi) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 7:15 PM","3/7/24, 6:15 PM","3/7/24, 7:15 PM","3/7/24, 6:15 PM",View on map,40.39191,-111.835579
+UT-Incident--176470,Incidents,MAIN ST,Davis County,MAIN ST 701,"Crash
+SB Main St at King St Davis Co.
+Est. Clearance Time: 7:30 PM","3/7/24, 6:26 PM","3/7/24, 7:30 PM","3/7/24, 6:28 PM",View on map,41.068985,-111.974915
 UT-Incident--176468,Incidents,SR 266,Salt Lake County,SR 266 at MP 4,"Crash
-EB SR 266 (4500 S) Closed at MP 4 (State Street) Salt Lake Co.","3/7/24, 4:51 PM","3/7/24, 7:00 PM","3/7/24, 4:51 PM",,40.674338,-111.879449
+EB SR 266 (4500 S) Closed at MP 4 (State Street) Salt Lake Co.","3/7/24, 4:51 PM","3/7/24, 7:00 PM","3/7/24, 4:51 PM",View on map,40.674338,-111.879449
