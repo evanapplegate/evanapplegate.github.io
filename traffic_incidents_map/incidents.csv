@@ -12999,10 +12999,10 @@ UT-Incident--176467,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","3/7/24, 4:07 PM","3/7/24, 5:00 PM","3/7/24, 4:07 PM",,40.719771,-111.855009
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176465,Incidents,SR 113,Wasatch County,SR 113 at MP 1,"Crash
 SR 113 at MP 1 (3000 S) Wasatch Co.
 Est. Clearance Time: 4:45 PM","3/7/24, 3:53 PM","3/7/24, 4:45 PM","3/7/24, 3:53 PM",,40.470096,-111.471713
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176469,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
@@ -13013,3 +13013,6 @@ SB Main St at King St Davis Co.
 Est. Clearance Time: 7:30 PM","3/7/24, 6:26 PM","3/7/24, 7:30 PM","3/7/24, 6:28 PM",View on map,41.068985,-111.974915
 UT-Incident--176468,Incidents,SR 266,Salt Lake County,SR 266 at MP 4,"Crash
 EB SR 266 (4500 S) Closed at MP 4 (State Street) Salt Lake Co.","3/7/24, 4:51 PM","3/7/24, 7:00 PM","3/7/24, 4:51 PM",View on map,40.674338,-111.879449
+UT-Incident--176471,Incidents,SR 77,Utah County,SR 77 at MP 1,"Crash
+SR 77 at MP 1 (5600 S) Utah Co.
+Est. Clearance Time: 7:45 PM","3/7/24, 6:32 PM","3/7/24, 7:45 PM","3/7/24, 6:32 PM",View on map,40.129164,-111.730433
