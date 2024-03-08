@@ -13002,7 +13002,6 @@ Est. Clearance Time: 5:00 PM","3/7/24, 4:07 PM","3/7/24, 5:00 PM","3/7/24, 4:07 
 UT-Incident--176465,Incidents,SR 113,Wasatch County,SR 113 at MP 1,"Crash
 SR 113 at MP 1 (3000 S) Wasatch Co.
 Est. Clearance Time: 4:45 PM","3/7/24, 3:53 PM","3/7/24, 4:45 PM","3/7/24, 3:53 PM",,40.470096,-111.471713
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176469,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Left Lane Closed
@@ -13013,6 +13012,7 @@ Est. Clearance Time: 7:30 PM","3/7/24, 6:26 PM","3/7/24, 7:30 PM","3/7/24, 6:28 
 UT-Incident--176471,Incidents,SR 77,Utah County,SR 77 at MP 1,"Crash
 SR 77 at MP 1 (5600 S) Utah Co.
 Est. Clearance Time: 7:45 PM","3/7/24, 6:32 PM","3/7/24, 7:45 PM","3/7/24, 6:32 PM",View on map,40.129164,-111.730433
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176472,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 NB I-15 Onramp at MP 260 (400 S / Springville) Utah Co.
