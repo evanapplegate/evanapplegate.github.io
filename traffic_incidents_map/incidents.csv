@@ -13074,7 +13074,6 @@ UT-Incident--176486,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Stalled Vehi
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","3/8/24, 9:09 AM","3/8/24, 11:30 AM","3/8/24, 10:51 AM",View on map,40.713146,-111.819005
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176491,Incidents,200 S,Iron County,200 S at MAIN ST,"Crash
 WB 200 S at MAIN ST Iron Co.
 Est. Clearance Time: 12:51 PM","3/8/24, 11:22 AM","3/8/24, 12:51 PM","3/8/24, 11:22 AM",View on map,37.839662,-112.827127
@@ -13083,11 +13082,12 @@ SB US 89 at MP 404 (ANtelope Dr/Layton) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:48 AM","3/8/24, 10:49 AM","3/8/24, 11:48 AM","3/8/24, 10:49 AM",View on map,41.103305,-111.910202
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176492,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Debris
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 12:28 PM","3/8/24, 11:28 AM","3/8/24, 12:28 PM","3/8/24, 11:28 AM",View on map,40.550055,-111.896336
 UT-Incident--176493,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St Exit) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 1:05 PM","3/8/24, 12:06 PM","3/8/24, 1:05 PM","3/8/24, 12:06 PM",View on map,40.718459,-111.873941
+Exit Closed
+Est. Clearance Time: 1:05 PM","3/8/24, 12:06 PM","3/8/24, 1:05 PM","3/8/24, 12:39 PM",View on map,40.718459,-111.873941
