@@ -13039,7 +13039,6 @@ UT-Incident--176481,Incidents,I-15,Utah County,I-15 at MP 278,"Stalled Vehicle
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:01 AM","3/8/24, 8:02 AM","3/8/24, 9:01 AM","3/8/24, 8:02 AM",View on map,40.373184,-111.808465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176482,Incidents,I-15,Utah County,I-15 at MP 269,"Stalled Vehicle
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
@@ -13049,10 +13048,15 @@ UT-Incident--176483,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Medical
 SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:40 AM","3/8/24, 8:42 AM","3/8/24, 9:40 AM","3/8/24, 8:42 AM",View on map,40.659924,-111.952783
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176479,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
 WB I-80 at MP 113 (5600 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 8:38 AM","3/8/24, 7:38 AM","3/8/24, 8:38 AM","3/8/24, 7:38 AM",View on map,40.771201,-112.028497
+Est. Clearance Time: 9:45 AM","3/8/24, 7:38 AM","3/8/24, 9:45 AM","3/8/24, 9:01 AM",,40.771201,-112.028497
+UT-Incident--176485,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 7800 S,"Crash
+NB Redwood Rd at 7800 S Salt Lake Co.
+NB 2 Left Lanes Closed
+Est. Clearance Time: 9:52 AM","3/8/24, 8:54 AM","3/8/24, 9:52 AM","3/8/24, 9:00 AM",,40.610961,-111.938764
 UT-Incident--176480,Incidents,SR 32,Summit County,SR 32 at MP 21,"Crash
 Other SR 32 at MP 21 (Peoa) Summit Co.
-Est. Clearance Time: 8:57 AM","3/8/24, 7:58 AM","3/8/24, 8:57 AM","3/8/24, 7:58 AM",View on map,40.725814,-111.342422
+Est. Clearance Time: 8:57 AM","3/8/24, 7:58 AM","3/8/24, 8:57 AM","3/8/24, 7:58 AM",,40.725814,-111.342422
