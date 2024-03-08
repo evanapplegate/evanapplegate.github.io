@@ -13089,11 +13089,15 @@ UT-Incident--176493,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St Exit) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:05 PM","3/8/24, 12:06 PM","3/8/24, 2:05 PM","3/8/24, 1:42 PM",View on map,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176496,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 9000 S,"Stalled Vehicle
 NB Bangerter Hwy at 8500 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:53 PM","3/8/24, 1:54 PM","3/8/24, 2:53 PM","3/8/24, 1:54 PM",,40.587839,-111.977141
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176494,Incidents,US 6,Utah County,US 6 at MP 187,"Crash
+WB US 6 at MP 187 (Thistle US-89 Jct) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1:58 PM","3/8/24, 12:59 PM","3/8/24, 1:58 PM","3/8/24, 12:59 PM",View on map,39.998056,-111.476906
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176495,Incidents,900 E,Salt Lake County,900 E at Fort Union Blvd,"Crash
 NB 900 E at Fort Union Blvd Salt Lake Co.
@@ -13103,7 +13107,3 @@ UT-Incident--176497,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 SB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Right Lane Closed
 Est. Clearance Time: 2:58 PM","3/8/24, 1:59 PM","3/8/24, 2:58 PM","3/8/24, 1:59 PM",View on map,39.775857,-111.839015
-UT-Incident--176494,Incidents,US 6,Utah County,US 6 at MP 187,"Crash
-WB US 6 at MP 187 (Thistle US-89 Jct) Utah Co.
-Right Shoulder
-Est. Clearance Time: 1:58 PM","3/8/24, 12:59 PM","3/8/24, 1:58 PM","3/8/24, 12:59 PM",View on map,39.998056,-111.476906
