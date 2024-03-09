@@ -13139,7 +13139,6 @@ UT-Incident--176507,Incidents,SR 26,Weber County,SR 26 at MP 2,"Crash
 WB SR 26 at MP 2 (700 W Riverdale) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:35 PM","3/8/24, 5:23 PM","3/8/24, 6:35 PM","3/8/24, 5:23 PM",View on map,41.181401,-111.992376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176510,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Stalled Vehicle
 NB I-15 at MP 289 On Ramp (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
@@ -13152,3 +13151,7 @@ Est. Clearance Time: 7:15 PM","3/8/24, 6:14 PM","3/8/24, 7:15 PM","3/8/24, 6:16 
 UT-Incident--176508,Incidents,I-15,Washington County,I-15 at MP 25,"Crash
 Both Directions I-15 at MP 25 (2 mi NE of Leeds) Washington Co.
 Est. Clearance Time: 7:00 PM","3/8/24, 5:50 PM","3/8/24, 7:00 PM","3/8/24, 5:50 PM",,37.256022,-113.335109
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176511,Incidents,Main St,Davis County,Main St at 825 N,"Crash
+Both Directions Main St at 900 N (Sunset) Davis Co.
+Est. Clearance Time: 8:15 PM","3/8/24, 7:12 PM","3/8/24, 8:15 PM","3/8/24, 7:12 PM",View on map,0.0,0.0
