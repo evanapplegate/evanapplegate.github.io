@@ -13180,19 +13180,18 @@ UT-Incident--176518,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8600 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 1:06 PM","3/9/24, 12:07 PM","3/9/24, 1:06 PM","3/9/24, 12:10 PM",View on map,40.592858,-111.902495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176522,Incidents,SR 26,Weber County,SR 26 at MP 2,"Crash
 WB SR 26 at MP 2 (700 W Riverdale) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 3:00 PM","3/9/24, 1:53 PM","3/9/24, 3:00 PM","3/9/24, 1:53 PM",View on map,41.181401,-111.992376
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176520,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
-NB I-15 at MP 300 (5200 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:34 PM","3/9/24, 1:36 PM","3/9/24, 3:34 PM","3/9/24, 2:37 PM",View on map,40.649847,-111.90236
 UT-Incident--176519,Incidents,SR 92,Utah County,SR 92 at MP 8,"Crash
 EB SR 92 at MP 8 (Mouth of the Canyon) Utah Co.
 Est. Clearance Time: 1:44 PM","3/9/24, 12:51 PM","3/9/24, 1:44 PM","3/9/24, 12:51 PM",View on map,40.433642,-111.742831
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176520,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5200 S) Salt Lake Co.
+Est. Clearance Time: 3:34 PM","3/9/24, 1:36 PM","3/9/24, 3:34 PM","3/9/24, 3:01 PM",View on map,40.649847,-111.90236
 UT-Incident--176521,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 SB US 89 at MP 406  On Ramp (I- 84 Jct / Weber Drive) Davis Co.
 Est. Clearance Time: 2:55 PM","3/9/24, 1:45 PM","3/9/24, 2:55 PM","3/9/24, 1:45 PM",View on map,41.131604,-111.910087
