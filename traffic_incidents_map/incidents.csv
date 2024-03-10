@@ -13194,7 +13194,6 @@ UT-Incident--176523,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 9000 S,"
 Both Directions Redwood Rd at 9000 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:05 PM","3/9/24, 3:06 PM","3/9/24, 4:05 PM","3/9/24, 3:06 PM",,40.591303,-111.938738
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176521,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 SB US 89 at MP 406  On Ramp (I- 84 Jct / Weber Drive) Davis Co.
 Est. Clearance Time: 2:55 PM","3/9/24, 1:45 PM","3/9/24, 5:00 PM","3/9/24, 4:08 PM",View on map,41.131604,-111.910087
@@ -13215,3 +13214,4 @@ UT-Incident--176527,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:45 PM","3/9/24, 4:43 PM","3/9/24, 5:45 PM","3/9/24, 4:43 PM",View on map,40.53585,-111.892927
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
