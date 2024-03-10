@@ -13197,7 +13197,6 @@ Est. Clearance Time: 4:05 PM","3/9/24, 3:06 PM","3/9/24, 4:05 PM","3/9/24, 3:06 
 UT-Incident--176521,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 SB US 89 at MP 406  On Ramp (I- 84 Jct / Weber Drive) Davis Co.
 Est. Clearance Time: 2:55 PM","3/9/24, 1:45 PM","3/9/24, 5:00 PM","3/9/24, 4:08 PM",View on map,41.131604,-111.910087
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176526,Incidents,200 N,Davis County,200 N at Main St,"Crash
 EB 200 N at Main St Davis Co.
 2 Left Lanes Closed
@@ -13215,3 +13214,8 @@ SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:45 PM","3/9/24, 4:43 PM","3/9/24, 5:45 PM","3/9/24, 4:43 PM",View on map,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176528,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
+SB I-215 W at MP 17 On Ramp (3500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","3/9/24, 5:34 PM","3/9/24, 6:45 PM","3/9/24, 5:34 PM",View on map,40.688869,-111.951947
