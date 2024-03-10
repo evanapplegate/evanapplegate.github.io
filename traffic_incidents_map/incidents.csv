@@ -13286,7 +13286,6 @@ Est. Clearance Time: 3:10 PM","3/10/24, 2:10 PM","3/10/24, 3:10 PM","3/10/24, 2:
 UT-Incident--176548,Incidents,State St,Davis County,State St at 1000 E,"Crash
 NB State St at 1265 S (Clearfield) Davis County
 Use Alt Route","3/10/24, 2:20 PM","3/10/24, 3:19 PM","3/10/24, 2:27 PM",,41.097127,-112.009006
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176550,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Stalled Vehicle
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
@@ -13295,6 +13294,7 @@ UT-Incident--176551,Incidents,SR 201,Salt Lake County,SR 201 at MP 7,"Crash
 EB SR 201 at MP 7 (8000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:12 PM","3/10/24, 3:12 PM","3/10/24, 4:12 PM","3/10/24, 3:12 PM",,40.717582,-112.095201
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176549,Incidents,I-15,Utah County,I-15 at MP 265,"Stalled Vehicle
 NB I-15 at MP 265 (Center St / Provo) Utah Co.
