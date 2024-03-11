@@ -13317,7 +13317,6 @@ UT-Incident--176552,Incidents,Vine St,Salt Lake County,Vine St 1925,"Signal prob
 All Directions Van Winkle  at 6100 S (Holladay) Salt Lake Co.
 Est. Clearance Time: 4:30 PM","3/10/24, 3:25 PM","3/10/24, 4:30 PM","3/10/24, 3:25 PM",,40.640686,-111.836346
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176559,Incidents,I-15,Juab County,I-15 at MP 200,"Debris
 SB I-15 at MP 200 (12 mi N of Scipio) Juab Co.
 Right Shoulder
@@ -13326,3 +13325,4 @@ UT-Incident--176560,Incidents,I-15,Weber County,I-15 at MP 339,"Stalled Vehicle
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:28 PM","3/10/24, 6:29 PM","3/10/24, 7:28 PM","3/10/24, 6:29 PM",,41.169225,-112.020449
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
