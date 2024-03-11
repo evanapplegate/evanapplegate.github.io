@@ -13375,13 +13375,28 @@ UT-Incident--176573,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:31 PM","3/11/24, 2:32 PM","3/11/24, 3:31 PM","3/11/24, 2:32 PM",,40.679062,-111.902181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176574,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 EB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:11 PM","3/11/24, 3:13 PM","3/11/24, 4:11 PM","3/11/24, 3:24 PM",,40.725537,-111.91064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--176577,Incidents,HWY179 MIDVALLEY HIGHWAY,Tooele County,HWY179 MIDVALLEY HIGHWAY at HWY 138 TO I-80,"Crash
+NB Hwy 179 at Parachute Park Ln Tooele Co.
+Left Lane Closed
+Est. Clearance Time: 5:15 PM","3/11/24, 4:12 PM","3/11/24, 5:15 PM",,,40.62312,-112.358904
+UT-Incident--176576,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+Ramp I-15 at MP 284 (SR-92 Exit) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:07 PM","3/11/24, 4:08 PM","3/11/24, 5:07 PM",,,40.431127,-111.890772
+UT-Incident--176579,Incidents,I-15,Utah County,I-15 at MP 257,"Stalled Vehicle
+Ramp I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Est. Clearance Time: 5:16 PM","3/11/24, 4:16 PM","3/11/24, 5:16 PM",,,40.122652,-111.658929
+UT-Incident--176578,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
+EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:13 PM","3/11/24, 4:15 PM","3/11/24, 5:13 PM",,,40.630157,-111.858352
 UT-Incident--176575,Incidents,SUNSET BLVD,Washington County,SUNSET BLVD at DIXIE DOWNS RD/DIXIE DR,"Crash
 WB Sunset Blvd at 1620 W (Saint George) Washington Co.
 Right Lane Closed
-Est. Clearance Time: 5:15 PM","3/11/24, 4:00 PM","3/11/24, 5:15 PM","3/11/24, 4:00 PM",,37.122734,-113.618329
+Est. Clearance Time: 5:15 PM","3/11/24, 4:00 PM","3/11/24, 5:15 PM",,,37.122734,-113.618329
