@@ -13336,12 +13336,20 @@ UT-Incident--176563,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 EB I-80 at MP 124 (600 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:54 AM","3/11/24, 2:56 AM","3/11/24, 3:54 AM","3/11/24, 3:03 AM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176564,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 NB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 5:37 AM","3/11/24, 4:38 AM","3/11/24, 5:37 AM","3/11/24, 4:38 AM",,40.900348,-111.893142
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176567,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Fire affecting roadway
+SB I-215 W at MP 18 (2900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:30 AM","3/11/24, 6:03 AM","3/11/24, 7:30 AM","3/11/24, 6:03 AM",,40.703296,-111.95315
 UT-Incident--176565,Incidents,I-80,Tooele County,I-80 at MP 80,"Crash
 WB I-80 at MP 80 (3 mi E of Skull Valley Rd) Tooele Co.
 Est. Clearance Time: 5:56 AM","3/11/24, 4:57 AM","3/11/24, 5:56 AM","3/11/24, 4:57 AM",,40.730247,-112.587912
+UT-Incident--176566,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Crash
+SB Legacy Pkwy at MP 2 (900 N) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:55 AM","3/11/24, 5:52 AM","3/11/24, 6:55 AM","3/11/24, 5:52 AM",,40.855369,-111.943437
