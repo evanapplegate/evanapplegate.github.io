@@ -13502,7 +13502,6 @@ UT-Incident--176614,Incidents,SR 26,Weber County,SR 26 at MP 2,"Crash
 NB SR 26 at MP 2 (700 W Riverdale) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","3/12/24, 4:07 PM","3/12/24, 5:15 PM",,,41.181401,-111.992376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176612,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80  to SB I-215 W Salt Lake Co.
 Est. Clearance Time: 4:45 PM","3/12/24, 3:43 PM","3/12/24, 5:30 PM",,,40.76173,-111.951675
@@ -13515,6 +13514,11 @@ Both Directions WASHINGTON BLVD Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:35 PM","3/12/24, 4:23 PM","3/12/24, 5:35 PM",,,41.204119,-111.970861
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176617,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:15 PM","3/12/24, 5:07 PM","3/12/24, 6:15 PM","3/12/24, 5:07 PM",,40.707874,-111.90397
 UT-Incident--176611,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W Salt Lake Co.
 Est. Clearance Time: 6:15 PM","3/12/24, 3:16 PM","3/12/24, 6:15 PM","3/12/24, 4:16 PM",,40.762809,-111.951976
