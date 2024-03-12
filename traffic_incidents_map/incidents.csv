@@ -13431,7 +13431,6 @@ Est. Clearance Time: 8:45 AM","3/12/24, 7:12 AM","3/12/24, 8:45 AM","3/12/24, 8:
 UT-Incident--176592,Incidents,I-84,Morgan County,I-84 at MP 100,"Crash
 EB I-84 at MP 100 (Morgan) Morgan Co.
 Est. Clearance Time: 8:15 AM","3/12/24, 7:15 AM","3/12/24, 8:15 AM","3/12/24, 7:15 AM",,41.07759,-111.723102
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176594,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
@@ -13441,9 +13440,6 @@ NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:45 AM","3/12/24, 7:34 AM","3/12/24, 8:45 AM","3/12/24, 7:42 AM",,40.431127,-111.890772
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176596,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Crash
-NB Harrison Blvd Weber Co.
-Est. Clearance Time: 9:40 AM","3/12/24, 8:37 AM","3/12/24, 9:40 AM","3/12/24, 8:37 AM",,41.168054,-111.944821
 UT-Incident--176593,Incidents,I-15,Utah County,I-15 at MP 251,"Crash
 NB I-15 at MP 251 (Main St /Payson) Utah Co.
 Right Shoulder
@@ -13451,3 +13447,11 @@ Est. Clearance Time: 9:50 AM","3/12/24, 7:19 AM","3/12/24, 9:50 AM","3/12/24, 8:
 UT-Incident--176590,Incidents,US 6,Utah County,US 6 at MP 179,"NB US 89  Closed
  at MP 179 (Utah County)
 Use Alt Route","3/12/24, 5:02 AM","3/12/24, 8:45 AM","3/12/24, 7:59 AM",,40.069955,-111.575639
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176596,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Crash
+NB Harrison Blvd Weber Co.
+Est. Clearance Time: 9:40 AM","3/12/24, 8:37 AM","3/12/24, 9:40 AM","3/12/24, 8:37 AM",,41.168054,-111.944821
+UT-Incident--176597,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:00 AM","3/12/24, 8:57 AM","3/12/24, 10:00 AM","3/12/24, 8:57 AM",,40.72606,-111.962907
