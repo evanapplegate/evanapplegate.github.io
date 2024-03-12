@@ -13450,7 +13450,6 @@ UT-Incident--176596,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Cra
 NB Harrison Blvd Weber Co.
 Est. Clearance Time: 9:40 AM","3/12/24, 8:37 AM","3/12/24, 9:40 AM","3/12/24, 8:37 AM",,41.168054,-111.944821
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176598,Incidents,I-15 NB X305B OFF 2100 S RAMP,Salt Lake County,I-15 NB X305B OFF 2100 S RAMP at 2100 S,"Crash
 NB I-15 2100 S Off Ramp (Salt Lake County)
 Est. Clearance Time: 10:30 AM","3/12/24, 9:24 AM","3/12/24, 10:30 AM","3/12/24, 9:24 AM",,40.725716,-111.90348
@@ -13458,3 +13457,4 @@ UT-Incident--176597,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","3/12/24, 8:57 AM","3/12/24, 10:00 AM","3/12/24, 8:57 AM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
