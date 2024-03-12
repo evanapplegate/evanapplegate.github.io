@@ -13514,6 +13514,9 @@ Both Directions WASHINGTON BLVD Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:35 PM","3/12/24, 4:23 PM","3/12/24, 5:35 PM",,,41.204119,-111.970861
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176605,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
+SB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
+Est. Clearance Time: 6:00 PM","3/12/24, 1:18 PM","3/12/24, 6:00 PM","3/12/24, 4:18 PM",,40.446013,-111.477114
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176620,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 12,"Stalled Vehicle
 NB Bangerter Hwy at MP 12 (8300 S) Salt Lake Co.
@@ -13527,12 +13530,21 @@ UT-Incident--176619,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:35 PM","3/12/24, 5:25 PM","3/12/24, 6:35 PM","3/12/24, 5:25 PM",,40.431127,-111.890772
+UT-Incident--176621,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:30 PM","3/12/24, 5:29 PM","3/12/24, 6:30 PM","3/12/24, 5:29 PM",,40.736823,-111.90475
+UT-Incident--176623,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:45 PM","3/12/24, 5:37 PM","3/12/24, 6:45 PM","3/12/24, 5:37 PM",,40.664677,-111.90152
 UT-Incident--176618,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Debris
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Est. Clearance Time: 6:35 PM","3/12/24, 5:22 PM","3/12/24, 6:35 PM","3/12/24, 5:22 PM",,40.674449,-111.952751
+UT-Incident--176622,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
+SB I-215 W at MP 26 (2800 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:30 PM","3/12/24, 5:31 PM","3/12/24, 6:30 PM","3/12/24, 5:31 PM",,40.817974,-111.949525
 UT-Incident--176611,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W Salt Lake Co.
 Est. Clearance Time: 6:15 PM","3/12/24, 3:16 PM","3/12/24, 6:15 PM","3/12/24, 4:16 PM",,40.762809,-111.951976
-UT-Incident--176605,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
-SB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
-Est. Clearance Time: 6:00 PM","3/12/24, 1:18 PM","3/12/24, 6:00 PM","3/12/24, 4:18 PM",,40.446013,-111.477114
