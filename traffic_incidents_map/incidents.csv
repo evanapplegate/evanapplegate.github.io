@@ -13406,7 +13406,6 @@ UT-Incident--176578,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","3/11/24, 4:15 PM","3/11/24, 5:35 PM","3/11/24, 5:07 PM",,40.630157,-111.858352
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176585,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -13420,3 +13419,4 @@ UT-Incident--176586,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:04 PM","3/11/24, 6:05 PM","3/11/24, 7:04 PM","3/11/24, 6:05 PM",,40.664677,-111.90152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
