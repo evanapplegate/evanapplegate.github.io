@@ -13439,7 +13439,6 @@ UT-Incident--176595,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:45 AM","3/12/24, 7:34 AM","3/12/24, 8:45 AM","3/12/24, 7:42 AM",,40.431127,-111.890772
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176593,Incidents,I-15,Utah County,I-15 at MP 251,"Crash
 NB I-15 at MP 251 (Main St /Payson) Utah Co.
 Right Shoulder
@@ -13451,6 +13450,7 @@ Use Alt Route","3/12/24, 5:02 AM","3/12/24, 8:45 AM","3/12/24, 7:59 AM",,40.0699
 UT-Incident--176596,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Crash
 NB Harrison Blvd Weber Co.
 Est. Clearance Time: 9:40 AM","3/12/24, 8:37 AM","3/12/24, 9:40 AM","3/12/24, 8:37 AM",,41.168054,-111.944821
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176597,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
