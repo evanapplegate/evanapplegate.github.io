@@ -13495,25 +13495,25 @@ UT-Incident--176610,Incidents,Minersville Hwy,Iron County,Minersville Hwy at Mid
 NB Minersville Hwy at Midvalley Rd Iron Co.
 Right Lane Closed
 Est. Clearance Time: 4:15 PM","3/12/24, 3:14 PM","3/12/24, 4:15 PM","3/12/24, 3:14 PM",,37.764731,-113.055276
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176613,Incidents,1000 N,Tooele County,1000 N at Main St,"Crash
 EB 1000 N at Main St Tooele Co.
 Est. Clearance Time: 4:55 PM","3/12/24, 3:50 PM","3/12/24, 4:55 PM",,,40.551028,-112.299148
+UT-Incident--176614,Incidents,SR 26,Weber County,SR 26 at MP 2,"Crash
+NB SR 26 at MP 2 (700 W Riverdale) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:15 PM","3/12/24, 4:07 PM","3/12/24, 5:15 PM",,,41.181401,-111.992376
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176611,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W Salt Lake Co.
 Est. Clearance Time: 6:15 PM","3/12/24, 3:16 PM","3/12/24, 6:15 PM",,,40.762809,-111.951976
 UT-Incident--176612,Incidents,I-80 WB X117 TO I-215 W SB COL RAMP,Salt Lake County,I-80 WB X117 TO I-215 W SB COL RAMP at I-215 W SB,"Crash
 WB I-80  to SB I-215 W Salt Lake Co.
-Est. Clearance Time: 4:45 PM","3/12/24, 3:43 PM","3/12/24, 4:45 PM",,,40.76173,-111.951675
+Est. Clearance Time: 4:45 PM","3/12/24, 3:43 PM","3/12/24, 5:30 PM",,,40.76173,-111.951675
 UT-Incident--176615,Incidents,SR 104,Weber County,SR 104 at MP 3,"Crash
 NB SR 104 at MP 3 (WB 20th St Viaduct) Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 5:35 PM","3/12/24, 4:15 PM","3/12/24, 5:35 PM",,,41.231368,-111.989715
-UT-Incident--176614,Incidents,SR 26,Weber County,SR 26 at MP 2,"Crash
-NB SR 26 at MP 2 (700 W Riverdale) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 5:15 PM","3/12/24, 4:07 PM","3/12/24, 5:15 PM",,,41.181401,-111.992376
 UT-Incident--176605,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 SB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 6:00 PM","3/12/24, 1:18 PM","3/12/24, 6:00 PM",,,40.446013,-111.477114
