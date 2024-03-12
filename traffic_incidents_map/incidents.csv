@@ -13457,7 +13457,6 @@ EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","3/12/24, 8:57 AM","3/12/24, 10:00 AM","3/12/24, 8:57 AM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176599,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Lane Closed
@@ -13465,3 +13464,8 @@ Est. Clearance Time: 10:45 AM","3/12/24, 9:45 AM","3/12/24, 10:45 AM","3/12/24, 
 UT-Incident--176600,Incidents,I-84,Morgan County,I-84 at MP 93,"Crash
 EB I-84 at MP 93 (Mountain Green) Morgan Co.
 Est. Clearance Time: 11:15 AM","3/12/24, 10:15 AM","3/12/24, 11:15 AM","3/12/24, 10:15 AM",,41.139245,-111.816202
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176601,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
+EB Washington Blvd at 40th St Weber Co.
+Right Lane Closed
+Est. Clearance Time: 12:15 PM","3/12/24, 11:00 AM","3/12/24, 12:15 PM","3/12/24, 11:00 AM",,41.190563,-111.97117
