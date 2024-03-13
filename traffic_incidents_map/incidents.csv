@@ -13728,7 +13728,6 @@ UT-Incident--176684,Incidents,REDWOOD RD,Utah County,REDWOOD RD at 400 N,"Crash
 NB Redwood Rd at 400 N (Saratoga Springs) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","3/13/24, 11:45 AM","3/13/24, 12:45 PM","3/13/24, 11:45 AM",,40.36981,-111.916385
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176685,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Est. Clearance Time: 1:00 PM","3/13/24, 11:49 AM","3/13/24, 1:00 PM","3/13/24, 11:49 AM",,39.221972,-112.152676
@@ -13740,6 +13739,7 @@ UT-Incident--176687,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:09 PM","3/13/24, 12:10 PM","3/13/24, 1:09 PM","3/13/24, 12:10 PM",,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176689,Incidents,I-15,Iron County,I-15 at MP 43,"Crash
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Left Shoulder
