@@ -13637,6 +13637,9 @@ SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:15 AM","3/13/24, 8:04 AM","3/13/24, 9:15 AM","3/13/24, 8:04 AM",,40.885849,-111.896677
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176657,Incidents,SR 132,Sanpete County,SR 132 at MP 43,"Crash
+SR 132 at MP 43 (3.5 MI of Fountian Green) Sanpete Co.
+Est. Clearance Time: 8:15 AM","3/13/24, 6:54 AM","3/13/24, 8:15 AM","3/13/24, 6:54 AM",,39.683402,-111.675461
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176666,Incidents,CEDAR FORT RD,Utah County,CEDAR FORT RD 11801,"Crash
 EB SR-73 Cory Wride Hwy at Mt Airey Dr (Eagle Mountain) Utah Co.
@@ -13644,7 +13647,7 @@ Est. Clearance Time: 9:30 AM","3/13/24, 8:27 AM","3/13/24, 9:30 AM","3/13/24, 8:
 UT-Incident--176655,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Geneva Rd / Orem) Utah Co.
 Right Lane Closed
-Est. Clearance Time: 7:30 AM","3/13/24, 6:27 AM","3/13/24, 7:30 AM","3/13/24, 8:04 AM",,40.328045,-111.73498
+Est. Clearance Time: 9:30 AM","3/13/24, 6:27 AM","3/13/24, 9:30 AM","3/13/24, 8:30 AM",,40.328045,-111.73498
 UT-Incident--176658,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Geneva Rd / Orem) Utah Co.
 Right Shoulder
@@ -13663,12 +13666,20 @@ UT-Incident--176667,Incidents,I-15,Millard County,I-15 at MP 140,"Crash
 NB I-15 at MP 140 (6 mi N of Cove Fort) Millard Co.
 Left Shoulder
 Est. Clearance Time: 9:30 AM","3/13/24, 8:29 AM","3/13/24, 9:30 AM","3/13/24, 8:29 AM",,38.682888,-112.599126
+UT-Incident--176668,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+SB I-15 at MP 272 (1600 N / Orem) Utah Co.
+HOV Lane Closed
+Est. Clearance Time: 9:45 AM","3/13/24, 8:33 AM","3/13/24, 9:45 AM","3/13/24, 8:34 AM",,40.319531,-111.726271
+UT-Incident--176669,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (California Ave) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:45 AM","3/13/24, 8:41 AM","3/13/24, 9:45 AM","3/13/24, 8:41 AM",,40.751263,-111.948926
 UT-Incident--176661,Incidents,I-70,Sevier County,I-70 at MP 25,"Crash
 WB I-70 at MP 25 (12 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 8:45 AM","3/13/24, 7:47 AM","3/13/24, 8:45 AM","3/13/24, 8:01 AM",,38.614303,-112.230845
 UT-Incident--176656,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
-Est. Clearance Time: 7:45 AM","3/13/24, 6:39 AM","3/13/24, 7:45 AM","3/13/24, 6:39 AM",,40.733836,-112.201288
+Est. Clearance Time: 9:45 AM","3/13/24, 6:39 AM","3/13/24, 9:45 AM","3/13/24, 8:30 AM",,40.733836,-112.201288
 UT-Incident--176654,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
 SR-36 Ramp to EB I-80 (Lakepoint) Tooele Co.
 Cleared at 7:33 AM, Expect Residual Delays","3/13/24, 6:25 AM","3/13/24, 7:30 AM","3/13/24, 7:33 AM",,40.695533,-112.261747
@@ -13676,9 +13687,6 @@ UT-Incident--176663,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy at 3500 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:00 AM","3/13/24, 8:00 AM","3/13/24, 9:00 AM","3/13/24, 8:18 AM",,40.696708,-111.938901
-UT-Incident--176657,Incidents,SR 132,Sanpete County,SR 132 at MP 43,"Crash
-SR 132 at MP 43 (3.5 MI of Fountian Green) Sanpete Co.
-Est. Clearance Time: 8:15 AM","3/13/24, 6:54 AM","3/13/24, 8:15 AM","3/13/24, 6:54 AM",,39.683402,-111.675461
 UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/24, 12:00 PM","3/12/24, 7:51 PM",,40.619107,-111.786281
