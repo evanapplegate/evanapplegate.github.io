@@ -13616,18 +13616,21 @@ UT-Incident--176649,Incidents,US 40,Uintah County,US 40 at MP 140,"Crash
 Both Directions US 40 at MP 140 (2 Mi W of Vernal) Uintah Co.
 Est. Clearance Time: 1:43 AM","3/13/24, 12:45 AM","3/13/24, 1:43 AM","3/13/24, 12:45 AM",,40.415534,-109.582896
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176652,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
+EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 7:00 AM","3/13/24, 5:59 AM","3/13/24, 7:00 AM","3/13/24, 5:59 AM",,40.753834,-111.620984
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176653,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
 SR-112 at Utah Ave (Tooele) Tooele Co.
 Est. Clearance Time: 7:15 AM","3/13/24, 6:07 AM","3/13/24, 7:15 AM","3/13/24, 6:07 AM",,40.548316,-112.342029
 UT-Incident--176655,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 7:30 AM","3/13/24, 6:27 AM","3/13/24, 7:30 AM","3/13/24, 6:32 AM",,40.328045,-111.73498
-UT-Incident--176652,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
-EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 7:00 AM","3/13/24, 5:59 AM","3/13/24, 7:00 AM","3/13/24, 5:59 AM",,40.753834,-111.620984
+2 Right Lanes Closed
+Est. Clearance Time: 7:30 AM","3/13/24, 6:27 AM","3/13/24, 7:30 AM","3/13/24, 6:36 AM",,40.328045,-111.73498
+UT-Incident--176656,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
+WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
+Est. Clearance Time: 7:45 AM","3/13/24, 6:39 AM","3/13/24, 7:45 AM","3/13/24, 6:39 AM",,40.733836,-112.201288
 UT-Incident--176654,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
 SR-36 Ramp to EB I-80 (Lakepoint) Tooele Co.
 Right Lane Closed
