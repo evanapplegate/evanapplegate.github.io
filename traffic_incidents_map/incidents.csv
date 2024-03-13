@@ -13581,11 +13581,14 @@ UT-Incident--176641,Incidents,I-80,Summit County,I-80 at MP 140,"Stalled Vehicle
 WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 PM","3/12/24, 9:33 PM","3/12/24, 10:45 PM","3/12/24, 9:33 PM",,40.750021,-111.604602
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176638,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 10:00 PM","3/12/24, 8:33 PM","3/12/24, 10:00 PM","3/12/24, 10:18 PM",,40.678514,-112.410689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176643,Incidents,US 89,Box Elder County,US 89 at MP 431,"Crash
+SB US 89 at MP 431 (3000 S / Perry) Box Elder Co.
+Est. Clearance Time: 11:00 PM","3/12/24, 9:55 PM","3/12/24, 11:00 PM","3/12/24, 9:55 PM",,41.454315,-112.038678
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176646,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 NB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
@@ -13607,10 +13610,7 @@ Both Directions SR 224 MP 2-4  (Empire Pass) Summit Co.
 Approved Traction Devices Required For AlL Vehicles","3/12/24, 7:39 PM","3/16/24, 12:00 PM","3/12/24, 7:39 PM",,40.624634,-111.501637
 UT-Incident--176639,Incidents,US 40,Uintah County,US 40 at MP 162,"Crash
 US 40 at MP 162 (2 Mi E of Jensen) Uintah Co.
-Est. Clearance Time: 10:00 PM","3/12/24, 8:39 PM","3/12/24, 10:00 PM","3/12/24, 8:39 PM",,40.32883,-109.275367
+Est. Clearance Time: 10:00 PM","3/12/24, 8:39 PM","3/12/24, 11:00 PM","3/12/24, 10:32 PM",,40.32883,-109.275367
 UT-Incident--176645,Incidents,US 40,Wasatch County,US 40 at MP 30,"Crash
 WB US 40 at MP 30 (9 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 11:15 PM","3/12/24, 10:01 PM","3/12/24, 11:15 PM","3/12/24, 10:01 PM",,40.356561,-111.281525
-UT-Incident--176643,Incidents,US 89,Box Elder County,US 89 at MP 431,"Crash
-SB US 89 at MP 431 (3000 S / Perry) Box Elder Co.
-Est. Clearance Time: 11:00 PM","3/12/24, 9:55 PM","3/12/24, 11:00 PM","3/12/24, 9:55 PM",,41.454315,-112.038678
