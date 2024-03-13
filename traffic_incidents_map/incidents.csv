@@ -13534,7 +13534,6 @@ Est. Clearance Time: 6:35 PM","3/12/24, 5:22 PM","3/12/24, 6:35 PM","3/12/24, 5:
 UT-Incident--176611,Incidents,I-80 EB X117 TO I-215W NB RAMP,Salt Lake County,I-80 EB X117 TO I-215W NB RAMP at I-215W NB,"Crash
 EB I-80 TO NB I-215W Salt Lake Co.
 Est. Clearance Time: 6:15 PM","3/12/24, 3:16 PM","3/12/24, 6:15 PM","3/12/24, 4:16 PM",,40.762809,-111.951976
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176619,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 2 Left Lanes Closed
@@ -13568,3 +13567,20 @@ UT-Incident--176632,Incidents,SR 13,Box Elder County,SR 13 at MP 6,"Crash
 WB SR 13 at MP 6 (1 mi W of Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 8:35 PM","3/12/24, 7:29 PM","3/12/24, 8:35 PM","3/12/24, 7:29 PM",,41.537096,-112.074002
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176637,Incidents,500 W,Davis County,500 W at 500 S,"SB 500 W Closed
+ at 500 S Davis Co.
+Use Alt Route","3/12/24, 8:00 PM","3/12/24, 9:05 PM","3/12/24, 8:00 PM",,40.883565,-111.892222
+UT-Incident--176634,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Crash
+SB Legacy Pkwy at MP 1 (Center St) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 8:45 PM","3/12/24, 7:42 PM","3/12/24, 8:45 PM","3/12/24, 7:42 PM",,40.840909,-111.942301
+UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/24, 12:00 PM","3/12/24, 7:51 PM",,40.619107,-111.786281
+UT-Incident--176635,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","3/12/24, 7:49 PM","3/15/24, 6:00 AM","3/12/24, 7:49 PM",,40.572095,-111.773814
+UT-Incident--176633,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 MP 2-4  (Empire Pass) Summit Co.
+Approved Traction Devices Required For AlL Vehicles","3/12/24, 7:39 PM","3/16/24, 12:00 PM","3/12/24, 7:39 PM",,40.624634,-111.501637
