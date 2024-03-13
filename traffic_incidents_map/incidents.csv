@@ -13573,7 +13573,6 @@ UT-Incident--176634,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Cras
 SB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 PM","3/12/24, 7:42 PM","3/12/24, 8:45 PM","3/12/24, 7:42 PM",,40.840909,-111.942301
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176644,Incidents,500 S,Salt Lake County,500 S at 200 W,"Crash
 WB 500 S at 200 W Salt Lake Co.
 Right Lane Closed
@@ -13583,13 +13582,17 @@ WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 PM","3/12/24, 9:33 PM","3/12/24, 10:45 PM","3/12/24, 9:33 PM",,40.750021,-111.604602
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176646,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
-NB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
-Est. Clearance Time: 11:15 PM","3/12/24, 10:10 PM","3/12/24, 11:15 PM","3/12/24, 10:10 PM",,41.414023,-112.050731
 UT-Incident--176638,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 10:00 PM","3/12/24, 8:33 PM","3/12/24, 10:00 PM","3/12/24, 10:18 PM",,40.678514,-112.410689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176646,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
+NB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
+Est. Clearance Time: 11:15 PM","3/12/24, 10:10 PM","3/12/24, 11:15 PM","3/12/24, 10:10 PM",,41.414023,-112.050731
+UT-Incident--176647,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
+NB I-15 Onramp at MP 271 Utah Co.
+Est. Clearance Time: 11:30 PM","3/12/24, 10:24 PM","3/12/24, 11:30 PM","3/12/24, 10:24 PM",,40.301853,-111.72593
 UT-Incident--176642,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 MP 143-128 (Parleys Canyon) Summit Co.
 Approved Traction Devices Required For All Semis.","3/12/24, 9:46 PM","3/17/24, 12:00 PM","3/12/24, 9:46 PM",,40.740161,-111.558358
