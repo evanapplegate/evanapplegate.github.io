@@ -13554,7 +13554,6 @@ UT-Incident--176625,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 WB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","3/12/24, 5:56 PM","3/12/24, 7:00 PM","3/12/24, 5:56 PM",,40.726429,-112.217783
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176631,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -13571,6 +13570,7 @@ Est. Clearance Time: 8:35 PM","3/12/24, 7:29 PM","3/12/24, 8:35 PM","3/12/24, 7:
 UT-Incident--176637,Incidents,500 W,Davis County,500 W at 500 S,"SB 500 W Closed
  at 500 S Davis Co.
 Use Alt Route","3/12/24, 8:00 PM","3/12/24, 9:05 PM","3/12/24, 8:00 PM",,40.883565,-111.892222
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176634,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Crash
 SB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Right Lane Closed
