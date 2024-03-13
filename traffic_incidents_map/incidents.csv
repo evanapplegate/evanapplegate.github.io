@@ -13655,10 +13655,14 @@ UT-Incident--176654,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X9
 SR-36 Ramp to EB I-80 (Lakepoint) Tooele Co.
 Cleared at 7:33 AM, Expect Residual Delays","3/13/24, 6:25 AM","3/13/24, 7:30 AM","3/13/24, 7:33 AM",,40.695533,-112.261747
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176666,Incidents,CEDAR FORT RD,Utah County,CEDAR FORT RD 11801,"Crash
 EB SR-73 Cory Wride Hwy at Mt Airey Dr (Eagle Mountain) Utah Co.
 Est. Clearance Time: 9:30 AM","3/13/24, 8:27 AM","3/13/24, 9:30 AM","3/13/24, 8:27 AM",,40.38289,-111.960893
+UT-Incident--176669,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (California Ave) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:45 AM","3/13/24, 8:41 AM","3/13/24, 9:45 AM","3/13/24, 8:41 AM",,40.751263,-111.948926
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176660,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Cleared at 8:01 AM, Expect Residual Delays","3/13/24, 7:40 AM","3/13/24, 8:45 AM","3/13/24, 8:01 AM",,40.442142,-111.903011
@@ -13673,16 +13677,20 @@ UT-Incident--176668,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 HOV Lane Closed
 Est. Clearance Time: 9:45 AM","3/13/24, 8:33 AM","3/13/24, 9:45 AM","3/13/24, 8:34 AM",,40.319531,-111.726271
-UT-Incident--176669,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
-SB I-215 W at MP 21 (California Ave) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 9:45 AM","3/13/24, 8:41 AM","3/13/24, 9:45 AM","3/13/24, 8:41 AM",,40.751263,-111.948926
+UT-Incident--176672,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:45 AM","3/13/24, 9:39 AM","3/13/24, 10:45 AM","3/13/24, 9:39 AM",,40.343644,-111.759324
 UT-Incident--176661,Incidents,I-70,Sevier County,I-70 at MP 25,"Crash
 WB I-70 at MP 25 (12 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 8:45 AM","3/13/24, 7:47 AM","3/13/24, 8:45 AM","3/13/24, 8:01 AM",,38.614303,-112.230845
 UT-Incident--176656,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Est. Clearance Time: 9:45 AM","3/13/24, 6:39 AM","3/13/24, 9:45 AM","3/13/24, 8:30 AM",,40.733836,-112.201288
+UT-Incident--176671,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
+WB I-80 at MP 112 (7200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:30 AM","3/13/24, 9:33 AM","3/13/24, 10:30 AM","3/13/24, 9:33 AM",,40.771161,-112.0551
 UT-Incident--176663,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 3500 S,"Crash
 SB Mountain View Corridor Hwy at 3500 S Salt Lake Co.
 Right Lane Closed
