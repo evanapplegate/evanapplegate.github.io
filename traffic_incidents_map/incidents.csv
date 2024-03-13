@@ -13783,7 +13783,6 @@ UT-Incident--176700,Incidents,US 40,Uintah County,US 40 at MP 143,"Crash
 NB US 40 at MP 143 (Vernal) Uintah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:25 PM","3/13/24, 4:19 PM","3/13/24, 5:25 PM","3/13/24, 4:19 PM",,40.450262,-109.55051
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176701,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 Off Ramp (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
@@ -13793,6 +13792,7 @@ NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","3/13/24, 4:35 PM","3/13/24, 5:45 PM","3/13/24, 4:35 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176704,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
@@ -13801,3 +13801,7 @@ UT-Incident--176705,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","3/13/24, 5:23 PM","3/13/24, 6:35 PM","3/13/24, 5:23 PM",,40.718459,-111.873941
+UT-Incident--176706,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+WB I-80 at MP 117  Off Ramp (I-215 West Belt) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:45 PM","3/13/24, 5:40 PM","3/13/24, 6:45 PM","3/13/24, 5:40 PM",,40.765438,-111.953251
