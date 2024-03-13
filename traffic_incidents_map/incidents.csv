@@ -13606,10 +13606,16 @@ Est. Clearance Time: 11:15 PM","3/12/24, 10:10 PM","3/12/24, 11:15 PM","3/12/24,
 UT-Incident--176648,Incidents,US 40,Wasatch County,US 40 at MP 18,"Roadway Restriction
 Both Directions US 40 MP 18-58  (US- 189 Jct / Heber) Wasatch Co.
 Approved Traction Devices Required For All Semis.","3/12/24, 10:49 PM","3/17/24, 12:00 PM","3/12/24, 10:49 PM",,40.492161,-111.412613
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176633,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 MP 2-4  (Empire Pass) Summit Co.
 Approved Traction Devices Required For AlL Vehicles","3/12/24, 7:39 PM","3/16/24, 12:00 PM","3/12/24, 7:39 PM",,40.624634,-111.501637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176650,Incidents,SR 32,Wasatch County,SR 32 at MP 6,"Crash
+Both Directions SR 32 at MP 6 (6 Mi E of US-40) Wasatch Co.
+Est. Clearance Time: 4:11 AM","3/13/24, 3:12 AM","3/13/24, 4:11 AM","3/13/24, 3:12 AM",,40.595886,-111.359215
+UT-Incident--176649,Incidents,US 40,Uintah County,US 40 at MP 140,"Crash
+Both Directions US 40 at MP 140 (2 Mi W of Vernal) Uintah Co.
+Est. Clearance Time: 1:43 AM","3/13/24, 12:45 AM","3/13/24, 1:43 AM","3/13/24, 12:45 AM",,40.415534,-109.582896
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
@@ -13617,9 +13623,3 @@ Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/2
 UT-Incident--176635,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/12/24, 7:49 PM","3/15/24, 6:00 AM","3/12/24, 7:49 PM",,40.572095,-111.773814
-UT-Incident--176650,Incidents,SR 32,Wasatch County,SR 32 at MP 6,"Crash
-Both Directions SR 32 at MP 6 (6 Mi E of US-40) Wasatch Co.
-Est. Clearance Time: 4:11 AM","3/13/24, 3:12 AM","3/13/24, 4:11 AM","3/13/24, 3:12 AM",,40.595886,-111.359215
-UT-Incident--176649,Incidents,US 40,Uintah County,US 40 at MP 140,"Crash
-Both Directions US 40 at MP 140 (2 Mi W of Vernal) Uintah Co.
-Est. Clearance Time: 1:43 AM","3/13/24, 12:45 AM","3/13/24, 1:43 AM","3/13/24, 12:45 AM",,40.415534,-109.582896
