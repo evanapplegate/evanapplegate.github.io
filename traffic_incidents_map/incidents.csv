@@ -13575,6 +13575,10 @@ Right Lane Closed
 Est. Clearance Time: 8:45 PM","3/12/24, 7:42 PM","3/12/24, 8:45 PM","3/12/24, 7:42 PM",,40.840909,-111.942301
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176644,Incidents,500 S,Salt Lake County,500 S at 200 W,"Crash
+WB 500 S at 200 W Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 11:00 PM","3/12/24, 10:00 PM","3/12/24, 11:00 PM","3/12/24, 10:00 PM",,40.758474,-111.897897
 UT-Incident--176638,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Left Lane Closed
@@ -13583,6 +13587,9 @@ UT-Incident--176641,Incidents,I-80,Summit County,I-80 at MP 140,"Stalled Vehicle
 WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 10:45 PM","3/12/24, 9:33 PM","3/12/24, 10:45 PM","3/12/24, 9:33 PM",,40.750021,-111.604602
+UT-Incident--176642,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 MP 143-128 (Parleys Canyon) Summit Co.
+Approved Traction Devices Required For All Semis.","3/12/24, 9:46 PM","3/17/24, 12:00 PM","3/12/24, 9:46 PM",,40.740161,-111.558358
 UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/24, 12:00 PM","3/12/24, 7:51 PM",,40.619107,-111.786281
@@ -13595,3 +13602,9 @@ Approved Traction Devices Required For AlL Vehicles","3/12/24, 7:39 PM","3/16/24
 UT-Incident--176639,Incidents,US 40,Uintah County,US 40 at MP 162,"Crash
 US 40 at MP 162 (2 Mi E of Jensen) Uintah Co.
 Est. Clearance Time: 10:00 PM","3/12/24, 8:39 PM","3/12/24, 10:00 PM","3/12/24, 8:39 PM",,40.32883,-109.275367
+UT-Incident--176645,Incidents,US 40,Wasatch County,US 40 at MP 30,"Crash
+WB US 40 at MP 30 (9 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 11:15 PM","3/12/24, 10:01 PM","3/12/24, 11:15 PM","3/12/24, 10:01 PM",,40.356561,-111.281525
+UT-Incident--176643,Incidents,US 89,Box Elder County,US 89 at MP 431,"Crash
+SB US 89 at MP 431 (3000 S / Perry) Box Elder Co.
+Est. Clearance Time: 11:00 PM","3/12/24, 9:55 PM","3/12/24, 11:00 PM","3/12/24, 9:55 PM",,41.454315,-112.038678
