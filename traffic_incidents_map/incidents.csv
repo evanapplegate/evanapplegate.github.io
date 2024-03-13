@@ -13758,7 +13758,6 @@ UT-Incident--176691,Incidents,SR 143,Iron County,SR 143 at MP 13,"Crash
 SR 143 at MP 13 (1 Mi N of Brian Head) Iron Co.
 Est. Clearance Time: 1:45 PM","3/13/24, 12:48 PM","3/13/24, 1:45 PM","3/13/24, 12:48 PM",,37.720234,-112.844724
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176695,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Right Lane Closed
@@ -13767,10 +13766,15 @@ UT-Incident--176697,Incidents,I-15,Iron County,I-15 at MP 61,"Crash
 SB I-15 at MP 61 (400 W / Cedar City) Iron Co.
 Left Shoulder
 Est. Clearance Time: 4:15 PM","3/13/24, 3:09 PM","3/13/24, 4:15 PM","3/13/24, 3:11 PM",,37.710701,-113.069023
+UT-Incident--176696,Incidents,Redwood Rd,Davis County,Redwood Rd at 1500 S,"Crash
+NB Redwood Rd at 1500 S Davis Co.
+Intersection Blocked","3/13/24, 3:09 PM","3/13/24, 4:15 PM","3/13/24, 3:09 PM",,40.874689,-111.930014
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176698,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+NB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:15 PM","3/13/24, 3:59 PM","3/13/24, 5:15 PM","3/13/24, 3:59 PM",,40.431127,-111.890772
 UT-Incident--176694,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:45 PM","3/13/24, 2:33 PM","3/13/24, 3:45 PM","3/13/24, 2:51 PM",,40.703296,-111.95315
-UT-Incident--176696,Incidents,Redwood Rd,Davis County,Redwood Rd at 1500 S,"Crash
-NB Redwood Rd at 1500 S Davis Co.
-Intersection Blocked","3/13/24, 3:09 PM","3/13/24, 4:15 PM","3/13/24, 3:09 PM",,40.874689,-111.930014
