@@ -13516,7 +13516,6 @@ Est. Clearance Time: 5:35 PM","3/12/24, 4:23 PM","3/12/24, 5:35 PM",,,41.204119,
 UT-Incident--176605,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 SB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 6:00 PM","3/12/24, 1:18 PM","3/12/24, 6:00 PM","3/12/24, 4:18 PM",,40.446013,-111.477114
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176620,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 12,"Stalled Vehicle
 NB Bangerter Hwy at MP 12 (8300 S) Salt Lake Co.
 Right Lane Closed
@@ -13556,3 +13555,16 @@ UT-Incident--176625,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 WB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","3/12/24, 5:56 PM","3/12/24, 7:00 PM","3/12/24, 5:56 PM",,40.726429,-112.217783
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176631,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 7:55 PM","3/12/24, 6:48 PM","3/12/24, 7:55 PM","3/12/24, 6:48 PM",,40.664677,-111.90152
+UT-Incident--176629,Incidents,I-84,Box Elder County,I-84 at MP 21,"Crash
+WB I-84 at MP 21 (12 mi east of Snowville) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","3/12/24, 6:36 PM","3/12/24, 7:45 PM","3/12/24, 6:36 PM",,41.880758,-112.478311
+UT-Incident--176632,Incidents,SR 13,Box Elder County,SR 13 at MP 6,"Crash
+WB SR 13 at MP 6 (1 mi W of Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 8:35 PM","3/12/24, 7:29 PM","3/12/24, 8:35 PM","3/12/24, 7:29 PM",,41.537096,-112.074002
