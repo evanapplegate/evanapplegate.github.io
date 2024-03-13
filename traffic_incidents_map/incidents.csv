@@ -13697,7 +13697,6 @@ UT-Incident--176676,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 SB I-15 To EB I-80 Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:15 AM","3/13/24, 10:04 AM","3/13/24, 11:15 AM","3/13/24, 10:04 AM",,40.718946,-111.904837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176675,Incidents,I-15,Juab County,I-15 at MP 218,"Crash
 NB I-15 at MP 218 (5 mi S of Nephi) Juab Co.
 Est. Clearance Time: 11:00 AM","3/13/24, 9:56 AM","3/13/24, 11:00 AM","3/13/24, 9:56 AM",,39.635284,-111.903226
@@ -13715,6 +13714,11 @@ UT-Incident--176679,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Est. Clearance Time: 11:15 AM","3/13/24, 10:15 AM","3/13/24, 11:15 AM","3/13/24, 10:15 AM",,40.718332,-111.893095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176682,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (S of Bangerter Hwy) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 12:30 PM","3/13/24, 11:18 AM","3/13/24, 12:30 PM","3/13/24, 11:18 AM",,40.492469,-111.891178
 UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/24, 12:00 PM","3/12/24, 7:51 PM",,40.619107,-111.786281
