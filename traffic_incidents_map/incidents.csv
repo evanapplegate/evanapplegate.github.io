@@ -13639,7 +13639,6 @@ Est. Clearance Time: 9:15 AM","3/13/24, 8:04 AM","3/13/24, 9:15 AM","3/13/24, 8:
 UT-Incident--176657,Incidents,SR 132,Sanpete County,SR 132 at MP 43,"Crash
 SR 132 at MP 43 (3.5 MI of Fountian Green) Sanpete Co.
 Est. Clearance Time: 8:15 AM","3/13/24, 6:54 AM","3/13/24, 8:15 AM","3/13/24, 6:54 AM",,39.683402,-111.675461
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176655,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Geneva Rd / Orem) Utah Co.
 Right Lane Closed
@@ -13655,6 +13654,7 @@ Est. Clearance Time: 9:30 AM","3/13/24, 8:26 AM","3/13/24, 9:30 AM","3/13/24, 8:
 UT-Incident--176654,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
 SR-36 Ramp to EB I-80 (Lakepoint) Tooele Co.
 Cleared at 7:33 AM, Expect Residual Delays","3/13/24, 6:25 AM","3/13/24, 7:30 AM","3/13/24, 7:33 AM",,40.695533,-112.261747
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176666,Incidents,CEDAR FORT RD,Utah County,CEDAR FORT RD 11801,"Crash
 EB SR-73 Cory Wride Hwy at Mt Airey Dr (Eagle Mountain) Utah Co.
