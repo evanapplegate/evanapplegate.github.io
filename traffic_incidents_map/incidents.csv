@@ -13619,42 +13619,55 @@ UT-Incident--176652,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 7:00 AM","3/13/24, 5:59 AM","3/13/24, 7:00 AM","3/13/24, 5:59 AM",,40.753834,-111.620984
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176651,Incidents,SR 102,Box Elder County,SR 102 at MP 14,"Crash
 Both Directions SR 102 at MP 14 (I-84 Jct) Box Elder Co.
 Est. Clearance Time: 6:15 AM","3/13/24, 5:15 AM","3/13/24, 6:15 AM","3/13/24, 5:15 AM",,41.710726,-112.209937
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176659,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+NB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 8:45 AM","3/13/24, 7:39 AM","3/13/24, 8:45 AM","3/13/24, 7:39 AM",,40.431127,-111.890772
+UT-Incident--176635,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
+Approved Traction Devices Required For All Vehicles","3/12/24, 7:49 PM","3/15/24, 6:00 AM","3/12/24, 7:49 PM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176653,Incidents,HWY 112,Tooele County,HWY 112 at 1000 N/UTAH AVE,"Crash
 SR-112 at Utah Ave (Tooele) Tooele Co.
 Est. Clearance Time: 7:15 AM","3/13/24, 6:07 AM","3/13/24, 7:15 AM","3/13/24, 6:07 AM",,40.548316,-112.342029
 UT-Incident--176655,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
-SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+SB I-15 at MP 273 (Geneva Rd / Orem) Utah Co.
 Right Lane Closed
-Est. Clearance Time: 7:30 AM","3/13/24, 6:27 AM","3/13/24, 7:30 AM","3/13/24, 7:20 AM",,40.328045,-111.73498
+Est. Clearance Time: 7:30 AM","3/13/24, 6:27 AM","3/13/24, 7:30 AM","3/13/24, 8:04 AM",,40.328045,-111.73498
 UT-Incident--176658,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Geneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","3/13/24, 7:30 AM","3/13/24, 8:30 AM","3/13/24, 7:40 AM",,40.328045,-111.73498
-UT-Incident--176659,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
-NB I-15 at MP 284 (SR-92 Exit) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 8:45 AM","3/13/24, 7:39 AM","3/13/24, 8:45 AM","3/13/24, 7:39 AM",,40.431127,-111.890772
 UT-Incident--176660,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 8:45 AM","3/13/24, 7:40 AM","3/13/24, 8:45 AM","3/13/24, 7:40 AM",,40.442142,-111.903011
+Cleared at 8:01 AM, Expect Residual Delays","3/13/24, 7:40 AM","3/13/24, 8:45 AM","3/13/24, 8:01 AM",,40.442142,-111.903011
+UT-Incident--176662,Incidents,I-15,Iron County,I-15 at MP 69,"Crash
+NB I-15 at MP 69 (5 mi N of Cedar City) Iron Co.
+Est. Clearance Time: 9:00 AM","3/13/24, 7:48 AM","3/13/24, 9:00 AM","3/13/24, 7:48 AM",,37.791425,-112.96498
+UT-Incident--176664,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
+SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:15 AM","3/13/24, 8:04 AM","3/13/24, 9:15 AM","3/13/24, 8:04 AM",,40.885849,-111.896677
+UT-Incident--176661,Incidents,I-70,Sevier County,I-70 at MP 25,"Crash
+WB I-70 at MP 25 (12 Mi W of Richfield) Sevier Co.
+Est. Clearance Time: 8:45 AM","3/13/24, 7:47 AM","3/13/24, 8:45 AM","3/13/24, 8:01 AM",,38.614303,-112.230845
 UT-Incident--176656,Incidents,I-80,Salt Lake County,I-80 at MP 103,"Crash
 WB I-80 at MP 103 (1 mi E of Magna) Salt Lake Co.
 Est. Clearance Time: 7:45 AM","3/13/24, 6:39 AM","3/13/24, 7:45 AM","3/13/24, 6:39 AM",,40.733836,-112.201288
 UT-Incident--176654,Incidents,I-80 EB X99 ON SR 36 RAMP,Tooele County,I-80 EB X99 ON SR 36 RAMP at HWY 36,"Crash
 SR-36 Ramp to EB I-80 (Lakepoint) Tooele Co.
 Cleared at 7:33 AM, Expect Residual Delays","3/13/24, 6:25 AM","3/13/24, 7:30 AM","3/13/24, 7:33 AM",,40.695533,-112.261747
+UT-Incident--176663,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3500 S,"Crash
+SB Redwood Rd at 3500 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:00 AM","3/13/24, 8:00 AM","3/13/24, 9:00 AM","3/13/24, 8:00 AM",,40.696708,-111.938901
 UT-Incident--176657,Incidents,SR 132,Sanpete County,SR 132 at MP 43,"Crash
 SR 132 at MP 43 (3.5 MI of Fountian Green) Sanpete Co.
 Est. Clearance Time: 8:15 AM","3/13/24, 6:54 AM","3/13/24, 8:15 AM","3/13/24, 6:54 AM",,39.683402,-111.675461
 UT-Incident--176636,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20  (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles.","3/12/24, 7:51 PM","3/18/24, 12:00 PM","3/12/24, 7:51 PM",,40.619107,-111.786281
-UT-Incident--176635,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 MP 4-13 (Little Cottonwood Canyon) Salt Lake Co.
-Approved Traction Devices Required For All Vehicles","3/12/24, 7:49 PM","3/15/24, 6:00 AM","3/12/24, 7:49 PM",,40.572095,-111.773814
