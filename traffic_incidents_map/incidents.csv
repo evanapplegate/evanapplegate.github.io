@@ -13910,12 +13910,15 @@ UT-Incident--176759,Incidents,State St,Salt Lake County,State St at 3300 S,"Cras
 SB State St at 3300 S Salt Lake Co.
 SB & WB Left Lanes Closed
 Est. Clearance Time: 2:31 PM","3/15/24, 1:33 PM","3/15/24, 2:31 PM","3/15/24, 1:33 PM",,40.699821,-111.888253
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176750,Incidents,SR 12,Wayne County,SR 12 at MP 119,"Crash
 NB SR 12 at MP 119 (3 Mi W of Torrey) Wayne Co.
 Right Shoulder
 Est. Clearance Time: 1:49 PM","3/15/24, 10:50 AM","3/15/24, 1:49 PM","3/15/24, 11:30 AM",,38.253066,-111.378889
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176760,Incidents,I-15,Weber County,I-15 at MP 338,"Signal problems
+Ramp NB I-15 at MP 338 (5600 S Exit, Roy) Weber Co.
+Est. Clearance Time: 3:35 PM","3/15/24, 2:37 PM","3/15/24, 3:35 PM","3/15/24, 2:37 PM",,41.155128,-112.024901
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
