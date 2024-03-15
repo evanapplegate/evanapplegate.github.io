@@ -13881,14 +13881,18 @@ Est. Clearance Time: 11:00 PM","3/14/24, 9:53 PM","3/14/24, 11:00 PM","3/14/24, 
 UT-Incident--176742,Incidents,SR 75,Utah County,SR 75 at MP 0,"Both Directions SR 75 (1400 N) Closed
  at I-15 (Springville) Utah Co.
 Use Alt Route","3/15/24, 1:03 AM","3/15/24, 2:01 AM","3/15/24, 1:04 AM",,40.187769,-111.648636
-,,,,,,,,,,,
 UT-Incident--176745,Incidents,Main St,Tooele County,Main St at 1280 N,"Crash
 NB Main St at 1280 N Tooele Co.
 Est. Clearance Time: 7:35 AM","3/15/24, 6:36 AM","3/15/24, 7:35 AM","3/15/24, 6:36 AM",,40.553863,-112.297693
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176746,Incidents,SR 186,Salt Lake County,SR 186 at MP 1,"Crash
 NB SR 186 (Columbus St) Closed
  at MP 1 (500 N) Salt Lake Co.","3/15/24, 6:37 AM","3/15/24, 7:37 AM","3/15/24, 6:48 AM",,40.782531,-111.891473
+UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
+NB US 191 Closed
+ at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","3/15/24, 7:10 AM","3/17/24, 8:09 AM","3/15/24, 7:10 AM",,40.997685,-109.432538
 UT-Incident--176744,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 WB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Right Lane Closed
