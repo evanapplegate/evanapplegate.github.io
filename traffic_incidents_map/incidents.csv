@@ -13928,7 +13928,6 @@ UT-Incident--176766,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","3/15/24, 4:17 PM","3/15/24, 5:30 PM","3/15/24, 4:17 PM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176768,Incidents,1900 W,Weber County,1900 W 3350,"Crash
 SB 1900 W Weber Co.
 2 Left Lanes Closed
@@ -13940,6 +13939,7 @@ UT-Incident--176767,Incidents,SR 108,Weber County,SR 108 at MP 10,"Crash
 All Directions SR 108 at MP 10 (Roy) Weber Co.
 Blocking Intersection","3/15/24, 4:28 PM","3/15/24, 5:35 PM","3/15/24, 4:28 PM",,41.17595,-112.06444
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176769,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
@@ -13948,12 +13948,19 @@ UT-Incident--176770,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:30 PM","3/15/24, 5:15 PM","3/15/24, 6:30 PM","3/15/24, 5:15 PM",,40.355866,-111.778344
+UT-Incident--176773,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at MP 280 (Lehi) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:30 PM","3/15/24, 5:29 PM","3/15/24, 6:30 PM","3/15/24, 5:29 PM",,40.39191,-111.835579
 UT-Incident--176761,Incidents,I-70,Sevier County,I-70 at MP 85,"Crash
 WB I-70 at MP 85 (4 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 4:35 PM","3/15/24, 3:29 PM","3/15/24, 4:35 PM","3/15/24, 3:29 PM",,38.761124,-111.456382
 UT-Incident--176771,Incidents,I-70,Sevier County,I-70 at MP 87,"Crash
 WB I-70 at MP 87 (2 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 6:30 PM","3/15/24, 5:19 PM","3/15/24, 6:30 PM","3/15/24, 5:19 PM",,38.75726,-111.421029
+UT-Incident--176772,Incidents,I-70,Sevier County,I-70 at MP 89,"Crash
+EB I-70 at MP 89 (Fremont Jct) Sevier Co.
+Est. Clearance Time: 6:30 PM","3/15/24, 5:20 PM","3/15/24, 6:30 PM","3/15/24, 5:20 PM",,38.756002,-111.384572
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
