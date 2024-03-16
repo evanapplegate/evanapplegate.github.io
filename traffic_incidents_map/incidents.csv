@@ -14039,7 +14039,6 @@ UT-Incident--176793,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:40 PM","3/16/24, 2:40 PM","3/16/24, 3:40 PM","3/16/24, 3:35 PM",,40.564298,-111.899489
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176798,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Center Lane Closed
@@ -14049,6 +14048,7 @@ UT-Incident--176796,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
 NB 1900 W at Midland Dr Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:15 PM","3/16/24, 4:04 PM","3/16/24, 5:15 PM","3/16/24, 4:04 PM",,41.205374,-112.025826
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176797,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Right Shoulder
@@ -14057,6 +14057,10 @@ UT-Incident--176799,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Right Shoulder
 Est. Clearance Time: 5:25 PM","3/16/24, 4:27 PM","3/16/24, 5:25 PM","3/16/24, 4:27 PM",,38.122254,-112.635013
+UT-Incident--176800,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
+SB I-15 at MP 271 (800 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","3/16/24, 5:03 PM","3/16/24, 6:15 PM","3/16/24, 5:03 PM",,40.301853,-111.72593
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
