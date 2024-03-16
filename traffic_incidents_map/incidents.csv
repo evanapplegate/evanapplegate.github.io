@@ -13942,7 +13942,6 @@ UT-Incident--176770,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:30 PM","3/15/24, 5:15 PM","3/15/24, 6:30 PM","3/15/24, 5:15 PM",,40.355866,-111.778344
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176769,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
@@ -13960,6 +13959,10 @@ UT-Incident--176776,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Left Shoulder
 Est. Clearance Time: 7:15 PM","3/15/24, 6:03 PM","3/15/24, 7:15 PM","3/15/24, 6:03 PM",,40.337197,-111.749203
+UT-Incident--176777,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+EB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Est. Clearance Time: 7:35 PM","3/15/24, 6:21 PM","3/15/24, 7:35 PM","3/15/24, 6:21 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176761,Incidents,I-70,Sevier County,I-70 at MP 85,"Crash
 WB I-70 at MP 85 (4 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 4:35 PM","3/15/24, 3:29 PM","3/15/24, 4:35 PM","3/15/24, 3:29 PM",,38.761124,-111.456382
@@ -13988,9 +13991,6 @@ UT-Incident--176758,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 NB SR 143 Closed
  at MP 17 (1 Mi S of Brian Head) Iron Co.
 Use Alt Route","3/15/24, 1:26 PM","3/17/24, 2:25 PM","3/15/24, 2:58 PM",,37.677725,-112.846981
-UT-Incident--176777,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
-EB SR 201 at MP 15 (1300 W) Salt Lake Co.
-Est. Clearance Time: 7:35 PM","3/15/24, 6:21 PM","3/15/24, 7:35 PM","3/15/24, 6:21 PM",,40.724124,-111.943886
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
