@@ -13983,7 +13983,6 @@ Est. Clearance Time: 10:15 PM","3/15/24, 8:59 PM","3/15/24, 10:15 PM","3/15/24, 
 UT-Incident--176780,Incidents,SR 132,Sanpete County,SR 132 at MP 46,"Crash
 Other SR 132 at MP 46 (0.5 MI of Fountian Green) Sanpete Co.
 Est. Clearance Time: 10:15 PM","3/15/24, 9:07 PM","3/15/24, 10:15 PM","3/15/24, 9:07 PM",,39.64757,-111.643999
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176781,Incidents,Redwood Rd,Davis County,Redwood Rd at Center St,"Crash
 SB Redwood Rd at Center St Davis Co.
 Right Lane Closed
@@ -13991,6 +13990,10 @@ Est. Clearance Time: 11:00 PM","3/15/24, 9:45 PM","3/15/24, 11:00 PM","3/15/24, 
 UT-Incident--176782,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1050 W,"NB Riverdale Rd Closed
  at 1050 W Weber Co.","3/15/24, 10:02 PM","3/15/24, 11:15 PM","3/15/24, 10:02 PM",,41.176984,-112.003949
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176784,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Debris
+SB I-215 W at MP 17 (3500 S) Salt Lake Co.
+Est. Clearance Time: 11:55 PM","3/15/24, 10:53 PM","3/15/24, 11:55 PM","3/15/24, 10:53 PM",,40.688869,-111.951947
 UT-Incident--176783,Incidents,I-70,Sevier County,I-70 at MP 83,"Crash
 WB I-70 at MP 83 (6 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 11:15 PM","3/15/24, 10:04 PM","3/15/24, 11:15 PM","3/15/24, 10:04 PM",,38.779216,-111.483453
