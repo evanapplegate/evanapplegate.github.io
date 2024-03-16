@@ -13980,10 +13980,16 @@ UT-Incident--176779,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 24th S
 NB Harrison Blvd at 24th St Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 10:15 PM","3/15/24, 8:59 PM","3/15/24, 10:15 PM","3/15/24, 8:59 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176780,Incidents,SR 132,Sanpete County,SR 132 at MP 46,"Crash
 Other SR 132 at MP 46 (0.5 MI of Fountian Green) Sanpete Co.
 Est. Clearance Time: 10:15 PM","3/15/24, 9:07 PM","3/15/24, 10:15 PM","3/15/24, 9:07 PM",,39.64757,-111.643999
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176781,Incidents,Redwood Rd,Davis County,Redwood Rd at Center St,"Crash
+SB Redwood Rd at Center St Davis Co.
+Right Lane Closed
+Est. Clearance Time: 11:00 PM","3/15/24, 9:45 PM","3/15/24, 11:00 PM","3/15/24, 9:45 PM",,40.838571,-111.933503
+UT-Incident--176782,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1050 W,"NB Riverdale Rd Closed
+ at 1050 W Weber Co.","3/15/24, 10:02 PM","3/15/24, 11:15 PM","3/15/24, 10:02 PM",,41.176984,-112.003949
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176783,Incidents,I-70,Sevier County,I-70 at MP 83,"Crash
 WB I-70 at MP 83 (6 mi W of Fremont Jct) Sevier Co.
@@ -13992,12 +13998,6 @@ UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
 Est. Clearance Time: 3/17/2024 4:00 PM","3/15/24, 11:37 AM","3/17/24, 1:38 PM","3/15/24, 11:37 AM",,40.765438,-111.953251
-UT-Incident--176781,Incidents,Redwood Rd,Davis County,Redwood Rd at Center St,"Crash
-SB Redwood Rd at Center St Davis Co.
-Right Lane Closed
-Est. Clearance Time: 11:00 PM","3/15/24, 9:45 PM","3/15/24, 11:00 PM","3/15/24, 9:45 PM",,40.838571,-111.933503
-UT-Incident--176782,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1050 W,"NB Riverdale Rd Closed
- at 1050 W Weber Co.","3/15/24, 10:02 PM","3/15/24, 11:15 PM","3/15/24, 10:02 PM",,41.176984,-112.003949
 UT-Incident--176754,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Approved traction devices required for all vehicles traveling Eastbound SR-143 MP 4-50.","3/15/24, 11:42 AM","3/16/24, 12:39 PM","3/15/24, 11:42 AM",,37.828866,-112.814606
 UT-Incident--176755,Incidents,SR 143,Garfield County,SR 143 at MP 50,"Roadway Restriction
