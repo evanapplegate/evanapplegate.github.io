@@ -14035,12 +14035,16 @@ UT-Incident--176758,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 NB SR 143 Closed
  at MP 17 (1 Mi S of Brian Head) Iron Co.
 Use Alt Route","3/15/24, 1:26 PM","3/17/24, 2:25 PM","3/15/24, 2:58 PM",,37.677725,-112.846981
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176793,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:40 PM","3/16/24, 2:40 PM","3/16/24, 3:40 PM","3/16/24, 3:35 PM",,40.564298,-111.899489
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176796,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
+NB 1900 W at Midland Dr Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:15 PM","3/16/24, 4:04 PM","3/16/24, 5:15 PM","3/16/24, 4:04 PM",,41.205374,-112.025826
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
