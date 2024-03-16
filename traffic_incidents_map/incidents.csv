@@ -13950,7 +13950,6 @@ UT-Incident--176774,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1500 W,"
 EB Riverdale Rd at 1500 W Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:45 PM","3/15/24, 5:37 PM","3/15/24, 6:45 PM","3/15/24, 5:37 PM",,41.172896,-112.015235
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176773,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Left Shoulder
@@ -13975,6 +13974,7 @@ Est. Clearance Time: 6:30 PM","3/15/24, 5:20 PM","3/15/24, 6:30 PM","3/15/24, 5:
 UT-Incident--176775,Incidents,I-70,Sevier County,I-70 at MP 84,"Crash
 EB I-70 at MP 84 (5 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 6:45 PM","3/15/24, 5:45 PM","3/15/24, 6:45 PM","3/15/24, 5:45 PM",,38.76871,-111.471387
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
