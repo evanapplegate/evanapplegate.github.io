@@ -14051,11 +14051,11 @@ UT-Incident--176800,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","3/16/24, 5:03 PM","3/16/24, 6:15 PM","3/16/24, 5:03 PM",,40.301853,-111.72593
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
 Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
 Est. Clearance Time: 3/17/2024 4:00 PM","3/15/24, 11:37 AM","3/17/24, 1:38 PM","3/15/24, 11:37 AM",,40.765438,-111.953251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176797,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
@@ -14065,6 +14065,14 @@ UT-Incident--176799,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Right Shoulder
 Est. Clearance Time: 5:25 PM","3/16/24, 4:27 PM","3/16/24, 5:25 PM","3/16/24, 4:27 PM",,38.122254,-112.635013
+UT-Incident--176802,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:35 PM","3/16/24, 5:30 PM","3/16/24, 6:35 PM","3/16/24, 5:30 PM",,40.722344,-111.904691
+UT-Incident--176803,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:28 PM","3/16/24, 5:35 PM","3/16/24, 6:28 PM","3/16/24, 5:35 PM",,40.649847,-111.90236
 UT-Incident--176801,Incidents,I-80,Tooele County,I-80 at MP 45,"Crash
 EB I-80 at MP 45 (4 mi E of Knolls) Tooele Co.
 Left Lane Closed
