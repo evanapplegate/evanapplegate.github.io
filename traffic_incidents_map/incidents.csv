@@ -14019,20 +14019,11 @@ UT-Incident--176791,Incidents,SR 36,Tooele County,SR 36 at MP 22,"Crash
 Both Directions SR 36 at MP 22 (Vernon) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 1:47 PM","3/16/24, 12:48 PM","3/16/24, 1:47 PM","3/16/24, 12:48 PM",,40.099593,-112.430778
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176794,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:43 PM","3/16/24, 2:44 PM","3/16/24, 3:43 PM","3/16/24, 2:44 PM",,40.607173,-111.905403
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176793,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
-NB I-15 at MP 294 (10200 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 3:40 PM","3/16/24, 2:40 PM","3/16/24, 3:40 PM","3/16/24, 2:54 PM",,40.564298,-111.899489
-UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
-Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
-Exit Closed NB I-215 W
-Est. Clearance Time: 3/17/2024 4:00 PM","3/15/24, 11:37 AM","3/17/24, 1:38 PM","3/15/24, 11:37 AM",,40.765438,-111.953251
 UT-Incident--176754,Incidents,SR 143,Iron County,SR 143 at MP 4,"Roadway Restriction
 Approved traction devices required for all vehicles traveling Eastbound SR-143 MP 4-50.","3/15/24, 11:42 AM","3/16/24, 12:39 PM","3/15/24, 11:42 AM",,37.828866,-112.814606
 UT-Incident--176755,Incidents,SR 143,Garfield County,SR 143 at MP 50,"Roadway Restriction
@@ -14045,6 +14036,15 @@ UT-Incident--176758,Incidents,SR 143,Iron County,SR 143 at MP 17,"Road Weather
 NB SR 143 Closed
  at MP 17 (1 Mi S of Brian Head) Iron Co.
 Use Alt Route","3/15/24, 1:26 PM","3/17/24, 2:25 PM","3/15/24, 2:58 PM",,37.677725,-112.846981
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176793,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
+NB I-15 at MP 294 (10200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:40 PM","3/16/24, 2:40 PM","3/16/24, 3:40 PM","3/16/24, 3:35 PM",,40.564298,-111.899489
+UT-Incident--176753,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Lane Closure
+Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
+Exit Closed NB I-215 W
+Est. Clearance Time: 3/17/2024 4:00 PM","3/15/24, 11:37 AM","3/17/24, 1:38 PM","3/15/24, 11:37 AM",,40.765438,-111.953251
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
