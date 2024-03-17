@@ -14141,21 +14141,25 @@ WB 2100 S at I-15 SB Off Ramp (Weber County)
 Right Shoulder Closed
 Est. Clearance Time: 11:45 AM","3/17/24, 10:45 AM","3/17/24, 11:45 AM","3/17/24, 11:19 AM",,41.228664,-112.014176
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176826,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:25 PM","3/17/24, 12:23 PM","3/17/24, 1:25 PM","3/17/24, 12:23 PM",,40.607173,-111.905403
-UT-Incident--176825,Incidents,I-15 SB X376 Off SR 13 Ramp,Box Elder County,I-15 SB X376 Off SR 13 Ramp at Hwy 13,"Crash
-SB I-15 376 Off Ramp (Box Elder Co)
-Est. Clearance Time: 1:30 PM","3/17/24, 12:12 PM","3/17/24, 1:30 PM","3/17/24, 12:12 PM",,41.68144,-112.144691
 UT-Incident--176823,Incidents,I-80,Tooele County,I-80 at MP 83,"Crash
 EB I-80 at MP 83 (SR 138 / Grantsville) Tooele Co.
 Est. Clearance Time: 12:15 PM","3/17/24, 11:10 AM","3/17/24, 12:15 PM","3/17/24, 11:10 AM",,40.712461,-112.535628
 UT-Incident--176824,Incidents,SR 30,Box Elder County,SR 30 at MP 36,"Crash
 NB SR 30 at MP 36 (36 Mi E of UT/NV border) Box Elder Co.
 Est. Clearance Time: 12:50 PM","3/17/24, 11:46 AM","3/17/24, 12:50 PM","3/17/24, 11:46 AM",,41.651956,-113.55089
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176825,Incidents,I-15 SB X376 Off SR 13 Ramp,Box Elder County,I-15 SB X376 Off SR 13 Ramp at Hwy 13,"Crash
+SB I-15 376 Off Ramp (Box Elder Co)
+Est. Clearance Time: 1:30 PM","3/17/24, 12:12 PM","3/17/24, 1:30 PM","3/17/24, 12:12 PM",,41.68144,-112.144691
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/15/24, 7:10 AM","3/17/24, 8:09 AM","3/15/24, 7:10 AM",,40.997685,-109.432538
+UT-Incident--176827,Incidents,US 6,Utah County,US 6 1000,"Crash
+WB US 6 at 1000 N (Utah County)
+Left Lane Closed
+Est. Clearance Time: 1:53 PM","3/17/24, 12:55 PM","3/17/24, 1:53 PM","3/17/24, 12:55 PM",,40.123296,-111.643635
