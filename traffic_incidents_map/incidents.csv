@@ -14071,7 +14071,6 @@ UT-Incident--176803,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:28 PM","3/16/24, 5:35 PM","3/16/24, 6:28 PM","3/16/24, 5:35 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176804,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Lane Closed
@@ -14093,10 +14092,6 @@ UT-Incident--176807,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:31 PM","3/16/24, 6:32 PM","3/16/24, 7:31 PM","3/16/24, 6:32 PM",,37.613172,-113.153387
-UT-Incident--176810,Incidents,I-15,Washington County,I-15 at MP 41,"Crash
-NB I-15 at MP 41 (1 mi S of Kanarraville) Washington Co.
-Right Lane Closed
-Est. Clearance Time: 8:15 PM","3/16/24, 7:06 PM","3/16/24, 8:15 PM","3/16/24, 7:06 PM",,37.465302,-113.225361
 UT-Incident--176811,Incidents,I-15,Iron County,I-15 at MP 68,"Crash
 NB I-15 at MP 68 (4 mi N of Cedar City) Iron Co.
 Est. Clearance Time: 8:15 PM","3/16/24, 7:07 PM","3/16/24, 8:15 PM","3/16/24, 7:07 PM",,37.7829,-112.979798
@@ -14104,6 +14099,18 @@ UT-Incident--176808,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 PM","3/16/24, 6:43 PM","3/16/24, 8:00 PM","3/16/24, 6:43 PM",,40.697639,-111.795421
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176810,Incidents,I-15,Washington County,I-15 at MP 41,"Crash
+NB I-15 at MP 41 (1 mi S of Kanarraville) Washington Co.
+Right Lane Closed
+Est. Clearance Time: 8:15 PM","3/16/24, 7:06 PM","3/16/24, 8:15 PM","3/16/24, 7:06 PM",,37.465302,-113.225361
+UT-Incident--176813,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
+NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
+Left Shoulder
+Est. Clearance Time: 8:45 PM","3/16/24, 7:40 PM","3/16/24, 8:45 PM","3/16/24, 7:40 PM",,37.479917,-113.221413
+UT-Incident--176814,Incidents,I-80,Tooele County,I-80 at MP 12,"Crash
+WB I-80 at MP 12 (10 mi E of Wendover) Tooele Co.
+Est. Clearance Time: 9:00 PM","3/16/24, 7:51 PM","3/16/24, 9:00 PM","3/16/24, 7:51 PM",,40.73871,-113.817589
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
