@@ -14150,10 +14150,14 @@ Est. Clearance Time: 12:15 PM","3/17/24, 11:10 AM","3/17/24, 12:15 PM","3/17/24,
 UT-Incident--176824,Incidents,SR 30,Box Elder County,SR 30 at MP 36,"Crash
 NB SR 30 at MP 36 (36 Mi E of UT/NV border) Box Elder Co.
 Est. Clearance Time: 12:50 PM","3/17/24, 11:46 AM","3/17/24, 12:50 PM","3/17/24, 11:46 AM",,41.651956,-113.55089
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176825,Incidents,I-15 SB X376 Off SR 13 Ramp,Box Elder County,I-15 SB X376 Off SR 13 Ramp at Hwy 13,"Crash
 SB I-15 376 Off Ramp (Box Elder Co)
 Est. Clearance Time: 1:30 PM","3/17/24, 12:12 PM","3/17/24, 1:30 PM","3/17/24, 12:12 PM",,41.68144,-112.144691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176827,Incidents,US 6,Utah County,US 6 1000,"Crash
+WB US 6 at 1000 N (Utah County)
+Left Lane Closed
+Est. Clearance Time: 1:53 PM","3/17/24, 12:55 PM","3/17/24, 1:53 PM","3/17/24, 12:55 PM",,40.123296,-111.643635
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176828,Incidents,HWY 62,Piute County,HWY 62 801,"Crash
 SR-62 at MP 30 Piute Co.
@@ -14162,7 +14166,3 @@ UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",,40.997685,-109.432538
-UT-Incident--176827,Incidents,US 6,Utah County,US 6 1000,"Crash
-WB US 6 at 1000 N (Utah County)
-Left Lane Closed
-Est. Clearance Time: 1:53 PM","3/17/24, 12:55 PM","3/17/24, 1:53 PM","3/17/24, 12:55 PM",,40.123296,-111.643635
