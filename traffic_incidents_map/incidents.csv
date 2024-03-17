@@ -14161,7 +14161,6 @@ UT-Incident--176829,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
 SB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
 Left Shoulder
 Est. Clearance Time: 2:45 PM","3/17/24, 1:44 PM","3/17/24, 2:45 PM","3/17/24, 1:44 PM",,41.329561,-112.031305
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176828,Incidents,HWY 62,Piute County,HWY 62 801,"Crash
 SR-62 at MP 30 Piute Co.
 Est. Clearance Time: 3:15 PM","3/17/24, 1:10 PM","3/17/24, 3:15 PM","3/17/24, 2:38 PM",,38.406681,-111.927581
@@ -14169,6 +14168,7 @@ UT-Incident--176830,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 Ramp SB I-15 at MP 276 (500 E Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:36 PM","3/17/24, 3:38 PM","3/17/24, 4:36 PM","3/17/24, 3:38 PM",,40.355866,-111.778344
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
