@@ -14102,7 +14102,6 @@ UT-Incident--176810,Incidents,I-15,Washington County,I-15 at MP 41,"Crash
 NB I-15 at MP 41 (1 mi S of Kanarraville) Washington Co.
 Right Lane Closed
 Est. Clearance Time: 8:15 PM","3/16/24, 7:06 PM","3/16/24, 8:15 PM","3/16/24, 7:06 PM",,37.465302,-113.225361
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176815,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
@@ -14114,14 +14113,18 @@ UT-Incident--176812,Incidents,US 40,Duchesne County,US 40 at MP 74,"Crash
 WB US 40 at MP 74 (7 mi W of Starvation) Duchesne Co.
 Est. Clearance Time: 8:35 PM","3/16/24, 7:26 PM","3/16/24, 8:35 PM","3/16/24, 7:26 PM",,40.180875,-110.629418
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176816,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 On Ramp (600 S) Salt Lake Co.
+Est. Clearance Time: 10:00 PM","3/16/24, 8:48 PM","3/16/24, 10:00 PM","3/16/24, 8:48 PM",,40.74966,-111.90976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176813,Incidents,I-15,Washington County,I-15 at MP 42,"Crash
 NB I-15 at MP 42 (Old U.S 91 / Kanarraville) Washington Co.
 Left Shoulder
 Est. Clearance Time: 8:45 PM","3/16/24, 7:40 PM","3/16/24, 8:45 PM","3/16/24, 7:40 PM",,37.479917,-113.221413
-UT-Incident--176816,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-NB I-15 at MP 307 On Ramp (600 S) Salt Lake Co.
-Est. Clearance Time: 10:00 PM","3/16/24, 8:48 PM","3/16/24, 10:00 PM","3/16/24, 8:48 PM",,40.74966,-111.90976
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/15/24, 7:10 AM","3/17/24, 8:09 AM","3/15/24, 7:10 AM",,40.997685,-109.432538
+UT-Incident--176817,Incidents,US 89,Sanpete County,US 89 at MP 238,"Crash
+US 89 at MP 238 (1 mile S of Centerfield) Sanpete Co.
+Est. Clearance Time: 10:30 PM","3/16/24, 9:12 PM","3/16/24, 10:30 PM","3/16/24, 9:13 PM",,39.109997,-111.819582
