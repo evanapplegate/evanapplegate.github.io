@@ -14056,7 +14056,6 @@ Ramp EB I-80 at MP 117 (NB I-215 West Belt) Salt Lake Co.
 Exit Closed NB I-215 W
 Est. Clearance Time: 3/17/2024 4:00 PM","3/15/24, 11:37 AM","3/17/24, 1:38 PM","3/15/24, 11:37 AM",,40.765438,-111.953251
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176797,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Right Shoulder
@@ -14073,10 +14072,27 @@ UT-Incident--176803,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:28 PM","3/16/24, 5:35 PM","3/16/24, 6:28 PM","3/16/24, 5:35 PM",,40.649847,-111.90236
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176804,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:55 PM","3/16/24, 5:45 PM","3/16/24, 6:55 PM","3/16/24, 5:45 PM",,40.736823,-111.90475
+UT-Incident--176806,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:27 PM","3/16/24, 6:28 PM","3/16/24, 7:27 PM","3/16/24, 6:28 PM",,40.679062,-111.902181
+UT-Incident--176807,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
+NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
+Right Shoulder
+Est. Clearance Time: 7:31 PM","3/16/24, 6:32 PM","3/16/24, 7:31 PM","3/16/24, 6:32 PM",,37.613172,-113.153387
 UT-Incident--176801,Incidents,I-80,Tooele County,I-80 at MP 45,"Crash
 EB I-80 at MP 45 (4 mi E of Knolls) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 6:15 PM","3/16/24, 5:10 PM","3/16/24, 6:15 PM","3/16/24, 5:10 PM",,40.726531,-113.188092
+UT-Incident--176805,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
+EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:09 PM","3/16/24, 6:09 PM","3/16/24, 7:09 PM","3/16/24, 6:09 PM",,40.741134,-111.741641
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
