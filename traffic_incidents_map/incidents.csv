@@ -14232,7 +14232,6 @@ UT-Incident--176846,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","3/18/24, 8:50 AM","3/18/24, 10:15 AM","3/18/24, 9:21 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176848,Incidents,HWY 201,Salt Lake County,HWY 201 at BANGERTER HWY,"Crash
 EB SR-201 at Bangerter Hwy (West Valley) Salt Lake Co.
 Left Shoulder
@@ -14244,6 +14243,7 @@ Est. Clearance Time: 10:30 AM","3/18/24, 9:22 AM","3/18/24, 10:30 AM","3/18/24, 
 UT-Incident--176849,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
 WB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
 Est. Clearance Time: 10:15 AM","3/18/24, 9:10 AM","3/18/24, 10:15 AM","3/18/24, 9:10 AM",,41.886311,-112.494803
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
