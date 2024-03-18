@@ -14246,19 +14246,23 @@ Est. Clearance Time: 10:15 AM","3/18/24, 9:10 AM","3/18/24, 10:15 AM","3/18/24, 
 UT-Incident--176852,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Est. Clearance Time: 1:00 PM","3/18/24, 11:48 AM","3/18/24, 1:00 PM","3/18/24, 11:48 AM",,39.957242,-111.796974
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176853,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:09 PM","3/18/24, 2:10 PM","3/18/24, 3:09 PM","3/18/24, 2:10 PM",,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176856,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+SB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:08 PM","3/18/24, 3:09 PM","3/18/24, 4:08 PM","3/18/24, 3:09 PM",,40.722344,-111.904691
 UT-Incident--176854,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 3:41 PM","3/18/24, 2:42 PM","3/18/24, 3:41 PM","3/18/24, 2:42 PM",,40.747119,-111.724705
+Right Lane Closed
+Est. Clearance Time: 3:41 PM","3/18/24, 2:42 PM","3/18/24, 3:41 PM","3/18/24, 3:15 PM",,40.747119,-111.724705
 UT-Incident--176855,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
 Both Directions SR 36 at MP 61 (Bates Canyon Rd) Tooele Co.
-Est. Clearance Time: 3:55 PM","3/18/24, 2:57 PM","3/18/24, 3:55 PM","3/18/24, 3:02 PM",,40.626191,-112.29223
+Est. Clearance Time: 3:55 PM","3/18/24, 2:57 PM","3/18/24, 3:55 PM","3/18/24, 3:16 PM",,40.626191,-112.29223
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
