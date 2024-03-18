@@ -14184,12 +14184,15 @@ UT-Incident--176834,Incidents,I-15,Utah County,I-15 at MP 275,"Animal in traffic
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Est. Clearance Time: 9:59 PM","3/17/24, 8:59 PM","3/17/24, 9:59 PM","3/17/24, 9:15 PM",,40.346539,-111.763778
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
-NB US 191 Closed
- at MP 404 (UT/WY Border) Daggett Co.
-Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",,40.997685,-109.432538
 UT-Incident--176835,Incidents,US 89,Utah County,US 89 at MP 304,"Crash
 Both Directions US 89 at MP 304 (1 mile S of Birdseye) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:11 PM","3/17/24, 9:12 PM","3/17/24, 10:11 PM","3/17/24, 9:12 PM",,39.905277,-111.549549
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176836,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Ramp State St to EB I-80 Closed
+Salt Lake Co.
+Use Alt Route","3/17/24, 10:20 PM","3/18/24, 4:17 AM","3/17/24, 10:20 PM",,40.718332,-111.893095
+UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
+NB US 191 Closed
+ at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",,40.997685,-109.432538
