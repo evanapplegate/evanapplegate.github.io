@@ -14257,11 +14257,11 @@ Est. Clearance Time: 3:41 PM","3/18/24, 2:42 PM","3/18/24, 3:41 PM","3/18/24, 3:
 UT-Incident--176855,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
 Both Directions SR 36 at MP 61 (Bates Canyon Rd) Tooele Co.
 Est. Clearance Time: 3:55 PM","3/18/24, 2:57 PM","3/18/24, 3:55 PM","3/18/24, 3:16 PM",,40.626191,-112.29223
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176857,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
 SB SR 36 at MP 61 (Stansbury Park) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 4:26 PM","3/18/24, 3:26 PM","3/18/24, 4:26 PM","3/18/24, 3:26 PM",,40.626191,-112.29223
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176856,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
@@ -14274,15 +14274,27 @@ Est. Clearance Time: 5:15 PM","3/18/24, 4:04 PM","3/18/24, 5:15 PM","3/18/24, 4:
 UT-Incident--176861,Incidents,I-15,Utah County,I-15 at MP 273,"Vehicle on fire
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right 2Lane Closed
-Est. Clearance Time: 5:17 PM","3/18/24, 4:18 PM","3/18/24, 5:17 PM","3/18/24, 4:22 PM",,40.328045,-111.73498
+Est. Clearance Time: 5:17 PM","3/18/24, 4:18 PM","3/18/24, 5:17 PM","3/18/24, 4:30 PM",,40.328045,-111.73498
 UT-Incident--176862,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","3/18/24, 4:20 PM","3/18/24, 5:30 PM","3/18/24, 4:20 PM",,40.74966,-111.90976
+UT-Incident--176863,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:23 PM","3/18/24, 4:24 PM","3/18/24, 5:23 PM","3/18/24, 4:24 PM",,40.328045,-111.73498
+UT-Incident--176864,Incidents,I-15,Utah County,I-15 at MP 273,"Vehicle on fire
+SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:27 PM","3/18/24, 4:27 PM","3/18/24, 5:27 PM","3/18/24, 4:27 PM",,40.328045,-111.73498
 UT-Incident--176860,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 EB I-215 S at MP 8 (1300 E) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:10 PM","3/18/24, 4:11 PM","3/18/24, 5:10 PM","3/18/24, 4:11 PM",,40.631583,-111.839435
+UT-Incident--176865,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:29 PM","3/18/24, 4:30 PM","3/18/24, 5:29 PM","3/18/24, 4:30 PM",,40.636258,-111.914012
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
