@@ -14176,7 +14176,6 @@ Est. Clearance Time: 6:12 PM","3/17/24, 5:15 PM","3/17/24, 6:12 PM","3/17/24, 5:
 UT-Incident--176833,Incidents,I-15,Millard County,I-15 at MP 183,"Crash
 NB I-15 at MP 183 (5 mi S of Scipio) Millard Co.
 Est. Clearance Time: 6:31 PM","3/17/24, 5:32 PM","3/17/24, 6:31 PM","3/17/24, 5:32 PM",,39.198168,-112.183878
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176832,Incidents,I-15,Iron County,I-15 at MP 58,"Crash
 NB I-15 at MP 58 (Center St / Cedar City) Iron Co.
 Left Shoulder
@@ -14184,6 +14183,7 @@ Est. Clearance Time: 6:30 PM","3/17/24, 5:31 PM","3/17/24, 6:30 PM","3/17/24, 5:
 UT-Incident--176834,Incidents,I-15,Utah County,I-15 at MP 275,"Animal in traffic
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Est. Clearance Time: 9:59 PM","3/17/24, 8:59 PM","3/17/24, 9:59 PM","3/17/24, 9:15 PM",,40.346539,-111.763778
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
