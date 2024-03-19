@@ -14396,12 +14396,16 @@ UT-Incident--176900,Incidents,Minersville Hwy,Iron County,Minersville Hwy at 300
 NB Minersville Hwy at 3000 N Iron Co.
 Cleared at 3:23 PM
 Est. Clearance Time: 4:35 PM","3/19/24, 3:23 PM","3/19/24, 4:35 PM","3/19/24, 3:23 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176901,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 NB I-15 at MP 280 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","3/19/24, 3:55 PM","3/19/24, 5:00 PM","3/19/24, 3:55 PM",,40.39191,-111.835579
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176902,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:35 PM","3/19/24, 4:26 PM","3/19/24, 5:35 PM","3/19/24, 4:26 PM",,40.636258,-111.914012
 UT-Incident--176895,Incidents,I-80,Summit County,I-80 at MP 142,"Construction
 EB I-80 at MP 142 (Jeremy Ranch, Park City) Summit Co.
 2 Left Lanes Closed
