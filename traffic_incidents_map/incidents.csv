@@ -14338,7 +14338,6 @@ UT-Incident--176883,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 SB I-215 W at MP 25 Off Ramp (2100 N,) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","3/19/24, 7:11 AM","3/19/24, 8:15 AM","3/19/24, 7:11 AM",,40.803702,-111.949406
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176888,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 2 Right Lanes Closed
@@ -14347,13 +14346,14 @@ UT-Incident--176886,Incidents,SR 248,Summit County,SR 248 at MP 3,"Crash
 SR 248 at MP 3 (US-40 Jct) Summit Co.
 Est. Clearance Time: 9:15 AM","3/19/24, 8:11 AM","3/19/24, 9:15 AM","3/19/24, 8:11 AM",,40.682241,-111.464579
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176880,Incidents,I-15,Millard County,I-15 at MP 151,"Crash
 SB I-15 at MP 151 (5 mi NE of Kanosh) Millard Co.
 Est. Clearance Time: 10:30 AM","3/19/24, 6:11 AM","3/19/24, 10:30 AM","3/19/24, 8:25 AM",,38.814342,-112.500988
 UT-Incident--176885,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 9:15 AM","3/19/24, 8:09 AM","3/19/24, 9:15 AM","3/19/24, 8:20 AM",,40.791232,-111.916128
+Left Lane Closed
+Est. Clearance Time: 9:15 AM","3/19/24, 8:09 AM","3/19/24, 9:15 AM","3/19/24, 9:06 AM",,40.791232,-111.916128
 UT-Incident--176887,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Right Lanes Closed
