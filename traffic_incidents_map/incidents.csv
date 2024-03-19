@@ -14385,7 +14385,6 @@ UT-Incident--176899,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:53 PM","3/19/24, 2:54 PM","3/19/24, 3:53 PM","3/19/24, 2:54 PM",,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176897,Incidents,4100 S,Salt Lake County,4100 S at Bangerter Hwy,"Crash
 EB 4100 S at Bangerter Hwy (West Valley) Salt Lake Co.
 Right Lanes Closed
@@ -14394,14 +14393,15 @@ UT-Incident--176898,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 5600 S
 All Directions Harrison Blvd at 5600 S Weber Co.
 Blocking Intersection","3/19/24, 2:05 PM","3/19/24, 3:15 PM","3/19/24, 2:05 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176895,Incidents,I-80,Summit County,I-80 at MP 142,"Construction
-EB I-80 at MP 142 (Jeremy Ranch, Park City) Summit Co.
-2 Left Lanes Closed
-Est. Clearance Time: 3:00 PM","3/19/24, 11:37 AM","3/19/24, 3:00 PM","3/19/24, 11:37 AM",,40.751955,-111.569589
 UT-Incident--176900,Incidents,Minersville Hwy,Iron County,Minersville Hwy at 3000 N,"Crash
 NB Minersville Hwy at 3000 N Iron Co.
 Cleared at 3:23 PM
 Est. Clearance Time: 4:35 PM","3/19/24, 3:23 PM","3/19/24, 4:35 PM","3/19/24, 3:23 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176895,Incidents,I-80,Summit County,I-80 at MP 142,"Construction
+EB I-80 at MP 142 (Jeremy Ranch, Park City) Summit Co.
+2 Left Lanes Closed
+Est. Clearance Time: 3:00 PM","3/19/24, 11:37 AM","3/19/24, 3:00 PM","3/19/24, 11:37 AM",,40.751955,-111.569589
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
