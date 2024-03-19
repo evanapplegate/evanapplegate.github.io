@@ -14293,7 +14293,6 @@ UT-Incident--176867,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:42 PM","3/18/24, 4:43 PM","3/18/24, 5:42 PM","3/18/24, 4:43 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176866,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 Ramp SB I-15 at MP 308 (WB I-80 Ramp) Salt Lake Co.
 Right Shoulder
@@ -14318,6 +14317,7 @@ UT-Incident--176871,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
 SB SR 36 at MP 56 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","3/18/24, 5:32 PM","3/18/24, 6:30 PM","3/18/24, 5:32 PM",,40.554334,-112.297621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
