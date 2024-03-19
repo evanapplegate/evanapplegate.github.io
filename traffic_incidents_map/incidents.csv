@@ -14342,19 +14342,23 @@ Est. Clearance Time: 8:15 AM","3/19/24, 7:11 AM","3/19/24, 8:15 AM","3/19/24, 7:
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176880,Incidents,I-15,Millard County,I-15 at MP 151,"Crash
 SB I-15 at MP 151 (5 mi NE of Kanosh) Millard Co.
-Est. Clearance Time: 10:30 AM","3/19/24, 6:11 AM","3/19/24, 10:30 AM","3/19/24, 8:25 AM",View on map,38.814342,-112.500988
+Est. Clearance Time: 10:30 AM","3/19/24, 6:11 AM","3/19/24, 10:30 AM","3/19/24, 8:25 AM",,38.814342,-112.500988
 UT-Incident--176885,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 2 Left Lanes Closed
-Est. Clearance Time: 9:15 AM","3/19/24, 8:09 AM","3/19/24, 9:15 AM","3/19/24, 8:20 AM",View on map,40.791232,-111.916128
+Est. Clearance Time: 9:15 AM","3/19/24, 8:09 AM","3/19/24, 9:15 AM","3/19/24, 8:20 AM",,40.791232,-111.916128
 UT-Incident--176887,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Right Lanes Closed
-Est. Clearance Time: 9:35 AM","3/19/24, 8:24 AM","3/19/24, 9:35 AM","3/19/24, 8:24 AM",View on map,40.52103,-111.891246
+Est. Clearance Time: 9:35 AM","3/19/24, 8:24 AM","3/19/24, 9:35 AM","3/19/24, 8:24 AM",,40.52103,-111.891246
+UT-Incident--176888,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
+SB I-15 at MP 314 (Main St, NSL) Davis Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:45 AM","3/19/24, 8:35 AM","3/19/24, 9:45 AM","3/19/24, 8:35 AM",,40.846156,-111.91486
 UT-Incident--176886,Incidents,SR 248,Summit County,SR 248 at MP 3,"Crash
 SR 248 at MP 3 (US-40 Jct) Summit Co.
-Est. Clearance Time: 9:15 AM","3/19/24, 8:11 AM","3/19/24, 9:15 AM","3/19/24, 8:11 AM",View on map,40.682241,-111.464579
+Est. Clearance Time: 9:15 AM","3/19/24, 8:11 AM","3/19/24, 9:15 AM","3/19/24, 8:11 AM",,40.682241,-111.464579
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
-Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",View on map,40.997685,-109.432538
+Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",,40.997685,-109.432538
