@@ -14361,18 +14361,21 @@ SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 11:00 AM","3/19/24, 8:24 AM","3/19/24, 11:00 AM","3/19/24, 10:04 AM",,40.52103,-111.891246
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176890,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:15 AM","3/19/24, 10:10 AM","3/19/24, 11:15 AM","3/19/24, 10:10 AM",,40.592858,-111.902495
-UT-Incident--176891,Incidents,I-15,Iron County,I-15 at MP 65,"Crash
-NB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
-Est. Clearance Time: 11:35 AM","3/19/24, 10:28 AM","3/19/24, 11:35 AM","3/19/24, 10:28 AM",,37.756376,-113.023426
 UT-Incident--176892,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:45 AM","3/19/24, 10:37 AM","3/19/24, 11:45 AM","3/19/24, 10:37 AM",,40.453646,-111.91388
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176894,Incidents,2000 W,Weber County,2000 W at 2700 N,"Crash
+All Directions 2000 W at 2700 N Weber Co.
+Blocking Intersection","3/19/24, 11:09 AM","3/19/24, 12:15 PM","3/19/24, 11:09 AM",,41.307056,-112.027671
+UT-Incident--176891,Incidents,I-15,Iron County,I-15 at MP 65,"Crash
+NB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
+Est. Clearance Time: 11:35 AM","3/19/24, 10:28 AM","3/19/24, 11:35 AM","3/19/24, 10:28 AM",,37.756376,-113.023426
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
