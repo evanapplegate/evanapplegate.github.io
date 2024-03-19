@@ -14404,7 +14404,6 @@ UT-Incident--176895,Incidents,I-80,Summit County,I-80 at MP 142,"Construction
 EB I-80 at MP 142 (Jeremy Ranch, Park City) Summit Co.
 2 Left Lanes Closed
 Est. Clearance Time: 3:00 PM","3/19/24, 11:37 AM","3/19/24, 3:00 PM","3/19/24, 11:37 AM",,40.751955,-111.569589
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176904,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
@@ -14417,6 +14416,7 @@ UT-Incident--176905,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Medical
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:54 PM","3/19/24, 5:00 PM","3/19/24, 5:54 PM","3/19/24, 5:00 PM",,40.578741,-111.900284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176906,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
