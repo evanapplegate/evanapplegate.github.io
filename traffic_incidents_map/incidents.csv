@@ -14322,7 +14322,6 @@ Est. Clearance Time: 5:19 AM","3/19/24, 4:19 AM","3/19/24, 5:19 AM","3/19/24, 4:
 UT-Incident--176879,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Est. Clearance Time: 6:52 AM","3/19/24, 5:53 AM","3/19/24, 6:52 AM","3/19/24, 5:53 AM",,40.262286,-111.70752
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176881,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
 SB I-15 at MP 348 (Harrisville Rd) Weber Co.
 Right Lane Closed
@@ -14332,6 +14331,11 @@ NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:00 AM","3/19/24, 6:50 AM","3/19/24, 8:00 AM","3/19/24, 7:03 AM",,40.649847,-111.90236
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176884,Incidents,HWY 201,Salt Lake County,HWY 201 at 3230 W,"Medical
+WB SR 201 at MP 13 (3500 W) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:35 AM","3/19/24, 7:26 AM","3/19/24, 8:35 AM","3/19/24, 7:30 AM",,40.72596,-111.97968
 UT-Incident--176880,Incidents,I-15,Millard County,I-15 at MP 151,"Crash
 SB I-15 at MP 151 (5 mi NE of Kanosh) Millard Co.
 Est. Clearance Time: 7:15 AM","3/19/24, 6:11 AM","3/19/24, 7:15 AM","3/19/24, 6:11 AM",,38.814342,-112.500988
