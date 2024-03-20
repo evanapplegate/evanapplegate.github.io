@@ -14514,7 +14514,6 @@ UT-Incident--176934,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 1:40 PM","3/20/24, 12:32 PM","3/20/24, 1:40 PM","3/20/24, 12:43 PM",,40.914229,-111.891449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176935,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12600 S, Draper) Salt Lake Co.
 2 Left Lanes Closed
@@ -14523,4 +14522,5 @@ UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/15/24, 7:10 AM","3/19/24, 8:09 AM","3/17/24, 1:10 PM",,40.997685,-109.432538
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
