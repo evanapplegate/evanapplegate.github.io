@@ -14490,7 +14490,6 @@ Est. Clearance Time: 9:36 AM","3/20/24, 8:37 AM","3/20/24, 9:36 AM","3/20/24, 8:
 UT-Incident--176922,Incidents,SR 36,Tooele County,SR 36 at MP 41,"Crash
 SR 36 at MP 41 (Rail Crossing) Tooele Co.
 Est. Clearance Time: 9:00 AM","3/20/24, 8:01 AM","3/20/24, 9:00 AM","3/20/24, 8:01 AM",,40.366319,-112.40889
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176928,Incidents,Antelope Dr,Davis County,Antelope Dr at Fairfield Rd,"Crash
 EB Antelope Dr at Fairfield Rd Davis Co.
 Est. Clearance Time: 10:30 AM","3/20/24, 9:29 AM","3/20/24, 10:30 AM","3/20/24, 9:29 AM",,41.088846,-111.948414
@@ -14499,6 +14498,11 @@ NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:30 AM","3/20/24, 9:20 AM","3/20/24, 10:30 AM","3/20/24, 9:20 AM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176930,Incidents,State St,Utah County,State St at 1200 S,"Crash
+All Directions State St at 1200 S (Orem) Utah Co.
+NB Closed
+Est. Clearance Time: 12:00 PM","3/20/24, 10:10 AM","3/20/24, 12:00 PM","3/20/24, 10:10 AM",,40.275092,-111.68531
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
