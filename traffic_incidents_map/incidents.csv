@@ -14419,7 +14419,6 @@ UT-Incident--176902,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","3/19/24, 4:26 PM","3/19/24, 5:35 PM","3/19/24, 4:26 PM",,40.636258,-111.914012
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176906,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
@@ -14440,6 +14439,7 @@ UT-Incident--176910,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Vehicle on f
 WB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:03 PM","3/19/24, 6:04 PM","3/19/24, 7:03 PM","3/19/24, 6:04 PM",,40.770664,-112.009234
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
