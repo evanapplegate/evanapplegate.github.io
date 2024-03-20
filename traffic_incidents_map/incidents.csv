@@ -14475,7 +14475,6 @@ UT-Incident--176923,Incidents,SR 201 EB On Bangerter NB Ramp,Salt Lake County,SR
 EB SR 201 Bangerter On Ramp Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:00 AM","3/20/24, 8:01 AM","3/20/24, 9:00 AM","3/20/24, 8:02 AM",,40.723865,-111.986307
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176925,Incidents,HWY 201,Salt Lake County,HWY 201 at BANGERTER HWY,"Crash
 EB SR-201 at Bangerter Hwy (West Valley City) Salt Lake Co.
 Left Shoulder
@@ -14485,6 +14484,11 @@ UT-Incident--176926,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Stalled Vehi
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","3/20/24, 8:48 AM","3/20/24, 10:15 AM","3/20/24, 8:56 AM",,40.550055,-111.896336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176927,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:30 AM","3/20/24, 9:20 AM","3/20/24, 10:30 AM","3/20/24, 9:20 AM",,40.480607,-111.902252
 UT-Incident--176924,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
