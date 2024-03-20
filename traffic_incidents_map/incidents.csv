@@ -14415,7 +14415,6 @@ UT-Incident--176905,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Medical
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:54 PM","3/19/24, 5:00 PM","3/19/24, 5:54 PM","3/19/24, 5:00 PM",,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176902,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
@@ -14425,13 +14424,22 @@ UT-Incident--176906,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","3/19/24, 5:04 PM","3/19/24, 6:15 PM","3/19/24, 5:04 PM",,40.763745,-111.914284
+UT-Incident--176908,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+SB I-215 W at MP 22 (N Temple) Salt Lake Co.
+Est. Clearance Time: 6:15 PM","3/19/24, 5:11 PM","3/19/24, 6:15 PM","3/19/24, 5:11 PM",,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176909,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:36 PM","3/19/24, 5:36 PM","3/19/24, 6:36 PM","3/19/24, 5:36 PM",,40.722344,-111.904691
-UT-Incident--176908,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
-SB I-215 W at MP 22 (N Temple) Salt Lake Co.
-Est. Clearance Time: 6:15 PM","3/19/24, 5:11 PM","3/19/24, 6:15 PM","3/19/24, 5:11 PM",,40.760605,-111.951068
+UT-Incident--176911,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+SB I-15 at MP 285 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","3/19/24, 6:23 PM","3/19/24, 7:35 PM","3/19/24, 6:23 PM",,40.442142,-111.903011
+UT-Incident--176910,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Vehicle on fire
+WB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:03 PM","3/19/24, 6:04 PM","3/19/24, 7:03 PM","3/19/24, 6:04 PM",,40.770664,-112.009234
 UT-Incident--176747,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather
 NB US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
