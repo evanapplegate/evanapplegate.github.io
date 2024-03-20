@@ -14463,7 +14463,6 @@ UT-Incident--176919,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","3/20/24, 7:01 AM","3/20/24, 8:00 AM","3/20/24, 7:01 AM",,41.066718,-111.970064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176920,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
@@ -14476,6 +14475,7 @@ UT-Incident--176923,Incidents,SR 201 EB On Bangerter NB Ramp,Salt Lake County,SR
 EB SR 201 Bangerter On Ramp Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:00 AM","3/20/24, 8:01 AM","3/20/24, 9:00 AM","3/20/24, 8:02 AM",,40.723865,-111.986307
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176922,Incidents,SR 36,Tooele County,SR 36 at MP 41,"Crash
 SR 36 at MP 41 (Rail Crossing) Tooele Co.
