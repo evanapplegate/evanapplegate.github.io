@@ -14637,11 +14637,11 @@ UT-Incident--176969,Incidents,I-215W SB X21 OFF CALIFORNIA RAMP,Salt Lake County
 SB I-215W California Offramp (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","3/21/24, 8:50 AM","3/21/24, 10:30 AM",,,40.7416,-111.949666
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176974,Incidents,US 91,Box Elder County,US 91 111,"Crash
 WB US 91 at I-15 (Brigham City) Box Elder Co.
 Both Lanes Closed, Traffic Using Shoulder
 Est. Clearance Time: 12:45 PM","3/21/24, 11:38 AM","3/21/24, 12:45 PM","3/21/24, 11:38 AM",,41.485758,-112.051643
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176976,Incidents,HWY 201,Salt Lake County,HWY 201 at I-215W SB FWY,"Crash
 EB SR-201 at I-215 W Salt Lake Co.
@@ -14650,6 +14650,10 @@ Est. Clearance Time: 1:45 PM","3/21/24, 12:35 PM","3/21/24, 1:45 PM","3/21/24, 1
 UT-Incident--176975,Incidents,I-15 SB X326 Rest Area Ramp,Davis County,I-15 SB X326 Rest Area Ramp at Rest Area,"Crash
 SB I-15 Exit 326 Rest Area Ramp Davis Co.
 Est. Clearance Time: 1:15 PM","3/21/24, 11:56 AM","3/21/24, 1:15 PM","3/21/24, 11:56 AM",,41.008541,-111.935612
+UT-Incident--176978,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
+EB I-215 S at MP 9 (1400 E) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:00 PM","3/21/24, 1:00 PM","3/21/24, 2:00 PM","3/21/24, 1:00 PM",,40.630494,-111.853181
 UT-Incident--176977,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD at 1050 W,"Crash
 Both Directions Riverdale Rd at 1050 W Weber Co.
 Left Lanes Closed
