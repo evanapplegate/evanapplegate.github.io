@@ -14575,11 +14575,6 @@ UT-Incident--176955,Incidents,1300 E,Salt Lake County,1300 E at Vanwinkle Expy,"
 All Directions 1300 E Closed at Vanwinkle Expy (Salt Lake County)
 Use Alt Route","3/20/24, 9:53 PM","3/21/24, 1:00 AM","3/20/24, 10:06 PM",,40.659037,-111.854493
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176956,Incidents,I-15,Box Elder County,I-15 at MP 364,"Crash
-NB I-15 at MP 364 (Brigham City) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 1:33 AM","3/21/24, 12:33 AM","3/21/24, 1:33 AM","3/21/24, 12:33 AM",,41.513035,-112.061215
 UT-Incident--176957,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Cleared at 12:59 AM
@@ -14587,3 +14582,8 @@ Est. Clearance Time: 1:41 AM","3/21/24, 12:41 AM","3/21/24, 1:41 AM","3/21/24, 1
 UT-Incident--176954,Incidents,US 6,Emery County,US 6 at MP 269,"Crash
 Both Directions US 6 at MP 269 (9 Miles West of Woodside) Emery Co.
 Est. Clearance Time: 10:45 PM","3/20/24, 9:36 PM","3/21/24, 12:30 AM","3/20/24, 11:09 PM",,39.388366,-110.412302
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176956,Incidents,I-15,Box Elder County,I-15 at MP 364,"Crash
+NB I-15 at MP 364 (Brigham City) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 3:00 AM","3/21/24, 12:33 AM","3/21/24, 3:00 AM","3/21/24, 1:57 AM",,41.513035,-112.061215
