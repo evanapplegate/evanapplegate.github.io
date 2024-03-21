@@ -14534,11 +14534,6 @@ NB I-15 at MP 336 (Sunset) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","3/20/24, 4:28 PM","3/20/24, 5:35 PM","3/20/24, 4:28 PM",,41.125961,-112.025249
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--176940,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 6:20 PM","3/20/24, 5:21 PM","3/20/24, 6:20 PM","3/20/24, 5:33 PM",,40.480607,-111.902252
 UT-Incident--176941,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Shoulder
@@ -14547,3 +14542,20 @@ UT-Incident--176942,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","3/20/24, 5:29 PM","3/20/24, 6:30 PM","3/20/24, 5:29 PM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176940,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:50 PM","3/20/24, 5:21 PM","3/20/24, 6:50 PM","3/20/24, 6:27 PM",,40.480607,-111.902252
+UT-Incident--176945,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:10 PM","3/20/24, 6:04 PM","3/20/24, 7:10 PM","3/20/24, 6:20 PM",,40.328045,-111.73498
+UT-Incident--176946,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
+NB I-15 at MP 311 (2300 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:15 PM","3/20/24, 6:09 PM","3/20/24, 7:15 PM","3/20/24, 6:09 PM",,40.804836,-111.922481
+UT-Incident--176944,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
+SB I-215 W at MP 15 (4700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","3/20/24, 6:01 PM","3/20/24, 7:15 PM","3/20/24, 6:01 PM",,40.659924,-111.952783
