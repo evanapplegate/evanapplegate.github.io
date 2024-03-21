@@ -14541,7 +14541,6 @@ UT-Incident--176942,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","3/20/24, 5:29 PM","3/20/24, 6:30 PM","3/20/24, 5:29 PM",,40.63036,-111.877391
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176940,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -14559,3 +14558,8 @@ UT-Incident--176946,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:15 PM","3/20/24, 6:09 PM","3/20/24, 7:15 PM","3/20/24, 6:09 PM",,40.804836,-111.922481
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176950,Incidents,I-80,Tooele County,I-80 at MP 55,"Medical
+EB I-80 at MP 55 (14 mi E of Knolls) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 9:00 PM","3/20/24, 7:58 PM","3/20/24, 9:00 PM","3/20/24, 7:58 PM",,40.761924,-113.006486
