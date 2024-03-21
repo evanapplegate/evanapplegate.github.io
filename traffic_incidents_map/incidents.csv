@@ -14624,7 +14624,6 @@ Est. Clearance Time: 10:30 AM","3/21/24, 9:28 AM","3/21/24, 10:30 AM",,,40.67742
 UT-Incident--176965,Incidents,HWY 28,Sanpete County,HWY 28,"Crash
 SR-28 at MP 16 Sanpete Co.
 Est. Clearance Time: 10:15 AM","3/21/24, 8:03 AM","3/21/24, 10:15 AM",,,39.366253,-111.929585
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--176970,Incidents,HWY 28,Sanpete County,HWY 28,"Crash
 SR-28 at MP 13 Sanpete Co.
 Est. Clearance Time: 11:00 AM","3/21/24, 8:52 AM","3/21/24, 11:00 AM",,,39.327237,-111.912119
@@ -14639,6 +14638,10 @@ SB I-215W California Offramp (SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","3/21/24, 8:50 AM","3/21/24, 10:30 AM",,,40.7416,-111.949666
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176975,Incidents,I-15 SB X326 Rest Area Ramp,Davis County,I-15 SB X326 Rest Area Ramp at Rest Area,"Crash
+SB I-15 Exit 326 Rest Area Ramp Davis Co.
+Est. Clearance Time: 1:15 PM","3/21/24, 11:56 AM","3/21/24, 1:15 PM","3/21/24, 11:56 AM",,41.008541,-111.935612
 UT-Incident--176974,Incidents,US 91,Box Elder County,US 91 111,"Crash
 WB US 91 at I-15 (Brigham City) Box Elder Co.
 Both Lanes Closed, Traffic Using Shoulder
