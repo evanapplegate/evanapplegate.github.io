@@ -14589,7 +14589,6 @@ UT-Incident--176958,Incidents,650 N,Davis County,650 N at Main St,"Crash
 WB 650 N at Main St Davis Co.
 Left Shoulder
 Est. Clearance Time: 7:32 AM","3/21/24, 6:32 AM","3/21/24, 7:32 AM","3/21/24, 6:32 AM",,41.123847,-112.026057
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176960,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Left Shoulder
@@ -14597,6 +14596,7 @@ Est. Clearance Time: 8:00 AM","3/21/24, 7:01 AM","3/21/24, 8:00 AM","3/21/24, 7:
 UT-Incident--176962,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Est. Clearance Time: 9:15 AM","3/21/24, 7:54 AM","3/21/24, 9:15 AM","3/21/24, 7:54 AM",,40.453646,-111.91388
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176965,Incidents,HWY 28,Sanpete County,HWY 28,"Crash
 SR-28 at MP 16 Sanpete Co.
