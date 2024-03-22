@@ -14717,7 +14717,6 @@ Est. Clearance Time: 3:49 AM","3/22/24, 2:49 AM","3/22/24, 3:49 AM","3/22/24, 2:
 UT-Incident--176997,Incidents,SR 130,Iron County,SR 130 at MP 14,"Vehicle on fire
 Both Directions SR 130 at MP 14 (8 MI from I-15 N Jct) Iron Co.
 Est. Clearance Time: 4:55 AM","3/22/24, 3:56 AM","3/22/24, 4:55 AM","3/22/24, 3:56 AM",,37.838371,-113.047832
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176998,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -14727,3 +14726,4 @@ UT-Incident--176999,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 SB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:17 AM","3/22/24, 6:18 AM","3/22/24, 7:17 AM","3/22/24, 6:18 AM",,40.641354,-111.808234
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
