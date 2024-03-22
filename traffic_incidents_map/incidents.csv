@@ -14792,7 +14792,6 @@ Est. Clearance Time: 5:50 PM","3/22/24, 4:42 PM","3/22/24, 5:50 PM","3/22/24, 4:
 UT-Incident--177018,Incidents,US 40,Duchesne County,US 40 at MP 72,"Crash
 WB US 40 at MP 72 (9 mi E of Fruitland) Duchesne Co.
 Est. Clearance Time: 5:35 PM","3/22/24, 4:20 PM","3/22/24, 5:35 PM","3/22/24, 4:20 PM",,40.184923,-110.666649
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177026,Incidents,Main St,Uintah County,Main St at 500 E,"Crash
 EB Main St at 500 E Uintah Co.
 Est. Clearance Time: 6:10 PM","3/22/24, 5:06 PM","3/22/24, 6:10 PM","3/22/24, 5:06 PM",,40.455788,-109.522669
@@ -14800,6 +14799,11 @@ Est. Clearance Time: 6:10 PM","3/22/24, 5:06 PM","3/22/24, 6:10 PM","3/22/24, 5:
 UT-Incident--177028,Incidents,200 N,Iron County,200 N at Main St,"Crash
 WB 200 N at Main St Iron Co.
 Est. Clearance Time: 6:35 PM","3/22/24, 5:15 PM","3/22/24, 6:35 PM","3/22/24, 5:15 PM",,37.680909,-113.061809
+UT-Incident--177019,Incidents,I-84 WB X96 Off Morganvly Dr Ramp,Morgan County,I-84 WB X96 Off Morganvly Dr Ramp at 4300 N,"Vehicle on fire
+WB I-84 Morganvly Dr Off Ramp(1 mile N of Morgan) 
+Right Shoulder
+Est. Clearance Time: 6:00 PM","3/22/24, 4:25 PM","3/22/24, 6:00 PM","3/22/24, 5:07 PM",,41.113084,-111.761025
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177023,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -14807,11 +14811,7 @@ Est. Clearance Time: 5:45 PM","3/22/24, 4:35 PM","3/22/24, 5:45 PM","3/22/24, 4:
 UT-Incident--177025,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:55 PM","3/22/24, 4:49 PM","3/22/24, 5:55 PM","3/22/24, 4:50 PM",,40.693589,-111.902881
-UT-Incident--177019,Incidents,I-84 WB X96 Off Morganvly Dr Ramp,Morgan County,I-84 WB X96 Off Morganvly Dr Ramp at 4300 N,"Vehicle on fire
-WB I-84 Morganvly Dr Off Ramp(1 mile N of Morgan) 
-Right Shoulder
-Est. Clearance Time: 6:00 PM","3/22/24, 4:25 PM","3/22/24, 6:00 PM","3/22/24, 5:07 PM",,41.113084,-111.761025
+Est. Clearance Time: 5:55 PM","3/22/24, 4:49 PM","3/22/24, 5:55 PM","3/22/24, 5:42 PM",,40.693589,-111.902881
 UT-Incident--177027,Incidents,SR 130,Iron County,SR 130 at MP 8,"Crash
 SB SR 130 at MP 8 (Blue Sky S Dr in Enoch) Iron Co.
 Est. Clearance Time: 6:25 PM","3/22/24, 5:11 PM","3/22/24, 6:25 PM","3/22/24, 5:11 PM",,37.753829,-113.055202
