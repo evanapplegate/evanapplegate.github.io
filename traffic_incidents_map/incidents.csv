@@ -14672,7 +14672,6 @@ UT-Incident--176984,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 NB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:20 PM","3/21/24, 5:21 PM","3/21/24, 6:20 PM","3/21/24, 5:21 PM",,40.621691,-111.903876
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176982,Incidents,I-15,Utah County,I-15 at MP 282,"Vehicle on fire
 SB I-15 at MP 282 (Lehi) Utah Co.
 2 Right Lanes Closed
@@ -14694,3 +14693,4 @@ UT-Incident--176989,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Vehicle on f
 EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","3/21/24, 7:26 PM","3/21/24, 8:30 PM","3/21/24, 7:30 PM",,40.764633,-111.972427
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
