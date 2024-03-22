@@ -14785,7 +14785,6 @@ UT-Incident--177020,Incidents,1900 W,Weber County,1900 W at 2100 S,"Crash
 NB 1900 W at 2100 S Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:35 PM","3/22/24, 4:26 PM","3/22/24, 5:35 PM","3/22/24, 4:26 PM",,41.231003,-112.025533
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177024,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 NB I-15 at MP 267 (N of Center St) Utah Co.
 2 Left Lanes Closed
@@ -14793,6 +14792,10 @@ Est. Clearance Time: 5:50 PM","3/22/24, 4:42 PM","3/22/24, 5:50 PM","3/22/24, 4:
 UT-Incident--177018,Incidents,US 40,Duchesne County,US 40 at MP 72,"Crash
 WB US 40 at MP 72 (9 mi E of Fruitland) Duchesne Co.
 Est. Clearance Time: 5:35 PM","3/22/24, 4:20 PM","3/22/24, 5:35 PM","3/22/24, 4:20 PM",,40.184923,-110.666649
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177026,Incidents,Main St,Uintah County,Main St at 500 E,"Crash
+EB Main St at 500 E Uintah Co.
+Est. Clearance Time: 6:10 PM","3/22/24, 5:06 PM","3/22/24, 6:10 PM","3/22/24, 5:06 PM",,40.455788,-109.522669
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177028,Incidents,200 N,Iron County,200 N at Main St,"Crash
 WB 200 N at Main St Iron Co.
@@ -14809,9 +14812,6 @@ UT-Incident--177019,Incidents,I-84 WB X96 Off Morganvly Dr Ramp,Morgan County,I-
 WB I-84 Morganvly Dr Off Ramp(1 mile N of Morgan) 
 Right Shoulder
 Est. Clearance Time: 6:00 PM","3/22/24, 4:25 PM","3/22/24, 6:00 PM","3/22/24, 5:07 PM",,41.113084,-111.761025
-UT-Incident--177026,Incidents,Main St,Uintah County,Main St at 500 E,"Crash
-EB Main St at 500 E Uintah Co.
-Est. Clearance Time: 6:10 PM","3/22/24, 5:06 PM","3/22/24, 6:10 PM","3/22/24, 5:06 PM",,40.455788,-109.522669
 UT-Incident--177027,Incidents,SR 130,Iron County,SR 130 at MP 8,"Crash
 SB SR 130 at MP 8 (Blue Sky S Dr in Enoch) Iron Co.
 Est. Clearance Time: 6:25 PM","3/22/24, 5:11 PM","3/22/24, 6:25 PM","3/22/24, 5:11 PM",,37.753829,-113.055202
