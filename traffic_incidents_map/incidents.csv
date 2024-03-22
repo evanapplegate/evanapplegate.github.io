@@ -14733,7 +14733,6 @@ UT-Incident--177006,Incidents,US 89,Weber County,US 89 at MP 422,"Crash
 SB US 89 at MP 422 (3900 N / Pleasant View) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 9:41 AM","3/22/24, 8:42 AM","3/22/24, 9:41 AM","3/22/24, 8:42 AM",,41.328141,-112.021869
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177002,Incidents,I-15,Utah County,I-15 at MP 249,"Crash
 Ramp I-15 at MP 249 (2 mi S of Payson) Utah Co.
 Right Shoulder
@@ -14743,7 +14742,12 @@ EB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","3/22/24, 7:56 AM","3/22/24, 9:15 AM","3/22/24, 8:36 AM",,40.724933,-112.039659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177008,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 9,"Crash
 SB Mountain View Corr at MP 9 (12200 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:24 AM","3/22/24, 9:25 AM","3/22/24, 10:24 AM","3/22/24, 9:25 AM",,40.523652,-112.004894
+UT-Incident--177009,Incidents,SR 204,Weber County,SR 204 at MP 1,"Crash
+SB SR 204 at MP 1 (31st St) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 10:44 AM","3/22/24, 9:44 AM","3/22/24, 10:44 AM","3/22/24, 9:44 AM",,41.207145,-111.979213
