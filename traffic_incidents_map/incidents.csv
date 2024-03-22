@@ -14742,12 +14742,16 @@ EB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","3/22/24, 7:56 AM","3/22/24, 9:15 AM","3/22/24, 8:36 AM",,40.724933,-112.039659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177008,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 9,"Crash
-SB Mountain View Corr at MP 9 (12200 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 10:24 AM","3/22/24, 9:25 AM","3/22/24, 10:24 AM","3/22/24, 9:25 AM",,40.523652,-112.004894
 UT-Incident--177009,Incidents,SR 204,Weber County,SR 204 at MP 1,"Crash
 SB SR 204 at MP 1 (31st St) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 10:44 AM","3/22/24, 9:44 AM","3/22/24, 10:44 AM","3/22/24, 9:44 AM",,41.207145,-111.979213
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177010,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
+NB I-215 W at MP 15 (4700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:17 AM","3/22/24, 10:18 AM","3/22/24, 11:17 AM","3/22/24, 10:18 AM",,40.659924,-111.952783
+UT-Incident--177008,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 9,"Crash
+SB Mountain View Corr at MP 9 (12200 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:24 AM","3/22/24, 9:25 AM","3/22/24, 10:24 AM","3/22/24, 9:25 AM",,40.523652,-112.004894
