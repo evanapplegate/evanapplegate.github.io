@@ -14660,7 +14660,6 @@ UT-Incident--176978,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (1400 E) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:00 PM","3/21/24, 1:00 PM","3/21/24, 2:00 PM",,,40.630494,-111.853181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--176980,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 Ramp I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
@@ -14686,3 +14685,12 @@ UT-Incident--176986,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Center Lanes Closed
 Est. Clearance Time: 6:45 PM","3/21/24, 5:45 PM","3/21/24, 6:45 PM","3/21/24, 5:45 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--176987,Incidents,I-15,Millard County,I-15 at MP 138,"Vehicle on fire
+Ramp I-15 at MP 138 (4 mi N of Cove Fort) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 7:39 PM","3/21/24, 6:40 PM","3/21/24, 7:39 PM","3/21/24, 6:40 PM",,38.658157,-112.595083
+UT-Incident--176989,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Vehicle on fire
+EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","3/21/24, 7:26 PM","3/21/24, 8:30 PM","3/21/24, 7:30 PM",,40.764633,-111.972427
