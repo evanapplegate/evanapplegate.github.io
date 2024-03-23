@@ -14899,16 +14899,20 @@ Ramp SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:39 AM","3/23/24, 9:41 AM","3/23/24, 10:39 AM","3/23/24, 9:41 AM",,40.725741,-112.001283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177054,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+Ramp EB I-215 S at MP 10 (State St Exit) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 12:01 PM","3/23/24, 11:02 AM","3/23/24, 12:01 PM","3/23/24, 11:02 AM",,40.63036,-111.877391
+UT-Incident--177053,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
+NB US 89 at MAIN ST Davis Co.
+Right Lane Closed
+Est. Clearance Time: 11:32 AM","3/23/24, 10:33 AM","3/23/24, 11:32 AM","3/23/24, 10:33 AM",,41.011985,-111.911764
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
-UT-Incident--177054,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-Ramp EB I-215 S at MP 10 (State St Exit) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 12:01 PM","3/23/24, 11:02 AM","3/23/24, 12:01 PM","3/23/24, 11:02 AM",,40.63036,-111.877391
 UT-Incident--177056,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Police incident
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Lanes Closed
@@ -14921,7 +14925,3 @@ UT-Incident--177051,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 NB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 10:52 AM","3/23/24, 9:53 AM","3/23/24, 10:52 AM","3/23/24, 9:53 AM",,40.560962,-111.427534
-UT-Incident--177053,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
-NB US 89 at MAIN ST Davis Co.
-Right Lane Closed
-Est. Clearance Time: 11:32 AM","3/23/24, 10:33 AM","3/23/24, 11:32 AM","3/23/24, 10:33 AM",,41.011985,-111.911764
