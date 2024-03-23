@@ -14898,7 +14898,6 @@ UT-Incident--177050,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled V
 Ramp SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:39 AM","3/23/24, 9:41 AM","3/23/24, 10:39 AM","3/23/24, 9:41 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177054,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 Ramp EB I-215 S at MP 10 (State St Exit) Salt Lake Co.
 Right Shoulder
@@ -14908,6 +14907,11 @@ NB US 89 at MAIN ST Davis Co.
 Right Lane Closed
 Est. Clearance Time: 11:32 AM","3/23/24, 10:33 AM","3/23/24, 11:32 AM","3/23/24, 10:33 AM",,41.011985,-111.911764
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177057,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+Ramp SB I-15 at MP 309 (600 N On Ramp) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 12:49 PM","3/23/24, 11:51 AM","3/23/24, 12:49 PM","3/23/24, 11:51 AM",,40.777705,-111.910735
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
