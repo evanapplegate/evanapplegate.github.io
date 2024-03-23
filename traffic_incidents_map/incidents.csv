@@ -14817,7 +14817,6 @@ UT-Incident--177022,Incidents,US 89,Utah County,US 89 at MP 298,"Crash
 NB US 89 at MP 298 (7 miles S of Birdseye) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:40 PM","3/22/24, 4:34 PM","3/22/24, 5:40 PM","3/22/24, 4:34 PM",,39.825678,-111.510287
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177029,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 SB I-15 at MP 267 (N of Center St) Utah Co.
 Est. Clearance Time: 6:50 PM","3/22/24, 5:51 PM","3/22/24, 6:50 PM","3/22/24, 6:20 PM",,40.251153,-111.695664
@@ -14836,3 +14835,4 @@ Est. Clearance Time: 8:05 PM","3/22/24, 6:17 PM","3/22/24, 8:05 PM","3/22/24, 7:
 UT-Incident--177033,Incidents,SR 36,Tooele County,SR 36 at MP 26,"Crash
 NB SR 36 at MP 26 (1 mi S of Faust) Tooele Co.
 Est. Clearance Time: 8:06 PM","3/22/24, 7:07 PM","3/22/24, 8:06 PM","3/22/24, 7:07 PM",,40.157423,-112.430733
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
