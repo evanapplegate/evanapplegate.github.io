@@ -14843,7 +14843,6 @@ SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","3/22/24, 8:48 PM","3/22/24, 10:00 PM","3/22/24, 8:48 PM",,40.044918,-111.743767
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177037,Incidents,I-80,Summit County,I-80 at MP 155,"Crash
 WB I-80 at MP 155 (Wanship) Summit Co.
 Est. Clearance Time: 10:00 PM","3/22/24, 8:59 PM","3/22/24, 10:00 PM","3/22/24, 8:59 PM",,40.808708,-111.407486
@@ -14851,3 +14850,7 @@ UT-Incident--177035,Incidents,SR 28,Juab County,SR 28 at MP 36,"Crash
 NB SR 28 at MP 36 (7 Mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","3/22/24, 8:36 PM","3/22/24, 9:35 PM","3/22/24, 8:36 PM",,39.645552,-111.861034
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177038,Incidents,State St,Salt Lake County,State St at 5900 S,"NB State St Closed
+ at 5900 S Salt Lake Co.
+Est. Clearance Time: 11:39 PM","3/22/24, 10:40 PM","3/22/24, 11:39 PM","3/22/24, 10:40 PM",,40.64099,-111.889003
