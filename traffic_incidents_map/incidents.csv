@@ -14878,7 +14878,6 @@ UT-Incident--177049,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Medical
 Ramp WB SR 201 at MP 12 (Bangerter Hwy Exit) Salt Lake Co.
 RightLane Blocked
 Est. Clearance Time: 9:30 AM","3/23/24, 8:31 AM","3/23/24, 9:30 AM","3/23/24, 8:31 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177046,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Shoulder
@@ -14887,6 +14886,11 @@ UT-Incident--177048,Incidents,I-15,Utah County,I-15 at MP 273,"Stalled Vehicle
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:49 AM","3/23/24, 7:50 AM","3/23/24, 8:49 AM","3/23/24, 7:50 AM",,40.328045,-111.73498
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177052,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
+EB SR 201 at MP 17 (at I-15 Jct) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 11:05 AM","3/23/24, 10:06 AM","3/23/24, 11:05 AM","3/23/24, 10:06 AM",,40.725537,-111.91064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177044,Incidents,5400 S,Salt Lake County,5400 S at 4015 W,"Lane Closure
 WB 5400 S at 4015 W Salt Lake Co.
@@ -14901,10 +14905,6 @@ UT-Incident--177050,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled V
 Ramp SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:39 AM","3/23/24, 9:41 AM","3/23/24, 10:39 AM","3/23/24, 9:41 AM",,40.725741,-112.001283
-UT-Incident--177052,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
-EB SR 201 at MP 17 (at I-15 Jct) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 11:05 AM","3/23/24, 10:06 AM","3/23/24, 11:05 AM","3/23/24, 10:06 AM",,40.725537,-111.91064
 UT-Incident--177051,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 NB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
