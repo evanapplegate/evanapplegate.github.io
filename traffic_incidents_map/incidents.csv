@@ -14863,15 +14863,19 @@ UT-Incident--177041,Incidents,I-15,Utah County,I-15 at MP 254,"Crash
 NB I-15 at MP 254 (900 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:43 AM","3/23/24, 3:43 AM","3/23/24, 4:43 AM","3/23/24, 3:43 AM",,40.086776,-111.70045
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177043,Incidents,SR 24,Wayne County,SR 24 at MP 51,"Crash
 WB SR 24 at MP 51 (Loa) Wayne Co.
 Est. Clearance Time: 7:32 AM","3/23/24, 6:33 AM","3/23/24, 7:32 AM","3/23/24, 6:33 AM",,38.415863,-111.650798
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177044,Incidents,5400 S,Salt Lake County,5400 S at 4015 W,"Lane Closure
 WB 5400 S at 4015 W Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 8:03 AM","3/23/24, 7:04 AM","3/23/24, 8:03 AM","3/23/24, 7:04 AM",,40.653003,-111.986694
+Right Lane Closed
+Est. Clearance Time: 8:03 AM","3/23/24, 7:04 AM","3/23/24, 8:03 AM","3/23/24, 7:21 AM",,40.653003,-111.986694
+UT-Incident--177045,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+SB I-15 at MP 302 (4100 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 8:22 AM","3/23/24, 7:22 AM","3/23/24, 8:22 AM","3/23/24, 7:25 AM",,40.679062,-111.902181
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
