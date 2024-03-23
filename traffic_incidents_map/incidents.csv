@@ -14890,7 +14890,6 @@ UT-Incident--177052,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 EB SR 201 at MP 17 (at I-15 Jct) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:05 AM","3/23/24, 10:06 AM","3/23/24, 11:05 AM","3/23/24, 10:06 AM",,40.725537,-111.91064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177044,Incidents,5400 S,Salt Lake County,5400 S at 4015 W,"Lane Closure
 WB 5400 S at 4015 W Salt Lake Co.
 Right Lane Closed
@@ -14899,6 +14898,7 @@ UT-Incident--177050,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled V
 Ramp SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:39 AM","3/23/24, 9:41 AM","3/23/24, 10:39 AM","3/23/24, 9:41 AM",,40.725741,-112.001283
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
