@@ -14906,7 +14906,6 @@ UT-Incident--177053,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
 NB US 89 at MAIN ST Davis Co.
 Right Lane Closed
 Est. Clearance Time: 11:32 AM","3/23/24, 10:33 AM","3/23/24, 11:32 AM","3/23/24, 10:33 AM",,41.011985,-111.911764
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177057,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 Ramp SB I-15 at MP 309 (600 N On Ramp) Salt Lake Co.
 Left Shoulder
@@ -14916,11 +14915,6 @@ NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 12:23 PM","3/23/24, 11:24 AM","3/23/24, 12:23 PM","3/23/24, 11:24 AM",,40.703296,-111.95315
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
-WB I-215 S Closed
- at MP 10 (280 East) Salt Lake Co.
-No I-15 Access
-Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
 UT-Incident--177055,Incidents,SR 36,Tooele County,SR 36 at MP 60,"Crash
 NB SR 36 at MP 60 (Erda) Tooele Co.
 Right Shoulder
@@ -14929,3 +14923,9 @@ UT-Incident--177051,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 NB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 10:52 AM","3/23/24, 9:53 AM","3/23/24, 10:52 AM","3/23/24, 9:53 AM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
+WB I-215 S Closed
+ at MP 10 (280 East) Salt Lake Co.
+No I-15 Access
+Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
