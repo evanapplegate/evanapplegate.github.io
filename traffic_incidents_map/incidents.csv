@@ -15100,7 +15100,6 @@ Est. Clearance Time: 9:10 AM","3/24/24, 8:06 AM","3/24/24, 9:10 AM","3/24/24, 8:
 UT-Incident--177118,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Est. Clearance Time: 9:20 AM","3/24/24, 8:20 AM","3/24/24, 9:20 AM","3/24/24, 8:20 AM",,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177113,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
 SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
 Right Lane Closed
@@ -15129,10 +15128,6 @@ WB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:10 AM","3/24/24, 8:11 AM","3/24/24, 9:10 AM","3/24/24, 8:11 AM",,40.770886,-112.143879
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 10:11 AM","3/24/24, 8:28 AM","3/24/24, 10:11 AM","3/24/24, 9:52 AM",,40.722344,-111.904691
 UT-Incident--177123,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -15141,6 +15136,15 @@ UT-Incident--177125,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:50 AM","3/24/24, 8:46 AM","3/24/24, 9:50 AM","3/24/24, 8:46 AM",,40.722344,-111.904691
+UT-Incident--177121,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:40 AM","3/24/24, 8:32 AM","3/24/24, 9:40 AM","3/24/24, 8:32 AM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 10:11 AM","3/24/24, 8:28 AM","3/24/24, 10:11 AM","3/24/24, 9:52 AM",,40.722344,-111.904691
 UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -15162,10 +15166,6 @@ UT-Incident--177129,Incidents,I-215W X18 ON SB 3500 S RAMP,Salt Lake County,I-21
 SB I-215W 3500 S On Ramp (Salt Lake County)
 Right Shoulder
 Est. Clearance Time: 10:15 AM","3/24/24, 9:14 AM","3/24/24, 10:15 AM","3/24/24, 9:14 AM",,40.696034,-111.953521
-UT-Incident--177121,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
-WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 9:40 AM","3/24/24, 8:32 AM","3/24/24, 9:40 AM","3/24/24, 8:32 AM",,40.718459,-111.873941
 UT-Incident--177122,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 WB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 9:40 AM","3/24/24, 8:36 AM","3/24/24, 9:40 AM","3/24/24, 8:36 AM",,40.765165,-111.991516
