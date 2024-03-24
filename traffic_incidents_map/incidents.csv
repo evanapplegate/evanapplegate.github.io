@@ -15077,11 +15077,19 @@ UT-Incident--177108,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:43 AM","3/24/24, 6:44 AM","3/24/24, 7:43 AM","3/24/24, 6:44 AM",,40.697639,-111.795421
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177110,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 NB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:46 AM","3/24/24, 7:02 AM","3/24/24, 8:46 AM","3/24/24, 8:06 AM",,40.914229,-111.891449
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177105,Incidents,I-80,Summit County,I-80 at MP 170,"Crash
+WB I-80 at MP 170 (2 mi E of Echo) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 8:15 AM","3/24/24, 5:28 AM","3/24/24, 8:15 AM","3/24/24, 7:18 AM",,40.994447,-111.39863
+UT-Incident--177112,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+SB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","3/24/24, 7:27 AM","3/24/24, 8:30 AM","3/24/24, 7:27 AM",,40.348428,-111.591901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177113,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
 SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
@@ -15131,10 +15139,10 @@ UT-Incident--177128,Incidents,I-215w NB X15 On 4700 S EB Ramp,Salt Lake County,I
 SB I-215w 4700 S On Ramp (Salt Lake County)
 Left Lane Closed
 Est. Clearance Time: 10:30 AM","3/24/24, 9:01 AM","3/24/24, 10:30 AM","3/24/24, 9:01 AM",,40.66757,-111.952309
-UT-Incident--177105,Incidents,I-80,Summit County,I-80 at MP 170,"Crash
-WB I-80 at MP 170 (2 mi E of Echo) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 8:15 AM","3/24/24, 5:28 AM","3/24/24, 8:15 AM","3/24/24, 7:18 AM",,40.994447,-111.39863
+UT-Incident--177129,Incidents,I-215W X18 ON SB 3500 S RAMP,Salt Lake County,I-215W X18 ON SB 3500 S RAMP at 3500 S,"Crash
+SB I-215W 3500 S On Ramp (Salt Lake County)
+Right Shoulder
+Est. Clearance Time: 10:15 AM","3/24/24, 9:14 AM","3/24/24, 10:15 AM","3/24/24, 9:14 AM",,40.696034,-111.953521
 UT-Incident--177114,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Est. Clearance Time: 9:10 AM","3/24/24, 8:03 AM","3/24/24, 9:10 AM","3/24/24, 8:03 AM",,40.753891,-111.622581
@@ -15162,7 +15170,3 @@ Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM
 UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
-UT-Incident--177112,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
-SB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 8:30 AM","3/24/24, 7:27 AM","3/24/24, 8:30 AM","3/24/24, 7:27 AM",,40.348428,-111.591901
