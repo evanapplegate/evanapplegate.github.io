@@ -15140,15 +15140,6 @@ WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:40 AM","3/24/24, 8:32 AM","3/24/24, 9:40 AM","3/24/24, 8:32 AM",,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 11:41 AM","3/24/24, 8:28 AM","3/24/24, 11:41 AM","3/24/24, 10:27 AM",,40.722344,-111.904691
-UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
-NB I-15 at MP 291 (12300 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 11:05 AM","3/24/24, 8:53 AM","3/24/24, 11:05 AM","3/24/24, 10:25 AM",,40.52103,-111.891246
 UT-Incident--177131,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -15161,11 +15152,6 @@ UT-Incident--177136,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 11:30 AM","3/24/24, 10:24 AM","3/24/24, 11:30 AM","3/24/24, 10:24 AM",,40.161636,-111.646866
-UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
-WB I-215 S Closed
- at MP 10 (280 East) Salt Lake Co.
-No I-15 Access
-Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
 UT-Incident--177129,Incidents,I-215W X18 ON SB 3500 S RAMP,Salt Lake County,I-215W X18 ON SB 3500 S RAMP at 3500 S,"Crash
 SB I-215W 3500 S On Ramp (Salt Lake County)
 Right Shoulder
@@ -15181,16 +15167,49 @@ UT-Incident--177130,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Crash
 EB I-80 at MP 135 (1 mi E of Mountaindale) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","3/24/24, 9:25 AM","3/24/24, 10:30 AM","3/24/24, 9:25 AM",,40.745148,-111.69119
-UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
-Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
-Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
 UT-Incident--177132,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:40 AM","3/24/24, 9:39 AM","3/24/24, 10:40 AM","3/24/24, 9:39 AM",,40.724124,-111.943886
-UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
-Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
-Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
 UT-Incident--177135,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 EB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 11:00 AM","3/24/24, 9:57 AM","3/24/24, 11:00 AM","3/24/24, 9:57 AM",,40.640579,-111.452464
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177141,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5300,"Crash
+NB Harrison Blvd at 5300 S (Weber County)
+
+Est. Clearance Time: 11:45 AM","3/24/24, 10:44 AM","3/24/24, 11:45 AM","3/24/24, 10:44 AM",,,
+UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 11:41 AM","3/24/24, 8:28 AM","3/24/24, 11:41 AM","3/24/24, 10:27 AM",,40.722344,-111.904691
+UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 11:05 AM","3/24/24, 8:53 AM","3/24/24, 11:05 AM","3/24/24, 10:25 AM",,40.52103,-111.891246
+UT-Incident--177137,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+SB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:40 AM","3/24/24, 10:32 AM","3/24/24, 11:40 AM","3/24/24, 10:32 AM",,40.707874,-111.90397
+UT-Incident--177138,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
+NB I-15 at MP 258 (Spanish Fork) Utah Co.
+Est. Clearance Time: 11:40 AM","3/24/24, 10:34 AM","3/24/24, 11:40 AM","3/24/24, 10:34 AM",,40.132763,-111.646987
+UT-Incident--177139,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
+SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:15 AM","3/24/24, 10:37 AM","3/24/24, 11:15 AM","3/24/24, 10:37 AM",,40.85851,-111.904912
+UT-Incident--177140,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Left Shoulder
+Est. Clearance Time: 11:40 AM","3/24/24, 10:37 AM","3/24/24, 11:40 AM","3/24/24, 10:37 AM",,40.87142,-111.897275
+UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
+WB I-215 S Closed
+ at MP 10 (280 East) Salt Lake Co.
+No I-15 Access
+Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
+UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
+Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
+UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
+Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
