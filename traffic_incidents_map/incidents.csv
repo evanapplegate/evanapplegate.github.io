@@ -15047,7 +15047,6 @@ UT-Incident--177099,Incidents,I-15,Iron County,I-15 at MP 68,"Crash
 SB I-15 at MP 68 (4 mi N of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 1:08 AM","3/24/24, 12:08 AM","3/24/24, 1:08 AM","3/24/24, 12:08 AM",,37.783687,-112.978312
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177079,Incidents,SR 224,Summit County,SR 224 at MP 2,"Crash
 Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
 Approved Traction Devices For All Vehicles ","3/23/24, 8:13 PM","3/28/24, 12:00 PM","3/23/24, 8:22 PM",,40.624634,-111.501637
@@ -15060,6 +15059,11 @@ UT-Incident--177101,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:47 AM","3/24/24, 1:47 AM","3/24/24, 2:47 AM","3/24/24, 1:47 AM",,40.494575,-111.890383
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177102,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
+NB I-215 E at MP 1 (3300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:54 AM","3/24/24, 2:54 AM","3/24/24, 3:54 AM","3/24/24, 2:56 AM",,40.710695,-111.801136
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
