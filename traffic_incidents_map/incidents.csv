@@ -15024,7 +15024,6 @@ UT-Incident--177094,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
 SB I-15 at MP 258 (Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 3/24/2024 12:04 AM","3/23/24, 11:04 PM","3/24/24, 12:04 AM","3/23/24, 11:04 PM",,40.130188,-111.647733
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177091,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
@@ -15037,6 +15036,7 @@ UT-Incident--177093,Incidents,Hwy 36,Tooele County,Hwy 36 at Canyon Rd,"Crash
 SB Hwy 36 at Sunset Rd Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 11:56 PM","3/23/24, 10:56 PM","3/23/24, 11:56 PM","3/23/24, 10:57 PM",,40.679679,-112.273757
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177099,Incidents,I-15,Iron County,I-15 at MP 68,"Crash
 SB I-15 at MP 68 (4 mi N of Cedar City) Iron Co.
 Right Shoulder
