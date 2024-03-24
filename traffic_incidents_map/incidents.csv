@@ -15285,7 +15285,6 @@ UT-Incident--177172,Incidents,I-15,Juab County,I-15 at MP 241,"Crash
 NB I-15 at MP 241 (2 mi S of Santaquin) Juab Co.
 Right Lane Closed
 Est. Clearance Time: 4:32 PM","3/24/24, 3:33 PM","3/24/24, 4:32 PM",,,39.931086,-111.811584
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177161,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Est. Clearance Time: 2:53 PM","3/24/24, 1:54 PM","3/24/24, 2:53 PM",,,40.831692,-111.91596
@@ -15296,6 +15295,7 @@ Est. Clearance Time: 3:08 PM","3/24/24, 2:17 PM","3/24/24, 3:08 PM",,,40.631583,
 UT-Incident--177167,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 3:33 PM","3/24/24, 2:33 PM","3/24/24, 3:33 PM",,,40.775011,-111.949343
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177171,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
