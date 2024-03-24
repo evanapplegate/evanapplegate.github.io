@@ -15127,7 +15127,6 @@ UT-Incident--177116,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 WB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:10 AM","3/24/24, 8:11 AM","3/24/24, 9:10 AM","3/24/24, 8:11 AM",,40.770886,-112.143879
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177123,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -15141,14 +15140,15 @@ WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:40 AM","3/24/24, 8:32 AM","3/24/24, 9:40 AM","3/24/24, 8:32 AM",,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 10:11 AM","3/24/24, 8:28 AM","3/24/24, 10:11 AM","3/24/24, 9:52 AM",,40.722344,-111.904691
+Est. Clearance Time: 11:41 AM","3/24/24, 8:28 AM","3/24/24, 11:41 AM","3/24/24, 10:27 AM",,40.722344,-111.904691
 UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 9:50 AM","3/24/24, 8:53 AM","3/24/24, 9:50 AM","3/24/24, 9:27 AM",,40.52103,-111.891246
+Left Shoulder
+Est. Clearance Time: 11:05 AM","3/24/24, 8:53 AM","3/24/24, 11:05 AM","3/24/24, 10:25 AM",,40.52103,-111.891246
 UT-Incident--177131,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -15157,6 +15157,10 @@ UT-Incident--177133,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 10:50 AM","3/24/24, 9:44 AM","3/24/24, 10:50 AM","3/24/24, 9:44 AM",,40.52103,-111.891246
+UT-Incident--177136,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+SB I-15 at MP 260 (400 S / Springville) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 11:30 AM","3/24/24, 10:24 AM","3/24/24, 11:30 AM","3/24/24, 10:24 AM",,40.161636,-111.646866
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
