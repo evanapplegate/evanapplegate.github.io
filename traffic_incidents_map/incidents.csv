@@ -14978,11 +14978,11 @@ EB US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 9:15 PM","3/23/24, 8:07 PM","3/23/24, 9:15 PM","3/23/24, 8:07 PM",,40.484644,-111.426263
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177084,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Antelope Dr,"Crash
 SB Hill Field Rd at Antelope Dr Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 10:00 PM","3/23/24, 8:48 PM","3/23/24, 10:00 PM","3/23/24, 8:57 PM",,41.089211,-111.973425
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177075,Incidents,I-15,Box Elder County,I-15 at MP 398,"Crash
 SB I-15 at MP 398 (2 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 11:00 PM","3/23/24, 7:45 PM","3/23/24, 11:00 PM","3/23/24, 8:51 PM",,41.966697,-112.181119
@@ -14997,6 +14997,10 @@ UT-Incident--177083,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 On Ramp (1400 N Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","3/23/24, 8:44 PM","3/23/24, 10:00 PM","3/23/24, 8:44 PM",,40.176162,-111.646775
+UT-Incident--177087,Incidents,I-15,Utah County,I-15 at MP 249,"Crash
+NB I-15 at MP 249 (2 mi S of Payson) Utah Co.
+Left Shoulder
+Est. Clearance Time: 10:35 PM","3/23/24, 9:28 PM","3/23/24, 10:35 PM","3/23/24, 9:28 PM",,40.033382,-111.755324
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
