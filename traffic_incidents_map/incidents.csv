@@ -15073,11 +15073,11 @@ UT-Incident--177106,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
 SB I-15 at MP 347 (Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:50 AM","3/24/24, 5:50 AM","3/24/24, 6:50 AM","3/24/24, 6:24 AM",,41.267698,-112.026472
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177108,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:43 AM","3/24/24, 6:44 AM","3/24/24, 7:43 AM","3/24/24, 6:44 AM",,40.697639,-111.795421
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177110,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 NB I-15 at MP 319 (Parrish Ln) Davis Co.
@@ -15102,3 +15102,7 @@ Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM
 UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
+UT-Incident--177112,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+SB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","3/24/24, 7:27 AM","3/24/24, 8:30 AM","3/24/24, 7:27 AM",,40.348428,-111.591901
