@@ -15273,11 +15273,11 @@ UT-Incident--177162,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 WB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:55 PM","3/24/24, 1:55 PM","3/24/24, 2:55 PM",,,40.713146,-111.819005
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177164,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:05 PM","3/24/24, 2:06 PM","3/24/24, 3:05 PM",,,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177161,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
@@ -15290,6 +15290,10 @@ UT-Incident--177171,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:25 PM","3/24/24, 3:26 PM","3/24/24, 4:25 PM",,,40.578741,-111.900284
+UT-Incident--177172,Incidents,I-15,Juab County,I-15 at MP 241,"Crash
+NB I-15 at MP 241 (2 mi S of Santaquin) Juab Co.
+Right Lane Closed
+Est. Clearance Time: 4:32 PM","3/24/24, 3:33 PM","3/24/24, 4:32 PM",,,39.931086,-111.811584
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
