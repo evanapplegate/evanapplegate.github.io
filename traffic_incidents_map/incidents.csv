@@ -15219,7 +15219,6 @@ UT-Incident--177147,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 WB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:30 PM","3/24/24, 12:17 PM","3/24/24, 1:30 PM","3/24/24, 12:17 PM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177149,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Left Lane Closed
@@ -15229,6 +15228,7 @@ EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:30 PM","3/24/24, 12:16 PM","3/24/24, 1:30 PM","3/24/24, 12:16 PM",,40.725741,-112.001283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177148,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 Both Directions 5600 S at 3500 W Weber Co.
 Center Lane Closed
@@ -15237,6 +15237,13 @@ UT-Incident--177150,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:00 PM","3/24/24, 12:45 PM","3/24/24, 2:00 PM","3/24/24, 12:45 PM",,40.63583,-111.905066
+UT-Incident--177151,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:30 PM","3/24/24, 12:58 PM","3/24/24, 2:30 PM","3/24/24, 12:58 PM",,40.52103,-111.891246
+UT-Incident--177152,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Est. Clearance Time: 2:30 PM","3/24/24, 1:01 PM","3/24/24, 2:30 PM","3/24/24, 1:01 PM",,40.578741,-111.900284
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
