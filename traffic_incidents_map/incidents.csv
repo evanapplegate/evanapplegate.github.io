@@ -15139,7 +15139,6 @@ UT-Incident--177121,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:40 AM","3/24/24, 8:32 AM","3/24/24, 9:40 AM","3/24/24, 8:32 AM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177131,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -15175,14 +15174,6 @@ UT-Incident--177135,Incidents,US 40,Wasatch County,US 40 at MP 7,"Crash
 EB US 40 at MP 7 (Deer Crest) Wasatch Co.
 Est. Clearance Time: 11:00 AM","3/24/24, 9:57 AM","3/24/24, 11:00 AM","3/24/24, 9:57 AM",,40.640579,-111.452464
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177141,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5300,"Crash
-NB Harrison Blvd at 5300 S (Weber County)
-
-Est. Clearance Time: 11:45 AM","3/24/24, 10:44 AM","3/24/24, 11:45 AM","3/24/24, 10:44 AM",,,
-UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 11:41 AM","3/24/24, 8:28 AM","3/24/24, 11:41 AM","3/24/24, 10:27 AM",,40.722344,-111.904691
 UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
@@ -15198,6 +15189,14 @@ UT-Incident--177139,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:15 AM","3/24/24, 10:37 AM","3/24/24, 11:15 AM","3/24/24, 10:37 AM",,40.85851,-111.904912
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177141,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Crash
+NB Harrison Blvd Weber Co.
+Est. Clearance Time: 11:45 AM","3/24/24, 10:44 AM","3/24/24, 11:45 AM","3/24/24, 10:48 AM",,41.170498,-111.946879
+UT-Incident--177120,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 11:41 AM","3/24/24, 8:28 AM","3/24/24, 11:41 AM","3/24/24, 10:27 AM",,40.722344,-111.904691
 UT-Incident--177140,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
 NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
 Left Shoulder
