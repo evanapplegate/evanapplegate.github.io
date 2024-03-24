@@ -14970,7 +14970,6 @@ Est. Clearance Time: 8:30 PM","3/23/24, 7:28 PM","3/23/24, 8:30 PM","3/23/24, 7:
 UT-Incident--177071,Incidents,US 91,Box Elder County,US 91 at MP 8,"Crash
 SB US 91 at MP 8 (2 MI from Sardine Summit) Box Elder Co.
 Est. Clearance Time: 8:15 PM","3/23/24, 6:58 PM","3/23/24, 8:15 PM","3/23/24, 6:58 PM",,41.524591,-111.947335
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177072,Incidents,I-80,Tooele County,I-80 at MP 50,"Crash
 EB I-80 at MP 50 (9 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 8:15 PM","3/23/24, 7:04 PM","3/23/24, 8:15 PM","3/23/24, 7:04 PM",,40.737302,-113.096153
@@ -14978,6 +14977,7 @@ UT-Incident--177078,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
 EB US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 9:15 PM","3/23/24, 8:07 PM","3/23/24, 9:15 PM","3/23/24, 8:07 PM",,40.484644,-111.426263
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177084,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Antelope Dr,"Crash
 SB Hill Field Rd at Antelope Dr Davis Co.
@@ -15002,10 +15002,13 @@ WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
-UT-Incident--177085,Incidents,I-80,Summit County,I-80 at MP 180,"Crash
+UT-Incident--177085,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
 WB I-80 at MP 180 (Emory) Summit Co.
 Right Lane Closed
-Est. Clearance Time: 9:50 PM","3/23/24, 8:49 PM","3/23/24, 9:50 PM","3/23/24, 8:49 PM",,41.07891,-111.248425
+Est. Clearance Time: 9:50 PM","3/23/24, 8:49 PM","3/23/24, 9:50 PM","3/23/24, 9:17 PM",,40.750021,-111.604602
+UT-Incident--177086,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 at MP 143-128 (Parleys Canyon) Summit/Salt Lake Co.
+Approved Traction Devices Required For Semis","3/23/24, 9:05 PM","3/28/24, 12:00 PM","3/23/24, 9:05 PM",,40.740161,-111.558358
 UT-Incident--177076,Incidents,I-84,Morgan County,I-84 at MP 94,"Crash
 WB I-84 at MP 94 (Mountain Green) Morgan Co.
 Est. Clearance Time: 11:00 PM","3/23/24, 7:47 PM","3/23/24, 11:00 PM","3/23/24, 8:52 PM",,41.137611,-111.79713
