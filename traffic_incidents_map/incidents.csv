@@ -15300,7 +15300,22 @@ Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:25 PM","3/24/24, 3:26 PM","3/24/24, 4:25 PM",,,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177169,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+Ramp I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Est. Clearance Time: 6:04 PM","3/24/24, 3:07 PM","3/24/24, 6:04 PM",,,40.765438,-111.953251
+UT-Incident--177177,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
+SB US 89 at MP 398 (1200 S / Fruit Heights) Davis Co.
+Left Shoulder
+Est. Clearance Time: 6:13 PM","3/24/24, 5:15 PM","3/24/24, 6:13 PM",,,41.017359,-111.909292
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177179,Incidents,7200 S,Salt Lake County,7200 S at 300 W,"Crash
+WB 7200 S at 400 W Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6:36 PM","3/24/24, 5:38 PM","3/24/24, 6:36 PM",,,0.0,0.0
+UT-Incident--177180,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at Parkway Blvd,"Crash
+NB Bangerter Hwy at Parkway Blvd Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:39 PM","3/24/24, 5:41 PM","3/24/24, 6:39 PM",,,40.711604,-111.981486
 UT-Incident--177173,Incidents,I-15,Davis County,I-15 at MP 323,"Crash
 NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
 Right Lanes Closed
@@ -15317,9 +15332,6 @@ WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM",,,40.63036,-111.877391
-UT-Incident--177169,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-Ramp I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
-Est. Clearance Time: 6:04 PM","3/24/24, 3:07 PM","3/24/24, 6:04 PM",,,40.765438,-111.953251
 UT-Incident--177170,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Est. Clearance Time: 4:23 PM","3/24/24, 3:24 PM","3/24/24, 4:23 PM",,,40.678514,-112.410689
@@ -15338,7 +15350,7 @@ UT-Incident--177176,Incidents,US 6,Juab County,US 6 at MP 112,"Crash
 NB US 6 at MP 112 (7 Mi E of Lynndyl) Juab Co.
 Right Shoulder
 Est. Clearance Time: 6:10 PM","3/24/24, 5:11 PM","3/24/24, 6:10 PM",,,39.612722,-112.318739
-UT-Incident--177177,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
-SB US 89 at MP 398 (1200 S / Fruit Heights) Davis Co.
-Left Shoulder
-Est. Clearance Time: 6:13 PM","3/24/24, 5:15 PM","3/24/24, 6:13 PM",,,41.017359,-111.909292
+UT-Incident--177178,Incidents,US 6,Utah County,US 6 at MP 146,"Crash
+Both Directions US 6 at MP 146 (4 Miles West of Elberta) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:32 PM","3/24/24, 5:33 PM","3/24/24, 6:32 PM",,,39.952329,-112.029084
