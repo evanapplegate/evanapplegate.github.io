@@ -15090,11 +15090,6 @@ SB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","3/24/24, 7:27 AM","3/24/24, 8:30 AM","3/24/24, 7:27 AM",,40.348428,-111.591901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177113,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
-SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 9:10 AM","3/24/24, 8:02 AM","3/24/24, 9:10 AM","3/24/24, 8:02 AM",,40.753564,-111.986694
 UT-Incident--177111,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
@@ -15103,6 +15098,14 @@ UT-Incident--177115,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:10 AM","3/24/24, 8:06 AM","3/24/24, 9:10 AM","3/24/24, 8:06 AM",,40.791232,-111.916128
+UT-Incident--177118,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
+WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
+Est. Clearance Time: 9:20 AM","3/24/24, 8:20 AM","3/24/24, 9:20 AM","3/24/24, 8:20 AM",,40.765772,-111.934049
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177113,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 23,"Crash
+SB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:10 AM","3/24/24, 8:02 AM","3/24/24, 9:10 AM","3/24/24, 8:02 AM",,40.753564,-111.986694
 UT-Incident--177117,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 NB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Est. Clearance Time: 9:15 AM","3/24/24, 8:19 AM","3/24/24, 9:15 AM","3/24/24, 8:19 AM",,41.028688,-111.946853
@@ -15126,6 +15129,14 @@ UT-Incident--177126,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:50 AM","3/24/24, 8:53 AM","3/24/24, 9:50 AM","3/24/24, 9:27 AM",,40.52103,-111.891246
+UT-Incident--177131,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 10:30 AM","3/24/24, 9:31 AM","3/24/24, 10:30 AM","3/24/24, 9:31 AM",,40.52103,-111.891246
+UT-Incident--177133,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 10:50 AM","3/24/24, 9:44 AM","3/24/24, 10:50 AM","3/24/24, 9:44 AM",,,
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
@@ -15145,14 +15156,12 @@ Right Shoulder
 Est. Clearance Time: 10:15 AM","3/24/24, 9:14 AM","3/24/24, 10:15 AM","3/24/24, 9:14 AM",,40.696034,-111.953521
 UT-Incident--177114,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
-Est. Clearance Time: 9:10 AM","3/24/24, 8:03 AM","3/24/24, 9:10 AM","3/24/24, 8:03 AM",,40.753891,-111.622581
+Left Shoulder
+Est. Clearance Time: 9:10 AM","3/24/24, 8:03 AM","3/24/24, 9:10 AM","3/24/24, 9:32 AM",,40.753891,-111.622581
 UT-Incident--177116,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 WB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:10 AM","3/24/24, 8:11 AM","3/24/24, 9:10 AM","3/24/24, 8:11 AM",,40.770886,-112.143879
-UT-Incident--177118,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
-WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
-Est. Clearance Time: 9:20 AM","3/24/24, 8:20 AM","3/24/24, 9:20 AM","3/24/24, 8:20 AM",,40.765772,-111.934049
 UT-Incident--177121,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Lane Closed
@@ -15171,6 +15180,10 @@ Est. Clearance Time: 10:30 AM","3/24/24, 9:25 AM","3/24/24, 10:30 AM","3/24/24, 
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
+UT-Incident--177132,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+EB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:40 AM","3/24/24, 9:39 AM","3/24/24, 10:40 AM","3/24/24, 9:39 AM",,40.724124,-111.943886
 UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
