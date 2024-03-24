@@ -15245,7 +15245,6 @@ Est. Clearance Time: 2:30 PM","3/24/24, 1:01 PM","3/24/24, 2:30 PM",,,40.578741,
 UT-Incident--177153,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 SB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Est. Clearance Time: 2:15 PM","3/24/24, 1:04 PM","3/24/24, 2:15 PM",,,40.988877,-111.901278
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177158,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
@@ -15259,6 +15258,7 @@ Est. Clearance Time: 2:20 PM","3/24/24, 1:21 PM","3/24/24, 2:20 PM",,,40.624671,
 UT-Incident--177156,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Est. Clearance Time: 2:30 PM","3/24/24, 1:13 PM","3/24/24, 2:30 PM",,,40.988877,-111.901278
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177155,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR at BLUFF RD,"Crash
 SB West Davis HWY MP 10  (Davis County)
@@ -15287,6 +15287,13 @@ UT-Incident--177166,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 WB I-215 S at MP 8 (1300 E) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:08 PM","3/24/24, 2:17 PM","3/24/24, 3:08 PM",,,40.631583,-111.839435
+UT-Incident--177167,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Est. Clearance Time: 3:33 PM","3/24/24, 2:33 PM","3/24/24, 3:33 PM",,,40.775011,-111.949343
+UT-Incident--177168,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
+SB I-215 W at MP 26 (2800 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:37 PM","3/24/24, 2:38 PM","3/24/24, 3:37 PM",,,40.817974,-111.949525
 UT-Incident--177162,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 WB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 2 Left Lanes Closed
