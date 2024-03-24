@@ -15191,7 +15191,6 @@ Est. Clearance Time: 11:15 AM","3/24/24, 10:37 AM","3/24/24, 11:15 AM","3/24/24,
 UT-Incident--177141,Incidents,Harrison Blvd,Weber County,Harrison Blvd 5100,"Crash
 NB Harrison Blvd Weber Co.
 Est. Clearance Time: 11:45 AM","3/24/24, 10:44 AM","3/24/24, 11:45 AM","3/24/24, 10:48 AM",,41.170498,-111.946879
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177140,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
 NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
 Left Shoulder
@@ -15209,19 +15208,20 @@ UT-Incident--177144,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Vehicle on f
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","3/24/24, 11:24 AM","3/24/24, 12:30 PM","3/24/24, 11:24 AM",,40.63583,-111.905066
+UT-Incident--177143,Incidents,Riverdale Rd,Weber County,Riverdale Rd 1748,"Crash
+WB Riverdale Rd Weber Co.
+Center Lanes Closed
+Est. Clearance Time: 12:10 PM","3/24/24, 11:11 AM","3/24/24, 12:10 PM","3/24/24, 11:11 AM",,41.169539,-112.022068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177145,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 NB I-215 E at MP 5 (5600 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 12:30 PM","3/24/24, 11:31 AM","3/24/24, 12:30 PM","3/24/24, 11:35 AM",,40.655726,-111.806969
+Right Shoulder Closed
+Est. Clearance Time: 12:30 PM","3/24/24, 11:31 AM","3/24/24, 12:30 PM","3/24/24, 11:53 AM",,40.655726,-111.806969
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
-UT-Incident--177143,Incidents,Riverdale Rd,Weber County,Riverdale Rd 1748,"Crash
-WB Riverdale Rd Weber Co.
-Center Lanes Closed
-Est. Clearance Time: 12:10 PM","3/24/24, 11:11 AM","3/24/24, 12:10 PM","3/24/24, 11:11 AM",,41.169539,-112.022068
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
