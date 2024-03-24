@@ -14953,7 +14953,6 @@ UT-Incident--177068,Incidents,US 89,Davis County,US 89 at MP 400,"Crash
 SB US 89 at MP 400 (700 N / Fruit Heights) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 7:45 PM","3/23/24, 6:22 PM","3/23/24, 7:45 PM","3/23/24, 6:22 PM",,41.045984,-111.910073
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177069,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
@@ -14972,6 +14971,7 @@ UT-Incident--177071,Incidents,US 91,Box Elder County,US 91 at MP 8,"Crash
 SB US 91 at MP 8 (2 MI from Sardine Summit) Box Elder Co.
 Est. Clearance Time: 8:15 PM","3/23/24, 6:58 PM","3/23/24, 8:15 PM","3/23/24, 6:58 PM",,41.524591,-111.947335
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177075,Incidents,I-15,Box Elder County,I-15 at MP 398,"Crash
 SB I-15 at MP 398 (2 Mi S of UT border) Box Elder Co.
 Est. Clearance Time: 8:45 PM","3/23/24, 7:45 PM","3/23/24, 8:45 PM","3/23/24, 7:45 PM",,41.966697,-112.181119
@@ -14989,6 +14989,15 @@ Est. Clearance Time: 8:15 PM","3/23/24, 7:04 PM","3/23/24, 8:15 PM","3/23/24, 7:
 UT-Incident--177076,Incidents,I-84,Morgan County,I-84 at MP 94,"Crash
 WB I-84 at MP 94 (Mountain Green) Morgan Co.
 Est. Clearance Time: 9:00 PM","3/23/24, 7:47 PM","3/23/24, 9:00 PM","3/23/24, 7:47 PM",,41.137611,-111.79713
+UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
+Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
+UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
+Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
+Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
+UT-Incident--177079,Incidents,SR 224,Summit County,SR 224 at MP 2,"Crash
+Both Directions SR 224 MP 2-5  (Empire Pass) Summit Co.
+Approved Traction Devices For All Vehicles ","3/23/24, 8:13 PM","3/28/24, 12:00 PM","3/23/24, 8:22 PM",,40.624634,-111.501637
 UT-Incident--177078,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
 EB US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
 Right Lane Closed
