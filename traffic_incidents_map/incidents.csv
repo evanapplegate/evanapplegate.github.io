@@ -14936,7 +14936,6 @@ UT-Incident--177064,Incidents,I-15,Box Elder County,I-15 at MP 386,"Crash
 SB I-15 at MP 386 (Plymouth) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 6:25 PM","3/23/24, 5:19 PM","3/23/24, 6:25 PM","3/23/24, 5:19 PM",,41.794817,-112.174136
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177067,Incidents,2100 N,Weber County,2100 N at Washington Blvd,"Crash
 NB 2100 N at Washington Blvd Weber Co.
 Right Lane Closed
@@ -14962,17 +14961,9 @@ Est. Clearance Time: 7:45 PM","3/23/24, 6:35 PM","3/23/24, 7:45 PM","3/23/24, 6:
 UT-Incident--177073,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Est. Clearance Time: 8:10 PM","3/23/24, 7:10 PM","3/23/24, 8:10 PM","3/23/24, 7:10 PM",,40.736823,-111.90475
-UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
-WB I-215 S Closed
- at MP 10 (280 East) Salt Lake Co.
-No I-15 Access
-Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
 UT-Incident--177070,Incidents,I-80,Tooele County,I-80 at MP 60,"Crash
 WB I-80 at MP 60 (19 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 7:50 PM","3/23/24, 6:45 PM","3/23/24, 7:50 PM","3/23/24, 6:45 PM",,40.807999,-112.933391
-UT-Incident--177072,Incidents,I-80,Tooele County,I-80 at MP 50,"Crash
-EB I-80 at MP 50 (9 mi E of Knolls) Tooele Co.
-Est. Clearance Time: 8:15 PM","3/23/24, 7:04 PM","3/23/24, 8:15 PM","3/23/24, 7:04 PM",,40.737302,-113.096153
 UT-Incident--177074,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 36th St/Grant Ave,"Crash
 WB Riverdale Rd at 36th St/Grant Ave Weber Co.
 Center Lane Closed
@@ -14980,3 +14971,25 @@ Est. Clearance Time: 8:30 PM","3/23/24, 7:28 PM","3/23/24, 8:30 PM","3/23/24, 7:
 UT-Incident--177071,Incidents,US 91,Box Elder County,US 91 at MP 8,"Crash
 SB US 91 at MP 8 (2 MI from Sardine Summit) Box Elder Co.
 Est. Clearance Time: 8:15 PM","3/23/24, 6:58 PM","3/23/24, 8:15 PM","3/23/24, 6:58 PM",,41.524591,-111.947335
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177075,Incidents,I-15,Box Elder County,I-15 at MP 398,"Crash
+SB I-15 at MP 398 (2 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 8:45 PM","3/23/24, 7:45 PM","3/23/24, 8:45 PM","3/23/24, 7:45 PM",,41.966697,-112.181119
+UT-Incident--177077,Incidents,I-15,Box Elder County,I-15 at MP 356,"Crash
+NB I-15 at MP 356 (Box Elder) Box Elder Co.
+Est. Clearance Time: 9:15 PM","3/23/24, 7:59 PM","3/23/24, 9:15 PM","3/23/24, 7:59 PM",,41.399901,-112.046487
+UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
+WB I-215 S Closed
+ at MP 10 (280 East) Salt Lake Co.
+No I-15 Access
+Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
+UT-Incident--177072,Incidents,I-80,Tooele County,I-80 at MP 50,"Crash
+EB I-80 at MP 50 (9 mi E of Knolls) Tooele Co.
+Est. Clearance Time: 8:15 PM","3/23/24, 7:04 PM","3/23/24, 8:15 PM","3/23/24, 7:04 PM",,40.737302,-113.096153
+UT-Incident--177076,Incidents,I-84,Morgan County,I-84 at MP 94,"Crash
+WB I-84 at MP 94 (Mountain Green) Morgan Co.
+Est. Clearance Time: 9:00 PM","3/23/24, 7:47 PM","3/23/24, 9:00 PM","3/23/24, 7:47 PM",,41.137611,-111.79713
+UT-Incident--177078,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
+EB US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 9:15 PM","3/23/24, 8:07 PM","3/23/24, 9:15 PM","3/23/24, 8:07 PM",,40.484644,-111.426263
