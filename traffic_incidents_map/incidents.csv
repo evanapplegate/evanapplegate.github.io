@@ -15239,7 +15239,6 @@ UT-Incident--177151,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","3/24/24, 12:58 PM","3/24/24, 2:30 PM",,,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177152,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Est. Clearance Time: 2:30 PM","3/24/24, 1:01 PM","3/24/24, 2:30 PM",,,40.578741,-111.900284
@@ -15247,9 +15246,6 @@ UT-Incident--177153,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 SB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Est. Clearance Time: 2:15 PM","3/24/24, 1:04 PM","3/24/24, 2:15 PM",,,40.988877,-111.901278
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--177155,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR at BLUFF RD,"Crash
-SB West Davis HWY MP 10  (Davis County)
-Est. Clearance Time: 2:30 PM","3/24/24, 1:09 PM","3/24/24, 2:30 PM",,,41.089355,-112.080912
 UT-Incident--177158,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
@@ -15257,6 +15253,16 @@ Est. Clearance Time: 2:40 PM","3/24/24, 1:25 PM","3/24/24, 2:40 PM",,,40.817596,
 UT-Incident--177159,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Est. Clearance Time: 2:44 PM","3/24/24, 1:44 PM","3/24/24, 2:44 PM",,,40.763745,-111.914284
+UT-Incident--177157,Incidents,I-15 NB TO I-215 EB COL S RAMP,Salt Lake County,I-15 NB TO I-215 EB COL S RAMP at I-215 EB,"Crash
+NB I-15 TO I-215 COL On Ramp at I-215 EB (Salt Lake Co)
+Est. Clearance Time: 2:20 PM","3/24/24, 1:21 PM","3/24/24, 2:20 PM",,,40.624671,-111.902068
+UT-Incident--177156,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
+NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
+Est. Clearance Time: 2:30 PM","3/24/24, 1:13 PM","3/24/24, 2:30 PM",,,40.988877,-111.901278
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177155,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR at BLUFF RD,"Crash
+SB West Davis HWY MP 10  (Davis County)
+Est. Clearance Time: 2:30 PM","3/24/24, 1:09 PM","3/24/24, 2:30 PM",,,41.089355,-112.080912
 UT-Incident--177161,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Est. Clearance Time: 2:53 PM","3/24/24, 1:54 PM","3/24/24, 2:53 PM",,,40.831692,-111.91596
@@ -15272,14 +15278,15 @@ UT-Incident--177165,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 SB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 3:14 PM","3/24/24, 2:14 PM","3/24/24, 3:14 PM",,,39.501581,-111.966452
-UT-Incident--177157,Incidents,I-15 NB TO I-215 EB COL S RAMP,Salt Lake County,I-15 NB TO I-215 EB COL S RAMP at I-215 EB,"Crash
-NB I-15 TO I-215 COL On Ramp at I-215 EB (Salt Lake Co)
-Est. Clearance Time: 2:20 PM","3/24/24, 1:21 PM","3/24/24, 2:20 PM",,,40.624671,-111.902068
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM",,,40.63036,-111.877391
+UT-Incident--177166,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
+WB I-215 S at MP 8 (1300 E) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:08 PM","3/24/24, 2:17 PM","3/24/24, 3:08 PM",,,40.631583,-111.839435
 UT-Incident--177162,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 WB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 2 Left Lanes Closed
@@ -15295,6 +15302,3 @@ Both Directions SR 210/Little Cottonwood Canyon
  at MP 4 (Mouth of Ltl Cottonwood) to MP 9 (Gate C/Snowbird Entry 1)
 Canyon closed for avalanche mitigation
 Est. Clearance Time: 4:30 PM","3/24/24, 1:05 PM","3/24/24, 4:30 PM",,,40.572095,-111.773814
-UT-Incident--177156,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
-NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
-Est. Clearance Time: 2:30 PM","3/24/24, 1:13 PM","3/24/24, 2:30 PM",,,40.988877,-111.901278
