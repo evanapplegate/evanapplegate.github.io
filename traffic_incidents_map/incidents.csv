@@ -15240,13 +15240,16 @@ NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","3/24/24, 12:58 PM","3/24/24, 2:30 PM",,,40.52103,-111.891246
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177152,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+Est. Clearance Time: 2:30 PM","3/24/24, 1:01 PM","3/24/24, 2:30 PM",,,40.578741,-111.900284
+UT-Incident--177153,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
+SB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
+Est. Clearance Time: 2:15 PM","3/24/24, 1:04 PM","3/24/24, 2:15 PM",,,40.988877,-111.901278
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177155,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR at BLUFF RD,"Crash
 SB West Davis HWY MP 10  (Davis County)
 Est. Clearance Time: 2:30 PM","3/24/24, 1:09 PM","3/24/24, 2:30 PM",,,41.089355,-112.080912
-UT-Incident--177152,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-NB I-15 at MP 295 (9000 S) Salt Lake Co.
-Est. Clearance Time: 2:30 PM","3/24/24, 1:01 PM","3/24/24, 2:30 PM",,,40.578741,-111.900284
 UT-Incident--177158,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
@@ -15261,6 +15264,14 @@ UT-Incident--177163,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 Ramp SB I-15 at MP 312 (Beck St Exit)  Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:59 PM","3/24/24, 2:01 PM","3/24/24, 2:59 PM",,,40.817596,-111.917999
+UT-Incident--177164,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:05 PM","3/24/24, 2:06 PM","3/24/24, 3:05 PM",,,40.777705,-111.910735
+UT-Incident--177165,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
+SB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
+Right Shoulder
+Est. Clearance Time: 3:14 PM","3/24/24, 2:14 PM","3/24/24, 3:14 PM",,,39.501581,-111.966452
 UT-Incident--177157,Incidents,I-15 NB TO I-215 EB COL S RAMP,Salt Lake County,I-15 NB TO I-215 EB COL S RAMP at I-215 EB,"Crash
 NB I-15 TO I-215 COL On Ramp at I-215 EB (Salt Lake Co)
 Est. Clearance Time: 2:20 PM","3/24/24, 1:21 PM","3/24/24, 2:20 PM",,,40.624671,-111.902068
@@ -15284,9 +15295,6 @@ Both Directions SR 210/Little Cottonwood Canyon
  at MP 4 (Mouth of Ltl Cottonwood) to MP 9 (Gate C/Snowbird Entry 1)
 Canyon closed for avalanche mitigation
 Est. Clearance Time: 4:30 PM","3/24/24, 1:05 PM","3/24/24, 4:30 PM",,,40.572095,-111.773814
-UT-Incident--177153,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
-SB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
-Est. Clearance Time: 2:15 PM","3/24/24, 1:04 PM","3/24/24, 2:15 PM",,,40.988877,-111.901278
 UT-Incident--177156,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Est. Clearance Time: 2:30 PM","3/24/24, 1:13 PM","3/24/24, 2:30 PM",,,40.988877,-111.901278
