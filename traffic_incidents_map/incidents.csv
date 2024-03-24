@@ -15069,20 +15069,24 @@ Est. Clearance Time: 3:54 AM","3/24/24, 2:54 AM","3/24/24, 3:54 AM","3/24/24, 2:
 UT-Incident--177104,Incidents,I-15,Box Elder County,I-15 at MP 352,"Crash
 NB I-15 at MP 352 (Box Elder) Box Elder Co.
 Est. Clearance Time: 6:45 AM","3/24/24, 5:13 AM","3/24/24, 6:45 AM","3/24/24, 6:07 AM",,41.342906,-112.038597
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177106,Incidents,I-15,Weber County,I-15 at MP 347,"Crash
 SB I-15 at MP 347 (Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:50 AM","3/24/24, 5:50 AM","3/24/24, 6:50 AM","3/24/24, 6:24 AM",,41.267698,-112.026472
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177110,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
-NB I-15 at MP 319 (Parrish Ln) Davis Co.
-Right Shoulder
-Est. Clearance Time: 8:01 AM","3/24/24, 7:02 AM","3/24/24, 8:01 AM","3/24/24, 7:02 AM",,40.914229,-111.891449
 UT-Incident--177108,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:43 AM","3/24/24, 6:44 AM","3/24/24, 7:43 AM","3/24/24, 6:44 AM",,40.697639,-111.795421
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177110,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+NB I-15 at MP 319 (Parrish Ln) Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:01 AM","3/24/24, 7:02 AM","3/24/24, 8:01 AM","3/24/24, 7:02 AM",,40.914229,-111.891449
+UT-Incident--177111,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
+NB I-15 at MP 294 (10200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:10 AM","3/24/24, 7:11 AM","3/24/24, 8:10 AM","3/24/24, 7:11 AM",,40.564298,-111.899489
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
@@ -15091,7 +15095,7 @@ Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24
 UT-Incident--177105,Incidents,I-80,Summit County,I-80 at MP 170,"Crash
 WB I-80 at MP 170 (2 mi E of Echo) Summit Co.
 Left Lane Closed
-Est. Clearance Time: 6:30 AM","3/24/24, 5:28 AM","3/24/24, 6:30 AM","3/24/24, 5:28 AM",,40.994447,-111.39863
+Est. Clearance Time: 8:15 AM","3/24/24, 5:28 AM","3/24/24, 8:15 AM","3/24/24, 7:18 AM",,40.994447,-111.39863
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
