@@ -15227,7 +15227,6 @@ UT-Incident--177146,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:30 PM","3/24/24, 12:16 PM","3/24/24, 1:30 PM","3/24/24, 12:16 PM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177148,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 Both Directions 5600 S at 3500 W Weber Co.
 Center Lane Closed
@@ -15241,6 +15240,7 @@ NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","3/24/24, 12:58 PM","3/24/24, 2:30 PM",,,40.52103,-111.891246
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177155,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR at BLUFF RD,"Crash
 SB West Davis HWY MP 10  (Davis County)
 Est. Clearance Time: 2:30 PM","3/24/24, 1:09 PM","3/24/24, 2:30 PM",,,41.089355,-112.080912
@@ -15251,6 +15251,9 @@ UT-Incident--177158,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:40 PM","3/24/24, 1:25 PM","3/24/24, 2:40 PM",,,40.817596,-111.917999
+UT-Incident--177159,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
+NB I-15 at MP 308 (N Temple) Salt Lake Co.
+Est. Clearance Time: 2:44 PM","3/24/24, 1:44 PM","3/24/24, 2:44 PM",,,40.763745,-111.914284
 UT-Incident--177157,Incidents,I-15 NB TO I-215 EB COL S RAMP,Salt Lake County,I-15 NB TO I-215 EB COL S RAMP at I-215 EB,"Crash
 NB I-15 TO I-215 COL On Ramp at I-215 EB (Salt Lake Co)
 Est. Clearance Time: 2:20 PM","3/24/24, 1:21 PM","3/24/24, 2:20 PM",,,40.624671,-111.902068
