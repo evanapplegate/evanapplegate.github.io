@@ -15457,6 +15457,14 @@ UT-Incident--177213,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
 EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
 Est. Clearance Time: 8:15 AM","3/25/24, 7:11 AM","3/25/24, 8:15 AM","3/25/24, 7:11 AM",,41.139525,-111.854154
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177207,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
+NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
+Left Shoulder
+Est. Clearance Time: 9:30 AM","3/25/24, 6:31 AM","3/25/24, 9:30 AM","3/25/24, 8:09 AM",,38.48853,-112.618208
+UT-Incident--177210,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
+NB I-215 W at MP 19 (1900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:15 AM","3/25/24, 7:06 AM","3/25/24, 8:15 AM","3/25/24, 7:06 AM",,40.717792,-111.95364
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177215,Incidents,2000 W,Davis County,2000 W at 700 S,"Crash
 NB 2000 W at 700 S (Syracuse) Davis Co.
@@ -15466,13 +15474,10 @@ UT-Incident--177211,Incidents,HWY 186,Salt Lake County,HWY 186 at I-215E NB FWY,
 SB Foothill Dr Ramp to SB I-215 E Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","3/25/24, 7:08 AM","3/25/24, 8:15 AM","3/25/24, 7:08 AM",,40.710649,-111.802142
-UT-Incident--177207,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
-NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
-Left Shoulder
-Est. Clearance Time: 9:30 AM","3/25/24, 6:31 AM","3/25/24, 9:30 AM","3/25/24, 8:09 AM",,38.48853,-112.618208
 UT-Incident--177218,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
-Est. Clearance Time: 9:15 AM","3/25/24, 8:14 AM","3/25/24, 9:15 AM","3/25/24, 8:14 AM",,40.122652,-111.658929
+Right Shoulder
+Est. Clearance Time: 9:15 AM","3/25/24, 8:14 AM","3/25/24, 9:15 AM","3/25/24, 8:38 AM",,40.122652,-111.658929
 UT-Incident--177220,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Left Shoulder
@@ -15481,10 +15486,6 @@ UT-Incident--177217,Incidents,I-15 NB X257 ON US 6 Ramp,Utah County,I-15 NB X257
 WB US-6 Ramp to NB I-15 (Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","3/25/24, 8:14 AM","3/25/24, 9:15 AM","3/25/24, 8:14 AM",,40.126182,-111.647176
-UT-Incident--177210,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
-NB I-215 W at MP 19 (1900 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:15 AM","3/25/24, 7:06 AM","3/25/24, 8:15 AM","3/25/24, 7:06 AM",,40.717792,-111.95364
 UT-Incident--177221,Incidents,Redwood Rd,Salt Lake County,Redwood Rd 151,"Stalled Vehicle
 NB Redwood Rd at I-80 (SLC) Salt Lake Co.
 Left Lane Closed
