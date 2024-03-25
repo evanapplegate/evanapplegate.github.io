@@ -15508,7 +15508,6 @@ UT-Incident--177227,Incidents,Washington Blvd,Weber County,Washington Blvd 300,"
 NB Washington Blvd at 4th St (Ogden) Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 11:30 AM","3/25/24, 10:22 AM","3/25/24, 11:30 AM","3/25/24, 10:22 AM",,41.257211,-111.969691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177223,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
 NB I-215 S at MP 6 (6200 S) Salt Lake Co.
 Right Shoulder
@@ -15517,6 +15516,7 @@ UT-Incident--177225,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
 EB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
 Left/Right Shoulders
 Est. Clearance Time: 11:30 AM","3/25/24, 9:52 AM","3/25/24, 11:30 AM","3/25/24, 10:19 AM",,40.757563,-112.168003
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177226,Incidents,300 W,Iron County,300 W 601,"Vehicle on fire
 NB Main St at 800 S (Cedar City) Iron Co.
@@ -15530,6 +15530,14 @@ UT-Incident--177229,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 11:45 AM","3/25/24, 10:42 AM","3/25/24, 11:45 AM","3/25/24, 10:54 AM",,40.122652,-111.658929
+UT-Incident--177231,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
+NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
+Left Shoulder
+Est. Clearance Time: 12:30 PM","3/25/24, 11:21 AM","3/25/24, 12:30 PM","3/25/24, 11:21 AM",,40.260218,-111.704866
+UT-Incident--177232,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
+SB I-15 at MP 267 (1500 N, Provo) Utah Co.
+3 Right Lanes Closed
+Est. Clearance Time: 12:30 PM","3/25/24, 11:28 AM","3/25/24, 12:30 PM","3/25/24, 11:28 AM",,40.25259,-111.696625
 UT-Incident--177230,Incidents,I-15 SB X303 Off 3300 S Ramp,Salt Lake County,I-15 SB X303 Off 3300 S Ramp at 3300 S,"Stalled Vehicle
 SB I-15 Exit 303 3300 S Off Ramp Salt Lake Co.
 EB Left Turn Lane Closed
