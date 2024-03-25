@@ -15321,7 +15321,6 @@ Est. Clearance Time: 5:54 PM","3/24/24, 4:54 PM","3/24/24, 5:54 PM",,,40.914229,
 UT-Incident--177170,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Est. Clearance Time: 4:23 PM","3/24/24, 3:24 PM","3/24/24, 4:23 PM",,,40.678514,-112.410689
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177173,Incidents,I-15,Davis County,I-15 at MP 323,"Crash
 NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
 Right Lanes Closed
@@ -15348,10 +15347,6 @@ Both Directions US 6 at MP 146 (4 Miles West of Elberta) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","3/24/24, 5:33 PM","3/24/24, 6:32 PM",,,39.952329,-112.029084
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177185,Incidents,HWY 130,Iron County,HWY 130,"Crash
-EB HWY 130 Iron Co.
-Right Shoulder
-Est. Clearance Time: 8:02 PM","3/24/24, 7:03 PM","3/24/24, 8:02 PM","3/24/24, 7:03 PM",,37.727967,-113.052202
 UT-Incident--177175,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 NB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Est. Clearance Time: 7:45 PM","3/24/24, 5:01 PM","3/24/24, 7:45 PM","3/24/24, 5:01 PM",,39.501581,-111.966452
@@ -15359,6 +15354,15 @@ UT-Incident--177184,Incidents,I-15,Juab County,I-15 at MP 215,"Crash
 SB I-15 at MP 215 (8 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 7:33 PM","3/24/24, 6:34 PM","3/24/24, 7:33 PM","3/24/24, 6:34 PM",,39.594206,-111.917594
+UT-Incident--177183,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:26 PM","3/24/24, 6:27 PM","3/24/24, 7:26 PM","3/24/24, 6:27 PM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177185,Incidents,HWY 130,Iron County,HWY 130,"Crash
+EB HWY 130 Iron Co.
+Right Shoulder
+Est. Clearance Time: 9:02 PM","3/24/24, 7:03 PM","3/24/24, 9:02 PM","3/24/24, 7:52 PM",,37.727967,-113.052202
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
@@ -15367,10 +15371,6 @@ Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
-UT-Incident--177183,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
-EB SR 201 at MP 14 (3000 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 7:26 PM","3/24/24, 6:27 PM","3/24/24, 7:26 PM","3/24/24, 6:27 PM",,40.72606,-111.962907
 UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
