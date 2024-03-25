@@ -15471,7 +15471,6 @@ UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177215,Incidents,2000 W,Davis County,2000 W at 700 S,"Crash
 NB 2000 W at 700 S (Syracuse) Davis Co.
 Right Shoulder
@@ -15496,21 +15495,26 @@ UT-Incident--177217,Incidents,I-15 NB X257 ON US 6 Ramp,Utah County,I-15 NB X257
 WB US-6 Ramp to NB I-15 (Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","3/25/24, 8:14 AM","3/25/24, 10:00 AM","3/25/24, 9:05 AM",,40.126182,-111.647176
-UT-Incident--177223,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
-NB I-215 S at MP 6 (6200 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:15 AM","3/25/24, 9:03 AM","3/25/24, 10:15 AM","3/25/24, 9:03 AM",,40.638042,-111.808368
-UT-Incident--177222,Incidents,I-80 WB X99 OFF SR 36 RAMP,Tooele County,I-80 WB X99 OFF SR 36 RAMP at HWY 36,"Crash
-WB I-80 at MP 99 (SR-36 Exit) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 10:15 AM","3/25/24, 8:57 AM","3/25/24, 9:55 AM","3/25/24, 8:57 AM",,40.701028,-112.258212
 UT-Incident--177221,Incidents,Redwood Rd,Salt Lake County,Redwood Rd 151,"Stalled Vehicle
 NB Redwood Rd at I-80 (SLC) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:30 AM","3/25/24, 8:23 AM","3/25/24, 9:30 AM","3/25/24, 8:23 AM",,40.765099,-111.939106
-UT-Incident--177214,Incidents,US 6,Utah County,US 6 at MP 202,"Crash
-US 6 at MP 202 (Tie Fork Rest Stop) Utah Co.
-Est. Clearance Time: 8:15 AM","3/25/24, 7:16 AM","3/25/24, 8:15 AM","3/25/24, 8:10 AM",,39.950102,-111.219057
 UT-Incident--177219,Incidents,US 89,Sanpete County,US 89 20501,"Crash
 US 89 at MP 280 Sanpete Co.
 Est. Clearance Time: 9:30 AM","3/25/24, 8:16 AM","3/25/24, 9:30 AM","3/25/24, 8:16 AM",,39.578265,-111.455303
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177223,Incidents,I-215 S,Salt Lake County,I-215 S at MP 6,"Crash
+NB I-215 S at MP 6 (6200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","3/25/24, 9:03 AM","3/25/24, 10:15 AM","3/25/24, 9:03 AM",,40.638042,-111.808368
+UT-Incident--177225,Incidents,I-80,Salt Lake County,I-80 at MP 105,"Crash
+EB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.
+Left/Right Shoulders
+Est. Clearance Time: 11:30 AM","3/25/24, 9:52 AM","3/25/24, 11:30 AM","3/25/24, 10:01 AM",,40.757563,-112.168003
+UT-Incident--177222,Incidents,I-80 WB X99 OFF SR 36 RAMP,Tooele County,I-80 WB X99 OFF SR 36 RAMP at HWY 36,"Crash
+WB I-80 at MP 99 (SR-36 Exit) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 10:15 AM","3/25/24, 8:57 AM","3/25/24, 9:55 AM","3/25/24, 9:50 AM",,40.701028,-112.258212
+UT-Incident--177214,Incidents,US 6,Utah County,US 6 at MP 202,"Crash
+US 6 at MP 202 (Tie Fork Rest Stop) Utah Co.
+Est. Clearance Time: 8:15 AM","3/25/24, 7:16 AM","3/25/24, 8:15 AM","3/25/24, 8:10 AM",,39.950102,-111.219057
