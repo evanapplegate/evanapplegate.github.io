@@ -15384,7 +15384,6 @@ UT-Incident--177193,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:05 PM","3/24/24, 10:06 PM","3/24/24, 11:05 PM","3/24/24, 10:06 PM",,40.328045,-111.73498
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177191,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -15393,6 +15392,7 @@ UT-Incident--177190,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 EB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:57 PM","3/24/24, 9:58 PM","3/24/24, 10:57 PM","3/24/24, 9:58 PM",,40.740268,-111.674521
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177187,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
 NB I-15 at MP 321 (2100 N, Centrvl) Davis Co.
