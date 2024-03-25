@@ -15441,7 +15441,6 @@ UT-Incident--177208,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
 SB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","3/25/24, 6:40 AM","3/25/24, 7:45 AM","3/25/24, 6:40 AM",,40.112733,-111.671987
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177206,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
@@ -15451,6 +15450,11 @@ NB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:15 AM","3/25/24, 6:57 AM","3/25/24, 8:15 AM","3/25/24, 6:57 AM",,40.112733,-111.671987
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177215,Incidents,2000 W,Davis County,2000 W at 700 S,"Crash
+NB 2000 W at 700 S (Syracuse) Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","3/25/24, 7:25 AM","3/25/24, 8:30 AM","3/25/24, 7:25 AM",,41.107106,-112.064548
 UT-Incident--177211,Incidents,HWY 186,Salt Lake County,HWY 186 at I-215E NB FWY,"Crash
 SB Foothill Dr Ramp to SB I-215 E Salt Lake Co.
 Right Shoulder
