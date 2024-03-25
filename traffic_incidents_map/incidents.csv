@@ -15449,7 +15449,6 @@ UT-Incident--177209,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
 NB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:15 AM","3/25/24, 6:57 AM","3/25/24, 8:15 AM","3/25/24, 6:57 AM",,40.112733,-111.671987
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177205,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 WB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Right Lane Closed
@@ -15457,6 +15456,7 @@ Est. Clearance Time: 7:15 AM","3/25/24, 6:11 AM","3/25/24, 7:15 AM","3/25/24, 6:
 UT-Incident--177213,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
 EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
 Est. Clearance Time: 8:15 AM","3/25/24, 7:11 AM","3/25/24, 8:15 AM","3/25/24, 7:11 AM",,41.139525,-111.854154
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177215,Incidents,2000 W,Davis County,2000 W at 700 S,"Crash
 NB 2000 W at 700 S (Syracuse) Davis Co.
