@@ -15450,6 +15450,13 @@ NB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 8:15 AM","3/25/24, 6:57 AM","3/25/24, 8:15 AM","3/25/24, 6:57 AM",,40.112733,-111.671987
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177205,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
+WB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:15 AM","3/25/24, 6:11 AM","3/25/24, 7:15 AM","3/25/24, 6:11 AM",,40.742835,-112.186308
+UT-Incident--177213,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
+EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
+Est. Clearance Time: 8:15 AM","3/25/24, 7:11 AM","3/25/24, 8:15 AM","3/25/24, 7:11 AM",,41.139525,-111.854154
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177215,Incidents,2000 W,Davis County,2000 W at 700 S,"Crash
 NB 2000 W at 700 S (Syracuse) Davis Co.
@@ -15462,18 +15469,26 @@ Est. Clearance Time: 8:15 AM","3/25/24, 7:08 AM","3/25/24, 8:15 AM","3/25/24, 7:
 UT-Incident--177207,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Left Shoulder
-Est. Clearance Time: 7:30 AM","3/25/24, 6:31 AM","3/25/24, 7:30 AM","3/25/24, 6:31 AM",,38.48853,-112.618208
+Est. Clearance Time: 9:30 AM","3/25/24, 6:31 AM","3/25/24, 9:30 AM","3/25/24, 8:09 AM",,38.48853,-112.618208
+UT-Incident--177218,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Est. Clearance Time: 9:15 AM","3/25/24, 8:14 AM","3/25/24, 9:15 AM","3/25/24, 8:14 AM",,40.122652,-111.658929
+UT-Incident--177220,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
+SB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:15 AM","3/25/24, 8:18 AM","3/25/24, 9:15 AM","3/25/24, 8:18 AM",,40.147126,-111.646959
+UT-Incident--177217,Incidents,I-15 NB X257 ON US 6 Ramp,Utah County,I-15 NB X257 ON US 6 Ramp at US 6,"Crash
+WB US-6 Ramp to NB I-15 (Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:15 AM","3/25/24, 8:14 AM","3/25/24, 9:15 AM","3/25/24, 8:14 AM",,40.126182,-111.647176
 UT-Incident--177210,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","3/25/24, 7:06 AM","3/25/24, 8:15 AM","3/25/24, 7:06 AM",,40.717792,-111.95364
-UT-Incident--177205,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
-WB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 7:15 AM","3/25/24, 6:11 AM","3/25/24, 7:15 AM","3/25/24, 6:11 AM",,40.742835,-112.186308
-UT-Incident--177213,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
-EB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
-Est. Clearance Time: 8:15 AM","3/25/24, 7:11 AM","3/25/24, 8:15 AM","3/25/24, 7:11 AM",,41.139525,-111.854154
+UT-Incident--177221,Incidents,Redwood Rd,Salt Lake County,Redwood Rd 151,"Stalled Vehicle
+NB Redwood Rd at I-80 (SLC) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:30 AM","3/25/24, 8:23 AM","3/25/24, 9:30 AM","3/25/24, 8:23 AM",,40.765099,-111.939106
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
@@ -15481,5 +15496,8 @@ UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
 UT-Incident--177214,Incidents,US 6,Utah County,US 6 at MP 202,"Crash
-Other US 6 at MP 202 (Tie Fork Rest Stop) Utah Co.
-Est. Clearance Time: 8:15 AM","3/25/24, 7:16 AM","3/25/24, 8:15 AM","3/25/24, 7:16 AM",,39.950102,-111.219057
+US 6 at MP 202 (Tie Fork Rest Stop) Utah Co.
+Est. Clearance Time: 8:15 AM","3/25/24, 7:16 AM","3/25/24, 8:15 AM","3/25/24, 8:10 AM",,39.950102,-111.219057
+UT-Incident--177219,Incidents,US 89,Sanpete County,US 89 20501,"Crash
+US 89 at MP 280 Sanpete Co.
+Est. Clearance Time: 9:30 AM","3/25/24, 8:16 AM","3/25/24, 9:30 AM","3/25/24, 8:16 AM",,39.578265,-111.455303
