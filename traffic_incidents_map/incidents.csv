@@ -15532,12 +15532,7 @@ UT-Incident--177222,Incidents,I-80 WB X99 OFF SR 36 RAMP,Tooele County,I-80 WB X
 WB I-80 at MP 99 (SR-36 Exit) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","3/25/24, 8:57 AM","3/25/24, 11:30 AM","3/25/24, 10:56 AM",,40.701028,-112.258212
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--177238,Incidents,HWY 56,Iron County,HWY 56 at LUND HWY/WESTVIEW DR,"Crash
-EB Cross Hollow Rd at Hwy 56 Iron Co.
-Left Lane Closed
-Est. Clearance Time: 2:15 PM","3/25/24, 12:59 PM","3/25/24, 2:15 PM",,,37.685046,-113.109211
 UT-Incident--177228,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
 SB I-15 at MP 258 (Spanish Fork) Utah Co.
 Left Lane Closed
@@ -15546,6 +15541,11 @@ UT-Incident--177231,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","3/25/24, 11:21 AM","3/25/24, 12:30 PM",,,40.260218,-111.704866
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177238,Incidents,HWY 56,Iron County,HWY 56 at LUND HWY/WESTVIEW DR,"Crash
+EB Cross Hollow Rd at Hwy 56 Iron Co.
+Left Lane Closed
+Est. Clearance Time: 2:15 PM","3/25/24, 12:59 PM","3/25/24, 2:15 PM",,,37.685046,-113.109211
 UT-Incident--177232,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 SB I-15 at MP 267 (1500 N, Provo) Utah Co.
 Right Lane Closed
