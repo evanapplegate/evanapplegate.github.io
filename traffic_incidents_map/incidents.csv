@@ -15412,10 +15412,13 @@ EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 1:20 AM","3/25/24, 12:20 AM","3/25/24, 1:20 AM","3/25/24, 12:20 AM",,40.753891,-111.622581
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177200,Incidents,I-15,Millard County,I-15 at MP 136,"Crash
 NB I-15 at MP 136 (2 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 4:21 AM","3/25/24, 3:21 AM","3/25/24, 4:21 AM","3/25/24, 3:21 AM",,38.631515,-112.610353
+UT-Incident--177199,Incidents,SR 21,Beaver County,SR 21 at MP 33,"Crash
+Both Directions SR 21 at MP 33 (13 Mi E of Pruess Lake) Beaver Co.
+Est. Clearance Time: 3:49 AM","3/25/24, 3:05 AM","3/25/24, 3:49 AM","3/25/24, 3:05 AM",,38.55607,-113.746321
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177201,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Left Lane Closed
@@ -15431,9 +15434,6 @@ Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM
 UT-Incident--177202,Incidents,SR 201,Salt Lake County,SR 201 at MP 5,"Crash
 EB SR 201 at MP 5 (E of SR-202) Salt Lake Co.
 Est. Clearance Time: 5:50 AM","3/25/24, 4:50 AM","3/25/24, 5:50 AM","3/25/24, 4:50 AM",,40.716738,-112.133098
-UT-Incident--177199,Incidents,SR 21,Beaver County,SR 21 at MP 33,"Crash
-Both Directions SR 21 at MP 33 (13 Mi E of Pruess Lake) Beaver Co.
-Est. Clearance Time: 3:49 AM","3/25/24, 3:05 AM","3/25/24, 3:49 AM","3/25/24, 3:05 AM",,38.55607,-113.746321
 UT-Incident--177081,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 MP 4-13  (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Tractions Devices For All Vehicles","3/23/24, 8:24 PM","3/28/24, 9:25 PM","3/23/24, 8:24 PM",,40.572095,-111.773814
