@@ -15430,7 +15430,6 @@ WB I-215 S Closed
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177203,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
 NB I-15 at MP 225 (100 S / Nephi) Juab Co.
 Right Shoulder
@@ -15439,6 +15438,7 @@ UT-Incident--177204,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
 NB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 6:27 AM","3/25/24, 5:28 AM","3/25/24, 6:27 AM","3/25/24, 5:28 AM",,40.102705,-111.684864
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177206,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
@@ -15447,6 +15447,10 @@ UT-Incident--177207,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 NB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 7:30 AM","3/25/24, 6:31 AM","3/25/24, 7:30 AM","3/25/24, 6:31 AM",,38.48853,-112.618208
+UT-Incident--177208,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
+SB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:45 AM","3/25/24, 6:40 AM","3/25/24, 7:45 AM","3/25/24, 6:40 AM",,40.112733,-111.671987
 UT-Incident--177205,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 WB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Right Lane Closed
