@@ -15578,7 +15578,6 @@ UT-Incident--177243,Incidents,US 89,Davis County,US 89 121,"Crash
 SB US 89 at 400 N (Fruit Heights) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:15 PM","3/25/24, 2:18 PM","3/25/24, 3:15 PM",,,41.035731,-111.909175
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177245,Incidents,CHURCH ST,Davis County,CHURCH ST at MAIN ST,"Crash
 NB Main St at Church St (Layton) Davis Co.
 Right Shoulder
@@ -15590,14 +15589,15 @@ UT-Incident--177244,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
 SB I-15 at MP 225 (100 S / Nephi) Juab Co.
 Est. Clearance Time: 3:30 PM","3/25/24, 2:24 PM","3/25/24, 3:30 PM",,,39.701365,-111.823917
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177247,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 SB I-15 at MP 285 (Lehi) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:45 PM","3/25/24, 3:46 PM","3/25/24, 4:45 PM",,,40.442142,-111.903011
 UT-Incident--177248,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-Ramp SB I-15 at MP 288 (14600 S Exit) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 5:04 PM","3/25/24, 4:05 PM","3/25/24, 5:04 PM",,,,
+Ramp SB I-15 at MP 288 (14600 S) Salt Lake Co.
+14600 S Exit Closed
+Est. Clearance Time: 5:04 PM","3/25/24, 4:05 PM","3/25/24, 5:04 PM",,,40.480607,-111.902252
 UT-Incident--177246,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD 1401,"Crash
 WB Riverdale Rd at I-84 Weber Co.
 Right Shoulder
