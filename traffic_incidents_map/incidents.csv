@@ -15369,7 +15369,6 @@ UT-Incident--177186,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 11,"Cra
 NB Legacy Pkwy at MP 11 (500 S, Farmington) Davis Co.
 Right Shoulder
 Est. Clearance Time: 10:02 PM","3/24/24, 9:02 PM","3/24/24, 10:02 PM","3/24/24, 9:02 PM",,40.971947,-111.895238
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177189,Incidents,5400 S,Salt Lake County,5400 S at 3200 W,"Crash
 WB 5400 S at 3200 W Salt Lake Co.
 2 Right Lanes Closed
@@ -15386,14 +15385,19 @@ SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 11:05 PM","3/24/24, 10:06 PM","3/24/24, 11:05 PM","3/24/24, 10:06 PM",,40.328045,-111.73498
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177187,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
-NB I-15 at MP 321 (2100 N, Centrvl) Davis Co.
-Right Shoulder
-Est. Clearance Time: 11:45 PM","3/24/24, 9:11 PM","3/24/24, 11:45 PM","3/24/24, 10:57 PM",,40.943029,-111.891485
 UT-Incident--177191,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:35 PM","3/24/24, 9:58 PM","3/24/24, 11:35 PM","3/24/24, 10:52 PM",,40.736823,-111.90475
+UT-Incident--177190,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
+EB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:57 PM","3/24/24, 9:58 PM","3/24/24, 10:57 PM","3/24/24, 9:58 PM",,40.740268,-111.674521
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177187,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
+NB I-15 at MP 321 (2100 N, Centrvl) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:45 PM","3/24/24, 9:11 PM","3/24/24, 11:45 PM","3/24/24, 10:57 PM",,40.943029,-111.891485
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
@@ -15403,14 +15407,10 @@ UT-Incident--177195,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 11:25 PM","3/24/24, 10:26 PM","3/24/24, 11:25 PM","3/24/24, 10:35 PM",,40.674449,-111.952751
-UT-Incident--177190,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
-EB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:57 PM","3/24/24, 9:58 PM","3/24/24, 10:57 PM","3/24/24, 9:58 PM",,40.740268,-111.674521
 UT-Incident--177196,Incidents,I-80,Tooele County,I-80 at MP 46,"Police incident
 EB I-80 at MP 46 (5 mi E of Knolls) Tooele Co.
-Cleared at 11:03 PM
-Est. Clearance Time: 11:29 PM","3/24/24, 10:30 PM","3/24/24, 11:29 PM","3/24/24, 11:03 PM",,40.726295,-113.169125
+Left Lane Closed
+Est. Clearance Time: 11:29 PM","3/24/24, 10:30 PM","3/24/24, 11:29 PM","3/24/24, 11:14 PM",,40.726295,-113.169125
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
