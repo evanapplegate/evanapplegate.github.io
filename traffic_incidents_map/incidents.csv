@@ -15417,7 +15417,6 @@ Est. Clearance Time: 4:21 AM","3/25/24, 3:21 AM","3/25/24, 4:21 AM","3/25/24, 3:
 UT-Incident--177199,Incidents,SR 21,Beaver County,SR 21 at MP 33,"Crash
 Both Directions SR 21 at MP 33 (13 Mi E of Pruess Lake) Beaver Co.
 Est. Clearance Time: 3:49 AM","3/25/24, 3:05 AM","3/25/24, 3:49 AM","3/25/24, 3:05 AM",,38.55607,-113.746321
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177201,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Left Lane Closed
@@ -15426,15 +15425,20 @@ UT-Incident--177202,Incidents,SR 201,Salt Lake County,SR 201 at MP 5,"Crash
 EB SR 201 at MP 5 (E of SR-202) Salt Lake Co.
 Est. Clearance Time: 5:50 AM","3/25/24, 4:50 AM","3/25/24, 5:50 AM","3/25/24, 4:50 AM",,40.716738,-112.133098
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177203,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
-NB I-15 at MP 225 (100 S / Nephi) Juab Co.
-Right Shoulder
-Est. Clearance Time: 6:30 AM","3/25/24, 5:26 AM","3/25/24, 6:30 AM","3/25/24, 5:27 AM",,39.706855,-111.818344
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
  at MP 10 (280 East) Salt Lake Co.
 No I-15 Access
 Closed until Monday 3/25 at 5 AM","3/23/24, 5:43 AM","3/25/24, 5:00 AM","3/23/24, 7:46 AM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177203,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
+NB I-15 at MP 225 (100 S / Nephi) Juab Co.
+Right Shoulder
+Est. Clearance Time: 6:30 AM","3/25/24, 5:26 AM","3/25/24, 6:30 AM","3/25/24, 5:27 AM",,39.706855,-111.818344
+UT-Incident--177204,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
+NB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:27 AM","3/25/24, 5:28 AM","3/25/24, 6:27 AM","3/25/24, 5:28 AM",,40.102705,-111.684864
 UT-Incident--177080,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices For All Vehicles","3/23/24, 8:22 PM","3/28/24, 9:20 PM","3/23/24, 8:22 PM",,40.619107,-111.786281
