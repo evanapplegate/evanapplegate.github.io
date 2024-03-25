@@ -15570,11 +15570,15 @@ UT-Incident--177240,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 NB I-215 E at MP 1 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:39 PM","3/25/24, 1:39 PM","3/25/24, 2:39 PM","3/25/24, 1:46 PM",,40.710695,-111.801136
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177241,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 NB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:57 PM","3/25/24, 1:58 PM","3/25/24, 2:57 PM","3/25/24, 1:58 PM",,40.697639,-111.795421
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177243,Incidents,US 89,Davis County,US 89 121,"Crash
+SB US 89 at 400 N (Fruit Heights) Davis Co.
+Right Shoulder
+Est. Clearance Time: 3:15 PM","3/25/24, 2:18 PM","3/25/24, 3:15 PM",,,41.035731,-111.909175
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177245,Incidents,CHURCH ST,Davis County,CHURCH ST at MAIN ST,"Crash
 NB Main St at Church St (Layton) Davis Co.
@@ -15592,7 +15596,3 @@ Right Shoulder
 Est. Clearance Time: 4:15 PM","3/25/24, 3:09 PM","3/25/24, 4:15 PM",,,41.173564,-112.013557
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.","3/25/24, 12:04 PM","3/27/24, 1:15 PM",,,40.572095,-111.773814
-UT-Incident--177243,Incidents,US 89,Davis County,US 89 121,"Crash
-SB US 89 at 400 N (Fruit Heights) Davis Co.
-Right Shoulder
-Est. Clearance Time: 3:15 PM","3/25/24, 2:18 PM","3/25/24, 3:15 PM",,,41.035731,-111.909175
