@@ -15346,7 +15346,6 @@ UT-Incident--177178,Incidents,US 6,Utah County,US 6 at MP 146,"Crash
 Both Directions US 6 at MP 146 (4 Miles West of Elberta) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:32 PM","3/24/24, 5:33 PM","3/24/24, 6:32 PM",,,39.952329,-112.029084
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177175,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 NB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Est. Clearance Time: 7:45 PM","3/24/24, 5:01 PM","3/24/24, 7:45 PM","3/24/24, 5:01 PM",,39.501581,-111.966452
@@ -15358,6 +15357,7 @@ UT-Incident--177183,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:26 PM","3/24/24, 6:27 PM","3/24/24, 7:26 PM","3/24/24, 6:27 PM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177185,Incidents,HWY 130,Iron County,HWY 130,"Crash
 EB HWY 130 Iron Co.
