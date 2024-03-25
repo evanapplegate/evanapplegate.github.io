@@ -15399,7 +15399,6 @@ Est. Clearance Time: 11:45 PM","3/24/24, 9:11 PM","3/24/24, 11:45 PM","3/24/24, 
 UT-Incident--177197,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Crash
 NB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Est. Clearance Time: 3/25/2024 12:38 AM","3/24/24, 11:38 PM","3/25/24, 12:38 AM","3/24/24, 11:38 PM",,40.655726,-111.806969
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177195,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Right Lanes Closed
@@ -15412,6 +15411,7 @@ UT-Incident--177198,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 1:20 AM","3/25/24, 12:20 AM","3/25/24, 1:20 AM","3/25/24, 12:20 AM",,40.753891,-111.622581
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177042,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Construction Closure
 WB I-215 S Closed
