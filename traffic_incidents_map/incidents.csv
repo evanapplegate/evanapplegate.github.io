@@ -15540,7 +15540,6 @@ UT-Incident--177231,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","3/25/24, 11:21 AM","3/25/24, 12:30 PM",,,40.260218,-111.704866
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177238,Incidents,HWY 56,Iron County,HWY 56 at LUND HWY/WESTVIEW DR,"Crash
 EB Cross Hollow Rd at Hwy 56 Iron Co.
 Left Lane Closed
@@ -15568,6 +15567,7 @@ UT-Incident--177236,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Multiple C
 Both Dirs SR-210 Little Cottonwood Canyon
 Canyon Temp Closed","3/25/24, 12:22 PM","3/25/24, 1:30 PM",,,40.571959,-111.720092
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177242,Incidents,I-15,Juab County,I-15 at MP 212,"Crash
 NB I-15 at MP 212 (11 mi S of Nephi) Juab Co.
 Est. Clearance Time: 3:30 PM","3/25/24, 2:03 PM","3/25/24, 3:30 PM","3/25/24, 2:03 PM",,39.557434,-111.946834
@@ -15581,3 +15581,7 @@ Right Shoulder
 Est. Clearance Time: 2:57 PM","3/25/24, 1:58 PM","3/25/24, 2:57 PM","3/25/24, 1:58 PM",,40.697639,-111.795421
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 12:04 PM",,40.572095,-111.773814
+UT-Incident--177243,Incidents,US 89,Davis County,US 89 121,"Crash
+SB US 89 at 400 N (Fruit Heights) Davis Co.
+Left Lanes Closed
+Est. Clearance Time: 3:15 PM","3/25/24, 2:18 PM","3/25/24, 3:15 PM","3/25/24, 2:18 PM",,,
