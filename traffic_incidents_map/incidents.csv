@@ -15661,20 +15661,23 @@ Approved traction devices required for all semis ","3/26/24, 5:36 AM","3/27/24, 
 UT-Incident--177267,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143-128 (Summit County)
 Approved traction devices required for all semis ","3/26/24, 5:38 AM","3/27/24, 6:36 AM","3/26/24, 5:38 AM",,40.740161,-111.558358
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177271,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 8:45 AM","3/26/24, 6:14 AM","3/26/24, 8:45 AM","3/26/24, 6:14 AM",,39.957242,-111.796974
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
-SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 8:00 AM","3/26/24, 3:59 AM","3/26/24, 8:00 AM","3/26/24, 6:46 AM",,39.945085,-111.807481
 UT-Incident--177268,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:00 AM","3/26/24, 5:46 AM","3/26/24, 7:00 AM","3/26/24, 6:04 AM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
+SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 8:00 AM","3/26/24, 3:59 AM","3/26/24, 8:00 AM","3/26/24, 6:46 AM",,39.945085,-111.807481
+UT-Incident--177274,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
+SB I-15 at MP 261 (1400 N Springville) Utah Co.
+Est. Clearance Time: 8:00 AM","3/26/24, 7:01 AM","3/26/24, 8:00 AM","3/26/24, 7:01 AM",,40.176162,-111.646775
 UT-Incident--177261,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
