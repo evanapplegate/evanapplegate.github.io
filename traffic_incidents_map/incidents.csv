@@ -15604,7 +15604,6 @@ UT-Incident--177246,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD 1401,"Crash
 WB Riverdale Rd at I-84 Weber Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","3/25/24, 3:09 PM","3/25/24, 4:15 PM",,,41.173564,-112.013557
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177252,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
@@ -15613,6 +15612,7 @@ UT-Incident--177250,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:52 PM","3/25/24, 4:53 PM","3/25/24, 5:52 PM","3/25/24, 4:55 PM",,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 12:04 PM",,40.572095,-111.773814
