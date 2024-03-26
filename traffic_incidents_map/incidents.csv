@@ -15712,7 +15712,6 @@ UT-Incident--177278,Incidents,5600 S,Salt Lake County,5600 S at 6200 S,"Crash
 Both Directions 5600 S at 6200 S Salt Lake Co.
 Center Lanes Closed
 Est. Clearance Time: 8:40 AM","3/26/24, 7:33 AM","3/26/24, 8:40 AM","3/26/24, 7:33 AM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177284,Incidents,I-15,Beaver County,I-15 at MP 122,"Crash
 SB I-15 at MP 122 (10 mi S of cove fort) Beaver Co.
 Left Shoulder
@@ -15738,6 +15737,11 @@ UT-Incident--177279,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Cleared 9:06 AM
 Expect Residual Delays","3/26/24, 7:51 AM","3/26/24, 8:50 AM","3/26/24, 9:06 AM",,40.238135,-111.689206
+UT-Incident--177290,Incidents,Main St,Davis County,Main St at Parrish Ln,"Crash
+SB Main St at Parrish Ln Davis Co.
+Left Lane Closed
+Est. Clearance Time: 10:20 AM","3/26/24, 9:18 AM","3/26/24, 10:20 AM","3/26/24, 9:18 AM",,40.92151,-111.878915
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177283,Incidents,I-15,Davis County,I-15 at MP 313,"Stalled Vehicle
 NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Lane Closed
@@ -15746,10 +15750,6 @@ UT-Incident--177291,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","3/26/24, 9:22 AM","3/26/24, 10:30 AM","3/26/24, 9:22 AM",,40.63583,-111.905066
-UT-Incident--177290,Incidents,Main St,Davis County,Main St at Parrish Ln,"Crash
-SB Main St at Parrish Ln Davis Co.
-Left Lane Closed
-Est. Clearance Time: 10:20 AM","3/26/24, 9:18 AM","3/26/24, 10:20 AM","3/26/24, 9:18 AM",,40.92151,-111.878915
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
