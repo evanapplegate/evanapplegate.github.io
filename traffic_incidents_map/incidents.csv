@@ -15683,7 +15683,14 @@ UT-Incident--177272,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Est. Clearance Time: 7:30 AM","3/26/24, 6:25 AM","3/26/24, 7:30 AM","3/26/24, 6:25 AM",,40.362967,-111.560551
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177276,Incidents,SR 39,Weber County,SR 39 at MP 12,"Crash
+SR 39 at MP 12 (4 miles east of Ogden) Weber Co.
+Est. Clearance Time: 8:15 AM","3/26/24, 7:16 AM","3/26/24, 8:15 AM","3/26/24, 7:16 AM",,41.254262,-111.874226
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177278,Incidents,5600 S,Salt Lake County,5600 S at 6200 S,"Crash
+Both Directions 5600 S at 6200 S Salt Lake Co.
+Center Lanes Closed
+Est. Clearance Time: 8:40 AM","3/26/24, 7:33 AM","3/26/24, 8:40 AM","3/26/24, 7:33 AM",,0.0,0.0
 UT-Incident--177277,Incidents,Hwy 224,Summit County,Hwy 224 4987,"Crash
 Both Directions Hwy 224 Summit Co.
 2 Left Lanes Closed
@@ -15698,13 +15705,10 @@ Right Shoulder
 Est. Clearance Time: 8:15 AM","3/26/24, 7:06 AM","3/26/24, 8:15 AM","3/26/24, 7:10 AM",,40.262286,-111.70752
 UT-Incident--177273,Incidents,I-84,Morgan County,I-84 at MP 108,"Crash
 EB I-84 at MP 108 (2 mi E of Morgan) Morgan Co.
-Est. Clearance Time: 7:45 AM","3/26/24, 6:39 AM","3/26/24, 7:45 AM","3/26/24, 6:39 AM",,41.054028,-111.593833
+Est. Clearance Time: 8:15 AM","3/26/24, 6:39 AM","3/26/24, 8:15 AM","3/26/24, 7:38 AM",,41.054028,-111.593833
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 9:25 PM",,40.572095,-111.773814
-UT-Incident--177276,Incidents,SR 39,Weber County,SR 39 at MP 12,"Crash
-SR 39 at MP 12 (4 miles east of Ogden) Weber Co.
-Est. Clearance Time: 8:15 AM","3/26/24, 7:16 AM","3/26/24, 8:15 AM","3/26/24, 7:16 AM",,41.254262,-111.874226
