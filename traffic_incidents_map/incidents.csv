@@ -15633,11 +15633,11 @@ SB I-15 at MP 353 (Box Elder) Box Elder Co.
 Left Lane Closed
 Est. Clearance Time: 4:47 AM","3/26/24, 3:49 AM","3/26/24, 4:47 AM","3/26/24, 3:58 AM",,41.356999,-112.043108
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177257,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 NB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Left Shoulder
 Est. Clearance Time: 4:47 AM","3/26/24, 3:47 AM","3/26/24, 4:47 AM","3/26/24, 4:27 AM",,41.028688,-111.946853
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
@@ -15646,6 +15646,13 @@ UT-Incident--177260,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
 NB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
 Right Shoulder
 Est. Clearance Time: 5:50 AM","3/26/24, 4:52 AM","3/26/24, 5:50 AM","3/26/24, 4:52 AM",,41.329561,-112.031305
+UT-Incident--177263,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:07 AM","3/26/24, 5:07 AM","3/26/24, 6:07 AM","3/26/24, 5:08 AM",,40.87142,-111.897275
+UT-Incident--177262,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Est. Clearance Time: 6:10 AM","3/26/24, 5:05 AM","3/26/24, 6:10 AM","3/26/24, 5:06 AM",,40.775011,-111.949343
 UT-Incident--177261,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 SB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
