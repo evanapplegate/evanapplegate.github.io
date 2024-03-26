@@ -15816,11 +15816,11 @@ UT-Incident--177312,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Stalled Vehi
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:15 PM","3/26/24, 4:53 PM","3/26/24, 5:15 PM","3/26/24, 4:53 PM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177311,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","3/26/24, 4:53 PM","3/26/24, 6:00 PM","3/26/24, 4:53 PM",,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177313,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
 NB I-15 at MP 333 (700 S /SR-193) Davis Co.
@@ -15829,6 +15829,9 @@ Est. Clearance Time: 6:35 PM","3/26/24, 5:16 PM","3/26/24, 6:35 PM","3/26/24, 5:
 UT-Incident--177314,Incidents,I-15,Juab County,I-15 at MP 232,"Crash
 NB I-15 at MP 232 (1 mi S of Mona) Juab Co.
 Est. Clearance Time: 6:30 PM","3/26/24, 5:23 PM","3/26/24, 6:30 PM","3/26/24, 5:23 PM",,39.804635,-111.836724
+UT-Incident--177315,Incidents,I-15,Box Elder County,I-15 at MP 368,"Crash
+NB I-15 at MP 368 (Honeyville) Box Elder Co.
+Est. Clearance Time: 6:45 PM","3/26/24, 5:31 PM","3/26/24, 6:45 PM","3/26/24, 5:31 PM",,41.570544,-112.071112
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
