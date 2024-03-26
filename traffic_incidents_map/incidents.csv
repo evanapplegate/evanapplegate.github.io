@@ -15648,7 +15648,6 @@ UT-Incident--177264,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Stalled Vehi
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:22 AM","3/26/24, 5:24 AM","3/26/24, 6:22 AM","3/26/24, 5:24 AM",,40.750653,-111.708179
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177262,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 6:10 AM","3/26/24, 5:05 AM","3/26/24, 6:10 AM","3/26/24, 5:06 AM",,40.775011,-111.949343
@@ -15663,22 +15662,26 @@ UT-Incident--177267,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restric
 WB I-80 at MP 143-128 (Summit County)
 Approved traction devices required for all semis ","3/26/24, 5:38 AM","3/27/24, 6:36 AM","3/26/24, 5:38 AM",,40.740161,-111.558358
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
-SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
-Left Shoulder
-Est. Clearance Time: 4:58 AM","3/26/24, 3:59 AM","3/26/24, 4:58 AM","3/26/24, 4:06 AM",,39.945085,-111.807481
-UT-Incident--177268,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
-NB I-15 at MP 309 (600 N) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 7:00 AM","3/26/24, 5:46 AM","3/26/24, 7:00 AM","3/26/24, 6:04 AM",,40.777705,-111.910735
 UT-Incident--177271,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 8:45 AM","3/26/24, 6:14 AM","3/26/24, 8:45 AM","3/26/24, 6:14 AM",,39.957242,-111.796974
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
+SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 8:00 AM","3/26/24, 3:59 AM","3/26/24, 8:00 AM","3/26/24, 6:46 AM",,39.945085,-111.807481
+UT-Incident--177268,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:00 AM","3/26/24, 5:46 AM","3/26/24, 7:00 AM","3/26/24, 6:04 AM",,40.777705,-111.910735
 UT-Incident--177261,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 6:00 AM","3/26/24, 5:00 AM","3/26/24, 6:00 AM","3/26/24, 6:28 AM",,40.765438,-111.953251
+Right Shoulder
+Est. Clearance Time: 7:30 AM","3/26/24, 5:00 AM","3/26/24, 7:30 AM","3/26/24, 6:47 AM",,40.765438,-111.953251
+UT-Incident--177273,Incidents,I-84,Morgan County,I-84 at MP 108,"Crash
+EB I-84 at MP 108 (2 mi E of Morgan) Morgan Co.
+Est. Clearance Time: 7:45 AM","3/26/24, 6:39 AM","3/26/24, 7:45 AM","3/26/24, 6:39 AM",,41.054028,-111.593833
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
