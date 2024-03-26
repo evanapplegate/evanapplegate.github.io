@@ -15773,13 +15773,16 @@ UT-Incident--177296,Incidents,I-15,Juab County,I-15 at MP 220,"Crash
 SB I-15 at MP 220 (3 mi S of Nephi) Juab Co.
 Est. Clearance Time: 12:30 PM","3/26/24, 11:29 AM","3/26/24, 12:30 PM","3/26/24, 11:29 AM",,39.659226,-111.883798
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177300,Incidents,I-15,Millard County,I-15 at MP 153,"Crash
-SB I-15 at MP 153 (5 mi S of Meadow) Millard Co.
-Est. Clearance Time: 2:45 PM","3/26/24, 1:35 PM","3/26/24, 2:45 PM","3/26/24, 1:35 PM",,38.836829,-112.477312
 UT-Incident--177301,Incidents,I-15,Juab County,I-15 at MP 211,"Crash
 SB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
 Est. Clearance Time: 2:45 PM","3/26/24, 1:39 PM","3/26/24, 2:45 PM","3/26/24, 1:39 PM",,39.543477,-111.952213
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177302,Incidents,CENTER ST,Utah County,CENTER ST,"Crash
+Both Directions Center St at I-15 SB Utah Co.
+Est. Clearance Time: 3:00 PM","3/26/24, 1:57 PM","3/26/24, 3:00 PM","3/26/24, 2:00 PM",,40.233171,-111.684742
+UT-Incident--177300,Incidents,I-15,Millard County,I-15 at MP 153,"Crash
+SB I-15 at MP 153 (5 mi S of Meadow) Millard Co.
+Est. Clearance Time: 2:45 PM","3/26/24, 1:35 PM","3/26/24, 2:45 PM","3/26/24, 1:35 PM",,38.836829,-112.477312
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
@@ -15792,4 +15795,4 @@ Approved Traction Devices Required for all Vehicles","3/26/24, 7:54 AM","3/27/24
 UT-Incident--177299,Incidents,US 189,Utah County,US 189 at MP 11,"Crash
 Both Directions US 189 at MP 11 (Bridal Veil Falls) Utah Co.
 Center Lane Closed
-Est. Clearance Time: 2:20 PM","3/26/24, 1:10 PM","3/26/24, 2:20 PM","3/26/24, 1:10 PM",,40.340167,-111.606843
+Est. Clearance Time: 2:20 PM","3/26/24, 1:10 PM","3/26/24, 2:20 PM","3/26/24, 1:57 PM",,40.340167,-111.606843
