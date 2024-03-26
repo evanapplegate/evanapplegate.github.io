@@ -15641,25 +15641,29 @@ NB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
 Right Shoulder
 Est. Clearance Time: 5:50 AM","3/26/24, 4:52 AM","3/26/24, 5:50 AM","3/26/24, 4:52 AM",,41.329561,-112.031305
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177263,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:07 AM","3/26/24, 5:07 AM","3/26/24, 6:07 AM","3/26/24, 5:08 AM",,40.87142,-111.897275
+UT-Incident--177264,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Stalled Vehicle
+EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 6:22 AM","3/26/24, 5:24 AM","3/26/24, 6:22 AM","3/26/24, 5:24 AM",,40.750653,-111.708179
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177259,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 4:58 AM","3/26/24, 3:59 AM","3/26/24, 4:58 AM","3/26/24, 4:06 AM",,39.945085,-111.807481
-UT-Incident--177263,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
-SB I-15 at MP 316 (1500 S, Woods X) Davis Co.
-Right Shoulder
-Est. Clearance Time: 6:07 AM","3/26/24, 5:07 AM","3/26/24, 6:07 AM","3/26/24, 5:08 AM",,40.87142,-111.897275
+UT-Incident--177268,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:00 AM","3/26/24, 5:46 AM","3/26/24, 7:00 AM","3/26/24, 6:04 AM",,40.777705,-111.910735
 UT-Incident--177262,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 6:10 AM","3/26/24, 5:05 AM","3/26/24, 6:10 AM","3/26/24, 5:06 AM",,40.775011,-111.949343
 UT-Incident--177261,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Est. Clearance Time: 6:00 AM","3/26/24, 5:00 AM","3/26/24, 6:00 AM","3/26/24, 5:42 AM",,40.765438,-111.953251
-UT-Incident--177264,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Stalled Vehicle
-EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 6:22 AM","3/26/24, 5:24 AM","3/26/24, 6:22 AM","3/26/24, 5:24 AM",,40.750653,-111.708179
 UT-Incident--177265,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Stalled Vehicle
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 2 Right Lanes Closed
@@ -15670,6 +15674,9 @@ Approved traction devices required for all semis ","3/26/24, 5:36 AM","3/27/24, 
 UT-Incident--177267,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143-128 (Summit County)
 Approved traction devices required for all semis ","3/26/24, 5:38 AM","3/27/24, 6:36 AM","3/26/24, 5:38 AM",,40.740161,-111.558358
+UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
+Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 9:25 PM",,40.572095,-111.773814
