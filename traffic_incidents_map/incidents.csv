@@ -15813,11 +15813,15 @@ NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:15 PM","3/26/24, 4:05 PM","3/26/24, 5:15 PM","3/26/24, 4:13 PM",,40.804836,-111.922481
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177312,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Stalled Vehicle
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:15 PM","3/26/24, 4:53 PM","3/26/24, 5:15 PM","3/26/24, 4:53 PM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177313,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
+NB I-15 at MP 333 (700 S /SR-193) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","3/26/24, 5:16 PM","3/26/24, 6:35 PM","3/26/24, 5:16 PM",,41.090489,-111.992149
 UT-Incident--177311,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
