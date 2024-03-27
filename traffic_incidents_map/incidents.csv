@@ -15842,7 +15842,6 @@ UT-Incident--177318,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 290 (13200 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 7:35 PM","3/26/24, 6:16 PM","3/26/24, 7:35 PM","3/26/24, 6:25 PM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177320,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
@@ -15852,6 +15851,7 @@ UT-Incident--177321,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","3/26/24, 7:32 PM","3/26/24, 8:30 PM","3/26/24, 7:32 PM",,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
