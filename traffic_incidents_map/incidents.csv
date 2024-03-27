@@ -15983,22 +15983,32 @@ Est. Clearance Time: 5:00 PM","3/27/24, 3:03 PM","3/27/24, 5:00 PM","3/27/24, 3:
 UT-Incident--177359,Incidents,9400 S,Salt Lake County,9400 S at 1300 E,"Crash
 Both Directions 9400 S at 1200 E Salt Lake Co.
 Est. Clearance Time: 4:45 PM","3/27/24, 3:52 PM","3/27/24, 4:45 PM","3/27/24, 3:52 PM",,40.58049,-111.856372
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177360,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","3/27/24, 4:04 PM","3/27/24, 5:15 PM","3/27/24, 4:04 PM",,41.144394,-111.918626
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177366,Incidents,California Ave,Salt Lake County,California Ave at 2700 W,"Crash
-EB California Ave at 2700 W Salt Lake Co.
-Est. Clearance Time: 6:35 PM","3/27/24, 5:17 PM","3/27/24, 6:35 PM","3/27/24, 5:17 PM",,0.0,0.0
 UT-Incident--177362,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:30 PM","3/27/24, 4:12 PM","3/27/24, 5:30 PM","3/27/24, 4:12 PM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177366,Incidents,California Ave,Salt Lake County,California Ave at 2700 W,"Crash
+EB California Ave at 2700 W Salt Lake Co.
+Est. Clearance Time: 6:35 PM","3/27/24, 5:17 PM","3/27/24, 6:35 PM","3/27/24, 5:17 PM",,0.0,0.0
+UT-Incident--177369,Incidents,Hwy 193,Davis County,Hwy 193 at 3000 W,"Crash
+EB Hwy 193 at 3000 W Davis Co.
+Est. Clearance Time: 6:30 PM","3/27/24, 5:28 PM","3/27/24, 6:30 PM","3/27/24, 5:28 PM",,0.0,0.0
 UT-Incident--177364,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Off Ramp (Salt Lake Co.)
 Est. Clearance Time: 6:15 PM","3/27/24, 5:07 PM","3/27/24, 6:15 PM","3/27/24, 5:07 PM",,40.664677,-111.90152
+UT-Incident--177368,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Est. Clearance Time: 6:30 PM","3/27/24, 5:22 PM","3/27/24, 6:30 PM","3/27/24, 5:22 PM",,40.480607,-111.902252
+UT-Incident--177367,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
+NB I-215 W at MP 26 (2800 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:30 PM","3/27/24, 5:19 PM","3/27/24, 6:30 PM","3/27/24, 5:19 PM",,40.817974,-111.949525
 UT-Incident--177365,Incidents,US 89,Weber County,US 89 at MP 408,"Crash
 SB US 89 at MP 408 (South Ogden) Weber Co.
 Est. Clearance Time: 6:30 PM","3/27/24, 5:13 PM","3/27/24, 6:30 PM","3/27/24, 5:13 PM",,41.151081,-111.934734
