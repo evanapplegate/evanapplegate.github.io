@@ -15920,10 +15920,10 @@ Est. Clearance Time: 8:25 AM","3/27/24, 7:26 AM","3/27/24, 8:25 AM","3/27/24, 7:
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 9:25 PM",,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177340,Incidents,I-15,Iron County,I-15 at MP 63,"Crash
 NB I-15 at MP 63 (Cedar City) Iron Co.
@@ -15939,3 +15939,6 @@ Est. Clearance Time: 9:15 AM","3/27/24, 8:15 AM","3/27/24, 9:15 AM","3/27/24, 8:
 UT-Incident--177344,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Est. Clearance Time: 9:20 AM","3/27/24, 8:21 AM","3/27/24, 9:20 AM","3/27/24, 8:21 AM",,40.718332,-111.893095
+UT-Incident--177345,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
+EB I-80 at MP 146 (West of US-40) Summit Co.
+Est. Clearance Time: 9:40 AM","3/27/24, 8:37 AM","3/27/24, 9:40 AM","3/27/24, 8:37 AM",,40.725101,-111.511877
