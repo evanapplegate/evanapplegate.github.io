@@ -15830,7 +15830,6 @@ Est. Clearance Time: 6:30 PM","3/26/24, 5:23 PM","3/26/24, 6:30 PM","3/26/24, 5:
 UT-Incident--177315,Incidents,I-15,Box Elder County,I-15 at MP 368,"Crash
 NB I-15 at MP 368 (Honeyville) Box Elder Co.
 Est. Clearance Time: 6:45 PM","3/26/24, 5:31 PM","3/26/24, 6:45 PM","3/26/24, 5:31 PM",,41.570544,-112.071112
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177316,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
@@ -15848,6 +15847,7 @@ UT-Incident--177320,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","3/26/24, 7:03 PM","3/26/24, 8:15 PM","3/26/24, 7:03 PM",,41.155128,-112.024901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177321,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
@@ -15861,3 +15861,6 @@ Approved Traction Devices Required For All Vehicles","3/25/24, 12:04 PM","3/27/2
 UT-Incident--177280,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Silver Strike Trail) Summit Co.
 Approved Traction Devices Required for all Vehicles","3/26/24, 7:54 AM","3/27/24, 9:00 AM","3/26/24, 7:54 AM",,40.624634,-111.501637
+UT-Incident--177322,Incidents,US 6,Utah County,US 6 at MP 207,"Crash
+US 6 at MP 207 (3 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 9:00 PM","3/26/24, 7:58 PM","3/26/24, 9:00 PM","3/26/24, 7:58 PM",,39.935788,-111.143823
