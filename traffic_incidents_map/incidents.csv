@@ -15883,7 +15883,6 @@ Approved Traction Devices Required For Semis","3/26/24, 11:51 PM","3/31/24, 12:0
 UT-Incident--177331,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Semis","3/27/24, 12:16 AM","3/28/24, 1:14 AM","3/27/24, 12:16 AM",,40.712086,-111.801151
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177332,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Left Shoulder
@@ -15892,6 +15891,11 @@ UT-Incident--177280,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restr
 Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required for all Vehicles","3/26/24, 7:54 AM","3/27/24, 9:00 AM","3/27/24, 12:19 AM",,40.624634,-111.501637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177333,Incidents,I-15,Box Elder County,I-15 at MP 374,"Crash
+NB I-15 at MP 374 (Tremonton) Box Elder Co.
+Left Shoulder
+Est. Clearance Time: 4:39 AM","3/27/24, 3:41 AM","3/27/24, 4:39 AM","3/27/24, 3:41 AM",,41.649509,-112.112593
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
