@@ -15870,7 +15870,6 @@ Est. Clearance Time: 11:45 PM","3/26/24, 10:38 PM","3/26/24, 11:45 PM","3/26/24,
 UT-Incident--177324,Incidents,I-70,Sevier County,I-70 at MP 79,"Crash
 WB I-70 at MP 79 (10 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 3/27/2024 12:00 AM","3/26/24, 8:45 PM","3/27/24, 12:00 AM","3/26/24, 10:31 PM",,38.8155,-111.536324
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177329,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
@@ -15882,6 +15881,7 @@ Est. Clearance Time: 3/27/2024 12:30 AM","3/26/24, 11:19 PM","3/27/24, 12:30 AM"
 UT-Incident--177330,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 Both Directions I-80 at MP 143-128 (Parleys Canyon) Summit/Salt Lake Co.
 Approved Traction Devices Required For Semis","3/26/24, 11:51 PM","3/31/24, 12:00 PM","3/26/24, 11:55 PM",,40.740161,-111.558358
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177331,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 at MP 128-143 (Parley's Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Semis","3/27/24, 12:16 AM","3/28/24, 1:14 AM","3/27/24, 12:16 AM",,40.712086,-111.801151
