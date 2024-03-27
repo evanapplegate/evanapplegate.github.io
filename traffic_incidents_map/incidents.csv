@@ -15899,7 +15899,6 @@ Est. Clearance Time: 6:45 AM","3/27/24, 5:40 AM","3/27/24, 6:45 AM","3/27/24, 5:
 UT-Incident--177337,Incidents,Wall Ave,Weber County,Wall Ave at 2nd St,"Crash
 Wall Ave at 2nd St Weber Co.
 Est. Clearance Time: 7:00 AM","3/27/24, 5:59 AM","3/27/24, 7:00 AM","3/27/24, 5:59 AM",,41.260898,-111.977842
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177333,Incidents,I-15,Box Elder County,I-15 at MP 374,"Crash
 NB I-15 at MP 374 (Tremonton) Box Elder Co.
 Left Shoulder
@@ -15916,6 +15915,7 @@ EB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:50 AM","3/27/24, 5:48 AM","3/27/24, 7:20 AM","3/27/24, 6:53 AM",,40.750021,-111.604602
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177340,Incidents,I-15,Iron County,I-15 at MP 63,"Crash
 NB I-15 at MP 63 (Cedar City) Iron Co.
 Est. Clearance Time: 8:00 AM","3/27/24, 6:59 AM","3/27/24, 8:00 AM","3/27/24, 6:59 AM",,37.734174,-113.047126
@@ -15925,3 +15925,6 @@ Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24,
 UT-Incident--177233,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 - 10 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/25/24, 12:04 PM","3/27/24, 1:15 PM","3/25/24, 9:25 PM",,40.572095,-111.773814
+UT-Incident--177341,Incidents,US 40 EB X4 Off SR 248 Ramp,Summit County,US 40 EB X4 Off SR 248 Ramp at SR 248,"Crash
+EB US 40 Off Ramp SR 248 (Summit County)
+Est. Clearance Time: 8:25 AM","3/27/24, 7:26 AM","3/27/24, 8:25 AM","3/27/24, 7:26 AM",,40.684232,-111.463769
