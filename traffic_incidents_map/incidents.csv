@@ -15914,14 +15914,18 @@ UT-Incident--177336,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
 EB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:50 AM","3/27/24, 5:48 AM","3/27/24, 7:20 AM","3/27/24, 6:53 AM",,40.750021,-111.604602
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177341,Incidents,US 40 EB X4 Off SR 248 Ramp,Summit County,US 40 EB X4 Off SR 248 Ramp at SR 248,"Crash
 EB US 40 Off Ramp SR 248 (Summit County)
 Est. Clearance Time: 8:25 AM","3/27/24, 7:26 AM","3/27/24, 8:25 AM","3/27/24, 7:26 AM",,40.684232,-111.463769
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177340,Incidents,I-15,Iron County,I-15 at MP 63,"Crash
 NB I-15 at MP 63 (Cedar City) Iron Co.
 Est. Clearance Time: 8:00 AM","3/27/24, 6:59 AM","3/27/24, 8:00 AM","3/27/24, 6:59 AM",,37.734174,-113.047126
+UT-Incident--177342,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5200 S) Salt Lake Co.
+3 Left Lanes Closed
+Est. Clearance Time: 8:55 AM","3/27/24, 7:57 AM","3/27/24, 8:55 AM","3/27/24, 7:59 AM",,40.649847,-111.90236
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
