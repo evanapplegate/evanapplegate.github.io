@@ -15936,7 +15936,6 @@ Est. Clearance Time: 9:20 AM","3/27/24, 8:21 AM","3/27/24, 9:20 AM","3/27/24, 8:
 UT-Incident--177345,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 EB I-80 at MP 146 (West of US-40) Summit Co.
 Est. Clearance Time: 9:40 AM","3/27/24, 8:37 AM","3/27/24, 9:40 AM","3/27/24, 8:37 AM",,40.725101,-111.511877
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177342,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Cleared at 9:15 AM, Expect Residual Delays","3/27/24, 7:57 AM","3/27/24, 9:40 AM","3/27/24, 9:16 AM",,40.649847,-111.90236
@@ -15944,14 +15943,23 @@ UT-Incident--177350,Incidents,I-80 EB X129 OFF SR 189 RAMP,Salt Lake County,I-80
 EB I-80 Foothill  Off Ramp (Salt Lake County)
 Est. Clearance Time: 10:15 AM","3/27/24, 9:15 AM","3/27/24, 10:15 AM","3/27/24, 9:15 AM",,40.712967,-111.804878
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177346,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
-NB I-15 at MP 293 (10600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:50 AM","3/27/24, 8:47 AM","3/27/24, 9:50 AM","3/27/24, 8:47 AM",,40.550055,-111.896336
-UT-Incident--177348,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-SB I-15 at MP 296 (8000 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:00 AM","3/27/24, 9:01 AM","3/27/24, 10:00 AM","3/27/24, 9:01 AM",,40.592858,-111.902495
 UT-Incident--177349,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 NB I-215 E at MP 1 (3300 S) Salt Lake Co.
 Est. Clearance Time: 10:10 AM","3/27/24, 9:11 AM","3/27/24, 10:10 AM","3/27/24, 9:35 AM",,40.710695,-111.801136
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177346,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:50 AM","3/27/24, 8:47 AM","3/27/24, 10:20 AM","3/27/24, 9:54 AM",,40.550055,-111.896336
+UT-Incident--177348,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+SB I-15 at MP 296 (8000 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:00 AM","3/27/24, 9:01 AM","3/27/24, 10:30 AM","3/27/24, 9:54 AM",,40.592858,-111.902495
+UT-Incident--177353,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
+NB I-15 at MP 303 (3300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:15 AM","3/27/24, 10:00 AM","3/27/24, 11:15 AM","3/27/24, 10:00 AM",,40.693589,-111.902881
+UT-Incident--177352,Incidents,I-80,Summit County,I-80 at MP 143,"Crash
+EB I-80 at MP 143 (Powderwood / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 11:00 AM","3/27/24, 9:57 AM","3/27/24, 11:00 AM","3/27/24, 9:57 AM",,40.740161,-111.558358
