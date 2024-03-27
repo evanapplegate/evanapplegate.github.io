@@ -15890,7 +15890,6 @@ Est. Clearance Time: 3:22 AM","3/27/24, 2:23 AM","3/27/24, 3:22 AM","3/27/24, 2:
 UT-Incident--177280,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required for all Vehicles","3/26/24, 7:54 AM","3/27/24, 9:00 AM","3/27/24, 12:19 AM",,40.624634,-111.501637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177335,Incidents,I-80,Summit County,I-80 at MP 150,"Crash
 EB I-80 at MP 150 (3 mi E of Sliver Creek) Summit Co.
 Est. Clearance Time: 6:45 AM","3/27/24, 5:42 AM","3/27/24, 6:45 AM","3/27/24, 5:42 AM",,40.765812,-111.470127
@@ -15909,9 +15908,6 @@ UT-Incident--177339,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 SB I-15 at MP 343 (Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:40 AM","3/27/24, 6:33 AM","3/27/24, 7:40 AM","3/27/24, 6:33 AM",,41.218498,-112.004065
-UT-Incident--177340,Incidents,I-15,Iron County,I-15 at MP 63,"Crash
-NB I-15 at MP 63 (Cedar City) Iron Co.
-Est. Clearance Time: 8:00 AM","3/27/24, 6:59 AM","3/27/24, 8:00 AM","3/27/24, 6:59 AM",,37.734174,-113.047126
 UT-Incident--177338,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 NB I-215 W at MP 20 (Salt Lake County)
 Est. Clearance Time: 7:20 AM","3/27/24, 6:18 AM","3/27/24, 7:20 AM","3/27/24, 6:18 AM",,40.731947,-111.949915
@@ -15919,6 +15915,10 @@ UT-Incident--177336,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
 EB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:50 AM","3/27/24, 5:48 AM","3/27/24, 7:20 AM","3/27/24, 6:53 AM",,40.750021,-111.604602
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177340,Incidents,I-15,Iron County,I-15 at MP 63,"Crash
+NB I-15 at MP 63 (Cedar City) Iron Co.
+Est. Clearance Time: 8:00 AM","3/27/24, 6:59 AM","3/27/24, 8:00 AM","3/27/24, 6:59 AM",,37.734174,-113.047126
 UT-Incident--177269,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 EB SR 190 at MP 2 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved Traction Devices Requred For All Vehicles","3/26/24, 5:53 AM","3/27/24, 6:50 AM","3/26/24, 5:53 AM",,40.619107,-111.786281
