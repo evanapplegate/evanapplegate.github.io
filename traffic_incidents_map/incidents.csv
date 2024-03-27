@@ -15931,6 +15931,16 @@ SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","3/27/24, 8:15 AM","3/27/24, 9:15 AM","3/27/24, 8:15 AM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177344,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Est. Clearance Time: 9:20 AM","3/27/24, 8:21 AM","3/27/24, 9:20 AM","3/27/24, 8:21 AM",,40.718332,-111.893095
+UT-Incident--177345,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
+EB I-80 at MP 146 (West of US-40) Summit Co.
+Est. Clearance Time: 9:40 AM","3/27/24, 8:37 AM","3/27/24, 9:40 AM","3/27/24, 8:37 AM",,40.725101,-111.511877
+UT-Incident--177349,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
+EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:10 AM","3/27/24, 9:11 AM","3/27/24, 10:10 AM","3/27/24, 9:11 AM",,40.713146,-111.819005
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177342,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
@@ -15943,16 +15953,6 @@ UT-Incident--177348,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","3/27/24, 9:01 AM","3/27/24, 10:00 AM","3/27/24, 9:01 AM",,40.592858,-111.902495
-UT-Incident--177344,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
-WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
-Est. Clearance Time: 9:20 AM","3/27/24, 8:21 AM","3/27/24, 9:20 AM","3/27/24, 8:21 AM",,40.718332,-111.893095
-UT-Incident--177345,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
-EB I-80 at MP 146 (West of US-40) Summit Co.
-Est. Clearance Time: 9:40 AM","3/27/24, 8:37 AM","3/27/24, 9:40 AM","3/27/24, 8:37 AM",,40.725101,-111.511877
-UT-Incident--177349,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
-EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 10:10 AM","3/27/24, 9:11 AM","3/27/24, 10:10 AM","3/27/24, 9:11 AM",,40.713146,-111.819005
 UT-Incident--177350,Incidents,I-80 EB X129 OFF SR 189 RAMP,Salt Lake County,I-80 EB X129 OFF SR 189 RAMP at SR 189,"Crash
 EB I-80 Foothill  Off Ramp (Salt Lake County)
 Est. Clearance Time: 10:15 AM","3/27/24, 9:15 AM","3/27/24, 10:15 AM","3/27/24, 9:15 AM",,40.712967,-111.804878
