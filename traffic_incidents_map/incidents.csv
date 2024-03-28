@@ -15992,7 +15992,6 @@ NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:30 PM","3/27/24, 4:12 PM","3/27/24, 5:30 PM","3/27/24, 4:12 PM",,41.114242,-112.014007
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177366,Incidents,California Ave,Salt Lake County,California Ave at 2700 W,"Crash
 EB California Ave at 2700 W Salt Lake Co.
 Est. Clearance Time: 6:35 PM","3/27/24, 5:17 PM","3/27/24, 6:35 PM","3/27/24, 5:17 PM",,0.0,0.0
@@ -16002,16 +16001,6 @@ Est. Clearance Time: 6:30 PM","3/27/24, 5:28 PM","3/27/24, 6:30 PM","3/27/24, 5:
 UT-Incident--177364,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Off Ramp (Salt Lake Co.)
 Est. Clearance Time: 6:15 PM","3/27/24, 5:07 PM","3/27/24, 6:15 PM","3/27/24, 5:07 PM",,40.664677,-111.90152
-UT-Incident--177368,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Est. Clearance Time: 6:30 PM","3/27/24, 5:22 PM","3/27/24, 6:30 PM","3/27/24, 5:22 PM",,40.480607,-111.902252
-UT-Incident--177370,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
-SB I-15 at MP 280 (Lehi) Utah Co.
-Est. Clearance Time: 6:30 PM","3/27/24, 5:30 PM","3/27/24, 6:30 PM","3/27/24, 5:35 PM",,40.39191,-111.835579
-UT-Incident--177371,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
-EB I-215 S at MP 12 (1200 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:45 PM","3/27/24, 5:38 PM","3/27/24, 6:45 PM","3/27/24, 5:38 PM",,40.636258,-111.914012
 UT-Incident--177367,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 NB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Left Shoulder
@@ -16019,3 +16008,17 @@ Est. Clearance Time: 6:30 PM","3/27/24, 5:19 PM","3/27/24, 6:30 PM","3/27/24, 5:
 UT-Incident--177365,Incidents,US 89,Weber County,US 89 at MP 408,"Crash
 SB US 89 at MP 408 (South Ogden) Weber Co.
 Est. Clearance Time: 6:30 PM","3/27/24, 5:13 PM","3/27/24, 6:30 PM","3/27/24, 5:13 PM",,41.151081,-111.934734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177368,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Est. Clearance Time: 6:30 PM","3/27/24, 5:22 PM","3/27/24, 6:30 PM","3/27/24, 5:22 PM",,40.480607,-111.902252
+UT-Incident--177370,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at MP 280 (Lehi) Utah Co.
+Est. Clearance Time: 6:30 PM","3/27/24, 5:30 PM","3/27/24, 6:30 PM","3/27/24, 5:35 PM",,40.39191,-111.835579
+UT-Incident--177372,Incidents,I-15,Utah County,I-15 at MP 251,"Signal Problem
+Ramp I-15 at MP 251 (Main St /Payson) Utah Co.
+Est. Clearance Time: 7:15 PM","3/27/24, 6:14 PM","3/27/24, 7:15 PM","3/27/24, 6:14 PM",,40.056219,-111.731751
+UT-Incident--177371,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","3/27/24, 5:38 PM","3/27/24, 6:45 PM","3/27/24, 5:38 PM",,40.636258,-111.914012
