@@ -16071,16 +16071,20 @@ UT-Incident--177386,Incidents,SR 201 EB TO I-15 NB COL RAMP,Salt Lake County,SR 
 EB SR 201 Ramp to NB I-15/1300 S (SLC) Salt Lake Co.
 Ramp Closed
 Est. Clearance Time: 2:30 PM","3/28/24, 1:23 PM","3/28/24, 2:30 PM","3/28/24, 1:23 PM",,40.728112,-111.903888
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177389,Incidents,US 91,Box Elder County,US 91 at MP 2,"Roadway Restriction
 Both Directions US 91  MP 2-17 (Sardine Canyon) 
 Box Elder/Cache Co. 
 Approved Traction Devices Required For All Vehicles ","3/28/24, 2:34 PM","3/31/24, 3:32 PM","3/28/24, 2:34 PM",,41.486554,-112.015642
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177390,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 SB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","3/28/24, 3:29 PM","3/28/24, 4:30 PM","3/28/24, 3:29 PM",,40.215696,-111.665414
+UT-Incident--177391,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+SB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:30 PM","3/28/24, 3:31 PM","3/28/24, 4:30 PM","3/28/24, 3:31 PM",,40.775011,-111.949343
 UT-Incident--177387,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 MP 2 - 20 (Big Cottonwood Canyon) Salt Lake Co.
 Approved Traction Devices Required For All Vehicles","3/28/24, 2:20 PM","3/30/24, 3:17 PM","3/28/24, 2:20 PM",,40.619107,-111.786281
@@ -16090,3 +16094,6 @@ Approved Traction Devices Required For All Vehicles ","3/28/24, 2:22 PM","3/30/2
 UT-Incident--177385,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2-5 (Empire Pass) Summit Co.
 Approved Traction Devices Required for all Vehicles","3/28/24, 12:19 PM","3/30/24, 1:15 PM","3/28/24, 12:26 PM",,40.624634,-111.501637
+UT-Incident--177392,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
+NB SR 36 at MP 56 (Tooele) Tooele Co.
+Est. Clearance Time: 4:33 PM","3/28/24, 3:35 PM","3/28/24, 4:33 PM","3/28/24, 3:35 PM",,40.554334,-112.297621
