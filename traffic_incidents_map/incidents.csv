@@ -16086,7 +16086,6 @@ UT-Incident--177391,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","3/28/24, 3:31 PM","3/28/24, 4:30 PM","3/28/24, 3:31 PM",,40.775011,-111.949343
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177395,Incidents,SR 224,Summit County,SR 224 at MP 11,"Crash
 NB SR 224 at MP 11 (Newpark Town Center) Summit Co.
 Right Shoulder
@@ -16095,10 +16094,14 @@ Est. Clearance Time: 5:00 PM","3/28/24, 4:00 PM","3/28/24, 5:00 PM","3/28/24, 4:
 UT-Incident--177396,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (US-89 Onramp) Davis Co.
 Est. Clearance Time: 5:00 PM","3/28/24, 4:04 PM","3/28/24, 5:00 PM","3/28/24, 4:04 PM",,40.831692,-111.91596
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177397,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 Collector at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","3/28/24, 4:23 PM","3/28/24, 5:30 PM","3/28/24, 4:23 PM",,40.736823,-111.90475
+UT-Incident--177399,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
+Ramp I-15 at MP 263 (University Ave / Provo) Utah Co.
+Est. Clearance Time: 5:33 PM","3/28/24, 4:34 PM","3/28/24, 5:33 PM","3/28/24, 4:34 PM",,40.203376,-111.655441
 UT-Incident--177398,Incidents,Main St,Davis County,Main St at Gentile St,"Crash
 SB Main St at Gentile St Davis Co.
 2 Right Lanes Closed
