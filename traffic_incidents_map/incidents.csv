@@ -16213,7 +16213,6 @@ UT-Incident--177427,Incidents,US 89,Sanpete County,US 89 at MP 267,"Crash
 Both Directions US 89 at MP 267 (SR-132 Jct) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 8:44 AM","3/29/24, 7:45 AM","3/29/24, 8:44 AM","3/29/24, 7:45 AM",,39.416924,-111.560119
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177428,Incidents,US 191,Duchesne County,US 191 at MP 269,"Crash
 Both Directions US 191 Closed
  at MP 269 (19 miles N of Helper) Duchesne Co.","3/29/24, 8:16 AM","3/29/24, 9:14 AM","3/29/24, 8:16 AM",,39.902534,-110.725976
@@ -16222,3 +16221,4 @@ UT-Incident--177429,Incidents,State St,Salt Lake County,State St at I-80 WB X124
 All Directions State St between I-80 and 1700 S
 Salt Lake Co.
 Est. Clearance Time: 10:56 AM","3/29/24, 8:59 AM","3/29/24, 9:56 AM","3/29/24, 8:59 AM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
