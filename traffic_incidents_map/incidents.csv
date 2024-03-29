@@ -16134,7 +16134,6 @@ UT-Incident--177402,Incidents,I-80,Salt Lake County,I-80 at MP 119,"Crash
 EB I-80 at MP 119 (I-15 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:55 PM","3/28/24, 4:57 PM","3/28/24, 5:55 PM","3/28/24, 4:57 PM",,40.763707,-111.913768
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177407,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -16158,6 +16157,7 @@ UT-Incident--177405,Incidents,US 6,Utah County,US 6 at MP 187,"Crash
 EB US 6 at MP 187 (Thistle US-89 Jct) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","3/28/24, 5:24 PM","3/28/24, 6:30 PM","3/28/24, 5:24 PM",,39.998056,-111.476906
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177415,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
