@@ -16298,7 +16298,6 @@ UT-Incident--177453,Incidents,SR 36,Tooele County,SR 36 at MP 47,"Crash
 Both Directions SR 36 at MP 47 (Stockton) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 8:32 AM","3/30/24, 7:32 AM","3/30/24, 8:32 AM","3/30/24, 7:32 AM",,40.442154,-112.368445
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177454,Incidents,1820 S,Salt Lake County,1820 S at BANGERTER HWY/BANGERTER SB HWY,"Crash
 WB 1820 S at BANGERTER HWY/BANGERTER SB HWY Salt Lake Co.
 Est. Clearance Time: 9:31 AM","3/30/24, 8:31 AM","3/30/24, 9:31 AM",,,40.730832,-111.987775
@@ -16310,6 +16309,7 @@ UT-Incident--177457,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:17 AM","3/30/24, 10:18 AM","3/30/24, 11:17 AM",,,40.713146,-111.819005
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177456,Incidents,SR 14,Iron County,SR 14 at MP 20,"Crash
 Both Directions SR 14 at MP 20 (18 Mi E of Cedar City) Iron Co.
