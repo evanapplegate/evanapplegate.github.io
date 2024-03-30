@@ -16291,11 +16291,15 @@ UT-Incident--177451,Incidents,HWY 201,Salt Lake County,HWY 201 at 5600 W,"Crash
 EB HWY 201 at 5600 W Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:58 AM","3/30/24, 3:59 AM","3/30/24, 4:58 AM","3/30/24, 3:59 AM",,40.725493,-112.02651
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177452,Incidents,State St,Salt Lake County,State St at 3300 S,"Crash
 NB State St at 3300 S Salt Lake Co.
 Est. Clearance Time: 7:17 AM","3/30/24, 6:22 AM","3/30/24, 7:17 AM","3/30/24, 6:22 AM",,40.699821,-111.888253
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177453,Incidents,SR 36,Tooele County,SR 36 at MP 47,"Crash
+Both Directions SR 36 at MP 47 (Stockton) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 8:32 AM","3/30/24, 7:32 AM","3/30/24, 8:32 AM","3/30/24, 7:32 AM",,40.442154,-112.368445
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
