@@ -16252,7 +16252,6 @@ UT-Incident--177440,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Stalled
 SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:30 PM","3/29/24, 4:55 PM","3/29/24, 5:30 PM","3/29/24, 4:55 PM",,40.688869,-111.951947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177438,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 SB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Est. Clearance Time: 5:00 PM","3/29/24, 3:48 PM","3/29/24, 5:00 PM","3/29/24, 3:48 PM",,40.005686,-111.762644
@@ -16271,6 +16270,7 @@ UT-Incident--177444,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 On Ramp (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","3/29/24, 6:23 PM","3/29/24, 7:35 PM","3/29/24, 6:23 PM",,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
