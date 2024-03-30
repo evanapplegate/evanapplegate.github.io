@@ -16262,7 +16262,6 @@ Est. Clearance Time: 5:30 PM","3/29/24, 4:32 PM","3/29/24, 5:30 PM","3/29/24, 4:
 UT-Incident--177441,Incidents,I-15 SB Fwy,Salt Lake County,I-15 SB Fwy at I-215e WB Fwy,"Crash
 Ramp I-15 at I-215 S WB Fwy Salt Lake Co.
 Est. Clearance Time: 6:15 PM","3/29/24, 5:09 PM","3/29/24, 6:15 PM","3/29/24, 5:09 PM",,40.636375,-111.904949
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177443,Incidents,1900 W,Weber County,1900 W at 12th St,"Crash
 SB 1900 W at 12th St Weber Co.
 Est. Clearance Time: 7:30 PM","3/29/24, 6:21 PM","3/29/24, 7:30 PM","3/29/24, 6:21 PM",,0.0,0.0
@@ -16270,6 +16269,7 @@ UT-Incident--177444,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 On Ramp (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","3/29/24, 6:23 PM","3/29/24, 7:35 PM","3/29/24, 6:23 PM",,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
