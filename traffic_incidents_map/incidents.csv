@@ -16280,7 +16280,6 @@ UT-Incident--177448,Incidents,400 N,Davis County,400 N at Main St,"Crash
 EB 400 N at Main St Davis Co.
 Est. Clearance Time: 11:45 PM","3/29/24, 10:43 PM","3/29/24, 11:45 PM","3/29/24, 10:43 PM",,40.893686,-111.880677
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177449,Incidents,SR 130,Iron County,SR 130 at MP 7,"Crash
 NB SR 130 at MP 7 (3475 N) Iron Co.
 Right Shoulder
@@ -16289,6 +16288,7 @@ UT-Incident--177450,Incidents,SR 39,Weber County,SR 39 at MP 13,"Crash
 WB SR 39 at MP 13 (5 miles east of Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 1:17 AM","3/30/24, 12:17 AM","3/30/24, 1:17 AM","3/30/24, 12:17 AM",,41.254635,-111.856559
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
