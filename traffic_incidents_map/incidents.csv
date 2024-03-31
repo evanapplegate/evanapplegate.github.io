@@ -16341,7 +16341,6 @@ Est. Clearance Time: 7:30 PM","3/30/24, 6:26 PM","3/30/24, 7:30 PM","3/30/24, 6:
 UT-Incident--177471,Incidents,I-15,Washington County,I-15 at MP 37,"Crash
 NB I-15 at MP 37 (5 mi S of Kanarraville) Washington Co.
 Est. Clearance Time: 9:15 PM","3/30/24, 8:04 PM","3/30/24, 9:15 PM","3/30/24, 8:04 PM",,37.408361,-113.236472
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177469,Incidents,I-15,Iron County,I-15 at MP 88,"Crash
 NB I-15 at MP 88 (11 mi N of Parowan) Iron Co.
 Est. Clearance Time: 8:15 PM","3/30/24, 7:00 PM","3/30/24, 8:15 PM","3/30/24, 7:00 PM",,37.985581,-112.735495
@@ -16349,6 +16348,7 @@ Est. Clearance Time: 8:15 PM","3/30/24, 7:00 PM","3/30/24, 8:15 PM","3/30/24, 7:
 UT-Incident--177470,Incidents,SR 14,Iron County,SR 14 at MP 13,"Crash
 Other SR 14 at MP 13 (11 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 8:30 PM","3/30/24, 7:31 PM","3/30/24, 8:30 PM","3/30/24, 7:31 PM",,37.592023,-112.899614
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
