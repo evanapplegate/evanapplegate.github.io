@@ -16350,7 +16350,6 @@ Est. Clearance Time: 8:30 PM","3/30/24, 7:31 PM","3/30/24, 8:30 PM","3/30/24, 7:
 UT-Incident--177476,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 20th St,"Crash
 SB Harrison Blvd at 20th St Weber Co.
 Est. Clearance Time: 3/31/2024 12:15 AM","3/30/24, 11:02 PM","3/31/24, 12:15 AM","3/30/24, 11:02 PM",,41.23083,-111.947922
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177475,Incidents,1900 W,Weber County,1900 W at 4400 S,"Crash
 SB 1900 W at 4400 S Weber Co.
 2 Right Lanes Closed
@@ -16363,10 +16362,19 @@ UT-Incident--177474,Incidents,I-70,Sevier County,I-70 at MP 89,"Crash
 WB I-70 at MP 89 (Fremont Jct) Sevier Co.
 Est. Clearance Time: 11:15 PM","3/30/24, 10:09 PM","3/30/24, 11:15 PM","3/30/24, 10:09 PM",,38.756002,-111.384572
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177480,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
+SB I-15 at MP 274 (Lindon) Utah Co.
+Left Shoulder
+Est. Clearance Time: 1:54 AM","3/31/24, 12:54 AM","3/31/24, 1:54 AM","3/31/24, 12:54 AM",,40.33804,-111.750381
 UT-Incident--177477,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at WB I-80 Exit (MP 22) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3/31/2024 12:46 AM","3/30/24, 11:47 PM","3/31/24, 12:46 AM","3/30/24, 11:47 PM",,40.760605,-111.951068
+UT-Incident--177479,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:53 AM","3/31/24, 12:54 AM","3/31/24, 1:53 AM","3/31/24, 12:55 AM",,40.72606,-111.962907
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
