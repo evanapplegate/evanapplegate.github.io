@@ -16383,7 +16383,6 @@ Est. Clearance Time: 4:51 AM","3/31/24, 3:52 AM","3/31/24, 4:51 AM","3/31/24, 3:
 UT-Incident--177482,Incidents,I-15 NB Fwy,Salt Lake County,I-15 NB Fwy at I-80 WB Fwy,"Crash
 NB I-15 to WB I-80 Off Ramp, Salt Lake Co.
 Est. Clearance Time: 4:05 AM","3/31/24, 3:07 AM","3/31/24, 4:05 AM","3/31/24, 3:07 AM",,40.77154,-111.910458
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177486,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Stalled Vehicle
 EB I-215 S at 2300 E Off Ramp (MP 7) Salt Lake Co.
 Right Lane Closed
@@ -16393,14 +16392,14 @@ UT-Incident--177487,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 NB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lanes Closed
 Est. Clearance Time: 8:30 AM","3/31/24, 7:26 AM","3/31/24, 8:30 AM","3/31/24, 7:26 AM",,40.914229,-111.891449
-UT-Incident--177484,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
-NB I-215 W at MP 18 (2900 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 6:14 AM","3/31/24, 5:15 AM","3/31/24, 6:14 AM","3/31/24, 5:15 AM",,40.709631,-111.952904
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177484,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"NB I-215 W Closed
+ at MP 18 (2900 S) Salt Lake Co.
+Use Alt Route","3/31/24, 5:15 AM","3/31/24, 10:00 AM","3/31/24, 8:02 AM",,40.709631,-111.952904
 UT-Incident--177485,Incidents,I-80 EB X117 TO I-215W COL RAMP,Salt Lake County,I-80 EB X117 TO I-215W COL RAMP at I-215W,"Crash
 EB I-80 To I-215W COL RAMP (Salt Lake County)
 Right Shoulder
-Est. Clearance Time: 8:19 AM","3/31/24, 7:20 AM","3/31/24, 8:19 AM","3/31/24, 7:20 AM",,40.762251,-111.953506
+Est. Clearance Time: 8:19 AM","3/31/24, 7:20 AM","3/31/24, 9:04 AM","3/31/24, 8:03 AM",,40.762251,-111.953506
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
