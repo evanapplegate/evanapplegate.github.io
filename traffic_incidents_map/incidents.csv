@@ -16449,7 +16449,6 @@ UT-Incident--177500,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
 NB I-15 at MP 337 (Sunset) Davis Co.
 Right Shoulder
 Est. Clearance Time: 2:42 PM","3/31/24, 1:43 PM","3/31/24, 2:42 PM","3/31/24, 1:43 PM",,41.140572,-112.025572
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177502,Incidents,Gentile St,Davis County,Gentile St at Bluff Rd,"Crash
 NB SR-177 at MP 9 (Davis County)
 Est. Clearance Time: 3:45 PM","3/31/24, 2:46 PM","3/31/24, 3:45 PM","3/31/24, 2:54 PM",,41.060215,-112.040936
@@ -16458,6 +16457,7 @@ UT-Incident--177503,Incidents,I-215 E,Salt Lake County,I-215 E at MP 0,"Stalled 
 NB I-215 E at MP 0 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:40 PM","3/31/24, 3:41 PM","3/31/24, 4:40 PM","3/31/24, 3:41 PM",,40.713048,-111.819515
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
