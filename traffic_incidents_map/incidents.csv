@@ -16361,7 +16361,6 @@ Est. Clearance Time: 10:35 PM","3/30/24, 9:25 PM","3/30/24, 10:35 PM","3/30/24, 
 UT-Incident--177474,Incidents,I-70,Sevier County,I-70 at MP 89,"Crash
 WB I-70 at MP 89 (Fremont Jct) Sevier Co.
 Est. Clearance Time: 11:15 PM","3/30/24, 10:09 PM","3/30/24, 11:15 PM","3/30/24, 10:09 PM",,38.756002,-111.384572
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177480,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Left Shoulder
@@ -16371,6 +16370,11 @@ SB I-215 W at WB I-80 Exit (MP 22) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3/31/2024 12:46 AM","3/30/24, 11:47 PM","3/31/24, 12:46 AM","3/30/24, 11:47 PM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177481,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Vehicle on fire
+SB I-15 at 7200 S On Ramp (MP 297) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:27 AM","3/31/24, 1:28 AM","3/31/24, 2:27 AM","3/31/24, 1:29 AM",,,
 UT-Incident--177479,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Lane Closed
