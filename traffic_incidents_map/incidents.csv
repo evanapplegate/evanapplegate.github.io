@@ -16472,12 +16472,16 @@ UT-Incident--177508,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:47 PM","3/31/24, 5:48 PM","3/31/24, 6:47 PM","3/31/24, 5:57 PM",,40.724933,-112.039659
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177511,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 SB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:33 PM","3/31/24, 7:36 PM","3/31/24, 8:33 PM","3/31/24, 7:36 PM",,40.817974,-111.949525
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177513,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+Ramp I-15 at MP 306 (1300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:26 PM","3/31/24, 8:28 PM","3/31/24, 9:26 PM","3/31/24, 8:31 PM",,40.736823,-111.90475
 UT-Incident--177504,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at Daybreak Pkwy,"Crash
 NB Mountain View Corridor Hwy at Daybreak Pkwy Salt Lake Co.
 Right Lane Closed
