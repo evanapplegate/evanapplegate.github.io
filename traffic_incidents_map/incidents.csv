@@ -16515,7 +16515,6 @@ UT-Incident--177522,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 7:35 AM","4/1/24, 4:20 AM","4/1/24, 7:35 AM","4/1/24, 7:18 AM",,40.751955,-111.569589
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177524,Incidents,Hwy 9,Washington County,Hwy 9 at 1100 W,"Crash
 WB Hwy 9 at 1150 W (Hurricane) Washington Co.
 WB Closed, Use Alt Route
@@ -16530,6 +16529,7 @@ UT-Incident--177527,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
 SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","4/1/24, 7:44 AM","4/1/24, 8:45 AM","4/1/24, 7:44 AM",,38.48853,-112.618208
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177521,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
