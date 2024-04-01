@@ -16564,8 +16564,12 @@ UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/29/24, 10:02 AM","4/2/24, 11:01 AM","3/31/24, 10:45 PM",,40.997685,-109.432538
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177534,Incidents,I-15,Washington County,I-15 at MP 14,"Crash
 SB I-15 at MP 14 (1 mi NE of Washington) Washington Co.
 Est. Clearance Time: 4:30 PM","4/1/24, 2:22 PM","4/1/24, 4:30 PM","4/1/24, 3:12 PM",,37.153827,-113.480059
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177535,Incidents,State St,Salt Lake County,State St at 7000 S,"Crash
+Both Directions State St at 7000 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:45 PM","4/1/24, 3:46 PM","4/1/24, 4:45 PM","4/1/24, 3:46 PM",View on map,40.6253,-111.890258
