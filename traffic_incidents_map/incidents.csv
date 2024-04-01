@@ -16456,7 +16456,6 @@ UT-Incident--177503,Incidents,I-215 E,Salt Lake County,I-215 E at MP 0,"Stalled 
 NB I-215 E at MP 0 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:40 PM","3/31/24, 3:41 PM","3/31/24, 4:40 PM","3/31/24, 3:41 PM",,40.713048,-111.819515
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177507,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Left Lane Closed
@@ -16470,14 +16469,19 @@ UT-Incident--177506,Incidents,I-80,Tooele County,I-80 at MP 86,"Crash
 EB I-80 at MP 86 (Grantsville) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 6:11 PM","3/31/24, 5:12 PM","3/31/24, 6:11 PM","3/31/24, 5:12 PM",,40.698655,-112.481715
-UT-Incident--177504,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at Daybreak Pkwy,"Crash
-NB Mountain View Corridor Hwy at Daybreak Pkwy Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 5:04 PM","3/31/24, 4:06 PM","3/31/24, 5:04 PM","3/31/24, 4:09 PM",,40.539035,-112.018349
 UT-Incident--177508,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:47 PM","3/31/24, 5:48 PM","3/31/24, 6:47 PM","3/31/24, 5:57 PM",,40.724933,-112.039659
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177511,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
+SB I-215 W at MP 26 (2800 N) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:33 PM","3/31/24, 7:36 PM","3/31/24, 8:33 PM","3/31/24, 7:36 PM",,40.817974,-111.949525
+UT-Incident--177504,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at Daybreak Pkwy,"Crash
+NB Mountain View Corridor Hwy at Daybreak Pkwy Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:04 PM","3/31/24, 4:06 PM","3/31/24, 9:04 PM","3/31/24, 7:31 PM",,40.539035,-112.018349
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
@@ -16485,4 +16489,4 @@ Use Alt Route","3/29/24, 10:02 AM","3/31/24, 11:01 AM","3/29/24, 10:02 AM",,40.9
 UT-Incident--177505,Incidents,US 6,Utah County,US 6 at MP 182,"Crash
 WB US 6 at MP 182 (2 Mi W of Diamand Fork Rd) Utah Co.
 Right Lane Closed
-Est. Clearance Time: 7:49 PM","3/31/24, 4:51 PM","3/31/24, 7:49 PM","3/31/24, 5:59 PM",,40.040823,-111.541266
+Est. Clearance Time: 8:49 PM","3/31/24, 4:51 PM","3/31/24, 8:49 PM","3/31/24, 7:33 PM",,40.040823,-111.541266
