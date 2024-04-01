@@ -16512,6 +16512,10 @@ UT-Incident--177520,Incidents,US 89,Sanpete County,US 89 at MP 291,"Crash
 US 89 at MP 291 (7 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 2:38 AM","4/1/24, 1:40 AM","4/1/24, 2:38 AM","4/1/24, 1:40 AM",,39.728254,-111.474741
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177522,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
+EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 7:35 AM","4/1/24, 4:20 AM","4/1/24, 7:35 AM","4/1/24, 7:18 AM",,40.751955,-111.569589
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177524,Incidents,Hwy 9,Washington County,Hwy 9 at 1100 W,"Crash
 WB Hwy 9 at 1150 W (Hurricane) Washington Co.
@@ -16527,10 +16531,14 @@ Est. Clearance Time: 7:40 AM","4/1/24, 6:34 AM","4/1/24, 7:40 AM","4/1/24, 6:34 
 UT-Incident--177525,Incidents,I-15,Juab County,I-15 at MP 238,"Crash
 NB I-15 at MP 238 (5 mi N of Mona) Juab Co.
 Est. Clearance Time: 8:30 AM","4/1/24, 7:27 AM","4/1/24, 8:30 AM","4/1/24, 7:27 AM",,39.890677,-111.828172
-UT-Incident--177522,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
-EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
+UT-Incident--177527,Incidents,I-15,Beaver County,I-15 at MP 126,"Crash
+SB I-15 at MP 126 (6 mi S of cove fort) Beaver Co.
 Right Shoulder
-Est. Clearance Time: 7:35 AM","4/1/24, 4:20 AM","4/1/24, 7:35 AM","4/1/24, 7:18 AM",,40.751955,-111.569589
+Est. Clearance Time: 8:45 AM","4/1/24, 7:44 AM","4/1/24, 8:45 AM","4/1/24, 7:44 AM",,38.48853,-112.618208
+UT-Incident--177526,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+EB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:40 AM","4/1/24, 7:41 AM","4/1/24, 8:40 AM","4/1/24, 7:41 AM",,40.63036,-111.877391
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
