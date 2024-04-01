@@ -16501,7 +16501,6 @@ Est. Clearance Time: 10:45 PM","3/31/24, 9:21 PM","3/31/24, 10:45 PM","3/31/24, 
 UT-Incident--177518,Incidents,SR 24,Sevier County,SR 24 at MP 28,"Crash
 SR 24 at MP 28 (18 Mi S of Sigurd) Sevier Co.
 Est. Clearance Time: 1:04 AM","4/1/24, 12:05 AM","4/1/24, 1:04 AM","4/1/24, 12:05 AM",,38.627395,-111.833757
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177519,Incidents,I-15,Washington County,I-15 at MP 32,"Crash
 SB I-15 at MP 32 (Pintura) Washington Co.
 Use Exit 31 to Bypass Crash
@@ -16512,6 +16511,7 @@ Use Alt Route","3/31/24, 11:55 PM","4/1/24, 12:52 AM","3/31/24, 11:55 PM",,40.68
 UT-Incident--177520,Incidents,US 89,Sanpete County,US 89 at MP 291,"Crash
 US 89 at MP 291 (7 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 2:38 AM","4/1/24, 1:40 AM","4/1/24, 2:38 AM","4/1/24, 1:40 AM",,39.728254,-111.474741
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weather 
 Both Directions US 191 Closed
