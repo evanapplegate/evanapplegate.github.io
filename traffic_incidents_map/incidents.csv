@@ -16476,7 +16476,6 @@ UT-Incident--177511,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 SB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:33 PM","3/31/24, 7:36 PM","3/31/24, 8:33 PM","3/31/24, 7:36 PM",,40.817974,-111.949525
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177515,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
 NB I-15 at MP 262 (Provo) Utah Co.
 2 Right Lanes Closed
@@ -16494,6 +16493,7 @@ UT-Incident--177514,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:48 PM","3/31/24, 8:48 PM","3/31/24, 9:48 PM","3/31/24, 8:48 PM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177516,Incidents,I-15,Beaver County,I-15 at MP 116,"Crash
 NB I-15 at MP 116 (5 mi N of Beaver) Beaver Co.
 NB I-15 Closed at MP 111/Expect delays
