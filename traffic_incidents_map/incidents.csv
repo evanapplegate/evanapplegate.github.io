@@ -16549,7 +16549,6 @@ UT-Incident--177521,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","4/1/24, 3:02 AM","4/1/24, 11:45 AM","4/1/24, 11:13 AM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177533,Incidents,5400 S,Salt Lake County,5400 S at 3200 W,"Crash
 EB 5400 S at 3200 W Salt Lake Co.
 2 Right Lanes Closed
@@ -16565,4 +16564,5 @@ UT-Incident--177430,Incidents,US 191,Daggett County,US 191 at MP 404,"Road Weath
 Both Directions US 191 Closed
  at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","3/29/24, 10:02 AM","4/2/24, 11:01 AM","3/31/24, 10:45 PM",,40.997685,-109.432538
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
