@@ -16572,7 +16572,6 @@ Both Directions State St at 7000 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:45 PM","4/1/24, 3:46 PM","4/1/24, 4:45 PM","4/1/24, 3:46 PM",View on map,40.6253,-111.890258
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177536,Incidents,3500 S,Salt Lake County,3500 S 2181,"Crash
 EB 3500 S at 2700 W Salt Lake Co.
 Right Lane Closed
@@ -16585,3 +16584,8 @@ UT-Incident--177538,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:29 PM","4/1/24, 5:30 PM","4/1/24, 6:29 PM","4/1/24, 5:30 PM",View on map,40.607173,-111.905403
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177540,Incidents,7800 S,Salt Lake County,7800 S at Redwood Rd,"Crash
+EB 7800 S at Redwood Rd Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:22 PM","4/1/24, 6:22 PM","4/1/24, 7:22 PM","4/1/24, 6:22 PM",,40.609514,-111.938743
