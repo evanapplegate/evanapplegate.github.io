@@ -16599,7 +16599,6 @@ UT-Incident--177545,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 8,"Cras
 NB Legacy Pkwy at MP 8 (Davis County)
 Left Shoulder
 Est. Clearance Time: 8:10 AM","4/2/24, 7:07 AM","4/2/24, 8:10 AM","4/2/24, 7:18 AM",View on map,40.929495,-111.896156
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177544,Incidents,I-215e NB X2 To I-80e EB Ramp,Salt Lake County,I-215e NB X2 To I-80e EB Ramp at I-80e EB,"Crash
 I-215 E To I-80 EB Ramp (Salt Lake County)
 Both Directions Blocked
@@ -16608,11 +16607,16 @@ UT-Incident--177547,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 8:40 AM","4/2/24, 7:39 AM","4/2/24, 8:40 AM","4/2/24, 7:39 AM",View on map,40.713146,-111.819005
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177548,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+EB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:10 AM","4/2/24, 8:07 AM","4/2/24, 9:10 AM","4/2/24, 8:07 AM",View on map,40.718459,-111.873941
 UT-Incident--177546,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Lane Blocked
-Est. Clearance Time: 8:45 AM","4/2/24, 7:37 AM","4/2/24, 8:45 AM","4/2/24, 7:37 AM",View on map,40.718237,-112.076122
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+Est. Clearance Time: 8:45 AM","4/2/24, 7:37 AM","4/2/24, 8:45 AM","4/2/24, 8:12 AM",View on map,40.718237,-112.076122
 UT-Incident--177543,Incidents,State St,Salt Lake County,State St at 900 S,"Police Incident
 State St Closed at 900 S Salt Lake Co.
 Use Alt Route","4/2/24, 2:45 AM","4/2/24, 10:35 AM","4/2/24, 7:20 AM",View on map,40.749779,-111.888218
