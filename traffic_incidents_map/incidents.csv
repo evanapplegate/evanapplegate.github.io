@@ -16643,7 +16643,6 @@ Est. Clearance Time: 4:30 PM","4/2/24, 3:25 PM","4/2/24, 4:30 PM","4/2/24, 3:25 
 UT-Incident--177557,Incidents,SR 126,Davis County,SR 126 at MP 0,"Crash
 NB SR 126 at MP 0 (I-15 JCT) Davis Co.
 Est. Clearance Time: 4:30 PM","4/2/24, 3:30 PM","4/2/24, 4:30 PM","4/2/24, 3:30 PM",View on map,41.056189,-111.957695
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177555,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Cleared at 4:21 PM
@@ -16653,6 +16652,7 @@ SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","4/2/24, 4:54 PM","4/2/24, 6:00 PM","4/2/24, 4:59 PM",View on map,40.355866,-111.778344
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177558,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Shoulder
@@ -16661,3 +16661,7 @@ UT-Incident--177559,Incidents,Main St,Tooele County,Main St at 1000 N,"Crash
 NB Main St at 1000 N Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 5:45 PM","4/2/24, 4:43 PM","4/2/24, 5:45 PM","4/2/24, 4:43 PM",View on map,40.552085,-112.297932
+UT-Incident--177561,Incidents,Main St,Iron County,Main St at Coal Creek Rd,"Crash
+SB Main St at Coal Creek Rd Iron Co.
+Right Lane Closed
+Est. Clearance Time: 6:35 PM","4/2/24, 5:23 PM","4/2/24, 6:35 PM","4/2/24, 5:23 PM",View on map,37.687897,-113.061934
