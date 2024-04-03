@@ -16677,7 +16677,6 @@ UT-Incident--177565,Incidents,SR 79,Weber County,SR 79 at MP 3,"Crash
 EB SR 79 at MP 3 (Pacific Avenue) Weber Co.
 Est. Clearance Time: 9:00 PM","4/2/24, 7:49 PM","4/2/24, 9:00 PM","4/2/24, 7:49 PM",View on map,41.206898,-111.98463
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177567,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Left Shoulder
@@ -16685,3 +16684,4 @@ Est. Clearance Time: 10:00 PM","4/2/24, 8:59 PM","4/2/24, 10:00 PM","4/2/24, 9:0
 UT-Incident--177566,Incidents,SR 248,Summit County,SR 248 at MP 11,"Crash
 EB SR 248 at MP 11 (3 MI from Overlook) Summit Co.
 Est. Clearance Time: 10:00 PM","4/2/24, 8:52 PM","4/2/24, 10:00 PM","4/2/24, 9:08 PM",View on map,40.634239,-111.345914
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
