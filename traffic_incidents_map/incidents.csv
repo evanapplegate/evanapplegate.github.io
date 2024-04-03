@@ -16701,7 +16701,6 @@ UT-Incident--177572,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Vehicle on
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:15 AM","4/3/24, 7:17 AM","4/3/24, 8:15 AM","4/3/24, 7:17 AM",View on map,40.718237,-112.076122
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177573,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 NB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Right Shoulder
@@ -16711,3 +16710,8 @@ EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 9:20 AM","4/3/24, 8:20 AM","4/3/24, 9:20 AM","4/3/24, 8:22 AM",View on map,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177575,Incidents,I-15 NB X305c On 1300 S Ramp,Salt Lake County,I-15 NB X305c On 1300 S Ramp at 1300 S,"Crash
+NB I-15 1300 S on Ramp (MP 305) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","4/3/24, 8:34 AM","4/3/24, 9:30 AM","4/3/24, 8:34 AM",View on map,40.741603,-111.903638
