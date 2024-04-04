@@ -16827,7 +16827,6 @@ UT-Incident--177612,Incidents,MAIN ST,Box Elder County,MAIN ST at US 91,"Constru
 SB US 89 at Main St (Brigham City) Box Elder Co.
 SB is Closed, Use Alt Route
 Est. Clearance Time: 3:10 PM","4/4/24, 9:12 AM","4/4/24, 3:10 PM","4/4/24, 9:14 AM",,41.486843,-112.016203
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177616,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 On Ramp (11400 S) Salt Lake Co.
 Right Shoulder
@@ -16837,6 +16836,7 @@ UT-Incident--177617,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:50 PM","4/4/24, 1:50 PM","4/4/24, 2:50 PM","4/4/24, 1:58 PM",View on map,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177618,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Shoulder
