@@ -16741,7 +16741,6 @@ UT-Incident--177585,Incidents,I-15,Davis County,I-15 at MP 314,"Debris
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:30 PM","4/3/24, 4:31 PM","4/3/24, 5:30 PM","4/3/24, 4:37 PM",View on map,40.846156,-111.91486
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177587,Incidents,US 89,Box Elder County,US 89 at MP 433,"Crash
 SB US 89 at MP 433 (US-89/91 Jct) Box Elder Co.
 Est. Clearance Time: 6:00 PM","4/3/24, 5:03 PM","4/3/24, 6:00 PM","4/3/24, 5:03 PM",View on map,41.479581,-112.021299
@@ -16758,3 +16757,14 @@ UT-Incident--177588,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 WB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","4/3/24, 5:32 PM","4/3/24, 6:45 PM","4/3/24, 5:32 PM",View on map,40.725537,-111.91064
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177595,Incidents,Hwy 130,Iron County,Hwy 130 at 3000 N,"Crash
+NB Hwy 130 at 3000 N Iron Co.
+Est. Clearance Time: 7:15 PM","4/3/24, 6:08 PM","4/3/24, 7:15 PM","4/3/24, 6:08 PM",View on map,0.0,0.0
+UT-Incident--177592,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:00 PM","4/3/24, 5:49 PM","4/3/24, 7:00 PM","4/3/24, 5:49 PM",View on map,40.420056,-111.878496
+UT-Incident--177591,Incidents,SR 167,Morgan County,SR 167 at MP 5,"Vehicle on fire
+NB SR 167 at MP 5 (5 miles N of I-84 JCT) Morgan Co.
+Est. Clearance Time: 6:45 PM","4/3/24, 5:47 PM","4/3/24, 6:45 PM","4/3/24, 5:47 PM",View on map,41.182081,-111.807508
