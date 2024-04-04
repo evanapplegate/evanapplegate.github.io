@@ -16756,7 +16756,6 @@ UT-Incident--177588,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 WB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","4/3/24, 5:32 PM","4/3/24, 6:45 PM","4/3/24, 5:32 PM",View on map,40.725537,-111.91064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177595,Incidents,Hwy 130,Iron County,Hwy 130 at 3000 N,"Crash
 NB Hwy 130 at 3000 N Iron Co.
 Est. Clearance Time: 7:15 PM","4/3/24, 6:08 PM","4/3/24, 7:15 PM","4/3/24, 6:08 PM",View on map,0.0,0.0
@@ -16772,3 +16771,11 @@ UT-Incident--177598,Incidents,Main St,Davis County,Main St at 800 W,"Crash
 SB Main St at 800 W Davis Co.
 Cleared at 7:28 PM
 Est. Clearance Time: 8:00 PM","4/3/24, 6:59 PM","4/3/24, 8:00 PM","4/3/24, 7:28 PM",View on map,41.124394,-112.026019
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177601,Incidents,DECKER LAKE DR,Salt Lake County,DECKER LAKE DR at 2200 W/3500 S,"Crash
+EB 3500 S at 2200 W Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:45 PM","4/3/24, 7:51 PM","4/3/24, 8:45 PM","4/3/24, 7:53 PM",,40.696644,-111.947223
+UT-Incident--177600,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
+NB I-15 at MP 258 (Spanish Fork) Utah Co.
+Est. Clearance Time: 8:45 PM","4/3/24, 7:38 PM","4/3/24, 8:45 PM","4/3/24, 7:38 PM",,40.132763,-111.646987
