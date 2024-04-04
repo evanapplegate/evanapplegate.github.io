@@ -16744,7 +16744,6 @@ Est. Clearance Time: 5:30 PM","4/3/24, 4:31 PM","4/3/24, 5:30 PM","4/3/24, 4:37 
 UT-Incident--177587,Incidents,US 89,Box Elder County,US 89 at MP 433,"Crash
 SB US 89 at MP 433 (US-89/91 Jct) Box Elder Co.
 Est. Clearance Time: 6:00 PM","4/3/24, 5:03 PM","4/3/24, 6:00 PM","4/3/24, 5:03 PM",View on map,41.479581,-112.021299
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177590,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Center Lanes Closed
@@ -16768,3 +16767,8 @@ Est. Clearance Time: 7:00 PM","4/3/24, 5:49 PM","4/3/24, 7:00 PM","4/3/24, 5:49 
 UT-Incident--177591,Incidents,SR 167,Morgan County,SR 167 at MP 5,"Vehicle on fire
 NB SR 167 at MP 5 (5 miles N of I-84 JCT) Morgan Co.
 Est. Clearance Time: 6:45 PM","4/3/24, 5:47 PM","4/3/24, 6:45 PM","4/3/24, 5:47 PM",View on map,41.182081,-111.807508
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177598,Incidents,Main St,Davis County,Main St at 800 W,"Crash
+SB Main St at 800 W Davis Co.
+Cleared at 7:28 PM
+Est. Clearance Time: 8:00 PM","4/3/24, 6:59 PM","4/3/24, 8:00 PM","4/3/24, 7:28 PM",View on map,41.124394,-112.026019
