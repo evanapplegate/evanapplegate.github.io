@@ -16847,7 +16847,6 @@ UT-Incident--177620,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
 WB US 91 at MP 1 (775 W Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","4/4/24, 3:43 PM","4/4/24, 4:45 PM","4/4/24, 3:43 PM",View on map,41.486567,-112.034906
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177624,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
 SB I-15 Offramp at MP 301 (4500 S) Salt Lake Co.
 Est. Clearance Time: 5:15 PM","4/4/24, 4:35 PM","4/4/24, 5:15 PM","4/4/24, 4:35 PM",View on map,40.664677,-111.90152
@@ -16859,10 +16858,18 @@ UT-Incident--177621,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 WB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","4/4/24, 4:01 PM","4/4/24, 5:00 PM","4/4/24, 4:01 PM",View on map,40.634373,-111.895376
-UT-Incident--177625,Incidents,SR 126,Box Elder County,SR 126 at MP 21,"Crash
-Both Directions SR 126 at MP 21 (I-15) Box Elder Co.
-Est. Clearance Time: 6:00 PM","4/4/24, 4:43 PM","4/4/24, 6:00 PM","4/4/24, 4:43 PM",View on map,41.338689,-112.037574
 UT-Incident--177626,Incidents,State St,Salt Lake County,State St at 9120 S,"Fire affecting roadway
 NB State St at 9120 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","4/4/24, 4:58 PM","4/4/24, 6:45 PM","4/4/24, 4:58 PM",View on map,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177627,Incidents,12th St,Weber County,12th St at Washington Blvd,"Crash
+Both Directions 12th St at Washington Blvd Weber Co.
+Est. Clearance Time: 6:15 PM","4/4/24, 5:08 PM","4/4/24, 6:15 PM","4/4/24, 5:08 PM",,41.244299,-111.971008
+UT-Incident--177628,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:15 PM","4/4/24, 5:10 PM","4/4/24, 6:15 PM","4/4/24, 5:10 PM",,40.492398,-111.891485
+UT-Incident--177625,Incidents,SR 126,Box Elder County,SR 126 at MP 21,"Crash
+Both Directions SR 126 at MP 21 (I-15) Box Elder Co.
+Est. Clearance Time: 6:00 PM","4/4/24, 4:43 PM","4/4/24, 6:00 PM","4/4/24, 4:43 PM",,41.338689,-112.037574
