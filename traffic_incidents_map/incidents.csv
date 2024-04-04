@@ -16819,21 +16819,25 @@ UT-Incident--177615,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 2:00 PM","4/4/24, 12:44 PM","4/4/24, 2:00 PM","4/4/24, 12:44 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177614,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:10 PM","4/4/24, 12:11 PM","4/4/24, 1:10 PM","4/4/24, 12:11 PM",,39.952078,-111.271615
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177616,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
-NB I-15 at MP 292 On Ramp (11400 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 2:35 PM","4/4/24, 1:26 PM","4/4/24, 2:35 PM","4/4/24, 1:26 PM",,40.53585,-111.892927
-UT-Incident--177617,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 2:50 PM","4/4/24, 1:50 PM","4/4/24, 2:50 PM","4/4/24, 1:58 PM",,40.722344,-111.904691
 UT-Incident--177612,Incidents,MAIN ST,Box Elder County,MAIN ST at US 91,"Construction
 SB US 89 at Main St (Brigham City) Box Elder Co.
 SB is Closed, Use Alt Route
 Est. Clearance Time: 3:10 PM","4/4/24, 9:12 AM","4/4/24, 3:10 PM","4/4/24, 9:14 AM",,41.486843,-112.016203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177616,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292 On Ramp (11400 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:35 PM","4/4/24, 1:26 PM","4/4/24, 2:35 PM","4/4/24, 1:26 PM",View on map,40.53585,-111.892927
+UT-Incident--177617,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:50 PM","4/4/24, 1:50 PM","4/4/24, 2:50 PM","4/4/24, 1:58 PM",View on map,40.722344,-111.904691
+UT-Incident--177618,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
+NB I-15 at MP 341 (31st St, Ogden) Weber Co.
+Right Shoulder
+Est. Clearance Time: 3:15 PM","4/4/24, 2:14 PM","4/4/24, 3:15 PM","4/4/24, 2:14 PM",View on map,41.194004,-112.002614
