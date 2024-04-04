@@ -16839,7 +16839,6 @@ UT-Incident--177618,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 3:15 PM","4/4/24, 2:14 PM","4/4/24, 3:15 PM","4/4/24, 2:14 PM",View on map,41.194004,-112.002614
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177619,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
 Right Shoulder
@@ -16849,10 +16848,17 @@ WB US 91 at MP 1 (775 W Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","4/4/24, 3:43 PM","4/4/24, 4:45 PM","4/4/24, 3:43 PM",View on map,41.486567,-112.034906
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177624,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
+SB I-15 Offramp at MP 301 (4500 S) Salt Lake Co.
+Est. Clearance Time: 5:15 PM","4/4/24, 4:35 PM","4/4/24, 5:15 PM","4/4/24, 4:35 PM",View on map,40.664677,-111.90152
 UT-Incident--177621,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 WB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","4/4/24, 4:01 PM","4/4/24, 5:00 PM","4/4/24, 4:01 PM",View on map,40.634373,-111.895376
+UT-Incident--177625,Incidents,SR 126,Box Elder County,SR 126 at MP 21,"Crash
+Both Directions SR 126 at MP 21 (I-15) Box Elder Co.
+Est. Clearance Time: 6:00 PM","4/4/24, 4:43 PM","4/4/24, 6:00 PM","4/4/24, 4:43 PM",View on map,41.338689,-112.037574
 UT-Incident--177622,Incidents,US 6,Utah County,US 6 at MP 186,"Crash
 US 6 at MP 186 (Billys Mtn View Area) Utah Co.
 Est. Clearance Time: 5:15 PM","4/4/24, 4:09 PM","4/4/24, 5:15 PM","4/4/24, 4:09 PM",View on map,40.00534,-111.491875
