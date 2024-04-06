@@ -17021,15 +17021,15 @@ UT-Incident--177682,Incidents,SR 190,Salt Lake County,SR 190 at MP 6,"Crash
 EB SR 190 at MP 6 (S-Curves) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:06 AM","4/6/24, 8:07 AM","4/6/24, 9:06 AM","4/6/24, 8:07 AM",View on map,40.634786,-111.726477
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177678,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 Ramp NB I-15 at MP 334 (Center St, on ramp) Davis Co.
 Est. Clearance Time: 10:33 AM","4/6/24, 7:42 AM","4/6/24, 10:33 AM","4/6/24, 8:43 AM",View on map,41.102376,-112.003101
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177677,Incidents,I-15,Beaver County,I-15 at MP 120,"Crash
 Both Directions I-15 at MP 120 (9 mi N of Beaver) Beaver Co.
 Left Shoulder
-Est. Clearance Time: 10:27 AM","4/6/24, 7:28 AM","4/6/24, 10:27 AM","4/6/24, 9:14 AM",View on map,38.411117,-112.653001
+Est. Clearance Time: 10:27 AM","4/6/24, 7:28 AM","4/6/24, 10:27 AM","4/6/24, 9:14 AM",View on map,,
 UT-Incident--177681,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 Ramp WB I-80 at MP 137 (Lambs Canyon On-ramp) Salt Lake Co.
 Right Shoulder
@@ -17056,7 +17056,7 @@ Est. Clearance Time: 10:14 AM","4/6/24, 9:15 AM","4/6/24, 10:14 AM","4/6/24, 9:1
 UT-Incident--177690,Incidents,I-80,Salt Lake County,I-80 at MP 132,"Crash
 EB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 10:26 AM","4/6/24, 9:27 AM","4/6/24, 10:26 AM","4/6/24, 9:27 AM",View on map,40.741134,-111.741641
+Est. Clearance Time: 10:26 AM","4/6/24, 9:27 AM","4/6/24, 10:26 AM","4/6/24, 9:27 AM",View on map,,
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
 Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",View on map,40.619107,-111.786281
