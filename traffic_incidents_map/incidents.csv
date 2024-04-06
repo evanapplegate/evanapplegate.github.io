@@ -16936,7 +16936,6 @@ UT-Incident--177650,Incidents,I-15,Weber County,I-15 at MP 342,"Crash
 SB I-15 at MP 342 (29th St) Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:45 PM","4/5/24, 4:13 PM","4/5/24, 5:45 PM","4/5/24, 4:17 PM",View on map,41.206002,-111.994588
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177651,Incidents,US 91,Box Elder County,US 91 at MP 3,"Crash
 SB US 91 at MP 3 (2.5 MI from Mantua) Box Elder Co.
 Est. Clearance Time: 6:15 PM","4/5/24, 5:08 PM","4/5/24, 6:15 PM","4/5/24, 5:08 PM",View on map,41.491609,-111.998676
@@ -16952,3 +16951,11 @@ UT-Incident--177655,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
 WB SR 201 at MP 6 (9180 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","4/5/24, 6:27 PM","4/5/24, 7:35 PM","4/5/24, 6:27 PM",View on map,40.71806,-112.114369
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177657,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Crash
+WB SR 201 at MP 6 (9180 W) Salt Lake Co.
+ Right Lane Closed
+Est. Clearance Time: 8:15 PM","4/5/24, 7:00 PM","4/5/24, 8:15 PM","4/5/24, 7:02 PM",View on map,40.71806,-112.114369
+UT-Incident--177658,Incidents,SR 201,Salt Lake County,SR 201 at MP 7,"Crash
+EB SR 201 at MP 7 (8400 W) Salt Lake Co.
+Est. Clearance Time: 8:15 PM","4/5/24, 7:04 PM","4/5/24, 8:15 PM","4/5/24, 7:04 PM",View on map,40.717582,-112.095201
