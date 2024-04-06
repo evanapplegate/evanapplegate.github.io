@@ -16991,11 +16991,19 @@ NB I-15 at MP 124 (8 mi S of cove fort) Beaver Co.
 Right Lane Closed
 Est. Clearance Time: 7:23 AM","4/6/24, 6:23 AM","4/6/24, 7:23 AM","4/6/24, 6:23 AM",,38.460258,-112.620547
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177675,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 8:11 AM","4/6/24, 7:11 AM","4/6/24, 8:11 AM","4/6/24, 7:11 AM",,40.722344,-111.904691
+UT-Incident--177679,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:49 AM","4/6/24, 7:50 AM","4/6/24, 8:49 AM","4/6/24, 7:50 AM",,40.707874,-111.90397
+UT-Incident--177671,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
+EB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 6:57 AM","4/6/24, 5:58 AM","4/6/24, 6:57 AM","4/6/24, 5:58 AM",,40.588743,-111.436969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177677,Incidents,I-15,Beaver County,I-15 at MP 120,"Crash
 Both Directions I-15 at MP 120 (9 mi N of Beaver) Beaver Co.
 Left Shoulder
@@ -17003,10 +17011,10 @@ Est. Clearance Time: 8:27 AM","4/6/24, 7:28 AM","4/6/24, 8:27 AM","4/6/24, 7:28 
 UT-Incident--177678,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 Ramp NB I-15 at MP 334 (Center St, On ramp) Davis Co.
 Est. Clearance Time: 8:33 AM","4/6/24, 7:42 AM","4/6/24, 8:33 AM","4/6/24, 7:43 AM",,41.102376,-112.003101
-UT-Incident--177679,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
-NB I-15 at MP 304 (2700 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 8:49 AM","4/6/24, 7:50 AM","4/6/24, 8:49 AM","4/6/24, 7:50 AM",,40.707874,-111.90397
+UT-Incident--177683,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:07 AM","4/6/24, 8:09 AM","4/6/24, 9:07 AM","4/6/24, 8:18 AM",,40.736823,-111.90475
 UT-Incident--177672,Incidents,I-80,Summit County,I-80 at MP 143,"Crash
 WB I-80 at MP 143 (Powderwood / Park City) Summit Co.
 Right Shoulder
@@ -17022,9 +17030,17 @@ UT-Incident--177681,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 Ramp WB I-80 at MP 137 (Lambs Canyon On-ramp) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:58 AM","4/6/24, 8:00 AM","4/6/24, 8:58 AM","4/6/24, 8:00 AM",,40.74385,-111.657734
+UT-Incident--177684,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
+WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 9:10 AM","4/6/24, 8:11 AM","4/6/24, 9:10 AM","4/6/24, 8:11 AM",,40.740268,-111.674521
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
 Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",,40.619107,-111.786281
+UT-Incident--177682,Incidents,SR 190,Salt Lake County,SR 190 at MP 6,"Crash
+EB SR 190 at MP 6 (S-Curves) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:06 AM","4/6/24, 8:07 AM","4/6/24, 9:06 AM","4/6/24, 8:07 AM",,40.634786,-111.726477
 UT-Incident--177680,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 Ramp WB  SR 201 at MP 17 (900 w Exit) Salt Lake Co.
 Exit Ramp Closed
@@ -17035,7 +17051,3 @@ Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM"
 UT-Incident--177670,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 between MP 2-5 (Empire Pass) Summit Co.
 Traction Devices Required","4/6/24, 5:17 AM","4/6/24, 6:16 AM","4/6/24, 5:17 AM",,40.624634,-111.501637
-UT-Incident--177671,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
-EB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 6:57 AM","4/6/24, 5:58 AM","4/6/24, 6:57 AM","4/6/24, 5:58 AM",,40.588743,-111.436969
