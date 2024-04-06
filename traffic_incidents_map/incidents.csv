@@ -17003,10 +17003,14 @@ Est. Clearance Time: 8:27 AM","4/6/24, 7:28 AM","4/6/24, 8:27 AM","4/6/24, 7:28 
 UT-Incident--177678,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 Ramp NB I-15 at MP 334 (Center St, On ramp) Davis Co.
 Est. Clearance Time: 8:33 AM","4/6/24, 7:42 AM","4/6/24, 8:33 AM","4/6/24, 7:43 AM",,41.102376,-112.003101
+UT-Incident--177679,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:49 AM","4/6/24, 7:50 AM","4/6/24, 8:49 AM","4/6/24, 7:50 AM",,40.707874,-111.90397
 UT-Incident--177672,Incidents,I-80,Summit County,I-80 at MP 143,"Crash
 WB I-80 at MP 143 (Powderwood / Park City) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 6:58 AM","4/6/24, 5:58 AM","4/6/24, 6:58 AM","4/6/24, 7:32 AM",,40.740161,-111.558358
+Right Shoulder
+Est. Clearance Time: 6:58 AM","4/6/24, 5:58 AM","4/6/24, 6:58 AM","4/6/24, 7:53 AM",,40.740161,-111.558358
 UT-Incident--177674,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
 EB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
 Est. Clearance Time: 8:03 AM","4/6/24, 7:04 AM","4/6/24, 8:03 AM","4/6/24, 7:05 AM",,40.770424,-112.007791
@@ -17014,9 +17018,17 @@ UT-Incident--177676,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
 EB I-80 at MP 113 (5600 W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:20 AM","4/6/24, 7:20 AM","4/6/24, 8:20 AM","4/6/24, 7:20 AM",,40.771201,-112.028497
+UT-Incident--177681,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
+Ramp WB I-80 at MP 137 (Lambs Canyon On-ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:58 AM","4/6/24, 8:00 AM","4/6/24, 8:58 AM","4/6/24, 8:00 AM",,40.74385,-111.657734
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
 Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",,40.619107,-111.786281
+UT-Incident--177680,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
+Ramp WB  SR 201 at MP 17 (900 w Exit) Salt Lake Co.
+Exit Ramp Closed
+Est. Clearance Time: 8:50 AM","4/6/24, 7:51 AM","4/6/24, 8:50 AM","4/6/24, 7:51 AM",,40.725537,-111.91064
 UT-Incident--177669,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions Little Cottonwood Canyon (SR-210) Salt Lake Co.
 Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM",,40.572095,-111.773814
