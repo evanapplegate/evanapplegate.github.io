@@ -17186,11 +17186,6 @@ UT-Incident--177724,Incidents,2000 W,Davis County,2000 W at 1800 N,"Crash
 Both Directions 2000 W at 1800 N Davis Co.
 Est. Clearance Time: 11:45 AM","4/7/24, 10:38 AM","4/7/24, 11:45 AM","4/7/24, 10:38 AM",View on map,41.136245,-112.06447
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177730,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
-NB Bangerter Hwy at 3100 S Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 3:47 PM","4/7/24, 2:49 PM","4/7/24, 3:47 PM","4/7/24, 2:49 PM",,40.703886,-111.980001
 UT-Incident--177726,Incidents,I-15,Iron County,I-15 at MP 65,"Crash
 NB I-15 at MP 65 (1 mi N of Cedar City) Iron Co.
 Right Shoulder
@@ -17203,7 +17198,16 @@ UT-Incident--177728,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:54 PM","4/7/24, 1:55 PM","4/7/24, 2:54 PM","4/7/24, 1:55 PM",,40.659924,-111.952783
-UT-Incident--177727,Incidents,I-70,Sevier County,I-70 at MP 17,"Vehicle Fire
-EB I-70 Closed
- at MP 169 (Green River) Grand Co.
-Use Alt Route","4/7/24, 1:35 PM","4/7/24, 4:13 PM","4/7/24, 1:44 PM",,38.568952,-112.351883
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177730,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
+NB Bangerter Hwy at 3100 S Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 3:47 PM","4/7/24, 2:49 PM","4/7/24, 3:47 PM","4/7/24, 2:49 PM",,40.703886,-111.980001
+UT-Incident--177727,Incidents,I-70,Sevier County,I-70 at MP 17,"Crash
+EB I-70 at MP 17 (20 Mi W of Richfield) Sevier Co.
+Left Shoulder
+Est. Clearance Time: 4:45 PM","4/7/24, 1:35 PM","4/7/24, 4:45 PM","4/7/24, 3:46 PM",,38.568952,-112.351883
+UT-Incident--177731,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
+NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:46 PM","4/7/24, 3:47 PM","4/7/24, 4:46 PM","4/7/24, 3:47 PM",,40.638493,-112.046384
