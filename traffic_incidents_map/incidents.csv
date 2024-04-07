@@ -17148,11 +17148,14 @@ UT-Incident--177713,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 EB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 9:45 PM","4/6/24, 8:45 PM","4/6/24, 9:45 PM","4/6/24, 9:02 PM",,40.602142,-111.430846
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177718,Incidents,I-15,Iron County,I-15 at MP 72,"Crash
 SB I-15 at MP 72 (3 mi S of Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 4:46 AM","4/7/24, 3:48 AM","4/7/24, 4:46 AM","4/7/24, 3:48 AM",,37.821387,-112.91515
+UT-Incident--177670,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 between MP 2-5 (Empire Pass) Summit Co.
+Traction Devices Required","4/6/24, 5:17 AM","4/7/24, 12:00 PM","4/7/24, 2:47 AM",,40.624634,-111.501637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177717,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 13100 S,"Crash
 NB Mountain View Corridor Hwy Closed
  at 13200 S Salt Lake Co.
@@ -17163,6 +17166,6 @@ Traction Devices Required","4/6/24, 4:50 AM","4/7/24, 12:00 PM","4/7/24, 2:46 AM
 UT-Incident--177669,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions Little Cottonwood Canyon (SR-210) Salt Lake Co.
 Traction Devices Required","4/6/24, 4:51 AM","4/7/24, 12:00 PM","4/7/24, 2:47 AM",,40.572095,-111.773814
-UT-Incident--177670,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-Both Directions SR 224 between MP 2-5 (Empire Pass) Summit Co.
-Traction Devices Required","4/6/24, 5:17 AM","4/7/24, 12:00 PM","4/7/24, 2:47 AM",,40.624634,-111.501637
+UT-Incident--177719,Incidents,US 6,Carbon County,US 6 at MP 225,"Both Directions US 6 Closed
+ at MP 225 (5 MI W of Indian Cyn) Carbon Co.
+Use Alt Route","4/7/24, 5:13 AM","4/7/24, 6:12 AM","4/7/24, 5:13 AM",,39.77971,-110.918692
