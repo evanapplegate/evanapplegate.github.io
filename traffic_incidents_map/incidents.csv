@@ -17122,11 +17122,6 @@ SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 9:00 PM","4/6/24, 8:16 PM","4/6/24, 9:00 PM","4/6/24, 8:16 PM",View on map,40.900348,-111.893142
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177714,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
-NB I-15 at MP 291 (12300 S) Salt Lake Co.
-3 Right Lanes Closed
-Est. Clearance Time: 10:15 PM","4/6/24, 9:03 PM","4/6/24, 10:15 PM","4/6/24, 9:03 PM",,40.52103,-111.891246
 UT-Incident--177711,Incidents,I-215S EB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S EB X12 TO I-15 SB COL RAMP at I-15 NB,"Crash
 EB I-215S X12 TO I-15 COL RAMP at I-15 NB Salt Lake Co.
 Right Shoulder
@@ -17135,6 +17130,11 @@ UT-Incident--177712,Incidents,I-70,Sevier County,I-70 at MP 75,"Crash
 EB I-70 at MP 75 (14 mi W of Fremont Jct) Sevier Co.
 Left Shoulder
 Est. Clearance Time: 10:00 PM","4/6/24, 8:43 PM","4/6/24, 10:00 PM","4/6/24, 8:43 PM",,38.868655,-111.552187
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177714,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+3 Right Lanes Closed
+Est. Clearance Time: 10:15 PM","4/6/24, 9:03 PM","4/6/24, 10:15 PM","4/6/24, 9:03 PM",,40.52103,-111.891246
 UT-Incident--177706,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Left Shoulder
