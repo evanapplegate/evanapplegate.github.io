@@ -17092,7 +17092,6 @@ UT-Incident--177700,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","4/6/24, 4:50 PM","4/6/24, 6:00 PM","4/6/24, 4:50 PM",View on map,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177702,Incidents,I-15,Box Elder County,I-15 at MP 367,"Crash
 NB I-15 at MP 367 (Honeyville) Box Elder Co.
 Est. Clearance Time: 6:35 PM","4/6/24, 5:24 PM","4/6/24, 6:35 PM","4/6/24, 5:24 PM",View on map,41.55627,-112.069184
@@ -17101,12 +17100,24 @@ UT-Incident--177697,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:32 PM","4/6/24, 3:34 PM","4/6/24, 4:32 PM","4/6/24, 3:34 PM",View on map,40.747119,-111.724705
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177705,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
+WB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:45 PM","4/6/24, 7:38 PM","4/6/24, 8:45 PM","4/6/24, 7:38 PM",,40.750653,-111.708179
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
-Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",View on map,40.619107,-111.786281
+Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",,40.619107,-111.786281
 UT-Incident--177669,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions Little Cottonwood Canyon (SR-210) Salt Lake Co.
-Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM",View on map,40.572095,-111.773814
+Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM",,40.572095,-111.773814
 UT-Incident--177670,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 between MP 2-5 (Empire Pass) Summit Co.
-Traction Devices Required","4/6/24, 5:17 AM","4/6/24, 6:16 AM","4/6/24, 5:17 AM",View on map,40.624634,-111.501637
+Traction Devices Required","4/6/24, 5:17 AM","4/6/24, 6:16 AM","4/6/24, 5:17 AM",,40.624634,-111.501637
+UT-Incident--177703,Incidents,US 189,Utah County,US 189 at MP 9,"Debris
+US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
+Est. Clearance Time: 8:00 PM","4/6/24, 6:45 PM","4/6/24, 8:00 PM","4/6/24, 6:45 PM",,40.328835,-111.637103
+UT-Incident--177704,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
+EB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","4/6/24, 6:46 PM","4/6/24, 7:45 PM","4/6/24, 6:46 PM",,40.602142,-111.430846
