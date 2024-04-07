@@ -17133,7 +17133,6 @@ UT-Incident--177706,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:00 PM","4/6/24, 7:40 PM","4/6/24, 9:00 PM","4/6/24, 7:40 PM",,40.740268,-111.674521
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177714,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 3 Right Lanes Closed
@@ -17148,6 +17147,7 @@ Est. Clearance Time: 10:45 PM","4/6/24, 9:33 PM","4/6/24, 10:45 PM","4/6/24, 9:3
 UT-Incident--177713,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 EB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 9:45 PM","4/6/24, 8:45 PM","4/6/24, 9:45 PM","4/6/24, 9:02 PM",,40.602142,-111.430846
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
