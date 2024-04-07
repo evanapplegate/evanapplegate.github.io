@@ -17172,7 +17172,6 @@ UT-Incident--177720,Incidents,US 6,Utah County,US 6 at MP 199,"Crash
 EB US 6 at MP 199 (W of Tie Fork Rest Stop) Utah Co.
 Left Shoulder
 Est. Clearance Time: 7:55 AM","4/7/24, 6:55 AM","4/7/24, 7:55 AM","4/7/24, 6:56 AM",View on map,39.952078,-111.271615
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177722,Incidents,I-15 NB X57 Off SR 14 Ramp,Iron County,I-15 NB X57 Off SR 14 Ramp at SR 14,"Crash
 NB I-15 X57 Off SR 14 Ramp at SR 14 Iron Co.
 Est. Clearance Time: 10:40 AM","4/7/24, 9:37 AM","4/7/24, 10:40 AM","4/7/24, 9:39 AM",,37.648956,-113.085041
@@ -17184,3 +17183,4 @@ Est. Clearance Time: 10:45 AM","4/7/24, 9:37 AM","4/7/24, 10:45 AM","4/7/24, 9:3
 UT-Incident--177719,Incidents,US 6,Carbon County,US 6 at MP 225,"Both Directions US 6 Closed
  at MP 225 (5 MI W of Indian Cyn) Carbon Co.
 Use Alt Route","4/7/24, 5:13 AM","4/7/24, 11:30 AM","4/7/24, 10:07 AM",,39.77971,-110.918692
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
