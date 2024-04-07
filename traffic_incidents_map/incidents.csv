@@ -17106,7 +17106,6 @@ UT-Incident--177704,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 EB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","4/6/24, 6:46 PM","4/6/24, 7:45 PM","4/6/24, 6:46 PM",,40.602142,-111.430846
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177708,Incidents,I-215 E,Salt Lake County,I-215 E at MP 5,"Debris
 SB I-215 E at MP 5 (5600 S) Salt Lake Co.
 Est. Clearance Time: 9:15 PM","4/6/24, 8:08 PM","4/6/24, 9:15 PM","4/6/24, 8:08 PM",View on map,40.655726,-111.806969
@@ -17123,16 +17122,28 @@ UT-Incident--177709,Incidents,I-15,Davis County,I-15 at MP 318,"Lane Closure
 SB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 9:00 PM","4/6/24, 8:16 PM","4/6/24, 9:00 PM","4/6/24, 8:16 PM",View on map,40.900348,-111.893142
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177711,Incidents,I-215S EB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S EB X12 TO I-15 SB COL RAMP at I-15 NB,"Crash
+EB I-215S X12 TO I-15 COL RAMP at I-15 NB Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:45 PM","4/6/24, 8:32 PM","4/6/24, 9:45 PM","4/6/24, 8:32 PM",,40.634419,-111.906276
+UT-Incident--177712,Incidents,I-70,Sevier County,I-70 at MP 75,"Crash
+EB I-70 at MP 75 (14 mi W of Fremont Jct) Sevier Co.
+Left Shoulder
+Est. Clearance Time: 10:00 PM","4/6/24, 8:43 PM","4/6/24, 10:00 PM","4/6/24, 8:43 PM",,38.868655,-111.552187
 UT-Incident--177706,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 9:00 PM","4/6/24, 7:40 PM","4/6/24, 9:00 PM","4/6/24, 7:40 PM",View on map,40.740268,-111.674521
+Est. Clearance Time: 9:00 PM","4/6/24, 7:40 PM","4/6/24, 9:00 PM","4/6/24, 7:40 PM",,40.740268,-111.674521
 UT-Incident--177668,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions Big Cottonwood Canyon (SR-190) Salt Lake Co.
-Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",View on map,40.619107,-111.786281
+Traction Devices Required","4/6/24, 4:50 AM","4/6/24, 5:48 AM","4/6/24, 4:50 AM",,40.619107,-111.786281
 UT-Incident--177669,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions Little Cottonwood Canyon (SR-210) Salt Lake Co.
-Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM",View on map,40.572095,-111.773814
+Traction Devices Required","4/6/24, 4:51 AM","4/6/24, 5:50 AM","4/6/24, 4:51 AM",,40.572095,-111.773814
 UT-Incident--177670,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 between MP 2-5 (Empire Pass) Summit Co.
-Traction Devices Required","4/6/24, 5:17 AM","4/6/24, 6:16 AM","4/6/24, 5:17 AM",View on map,40.624634,-111.501637
+Traction Devices Required","4/6/24, 5:17 AM","4/6/24, 6:16 AM","4/6/24, 5:17 AM",,40.624634,-111.501637
+UT-Incident--177713,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
+WB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
+Est. Clearance Time: 9:45 PM","4/6/24, 8:45 PM","4/6/24, 9:45 PM","4/6/24, 8:45 PM",,40.602142,-111.430846
