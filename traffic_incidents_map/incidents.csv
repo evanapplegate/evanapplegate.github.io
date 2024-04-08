@@ -17236,13 +17236,20 @@ UT-Incident--177740,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:30 AM","4/8/24, 4:28 AM","4/8/24, 5:30 AM",,,40.301853,-111.72593
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177742,Incidents,I-15 SB X 289 ON BANGERTER RAMP,Salt Lake County,I-15 SB X 289 ON BANGERTER RAMP at BANGERTER HWY,"Crash
 SB I-15 Bangerter Highway On-Ramp, Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:48 AM","4/8/24, 4:51 AM","4/8/24, 5:48 AM",,,40.502178,-111.891587
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177744,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at CALIFORNIA AVE,"Crash
+All Directions Bangerter Hwy at California Ave Salt Lake Co.
+Est. Clearance Time: 7:30 AM","4/8/24, 6:31 AM","4/8/24, 7:30 AM",,,40.743421,-111.989624
 UT-Incident--177739,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 SB I-15 at MP 358 (Willard) Box Elder Co.
 Right Lanes Closed
-Est. Clearance Time: 7:21 AM","4/8/24, 1:36 AM","4/8/24, 7:21 AM","4/8/24, 5:53 AM",View on map,41.42749,-112.056768
+Est. Clearance Time: 7:21 AM","4/8/24, 1:36 AM","4/8/24, 7:21 AM",,,41.42749,-112.056768
+UT-Incident--177743,Incidents,I-15,Box Elder County,I-15 at MP 374,"Crash
+SB I-15 at MP 374 (Tremonton) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 7:40 AM","4/8/24, 6:31 AM","4/8/24, 7:40 AM",,,41.649509,-112.112593
