@@ -17205,7 +17205,6 @@ UT-Incident--177732,Incidents,I-15,Juab County,I-15 at MP 223,"Crash
 NB I-15 at MP 223 (Main St Exit / Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 5:28 PM","4/7/24, 4:30 PM","4/7/24, 5:28 PM","4/7/24, 4:39 PM",,39.682873,-111.83691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177731,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
 NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
 Right Lane Closed
@@ -17215,6 +17214,7 @@ UT-Incident--177733,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 NB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:04 PM","4/7/24, 5:05 PM","4/7/24, 6:04 PM","4/7/24, 5:23 PM",View on map,40.337197,-111.749203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177727,Incidents,I-70,Sevier County,I-70 at MP 17,"Crash
 EB I-70 at MP 17 (20 Mi W of Richfield) Sevier Co.
 Left Shoulder
