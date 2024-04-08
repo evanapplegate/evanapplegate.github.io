@@ -17229,16 +17229,20 @@ EB I-84 at MP 6 (Snowville) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 8:41 PM","4/7/24, 7:43 PM","4/7/24, 8:41 PM","4/7/24, 7:43 PM",View on map,41.961759,-112.732457
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177739,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 SB I-15 at MP 358 (Willard) Box Elder Co.
 Right Lane Closed
-Est. Clearance Time: 2:36 AM","4/8/24, 1:36 AM","4/8/24, 2:36 AM","4/8/24, 3:04 AM",View on map,41.42749,-112.056768
+Est. Clearance Time: 2:36 AM","4/8/24, 1:36 AM","4/8/24, 2:36 AM",,,41.42749,-112.056768
 UT-Incident--177740,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 2 Left Lanes Closed
-Est. Clearance Time: 5:30 AM","4/8/24, 4:28 AM","4/8/24, 5:30 AM","4/8/24, 4:28 AM",View on map,40.301853,-111.72593
+Est. Clearance Time: 5:30 AM","4/8/24, 4:28 AM","4/8/24, 5:30 AM",,,40.301853,-111.72593
 UT-Incident--177741,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 5:40 AM","4/8/24, 4:40 AM","4/8/24, 5:40 AM","4/8/24, 4:40 AM",View on map,40.649847,-111.90236
+3 Right Lanes Closed
+Est. Clearance Time: 5:40 AM","4/8/24, 4:40 AM","4/8/24, 5:40 AM",,,40.649847,-111.90236
+UT-Incident--177742,Incidents,I-15 SB X 289 ON BANGERTER RAMP,Salt Lake County,I-15 SB X 289 ON BANGERTER RAMP at BANGERTER HWY,"Crash
+SB I-15 Bangerter Highway On-Ramp, Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:48 AM","4/8/24, 4:51 AM","4/8/24, 5:48 AM",,,40.502178,-111.891587
