@@ -17240,7 +17240,7 @@ UT-Incident--177742,Incidents,I-15 SB X 289 ON BANGERTER RAMP,Salt Lake County,I
 SB I-15 Bangerter Highway On-Ramp, Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:48 AM","4/8/24, 4:51 AM","4/8/24, 5:48 AM",,,40.502178,-111.891587
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--177744,Incidents,BANGERTER SB HWY,Salt Lake County,BANGERTER SB HWY at CALIFORNIA AVE,"Crash
 All Directions Bangerter Hwy at California Ave Salt Lake Co.
@@ -17253,3 +17253,7 @@ UT-Incident--177743,Incidents,I-15,Box Elder County,I-15 at MP 374,"Crash
 SB I-15 at MP 374 (Tremonton) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 7:40 AM","4/8/24, 6:31 AM","4/8/24, 7:40 AM",,,41.649509,-112.112593
+UT-Incident--177745,Incidents,US 91,Box Elder County,US 91 at MP 9,"Crash
+NB US 91 at MP 9 (1 MI from Sardine Summit) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 7:40 AM","4/8/24, 6:38 AM","4/8/24, 7:40 AM",,,41.535774,-111.958242
