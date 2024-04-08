@@ -17335,7 +17335,6 @@ UT-Incident--177766,Incidents,US 89,Davis County,US 89 at MP 387,"Crash
 NB US 89 at MP 387 (2600 s) Davis Co.
 Center Lane Closed
 Est. Clearance Time: 5:10 PM","4/8/24, 4:11 PM","4/8/24, 5:10 PM","4/8/24, 4:11 PM",View on map,40.864049,-111.894372
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177771,Incidents,SR 13,Box Elder County,SR 13 at MP 2,"Crash
 NB Main STt at Forest St (Brigham City) Box Elder Co.
 2 Right Lanes Closed
@@ -17345,6 +17344,7 @@ UT-Incident--177769,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 Ramp I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:33 PM","4/8/24, 4:34 PM","4/8/24, 5:33 PM","4/8/24, 4:34 PM",,40.52103,-111.891246
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177772,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
