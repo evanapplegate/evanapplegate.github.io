@@ -17279,7 +17279,6 @@ UT-Incident--177751,Incidents,I-15,Iron County,I-15 at MP 47,"Crash
 SB I-15 at MP 47 (Kanarraville) Iron Co.
 Est. Clearance Time: 12:15 PM","4/8/24, 11:13 AM","4/8/24, 12:15 PM","4/8/24, 11:29 AM",,37.54971,-113.197171
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177753,Incidents,Hwy 112,Tooele County,Hwy 112 600 W,"Crash
 All Directions Hwy 112 at 600 W (Tooele County)
 Est. Clearance Time: 1:00 PM","4/8/24, 11:58 AM","4/8/24, 1:00 PM","4/8/24, 11:58 AM",,40.55087,-112.317244
@@ -17289,3 +17288,15 @@ Est. Clearance Time: 12:45 AM","4/8/24, 10:44 AM","4/8/24, 12:45 PM","4/8/24, 12
 UT-Incident--177754,Incidents,US 189,Wasatch County,US 189 4481,"Crash
 SB US 189 Wasatch Co.
 Est. Clearance Time: 1:26 PM","4/8/24, 12:27 PM","4/8/24, 1:26 PM","4/8/24, 12:27 PM",,40.446024,-111.47711
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177756,Incidents,I-15 SB X62 OFF SR 130 RAMP,Iron County,I-15 SB X62 OFF SR 130 RAMP at HWY 130,"Crash
+SB I-15 SR 130 Off Ramp(MP 62) Iron Co.
+Est. Clearance Time: 1:50 PM","4/8/24, 12:47 PM","4/8/24, 1:50 PM","4/8/24, 12:47 PM",,37.729429,-113.053676
+UT-Incident--177757,Incidents,US 189,Wasatch County,US 189 at MP 18,"Crash
+SB US 189 at MP 18 (Heber) Wasatch Co.
+SB Right hand turn lane and Right hand lane blocked  
+Est. Clearance Time: 1:48 PM","4/8/24, 12:52 PM","4/8/24, 1:48 PM","4/8/24, 12:52 PM",,40.405503,-111.524184
+UT-Incident--177755,Incidents,Washington Blvd,Weber County,Washington Blvd at 2nd St/Harrisville Rd,"Crash
+All Directions Washington Blvd at 2nd St/Harrisville Rd (Weber Co.) 
+NB on Harrison Right lanes, SB on Washington Right lane
+Est. Clearance Time: 1:45 PM","4/8/24, 12:46 PM","4/8/24, 1:45 PM","4/8/24, 12:46 PM",,41.259645,-111.969585
