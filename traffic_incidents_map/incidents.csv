@@ -17327,7 +17327,6 @@ UT-Incident--177762,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:56 PM","4/8/24, 2:56 PM","4/8/24, 3:56 PM","4/8/24, 2:56 PM",View on map,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177768,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
@@ -17337,11 +17336,25 @@ NB US 89 at MP 387 (2600 s) Davis Co.
 Center Lane Closed
 Est. Clearance Time: 5:10 PM","4/8/24, 4:11 PM","4/8/24, 5:10 PM","4/8/24, 4:11 PM",View on map,40.864049,-111.894372
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177769,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 Ramp I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 5:33 PM","4/8/24, 4:34 PM","4/8/24, 5:33 PM","4/8/24, 4:34 PM",View on map,40.52103,-111.891246
+Est. Clearance Time: 5:33 PM","4/8/24, 4:34 PM","4/8/24, 5:33 PM","4/8/24, 4:34 PM",,40.52103,-111.891246
+UT-Incident--177772,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+NB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:59 PM","4/8/24, 5:00 PM","4/8/24, 5:59 PM","4/8/24, 5:00 PM",,40.346539,-111.763778
+UT-Incident--177770,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4100 S,"Crash
+Both Directions Redwood Rd at 4100 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 5:46 PM","4/8/24, 4:46 PM","4/8/24, 5:46 PM","4/8/24, 4:46 PM",,40.682029,-111.938504
+UT-Incident--177771,Incidents,SR 13,Box Elder County,SR 13 at MP 2,"Crash
+NB Main STt at Forest St (Brigham City) Box Elder Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:45 PM","4/8/24, 4:47 PM","4/8/24, 5:45 PM","4/8/24, 4:47 PM",,41.515622,-112.015616
 UT-Incident--177767,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
 Both Directions US 6 Closed
- at MP 192 (3 Mi W of Sheep Creek) Utah Co.
-Use Alt Route","4/8/24, 4:15 PM","4/8/24, 5:14 PM","4/8/24, 4:25 PM",View on map,39.991472,-111.386113
+WB Closed at MP 192 (3 Mi W of Sheep Creek)
+EB Closed at MP 187/US-89 Jct
+Utah Co.","4/8/24, 4:15 PM","4/8/24, 8:15 PM","4/8/24, 4:54 PM",,39.991472,-111.386113
