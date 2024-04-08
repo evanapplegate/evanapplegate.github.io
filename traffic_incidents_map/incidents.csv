@@ -17306,7 +17306,6 @@ UT-Incident--177760,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 NB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:47 PM","4/8/24, 2:51 PM","4/8/24, 3:47 PM","4/8/24, 2:51 PM",View on map,40.85851,-111.904912
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177764,Incidents,5600 S,Weber County,5600 S 2161,"Crash
  5600 S at 2000 W  Weber Co.
 East bound Right hand lane blocked (Roy)
@@ -17321,10 +17320,11 @@ Salt Lake Co.
 Center Lane Blocked at 8600 S
 Est. Clearance Time: 4:20 PM","4/8/24, 3:21 PM","4/8/24, 4:20 PM","4/8/24, 3:21 PM",View on map,40.592858,-111.902495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177763,Incidents,5600 W,Salt Lake County,5600 W at 7000 S,"Crash
 SB 5600 W Closed
  at 7000 S Salt Lake Co.
-Use Alt Route","4/8/24, 2:57 PM","4/8/24, 3:56 PM","4/8/24, 2:57 PM",View on map,40.624296,-112.024825
+Use Alt Route","4/8/24, 2:57 PM","4/8/24, 4:45 PM","4/8/24, 3:54 PM",View on map,40.624296,-112.024825
 UT-Incident--177762,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
