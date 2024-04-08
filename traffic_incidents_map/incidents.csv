@@ -17319,7 +17319,6 @@ NB I-15 at MP 296 (Collector Ramp to I-215)
 Salt Lake Co.
 Center Lane Blocked at 8600 S
 Est. Clearance Time: 4:20 PM","4/8/24, 3:21 PM","4/8/24, 4:20 PM","4/8/24, 3:21 PM",View on map,40.592858,-111.902495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177763,Incidents,5600 W,Salt Lake County,5600 W at 7000 S,"Crash
 SB 5600 W Closed
  at 7000 S Salt Lake Co.
@@ -17329,9 +17328,15 @@ NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:56 PM","4/8/24, 2:56 PM","4/8/24, 3:56 PM","4/8/24, 2:56 PM",View on map,40.736823,-111.90475
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177768,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
+NB I-15 at MP 311 (2300 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:26 PM","4/8/24, 4:27 PM","4/8/24, 5:26 PM","4/8/24, 4:27 PM",View on map,40.804836,-111.922481
 UT-Incident--177767,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
-Both Directions US 6 at MP 192 (3 Mi W of Sheep Creek) Utah Co.
-Est. Clearance Time: 5:14 PM","4/8/24, 4:15 PM","4/8/24, 5:14 PM","4/8/24, 4:15 PM",View on map,39.991472,-111.386113
+Both Directions US 6 Closed
+ at MP 192 (3 Mi W of Sheep Creek) Utah Co.
+Use Alt Route","4/8/24, 4:15 PM","4/8/24, 5:14 PM","4/8/24, 4:25 PM",View on map,39.991472,-111.386113
 UT-Incident--177766,Incidents,US 89,Davis County,US 89 at MP 387,"Crash
 NB US 89 at MP 387 (2600 s) Davis Co.
 Center Lane Closed
