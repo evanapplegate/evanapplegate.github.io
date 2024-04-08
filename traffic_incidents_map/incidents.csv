@@ -17272,14 +17272,17 @@ NB I-15 at MP 234 (1 mi N of Mona) Juab Co.
 Right Shoulder
 Est. Clearance Time: 11:30 AM","4/8/24, 10:31 AM","4/8/24, 11:30 AM","4/8/24, 10:31 AM",,39.833319,-111.834915
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177750,Incidents,I-15,Iron County,I-15 at MP 47,"Vehicle on fire
-NB I-15 at MP 47 (Kanarraville) Iron Co.
-Est. Clearance Time: 11:45 AM","4/8/24, 10:44 AM","4/8/24, 11:45 AM","4/8/24, 11:00 AM",,37.549324,-113.196727
-UT-Incident--177751,Incidents,I-15,Iron County,I-15 at MP 47,"Crash
-SB I-15 at MP 47 (Kanarraville) Iron Co.
-Est. Clearance Time: 12:15 PM","4/8/24, 11:13 AM","4/8/24, 12:15 PM","4/8/24, 11:29 AM",,37.54971,-113.197171
 UT-Incident--177752,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 NB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:40 PM","4/8/24, 11:34 AM","4/8/24, 12:40 PM","4/8/24, 11:34 AM",,40.176162,-111.646775
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177753,Incidents,Hwy 112,Tooele County,Hwy 112 600 W,"Crash
+All Directions Hwy 112 at 600 W (Tooele County)
+Est. Clearance Time: 1:00 PM","4/8/24, 11:58 AM","4/8/24, 1:00 PM","4/8/24, 11:58 AM",,40.55087,-112.317244
+UT-Incident--177750,Incidents,I-15,Iron County,I-15 at MP 47,"Vehicle on fire
+NB I-15 at MP 47 (Kanarraville) Iron Co.
+Est. Clearance Time: 12:45 AM","4/8/24, 10:44 AM","4/8/24, 12:45 PM","4/8/24, 12:01 PM",,37.549324,-113.196727
+UT-Incident--177751,Incidents,I-15,Iron County,I-15 at MP 47,"Crash
+SB I-15 at MP 47 (Kanarraville) Iron Co.
+Est. Clearance Time: 12:15 PM","4/8/24, 11:13 AM","4/8/24, 12:15 PM","4/8/24, 11:29 AM",,37.54971,-113.197171
