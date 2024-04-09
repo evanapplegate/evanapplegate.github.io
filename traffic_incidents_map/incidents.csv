@@ -17339,7 +17339,6 @@ UT-Incident--177771,Incidents,SR 13,Box Elder County,SR 13 at MP 2,"Crash
 NB Main STt at Forest St (Brigham City) Box Elder Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:45 PM","4/8/24, 4:47 PM","4/8/24, 5:45 PM","4/8/24, 4:47 PM",,41.515622,-112.015616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177769,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 Ramp I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
@@ -17361,8 +17360,9 @@ UT-Incident--177770,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4100 S,"
 Both Directions Redwood Rd at 4100 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:46 PM","4/8/24, 4:46 PM","4/8/24, 5:46 PM","4/8/24, 4:46 PM",,40.682029,-111.938504
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177767,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
 Both Directions US 6 Closed
 WB Closed at MP 192 (3 Mi W of Sheep Creek)
 EB Closed at MP 187/US-89 Jct
-Utah Co.","4/8/24, 4:15 PM","4/8/24, 8:15 PM","4/8/24, 4:54 PM",,39.991472,-111.386113
+Utah Co.","4/8/24, 4:15 PM","4/8/24, 8:15 PM","4/8/24, 4:54 PM",View on map,39.991472,-111.386113
