@@ -17375,7 +17375,6 @@ EB US 6 at MP 201 (Tie Fork Rest Stop) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 4/8/2024 11:38 PM","4/8/24, 10:39 PM","4/8/24, 11:38 PM","4/9/24, 4:58 AM",,39.950102,-111.219057
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177784,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 SB I-15 at MP 311 (2300 N) Salt Lake Co.
 Center Lane Closed
@@ -17384,6 +17383,11 @@ UT-Incident--177783,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","4/9/24, 7:29 AM","4/9/24, 8:30 AM","4/9/24, 7:34 AM",,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177785,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+3 Left Lanes Closed
+Est. Clearance Time: 9:00 AM","4/9/24, 7:49 AM","4/9/24, 9:00 AM","4/9/24, 7:57 AM",,40.420056,-111.878496
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
