@@ -17415,6 +17415,10 @@ UT-Incident--177793,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 NB US 89 at MP 396 (Park Lane Onramp) Davis Co.
 Est. Clearance Time: 4:15 PM","4/9/24, 3:08 PM","4/9/24, 4:15 PM","4/9/24, 3:08 PM",,40.988877,-111.901278
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177796,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+WB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","4/9/24, 4:18 PM","4/9/24, 5:15 PM","4/9/24, 4:18 PM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177795,Incidents,30th St,Weber County,30th St at Hwy 79/Wall Ave,"Crash
 WB 30th St at Hwy 79/Wall Ave Weber Co.
@@ -17431,7 +17435,3 @@ UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
 WB SR 143 Closed
 at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
 Use Alt Route","4/8/24, 9:32 PM","4/8/24, 10:31 PM","4/8/24, 9:32 PM",,37.819766,-112.43555
-UT-Incident--177796,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
-WB SR 201 at MP 14 (3000 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:15 PM","4/9/24, 4:18 PM","4/9/24, 5:15 PM","4/9/24, 4:18 PM",,40.72606,-111.962907
