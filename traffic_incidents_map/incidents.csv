@@ -17418,15 +17418,10 @@ UT-Incident--177796,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","4/9/24, 4:18 PM","4/9/24, 5:15 PM","4/9/24, 4:18 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177795,Incidents,30th St,Weber County,30th St at Hwy 79/Wall Ave,"Crash
 WB 30th St at Hwy 79/Wall Ave Weber Co.
 Est. Clearance Time: 5:00 PM","4/9/24, 3:55 PM","4/9/24, 5:00 PM","4/9/24, 3:59 PM",,41.210319,-111.979052
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177800,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
-EB 1000 N at 200 W Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","4/9/24, 4:54 PM","4/9/24, 6:00 PM","4/9/24, 4:54 PM",,40.550989,-112.304646
 UT-Incident--177797,Incidents,1800 N,Davis County,1800 N at 1000 W,"Crash
 1800 N at 1000 W Davis Co.
 Est. Clearance Time: 5:45 PM","4/9/24, 4:47 PM","4/9/24, 5:45 PM","4/9/24, 4:47 PM",,0.0,0.0
@@ -17437,6 +17432,18 @@ Est. Clearance Time: 5:00 PM","4/9/24, 3:47 PM","4/9/24, 5:00 PM","4/9/24, 3:47 
 UT-Incident--177798,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Est. Clearance Time: 6:00 PM","4/9/24, 4:51 PM","4/9/24, 6:00 PM","4/9/24, 4:51 PM",,40.747703,-111.639522
+UT-Incident--177801,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Est. Clearance Time: 6:00 PM","4/9/24, 4:58 PM","4/9/24, 6:00 PM","4/9/24, 4:58 PM",,40.724124,-111.943886
+UT-Incident--177799,Incidents,Washington Blvd,Weber County,Washington Blvd at 21st St,"Crash
+NB Washington Blvd at 21st St Weber Co.
+Left Lane Closed
+Est. Clearance Time: 6:00 PM","4/9/24, 4:53 PM","4/9/24, 6:00 PM","4/9/24, 4:53 PM",,41.229029,-111.970318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177800,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
+EB 1000 N at 200 W Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 PM","4/9/24, 4:54 PM","4/9/24, 6:00 PM","4/9/24, 4:54 PM",,40.550989,-112.304646
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
@@ -17445,10 +17452,3 @@ UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
 WB SR 143 Closed
 at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
 Use Alt Route","4/8/24, 9:32 PM","4/8/24, 10:31 PM","4/8/24, 9:32 PM",,37.819766,-112.43555
-UT-Incident--177801,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
-WB SR 201 at MP 15 (1300 W) Salt Lake Co.
-Est. Clearance Time: 6:00 PM","4/9/24, 4:58 PM","4/9/24, 6:00 PM","4/9/24, 4:58 PM",,40.724124,-111.943886
-UT-Incident--177799,Incidents,Washington Blvd,Weber County,Washington Blvd at 21st St,"Crash
-NB Washington Blvd at 21st St Weber Co.
-Left Lane Closed
-Est. Clearance Time: 6:00 PM","4/9/24, 4:53 PM","4/9/24, 6:00 PM","4/9/24, 4:53 PM",,41.229029,-111.970318
