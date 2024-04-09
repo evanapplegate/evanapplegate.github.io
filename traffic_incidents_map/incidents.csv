@@ -17393,7 +17393,6 @@ Est. Clearance Time: 9:00 AM","4/9/24, 7:49 AM","4/9/24, 9:00 AM","4/9/24, 8:09 
 UT-Incident--177789,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 All Directions 5600 S at 3500 W Weber Co.
 Est. Clearance Time: 10:00 AM","4/9/24, 9:02 AM","4/9/24, 10:00 AM","4/9/24, 9:02 AM",,41.161599,-112.06442
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177787,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
@@ -17401,6 +17400,7 @@ Est. Clearance Time: 9:30 AM","4/9/24, 8:28 AM","4/9/24, 9:30 AM","4/9/24, 8:28 
 UT-Incident--177788,Incidents,I-15 SB X 289 On Bangerter Ramp,Salt Lake County,I-15 SB X 289 On Bangerter Ramp at Bangerter Hwy,"Crash
 NB I-15 Bangerter On Ramp at (MP 289) Salt Lake Co.
 Est. Clearance Time: 9:50 AM","4/9/24, 8:48 AM","4/9/24, 9:50 AM","4/9/24, 8:48 AM",,40.503428,-111.891848
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
