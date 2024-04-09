@@ -17343,7 +17343,6 @@ UT-Incident--177769,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 Ramp I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:33 PM","4/8/24, 4:34 PM","4/8/24, 5:33 PM","4/8/24, 4:34 PM",,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177772,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -17360,6 +17359,7 @@ UT-Incident--177770,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4100 S,"
 Both Directions Redwood Rd at 4100 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:46 PM","4/8/24, 4:46 PM","4/8/24, 5:46 PM","4/8/24, 4:46 PM",,40.682029,-111.938504
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177767,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
 Both Directions US 6 Closed
