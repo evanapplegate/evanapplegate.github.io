@@ -17421,7 +17421,6 @@ Est. Clearance Time: 5:15 PM","4/9/24, 4:18 PM","4/9/24, 5:15 PM","4/9/24, 4:18 
 UT-Incident--177795,Incidents,30th St,Weber County,30th St at Hwy 79/Wall Ave,"Crash
 WB 30th St at Hwy 79/Wall Ave Weber Co.
 Est. Clearance Time: 5:00 PM","4/9/24, 3:55 PM","4/9/24, 5:00 PM","4/9/24, 3:59 PM",,41.210319,-111.979052
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177797,Incidents,1800 N,Davis County,1800 N at 1000 W,"Crash
 1800 N at 1000 W Davis Co.
 Est. Clearance Time: 5:45 PM","4/9/24, 4:47 PM","4/9/24, 5:45 PM","4/9/24, 4:47 PM",,0.0,0.0
@@ -17439,6 +17438,7 @@ UT-Incident--177799,Incidents,Washington Blvd,Weber County,Washington Blvd at 21
 NB Washington Blvd at 21st St Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","4/9/24, 4:53 PM","4/9/24, 6:00 PM","4/9/24, 4:53 PM",,41.229029,-111.970318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177800,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
 EB 1000 N at 200 W Tooele Co.
