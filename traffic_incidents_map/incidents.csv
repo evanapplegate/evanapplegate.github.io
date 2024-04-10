@@ -17438,7 +17438,6 @@ UT-Incident--177799,Incidents,Washington Blvd,Weber County,Washington Blvd at 21
 NB Washington Blvd at 21st St Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","4/9/24, 4:53 PM","4/9/24, 6:00 PM","4/9/24, 4:53 PM",,41.229029,-111.970318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177800,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
 EB 1000 N at 200 W Tooele Co.
 Right Lane Closed
@@ -17447,6 +17446,7 @@ UT-Incident--177802,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 SB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:45 PM","4/9/24, 5:35 PM","4/9/24, 6:45 PM","4/9/24, 5:35 PM",,40.803702,-111.949406
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
