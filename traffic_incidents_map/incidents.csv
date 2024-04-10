@@ -17524,7 +17524,6 @@ NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
 Est. Clearance Time: 1:40 PM","4/10/24, 12:38 PM","4/10/24, 1:40 PM","4/10/24, 12:38 PM",,39.356588,-112.080446
 UT-Incident--177829,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Mitigation
 Both Directions SR 210 CLOSED MP 4-10 (Little Cottonwood Canyon) Salt Lake Co.","4/10/24, 1:34 PM","4/10/24, 3:30 PM",,,40.572095,-111.773814
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177830,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
@@ -17533,6 +17532,7 @@ Est. Clearance Time: 3:30 PM","4/10/24, 2:30 PM","4/10/24, 3:30 PM","4/10/24, 2:
 UT-Incident--177831,Incidents,I-15,Iron County,I-15 at MP 91,"Crash
 SB I-15 at MP 91 (14 mi N of Parowan) Iron Co.
 Est. Clearance Time: 4:30 PM","4/10/24, 3:23 PM","4/10/24, 4:30 PM","4/10/24, 3:23 PM",,38.025705,-112.71378
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177832,Incidents,I-15,Salt Lake County,I-15 at MP 300,"SB I-15 Closed
  at MP 300 (5200 S) Salt Lake Co.
 Use Alt Route","4/10/24, 3:26 PM","4/10/24, 4:23 PM","4/10/24, 3:26 PM",,40.649847,-111.90236
