@@ -17447,7 +17447,6 @@ SB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:45 PM","4/9/24, 5:35 PM","4/9/24, 6:45 PM","4/9/24, 5:35 PM",,40.803702,-111.949406
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177808,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
@@ -17455,6 +17454,11 @@ Est. Clearance Time: 8:45 PM","4/9/24, 7:43 PM","4/9/24, 8:45 PM","4/9/24, 7:43 
 UT-Incident--177809,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 Off Ramp (14600 S) Salt Lake Co.
 Est. Clearance Time: 9:35 PM","4/9/24, 8:22 PM","4/9/24, 9:35 PM","4/9/24, 8:22 PM",,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177810,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled Vehicle
+SB I-215 W at MP 15 (4700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:45 PM","4/9/24, 8:49 PM","4/9/24, 9:45 PM","4/9/24, 8:49 PM",,40.659924,-111.952783
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
