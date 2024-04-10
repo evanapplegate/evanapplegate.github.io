@@ -17531,11 +17531,15 @@ Est. Clearance Time: 3:30 PM","4/10/24, 2:30 PM","4/10/24, 3:30 PM","4/10/24, 2:
 UT-Incident--177831,Incidents,I-15,Iron County,I-15 at MP 91,"Crash
 SB I-15 at MP 91 (14 mi N of Parowan) Iron Co.
 Est. Clearance Time: 4:30 PM","4/10/24, 3:23 PM","4/10/24, 4:30 PM","4/10/24, 3:23 PM",,38.025705,-112.71378
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177833,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
 NB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
 Left Shoulder
 Est. Clearance Time: 4:45 PM","4/10/24, 3:38 PM","4/10/24, 4:45 PM","4/10/24, 3:38 PM",,41.329561,-112.031305
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177835,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
+SB I-215 W at MP 17 (3500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","4/10/24, 4:25 PM","4/10/24, 5:30 PM","4/10/24, 4:25 PM",,40.688869,-111.951947
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177832,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
@@ -17544,11 +17548,7 @@ Est. Clearance Time: 4:45 PM","4/10/24, 3:26 PM","4/10/24, 4:45 PM","4/10/24, 4:
 UT-Incident--177836,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:45 PM","4/10/24, 4:32 PM","4/10/24, 5:45 PM","4/10/24, 4:32 PM",,,
-UT-Incident--177835,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
-SB I-215 W at MP 17 (3500 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:30 PM","4/10/24, 4:25 PM","4/10/24, 5:30 PM","4/10/24, 4:25 PM",,40.688869,-111.951947
+Est. Clearance Time: 5:45 PM","4/10/24, 4:32 PM","4/10/24, 5:45 PM","4/10/24, 4:32 PM",,40.804836,-111.922481
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
