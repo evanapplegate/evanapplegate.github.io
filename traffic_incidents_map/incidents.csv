@@ -17500,12 +17500,16 @@ Est. Clearance Time: 10:15 AM","4/10/24, 9:01 AM","4/10/24, 10:15 AM","4/10/24, 
 UT-Incident--177819,Incidents,SR 248,Wasatch County,SR 248 at MP 5,"Crash
 SR 248 at MP 5 (2 MI drom US-40 Jct) Wasatch Co.
 Est. Clearance Time: 9:15 AM","4/10/24, 8:06 AM","4/10/24, 9:15 AM","4/10/24, 8:06 AM",,40.675936,-111.430432
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177823,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:15 AM","4/10/24, 9:07 AM","4/10/24, 10:15 AM","4/10/24, 9:07 AM",,40.442142,-111.903011
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177825,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
+EB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
+Left Lane Closed
+Est. Clearance Time: 12:00 PM","4/10/24, 10:00 AM","4/10/24, 12:00 PM","4/10/24, 10:00 AM",,40.745008,-112.641774
 UT-Incident--177824,Incidents,I-84,Morgan County,I-84 at MP 91,"Crash
 WB I-84 at MP 91 (1 mi W of Mountain Green) Morgan Co.
 Est. Clearance Time: 11:00 AM","4/10/24, 9:34 AM","4/10/24, 11:00 AM","4/10/24, 9:34 AM",,41.139525,-111.854154
