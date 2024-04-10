@@ -17504,7 +17504,6 @@ UT-Incident--177823,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:15 AM","4/10/24, 9:07 AM","4/10/24, 10:15 AM","4/10/24, 9:07 AM",,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177826,Incidents,30TH ST,Weber County,30TH ST at HWY 79/WALL AVE,"Crash
 SB Wall Ave at 30th St Weber Co.
 Right Lane Closed
@@ -17514,6 +17513,7 @@ UT-Incident--177827,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 off ramp (2100 S) Salt Lake Co.
 Right Shoulder and Right Lane
 Est. Clearance Time: 12:00 PM","4/10/24, 10:54 AM","4/10/24, 12:00 PM","4/10/24, 10:58 AM",,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177825,Incidents,I-80,Tooele County,I-80 at MP 77,"Crash
 EB I-80 at MP 77 (Dugway / SR-196 Jct) Tooele Co.
 Left Lane Closed
