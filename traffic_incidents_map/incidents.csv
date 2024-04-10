@@ -17523,18 +17523,18 @@ UT-Incident--177828,Incidents,I-15,Juab County,I-15 at MP 196,"Vehicle on fire
 NB I-15 at MP 196 (8 mi N of Scipio) Juab Co.
 Est. Clearance Time: 1:40 PM","4/10/24, 12:38 PM","4/10/24, 1:40 PM","4/10/24, 12:38 PM",,39.356588,-112.080446
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--177829,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Mitigation
+Both Directions SR 210 CLOSED MP 4-10 (Little Cottonwood Canyon) Salt Lake Co.","4/10/24, 1:34 PM","4/10/24, 3:30 PM",,,40.572095,-111.773814
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177830,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 3:30 PM","4/10/24, 2:30 PM","4/10/24, 3:30 PM",,,40.719771,-111.855009
+Est. Clearance Time: 3:30 PM","4/10/24, 2:30 PM","4/10/24, 3:30 PM","4/10/24, 2:30 PM",,40.719771,-111.855009
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
-Use Alt Route","4/8/24, 9:30 PM","4/12/24, 12:00 PM",,,37.70724,-112.630188
+Use Alt Route","4/8/24, 9:30 PM","4/12/24, 12:00 PM","4/9/24, 5:37 PM",,37.70724,-112.630188
 UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
 WB SR 143 Closed
 at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
-Use Alt Route","4/8/24, 9:32 PM","4/12/24, 12:00 PM",,,37.819766,-112.43555
-UT-Incident--177829,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Maintenance/Avalanche Mitigation
-Both Directions SR 210 CLOSED MP 4-10 (Little Cottonwood Canyon) Salt Lake Co.","4/10/24, 1:34 PM","4/10/24, 3:30 PM",,,40.572095,-111.773814
+Use Alt Route","4/8/24, 9:32 PM","4/12/24, 12:00 PM","4/9/24, 5:37 PM",,37.819766,-112.43555
