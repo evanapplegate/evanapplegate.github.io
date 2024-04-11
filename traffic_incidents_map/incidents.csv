@@ -17587,12 +17587,16 @@ UT-Incident--177848,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
 WB I-84 at MP 92 (Mountain Green) Morgan Co.
 Left Shoulder
 Est. Clearance Time: 4/11/2024 1:00 AM","4/10/24, 11:52 PM","4/11/24, 1:00 AM","4/10/24, 11:52 PM",,41.139114,-111.835183
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177849,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at I-80 EB Fwy,"Crash
 SB Bangerter Hwy at I-80 EB Fwy Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:26 AM","4/11/24, 5:28 AM","4/11/24, 6:26 AM","4/11/24, 5:28 AM",,40.768098,-111.987147
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177850,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:16 AM","4/11/24, 6:16 AM","4/11/24, 7:16 AM","4/11/24, 6:16 AM",,40.328045,-111.73498
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
