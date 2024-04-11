@@ -17622,7 +17622,6 @@ UT-Incident--177854,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:50 AM","4/11/24, 8:49 AM","4/11/24, 9:50 AM","4/11/24, 8:49 AM",,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177859,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
@@ -17632,6 +17631,7 @@ Ramp SB I-15 at MP 242 (1 mi S of Santaquin)
 Utah Co.
 Left Shoulder
 Est. Clearance Time: 2:03 PM","4/11/24, 1:05 PM","4/11/24, 2:03 PM","4/11/24, 1:05 PM",,39.945085,-111.807481
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
