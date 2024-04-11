@@ -17561,7 +17561,6 @@ Est. Clearance Time: 6:00 PM","4/10/24, 4:53 PM","4/10/24, 6:00 PM","4/10/24, 4:
 UT-Incident--177834,Incidents,US 89,Sanpete County,US 89 at MP 289,"Crash
 US 89 at MP 289 (5 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 4:45 PM","4/10/24, 3:43 PM","4/10/24, 4:45 PM","4/10/24, 3:43 PM",,39.700719,-111.465839
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177841,Incidents,1900 W,Weber County,1900 W at 5500 S,"Crash
 SB 1900 W at 5500 S Weber Co.
 Right Lane Closed
@@ -17579,6 +17578,7 @@ UT-Incident--177845,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","4/10/24, 6:38 PM","4/10/24, 7:45 PM","4/10/24, 6:38 PM",,40.63583,-111.905066
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
