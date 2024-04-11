@@ -17642,7 +17642,6 @@ UT-Incident--177864,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","4/11/24, 3:43 PM","4/11/24, 4:45 PM","4/11/24, 3:43 PM",,40.74966,-111.90976
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177868,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 SB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
@@ -17652,9 +17651,13 @@ NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","4/11/24, 5:13 PM","4/11/24, 6:15 PM","4/11/24, 5:13 PM",,40.74966,-111.90976
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177867,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
 EB 1000 N at 400 W Tooele Co.
 Est. Clearance Time: 6:15 PM","4/11/24, 5:08 PM","4/11/24, 6:15 PM","4/11/24, 5:16 PM",,40.550976,-112.303886
+UT-Incident--177872,Incidents,5900 W,Weber County,5900 W at 5500 S,"Stalled Vehicle
+All Directions 5900 W at 5500 S (Hooper) Weber Co.
+Est. Clearance Time: 6:30 PM","4/11/24, 5:32 PM","4/11/24, 6:30 PM","4/11/24, 5:32 PM",,41.167647,-112.122704
 UT-Incident--177865,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
