@@ -17610,7 +17610,6 @@ UT-Incident--177855,Incidents,University Pkwy,Utah County,University Pkwy 801,"C
 EB University Pkwy at I-15 NB Off Ramp Utah Co.
 Left Lane Closed
 Est. Clearance Time: 10:00 AM","4/11/24, 9:01 AM","4/11/24, 10:00 AM","4/11/24, 9:01 AM",,40.275348,-111.716641
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177858,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
@@ -17619,6 +17618,7 @@ UT-Incident--177856,Incidents,US 40,Wasatch County,US 40 at MP 8,"Vehicle on fir
 WB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","4/11/24, 9:05 AM","4/11/24, 10:15 AM","4/11/24, 9:06 AM",,40.627915,-111.443541
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177854,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
