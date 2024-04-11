@@ -17548,7 +17548,6 @@ EB SR 201 at MP 16 (900 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","4/10/24, 5:04 PM","4/10/24, 6:00 PM","4/10/24, 5:04 PM",,40.724236,-111.924637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177832,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Lane Closed
@@ -17560,14 +17559,27 @@ Est. Clearance Time: 6:00 PM","4/10/24, 4:51 PM","4/10/24, 6:00 PM","4/10/24, 4:
 UT-Incident--177838,Incidents,I-80,Summit County,I-80 at MP 196,"Vehicle on fire
 WB I-80 at MP 196 (Utah/WY border) Summit Co.
 Est. Clearance Time: 6:00 PM","4/10/24, 4:53 PM","4/10/24, 6:00 PM","4/10/24, 4:53 PM",,41.249807,-111.059366
-UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
-EB SR 143 Closed
-Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
-Use Alt Route","4/8/24, 9:30 PM","4/12/24, 12:00 PM","4/9/24, 5:37 PM",,37.70724,-112.630188
-UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
-WB SR 143 Closed
-at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
-Use Alt Route","4/8/24, 9:32 PM","4/12/24, 12:00 PM","4/9/24, 5:37 PM",,37.819766,-112.43555
 UT-Incident--177834,Incidents,US 89,Sanpete County,US 89 at MP 289,"Crash
 US 89 at MP 289 (5 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 4:45 PM","4/10/24, 3:43 PM","4/10/24, 4:45 PM","4/10/24, 3:43 PM",,39.700719,-111.465839
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177841,Incidents,1900 W,Weber County,1900 W at 5500 S,"Crash
+SB 1900 W at 5500 S Weber Co.
+Right Lane Closed
+Est. Clearance Time: 7:15 PM","4/10/24, 6:04 PM","4/10/24, 7:15 PM","4/10/24, 6:04 PM",,0.0,0.0
+UT-Incident--177840,Incidents,7200 S,Salt Lake County,7200 S at Cottonwood St,"Crash
+EB 7200 S at Cottonwood St Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:00 PM","4/10/24, 6:00 PM","4/10/24, 7:00 PM","4/10/24, 6:00 PM",,40.620655,-111.899883
+UT-Incident--177844,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:35 PM","4/10/24, 6:26 PM","4/10/24, 7:35 PM","4/10/24, 6:26 PM",,40.649847,-111.90236
+UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
+EB SR 143 Closed
+Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
+Use Alt Route","4/8/24, 9:30 PM","4/20/24, 12:00 PM","4/10/24, 6:10 PM",,37.70724,-112.630188
+UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
+WB SR 143 Closed
+at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
+Use Alt Route","4/8/24, 9:32 PM","4/20/24, 12:00 PM","4/10/24, 6:10 PM",,37.819766,-112.43555
