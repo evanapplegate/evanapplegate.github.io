@@ -17734,7 +17734,6 @@ EB US 189 at MP 18 (Deer Creek Reservoir)
 Wasatch Co.
 Left Lane Closed
 Est. Clearance Time: 9:11 AM","4/12/24, 8:12 AM","4/12/24, 9:11 AM","4/12/24, 8:12 AM",,40.405503,-111.524184
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177885,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at 24th St Off Ramp (MP 343, Ogden) Weber Co.
 Right Shoulder
@@ -17747,6 +17746,7 @@ UT-Incident--177778,Incidents,SR 143,Garfield County,SR 143 at MP 51,"Other
 WB SR 143 Closed
 at MP 51 (Panguitch) to MP 34 (Panguich Lake) Garfield Co.
 Use Alt Route","4/8/24, 9:32 PM","4/20/24, 12:00 PM","4/10/24, 6:10 PM",,37.819766,-112.43555
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177891,Incidents,I-15,Utah County,I-15 at MP 243,"Crash
 NB I-15 at MP 243 (Center St / Santaquin) Utah Co.
