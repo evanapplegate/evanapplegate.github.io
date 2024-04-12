@@ -17725,7 +17725,6 @@ UT-Incident--177887,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (500 S) Salt Lake Co.
 Left shoulder
 Est. Clearance Time: 8:43 AM","4/12/24, 7:44 AM","4/12/24, 8:43 AM","4/12/24, 7:44 AM",,40.74966,-111.90976
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177888,Incidents,5415 S,Salt Lake County,5415 S at 4015 W/5400 S,"Crash
 WB 5400 S at 4015 W Salt Lake Co.
 Right Lane Closed
@@ -17735,6 +17734,7 @@ EB US 189 at MP 18 (Deer Creek Reservoir)
 Wasatch Co.
 Left Lane Closed
 Est. Clearance Time: 9:11 AM","4/12/24, 8:12 AM","4/12/24, 9:11 AM","4/12/24, 8:12 AM",,40.405503,-111.524184
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177885,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at 24th St Off Ramp (MP 343, Ogden) Weber Co.
