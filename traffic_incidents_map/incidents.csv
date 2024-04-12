@@ -17665,7 +17665,6 @@ UT-Incident--177871,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","4/11/24, 5:25 PM","4/11/24, 6:30 PM","4/11/24, 5:25 PM",,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177870,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
@@ -17686,6 +17685,7 @@ UT-Incident--177875,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:15 PM","4/11/24, 6:14 PM","4/11/24, 7:15 PM","4/11/24, 6:14 PM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
