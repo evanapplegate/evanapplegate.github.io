@@ -17677,7 +17677,6 @@ UT-Incident--177874,Incidents,SR 36,Tooele County,SR 36 at MP 61,"Crash
 SB SR 36 at MP 61 (Stansbury Park) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","4/11/24, 6:02 PM","4/11/24, 7:00 PM","4/11/24, 6:02 PM",,40.626191,-112.29223
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177872,Incidents,5900 W,Weber County,5900 W at 5500 S,"Stalled Vehicle
 All Directions 5900 W at 5500 S (Hooper) Weber Co.
 Est. Clearance Time: 8:30 PM","4/11/24, 5:32 PM","4/11/24, 8:30 PM","4/11/24, 7:01 PM",,41.167647,-112.122704
@@ -17685,6 +17684,7 @@ UT-Incident--177875,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:15 PM","4/11/24, 6:14 PM","4/11/24, 7:15 PM","4/11/24, 6:14 PM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
