@@ -17688,7 +17688,6 @@ UT-Incident--177879,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at 7200 S On Ramp (MP 297) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:27 PM","4/11/24, 9:28 PM","4/11/24, 10:27 PM","4/11/24, 9:28 PM",,40.607173,-111.905403
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177877,Incidents,I-15,Millard County,I-15 at MP 150,"Crash
 NB I-15 at MP 150 (4 mi NE of Kanosh) Millard Co.
 Est. Clearance Time: 9:45 PM","4/11/24, 8:44 PM","4/11/24, 9:45 PM","4/11/24, 8:44 PM",,38.803289,-112.513001
@@ -17698,6 +17697,7 @@ Est. Clearance Time: 11:15 PM","4/11/24, 10:15 PM","4/11/24, 11:15 PM","4/11/24,
 UT-Incident--177878,Incidents,US 89,Garfield County,US 89 at MP 145,"Crash
 Both Directions US 89 at MP 145 (13 miles S of Circleville) Garfield Co.
 Est. Clearance Time: 10:12 PM","4/11/24, 9:12 PM","4/11/24, 10:12 PM","4/11/24, 9:12 PM",,38.012555,-112.373215
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
