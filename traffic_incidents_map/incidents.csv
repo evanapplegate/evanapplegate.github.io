@@ -17701,12 +17701,16 @@ UT-Incident--177881,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
 SB I-15 at MP 348 (Harrisville Rd) Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 3:38 AM","4/12/24, 2:38 AM","4/12/24, 3:38 AM","4/12/24, 2:38 AM",,41.279812,-112.026318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177882,Incidents,I-15,Davis County,I-15 at MP 329,"Crash
 NB I-15 at MP 329 (550 S Layton) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 6:38 AM","4/12/24, 5:39 AM","4/12/24, 6:38 AM","4/12/24, 5:39 AM",,41.041629,-111.953074
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177883,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Stalled Vehicle
+EB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:28 AM","4/12/24, 6:29 AM","4/12/24, 7:28 AM","4/12/24, 6:29 AM",,40.740268,-111.674521
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
