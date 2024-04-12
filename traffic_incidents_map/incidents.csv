@@ -17717,11 +17717,15 @@ UT-Incident--177886,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:30 AM","4/12/24, 7:31 AM","4/12/24, 8:30 AM","4/12/24, 7:31 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177890,Incidents,US 89,Weber County,US 89 at MP 414,"Crash
 SB US 89 at MP 414 (24th / Ogden) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 9:22 AM","4/12/24, 8:24 AM","4/12/24, 9:22 AM","4/12/24, 8:24 AM",,41.223816,-111.970397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177887,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 (500 S) Salt Lake Co.
+Left shoulder
+Est. Clearance Time: 8:43 AM","4/12/24, 7:44 AM","4/12/24, 8:43 AM","4/12/24, 7:44 AM",,40.74966,-111.90976
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177888,Incidents,5415 S,Salt Lake County,5415 S at 4015 W/5400 S,"Crash
 WB 5400 S at 4015 W Salt Lake Co.
@@ -17731,10 +17735,6 @@ UT-Incident--177885,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at 24th St Off Ramp (MP 343, Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:03 AM","4/12/24, 7:04 AM","4/12/24, 9:03 AM","4/12/24, 8:22 AM",,41.218982,-112.004137
-UT-Incident--177887,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-NB I-15 at MP 307 (500 S) Salt Lake Co.
-Left shoulder
-Est. Clearance Time: 8:43 AM","4/12/24, 7:44 AM","4/12/24, 8:43 AM","4/12/24, 7:44 AM",,40.74966,-111.90976
 UT-Incident--177777,Incidents,SR 143,Garfield County,SR 143 at MP 34,"Other
 EB SR 143 Closed
 Between MP 34 (Panguitch Lake) and MP 51 (Panguitch) Garfield Co.
