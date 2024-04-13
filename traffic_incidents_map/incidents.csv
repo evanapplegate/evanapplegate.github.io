@@ -17852,7 +17852,6 @@ UT-Incident--177919,Incidents,US 40,Wasatch County,US 40 at MP 18,"Crash
 Both Directions US 40 at MP 18 (US- 189 Jct / Heber) Wasatch Co.
 Left Lane Closed
 Est. Clearance Time: 9:35 AM","4/13/24, 8:36 AM","4/13/24, 9:35 AM","4/13/24, 8:36 AM",,40.492161,-111.412613
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177921,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
 Ramp SB I-15 at MP 306 (1300 S Exit) Salt Lake Co.
 Right Shoulder
@@ -17862,7 +17861,12 @@ Ramp SB US 89 at MP 396 (Park Lane Exit) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 11:19 AM","4/13/24, 10:21 AM","4/13/24, 11:19 AM","4/13/24, 10:21 AM",,40.988877,-111.901278
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177923,Incidents,I-15,Davis County,I-15 at MP 334,"Animal in traffic
+NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
+Right Shoulder
+Est. Clearance Time: 11:47 AM","4/13/24, 10:49 AM","4/13/24, 11:47 AM","4/13/24, 10:50 AM",,41.102376,-112.003101
 UT-Incident--177918,Incidents,I-80,Tooele County,I-80 at MP 59,"Crash
 EB I-80 at MP 59 (18 mi E of Knolls) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 9:16 AM","4/13/24, 8:17 AM","4/13/24, 9:16 AM","4/13/24, 8:17 AM",,40.797552,-112.946717
+Est. Clearance Time: 9:16 AM","4/13/24, 8:17 AM","4/13/24, 9:16 AM","4/13/24, 8:17 AM",,,
