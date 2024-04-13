@@ -17879,7 +17879,6 @@ UT-Incident--177927,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 2,"Cras
 SB Legacy Pkwy at MP 2 (900 N) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:18 PM","4/13/24, 2:19 PM","4/13/24, 3:18 PM","4/13/24, 2:19 PM",,40.855369,-111.943437
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177926,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Left Lane Closed
@@ -17897,6 +17896,15 @@ UT-Incident--177930,Incidents,MAIN ST,Salt Lake County,MAIN ST at 4500 S/AUTO BL
 WB 4500 S at Main St Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:56 PM","4/13/24, 2:58 PM","4/13/24, 3:56 PM","4/13/24, 2:59 PM",,40.674391,-111.891211
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177933,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:00 PM","4/13/24, 3:59 PM","4/13/24, 5:00 PM","4/13/24, 3:59 PM",,40.480607,-111.902252
+UT-Incident--177934,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
+NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 5:15 PM","4/13/24, 4:01 PM","4/13/24, 5:15 PM","4/13/24, 4:01 PM",,39.977775,-111.770508
 UT-Incident--177931,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Crash
 Both Directions SR 210 Closed
  at MP 7 (Lisa Falls) Salt Lake Co.
