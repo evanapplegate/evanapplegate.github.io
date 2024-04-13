@@ -17805,7 +17805,6 @@ UT-Incident--177905,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
 SB I-15 at MP 354 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","4/12/24, 7:09 PM","4/12/24, 8:15 PM","4/12/24, 7:09 PM",,41.371541,-112.042879
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177906,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
 SB I-15 at MP 362 On Ramp (Brigham City) Box Elder Co.
 Est. Clearance Time: 9:25 PM","4/12/24, 8:12 PM","4/12/24, 9:25 PM","4/12/24, 8:12 PM",,41.485402,-112.05328
@@ -17813,6 +17812,7 @@ UT-Incident--177907,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 NB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:25 PM","4/12/24, 8:15 PM","4/12/24, 9:25 PM","4/12/24, 8:15 PM",,40.885849,-111.896677
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177908,Incidents,I-15,Millard County,I-15 at MP 154,"Crash
 SB I-15 at MP 154 (4 mi S of Meadow) Millard Co.
