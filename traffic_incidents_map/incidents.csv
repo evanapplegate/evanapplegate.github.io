@@ -17836,7 +17836,6 @@ UT-Incident--177916,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Left Shoulder
 Est. Clearance Time: 8:25 AM","4/13/24, 7:26 AM","4/13/24, 8:25 AM","4/13/24, 7:26 AM",,41.169225,-112.020449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177913,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
 NB I-15 at MP 318 (500 W, Bntfl) Davis Co.
 Right Shoulder
@@ -17846,10 +17845,15 @@ EB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
 Alternating traffic
 Est. Clearance Time: 8:29 AM","4/13/24, 7:30 AM","4/13/24, 8:29 AM","4/13/24, 7:32 AM",,39.980043,-111.353152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177918,Incidents,I-80,Tooele County,I-80 at MP 59,"Crash
 EB I-80 at MP 59 (18 mi E of Knolls) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:16 AM","4/13/24, 8:17 AM","4/13/24, 9:16 AM","4/13/24, 8:17 AM",,40.797552,-112.946717
+UT-Incident--177920,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
+SB SR 36 at MP 56 (1280 N) 
+Tooele Co.
+Est. Clearance Time: 10:14 AM","4/13/24, 9:16 AM","4/13/24, 10:14 AM","4/13/24, 9:16 AM",,40.554334,-112.297621
 UT-Incident--177919,Incidents,US 40,Wasatch County,US 40 at MP 18,"Crash
 Both Directions US 40 at MP 18 (US- 189 Jct / Heber) Wasatch Co.
 Left Lane Closed
