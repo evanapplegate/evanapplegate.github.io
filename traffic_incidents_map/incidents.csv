@@ -17785,7 +17785,6 @@ UT-Incident--177901,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Cras
 NB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","4/12/24, 5:03 PM","4/12/24, 6:00 PM","4/12/24, 5:12 PM",,40.869089,-111.939468
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177900,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
@@ -17799,3 +17798,12 @@ UT-Incident--177903,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","4/12/24, 6:05 PM","4/12/24, 7:15 PM","4/12/24, 6:05 PM",,40.722344,-111.904691
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177904,Incidents,I-15,Weber County,I-15 at MP 348,"Crash
+SB I-15 at MP 348 (Harrisville Rd) Weber Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","4/12/24, 6:39 PM","4/12/24, 7:45 PM","4/12/24, 6:39 PM",,41.286745,-112.026149
+UT-Incident--177905,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
+SB I-15 at MP 354 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 8:15 PM","4/12/24, 7:09 PM","4/12/24, 8:15 PM","4/12/24, 7:09 PM",,41.371541,-112.042879
