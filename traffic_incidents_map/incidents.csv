@@ -17781,7 +17781,6 @@ UT-Incident--177898,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
 NB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","4/12/24, 4:02 PM","4/12/24, 5:00 PM","4/12/24, 4:20 PM",,37.600834,-113.162952
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177901,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
 NB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Right Shoulder
@@ -17795,3 +17794,8 @@ UT-Incident--177902,Incidents,I-15,Davis County,I-15 at MP 325,"Crash
 NB I-15 at MP 325 (Shepard Ln) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 6:45 PM","4/12/24, 5:41 PM","4/12/24, 6:45 PM","4/12/24, 5:41 PM",,40.994182,-111.914296
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177903,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","4/12/24, 6:05 PM","4/12/24, 7:15 PM","4/12/24, 6:05 PM",,40.722344,-111.904691
