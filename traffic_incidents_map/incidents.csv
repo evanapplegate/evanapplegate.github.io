@@ -17887,7 +17887,6 @@ UT-Incident--177928,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
 WB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 3:22 PM","4/13/24, 2:23 PM","4/13/24, 3:22 PM","4/13/24, 2:23 PM",,40.68342,-111.462507
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177929,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 Ramp I-15 at MP 59 (200 N / Cedar City) Iron Co.
 Right Shoulder
@@ -17901,10 +17900,6 @@ UT-Incident--177933,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","4/13/24, 3:59 PM","4/13/24, 5:00 PM","4/13/24, 3:59 PM",,40.480607,-111.902252
-UT-Incident--177934,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
-NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 5:15 PM","4/13/24, 4:01 PM","4/13/24, 5:15 PM","4/13/24, 4:01 PM",,39.977775,-111.770508
 UT-Incident--177931,Incidents,SR 210,Salt Lake County,SR 210 at MP 7,"Crash
 Both Directions SR 210 Closed
  at MP 7 (Lisa Falls) Salt Lake Co.
@@ -17913,3 +17908,8 @@ UT-Incident--177932,Incidents,US 6,Utah County,US 6 at MP 174,"Crash
 NB US 6 at MP 174 (400 North, Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:18 PM","4/13/24, 3:20 PM","4/13/24, 4:18 PM","4/13/24, 3:20 PM",,40.119015,-111.638342
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177934,Incidents,I-15,Utah County,I-15 at MP 245,"Crash
+NB I-15 at MP 245 (1 mi N of Santaquin) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 5:15 PM","4/13/24, 4:01 PM","4/13/24, 5:15 PM","4/13/24, 4:01 PM",,39.977775,-111.770508
