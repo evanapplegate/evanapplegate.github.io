@@ -17932,7 +17932,6 @@ Est. Clearance Time: 9:35 PM","4/13/24, 8:20 PM","4/13/24, 9:35 PM","4/13/24, 8:
 UT-Incident--177942,Incidents,I-15,Box Elder County,I-15 at MP 366,"Crash
 NB I-15 at MP 366 (Brigham City) Box Elder Co.
 Est. Clearance Time: 4/14/2024 12:35 AM","4/13/24, 11:11 PM","4/14/24, 12:35 AM","4/13/24, 11:11 PM",,41.541993,-112.067259
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177946,Incidents,SR 199,Tooele County,SR 199 at MP 17,"Crash
 Both Directions SR 199 at MP 17 (Rush Valley) Tooele Co.
 Est. Clearance Time: 11:30 AM","4/14/24, 7:25 AM","4/14/24, 11:30 AM","4/14/24, 8:05 AM",,40.336071,-112.502127
@@ -17940,6 +17939,7 @@ UT-Incident--177947,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Crash
 EB SR 201 at MP 1 (I-80) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:56 AM","4/14/24, 8:57 AM","4/14/24, 9:56 AM","4/14/24, 9:01 AM",,40.725554,-112.204975
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177953,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Crash
 NB Legacy Pkwy at MP 1 (Center St) Davis Co.
