@@ -18096,7 +18096,6 @@ UT-Incident--178001,Incidents,I-15,Utah County,I-15 at MP 251,"Crash
 SB I-15 at MP 251 (Main St /Payson) Utah Co.
 Left Shoulder
 Est. Clearance Time: 4:02 PM","4/15/24, 3:02 PM","4/15/24, 4:02 PM","4/15/24, 3:02 PM",,40.056219,-111.731751
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178000,Incidents,I-15,Utah County,I-15 at MP 251,"Crash
 NB I-15 at MP 251 (Main St /Payson) Utah Co.
 Left Shoulder
@@ -18109,6 +18108,7 @@ UT-Incident--177998,Incidents,US 6,Utah County,US 6 at MP 178,"Crash
 Both Directions US 6 at MP 178 (US-89, Spanish Fork) Utah Co.
 EB Open, WB 1 Lane Open
 Est. Clearance Time: 3:30 PM","4/15/24, 2:03 PM","4/15/24, 3:30 PM","4/15/24, 3:03 PM",,40.081737,-111.586664
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178003,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
