@@ -17983,15 +17983,10 @@ SB I-15 at MP 358 (Willard) Box Elder Co.
 Left Lane Closed
 Est. Clearance Time: 7:40 AM","4/15/24, 6:37 AM","4/15/24, 7:40 AM","4/15/24, 6:37 AM",,41.42749,-112.056768
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177965,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 7:33 AM","4/15/24, 6:37 AM","4/15/24, 7:33 AM","4/15/24, 6:37 AM",,41.386011,-112.042059
-UT-Incident--177967,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
-EB I-215 N at MP 28 (At I-15, SLC) Davis Co.
-Right Lane Closed
-Est. Clearance Time: 7:45 AM","4/15/24, 6:43 AM","4/15/24, 7:45 AM","4/15/24, 6:45 AM",,40.834209,-111.924688
 UT-Incident--177962,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
@@ -17999,3 +17994,16 @@ Est. Clearance Time: 7:12 AM","4/15/24, 6:13 AM","4/15/24, 7:12 AM","4/15/24, 6:
 UT-Incident--177964,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"Crash
 NB Legacy Pkwy at MP 10 (W 1470 S, Farmington) Davis Co.
 Est. Clearance Time: 7:30 AM","4/15/24, 6:30 AM","4/15/24, 7:30 AM","4/15/24, 6:30 AM",,40.957721,-111.892575
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177969,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 8:30 AM","4/15/24, 7:31 AM","4/15/24, 8:30 AM","4/15/24, 7:34 AM",,40.215696,-111.665414
+UT-Incident--177970,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:40 AM","4/15/24, 7:41 AM","4/15/24, 8:40 AM","4/15/24, 7:41 AM",,40.480607,-111.902252
+UT-Incident--177967,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
+EB I-215 N at MP 28 (At I-15, SLC) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 7:45 AM","4/15/24, 6:43 AM","4/15/24, 7:45 AM","4/15/24, 6:45 AM",,40.834209,-111.924688
