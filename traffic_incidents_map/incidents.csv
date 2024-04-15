@@ -17993,7 +17993,6 @@ Est. Clearance Time: 7:12 AM","4/15/24, 6:13 AM","4/15/24, 7:12 AM","4/15/24, 6:
 UT-Incident--177964,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"Crash
 NB Legacy Pkwy at MP 10 (W 1470 S, Farmington) Davis Co.
 Est. Clearance Time: 7:30 AM","4/15/24, 6:30 AM","4/15/24, 7:30 AM","4/15/24, 6:30 AM",,40.957721,-111.892575
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177970,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14500 S) Salt Lake Co.
 Left Shoulder
@@ -18003,6 +18002,11 @@ SB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:55 AM","4/15/24, 7:56 AM","4/15/24, 8:55 AM","4/15/24, 7:56 AM",,40.803702,-111.949406
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177972,Incidents,US 89,Weber County,US 89 at MP 422,"Utility Work
+SB US 89 at MP 422 (3900 N / Pleasant View) Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:08 AM","4/15/24, 8:11 AM","4/15/24, 9:08 AM","4/15/24, 8:11 AM",,41.328141,-112.021869
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177969,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Left Shoulder
@@ -18010,8 +18014,4 @@ Est. Clearance Time: 8:30 AM","4/15/24, 7:31 AM","4/15/24, 8:30 AM","4/15/24, 7:
 UT-Incident--177967,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
 EB I-215 N at MP 28 (At I-15, SLC) Davis Co.
 Right Lane Closed
-Est. Clearance Time: 7:45 AM","4/15/24, 6:43 AM","4/15/24, 7:45 AM","4/15/24, 6:45 AM",,40.834209,-111.924688
-UT-Incident--177972,Incidents,US 89,Weber County,US 89 at MP 422,"Utility Work
-SB US 89 at MP 422 (3900 N / Pleasant View) Weber Co.
-Right Shoulder
-Est. Clearance Time: 9:08 AM","4/15/24, 8:11 AM","4/15/24, 9:08 AM","4/15/24, 8:11 AM",,41.328141,-112.021869
+Est. Clearance Time: 7:45 AM","4/15/24, 6:43 AM","4/15/24, 7:45 AM","4/15/24, 6:45 AM",,,
