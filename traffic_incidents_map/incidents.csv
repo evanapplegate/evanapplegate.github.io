@@ -18056,7 +18056,6 @@ Est. Clearance Time: 12:20 PM","4/15/24, 11:17 AM","4/15/24, 12:20 PM","4/15/24,
 UT-Incident--177990,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Est. Clearance Time: 12:20 PM","4/15/24, 11:21 AM","4/15/24, 12:20 PM","4/15/24, 11:22 AM",,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177981,Incidents,I-15,Beaver County,I-15 at MP 104,"Crash
 NB I-15 at MP 104 (4 mi S of Beaver) Beaver Co.
 Est. Clearance Time: 11:03 AM","4/15/24, 10:03 AM","4/15/24, 11:03 AM","4/15/24, 10:03 AM",,38.183374,-112.63327
@@ -18068,9 +18067,18 @@ EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 12:20 PM","4/15/24, 11:20 AM","4/15/24, 12:20 PM","4/15/24, 11:20 AM",,40.560962,-111.427534
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177994,Incidents,800 N,Utah County,800 N 1351,"Crash
+EB 800 N at I-15 Utah Co.
+Center Lanes Closed
+Est. Clearance Time: 1:09 PM","4/15/24, 12:10 PM","4/15/24, 1:09 PM","4/15/24, 12:10 PM",,40.311803,-111.727973
 UT-Incident--177993,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Est. Clearance Time: 12:55 PM","4/15/24, 11:57 AM","4/15/24, 12:55 PM","4/15/24, 11:59 AM",,40.238135,-111.689206
+UT-Incident--177995,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
+WB I-215 S at MP 11 (300 W) Salt Lake Co.
+Rightr Lane Closed
+Est. Clearance Time: 1:15 PM","4/15/24, 12:17 PM","4/15/24, 1:15 PM","4/15/24, 12:17 PM",,40.634605,-111.8952
 UT-Incident--177992,Incidents,SR 257,Millard County,SR 257 at MP 34,"Crash
 Both Directions SR 257 at MP 34 (34 MI N of Milford) Millard Co.
 Est. Clearance Time: 1:00 PM","4/15/24, 11:28 AM","4/15/24, 1:00 PM","4/15/24, 11:28 AM",,38.846802,-112.843527
