@@ -17958,7 +17958,6 @@ UT-Incident--177958,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:30 AM","4/15/24, 3:53 AM","4/15/24, 5:30 AM","4/15/24, 5:04 AM",,40.750858,-111.910812
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177959,Incidents,I-15,Box Elder County,I-15 at MP 366,"Crash
 NB I-15 at MP 366 (Brigham City) Box Elder Co.
 Left Lane Closed
@@ -17972,10 +17971,23 @@ UT-Incident--177961,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 SB I-15 at MP 343 (Ogden) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 7:25 AM","4/15/24, 6:11 AM","4/15/24, 7:25 AM","4/15/24, 6:11 AM",,41.218498,-112.004065
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177963,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at MP 271 (800 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:20 AM","4/15/24, 6:19 AM","4/15/24, 7:20 AM","4/15/24, 6:19 AM",,40.301853,-111.72593
+UT-Incident--177965,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+SB I-15 at MP 355 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 7:33 AM","4/15/24, 6:37 AM","4/15/24, 7:33 AM","4/15/24, 6:37 AM",,41.386011,-112.042059
+UT-Incident--177966,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
+SB I-15 at MP 358 (Willard) Box Elder Co.
+Left Lane Closed
+Est. Clearance Time: 7:40 AM","4/15/24, 6:37 AM","4/15/24, 7:40 AM","4/15/24, 6:37 AM",,41.42749,-112.056768
+UT-Incident--177967,Incidents,I-215 N,Davis County,I-215 N at MP 28,"Crash
+EB I-215 N at MP 28 (At I-15, SLC) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 7:45 AM","4/15/24, 6:43 AM","4/15/24, 7:45 AM","4/15/24, 6:45 AM",,40.834209,-111.924688
 UT-Incident--177962,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
