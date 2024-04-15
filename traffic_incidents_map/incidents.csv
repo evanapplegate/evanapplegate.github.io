@@ -18046,10 +18046,10 @@ UT-Incident--177986,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 NB Mountain View Corridor Hwy at Porter Rockwell Blvd Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 11:28 AM","4/15/24, 10:30 AM","4/15/24, 11:28 AM","4/15/24, 10:30 AM",,40.463095,-111.952894
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177987,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
 EB I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 12:00 PM","4/15/24, 11:00 AM","4/15/24, 12:00 PM","4/15/24, 11:00 AM",,38.60478,-112.541903
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177981,Incidents,I-15,Beaver County,I-15 at MP 104,"Crash
 NB I-15 at MP 104 (4 mi S of Beaver) Beaver Co.
@@ -18058,3 +18058,16 @@ UT-Incident--177988,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 NB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 12:20 PM","4/15/24, 11:17 AM","4/15/24, 12:20 PM","4/15/24, 11:17 AM",,40.203376,-111.655441
+UT-Incident--177991,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
+WB I-70 at MP 4 (Cove Fort) Millard Co.
+Est. Clearance Time: 12:30 PM","4/15/24, 11:23 AM","4/15/24, 12:30 PM","4/15/24, 11:23 AM",,38.605367,-112.542002
+UT-Incident--177990,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
+EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
+Est. Clearance Time: 12:20 PM","4/15/24, 11:21 AM","4/15/24, 12:20 PM","4/15/24, 11:22 AM",,40.765772,-111.934049
+UT-Incident--177992,Incidents,SR 257,Millard County,SR 257 at MP 34,"Crash
+Both Directions SR 257 at MP 34 (34 MI N of Milford) Millard Co.
+Est. Clearance Time: 1:00 PM","4/15/24, 11:28 AM","4/15/24, 1:00 PM","4/15/24, 11:28 AM",,38.846802,-112.843527
+UT-Incident--177989,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 12:20 PM","4/15/24, 11:20 AM","4/15/24, 12:20 PM","4/15/24, 11:20 AM",,40.560962,-111.427534
