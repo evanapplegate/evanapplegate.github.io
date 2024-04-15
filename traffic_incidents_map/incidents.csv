@@ -17962,7 +17962,6 @@ UT-Incident--177959,Incidents,I-15,Box Elder County,I-15 at MP 366,"Crash
 NB I-15 at MP 366 (Brigham City) Box Elder Co.
 Left Lane Closed
 Est. Clearance Time: 6:50 AM","4/15/24, 5:47 AM","4/15/24, 6:50 AM","4/15/24, 5:47 AM",,41.541993,-112.067259
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177960,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Left Lane Closed
@@ -17972,6 +17971,11 @@ SB I-15 at MP 343 (Ogden) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 7:25 AM","4/15/24, 6:11 AM","4/15/24, 7:25 AM","4/15/24, 6:11 AM",,41.218498,-112.004065
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177968,Incidents,3600 W,Salt Lake County,3600 W at 11400 S,"Crash
+Both Directions 3600 W at 11400 S Salt Lake Co.
+Center Lanes Closed
+Est. Clearance Time: 8:15 AM","4/15/24, 6:59 AM","4/15/24, 8:15 AM","4/15/24, 7:02 AM",,40.544179,-111.976741
 UT-Incident--177963,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at MP 271 (800 N / Orem) Utah Co.
 Right Shoulder
