@@ -18035,7 +18035,6 @@ Est. Clearance Time: 11:10 AM","4/15/24, 10:10 AM","4/15/24, 11:10 AM","4/15/24,
 UT-Incident--177984,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Est. Clearance Time: 11:15 AM","4/15/24, 10:15 AM","4/15/24, 11:15 AM","4/15/24, 10:15 AM",,40.238135,-111.689206
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177985,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 NB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 11:30 AM","4/15/24, 10:22 AM","4/15/24, 11:30 AM","4/15/24, 10:22 AM",,38.615576,-112.609394
@@ -18048,9 +18047,14 @@ NB Mountain View Corridor Hwy at Porter Rockwell Blvd Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 11:28 AM","4/15/24, 10:30 AM","4/15/24, 11:28 AM","4/15/24, 10:30 AM",,40.463095,-111.952894
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--177981,Incidents,I-15,Beaver County,I-15 at MP 104,"Crash
-NB I-15 at MP 104 (4 mi S of Beaver) Beaver Co.
-Est. Clearance Time: 11:03 AM","4/15/24, 10:03 AM","4/15/24, 11:03 AM","4/15/24, 10:03 AM",,38.183374,-112.63327
 UT-Incident--177987,Incidents,I-70,Millard County,I-70 at MP 4,"Crash
 EB I-70 at MP 4 (Cove Fort) Millard Co.
 Est. Clearance Time: 12:00 PM","4/15/24, 11:00 AM","4/15/24, 12:00 PM","4/15/24, 11:00 AM",,38.60478,-112.541903
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177981,Incidents,I-15,Beaver County,I-15 at MP 104,"Crash
+NB I-15 at MP 104 (4 mi S of Beaver) Beaver Co.
+Est. Clearance Time: 11:03 AM","4/15/24, 10:03 AM","4/15/24, 11:03 AM","4/15/24, 10:03 AM",,38.183374,-112.63327
+UT-Incident--177988,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
+NB I-15 at MP 263 (University Ave / Provo) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 12:20 PM","4/15/24, 11:17 AM","4/15/24, 12:20 PM","4/15/24, 11:17 AM",,40.203376,-111.655441
