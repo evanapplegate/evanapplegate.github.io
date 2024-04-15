@@ -18109,7 +18109,6 @@ Both Directions US 6 at MP 178 (US-89, Spanish Fork) Utah Co.
 EB Open, WB 1 Lane Open
 Est. Clearance Time: 3:30 PM","4/15/24, 2:03 PM","4/15/24, 3:30 PM","4/15/24, 3:03 PM",,40.081737,-111.586664
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178003,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
@@ -18118,3 +18117,4 @@ UT-Incident--178004,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:24 PM","4/15/24, 4:25 PM","4/15/24, 5:24 PM","4/15/24, 4:25 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
