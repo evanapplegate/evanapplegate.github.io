@@ -18085,7 +18085,6 @@ NB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Lane Partially Blocked
 Est. Clearance Time: 2:43 PM","4/15/24, 1:44 PM","4/15/24, 2:43 PM","4/15/24, 1:44 PM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177996,Incidents,CENTER ST,Utah County,CENTER ST,"Crash
 SB I-15 Center St. On-Ramp (Provo) Utah Co.
 Left Shoulder
@@ -18094,6 +18093,7 @@ UT-Incident--177999,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:25 PM","4/15/24, 2:24 PM","4/15/24, 3:25 PM","4/15/24, 2:24 PM",,40.703296,-111.95315
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177998,Incidents,US 6,Utah County,US 6 at MP 178,"Crash
 Both Directions US 6 at MP 178 (US-89, Spanish Fork) Utah Co.
 Alternating Traffic
