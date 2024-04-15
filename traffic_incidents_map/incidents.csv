@@ -18017,7 +18017,6 @@ UT-Incident--177973,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 9:45 AM","4/15/24, 8:44 AM","4/15/24, 9:45 AM","4/15/24, 8:45 AM",,38.617509,-112.609493
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--177975,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
@@ -18026,6 +18025,14 @@ UT-Incident--177976,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Shoulder
 Est. Clearance Time: 10:30 AM","4/15/24, 9:27 AM","4/15/24, 10:30 AM","4/15/24, 9:27 AM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--177980,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
+NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
+Left Shoulder
+Est. Clearance Time: 11:00 AM","4/15/24, 9:54 AM","4/15/24, 11:00 AM","4/15/24, 9:55 AM",,40.262286,-111.70752
+UT-Incident--177981,Incidents,I-15,Beaver County,I-15 at MP 104,"Crash
+NB I-15 at MP 104 (4 mi S of Beaver) Beaver Co.
+Est. Clearance Time: 11:03 AM","4/15/24, 10:03 AM","4/15/24, 11:03 AM","4/15/24, 10:03 AM",,38.183374,-112.63327
 UT-Incident--177977,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Left Shoulder
