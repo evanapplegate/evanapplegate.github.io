@@ -18154,7 +18154,6 @@ UT-Incident--178016,Incidents,I-15 NB X250 On Main St Ramp,Utah County,I-15 NB X
 SB I-15 Main St On Ramp (MP 250) Utah Co.
 Est. Clearance Time: 9:40 AM","4/16/24, 8:38 AM","4/16/24, 9:40 AM","4/16/24, 8:38 AM",,40.054595,-111.732238
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178019,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Left Shoulder
@@ -18162,3 +18161,7 @@ Est. Clearance Time: 10:15 AM","4/16/24, 9:16 AM","4/16/24, 10:15 AM","4/16/24, 
 UT-Incident--178018,Incidents,US 40,Duchesne County,US 40 at MP 78,"Crash
 US 40 at MP 78 (3 mi W of Starvation) Duchesne Co.
 Est. Clearance Time: 10:15 AM","4/16/24, 9:12 AM","4/16/24, 10:15 AM","4/16/24, 9:12 AM",,40.172192,-110.556108
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178020,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Est. Clearance Time: 10:35 AM","4/16/24, 9:35 AM","4/16/24, 10:35 AM","4/16/24, 9:36 AM",,40.373184,-111.808465
