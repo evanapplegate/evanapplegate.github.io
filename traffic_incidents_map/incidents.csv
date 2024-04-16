@@ -18188,7 +18188,6 @@ Est. Clearance Time: 5:00 PM","4/16/24, 3:55 PM","4/16/24, 5:00 PM",,,40.746426,
 UT-Incident--178032,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 100,"Crash
 SB Washington Blvd at 400 N Weber Co.
 Est. Clearance Time: 5:00 PM","4/16/24, 3:56 PM","4/16/24, 5:00 PM",,,41.26149,-111.9696
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178026,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Est. Clearance Time: 5:00 PM","4/16/24, 3:38 PM","4/16/24, 5:00 PM","4/16/24, 4:20 PM",,40.63583,-111.905066
@@ -18208,6 +18207,7 @@ Est. Clearance Time: 5:30 PM","4/16/24, 3:41 PM","4/16/24, 5:30 PM","4/16/24, 3:
 UT-Incident--178029,Incidents,I-15,Beaver County,I-15 at MP 122,"Crash
 SB I-15 at MP 122 (10 mi S of cove fort) Beaver Co.
 Est. Clearance Time: 5:15 PM","4/16/24, 3:45 PM","4/16/24, 5:15 PM","4/16/24, 4:52 PM",,38.43566,-112.634851
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178033,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -18216,3 +18216,6 @@ UT-Incident--178034,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","4/16/24, 4:40 PM","4/16/24, 5:45 PM","4/16/24, 4:40 PM",,40.763745,-111.914284
+UT-Incident--178036,Incidents,PIGEON HOLLOW RD,Sanpete County,PIGEON HOLLOW RD at HWY 132/US 89,"Crash
+SB US 89 at Hwy 132 Sanpete Co.
+Est. Clearance Time: 7:00 PM","4/16/24, 5:16 PM","4/16/24, 7:00 PM","4/16/24, 5:17 PM",,39.421878,-111.558915
