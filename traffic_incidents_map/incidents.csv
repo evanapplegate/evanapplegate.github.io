@@ -18153,7 +18153,6 @@ Est. Clearance Time: 9:40 AM","4/16/24, 8:39 AM","4/16/24, 9:40 AM","4/16/24, 8:
 UT-Incident--178016,Incidents,I-15 NB X250 On Main St Ramp,Utah County,I-15 NB X250 On Main St Ramp at Main St,"Crash
 SB I-15 Main St On Ramp (MP 250) Utah Co.
 Est. Clearance Time: 9:40 AM","4/16/24, 8:38 AM","4/16/24, 9:40 AM","4/16/24, 8:38 AM",,40.054595,-111.732238
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178019,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Left Shoulder
@@ -18165,3 +18164,7 @@ Est. Clearance Time: 10:15 AM","4/16/24, 9:12 AM","4/16/24, 10:15 AM","4/16/24, 
 UT-Incident--178020,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Est. Clearance Time: 10:35 AM","4/16/24, 9:35 AM","4/16/24, 10:35 AM","4/16/24, 9:36 AM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178021,Incidents,31st St,Weber County,31st St at Wall Ave,"Crash
+SB 31st St at Wall Ave Weber Co.
+Est. Clearance Time: 10:55 AM","4/16/24, 9:54 AM","4/16/24, 10:55 AM","4/16/24, 9:54 AM",,41.208227,-111.979229
