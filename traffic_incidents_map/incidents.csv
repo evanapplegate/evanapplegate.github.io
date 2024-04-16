@@ -18132,7 +18132,6 @@ UT-Incident--178010,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Stalled Vehi
 NB I-15 at 5300 S Off Ramp (MP 300) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 1:42 AM","4/16/24, 12:43 AM","4/16/24, 1:42 AM","4/16/24, 1:11 AM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178012,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Est. Clearance Time: 3:08 AM","4/16/24, 2:09 AM","4/16/24, 3:08 AM","4/16/24, 2:09 AM",,40.238135,-111.689206
@@ -18141,3 +18140,4 @@ UT-Incident--178011,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at US-89 On Ramp (MP 313) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:00 AM","4/16/24, 1:25 AM","4/16/24, 4:00 AM","4/16/24, 2:40 AM",,40.82973,-111.915947
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
