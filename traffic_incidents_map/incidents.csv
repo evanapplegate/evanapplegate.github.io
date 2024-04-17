@@ -18279,7 +18279,6 @@ UT-Incident--178052,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:19 AM","4/17/24, 7:21 AM","4/17/24, 8:19 AM",,,40.630157,-111.858352
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178054,Incidents,Hwy 56,Iron County,Hwy 56 at Lund Hwy/Westview Dr,"Crash
 EB Hwy 56 at Lund Hwy/Westview Dr Iron Co.
 Right Shoulder
@@ -18289,9 +18288,14 @@ SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","4/17/24, 8:58 AM","4/17/24, 10:00 AM",,,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178057,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
-SB I-15 at MP 362 (Brigham City) Box Elder Co.
-Est. Clearance Time: 10:15 AM","4/17/24, 9:12 AM","4/17/24, 10:15 AM","4/17/24, 9:12 AM",,41.485402,-112.05328
 UT-Incident--178056,Incidents,I-84,Box Elder County,I-84 at MP 32,"Vehicle on fire
 EB I-84 at MP 32 (18 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:10 AM","4/17/24, 9:03 AM","4/17/24, 10:10 AM","4/17/24, 9:03 AM",,41.801936,-112.311851
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178057,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
+SB I-15 at MP 362 (Brigham City) Box Elder Co.
+Est. Clearance Time: 10:15 AM","4/17/24, 9:12 AM","4/17/24, 10:15 AM","4/17/24, 9:12 AM",,41.485402,-112.05328
+UT-Incident--178058,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:30 AM","4/17/24, 9:23 AM","4/17/24, 10:30 AM","4/17/24, 9:23 AM",,40.777705,-111.910735
