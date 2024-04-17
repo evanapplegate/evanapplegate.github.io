@@ -18221,7 +18221,6 @@ Est. Clearance Time: 6:15 PM","4/16/24, 5:22 PM","4/16/24, 6:15 PM","4/16/24, 5:
 UT-Incident--178038,Incidents,STATE ST,Davis County,STATE ST 551,"Crash
 SB State St at 500 S Davis Co.
 Est. Clearance Time: 6:30 PM","4/16/24, 5:29 PM","4/16/24, 6:30 PM","4/16/24, 5:30 PM",,41.105292,-112.017297
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178041,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 EB 5600 S at 3500 W Weber Co.
 Est. Clearance Time: 7:15 PM","4/16/24, 6:13 PM","4/16/24, 7:15 PM","4/16/24, 6:13 PM",,41.161599,-112.06442
@@ -18241,3 +18240,4 @@ UT-Incident--178042,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 SB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 7:45 PM","4/16/24, 6:47 PM","4/16/24, 7:45 PM","4/16/24, 6:47 PM",,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
