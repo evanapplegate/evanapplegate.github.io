@@ -18291,10 +18291,6 @@ UT-Incident--178056,Incidents,I-84,Box Elder County,I-84 at MP 32,"Vehicle on fi
 EB I-84 at MP 32 (18 mi N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:10 AM","4/17/24, 9:03 AM","4/17/24, 10:10 AM","4/17/24, 9:03 AM",,41.801936,-112.311851
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178057,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
-SB I-15 at MP 362 (Brigham City) Box Elder Co.
-Est. Clearance Time: 10:15 AM","4/17/24, 9:12 AM","4/17/24, 10:15 AM","4/17/24, 9:12 AM",,41.485402,-112.05328
 UT-Incident--178058,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
@@ -18303,3 +18299,7 @@ UT-Incident--178059,Incidents,I-80,Summit County,I-80 at MP 141,"Road Maintenanc
 EB I-80 Closed at Exit 141 (Jeremy Ranch / Park City) Summit Co.
 All Vehicles Must Exit.
 Use Round-About to Re-Enter Freeway.","4/17/24, 10:05 AM","4/17/24, 10:59 AM","4/17/24, 10:05 AM",,40.755521,-111.587294
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178057,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
+SB I-15 at MP 362 (Brigham City) Box Elder Co.
+Est. Clearance Time: 11:30 AM","4/17/24, 9:12 AM","4/17/24, 11:30 AM","4/17/24, 10:16 AM",,41.485402,-112.05328
