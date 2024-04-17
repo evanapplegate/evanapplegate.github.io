@@ -18268,16 +18268,20 @@ UT-Incident--178051,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:10 AM","4/17/24, 7:09 AM","4/17/24, 8:10 AM","4/17/24, 7:09 AM",,40.718237,-112.076122
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178050,Incidents,I-15 NB X265 Off Center St EB Ramp,Utah County,I-15 NB X265 Off Center St EB Ramp at Center St,"Crash
 SB I-15 Center St (MP 265) Off Ramp (Utah Co)
 Right Shoulder
 Est. Clearance Time: 8:10 AM","4/17/24, 7:04 AM","4/17/24, 8:10 AM","4/17/24, 7:04 AM",,40.227489,-111.678367
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--178054,Incidents,Hwy 56,Iron County,Hwy 56 at Lund Hwy/Westview Dr,"Crash
+EB Hwy 56 at Lund Hwy/Westview Dr Iron Co.
+Right Shoulder
+Est. Clearance Time: 9:10 AM","4/17/24, 8:07 AM","4/17/24, 9:10 AM",,,37.685033,-113.110292
 UT-Incident--178052,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 EB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 8:19 AM","4/17/24, 7:21 AM","4/17/24, 8:19 AM","4/17/24, 7:27 AM",,40.630157,-111.858352
+Est. Clearance Time: 8:19 AM","4/17/24, 7:21 AM","4/17/24, 8:19 AM",,,40.630157,-111.858352
 UT-Incident--178053,Incidents,SR 73,Utah County,SR 73 at MP 22,"Crash
 SR 73 at MP 22 (2500 N in Fairfield) Utah Co.
-Est. Clearance Time: 8:40 AM","4/17/24, 7:41 AM","4/17/24, 8:40 AM","4/17/24, 7:41 AM",,40.279748,-112.095252
+Est. Clearance Time: 8:40 AM","4/17/24, 7:41 AM","4/17/24, 8:40 AM",,,40.279748,-112.095252
