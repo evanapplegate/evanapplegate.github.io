@@ -18298,7 +18298,6 @@ UT-Incident--178059,Incidents,I-80,Summit County,I-80 at MP 141,"Road Maintenanc
 EB I-80 Closed at Exit 141 (Jeremy Ranch / Park City) Summit Co.
 All Vehicles Must Exit.
 Use Round-About to Re-Enter Freeway.","4/17/24, 10:05 AM","4/17/24, 10:59 AM","4/17/24, 10:05 AM",,40.755521,-111.587294
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178060,Incidents,I-15 SB X278 Off Main St Ramp,Utah County,I-15 SB X278 Off Main St Ramp at Main St,"Crash
 SB I-15 Main St Off Ramp at MP 278 (Utah Co)
 Est. Clearance Time: 11:35 AM","4/17/24, 10:35 AM","4/17/24, 11:35 AM","4/17/24, 10:35 AM",,40.379059,-111.822842
@@ -18306,3 +18305,8 @@ Est. Clearance Time: 11:35 AM","4/17/24, 10:35 AM","4/17/24, 11:35 AM","4/17/24,
 UT-Incident--178057,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
 SB I-15 at MP 362 (Brigham City) Box Elder Co.
 Est. Clearance Time: 11:30 AM","4/17/24, 9:12 AM","4/17/24, 11:30 AM","4/17/24, 10:16 AM",,41.485402,-112.05328
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178061,Incidents,I-15,Utah County,I-15 at MP 267,"Medical
+NB I-15 at MP 267 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 12:10 PM","4/17/24, 11:11 AM","4/17/24, 12:10 PM","4/17/24, 11:11 AM",,40.251153,-111.695664
