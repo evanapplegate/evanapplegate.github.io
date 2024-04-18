@@ -18316,7 +18316,6 @@ UT-Incident--178063,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Stalled
 SB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:55 PM","4/17/24, 2:43 PM","4/17/24, 3:55 PM","4/17/24, 2:43 PM",,40.674449,-111.952751
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178066,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -18334,6 +18333,11 @@ UT-Incident--178069,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Left Shoulder
 Est. Clearance Time: 7:00 PM","4/17/24, 5:52 PM","4/17/24, 7:00 PM","4/17/24, 5:52 PM",,41.182676,-112.014444
+UT-Incident--178071,Incidents,SR 126,Weber County,SR 126 at MP 9,"Crash
+SB SR 126 at MP 9 (Roy) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 7:15 PM","4/17/24, 6:01 PM","4/17/24, 7:15 PM","4/17/24, 6:01 PM",,41.165417,-112.026027
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178064,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 EB I-80 at MP 191 (Wasatch) Summit Co.
 Right Lane Closed
@@ -18342,7 +18346,7 @@ UT-Incident--178072,Incidents,I-80,Salt Lake County,I-80 at MP 130,"Crash
 WB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:10 PM","4/17/24, 6:14 PM","4/17/24, 7:10 PM","4/17/24, 6:14 PM",,40.7252,-111.771166
-UT-Incident--178071,Incidents,SR 126,Weber County,SR 126 at MP 9,"Crash
-SB SR 126 at MP 9 (Roy) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 7:15 PM","4/17/24, 6:01 PM","4/17/24, 7:15 PM","4/17/24, 6:01 PM",,41.165417,-112.026027
+UT-Incident--178073,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
+WB I-80 at MP 131 (Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:35 PM","4/17/24, 7:24 PM","4/17/24, 8:35 PM","4/17/24, 7:24 PM",,40.732387,-111.755095
