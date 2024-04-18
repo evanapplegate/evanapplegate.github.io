@@ -18353,7 +18353,6 @@ NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4/18/2024 12:20 AM","4/17/24, 11:21 PM","4/18/24, 12:20 AM","4/17/24, 11:21 PM",,40.122652,-111.658929
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178077,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at 5600 S Off Ramp (MP 338, Roy) Weber Co.
 Right Shoulder
@@ -18362,3 +18361,7 @@ UT-Incident--178076,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 SB I-215 W at 3500 S On Ramp (MP 17) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:26 AM","4/18/24, 5:28 AM","4/18/24, 6:26 AM","4/18/24, 5:28 AM",,40.688869,-111.951947
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--178078,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 1401,"Crash
+NB WASHINGTON BLVD at 1100 N (Ogden) Weber Co.
+Est. Clearance Time: 7:02 AM","4/18/24, 6:03 AM","4/18/24, 7:02 AM",,,41.286791,-111.969105
