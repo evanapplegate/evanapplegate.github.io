@@ -18415,7 +18415,6 @@ UT-Incident--178094,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Collector at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","4/18/24, 4:00 PM","4/18/24, 4:45 PM","4/18/24, 4:00 PM",,40.607173,-111.905403
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178095,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 SB I-15 at MP 343 (Ogden) Weber Co.
 Right Shoulder
@@ -18425,6 +18424,7 @@ NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","4/18/24, 4:38 PM","4/18/24, 5:45 PM","4/18/24, 4:38 PM",,40.442142,-111.903011
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178097,Incidents,700 S,Davis County,700 S at 1300 E,"Crash
 EB 700 S at 1300 E (Clearfield) Davis Co.
 Est. Clearance Time: 6:00 PM","4/18/24, 4:54 PM","4/18/24, 6:00 PM","4/18/24, 4:54 PM",,0.0,0.0
@@ -18432,6 +18432,17 @@ UT-Incident--178098,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:15 PM","4/18/24, 5:04 PM","4/18/24, 6:15 PM","4/18/24, 5:04 PM",,40.578741,-111.900284
+UT-Incident--178100,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","4/18/24, 5:16 PM","4/18/24, 6:15 PM","4/18/24, 5:16 PM",,40.765438,-111.953251
+UT-Incident--178101,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:17 PM","4/18/24, 5:18 PM","4/18/24, 6:17 PM","4/18/24, 5:18 PM",,40.718459,-111.873941
+UT-Incident--178099,Incidents,State St,Salt Lake County,State St at 500 S,"Crash
+Both Directions State St at 500 S Salt Lake Co.
+Est. Clearance Time: 6:15 PM","4/18/24, 5:14 PM","4/18/24, 6:15 PM","4/18/24, 5:14 PM",,40.758481,-111.888223
 UT-Incident--178093,Incidents,US 191,Uintah County,US 191 at MP 369,"Crash
 NB US 191 at MP 369 (13 miles N of Vernal) Uintah Co.
 Right Shoulder
