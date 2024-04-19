@@ -18536,14 +18536,14 @@ SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 3 Right Lanes Closed
 Est. Clearance Time: 3:56 PM","4/19/24, 2:58 PM","4/19/24, 3:56 PM","4/19/24, 2:58 PM",,40.63583,-111.905066
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178130,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
-SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
-Est. Clearance Time: 5:30 PM","4/19/24, 4:14 PM","4/19/24, 5:30 PM","4/19/24, 4:14 PM",,40.578741,-111.900284
 UT-Incident--178131,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","4/19/24, 4:24 PM","4/19/24, 5:35 PM","4/19/24, 4:24 PM",,40.365209,-111.792922
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178130,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
+Est. Clearance Time: 5:30 PM","4/19/24, 4:14 PM","4/19/24, 5:30 PM","4/19/24, 4:14 PM",,40.578741,-111.900284
 UT-Incident--178128,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
