@@ -18437,7 +18437,6 @@ Est. Clearance Time: 6:17 PM","4/18/24, 5:18 PM","4/18/24, 6:17 PM","4/18/24, 5:
 UT-Incident--178099,Incidents,State St,Salt Lake County,State St at 500 S,"Crash
 Both Directions State St at 500 S Salt Lake Co.
 Est. Clearance Time: 6:15 PM","4/18/24, 5:14 PM","4/18/24, 6:15 PM","4/18/24, 5:14 PM",,40.758481,-111.888223
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178100,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
@@ -18466,3 +18465,11 @@ UT-Incident--178107,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:30 PM","4/18/24, 6:28 PM","4/18/24, 7:30 PM","4/18/24, 6:28 PM",,40.401041,-111.849765
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178108,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
+EB I-215 S at MP 7 (2300 E) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:00 PM","4/18/24, 6:30 PM","4/18/24, 8:00 PM","4/18/24, 7:22 PM",,40.634375,-111.821002
+UT-Incident--178109,Incidents,US 40,Wasatch County,US 40 at MP 39,"Crash
+WB US 40 at MP 39 (18 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 8:30 PM","4/18/24, 7:05 PM","4/18/24, 8:30 PM","4/18/24, 7:06 PM",,40.254679,-111.199016
