@@ -18573,7 +18573,6 @@ SB I-15 at MP 327 (Kysvll) Davis Co.
 Left Shoulder
 Est. Clearance Time: 11:45 PM","4/19/24, 10:38 PM","4/19/24, 11:45 PM","4/19/24, 10:38 PM",,41.01502,-111.940495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178140,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
@@ -18581,3 +18580,8 @@ Est. Clearance Time: 4/20/2024 12:35 AM","4/19/24, 11:22 PM","4/20/24, 12:35 AM"
 UT-Incident--178141,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
 Est. Clearance Time: 4/20/2024 12:35 AM","4/19/24, 11:24 PM","4/20/24, 12:35 AM","4/19/24, 11:24 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178142,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Left Shoulder
+Est. Clearance Time: 3:30 AM","4/20/24, 2:37 AM","4/20/24, 3:30 AM","4/20/24, 2:37 AM",,40.373184,-111.808465
