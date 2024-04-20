@@ -18560,11 +18560,11 @@ Est. Clearance Time: 8:30 PM","4/19/24, 7:07 PM","4/19/24, 8:30 PM","4/19/24, 7:
 UT-Incident--178136,Incidents,Main St,Sevier County,Main St at 1300 S,"Crash
 NB Main St at 1300 S Sevier Co.
 Est. Clearance Time: 8:30 PM","4/19/24, 7:27 PM","4/19/24, 8:30 PM","4/19/24, 7:27 PM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178137,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","4/19/24, 8:49 PM","4/19/24, 11:00 PM","4/19/24, 10:15 PM",,41.182676,-112.014444
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178139,Incidents,1100 N,Davis County,1100 N 469,"Crash
 WB 1100 N Davis Co.
@@ -18574,3 +18574,10 @@ UT-Incident--178138,Incidents,I-15,Davis County,I-15 at MP 327,"Crash
 SB I-15 at MP 327 (Kysvll) Davis Co.
 Left Shoulder
 Est. Clearance Time: 11:45 PM","4/19/24, 10:38 PM","4/19/24, 11:45 PM","4/19/24, 10:38 PM",,41.01502,-111.940495
+UT-Incident--178140,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+SB I-15 at MP 307 (600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4/20/2024 12:35 AM","4/19/24, 11:22 PM","4/20/24, 12:35 AM","4/19/24, 11:22 PM",,40.74966,-111.90976
+UT-Incident--178141,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
+Est. Clearance Time: 4/20/2024 12:35 AM","4/19/24, 11:24 PM","4/20/24, 12:35 AM","4/19/24, 11:24 PM",,40.736823,-111.90475
