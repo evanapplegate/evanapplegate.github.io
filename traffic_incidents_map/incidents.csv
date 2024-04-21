@@ -18628,7 +18628,6 @@ UT-Incident--178157,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","4/20/24, 4:47 PM","4/20/24, 6:00 PM","4/20/24, 4:47 PM",,40.420056,-111.878496
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178160,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Lane Closed
@@ -18638,9 +18637,14 @@ NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 PM","4/20/24, 7:59 PM","4/20/24, 9:00 PM","4/20/24, 7:59 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178159,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
 SB 5600 W at 2100 S Salt Lake Co.
 Est. Clearance Time: 10:00 PM","4/20/24, 5:48 PM","4/20/24, 10:00 PM","4/20/24, 7:26 PM",,40.723906,-112.024886
+UT-Incident--178166,Incidents,I-70,Millard County,I-70 at MP 2,"Crash
+WB I-70 at MP 2 (Cove Fort) Millard Co.
+Right Shoulder
+Est. Clearance Time: 9:45 PM","4/20/24, 8:42 PM","4/20/24, 9:45 PM","4/20/24, 8:42 PM",,38.592169,-112.57485
 UT-Incident--178162,Incidents,SR 112,Tooele County,SR 112 at MP 5,"Crash
 EB SR 112 at MP 5 (1 mi E of Deseret Peak) Tooele Co.
 Est. Clearance Time: 10:30 PM","4/20/24, 7:28 PM","4/20/24, 10:30 PM","4/20/24, 8:23 PM",,40.558648,-112.351397
