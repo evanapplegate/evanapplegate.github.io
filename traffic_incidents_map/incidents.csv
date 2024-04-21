@@ -18657,11 +18657,14 @@ UT-Incident--178168,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
 NB I-15 at MP 258 (Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:15 PM","4/20/24, 9:09 PM","4/20/24, 10:15 PM","4/20/24, 9:09 PM",,40.132763,-111.646987
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178169,Incidents,Hwy 119,Sevier County,Hwy 119 at Hwy 24,"Crash
 Hwy 119 at Hwy 24 Sevier Co.
 Est. Clearance Time: 10:45 PM","4/20/24, 9:15 PM","4/20/24, 10:45 PM","4/20/24, 9:15 PM",,38.778254,-111.93923
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178171,Incidents,12300 S,Salt Lake County,12300 S at 700 E,"WB 12300 S Closed
+ at 700 E Salt Lake Co.
+Use Alt Route","4/20/24, 10:28 PM","4/20/24, 11:45 PM","4/20/24, 10:28 PM",,40.526948,-111.868723
 UT-Incident--178170,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
