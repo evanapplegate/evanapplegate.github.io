@@ -18678,7 +18678,6 @@ UT-Incident--178173,Incidents,SR 43,Daggett County,SR 43 at MP 9,"Crash
 SR 43 at MP 9 (1 Mi E of Manila) Daggett Co.
 Est. Clearance Time: 4/21/2024 1:00 AM","4/20/24, 11:44 PM","4/21/24, 1:00 AM","4/20/24, 11:44 PM",,40.988592,-109.702235
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178176,Incidents,I-15,Utah County,I-15 at MP 267,"Vehicle on fire
 SB I-15 at MP 267 (N of Center St) Utah Co.
 2 Right Lanes Closed
@@ -18687,6 +18686,7 @@ UT-Incident--178175,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Vehicle
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:45 AM","4/21/24, 1:35 AM","4/21/24, 2:45 AM","4/21/24, 1:42 AM",,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178174,Incidents,SR 18,Washington County,SR 18 at MP 41,"Crash
 NB SR 18 at MP 41 (Enterprise) Washington Co.
 Est. Clearance Time: 3:05 AM","4/21/24, 12:22 AM","4/21/24, 3:05 AM","4/21/24, 2:03 AM",,37.578056,-113.693969
