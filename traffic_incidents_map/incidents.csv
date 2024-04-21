@@ -18664,11 +18664,11 @@ UT-Incident--178170,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:35 PM","4/20/24, 10:12 PM","4/20/24, 11:35 PM","4/20/24, 10:12 PM",,40.480607,-111.902252
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178172,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Stalled Vehicle
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:45 PM","4/20/24, 11:00 PM","4/20/24, 11:45 PM","4/20/24, 11:00 PM",,40.718237,-112.076122
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178171,Incidents,12300 S,Salt Lake County,12300 S at 700 E,"WB 12300 S Closed
  at 700 E Salt Lake Co.
@@ -18676,3 +18676,6 @@ Use Alt Route","4/20/24, 10:28 PM","4/20/24, 11:45 PM","4/20/24, 10:28 PM",,40.5
 UT-Incident--178162,Incidents,SR 112,Tooele County,SR 112 at MP 5,"Crash
 Both Directions SR 112 CLOSED MP 4-6 Tooele Co.
 Est. Clearance Time: 4/21/2024 9:00 AM","4/20/24, 7:28 PM","4/21/24, 9:00 AM","4/20/24, 10:54 PM",,40.558648,-112.351397
+UT-Incident--178173,Incidents,SR 43,Daggett County,SR 43 at MP 9,"Crash
+SR 43 at MP 9 (1 Mi E of Manila) Daggett Co.
+Est. Clearance Time: 4/21/2024 1:00 AM","4/20/24, 11:44 PM","4/21/24, 1:00 AM","4/20/24, 11:44 PM",,40.988592,-109.702235
