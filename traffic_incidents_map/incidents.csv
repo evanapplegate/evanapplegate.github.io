@@ -18643,7 +18643,6 @@ Est. Clearance Time: 9:45 PM","4/20/24, 8:42 PM","4/20/24, 9:45 PM","4/20/24, 8:
 UT-Incident--178165,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Est. Clearance Time: 9:30 PM","4/20/24, 8:17 PM","4/20/24, 9:30 PM","4/20/24, 8:17 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178159,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
 SB 5600 W at 2100 S Salt Lake Co.
 Est. Clearance Time: 10:00 PM","4/20/24, 5:48 PM","4/20/24, 10:00 PM","4/20/24, 7:26 PM",,40.723906,-112.024886
@@ -18651,6 +18650,7 @@ UT-Incident--178167,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","4/20/24, 8:44 PM","4/20/24, 10:00 PM","4/20/24, 8:44 PM",,41.144394,-111.918626
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178169,Incidents,Hwy 119,Sevier County,Hwy 119 at Hwy 24,"Crash
 Hwy 119 at Hwy 24 Sevier Co.
