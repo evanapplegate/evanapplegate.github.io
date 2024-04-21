@@ -18671,7 +18671,6 @@ Est. Clearance Time: 11:45 PM","4/20/24, 11:00 PM","4/20/24, 11:45 PM","4/20/24,
 UT-Incident--178171,Incidents,12300 S,Salt Lake County,12300 S at 700 E,"WB 12300 S Closed
  at 700 E Salt Lake Co.
 Use Alt Route","4/20/24, 10:28 PM","4/20/24, 11:45 PM","4/20/24, 10:28 PM",,40.526948,-111.868723
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178162,Incidents,SR 112,Tooele County,SR 112 at MP 5,"Crash
 Both Directions SR 112 CLOSED MP 4-6 Tooele Co.
 Est. Clearance Time: 4/21/2024 9:00 AM","4/20/24, 7:28 PM","4/21/24, 9:00 AM","4/20/24, 10:54 PM",,40.558648,-112.351397
@@ -18679,6 +18678,11 @@ UT-Incident--178173,Incidents,SR 43,Daggett County,SR 43 at MP 9,"Crash
 SR 43 at MP 9 (1 Mi E of Manila) Daggett Co.
 Est. Clearance Time: 4/21/2024 1:00 AM","4/20/24, 11:44 PM","4/21/24, 1:00 AM","4/20/24, 11:44 PM",,40.988592,-109.702235
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178175,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Vehicle on fire
+NB I-215 W at MP 19 (1900 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 2:45 AM","4/21/24, 1:35 AM","4/21/24, 2:45 AM","4/21/24, 1:42 AM",,40.717792,-111.95364
 UT-Incident--178174,Incidents,SR 18,Washington County,SR 18 at MP 41,"Crash
 NB SR 18 at MP 41 (Enterprise) Washington Co.
 Est. Clearance Time: 2:20 AM","4/21/24, 12:22 AM","4/21/24, 2:20 AM","4/21/24, 12:43 AM",,37.578056,-113.693969
