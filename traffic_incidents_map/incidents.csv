@@ -18736,7 +18736,6 @@ UT-Incident--178195,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Stalled Vehi
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 AM","4/22/24, 7:12 AM","4/22/24, 8:45 AM","4/22/24, 7:12 AM",,40.747703,-111.639522
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178196,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Leftt Shoulder
@@ -18749,6 +18748,11 @@ UT-Incident--178197,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:10 AM","4/22/24, 8:12 AM","4/22/24, 9:10 AM","4/22/24, 8:12 AM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178199,Incidents,21st St,Weber County,21st St at Washington Blvd,"Crash
+NB 21st St at Washington Blvd Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:50 AM","4/22/24, 8:50 AM","4/22/24, 9:50 AM","4/22/24, 8:50 AM",,41.229029,-111.970318
 UT-Incident--178198,Incidents,SR 201 EB On Bangerter NB Ramp,Salt Lake County,SR 201 EB On Bangerter NB Ramp at Bangerter Hwy,"Crash
 EB SR 201 Bangerter On Ramp (Salt Lake Co)
 Left Shoulder
