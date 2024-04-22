@@ -18782,7 +18782,6 @@ UT-Incident--178206,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 2:20 PM","4/22/24, 1:23 PM","4/22/24, 2:20 PM","4/22/24, 1:23 PM",,40.74966,-111.90976
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178208,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 EB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Right Shoulder
@@ -18792,3 +18791,8 @@ UT-Incident--178209,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:47 PM","4/22/24, 3:48 PM","4/22/24, 4:47 PM","4/22/24, 4:01 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178210,Incidents,SR 120,Sevier County,SR 120 at MP 1,"Crash
+SB SR 120 at MP 1 (SR-118 Jct Richfield) Sevier Co.
+Right Lane Closed
+Est. Clearance Time: 5:34 PM","4/22/24, 4:35 PM","4/22/24, 5:34 PM","4/22/24, 4:42 PM",,38.74964,-112.087895
