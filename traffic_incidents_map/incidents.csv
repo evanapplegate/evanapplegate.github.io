@@ -18762,7 +18762,6 @@ Est. Clearance Time: 10:25 AM","4/22/24, 8:12 AM","4/22/24, 10:25 AM","4/22/24, 
 UT-Incident--178201,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Est. Clearance Time: 11:05 AM","4/22/24, 10:07 AM","4/22/24, 11:05 AM","4/22/24, 10:07 AM",,40.607173,-111.905403
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178204,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Stalled Vehicle
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 RIght Lanes Closed
@@ -18772,10 +18771,11 @@ NB I-15 at MP 292 (11400 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:40 PM","4/22/24, 1:33 PM","4/22/24, 2:40 PM","4/22/24, 1:33 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178203,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 2:00 PM","4/22/24, 12:59 PM","4/22/24, 2:00 PM","4/22/24, 12:59 PM",,40.52103,-111.891246
+Est. Clearance Time: 3:00 PM","4/22/24, 12:59 PM","4/22/24, 3:00 PM","4/22/24, 2:16 PM",,40.52103,-111.891246
 UT-Incident--178205,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Left Shoulder
