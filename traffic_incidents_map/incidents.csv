@@ -18896,7 +18896,6 @@ Est. Clearance Time: 4:15 PM","4/23/24, 3:05 PM","4/23/24, 4:15 PM","4/23/24, 3:
 UT-Incident--178239,Incidents,SR 75,Utah County,SR 75 at MP 0,"Crash
 WB SR 75 at MP 0 (I-15 Jct in Springville) Utah Co.
 Est. Clearance Time: 4:00 PM","4/23/24, 3:01 PM","4/23/24, 4:00 PM","4/23/24, 3:01 PM",,40.187769,-111.648636
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178241,Incidents,I-15,Beaver County,I-15 at MP 110,"Crash
 NB I-15 at MP 110 (Center St / Beaver) Beaver Co.
 Est. Clearance Time: 4:35 PM","4/23/24, 3:25 PM","4/23/24, 4:35 PM","4/23/24, 3:25 PM",,38.267534,-112.650552
@@ -18908,6 +18907,7 @@ UT-Incident--178231,Incidents,SR 36,Tooele County,SR 36 at MP 19,"Crash
 Alternating Traffic Both Directions SR 36 at MP 19 (2 mi E of Vernon) Tooele Co.
 Use Alt Route","4/23/24, 11:07 AM","4/23/24, 6:00 PM","4/23/24, 4:36 PM",,40.07694,-112.391349
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178242,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Left Shoulder
@@ -18916,6 +18916,12 @@ UT-Incident--178244,Incidents,I-15,Washington County,I-15 at MP 25,"Fire affecti
 SB I-15 at MP 25 (2 mi NE of Leeds) Washington Co
 Right Lane Closed
 Est. Clearance Time: 6:00 PM","4/23/24, 4:53 PM","4/23/24, 6:00 PM","4/23/24, 4:53 PM",,37.256022,-113.335109
+UT-Incident--178248,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
+NB I-15 at MP 344 (24th St) Weber Co.
+Est. Clearance Time: 6:45 PM","4/23/24, 5:38 PM","4/23/24, 6:45 PM","4/23/24, 5:38 PM",,41.230556,-112.01298
 UT-Incident--178245,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Est. Clearance Time: 6:00 PM","4/23/24, 5:00 PM","4/23/24, 6:00 PM","4/23/24, 5:00 PM",,40.775011,-111.949343
+UT-Incident--178247,Incidents,Pioneer Crossing,Utah County,Pioneer Crossing at MP 5,"Crash
+WB Pioneer Crossing at MP 5 (300 E) Utah Co.
+Est. Clearance Time: 6:30 PM","4/23/24, 5:32 PM","4/23/24, 6:30 PM","4/23/24, 5:32 PM",,40.376876,-111.82538
