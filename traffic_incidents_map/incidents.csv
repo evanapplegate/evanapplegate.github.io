@@ -18889,11 +18889,14 @@ UT-Incident--178238,Incidents,I-80 EB Fwy,Salt Lake County,I-80 EB Fwy at I-15 S
 Ramp From I-80 EB To I-15 SB Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","4/23/24, 2:00 PM","4/23/24, 3:00 PM","4/23/24, 2:00 PM",,40.764158,-111.916956
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178240,Incidents,SR 26,Weber County,SR 26 at MP 0,"Crash
 EB SR 26 at MP 0 (Riverdale Rd / 1900 W Jct) Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 4:15 PM","4/23/24, 3:05 PM","4/23/24, 4:15 PM","4/23/24, 3:05 PM",,41.167378,-112.026033
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178239,Incidents,SR 75,Utah County,SR 75 at MP 0,"Crash
+WB SR 75 at MP 0 (I-15 Jct in Springville) Utah Co.
+Est. Clearance Time: 4:00 PM","4/23/24, 3:01 PM","4/23/24, 4:00 PM","4/23/24, 3:01 PM",,40.187769,-111.648636
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178241,Incidents,I-15,Beaver County,I-15 at MP 110,"Crash
 NB I-15 at MP 110 (Center St / Beaver) Beaver Co.
@@ -18901,6 +18904,3 @@ Est. Clearance Time: 4:35 PM","4/23/24, 3:25 PM","4/23/24, 4:35 PM","4/23/24, 3:
 UT-Incident--178231,Incidents,SR 36,Tooele County,SR 36 at MP 19,"Crash
 Both Directions Closed SR 36 at MP 19 (2 mi E of Vernon) Tooele Co.
 Use Alt Route","4/23/24, 11:07 AM","4/23/24, 3:45 PM","4/23/24, 2:18 PM",,40.07694,-112.391349
-UT-Incident--178239,Incidents,SR 75,Utah County,SR 75 at MP 0,"Crash
-WB SR 75 at MP 0 (I-15 Jct in Springville) Utah Co.
-Est. Clearance Time: 4:00 PM","4/23/24, 3:01 PM","4/23/24, 4:00 PM","4/23/24, 3:01 PM",,40.187769,-111.648636
