@@ -18886,11 +18886,14 @@ EB 5600 S 1900 W (Weber Co)
 EB 5600 S Closed, Right Lane Closed on 1900 W  
 Use Alt Route","4/23/24, 1:13 PM","4/23/24, 2:15 PM","4/23/24, 1:16 PM",,41.161699,-112.026465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178238,Incidents,I-80 EB Fwy,Salt Lake County,I-80 EB Fwy at I-15 SB Fwy,"Medical
 Ramp From I-80 EB To I-15 SB Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","4/23/24, 2:00 PM","4/23/24, 3:00 PM","4/23/24, 2:00 PM",,40.764158,-111.916956
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178231,Incidents,SR 36,Tooele County,SR 36 at MP 19,"Crash
 Both Directions Closed SR 36 at MP 19 (2 mi E of Vernon) Tooele Co.
 Use Alt Route","4/23/24, 11:07 AM","4/23/24, 3:45 PM","4/23/24, 2:18 PM",,40.07694,-112.391349
+UT-Incident--178239,Incidents,SR 75,Utah County,SR 75 at MP 0,"Crash
+WB SR 75 at MP 0 (I-15 Jct in Springville) Utah Co.
+Est. Clearance Time: 4:00 PM","4/23/24, 3:01 PM","4/23/24, 4:00 PM","4/23/24, 3:01 PM",,40.187769,-111.648636
