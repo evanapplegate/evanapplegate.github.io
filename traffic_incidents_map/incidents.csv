@@ -18878,15 +18878,15 @@ UT-Incident--178234,Incidents,I-84 EB X87 ON US 89 NB RAMP,Weber County,I-84 EB 
 EB I-84 US 89 Off Ramp (Weber Co)
 Est. Clearance Time: 1:15 PM","4/23/24, 12:15 PM","4/23/24, 1:15 PM","4/23/24, 12:15 PM",,41.13746,-111.911237
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178236,Incidents,5600 S,Weber County,5600 S 1901,"Crash
-All Directions 5600 S 1900 W (Weber Co)
-EB & WB  5600 S Closed, Right Lane Closed on 1900 W  
-Est. Clearance Time: 2:15 PM","4/23/24, 1:13 PM","4/23/24, 2:15 PM","4/23/24, 1:13 PM",,41.161699,-112.026465
-UT-Incident--178231,Incidents,SR 36,Tooele County,SR 36 at MP 19,"Crash
-Both Directions SR 36 at MP 19 (2 mi E of Vernon) Tooele Co.
-Est. Clearance Time: 3:00 PM","4/23/24, 11:07 AM","4/23/24, 3:00 PM","4/23/24, 12:38 PM",,40.07694,-112.391349
 UT-Incident--178235,Incidents,STATE ST,Utah County,STATE ST 2341,"Crash
 NB E Valley Vista Way & State St (Utah Co)
 Right Shoulder
 Est. Clearance Time: 1:33 PM","4/23/24, 12:34 PM","4/23/24, 1:33 PM","4/23/24, 12:34 PM",,40.1994,-111.619165
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178236,Incidents,5600 S,Weber County,5600 S 1901,"Crash
+EB 5600 S 1900 W (Weber Co)
+EB 5600 S Closed, Right Lane Closed on 1900 W  
+Use Alt Route","4/23/24, 1:13 PM","4/23/24, 2:15 PM","4/23/24, 1:16 PM",,41.161699,-112.026465
+UT-Incident--178231,Incidents,SR 36,Tooele County,SR 36 at MP 19,"Crash
+Both Directions Closed SR 36 at MP 19 (2 mi E of Vernon) Tooele Co.
+Use Alt Route","4/23/24, 11:07 AM","4/23/24, 3:00 PM","4/23/24, 1:31 PM",,40.07694,-112.391349
