@@ -18795,7 +18795,6 @@ NB SR 177 at MP 6  (Kaysville)
  Davis Co.
 Est. Clearance Time: 6:10 PM","4/22/24, 5:15 PM","4/22/24, 6:10 PM","4/22/24, 5:15 PM",,41.089209,-112.07433
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178213,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 Right Shoulder
@@ -18811,3 +18810,11 @@ Est. Clearance Time: 6:04 PM","4/22/24, 5:05 PM","4/22/24, 6:04 PM","4/22/24, 5:
 UT-Incident--178210,Incidents,SR 120,Sevier County,SR 120 at MP 1,"Crash
 Both Directions SR 120 Closed
  at MP 1 (1100 S in Richfield) Sevier Co.","4/22/24, 4:35 PM","4/22/24, 8:34 PM","4/22/24, 5:51 PM",,38.74964,-112.087895
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178216,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+SB I-15 at MP 292 (11400 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:42 PM","4/22/24, 6:44 PM","4/22/24, 7:42 PM","4/22/24, 6:44 PM",,40.53585,-111.892927
+UT-Incident--178215,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Ramp EB I-80 to NB I-215 W  Closed
+ at MP 117 (I-215 West Belt) Salt Lake Co.
+Use Alt Route","4/22/24, 6:37 PM","4/22/24, 7:35 PM","4/22/24, 6:37 PM",,40.765438,-111.953251
