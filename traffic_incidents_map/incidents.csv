@@ -18961,7 +18961,6 @@ Est. Clearance Time: 9:10 AM","4/24/24, 8:10 AM","4/24/24, 9:10 AM",,,41.155128,
 UT-Incident--178266,Incidents,I15N X284 TURNAROUND,Utah County,I15N X284 TURNAROUND 1,"Crash
 NB I15N MP 284 Off Ramp (Utah Co)
 Est. Clearance Time: 9:30 AM","4/24/24, 8:23 AM","4/24/24, 9:30 AM",,,40.431157,-111.89043
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178263,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 2 Left Lanes Closed
@@ -18971,10 +18970,11 @@ NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:45 AM","4/24/24, 8:34 AM","4/24/24, 9:45 AM","4/24/24, 8:34 AM",,40.52103,-111.891246
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178268,Incidents,Hwy 248,Summit County,Hwy 248 3829,"Crash
 SB Hwy 248 at Round Valley Dr (Summit Co)
 Right Lane Closed
-Est. Clearance Time: 10:15 AM","4/24/24, 9:14 AM","4/24/24, 10:15 AM","4/24/24, 9:14 AM",,40.680372,-111.465927
+Est. Clearance Time: 10:15 AM","4/24/24, 9:14 AM","4/24/24, 10:15 AM","4/24/24, 9:29 AM",,40.680372,-111.465927
 UT-Incident--178265,Incidents,Hwy 56,Iron County,Hwy 56 at Cross Hollow Rd,"Crash
 EB Hwy 56 at Cross Hollow Rd Iron Co.
 2 Left Lanes Closed
