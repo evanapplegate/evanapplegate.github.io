@@ -19008,7 +19008,6 @@ Est. Clearance Time: 1:50 PM","4/24/24, 12:48 PM","4/24/24, 1:50 PM","4/24/24, 1
 UT-Incident--178275,Incidents,SR 9 WB X 6 OFF RAMP,Washington County,SR 9 WB X 6 OFF RAMP 1,"Crash
 WB SR 9 at State St Off Ramp (Hurricane) Washington Co.
 Est. Clearance Time: 1:20 PM","4/24/24, 12:22 PM","4/24/24, 1:20 PM","4/24/24, 12:22 PM",,37.17364,-113.345751
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178279,Incidents,Hwy 113,Wasatch County,Hwy 113 at 400 W,"Crash
 WB 100 S at 200 W (Heber) Wasatch Co.
 Est. Clearance Time: 2:00 PM","4/24/24, 1:11 PM","4/24/24, 2:00 PM","4/24/24, 1:11 PM",,0.0,0.0
@@ -19016,16 +19015,21 @@ UT-Incident--178277,Incidents,US 89 SB X404 ON SR 193 RAMP,Davis County,US 89 SB
 SB US 89 SR 193 Off Ramp (MP 404) Davis Co.
 Est. Clearance Time: 2:00 PM","4/24/24, 1:00 PM","4/24/24, 2:00 PM","4/24/24, 1:00 PM",,41.106853,-111.91037
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178280,Incidents,4100 S,Salt Lake County,4100 S at 5600 W,"Crash
-NB Mountain View Corridor Hwy at 4100 S Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:00 PM","4/24/24, 1:35 PM","4/24/24, 3:00 PM","4/24/24, 1:38 PM",,40.68204,-112.03021
-UT-Incident--178270,Incidents,I-15,Washington County,I-15 at MP 33,"Crash
-NB I-15 Closed at MP 33 (9 mi S of Kanarraville) Washington Co.
-Use Alt Route","4/24/24, 11:08 AM","4/24/24, 2:00 PM","4/24/24, 12:48 PM",,37.355656,-113.265538
 UT-Incident--178278,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 NB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Est. Clearance Time: 2:10 PM","4/24/24, 1:02 PM","4/24/24, 2:10 PM","4/24/24, 1:02 PM",,40.203376,-111.655441
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--178280,Incidents,4100 S,Salt Lake County,4100 S at 5600 W,"Crash
+NB Mountain View Corridor Hwy at 4100 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:00 PM","4/24/24, 1:35 PM","4/24/24, 3:00 PM",,,40.68204,-112.03021
+UT-Incident--178270,Incidents,I-15,Washington County,I-15 at MP 33,"Crash
+NB I-15 Closed at MP 33 (9 mi S of Kanarraville) Washington Co.
+Use Alt Route","4/24/24, 11:08 AM","4/24/24, 2:00 PM",,,37.355656,-113.265538
+UT-Incident--178282,Incidents,PENNSYLVANIA AVE,Weber County,PENNSYLVANIA AVE at 31ST ST/HINCKLEY DR,"Crash
+WB Hinckley Dr at Pennsylvania Ave Weber Co.
+Right Lane Closed
+Est. Clearance Time: 3:15 PM","4/24/24, 2:03 PM","4/24/24, 3:15 PM",,,41.204824,-112.006455
 UT-Incident--178272,Incidents,SR 36,Tooele County,SR 36 at MP 20,"Crash
 Both Directions SR 36 at MP 20 (1 mi E of Vernon) Tooele Co.
-Est. Clearance Time: 2:00 PM","4/24/24, 11:42 AM","4/24/24, 2:00 PM","4/24/24, 1:31 PM",,40.081736,-112.409114
+Est. Clearance Time: 2:00 PM","4/24/24, 11:42 AM","4/24/24, 2:00 PM",,,40.081736,-112.409114
