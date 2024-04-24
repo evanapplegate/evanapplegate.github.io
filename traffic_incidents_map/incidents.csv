@@ -18993,7 +18993,6 @@ UT-Incident--178271,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:30 PM","4/24/24, 11:32 AM","4/24/24, 12:30 PM",,,40.346539,-111.763778
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178273,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
@@ -19003,6 +19002,10 @@ NB I-15 UNIV PKWY Off Ramp ( 269) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 1:10 PM","4/24/24, 12:11 PM","4/24/24, 1:10 PM",,,40.275207,-111.717295
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178279,Incidents,Hwy 113,Wasatch County,Hwy 113 at 400 W,"Crash
+WB 100 S at 200 W (Heber) Wasatch Co.
+Est. Clearance Time: 2:00 PM","4/24/24, 1:11 PM","4/24/24, 2:00 PM","4/24/24, 1:11 PM",,0.0,0.0
 UT-Incident--178270,Incidents,I-15,Washington County,I-15 at MP 33,"Crash
 NB I-15 Closed at MP 33 (9 mi S of Kanarraville) Washington Co.
 Use Alt Route","4/24/24, 11:08 AM","4/24/24, 2:00 PM","4/24/24, 12:48 PM",,37.355656,-113.265538
@@ -19010,6 +19013,9 @@ UT-Incident--178276,Incidents,I-15,Utah County,I-15 at MP 283,"Stalled Vehicle
 NB I-15 at MP 283 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:50 PM","4/24/24, 12:48 PM","4/24/24, 1:50 PM","4/24/24, 12:51 PM",,40.420056,-111.878496
+UT-Incident--178278,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
+NB I-15 at MP 263 (University Ave / Provo) Utah Co.
+Est. Clearance Time: 2:10 PM","4/24/24, 1:02 PM","4/24/24, 2:10 PM","4/24/24, 1:02 PM",,40.203376,-111.655441
 UT-Incident--178272,Incidents,SR 36,Tooele County,SR 36 at MP 20,"Crash
 Both Directions SR 36 at MP 20 (1 mi E of Vernon) Tooele Co.
 Est. Clearance Time: 1:30 PM","4/24/24, 11:42 AM","4/24/24, 1:30 PM","4/24/24, 11:42 AM",,40.081736,-112.409114
