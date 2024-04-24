@@ -19017,7 +19017,6 @@ Est. Clearance Time: 2:00 PM","4/24/24, 1:00 PM","4/24/24, 2:00 PM","4/24/24, 1:
 UT-Incident--178278,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 NB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Est. Clearance Time: 2:10 PM","4/24/24, 1:02 PM","4/24/24, 2:10 PM","4/24/24, 1:02 PM",,40.203376,-111.655441
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178270,Incidents,I-15,Washington County,I-15 at MP 33,"Crash
 NB I-15 at MP 33 (9 mi S of Kanarraville) Washington Co.
 Right Lane Closed
@@ -19029,6 +19028,7 @@ Est. Clearance Time: 3:15 PM","4/24/24, 2:03 PM","4/24/24, 3:15 PM",,,41.204824,
 UT-Incident--178272,Incidents,SR 36,Tooele County,SR 36 at MP 20,"Crash
 Both Directions SR 36 at MP 20 (1 mi E of Vernon) Tooele Co.
 Est. Clearance Time: 2:00 PM","4/24/24, 11:42 AM","4/24/24, 2:00 PM",,,40.081736,-112.409114
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178280,Incidents,4100 S,Salt Lake County,4100 S at 5600 W,"Crash
 NB Mountain View Corridor Hwy at 4100 S Salt Lake Co.
@@ -19042,3 +19042,7 @@ UT-Incident--178284,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 4:00 PM","4/24/24, 2:49 PM","4/24/24, 4:00 PM","4/24/24, 2:49 PM",,40.914229,-111.891449
+UT-Incident--178285,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled Vehicle
+EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:35 PM","4/24/24, 3:16 PM","4/24/24, 4:35 PM","4/24/24, 3:16 PM",,40.725741,-112.001283
