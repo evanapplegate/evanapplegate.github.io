@@ -19040,7 +19040,6 @@ UT-Incident--178285,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled V
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:35 PM","4/24/24, 3:16 PM","4/24/24, 4:35 PM","4/24/24, 3:16 PM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178286,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
@@ -19054,6 +19053,10 @@ UT-Incident--178283,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Cleared at 3:56 PM
 Est. Clearance Time: 3:45 PM","4/24/24, 2:26 PM","4/24/24, 3:45 PM","4/24/24, 3:56 PM",,40.442142,-111.903011
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178289,Incidents,SR 7,Washington County,SR 7 at MP 16,"Crash
+EB SR 7 at MP 16 (SR 7 east of Warner Draw Dr.) Washington Co.
+Est. Clearance Time: 5:35 PM","4/24/24, 4:13 PM","4/24/24, 5:35 PM","4/24/24, 4:13 PM",,37.113146,-113.434591
 UT-Incident--178288,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
 WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
 Right Shoulder
