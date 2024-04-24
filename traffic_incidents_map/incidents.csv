@@ -18990,18 +18990,25 @@ WB I-80 at MP 108 (4 mi E of Saltair) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:10 PM","4/24/24, 11:04 AM","4/24/24, 12:10 PM","4/24/24, 11:04 AM",,40.771064,-112.124659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178270,Incidents,I-15,Washington County,I-15 at MP 33,"Crash
 NB I-15 Closed at MP 33 (9 mi S of Kanarraville) Washington Co.
-Use Alt Route","4/24/24, 11:08 AM","4/24/24, 12:30 PM","4/24/24, 11:21 AM",,37.355656,-113.265538
+Use Alt Route","4/24/24, 11:08 AM","4/24/24, 12:30 PM",,,37.355656,-113.265538
 UT-Incident--178271,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
-Est. Clearance Time: 12:30 PM","4/24/24, 11:32 AM","4/24/24, 12:30 PM","4/24/24, 11:32 AM",,40.346539,-111.763778
+Est. Clearance Time: 12:30 PM","4/24/24, 11:32 AM","4/24/24, 12:30 PM",,,40.346539,-111.763778
 UT-Incident--178273,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
-Est. Clearance Time: 12:50 PM","4/24/24, 11:52 AM","4/24/24, 12:50 PM","4/24/24, 11:52 AM",,40.161636,-111.646866
+Est. Clearance Time: 12:50 PM","4/24/24, 11:52 AM","4/24/24, 12:50 PM",,,40.161636,-111.646866
+UT-Incident--178274,Incidents,I-15 NB X269 OFF UNIV PKWY EB RAMP,Utah County,I-15 NB X269 OFF UNIV PKWY EB RAMP at UNIVERSITY PKWY,"Crash
+NB I-15 UNIV PKWY Off Ramp ( 269) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 1:10 PM","4/24/24, 12:11 PM","4/24/24, 1:10 PM",,,40.275207,-111.717295
 UT-Incident--178272,Incidents,SR 36,Tooele County,SR 36 at MP 20,"Crash
 Both Directions SR 36 at MP 20 (1 mi E of Vernon) Tooele Co.
-Est. Clearance Time: 1:30 PM","4/24/24, 11:42 AM","4/24/24, 1:30 PM","4/24/24, 11:42 AM",,40.081736,-112.409114
+Est. Clearance Time: 1:30 PM","4/24/24, 11:42 AM","4/24/24, 1:30 PM",,,40.081736,-112.409114
+UT-Incident--178275,Incidents,SR 9 WB X 6 OFF RAMP,Washington County,SR 9 WB X 6 OFF RAMP 1,"Crash
+WB SR 9 at State St Off Ramp (Hurricane) Washington Co.
+Est. Clearance Time: 1:20 PM","4/24/24, 12:22 PM","4/24/24, 1:20 PM",,,37.17364,-113.345751
