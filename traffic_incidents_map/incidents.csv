@@ -19028,7 +19028,6 @@ Est. Clearance Time: 3:15 PM","4/24/24, 2:03 PM","4/24/24, 3:15 PM",,,41.204824,
 UT-Incident--178272,Incidents,SR 36,Tooele County,SR 36 at MP 20,"Crash
 Both Directions SR 36 at MP 20 (1 mi E of Vernon) Tooele Co.
 Est. Clearance Time: 2:00 PM","4/24/24, 11:42 AM","4/24/24, 2:00 PM",,,40.081736,-112.409114
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178280,Incidents,4100 S,Salt Lake County,4100 S at 5600 W,"Crash
 NB Mountain View Corridor Hwy at 4100 S Salt Lake Co.
 Left Lane Closed
@@ -19042,10 +19041,6 @@ EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:35 PM","4/24/24, 3:16 PM","4/24/24, 4:35 PM","4/24/24, 3:16 PM",,40.725741,-112.001283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178283,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
-NB I-15 at MP 285 (Lehi) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 3:45 PM","4/24/24, 2:26 PM","4/24/24, 3:45 PM","4/24/24, 3:33 PM",,40.442142,-111.903011
 UT-Incident--178286,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
@@ -19054,7 +19049,12 @@ UT-Incident--178287,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","4/24/24, 3:31 PM","4/24/24, 4:30 PM","4/24/24, 3:31 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178283,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Cleared at 3:56 PM
+Est. Clearance Time: 3:45 PM","4/24/24, 2:26 PM","4/24/24, 3:45 PM","4/24/24, 3:56 PM",,40.442142,-111.903011
 UT-Incident--178288,Incidents,SR 73,Utah County,SR 73 at MP 34,"Crash
 WB SR 73 at MP 34 (N Mt Airey Dr, Eagle Mtn) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 4:45 PM","4/24/24, 3:38 PM","4/24/24, 4:45 PM","4/24/24, 3:38 PM",,40.382751,-111.961824
+Right Shoulder
+Est. Clearance Time: 4:45 PM","4/24/24, 3:38 PM","4/24/24, 4:45 PM","4/24/24, 3:45 PM",,40.382751,-111.961824
