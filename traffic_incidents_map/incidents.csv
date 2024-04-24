@@ -18947,13 +18947,35 @@ UT-Incident--178258,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at Ca
 NB Bangerter Hwy at California Ave Salt Lake Co.
 Cleared at 6:20 AM
 Est. Clearance Time: 7:03 AM","4/24/24, 6:04 AM","4/24/24, 7:03 AM","4/24/24, 6:20 AM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178259,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:20 AM","4/24/24, 7:19 AM","4/24/24, 8:20 AM","4/24/24, 7:19 AM",,40.679062,-111.902181
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--178261,Incidents,Church St,Davis County,Church St at Hwy 193,"Crash
+SB Church St at Hwy 193 Davis Co.
+Est. Clearance Time: 9:10 AM","4/24/24, 8:09 AM","4/24/24, 9:10 AM",,,41.099346,-111.939198
+UT-Incident--178265,Incidents,Hwy 56,Iron County,Hwy 56 at Cross Hollow Rd,"Crash
+EB Hwy 56 at Cross Hollow Rd Iron Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:19 AM","4/24/24, 8:20 AM","4/24/24, 9:19 AM",,,0.0,0.0
 UT-Incident--178260,Incidents,I-15,Juab County,I-15 at MP 210,"Crash
 NB I-15 at MP 210 (13 mi S of Nephi) Juab Co.
 Left Shoulder
-Est. Clearance Time: 9:30 AM","4/24/24, 7:25 AM","4/24/24, 9:30 AM","4/24/24, 7:59 AM",,39.529253,-111.955801
+Est. Clearance Time: 9:30 AM","4/24/24, 7:25 AM","4/24/24, 9:30 AM",,,39.529253,-111.955801
+UT-Incident--178262,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
+Right Shoulder
+Est. Clearance Time: 9:10 AM","4/24/24, 8:10 AM","4/24/24, 9:10 AM",,,41.155128,-112.024901
+UT-Incident--178263,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:15 AM","4/24/24, 8:16 AM","4/24/24, 9:15 AM",,,40.63583,-111.905066
+UT-Incident--178264,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+NB I-15 at MP 295 (9000 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:16 AM","4/24/24, 8:17 AM","4/24/24, 9:16 AM",,,40.578741,-111.900284
+UT-Incident--178266,Incidents,I15N X284 TURNAROUND,Utah County,I15N X284 TURNAROUND 1,"Crash
+NB I15N MP 284 Off Ramp (Utah Co)
+Est. Clearance Time: 9:30 AM","4/24/24, 8:23 AM","4/24/24, 9:30 AM",,,40.431157,-111.89043
