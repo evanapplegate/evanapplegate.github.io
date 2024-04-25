@@ -19210,7 +19210,6 @@ UT-Incident--178335,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","4/25/24, 4:26 PM","4/25/24, 5:30 PM","4/25/24, 4:26 PM",,41.182676,-112.014444
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178334,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
@@ -19220,14 +19219,23 @@ SB I-15 at MP 360 (Perry) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","4/25/24, 4:29 PM","4/25/24, 5:30 PM","4/25/24, 4:29 PM",,41.45645,-112.055635
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178340,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
-SB I-15 at MP 293 (10600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 5:30 PM","4/25/24, 5:05 PM","4/25/24, 5:30 PM","4/25/24, 5:05 PM",,40.550055,-111.896336
 UT-Incident--178338,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 SB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","4/25/24, 4:53 PM","4/25/24, 6:00 PM","4/25/24, 4:53 PM",,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178340,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+SB I-15 at MP 293 (10600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:30 PM","4/25/24, 5:05 PM","4/25/24, 5:30 PM","4/25/24, 5:05 PM",,40.550055,-111.896336
+UT-Incident--178342,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","4/25/24, 5:18 PM","4/25/24, 6:15 PM","4/25/24, 5:18 PM",,40.664677,-111.90152
+UT-Incident--178341,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
+NB I-215 W at MP 20 (California Ave) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","4/25/24, 5:09 PM","4/25/24, 6:15 PM","4/25/24, 5:09 PM",,40.731947,-111.949915
 UT-Incident--178313,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Left Lane Closed
