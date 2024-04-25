@@ -19145,7 +19145,6 @@ UT-Incident--178318,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:15 AM","4/25/24, 9:16 AM","4/25/24, 10:15 AM","4/25/24, 9:16 AM",,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178316,Incidents,I-15,Iron County,I-15 at MP 49,"Crash
 SB I-15 at MP 49 (Kanarraville) Iron Co.
 Right Shoulder
@@ -19158,6 +19157,13 @@ Est. Clearance Time: 11:39 AM","4/25/24, 10:40 AM","4/25/24, 11:39 AM","4/25/24,
 UT-Incident--178320,Incidents,I-15,Davis County,I-15 at MP 332,"Vehicle on fire
 SB I-15 at MP 332 (Antelope Dr) Davis Co.
 Est. Clearance Time: 12:28 PM","4/25/24, 11:29 AM","4/25/24, 12:28 PM","4/25/24, 11:29 AM",,41.078599,-111.981198
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178321,Incidents,I-15,Beaver County,I-15 at MP 111,"Crash
+SB I-15 at MP 111 (Muddy Ln / Beaver) Beaver Co.
+Est. Clearance Time: 12:46 PM","4/25/24, 11:48 AM","4/25/24, 12:46 PM","4/25/24, 11:48 AM",,38.282056,-112.650787
+UT-Incident--178322,Incidents,I-15,Davis County,I-15 at MP 332,"Vehicle on fire
+SB I-15 at MP 332 (Antelope Dr) Davis Co.
+Est. Clearance Time: 12:50 PM","4/25/24, 11:51 AM","4/25/24, 12:50 PM","4/25/24, 11:51 AM",,41.078599,-111.981198
 UT-Incident--178313,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Left Shoulder
