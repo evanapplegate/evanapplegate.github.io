@@ -19206,7 +19206,6 @@ UT-Incident--178333,Incidents,Redwood Rd,Davis County,Redwood Rd at Center St,"C
 NB Redwood Rd at Center St Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 4:55 PM","4/25/24, 3:53 PM","4/25/24, 4:55 PM","4/25/24, 3:53 PM",,40.838571,-111.933503
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178335,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 Left Shoulder
@@ -19220,7 +19219,19 @@ UT-Incident--178336,Incidents,I-15,Box Elder County,I-15 at MP 360,"Crash
 SB I-15 at MP 360 (Perry) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","4/25/24, 4:29 PM","4/25/24, 5:30 PM","4/25/24, 4:29 PM",,41.45645,-112.055635
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178340,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+SB I-15 at MP 293 (10600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:30 PM","4/25/24, 5:05 PM","4/25/24, 5:30 PM","4/25/24, 5:05 PM",,40.550055,-111.896336
+UT-Incident--178338,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
+SB I-215 W at MP 19 (1900 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:00 PM","4/25/24, 4:53 PM","4/25/24, 6:00 PM","4/25/24, 4:53 PM",,40.717792,-111.95364
 UT-Incident--178313,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","4/25/24, 4:09 AM","4/25/24, 6:00 PM","4/25/24, 4:01 PM",,40.747119,-111.724705
+UT-Incident--178339,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
+SB Washington Blvd at 40th St Weber Co.
+Est. Clearance Time: 6:00 PM","4/25/24, 5:02 PM","4/25/24, 6:00 PM","4/25/24, 5:02 PM",,41.190563,-111.97117
