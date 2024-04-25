@@ -19059,7 +19059,6 @@ Est. Clearance Time: 4:45 PM","4/24/24, 3:38 PM","4/24/24, 4:45 PM","4/24/24, 3:
 UT-Incident--178289,Incidents,SR 7,Washington County,SR 7 at MP 16,"Crash
 EB SR 7 at MP 16 (SR 7 east of Warner Draw Dr.) Washington Co.
 Est. Clearance Time: 5:35 PM","4/24/24, 4:13 PM","4/24/24, 5:35 PM","4/24/24, 4:13 PM",,37.113146,-113.434591
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178291,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 NB I-15 at MP 282 (Lehi) Utah Co.
 Left Shoulder
@@ -19091,6 +19090,11 @@ UT-Incident--178298,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","4/24/24, 6:04 PM","4/24/24, 7:15 PM","4/24/24, 6:10 PM",,40.020219,-111.762745
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178300,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 8:30 PM","4/24/24, 6:30 PM","4/24/24, 8:30 PM","4/24/24, 7:33 PM",,40.365209,-111.792922
 UT-Incident--178290,Incidents,US 6,Utah County,US 6 at MP 193,"Crash
 EB US 6 at MP 193 (2 Mi W of Sheep Creek) Utah Co.
-Est. Clearance Time: 7:30 PM","4/24/24, 4:27 PM","4/24/24, 7:30 PM","4/24/24, 5:48 PM",,39.988452,-111.368324
+Est. Clearance Time: 8:30 PM","4/24/24, 4:27 PM","4/24/24, 8:30 PM","4/24/24, 7:33 PM",,39.988452,-111.368324
