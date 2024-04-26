@@ -19345,23 +19345,27 @@ UT-Incident--178372,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Cleared at 2:42 PM
 Est. Clearance Time: 3:45 PM","4/26/24, 2:42 PM","4/26/24, 3:45 PM","4/26/24, 2:42 PM",,40.718237,-112.076122
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178376,Incidents,I-15,Utah County,I-15 at MP 271,"Stalled Vehicle
 NB I-15 at MP 271 Off Ramp (800 N / Orem) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:15 PM","4/26/24, 3:08 PM","4/26/24, 4:15 PM","4/26/24, 3:08 PM",,40.301853,-111.72593
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178369,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
-NB I-15 at MP 302 (4100 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 3:04 PM","4/26/24, 2:07 PM","4/26/24, 3:04 PM","4/26/24, 3:13 PM",,40.679062,-111.902181
-UT-Incident--178375,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
-NB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 4:00 PM","4/26/24, 2:55 PM","4/26/24, 4:00 PM","4/26/24, 3:25 PM",,40.112733,-111.671987
 UT-Incident--178373,Incidents,US 40,Wasatch County,US 40 at MP 11,"Crash
 WB US 40 at MP 11 (2 mi N of Heber) Wasatch Co.
 Est. Clearance Time: 3:45 PM","4/26/24, 2:47 PM","4/26/24, 3:45 PM","4/26/24, 2:47 PM",,40.588743,-111.436969
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178369,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:00 PM","4/26/24, 2:07 PM","4/26/24, 4:00 PM","4/26/24, 3:42 PM",,40.679062,-111.902181
+UT-Incident--178375,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
+NB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 4:00 PM","4/26/24, 2:55 PM","4/26/24, 4:00 PM","4/26/24, 3:35 PM",,40.112733,-111.671987
+UT-Incident--178377,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
+NB I-15 at MP 335 (650 N Clrfld) Davis Co.
+Left Shoulder
+Est. Clearance Time: 4:45 PM","4/26/24, 3:38 PM","4/26/24, 4:45 PM","4/26/24, 3:38 PM",,41.114242,-112.014007
 UT-Incident--178374,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 Both Directions US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 2 Left Lanes Closed
