@@ -19259,7 +19259,6 @@ UT-Incident--178349,Incidents,HWY 87,Duchesne County,HWY 87 at MOON LAKE RD,"Cra
 WB HWY 87 at MOON LAKE RD Duchesne Co.
 Est. Clearance Time: 3:03 AM","4/26/24, 2:03 AM","4/26/24, 3:03 AM","4/26/24, 2:03 AM",,40.359498,-110.396898
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178351,Incidents,1300 S,Salt Lake County,1300 S at State St,"Crash
 WB 1300 S Closed
  at State St Salt Lake Co.
@@ -19280,3 +19279,8 @@ UT-Incident--178354,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Center Lanes Closed
 Est. Clearance Time: 7:28 AM","4/26/24, 6:55 AM","4/26/24, 7:28 AM","4/26/24, 6:55 AM",,40.746426,-111.949053
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178355,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:09 AM","4/26/24, 7:10 AM","4/26/24, 8:09 AM","4/26/24, 7:10 AM",,40.707874,-111.90397
