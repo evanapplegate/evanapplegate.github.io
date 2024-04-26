@@ -19237,7 +19237,6 @@ UT-Incident--178341,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 NB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","4/25/24, 5:09 PM","4/25/24, 6:15 PM","4/25/24, 5:09 PM",,40.731947,-111.949915
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178344,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Est. Clearance Time: 7:15 PM","4/25/24, 6:14 PM","4/25/24, 7:15 PM","4/25/24, 6:14 PM",,40.72606,-111.962907
@@ -19245,6 +19244,7 @@ UT-Incident--178345,Incidents,SR 201 EB X11 Off 5600 S Ramp,Salt Lake County,SR 
 EB SR 201 5600 S Off Ramp (Salt Lake Co)
 Right Shoulder
 Est. Clearance Time: 7:20 PM","4/25/24, 6:14 PM","4/25/24, 7:20 PM","4/25/24, 6:14 PM",,40.725612,-112.034892
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178313,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
