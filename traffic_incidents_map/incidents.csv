@@ -19283,19 +19283,23 @@ NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:09 AM","4/26/24, 7:10 AM","4/26/24, 8:09 AM","4/26/24, 7:10 AM",,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178358,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
-SB I-15 at MP 261 (1400 N Springville) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 12:30 PM","4/26/24, 8:24 AM","4/26/24, 12:30 PM","4/26/24, 8:53 AM",,40.176162,-111.646775
-UT-Incident--178359,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash 
-Exit 22 Ramp NB I-215 W Closed
- at MP 22 (Airport Exit) Salt Lake Co.
-Use Alt Route","4/26/24, 9:11 AM","4/26/24, 10:08 AM","4/26/24, 9:11 AM",,40.760605,-111.951068
 UT-Incident--178356,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:50 AM","4/26/24, 7:51 AM","4/26/24, 8:50 AM","4/26/24, 7:51 AM",,40.747119,-111.724705
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178358,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
+SB I-15 at MP 261 (1400 N Springville) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 12:30 PM","4/26/24, 8:24 AM","4/26/24, 12:30 PM","4/26/24, 9:38 AM",,40.176162,-111.646775
+UT-Incident--178360,Incidents,I-15,Box Elder County,I-15 at MP 400,"Crash
+NB I-15 at MP 400 (UT/ID State Line) Box Elder Co.
+Left Lane Closed
+Est. Clearance Time: 1:34 PM","4/26/24, 9:35 AM","4/26/24, 1:34 PM","4/26/24, 9:35 AM",,41.993017,-112.195719
+UT-Incident--178359,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash 
+Exit 22 Ramp NB I-215 W Closed
+ at MP 22 (Airport Exit) Salt Lake Co.
+Use Alt Route","4/26/24, 9:11 AM","4/26/24, 10:08 AM","4/26/24, 9:11 AM",,40.760605,-111.951068
 UT-Incident--178357,Incidents,I-80,Summit County,I-80 at MP 186,"Crash
 WB I-80 at MP 186 (5 mi W of Wasatch) Summit Co.
 Right Shoulder
