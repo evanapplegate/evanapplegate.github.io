@@ -19372,10 +19372,6 @@ UT-Incident--178381,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Est. Clearance Time: 5:00 PM","4/26/24, 3:56 PM","4/26/24, 5:00 PM","4/26/24, 3:56 PM",,40.627915,-111.443541
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178379,Incidents,HWY 130,Iron County,HWY 130,"Crash
-WB Minersville Hwy at I-15 Iron Co.
-Est. Clearance Time: 5:00 PM","4/26/24, 3:53 PM","4/26/24, 5:00 PM","4/26/24, 3:55 PM",,37.728946,-113.053673
 UT-Incident--178377,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Left Shoulder
@@ -19391,3 +19387,18 @@ Est. Clearance Time: 5:45 PM","4/26/24, 4:42 PM","4/26/24, 5:45 PM","4/26/24, 4:
 UT-Incident--178378,Incidents,I-84,Weber County,I-84 at MP 83,"Crash
 WB I-84 at MP 83 (South Weber) Weber Co.
 Est. Clearance Time: 5:00 PM","4/26/24, 3:51 PM","4/26/24, 5:00 PM","4/26/24, 3:51 PM",,41.160988,-111.994373
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178379,Incidents,HWY 130,Iron County,HWY 130,"Crash
+WB Minersville Hwy at I-15 Iron Co.
+Est. Clearance Time: 5:00 PM","4/26/24, 3:53 PM","4/26/24, 5:00 PM","4/26/24, 3:55 PM",,37.728946,-113.053673
+UT-Incident--178385,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+SB I-15 at MP 257 Off Ramp (Main St / Spanish Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:54 PM","4/26/24, 4:55 PM","4/26/24, 6:00 PM","4/26/24, 4:56 PM",,40.122652,-111.658929
+UT-Incident--178386,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
+SB I-15 at MP 265 Off Ramp (Center St / Provo) Utah Co.
+Est. Clearance Time: 6:00 PM","4/26/24, 4:56 PM","4/26/24, 6:00 PM","4/26/24, 4:56 PM",,40.226604,-111.677837
+UT-Incident--178384,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
+EB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 6:00 PM","4/26/24, 4:47 PM","4/26/24, 6:00 PM","4/26/24, 4:47 PM",,41.137693,-111.909879
