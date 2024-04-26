@@ -19319,6 +19319,13 @@ EB SR 201 at MP 6 (9180 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:48 PM","4/26/24, 11:50 AM","4/26/24, 12:48 PM","4/26/24, 11:50 AM",,40.71806,-112.114369
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178370,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:22 PM","4/26/24, 2:23 PM","4/26/24, 3:22 PM","4/26/24, 2:23 PM",,40.63583,-111.905066
+UT-Incident--178364,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
+Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
+Est. Clearance Time: 12:42 PM","4/26/24, 11:43 AM","4/26/24, 4:42 PM","4/26/24, 1:52 PM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178368,Incidents,2400 N,Tooele County,2400 N at HWY 36/MAIN ST,"Crash
 NB Main St at 2400 N Tooele Co.
@@ -19332,14 +19339,15 @@ UT-Incident--178369,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Center Lanes Closed
 Est. Clearance Time: 3:04 PM","4/26/24, 2:07 PM","4/26/24, 3:04 PM","4/26/24, 2:07 PM",,40.679062,-111.902181
-UT-Incident--178370,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:22 PM","4/26/24, 2:23 PM","4/26/24, 3:22 PM","4/26/24, 2:23 PM",,40.63583,-111.905066
-UT-Incident--178364,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
-Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
-Est. Clearance Time: 12:42 PM","4/26/24, 11:43 AM","4/26/24, 4:42 PM","4/26/24, 1:52 PM",,40.760605,-111.951068
+UT-Incident--178371,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+NB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
+Center Lanes Closed
+Est. Clearance Time: 3:45 PM","4/26/24, 2:37 PM","4/26/24, 3:45 PM","4/26/24, 2:37 PM",,40.122652,-111.658929
 UT-Incident--178367,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Medical
 EB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:50 PM","4/26/24, 1:51 PM","4/26/24, 2:50 PM","4/26/24, 1:51 PM",,40.765438,-111.953251
+UT-Incident--178372,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
+EB SR 201 at MP 8 (7200 W) Salt Lake Co.
+Cleared at 2:42 PM
+Est. Clearance Time: 3:45 PM","4/26/24, 2:42 PM","4/26/24, 3:45 PM","4/26/24, 2:42 PM",,40.718237,-112.076122
