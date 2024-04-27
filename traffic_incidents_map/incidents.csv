@@ -19435,7 +19435,6 @@ SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","4/26/24, 7:07 PM","4/26/24, 8:15 PM","4/26/24, 7:07 PM",,41.144394,-111.918626
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178398,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
 3 Right Lanes Closed
@@ -19443,10 +19442,17 @@ Est. Clearance Time: 8:35 PM","4/26/24, 7:27 PM","4/26/24, 8:35 PM","4/26/24, 7:
 UT-Incident--178400,Incidents,I-15,Juab County,I-15 at MP 222,"Crash
 NB I-15 at MP 222 (1 mi S of Nephi) Juab Co.
 Est. Clearance Time: 8:55 PM","4/26/24, 7:50 PM","4/26/24, 8:55 PM","4/26/24, 7:50 PM",,39.673626,-111.851394
+UT-Incident--178399,Incidents,SR 36,Tooele County,SR 36 at MP 15,"Crash
+SR 36 at MP 21 (Vernon) Tooele Co.
+Est. Clearance Time: 8:45 PM","4/26/24, 7:33 PM","4/26/24, 8:45 PM","4/26/24, 7:38 PM",,40.065567,-112.322015
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178402,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:15 PM","4/26/24, 8:01 PM","4/26/24, 9:15 PM","4/26/24, 8:01 PM",,41.066718,-111.970064
+UT-Incident--178405,Incidents,I-15,Juab County,I-15 at MP 225,"Crash
+NB I-15 at MP 225 (100 S / Nephi) Juab Co.
+Est. Clearance Time: 9:45 PM","4/26/24, 8:37 PM","4/26/24, 9:45 PM","4/26/24, 8:37 PM",,39.707193,-111.818689
 UT-Incident--178403,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled Vehicle
 SB I-215 W at MP 15  Off Ramp (4700 S) Salt Lake Co.
 Cleared at 8:24 PM
@@ -19455,6 +19461,6 @@ UT-Incident--178401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 WB I-80 at MP 88 (Grantsville) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","4/26/24, 7:53 PM","4/26/24, 9:30 PM","4/26/24, 7:53 PM",,40.685919,-112.447604
-UT-Incident--178399,Incidents,SR 36,Tooele County,SR 36 at MP 15,"Crash
-SR 36 at MP 21 (Vernon) Tooele Co.
-Est. Clearance Time: 8:45 PM","4/26/24, 7:33 PM","4/26/24, 8:45 PM","4/26/24, 7:38 PM",,40.065567,-112.322015
+UT-Incident--178404,Incidents,SR 24,Sevier County,SR 24 at MP 16,"Crash
+SR 24 at MP 16 (6 Mi S of Sigurd) Sevier Co.
+Est. Clearance Time: 9:45 PM","4/26/24, 8:36 PM","4/26/24, 9:45 PM","4/26/24, 8:36 PM",,38.770005,-111.927883
