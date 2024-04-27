@@ -19444,7 +19444,6 @@ Est. Clearance Time: 8:55 PM","4/26/24, 7:50 PM","4/26/24, 8:55 PM","4/26/24, 7:
 UT-Incident--178399,Incidents,SR 36,Tooele County,SR 36 at MP 15,"Crash
 SR 36 at MP 21 (Vernon) Tooele Co.
 Est. Clearance Time: 8:45 PM","4/26/24, 7:33 PM","4/26/24, 8:45 PM","4/26/24, 7:38 PM",,40.065567,-112.322015
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178402,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
@@ -19457,6 +19456,10 @@ SB I-215 W at MP 15  Off Ramp (4700 S) Salt Lake Co.
 Cleared at 8:24 PM
 Est. Clearance Time: 9:35 PM","4/26/24, 8:24 PM","4/26/24, 9:35 PM","4/26/24, 8:24 PM",,40.659924,-111.952783
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178404,Incidents,SR 24,Sevier County,SR 24 at MP 16,"Crash
+SR 24 at MP 16 (6 Mi S of Sigurd) Sevier Co.
+Est. Clearance Time: 9:45 PM","4/26/24, 8:36 PM","4/26/24, 9:45 PM","4/26/24, 8:36 PM",,38.770005,-111.927883
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178406,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 SB I-15 at MP 294 (10200 S) Salt Lake Co.
  Right Lane Closed
@@ -19465,6 +19468,3 @@ UT-Incident--178401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 WB I-80 at MP 88 (Grantsville) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","4/26/24, 7:53 PM","4/26/24, 9:30 PM","4/26/24, 7:53 PM",,40.685919,-112.447604
-UT-Incident--178404,Incidents,SR 24,Sevier County,SR 24 at MP 16,"Crash
-SR 24 at MP 16 (6 Mi S of Sigurd) Sevier Co.
-Est. Clearance Time: 9:45 PM","4/26/24, 8:36 PM","4/26/24, 9:45 PM","4/26/24, 8:36 PM",,38.770005,-111.927883
