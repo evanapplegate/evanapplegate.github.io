@@ -19515,7 +19515,6 @@ UT-Incident--178421,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:52 AM","4/27/24, 6:54 AM","4/27/24, 7:52 AM","4/27/24, 6:54 AM",,40.760605,-111.951068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178425,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
@@ -19529,6 +19528,12 @@ UT-Incident--178429,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:28 AM","4/27/24, 8:30 AM","4/27/24, 9:28 AM","4/27/24, 8:32 AM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178430,Incidents,4500 S,Salt Lake County,4500 S at Highland Dr,"Crash
+All Directions 4500 S at Highland Dr Salt Lake Co.
+NB  Closed
+WB Closed
+Est. Clearance Time: 10:10 AM","4/27/24, 9:13 AM","4/27/24, 10:10 AM","4/27/24, 9:13 AM",,40.674253,-111.842861
 UT-Incident--178424,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 Ramp EB  I-80 at MP 117 (NB I-215 W Exit) Salt Lake Co.
 Left Shoulder
