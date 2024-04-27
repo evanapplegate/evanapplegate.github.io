@@ -19584,7 +19584,6 @@ UT-Incident--178443,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 Off Ramp (2100 S) Salt Lake Co.
 Est. Clearance Time: 3:45 PM","4/27/24, 2:39 PM","4/27/24, 3:45 PM","4/27/24, 2:39 PM",,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178435,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Vehicle on fire
 SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Shoulder
@@ -19593,6 +19592,15 @@ UT-Incident--178444,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 SB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","4/27/24, 3:48 PM","4/27/24, 5:00 PM","4/27/24, 3:48 PM",,40.262286,-111.70752
+UT-Incident--178445,Incidents,SR 56,Iron County,SR 56 at MP 57,"Crash
+EB SR 56 at MP 57 (Cedar City) Iron Co.
+Right Lane Closed
+Est. Clearance Time: 5:35 PM","4/27/24, 4:13 PM","4/27/24, 5:35 PM","4/27/24, 4:13 PM",,37.685054,-113.142971
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178448,Incidents,2000 W,Davis County,2000 W at 300 N,"Crash
+Ramp 2000 W at 300 N Davis Co.
+Right Lane Closed
+Est. Clearance Time: 6:15 PM","4/27/24, 5:03 PM","4/27/24, 6:15 PM","4/27/24, 5:03 PM",,41.119026,-112.064508
 UT-Incident--178446,Incidents,I-15,Juab County,I-15 at MP 216,"Crash
 NB I-15 at MP 216 (7 mi S of Nephi) Juab Co.
 Est. Clearance Time: 5:35 PM","4/27/24, 4:21 PM","4/27/24, 5:35 PM","4/27/24, 4:21 PM",,39.606631,-111.908872
@@ -19602,7 +19610,3 @@ NB I-15 at MP 334 On Ramp (Center St, Clrfld) Davis Co.
 Est. Clearance Time: 5:45 PM","4/27/24, 4:39 PM","4/27/24, 5:45 PM","4/27/24, 4:39 PM",,41.102376,-112.003101
 UT-Incident--178423,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Road weather/Road flooding
 EB SR 201 between MP 0 (I-80 Jct) and MP 6 (9100 W) Salt Lake Co.","4/27/24, 7:33 AM","4/29/24, 12:30 PM","4/27/24, 10:23 AM",,40.725554,-112.204975
-UT-Incident--178445,Incidents,SR 56,Iron County,SR 56 at MP 57,"Crash
-EB SR 56 at MP 57 (Cedar City) Iron Co.
-Right Lane Closed
-Est. Clearance Time: 5:35 PM","4/27/24, 4:13 PM","4/27/24, 5:35 PM","4/27/24, 4:13 PM",,37.685054,-113.142971
