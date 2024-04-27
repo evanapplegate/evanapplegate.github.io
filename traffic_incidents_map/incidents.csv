@@ -19553,6 +19553,10 @@ SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Left Shoulder
 Est. Clearance Time: 11:50 AM","4/27/24, 10:50 AM","4/27/24, 11:50 AM","4/27/24, 10:50 AM",,41.155128,-112.024901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178437,Incidents,US 89,Weber County,US 89 at MP 413,"Crash
+SB US 89 at MP 413 (30th / Ogden) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 1:08 PM","4/27/24, 12:10 PM","4/27/24, 1:08 PM","4/27/24, 12:10 PM",,41.209454,-111.970721
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178435,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Vehicle on fire
 SB I-15 at MP 287 (15200 S) Salt Lake Co.
@@ -19560,8 +19564,8 @@ SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Est. Clearance Time: 12:59 PM","4/27/24, 11:59 AM","4/27/24, 12:59 PM","4/27/24, 11:59 AM",,40.467787,-111.911227
 UT-Incident--178436,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 SB I-15 at MP 322 (Glover Ln) Davis Co.
-Left Lane Closed
-Est. Clearance Time: 1:08 PM","4/27/24, 12:09 PM","4/27/24, 1:08 PM","4/27/24, 12:09 PM",,40.957495,-111.891392
+Right Shoulder
+Est. Clearance Time: 1:08 PM","4/27/24, 12:09 PM","4/27/24, 1:08 PM","4/27/24, 12:28 PM",,40.957495,-111.891392
 UT-Incident--178438,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Shoulder
@@ -19572,7 +19576,3 @@ UT-Incident--178434,Incidents,US 89,Davis County,US 89 at MP 403,"Crash
 NB US 89 at MP 403 (2000 N / Layton) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 12:53 PM","4/27/24, 11:53 AM","4/27/24, 12:53 PM","4/27/24, 11:53 AM",,41.088959,-111.910716
-UT-Incident--178437,Incidents,US 89,Weber County,US 89 at MP 413,"Crash
-SB US 89 at MP 413 (30th / Ogden) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 1:08 PM","4/27/24, 12:10 PM","4/27/24, 1:08 PM","4/27/24, 12:10 PM",,41.209454,-111.970721
