@@ -19507,7 +19507,6 @@ UT-Incident--178420,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 7:40 AM","4/27/24, 6:41 AM","4/27/24, 7:40 AM","4/27/24, 6:41 AM",,40.079244,-111.709158
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178422,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 SB I-15 at MP 267 (N of Center St) Utah Co.
 Left Shoulder
@@ -19517,14 +19516,15 @@ UT-Incident--178421,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 Ramp SB I-215 W at MP 22 (WB I-80 Exit) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:52 AM","4/27/24, 6:54 AM","4/27/24, 7:52 AM","4/27/24, 6:54 AM",,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178425,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:52 AM","4/27/24, 7:53 AM","4/27/24, 8:52 AM","4/27/24, 7:53 AM",,40.775011,-111.949343
 UT-Incident--178424,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-Ramp EB  I-80 at MP 117 (I-215 W NB) Salt Lake Co.
+Ramp EB  I-80 at MP 117 (NB I-215 W Exit) Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 8:45 AM","4/27/24, 7:49 AM","4/27/24, 8:45 AM","4/27/24, 7:49 AM",,40.765438,-111.953251
+Est. Clearance Time: 8:45 AM","4/27/24, 7:49 AM","4/27/24, 8:45 AM","4/27/24, 8:06 AM",,40.765438,-111.953251
 UT-Incident--178426,Incidents,I-80,Salt Lake County,I-80 at MP 102,"Crash
 WB I-80 at MP 102 (SR-201 Exit / Magna) Salt Lake Co.
 Right Shoulder
