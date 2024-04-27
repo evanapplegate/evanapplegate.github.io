@@ -19402,7 +19402,6 @@ Left Lane Closed
 Est. Clearance Time: 6:00 PM","4/26/24, 4:47 PM","4/26/24, 6:00 PM",,,41.137693,-111.909879
 UT-Incident--178388,Incidents,SR 13,Box Elder County,SR 13 at MP 2,"NB SR 13 Closed
  at MP 2 (Brigham City) Box Elder Co.","4/26/24, 5:13 PM","4/26/24, 6:15 PM",,,41.515622,-112.015616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178390,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -19429,3 +19428,15 @@ UT-Incident--178395,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","4/26/24, 6:21 PM","4/26/24, 7:35 PM","4/26/24, 6:21 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178397,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
+NB I-15 at MP 59 (200 N / Cedar City) Iron Co.
+Est. Clearance Time: 8:35 PM","4/26/24, 7:17 PM","4/26/24, 8:35 PM","4/26/24, 7:17 PM",,37.68304,-113.079774
+UT-Incident--178398,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
+NB I-15 at MP 343 (Ogden) Weber Co.
+3 Right Lanes Closed
+Est. Clearance Time: 8:35 PM","4/26/24, 7:27 PM","4/26/24, 8:35 PM","4/26/24, 7:27 PM",,41.218498,-112.004065
+UT-Incident--178396,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
+SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
+Right Shoulder
+Est. Clearance Time: 8:15 PM","4/26/24, 7:07 PM","4/26/24, 8:15 PM","4/26/24, 7:07 PM",,41.144394,-111.918626
