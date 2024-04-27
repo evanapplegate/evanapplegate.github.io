@@ -19434,7 +19434,6 @@ UT-Incident--178396,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","4/26/24, 7:07 PM","4/26/24, 8:15 PM","4/26/24, 7:07 PM",,41.144394,-111.918626
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178398,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
 3 Right Lanes Closed
@@ -19457,6 +19456,11 @@ UT-Incident--178403,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled
 SB I-215 W at MP 15  Off Ramp (4700 S) Salt Lake Co.
 Cleared at 8:24 PM
 Est. Clearance Time: 9:35 PM","4/26/24, 8:24 PM","4/26/24, 9:35 PM","4/26/24, 8:24 PM",,40.659924,-111.952783
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178406,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
+SB I-15 at MP 294 (10200 S) Salt Lake Co.
+ Right Lane Closed
+Est. Clearance Time: 9:55 PM","4/26/24, 8:43 PM","4/26/24, 9:55 PM","4/26/24, 8:43 PM",,40.564298,-111.899489
 UT-Incident--178401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 WB I-80 at MP 88 (Grantsville) Tooele Co.
 Right Shoulder
