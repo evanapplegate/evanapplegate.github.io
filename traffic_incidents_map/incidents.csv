@@ -19427,7 +19427,6 @@ UT-Incident--178395,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","4/26/24, 6:21 PM","4/26/24, 7:35 PM","4/26/24, 6:21 PM",,40.724124,-111.943886
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178397,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 NB I-15 at MP 59 (200 N / Cedar City) Iron Co.
 Est. Clearance Time: 8:35 PM","4/26/24, 7:17 PM","4/26/24, 8:35 PM","4/26/24, 7:17 PM",,37.68304,-113.079774
@@ -19435,6 +19434,7 @@ UT-Incident--178396,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 SB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:15 PM","4/26/24, 7:07 PM","4/26/24, 8:15 PM","4/26/24, 7:07 PM",,41.144394,-111.918626
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178398,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 NB I-15 at MP 343 (Ogden) Weber Co.
@@ -19447,6 +19447,10 @@ UT-Incident--178402,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:15 PM","4/26/24, 8:01 PM","4/26/24, 9:15 PM","4/26/24, 8:01 PM",,41.066718,-111.970064
+UT-Incident--178403,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Stalled Vehicle
+SB I-215 W at MP 15  Off Ramp (4700 S) Salt Lake Co.
+Cleared at 8:24 PM
+Est. Clearance Time: 9:35 PM","4/26/24, 8:24 PM","4/26/24, 9:35 PM","4/26/24, 8:24 PM",,40.659924,-111.952783
 UT-Incident--178401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 WB I-80 at MP 88 (Grantsville) Tooele Co.
 Right Shoulder
