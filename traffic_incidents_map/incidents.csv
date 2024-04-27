@@ -19396,7 +19396,6 @@ Est. Clearance Time: 5:54 PM","4/26/24, 4:55 PM","4/26/24, 6:00 PM","4/26/24, 4:
 UT-Incident--178386,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 Off Ramp (Center St / Provo) Utah Co.
 Est. Clearance Time: 6:00 PM","4/26/24, 4:56 PM","4/26/24, 6:00 PM","4/26/24, 4:56 PM",,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178384,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
 EB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
 Left Lane Closed
@@ -19408,9 +19407,6 @@ UT-Incident--178390,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","4/26/24, 5:30 PM","4/26/24, 6:45 PM",,,40.722344,-111.904691
-UT-Incident--178387,Incidents,Main St,Tooele County,Main St at 900 S,"Crash
-Both Directions Main St at 900 S Tooele Co.
-Est. Clearance Time: 6:15 PM","4/26/24, 5:12 PM","4/26/24, 6:15 PM",,,40.513875,-112.309464
 UT-Incident--178391,Incidents,SR 204,Weber County,SR 204 at MP 1,"Crash
 NB SR 204 at MP 1 (31st St) Weber Co.
 Right Lane Closed
@@ -19422,3 +19418,14 @@ UT-Incident--178392,Incidents,Washington Blvd,Weber County,Washington Blvd at 28
 SB Washington Blvd at 28th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","4/26/24, 5:39 PM","4/26/24, 6:45 PM",,,41.214395,-111.970621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178387,Incidents,Main St,Tooele County,Main St at 900 S,"Crash
+Both Directions Main St at 900 S Tooele Co.
+Est. Clearance Time: 6:15 PM","4/26/24, 5:12 PM","4/26/24, 6:15 PM","4/26/24, 5:12 PM",,40.513875,-112.309464
+UT-Incident--178394,Incidents,SR 112,Tooele County,SR 112 at MP 1,"Crash
+Other SR 112 at MP 1 (Grantsville) Tooele Co.
+Est. Clearance Time: 7:15 PM","4/26/24, 6:06 PM","4/26/24, 7:15 PM","4/26/24, 6:06 PM",,40.588617,-112.416103
+UT-Incident--178395,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+EB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","4/26/24, 6:21 PM","4/26/24, 7:35 PM","4/26/24, 6:21 PM",,40.724124,-111.943886
