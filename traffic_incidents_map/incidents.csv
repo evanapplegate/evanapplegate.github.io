@@ -19462,7 +19462,6 @@ UT-Incident--178401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 WB I-80 at MP 88 (Grantsville) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","4/26/24, 7:53 PM","4/26/24, 9:30 PM","4/26/24, 7:53 PM",,40.685919,-112.447604
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178406,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 SB I-15 at MP 294 (10200 S) Salt Lake Co.
  Right Lane Closed
@@ -19471,6 +19470,7 @@ UT-Incident--178410,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:15 PM","4/26/24, 10:01 PM","4/26/24, 11:15 PM","4/26/24, 10:01 PM",,40.74966,-111.90976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178409,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
