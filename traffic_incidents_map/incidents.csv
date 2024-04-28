@@ -19596,7 +19596,6 @@ EB SR 56 at MP 57 (Cedar City) Iron Co.
 Right Lane Closed
 Est. Clearance Time: 5:35 PM","4/27/24, 4:13 PM","4/27/24, 5:35 PM","4/27/24, 4:13 PM",,37.685054,-113.142971
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178448,Incidents,2000 W,Davis County,2000 W at 300 N,"Crash
 Both Directions 2000 W at 300 N Davis Co.
 Right Lane Closed
@@ -19612,5 +19611,14 @@ UT-Incident--178449,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","4/27/24, 5:34 PM","4/27/24, 6:45 PM","4/27/24, 5:34 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178450,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
+NB I-215 W at MP 15 (4700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","4/27/24, 6:20 PM","4/27/24, 7:35 PM","4/27/24, 6:20 PM",,40.659924,-111.952783
 UT-Incident--178423,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Road weather/Road flooding
 EB SR 201 between MP 0 (I-80 Jct) and MP 6 (9100 W) Salt Lake Co.","4/27/24, 7:33 AM","4/29/24, 12:30 PM","4/27/24, 10:23 AM",,40.725554,-112.204975
+UT-Incident--178451,Incidents,SR 79,Weber County,SR 79 at MP 2,"Crash
+WB SR 79 at MP 2 (Airport Road) Weber Co.
+Right Shoulder
+Est. Clearance Time: 7:45 PM","4/27/24, 6:34 PM","4/27/24, 7:45 PM","4/27/24, 6:34 PM",,41.205067,-112.003586
