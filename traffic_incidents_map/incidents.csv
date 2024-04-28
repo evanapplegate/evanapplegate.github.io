@@ -19656,12 +19656,16 @@ UT-Incident--178461,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:39 AM","4/28/24, 4:40 AM","4/28/24, 5:39 AM","4/28/24, 4:40 AM",,40.161636,-111.646866
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178463,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 AM","4/28/24, 7:26 AM","4/28/24, 8:30 AM","4/28/24, 7:26 AM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178464,Incidents,1100 N,Davis County,1100 N 437,"Crash
+EB 1100 N Davis Co.
+Center Lanes Closed
+Est. Clearance Time: 9:00 AM","4/28/24, 7:58 AM","4/28/24, 9:00 AM","4/28/24, 8:00 AM",,40.861175,-111.900512
 UT-Incident--178462,Incidents,8000 S,Utah County,8000 S 1983,"Crash
 Both Directions 2000 W  8000 S (Utah Co)
 Use Alt Route","4/28/24, 5:06 AM","4/28/24, 7:00 AM","4/28/24, 5:06 AM",,40.085348,-111.702075
