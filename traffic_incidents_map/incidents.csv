@@ -19625,7 +19625,6 @@ Est. Clearance Time: 8:00 PM","4/27/24, 6:54 PM","4/27/24, 8:00 PM","4/27/24, 6:
 UT-Incident--178453,Incidents,Washington Blvd,Weber County,Washington Blvd at 36th St,"Crash
 SB Washington Blvd at 35th St Weber Co.
 Est. Clearance Time: 8:30 PM","4/27/24, 7:21 PM","4/27/24, 8:30 PM","4/27/24, 7:21 PM",,41.197792,-111.971001
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178455,Incidents,US 6,Utah County,US 6 at MP 183,"Crash
 WB US 6 at MP 183 (1 Mi W of Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 9:15 PM","4/27/24, 8:11 PM","4/27/24, 9:15 PM","4/27/24, 8:11 PM",,40.035001,-111.524017
@@ -19634,6 +19633,7 @@ UT-Incident--178454,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 9:15 PM","4/27/24, 8:05 PM","4/27/24, 9:15 PM","4/27/24, 8:05 PM",,40.621691,-111.903876
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178423,Incidents,SR 201,Salt Lake County,SR 201 at MP 1,"Road weather/Road flooding
 EB SR 201 between MP 0 (I-80 Jct) and MP 6 (9100 W) Salt Lake Co.","4/27/24, 7:33 AM","4/29/24, 12:30 PM","4/27/24, 10:23 AM",,40.725554,-112.204975
 UT-Incident--178456,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
