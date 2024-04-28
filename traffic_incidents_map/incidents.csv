@@ -19618,7 +19618,6 @@ UT-Incident--178451,Incidents,SR 79,Weber County,SR 79 at MP 2,"Crash
 WB SR 79 at MP 2 (Airport Road) Weber Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","4/27/24, 6:34 PM","4/27/24, 7:45 PM","4/27/24, 6:34 PM",,41.205067,-112.003586
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178452,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 On Ramp (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
@@ -19626,6 +19625,7 @@ Est. Clearance Time: 8:00 PM","4/27/24, 6:54 PM","4/27/24, 8:00 PM","4/27/24, 6:
 UT-Incident--178453,Incidents,Washington Blvd,Weber County,Washington Blvd at 36th St,"Crash
 SB Washington Blvd at 35th St Weber Co.
 Est. Clearance Time: 8:30 PM","4/27/24, 7:21 PM","4/27/24, 8:30 PM","4/27/24, 7:21 PM",,41.197792,-111.971001
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178454,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
@@ -19636,3 +19636,7 @@ EB SR 201 between MP 0 (I-80 Jct) and MP 6 (9100 W) Salt Lake Co.","4/27/24, 7:3
 UT-Incident--178455,Incidents,US 6,Utah County,US 6 at MP 183,"Crash
 WB US 6 at MP 183 (1 Mi W of Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 9:15 PM","4/27/24, 8:11 PM","4/27/24, 9:15 PM","4/27/24, 8:11 PM",,40.035001,-111.524017
+UT-Incident--178456,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
+EB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","4/27/24, 8:20 PM","4/27/24, 9:35 PM","4/27/24, 8:20 PM",,39.932532,-111.161681
