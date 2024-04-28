@@ -19674,11 +19674,15 @@ UT-Incident--178466,Incidents,US 40,Duchesne County,US 40 at MP 62,"Crash
 WB US 40 at MP 62 (Fruitland) Duchesne Co.
 Right Shoulder
 Est. Clearance Time: 11:40 AM","4/28/24, 10:41 AM","4/28/24, 11:40 AM","4/28/24, 10:41 AM",,40.212468,-110.839928
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178467,Incidents,MAIN ST,Davis County,MAIN ST 1001,"Crash
 SB 900 N  Main St Davis Co.
 Est. Clearance Time: 12:30 PM","4/28/24, 11:28 AM","4/28/24, 12:30 PM","4/28/24, 11:41 AM",,40.898857,-111.878932
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178469,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
+SB I-15 at MP 271 (800 N / Orem) Utah Co.
+Left Shoulder
+Est. Clearance Time: 1:50 PM","4/28/24, 12:51 PM","4/28/24, 1:50 PM","4/28/24, 12:51 PM",,40.301853,-111.72593
 UT-Incident--178468,Incidents,I-15 SB X295 On 9000 S Ramp,Salt Lake County,I-15 SB X295 On 9000 S Ramp at 9000 S,"Vehicle on fire
 SB I-15 9000 S On Ramp at 9000 S (Salt Lake County)
 2 Left Lanes Closed
