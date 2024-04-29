@@ -19705,7 +19705,6 @@ UT-Incident--178474,Incidents,SR 179,Tooele County,SR 179 at MP 1,"Crash
 NB SR 179 Closed
  at MP 1 (SR 179 north of HWY 138) Tooele Co.","4/28/24, 4:37 PM","4/28/24, 5:34 PM","4/28/24, 4:40 PM",,40.636834,-112.193569
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178475,Incidents,I-15,Washington County,I-15 at MP 38,"Stalled Vehicle
 SB I-15 at MP 38 (4 mi S of Kanarraville) Washington Co.
 Right Shoulder
@@ -19714,7 +19713,8 @@ UT-Incident--178476,Incidents,I-15,Washington County,I-15 at MP 40,"Crash
 SB I-15 Closed
 Traffic using right shoulder
  at MP 40 (2 mi S of Kanarraville) Washington Co.","4/28/24, 5:16 PM","4/28/24, 6:15 PM","4/28/24, 5:39 PM",,37.450828,-113.22929
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178477,Incidents,US 6,Utah County,US 6 at MP 191,"Crash
-EB US 6 Closed
+Both Directions US 6 Closed
  at MP 191 (Red Narrows) Utah Co.
-Use Alt Route","4/28/24, 5:44 PM","4/28/24, 6:42 PM","4/28/24, 5:44 PM",,39.995871,-111.403127
+Use Alt Route","4/28/24, 5:44 PM","4/28/24, 6:42 PM","4/28/24, 5:53 PM",,39.995871,-111.403127
