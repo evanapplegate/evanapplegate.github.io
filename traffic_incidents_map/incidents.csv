@@ -19759,7 +19759,6 @@ UT-Incident--178488,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 Ramp NB I-15 at MP 269 (Univ Pkwy exit) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 3:04 PM","4/29/24, 2:06 PM","4/29/24, 3:04 PM","4/29/24, 2:06 PM",,40.274259,-111.718248
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178490,Incidents,2100 S,Salt Lake County,2100 S at 300 W,"Crash
 WB 2100 S at 300 W Salt Lake Co.
 Right Lane Closed
@@ -19773,7 +19772,18 @@ SB Mountain View Corridor Hwy at Old Bingham Hwy Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","4/29/24, 3:38 PM","4/29/24, 4:30 PM","4/29/24, 3:38 PM",,40.567242,-112.033563
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178494,Incidents,12th St,Weber County,12th St at Monroe Blvd,"Crash
+Both Directions 12th St at Monroe Blvd Weber Co.
+Est. Clearance Time: 5:15 PM","4/29/24, 4:14 PM","4/29/24, 5:15 PM","4/29/24, 4:14 PM",,41.244041,-111.950463
 UT-Incident--178492,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","4/29/24, 3:47 PM","4/29/24, 4:45 PM","4/29/24, 3:47 PM",,40.63583,-111.905066
+UT-Incident--178495,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
+NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","4/29/24, 4:16 PM","4/29/24, 5:15 PM","4/29/24, 4:16 PM",,41.102376,-112.003101
+UT-Incident--178493,Incidents,I-80,Summit County,I-80 at MP 168,"Crash
+WB I-80 at MP 168 (I-84/ Echo Jct) Summit Co.
+Est. Clearance Time: 5:15 PM","4/29/24, 4:04 PM","4/29/24, 5:15 PM","4/29/24, 4:04 PM",,40.976838,-111.428675
