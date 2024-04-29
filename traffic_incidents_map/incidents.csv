@@ -19779,7 +19779,6 @@ UT-Incident--178495,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","4/29/24, 4:16 PM","4/29/24, 5:15 PM","4/29/24, 4:16 PM",,41.102376,-112.003101
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178496,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
@@ -19788,13 +19787,14 @@ UT-Incident--178493,Incidents,I-80,Summit County,I-80 at MP 168,"Crash
 WB I-80 at MP 168 (I-84/ Echo Jct) Summit Co.
 Est. Clearance Time: 5:15 PM","4/29/24, 4:04 PM","4/29/24, 5:15 PM","4/29/24, 4:04 PM",,40.976838,-111.428675
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178494,Incidents,12th St,Weber County,12th St at Monroe Blvd,"Crash
-Both Directions 12th St at Monroe Blvd Weber Co.
-Est. Clearance Time: 5:15 PM","4/29/24, 4:14 PM","4/29/24, 5:15 PM","4/29/24, 4:14 PM",,41.244041,-111.950463
 UT-Incident--178498,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 19,"Crash
 SB Bangerter Hwy at MP 19 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:42 PM","4/29/24, 4:43 PM","4/29/24, 5:42 PM","4/29/24, 4:43 PM",,40.697345,-111.980508
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178494,Incidents,12th St,Weber County,12th St at Monroe Blvd,"Crash
+Both Directions 12th St at Monroe Blvd Weber Co.
+Est. Clearance Time: 5:15 PM","4/29/24, 4:14 PM","4/29/24, 5:15 PM","4/29/24, 4:14 PM",,41.244041,-111.950463
 UT-Incident--178497,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
