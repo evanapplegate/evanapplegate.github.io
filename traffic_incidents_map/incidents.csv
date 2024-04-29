@@ -19786,11 +19786,11 @@ Est. Clearance Time: 5:30 PM","4/29/24, 4:28 PM","4/29/24, 5:30 PM","4/29/24, 4:
 UT-Incident--178493,Incidents,I-80,Summit County,I-80 at MP 168,"Crash
 WB I-80 at MP 168 (I-84/ Echo Jct) Summit Co.
 Est. Clearance Time: 5:15 PM","4/29/24, 4:04 PM","4/29/24, 5:15 PM","4/29/24, 4:04 PM",,40.976838,-111.428675
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178498,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 19,"Crash
 SB Bangerter Hwy at MP 19 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:42 PM","4/29/24, 4:43 PM","4/29/24, 5:42 PM","4/29/24, 4:43 PM",,40.697345,-111.980508
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178494,Incidents,12th St,Weber County,12th St at Monroe Blvd,"Crash
 Both Directions 12th St at Monroe Blvd Weber Co.
@@ -19803,3 +19803,7 @@ UT-Incident--178499,Incidents,I-15,Juab County,I-15 at MP 202,"Crash
 NB I-15 at MP 202 (14 mi N of Scipio) Juab Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","4/29/24, 4:49 PM","4/29/24, 6:00 PM","4/29/24, 4:49 PM",,39.43387,-112.035294
+UT-Incident--178500,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:22 PM","4/29/24, 5:23 PM","4/29/24, 6:22 PM","4/29/24, 5:23 PM",,40.328045,-111.73498
