@@ -19760,7 +19760,6 @@ Ramp NB I-15 at MP 269 (Univ Pkwy exit) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 3:04 PM","4/29/24, 2:06 PM","4/29/24, 3:04 PM","4/29/24, 2:06 PM",,40.274259,-111.718248
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178490,Incidents,2100 S,Salt Lake County,2100 S at 300 W,"Crash
 WB 2100 S at 300 W Salt Lake Co.
 Right Lane Closed
@@ -19773,3 +19772,8 @@ UT-Incident--178491,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy at Old Bingham Hwy Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","4/29/24, 3:38 PM","4/29/24, 4:30 PM","4/29/24, 3:38 PM",,40.567242,-112.033563
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178492,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","4/29/24, 3:47 PM","4/29/24, 4:45 PM","4/29/24, 3:47 PM",,40.63583,-111.905066
