@@ -19824,7 +19824,6 @@ UT-Incident--178507,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:17 PM","4/29/24, 6:17 PM","4/29/24, 7:17 PM","4/29/24, 6:17 PM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178510,Incidents,I-15,Weber County,I-15 at MP 342,"Crash
 SB I-15 at MP 342 (29th St) Weber Co.
 Right Shoulder
@@ -19833,10 +19832,6 @@ UT-Incident--178509,Incidents,SR 179,Tooele County,SR 179 at MP 1,"Crash
 NB SR 179 at MP 1 (SR 179 north of HWY 138) Tooele Co.
 Est. Clearance Time: 7:45 PM","4/29/24, 6:55 PM","4/29/24, 7:45 PM","4/29/24, 6:55 PM",,40.636834,-112.193569
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178511,Incidents,I-15,Box Elder County,I-15 at MP 372,"Crash
-SB I-15 at MP 372 (Honeyville) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 8:30 PM","4/29/24, 7:30 PM","4/29/24, 8:30 PM","4/29/24, 7:30 PM",,41.625024,-112.09268
 UT-Incident--178512,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
@@ -19845,3 +19840,8 @@ UT-Incident--178501,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Vehicle on f
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:30 PM","4/29/24, 5:31 PM","4/29/24, 6:30 PM","4/29/24, 5:32 PM",,40.765438,-111.953251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178511,Incidents,I-15,Box Elder County,I-15 at MP 372,"Crash
+SB I-15 at MP 372 (Honeyville) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","4/29/24, 7:30 PM","4/29/24, 8:30 PM","4/29/24, 7:30 PM",,41.625024,-112.09268
