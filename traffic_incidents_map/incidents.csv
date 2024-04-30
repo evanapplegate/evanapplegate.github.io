@@ -19958,7 +19958,6 @@ UT-Incident--178544,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at 98
 NB Bangerter Hwy at 10000 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","4/30/24, 3:39 PM","4/30/24, 4:45 PM",,,40.568594,-111.977134
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178547,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 Off Ramp (1400 N Springville) Utah Co.
 Right Shoulder
@@ -19972,14 +19971,23 @@ UT-Incident--178551,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","4/30/24, 4:24 PM","4/30/24, 5:30 PM","4/30/24, 5:06 PM",,40.328045,-111.73498
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178553,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S Offramp) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","4/30/24, 4:50 PM","4/30/24, 5:45 PM","4/30/24, 4:50 PM",,40.53585,-111.892927
+UT-Incident--178557,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
+NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","4/30/24, 5:26 PM","4/30/24, 6:30 PM","4/30/24, 5:26 PM",,40.274259,-111.718248
+UT-Incident--178558,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 (600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:35 PM","4/30/24, 5:27 PM","4/30/24, 6:35 PM","4/30/24, 5:27 PM",,40.74966,-111.90976
 UT-Incident--178552,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 5:35 PM","4/30/24, 4:25 PM","4/30/24, 5:35 PM","4/30/24, 4:41 PM",,40.765165,-111.991516
+Left Shoulder
+Est. Clearance Time: 5:35 PM","4/30/24, 4:25 PM","4/30/24, 5:35 PM","4/30/24, 5:22 PM",,40.765165,-111.991516
 UT-Incident--178555,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Crash
 NB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
 Est. Clearance Time: 6:15 PM","4/30/24, 5:03 PM","4/30/24, 6:15 PM","4/30/24, 5:03 PM",,40.883316,-111.937161
