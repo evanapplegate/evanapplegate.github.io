@@ -19954,24 +19954,24 @@ UT-Incident--178550,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","4/30/24, 4:21 PM","4/30/24, 5:30 PM",,,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178544,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at 9800 S/SHIELDS LN,"Crash
 NB Bangerter Hwy at 10000 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:45 PM","4/30/24, 3:39 PM","4/30/24, 4:45 PM",,,40.568594,-111.977134
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178554,Incidents,200 N,Davis County,200 N 101,"Crash
-WB 200 N at 200 W Davis Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","4/30/24, 5:00 PM","4/30/24, 6:00 PM","4/30/24, 5:01 PM",,41.038066,-111.93992
 UT-Incident--178547,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 Off Ramp (1400 N Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","4/30/24, 4:12 PM","4/30/24, 5:35 PM","4/30/24, 4:12 PM",,40.176162,-111.646775
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178554,Incidents,200 N,Davis County,200 N 101,"Crash
+WB 200 N at 200 W Davis Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 PM","4/30/24, 5:00 PM","4/30/24, 6:00 PM","4/30/24, 5:01 PM",,41.038066,-111.93992
 UT-Incident--178551,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 5:30 PM","4/30/24, 4:24 PM","4/30/24, 5:30 PM","4/30/24, 4:38 PM",,40.328045,-111.73498
+Right Shoulder
+Est. Clearance Time: 5:30 PM","4/30/24, 4:24 PM","4/30/24, 5:30 PM","4/30/24, 5:06 PM",,40.328045,-111.73498
 UT-Incident--178553,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S Offramp) Salt Lake Co.
 Left Shoulder
@@ -19983,3 +19983,7 @@ Est. Clearance Time: 5:35 PM","4/30/24, 4:25 PM","4/30/24, 5:35 PM","4/30/24, 4:
 UT-Incident--178555,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Crash
 NB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
 Est. Clearance Time: 6:15 PM","4/30/24, 5:03 PM","4/30/24, 6:15 PM","4/30/24, 5:03 PM",,40.883316,-111.937161
+UT-Incident--178556,Incidents,US 91,Cache County,US 91 at MP 17,"Crash
+SB US 91 at MP 17 (2 MI from Logan) Cache Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:35 PM","4/30/24, 5:16 PM","4/30/24, 6:35 PM","4/30/24, 5:18 PM",,41.616749,-111.932782
