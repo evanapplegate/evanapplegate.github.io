@@ -19962,7 +19962,6 @@ UT-Incident--178547,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 Off Ramp (1400 N Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","4/30/24, 4:12 PM","4/30/24, 5:35 PM","4/30/24, 4:12 PM",,40.176162,-111.646775
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178554,Incidents,200 N,Davis County,200 N 101,"Crash
 WB 200 N at 200 W Davis Co.
 Right Lane Closed
@@ -19972,25 +19971,42 @@ NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","4/30/24, 4:24 PM","4/30/24, 5:30 PM","4/30/24, 5:06 PM",,40.328045,-111.73498
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178553,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
-NB I-15 at MP 292 (11400 S Offramp) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 5:45 PM","4/30/24, 4:50 PM","4/30/24, 5:45 PM","4/30/24, 4:50 PM",,40.53585,-111.892927
 UT-Incident--178557,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","4/30/24, 5:26 PM","4/30/24, 6:30 PM","4/30/24, 5:26 PM",,40.274259,-111.718248
-UT-Incident--178558,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
-NB I-15 at MP 307 (600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:35 PM","4/30/24, 5:27 PM","4/30/24, 6:35 PM","4/30/24, 5:27 PM",,40.74966,-111.90976
 UT-Incident--178552,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","4/30/24, 4:25 PM","4/30/24, 5:35 PM","4/30/24, 5:22 PM",,40.765165,-111.991516
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178553,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292 (11400 S Offramp) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","4/30/24, 4:50 PM","4/30/24, 5:45 PM","4/30/24, 4:50 PM",,40.53585,-111.892927
+UT-Incident--178558,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
+NB I-15 at MP 307 (600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:35 PM","4/30/24, 5:27 PM","4/30/24, 6:35 PM","4/30/24, 5:27 PM",,40.74966,-111.90976
+UT-Incident--178562,Incidents,I-15,Utah County,I-15 at MP 280,"Stalled Vehicle
+SB I-15 at MP 280 (Lehi) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:30 PM","4/30/24, 5:36 PM","4/30/24, 6:30 PM","4/30/24, 5:36 PM",,40.39191,-111.835579
+UT-Incident--178563,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Stalled Vehicle
+SB I-15 at MP 302 (4100 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:45 PM","4/30/24, 5:41 PM","4/30/24, 6:45 PM","4/30/24, 5:41 PM",,40.679062,-111.902181
+UT-Incident--178561,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+WB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","4/30/24, 5:35 PM","4/30/24, 6:45 PM","4/30/24, 5:35 PM",,40.636258,-111.914012
 UT-Incident--178555,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 4,"Crash
 NB Legacy Pkwy at MP 4 (500 S in Woods Cross) Davis Co.
 Est. Clearance Time: 6:15 PM","4/30/24, 5:03 PM","4/30/24, 6:15 PM","4/30/24, 5:03 PM",,40.883316,-111.937161
+UT-Incident--178559,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","4/30/24, 5:30 PM","4/30/24, 6:30 PM","4/30/24, 5:30 PM",,40.72606,-111.962907
 UT-Incident--178556,Incidents,US 91,Cache County,US 91 at MP 17,"Crash
 SB US 91 at MP 17 (2 MI from Logan) Cache Co.
 2 Left Lanes Closed
