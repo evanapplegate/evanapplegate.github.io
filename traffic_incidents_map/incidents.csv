@@ -19934,11 +19934,11 @@ Est. Clearance Time: 4:15 PM","4/30/24, 3:09 PM","4/30/24, 4:15 PM","4/30/24, 3:
 UT-Incident--178541,Incidents,Main St,Sanpete County,Main St at State St,"Crash
 WB Main St at State St Sanpete Co.
 Est. Clearance Time: 4:00 PM","4/30/24, 3:08 PM","4/30/24, 4:00 PM","4/30/24, 3:08 PM",,39.546791,-111.455286
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178546,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 NB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","4/30/24, 4:03 PM","4/30/24, 5:15 PM",,,40.355866,-111.778344
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178545,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
 NB 1900 W at 5600 S Weber Co.
@@ -19952,10 +19952,18 @@ UT-Incident--178547,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 Off Ramp (1400 N Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","4/30/24, 4:12 PM","4/30/24, 5:35 PM",,,40.176162,-111.646775
+UT-Incident--178551,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","4/30/24, 4:24 PM","4/30/24, 5:30 PM",,,40.328045,-111.73498
 UT-Incident--178548,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","4/30/24, 4:12 PM","4/30/24, 5:15 PM",,,40.765772,-111.934049
+UT-Incident--178552,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:35 PM","4/30/24, 4:25 PM","4/30/24, 5:35 PM",,,40.765165,-111.991516
 UT-Incident--178549,Incidents,SR 126,Davis County,SR 126 at MP 0,"Crash
 NB SR 126 at MP 0 (US-89 JCT) Davis Co.
 Right Lane Closed
