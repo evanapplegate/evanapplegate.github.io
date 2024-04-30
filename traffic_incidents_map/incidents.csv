@@ -19843,7 +19843,6 @@ UT-Incident--178511,Incidents,I-15,Box Elder County,I-15 at MP 372,"Crash
 SB I-15 at MP 372 (Honeyville) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","4/29/24, 7:30 PM","4/29/24, 8:30 PM","4/29/24, 7:30 PM",,41.625024,-112.09268
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178513,Incidents,US 91,Box Elder County,US 91 at MP 5,"Crash
 SB US 91 at MP 5 (0.5 Mantua) Box Elder Co.
 Est. Clearance Time: 9:45 PM","4/29/24, 8:48 PM","4/29/24, 9:45 PM","4/29/24, 8:48 PM",,41.497336,-111.967135
@@ -19852,3 +19851,7 @@ UT-Incident--178514,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:17 PM","4/29/24, 9:17 PM","4/29/24, 10:17 PM","4/29/24, 9:17 PM",,40.564298,-111.899489
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178515,Incidents,I-70,Emery County,I-70 at MP 158,"Vehicle on Fire
+EB I-70 Closed
+ at MP 158 (1 mi W of Green River) Emery Co.","4/29/24, 9:45 PM","4/30/24, 12:42 AM","4/29/24, 9:53 PM",,38.982019,-110.231802
