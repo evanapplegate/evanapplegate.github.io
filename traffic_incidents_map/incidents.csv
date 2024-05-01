@@ -20035,7 +20035,6 @@ UT-Incident--178569,Incidents,State St,Salt Lake County,State St at 600 S,"Crash
 SB State St at 600 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5/1/2024 12:00 AM","4/30/24, 9:18 PM","5/1/24, 12:00 AM","4/30/24, 11:05 PM",,40.756433,-111.888222
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178573,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder Closed
@@ -20049,11 +20048,12 @@ UT-Incident--178576,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 NB I-15 at MP 280 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:35 AM","5/1/24, 8:35 AM","5/1/24, 9:35 AM","5/1/24, 8:35 AM",View on map,40.39191,-111.835579
-UT-Incident--178577,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
-NB I-15 at MP 291 (12300 S) Salt Lake Co.
-Right Closed
-Est. Clearance Time: 9:38 AM","5/1/24, 8:40 AM","5/1/24, 9:38 AM","5/1/24, 8:40 AM",View on map,40.52103,-111.891246
 UT-Incident--178574,Incidents,I-80,Summit County,I-80 at MP 167,"Road damage
 WB I-80 at MP 167 (I-84/ Echo Jct) Summit Co.
 2 Right Lanes Closed
 Est. Clearance Time: 9:03 AM","5/1/24, 8:08 AM","5/1/24, 9:03 AM","5/1/24, 8:08 AM",View on map,40.966157,-111.437956
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178577,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Right Closed
+Est. Clearance Time: 9:38 AM","5/1/24, 8:40 AM","5/1/24, 9:38 AM","5/1/24, 8:40 AM",View on map,40.52103,-111.891246
