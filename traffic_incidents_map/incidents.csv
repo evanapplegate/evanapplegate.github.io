@@ -20029,7 +20029,6 @@ EB 3500 S at I-215 W, Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:34 PM","4/30/24, 9:35 PM","4/30/24, 10:34 PM","4/30/24, 9:35 PM",,40.696463,-111.955181
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178570,Incidents,I-70,Sevier County,I-70 at MP 27,"Crash
 WB I-70 at MP 27 (10 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 10:35 PM","4/30/24, 9:25 PM","4/30/24, 10:35 PM","4/30/24, 9:25 PM",,38.642038,-112.219644
@@ -20037,3 +20036,4 @@ UT-Incident--178569,Incidents,State St,Salt Lake County,State St at 600 S,"Crash
 SB State St at 600 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5/1/2024 12:00 AM","4/30/24, 9:18 PM","5/1/24, 12:00 AM","4/30/24, 11:05 PM",,40.756433,-111.888222
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
