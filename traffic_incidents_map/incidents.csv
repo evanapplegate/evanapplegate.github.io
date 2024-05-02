@@ -20207,35 +20207,39 @@ Ramp I-15 at MP 303 (3300 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:50 PM","5/2/24, 4:52 PM","5/2/24, 5:50 PM","5/2/24, 4:52 PM",View on map,40.693589,-111.902881
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178622,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
-SB I-15 at MP 260 (400 S / Springville) Utah Co.
-Right Shoulder
-Est. Clearance Time: 5:20 PM","5/2/24, 4:17 PM","5/2/24, 5:20 PM","5/2/24, 4:35 PM",View on map,40.161636,-111.646866
-UT-Incident--178625,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
-Ramp I-15 at MP 301 (4500 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:36 PM","5/2/24, 4:36 PM","5/2/24, 5:36 PM","5/2/24, 4:36 PM",View on map,40.664677,-111.90152
-UT-Incident--178627,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
-NB I-15 at MP 272 (1600 N / Orem) Utah Co.
-Right Shoulder
-Est. Clearance Time: 6:07 PM","5/2/24, 5:15 PM","5/2/24, 6:07 PM","5/2/24, 5:15 PM",View on map,40.316406,-111.72616
 UT-Incident--178628,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:15 PM","5/2/24, 5:15 PM","5/2/24, 6:15 PM","5/2/24, 5:15 PM",View on map,40.287343,-111.725712
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178633,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 18,"Stalled Vehicle
+SB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:37 PM","5/2/24, 5:41 PM","5/2/24, 6:37 PM","5/2/24, 5:41 PM",,40.68297,-111.981592
+UT-Incident--178622,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+SB I-15 at MP 260 (400 S / Springville) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:20 PM","5/2/24, 4:17 PM","5/2/24, 5:20 PM","5/2/24, 4:35 PM",,40.161636,-111.646866
+UT-Incident--178625,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+Ramp I-15 at MP 301 (4500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:36 PM","5/2/24, 4:36 PM","5/2/24, 5:36 PM","5/2/24, 4:36 PM",,40.664677,-111.90152
+UT-Incident--178627,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+NB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:07 PM","5/2/24, 5:15 PM","5/2/24, 6:07 PM","5/2/24, 5:15 PM",,40.316406,-111.72616
 UT-Incident--178629,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 6:20 PM","5/2/24, 5:19 PM","5/2/24, 6:20 PM","5/2/24, 5:19 PM",View on map,40.453646,-111.91388
+Est. Clearance Time: 6:20 PM","5/2/24, 5:19 PM","5/2/24, 6:20 PM","5/2/24, 5:19 PM",,40.453646,-111.91388
 UT-Incident--178630,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 NB I-15 at MP 340 (Riverdale) Weber Co.
 Right Lane Closed
-Est. Clearance Time: 6:21 PM","5/2/24, 5:22 PM","5/2/24, 6:21 PM","5/2/24, 5:22 PM",View on map,41.182676,-112.014444
+Est. Clearance Time: 6:21 PM","5/2/24, 5:22 PM","5/2/24, 6:21 PM","5/2/24, 5:22 PM",,41.182676,-112.014444
 UT-Incident--178631,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 6:27 PM","5/2/24, 5:27 PM","5/2/24, 6:27 PM","5/2/24, 5:27 PM",View on map,40.621691,-111.903876
+Est. Clearance Time: 6:27 PM","5/2/24, 5:27 PM","5/2/24, 6:27 PM","5/2/24, 5:27 PM",,40.621691,-111.903876
 UT-Incident--178623,Incidents,SR 132,Juab County,SR 132 at MP 35,"Crash
 EB SR 132 at MP 35 (1 MI from Nephi) Juab Co.
-Est. Clearance Time: 5:20 PM","5/2/24, 4:22 PM","5/2/24, 5:20 PM","5/2/24, 4:22 PM",View on map,39.713474,-111.803531
+Est. Clearance Time: 5:20 PM","5/2/24, 4:22 PM","5/2/24, 5:20 PM","5/2/24, 4:22 PM",,39.713474,-111.803531
