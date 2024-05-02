@@ -20168,11 +20168,6 @@ WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:21 PM","5/2/24, 12:21 PM","5/2/24, 1:21 PM","5/2/24, 12:21 PM",View on map,40.724933,-112.039659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178614,Incidents,I-84,Box Elder County,I-84 at MP 24,"Crash
-EB I-84 at MP 24 (14 mi N of Tremonton) Box Elder Co.
-All traffic must use shoulder to pass.
-Est. Clearance Time: 1:11 PM","5/2/24, 12:12 PM","5/2/24, 1:11 PM","5/2/24, 12:34 PM",View on map,41.846768,-112.44232
 UT-Incident--178616,Incidents,I-84,Weber County,I-84 at MP 88,"Crash
 EB I-84 at MP 88 (Mouth of Weber Canyon) Weber Co.
 Right Lane Closed
@@ -20180,3 +20175,8 @@ Est. Clearance Time: 2:07 PM","5/2/24, 1:08 PM","5/2/24, 2:07 PM","5/2/24, 1:10 
 UT-Incident--178613,Incidents,SR 143,Iron County,SR 143 at MP 11,"Both Directions SR 143 Closed
  at MP 11 (Dry lakes Rd) Iron Co.
 Use Alt Route","5/2/24, 11:29 AM","5/2/24, 12:27 PM","5/2/24, 12:53 PM",View on map,37.746661,-112.83781
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178614,Incidents,I-84,Box Elder County,I-84 at MP 24,"Crash
+EB I-84 at MP 24 (14 mi N of Tremonton) Box Elder Co.
+All traffic must use shoulder to pass.
+Est. Clearance Time: 1:11 PM","5/2/24, 12:12 PM","5/2/24, 1:11 PM","5/2/24, 12:34 PM",View on map,41.846768,-112.44232
