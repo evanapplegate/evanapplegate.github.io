@@ -20355,7 +20355,6 @@ UT-Incident--178668,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:15 PM","5/3/24, 4:09 PM","5/3/24, 5:15 PM","5/3/24, 4:09 PM",View on map,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178670,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Est. Clearance Time: 5:24 PM","5/3/24, 4:27 PM","5/3/24, 5:24 PM","5/3/24, 4:27 PM",View on map,40.736823,-111.90475
@@ -20368,6 +20367,7 @@ UT-Incident--178664,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 NB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","5/3/24, 3:32 PM","5/3/24, 4:45 PM","5/3/24, 3:32 PM",View on map,41.054659,-111.961089
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178672,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
@@ -20376,3 +20376,11 @@ UT-Incident--178673,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 Ramp I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:58 PM","5/3/24, 4:59 PM","5/3/24, 5:58 PM","5/3/24, 4:59 PM",View on map,40.431127,-111.890772
+UT-Incident--178674,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:15 PM","5/3/24, 5:06 PM","5/3/24, 6:15 PM","5/3/24, 5:06 PM",View on map,40.621691,-111.903876
+UT-Incident--178675,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+SB I-15 at MP 292 (11400 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","5/3/24, 5:12 PM","5/3/24, 6:35 PM","5/3/24, 5:12 PM",View on map,40.53585,-111.892927
