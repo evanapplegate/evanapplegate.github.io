@@ -20269,6 +20269,10 @@ UT-Incident--178623,Incidents,SR 132,Juab County,SR 132 at MP 35,"Crash
 EB SR 132 at MP 35 (1 MI from Nephi) Juab Co.
 Est. Clearance Time: 5:20 PM","5/2/24, 4:22 PM","5/2/24, 5:20 PM","5/2/24, 4:22 PM",View on map,39.713474,-111.803531
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178646,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB Ramp I-15 at MP 309 (600 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:22 AM","5/3/24, 5:24 AM","5/3/24, 6:22 AM","5/3/24, 5:24 AM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178644,Incidents,I-15,Iron County,I-15 at MP 50,"Crash
 NB I-15 at MP 50 (Kanarraville) Iron Co.
@@ -20277,10 +20281,6 @@ Est. Clearance Time: 4:29 PM","5/3/24, 4:29 AM","5/3/24, 4:29 PM","5/3/24, 6:06 
 UT-Incident--178645,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Est. Clearance Time: 6:47 AM","5/3/24, 4:48 AM","5/3/24, 6:47 AM","5/3/24, 6:06 AM",,38.122254,-112.635013
-UT-Incident--178646,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
-NB Ramp I-15 at MP 309 (600 N) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:22 AM","5/3/24, 5:24 AM","5/3/24, 6:22 AM","5/3/24, 5:24 AM",,40.777705,-111.910735
 UT-Incident--178647,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 WB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Right Shoulder
