@@ -20489,7 +20489,6 @@ WB US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:30 PM","5/4/24, 1:28 PM","5/4/24, 2:30 PM","5/4/24, 1:28 PM",View on map,40.029223,-111.507404
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178707,Incidents,1300 S,Salt Lake County,1300 S 621,"Fire affecting roadway
 Both Directions of 1300 S closed at 600 E Salt Lake Co.
 Est. Clearance Time: 4:22 PM","5/4/24, 3:23 PM","5/4/24, 4:22 PM","5/4/24, 3:25 PM",View on map,40.741645,-111.873706
@@ -20497,10 +20496,15 @@ UT-Incident--178704,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:47 PM","5/4/24, 2:48 PM","5/4/24, 4:47 PM","5/4/24, 3:41 PM",View on map,40.63583,-111.905066
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178706,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:16 PM","5/4/24, 3:17 PM","5/4/24, 4:16 PM","5/4/24, 3:17 PM",View on map,40.480607,-111.902252
+UT-Incident--178709,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","5/4/24, 4:08 PM","5/4/24, 5:15 PM","5/4/24, 4:08 PM",View on map,40.736823,-111.90475
 UT-Incident--178708,Incidents,I-80,Summit County,I-80 at MP 154,"Crash
 WB I-80 at MP 154 (1 mi W of Wanship) Summit Co.
 Right Lane Closed
