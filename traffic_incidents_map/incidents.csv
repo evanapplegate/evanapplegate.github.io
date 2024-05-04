@@ -20473,7 +20473,6 @@ UT-Incident--178702,Incidents,I-15,Washington County,I-15 at MP 14,"Crash
 NB I-15 at MP 14 (1 mi NE of Washington) Washington Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:30 PM","5/4/24, 1:10 PM","5/4/24, 2:30 PM","5/4/24, 1:24 PM",,37.153827,-113.480059
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178701,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Shoulder
@@ -20481,6 +20480,7 @@ Est. Clearance Time: 2:05 PM","5/4/24, 1:06 PM","5/4/24, 2:05 PM","5/4/24, 1:06 
 UT-Incident--178700,Incidents,SR 12,Garfield County,SR 12 at MP 86,"Crash
 Both Directions SR 12 at MP 86 (Boulder) Garfield Co.
 Est. Clearance Time: 2:58 PM","5/4/24, 12:59 PM","5/4/24, 2:58 PM","5/4/24, 12:59 PM",,37.901037,-111.432251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178704,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (5800 S) Salt Lake Co.
