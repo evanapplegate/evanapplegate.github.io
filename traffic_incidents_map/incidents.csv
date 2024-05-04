@@ -20474,7 +20474,6 @@ NB I-15 at MP 14 (1 mi NE of Washington) Washington Co.
 2 Left Lanes Closed
 Est. Clearance Time: 2:30 PM","5/4/24, 1:10 PM","5/4/24, 2:30 PM","5/4/24, 1:24 PM",,37.153827,-113.480059
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178701,Incidents,I-215 E,Salt Lake County,I-215 E at MP 2,"Crash
 SB I-215 E at MP 2 (3500 S) Salt Lake Co.
 Right Shoulder
@@ -20482,7 +20481,16 @@ Est. Clearance Time: 2:05 PM","5/4/24, 1:06 PM","5/4/24, 2:05 PM","5/4/24, 1:06 
 UT-Incident--178700,Incidents,SR 12,Garfield County,SR 12 at MP 86,"Crash
 Both Directions SR 12 at MP 86 (Boulder) Garfield Co.
 Est. Clearance Time: 2:58 PM","5/4/24, 12:59 PM","5/4/24, 2:58 PM","5/4/24, 12:59 PM",,37.901037,-111.432251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178704,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (5800 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 3:47 PM","5/4/24, 2:48 PM","5/4/24, 3:47 PM","5/4/24, 2:48 PM",View on map,40.63583,-111.905066
+UT-Incident--178705,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+Ramp NB I-15 at MP 273 (1600 N Exit) Utah Co.
+Right Shoulder
+Est. Clearance Time: 3:55 PM","5/4/24, 2:56 PM","5/4/24, 3:55 PM","5/4/24, 2:57 PM",View on map,40.328045,-111.73498
 UT-Incident--178703,Incidents,US 6,Utah County,US 6 at MP 184,"Crash
 WB US 6 at MP 184 (Diamond Fork Rd) Utah Co.
 Right Shoulder
-Est. Clearance Time: 2:30 PM","5/4/24, 1:28 PM","5/4/24, 2:30 PM","5/4/24, 1:28 PM",,40.029223,-111.507404
+Est. Clearance Time: 2:30 PM","5/4/24, 1:28 PM","5/4/24, 2:30 PM","5/4/24, 1:28 PM",View on map,40.029223,-111.507404
