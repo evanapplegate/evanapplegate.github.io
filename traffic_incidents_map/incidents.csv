@@ -20374,7 +20374,6 @@ UT-Incident--178676,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 NB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:26 PM","5/3/24, 5:27 PM","5/3/24, 6:26 PM","5/3/24, 5:27 PM",View on map,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178673,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 Ramp I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
@@ -20399,3 +20398,12 @@ UT-Incident--178680,Incidents,SR 39,Weber County,SR 39 at MP 4,"Crash
 WB SR 39 (Canyon Rd) at MP 4 (Harrison Blvd) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:05 PM","5/3/24, 7:10 PM","5/3/24, 8:05 PM","5/3/24, 7:10 PM",View on map,41.244702,-112.016124
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178681,Incidents,5400 S,Salt Lake County,5400 S at 3600 W,"Crash
+EB 5400 S at 3600 W Salt Lake Co.
+Center Lanes Closed
+Est. Clearance Time: 8:41 PM","5/3/24, 7:43 PM","5/3/24, 8:41 PM","5/3/24, 7:43 PM",View on map,40.653076,-111.978639
+UT-Incident--178682,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Stalled Vehicle
+WB Ramp I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:01 PM","5/3/24, 8:04 PM","5/3/24, 9:01 PM","5/3/24, 8:04 PM",View on map,40.722344,-111.904691
