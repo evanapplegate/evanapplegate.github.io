@@ -20406,10 +20406,14 @@ WB Ramp I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:01 PM","5/3/24, 8:04 PM","5/3/24, 9:01 PM","5/3/24, 8:04 PM",View on map,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178684,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Est. Clearance Time: 10:57 PM","5/3/24, 9:58 PM","5/3/24, 10:57 PM","5/3/24, 9:58 PM",View on map,40.226604,-111.677837
+UT-Incident--178683,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:00 PM","5/3/24, 9:51 PM","5/3/24, 11:00 PM","5/3/24, 9:51 PM",View on map,40.35648,-111.576663
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178685,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Stalled Vehicle
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
@@ -20418,7 +20422,3 @@ UT-Incident--178686,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Abandon
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:09 PM","5/3/24, 10:10 PM","5/3/24, 11:09 PM","5/3/24, 10:10 PM",View on map,40.703296,-111.95315
-UT-Incident--178683,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 11:00 PM","5/3/24, 9:51 PM","5/3/24, 11:00 PM","5/3/24, 9:51 PM",View on map,40.35648,-111.576663
