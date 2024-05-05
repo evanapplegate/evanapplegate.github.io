@@ -20619,7 +20619,6 @@ Est. Clearance Time: 3:06 PM","5/5/24, 2:06 PM","5/5/24, 3:06 PM","5/5/24, 2:06 
 UT-Incident--178748,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Congestion
 WB I-215 S at MP 11 (300 W) Salt Lake Co.
 Est. Clearance Time: 3:08 PM","5/5/24, 2:09 PM","5/5/24, 3:08 PM","5/5/24, 2:09 PM",View on map,40.634373,-111.895376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police incident
 NB I-15 should expect heavy delays through Salt Lake County. 
 Est. Clearance Time: 3:30 PM","5/5/24, 6:50 AM","5/5/24, 3:30 PM","5/5/24, 1:51 PM",View on map,39.967345,-111.783318
@@ -20632,6 +20631,7 @@ Est. Clearance Time: 2:25 PM","5/5/24, 1:24 PM","5/5/24, 2:25 PM","5/5/24, 1:24 
 UT-Incident--178751,Incidents,I-70,Sevier County,I-70 at MP 94,"Crash
 Rollover EB I-70 at MP 94 (5 mi E of Fremont Jct) Sevier Co.
 Est. Clearance Time: 3:23 PM","5/5/24, 2:25 PM","5/5/24, 3:23 PM","5/5/24, 2:25 PM",View on map,38.786433,-111.301786
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178745,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
