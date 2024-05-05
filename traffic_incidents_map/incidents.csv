@@ -20590,14 +20590,24 @@ NB I-15 at MP 217 (6 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 10:30 AM","5/5/24, 9:29 AM","5/5/24, 10:30 AM","5/5/24, 9:29 AM",View on map,39.620933,-111.906013
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178736,Incidents,I-15,Utah County,I-15 at MP 260,"Congestion
+NB I-15 at MP 260 (400 S / Springville) Utah Co.
+Est. Clearance Time: 2:21 PM","5/5/24, 1:22 PM","5/5/24, 2:21 PM","5/5/24, 1:22 PM",View on map,40.161636,-111.646866
+UT-Incident--178739,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
+EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 2:30 PM","5/5/24, 1:28 PM","5/5/24, 2:30 PM","5/5/24, 1:28 PM",View on map,40.765165,-111.991516
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police Incident
 NB I-15 closed at MP 244  (SR-198 Jct / Santaquin) Utah Co.
 Use Alt Route
 Est. Clearance Time: 01:45 PM","5/5/24, 6:50 AM","5/5/24, 1:45 PM","5/5/24, 11:44 AM",View on map,39.967345,-111.783318
-UT-Incident--178736,Incidents,I-15,Utah County,I-15 at MP 260,"Congestion
-NB I-15 at MP 260 (400 S / Springville) Utah Co.
-Est. Clearance Time: 2:21 PM","5/5/24, 1:22 PM","5/5/24, 2:21 PM","5/5/24, 1:22 PM",View on map,40.161636,-111.646866
+UT-Incident--178740,Incidents,I-15,Utah County,I-15 at MP 268,"Congestion
+NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
+Est. Clearance Time: 2:29 PM","5/5/24, 1:30 PM","5/5/24, 2:29 PM","5/5/24, 1:31 PM",View on map,40.262286,-111.70752
+UT-Incident--178741,Incidents,I-15,Utah County,I-15 at MP 274,"Congestion
+NB I-15 at MP 274 (Lindon) Utah Co.
+Est. Clearance Time: 2:41 PM","5/5/24, 1:42 PM","5/5/24, 2:41 PM","5/5/24, 1:42 PM",View on map,40.337197,-111.749203
 UT-Incident--178737,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Est. Clearance Time: 2:25 PM","5/5/24, 1:24 PM","5/5/24, 2:25 PM","5/5/24, 1:24 PM",View on map,40.760605,-111.951068
@@ -20607,9 +20617,5 @@ Left Lane Closed
 Est. Clearance Time: 11:28 AM","5/5/24, 3:29 AM","5/5/24, 11:28 AM","5/5/24, 9:30 AM",View on map,38.604882,-112.50653
 UT-Incident--178738,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 2:27 PM","5/5/24, 1:28 PM","5/5/24, 2:27 PM","5/5/24, 1:28 PM",View on map,40.765165,-111.991516
-UT-Incident--178739,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
-EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 2:30 PM","5/5/24, 1:28 PM","5/5/24, 2:30 PM","5/5/24, 1:28 PM",View on map,40.765165,-111.991516
+Left Lane Closed
+Est. Clearance Time: 2:27 PM","5/5/24, 1:28 PM","5/5/24, 2:27 PM","5/5/24, 1:40 PM",View on map,40.765165,-111.991516
