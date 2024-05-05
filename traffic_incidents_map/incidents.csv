@@ -20596,21 +20596,21 @@ UT-Incident--178739,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:30 PM","5/5/24, 1:28 PM","5/5/24, 2:30 PM","5/5/24, 1:28 PM",View on map,40.765165,-111.991516
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178728,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 WB I-70 at MP 6 (Cove Fort) Millard Co.
 Left Lane Closed
 Est. Clearance Time: 11:28 AM","5/5/24, 3:29 AM","5/5/24, 11:28 AM","5/5/24, 9:30 AM",View on map,38.604882,-112.50653
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police incident
-NB I-15 should expect heavy delays through Salt Lake County. 
-Est. Clearance Time: 3:30 PM","5/5/24, 6:50 AM","5/5/24, 3:30 PM","5/5/24, 1:51 PM",View on map,39.967345,-111.783318
 UT-Incident--178740,Incidents,I-15,Utah County,I-15 at MP 268,"Congestion
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Est. Clearance Time: 2:29 PM","5/5/24, 1:30 PM","5/5/24, 2:29 PM","5/5/24, 1:31 PM",View on map,40.262286,-111.70752
 UT-Incident--178741,Incidents,I-15,Utah County,I-15 at MP 274,"Congestion
 NB I-15 at MP 274 (Lindon) Utah Co.
 Est. Clearance Time: 2:41 PM","5/5/24, 1:42 PM","5/5/24, 2:41 PM","5/5/24, 1:42 PM",View on map,40.337197,-111.749203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police incident
+NB I-15 should expect heavy delays through Salt Lake County. 
+Est. Clearance Time: 3:30 PM","5/5/24, 6:50 AM","5/5/24, 3:30 PM","5/5/24, 1:51 PM",View on map,39.967345,-111.783318
 UT-Incident--178742,Incidents,I-15,Utah County,I-15 at MP 285,"Congestion
 NB I-15 at MP 285 (Lehi) Utah Co.
 Est. Clearance Time: 2:53 PM","5/5/24, 1:53 PM","5/5/24, 2:53 PM","5/5/24, 1:53 PM",View on map,40.442142,-111.903011
@@ -20621,6 +20621,12 @@ UT-Incident--178745,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","5/5/24, 2:02 PM","5/5/24, 3:00 PM","5/5/24, 2:02 PM",View on map,40.316406,-111.72616
+UT-Incident--178746,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Congestion
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Est. Clearance Time: 3:06 PM","5/5/24, 2:06 PM","5/5/24, 3:06 PM","5/5/24, 2:06 PM",View on map,40.52103,-111.891246
+UT-Incident--178748,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Congestion
+WB I-215 S at MP 11 (300 W) Salt Lake Co.
+Est. Clearance Time: 3:08 PM","5/5/24, 2:09 PM","5/5/24, 3:08 PM","5/5/24, 2:09 PM",View on map,40.634373,-111.895376
 UT-Incident--178737,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Est. Clearance Time: 2:25 PM","5/5/24, 1:24 PM","5/5/24, 2:25 PM","5/5/24, 1:24 PM",View on map,40.760605,-111.951068
@@ -20628,6 +20634,14 @@ UT-Incident--178744,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","5/5/24, 2:00 PM","5/5/24, 3:00 PM","5/5/24, 2:00 PM",View on map,40.703296,-111.95315
+UT-Incident--178747,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
+NB I-215 W at MP 24 (1200 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:10 PM","5/5/24, 2:09 PM","5/5/24, 3:10 PM","5/5/24, 2:09 PM",View on map,40.789416,-111.949318
+UT-Incident--178749,Incidents,I-70,Sevier County,I-70 at MP 56,"Vehicle on fire
+EB I-70 at MP 56 (16 mi E of Richfield) Sevier Co.
+Right Shoulder
+Est. Clearance Time: 3:14 PM","5/5/24, 2:17 PM","5/5/24, 3:14 PM","5/5/24, 2:17 PM",View on map,38.930377,-111.867244
 UT-Incident--178738,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Left Lane Closed
