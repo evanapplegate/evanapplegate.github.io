@@ -20576,9 +20576,13 @@ Est. Clearance Time: 7:15 AM","5/5/24, 6:13 AM","5/5/24, 7:15 AM","5/5/24, 6:13 
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police Incident
-NB & SB I-15 Closed at MP 244 (SR-198 Jct / Santaquin) Utah Co.
+NB I-15 closed at MP 244 & SB I-15 Closed at MP 248 (SR-198 Jct / Santaquin) Utah Co.
 Use Alt Route
-Est. Clearance Time: 7:48 AM","5/5/24, 6:50 AM","5/5/24, 7:48 AM","5/5/24, 7:04 AM",View on map,39.967345,-111.783318
+Est. Clearance Time: 7:48 AM","5/5/24, 6:50 AM","5/5/24, 7:48 AM","5/5/24, 7:46 AM",View on map,39.967345,-111.783318
+UT-Incident--178732,Incidents,I-15,Iron County,I-15 at MP 62,"Crash
+SB I-15 at MP 62 (Cedar City) Iron Co.
+Left Shoulder
+Est. Clearance Time: 8:57 AM","5/5/24, 7:58 AM","5/5/24, 8:57 AM","5/5/24, 7:58 AM",View on map,37.722619,-113.058258
 UT-Incident--178728,Incidents,I-70,Millard County,I-70 at MP 6,"Crash
 WB I-70 at MP 6 (Cove Fort) Millard Co.
 Left Lane Closed
