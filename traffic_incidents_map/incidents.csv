@@ -20515,7 +20515,6 @@ UT-Incident--178708,Incidents,I-80,Summit County,I-80 at MP 154,"Crash
 WB I-80 at MP 154 (1 mi W of Wanship) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","5/4/24, 3:30 PM","5/4/24, 4:30 PM","5/4/24, 3:30 PM",View on map,40.807225,-111.42641
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178714,Incidents,HWY 36,Tooele County,HWY 36 at CENTER ST/HWY 138,"Crash
 NB HWY 36 at CENTER ST/HWY 138 Tooele Co.
 Right Shoulder
@@ -20528,7 +20527,12 @@ UT-Incident--178712,Incidents,SR 196,Tooele County,SR 196 at MP 31,"Crash
 Other SR 196 at MP 31 (5 mi S of I-80 Jct) Tooele Co.
 Est. Clearance Time: 6:35 PM","5/4/24, 5:11 PM","5/4/24, 6:35 PM","5/4/24, 5:11 PM",View on map,40.663069,-112.677653
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178716,Incidents,I-15,Box Elder County,I-15 at MP 377,"Crash
 NB I-15 at MP 377 (Tremonton) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 PM","5/4/24, 7:36 PM","5/4/24, 8:45 PM","5/4/24, 7:36 PM",View on map,41.682729,-112.147356
+UT-Incident--178717,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
+NB I-15 at MP 344 (24th St) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 9:00 PM","5/4/24, 7:51 PM","5/4/24, 9:00 PM","5/4/24, 7:51 PM",View on map,41.230556,-112.01298
