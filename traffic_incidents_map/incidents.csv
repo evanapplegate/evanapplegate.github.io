@@ -20577,7 +20577,6 @@ UT-Incident--178731,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:28 AM","5/5/24, 7:29 AM","5/5/24, 8:28 AM","5/5/24, 7:29 AM",View on map,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178732,Incidents,I-15,Iron County,I-15 at MP 62,"Crash
 SB I-15 at MP 62 (Cedar City) Iron Co.
 Left Shoulder
@@ -20586,6 +20585,7 @@ UT-Incident--178733,Incidents,I-15,Juab County,I-15 at MP 217,"Crash
 SB I-15 at MP 217 (6 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 10:20 AM","5/5/24, 9:14 AM","5/5/24, 10:20 AM","5/5/24, 9:14 AM",View on map,39.620982,-111.90607
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178730,Incidents,I-15,Utah County,I-15 at MP 244,"Police Incident
 NB I-15 closed at MP 244 & SB I-15 Closed at MP 248 (SR-198 Jct / Santaquin) Utah Co.
