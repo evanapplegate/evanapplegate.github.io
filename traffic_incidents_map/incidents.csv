@@ -20639,18 +20639,10 @@ WB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:38 PM","5/5/24, 2:39 PM","5/5/24, 3:38 PM","5/5/24, 2:39 PM",View on map,40.725537,-111.91064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178759,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
-SB Bangerter Hwy at MP 21 (1820 S) Salt Lake Co.
-Est. Clearance Time: 4:57 PM","5/5/24, 3:59 PM","5/5/24, 4:57 PM","5/5/24, 3:59 PM",,40.725407,-111.98629
 UT-Incident--178745,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","5/5/24, 2:02 PM","5/5/24, 3:00 PM","5/5/24, 2:02 PM",,40.316406,-111.72616
-UT-Incident--178753,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
-SB I-15 at MP 272 (1600 N / Orem) Utah Co.
-Left Shoulder
-Est. Clearance Time: 4:27 PM","5/5/24, 3:28 PM","5/5/24, 4:27 PM","5/5/24, 3:28 PM",,40.316406,-111.72616
 UT-Incident--178754,Incidents,I-15,Davis County,I-15 at MP 323,"Crash
 NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
 Right Lane Closed
@@ -20659,14 +20651,6 @@ UT-Incident--178755,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:40 PM","5/5/24, 3:41 PM","5/5/24, 4:40 PM","5/5/24, 3:41 PM",,40.777705,-111.910735
-UT-Incident--178756,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
-NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 4:43 PM","5/5/24, 3:44 PM","5/5/24, 4:43 PM","5/5/24, 3:44 PM",,40.492398,-111.891485
-UT-Incident--178757,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
-NB I-15 at MP 306 (1300 S Collector) Salt Lake Co.
-Left Lane Blocked
-Est. Clearance Time: 4:50 PM","5/5/24, 3:47 PM","5/5/24, 4:50 PM","5/5/24, 3:51 PM",,40.736823,-111.90475
 UT-Incident--178758,Incidents,I-15,Davis County,I-15 at MP 332,"Crash
 NB I-15 at MP 332 (Antelope Dr) Davis Co.
 Right Lane Closed
@@ -20683,3 +20667,27 @@ UT-Incident--178749,Incidents,I-70,Sevier County,I-70 at MP 56,"Crash
 EB I-70 at MP 56 (16 mi E of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 3:14 PM","5/5/24, 2:17 PM","5/5/24, 3:14 PM","5/5/24, 2:53 PM",,38.930377,-111.867244
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178759,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
+SB Bangerter Hwy at MP 21 (1820 S) Salt Lake Co.
+Est. Clearance Time: 4:57 PM","5/5/24, 3:59 PM","5/5/24, 4:57 PM","5/5/24, 3:59 PM",,40.725407,-111.98629
+UT-Incident--178753,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+SB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Left Shoulder
+Est. Clearance Time: 4:27 PM","5/5/24, 3:28 PM","5/5/24, 4:27 PM","5/5/24, 3:28 PM",,40.316406,-111.72616
+UT-Incident--178756,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:43 PM","5/5/24, 3:44 PM","5/5/24, 4:43 PM","5/5/24, 3:44 PM",,40.492398,-111.891485
+UT-Incident--178757,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S Collector) Salt Lake Co.
+Left Lane Blocked
+Est. Clearance Time: 4:50 PM","5/5/24, 3:47 PM","5/5/24, 4:50 PM","5/5/24, 3:51 PM",,40.736823,-111.90475
+UT-Incident--178760,Incidents,I-15,Utah County,I-15 at MP 244,"Crash
+NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:10 PM","5/5/24, 4:11 PM","5/5/24, 5:10 PM","5/5/24, 4:11 PM",,39.967345,-111.783318
+UT-Incident--178761,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24," Crash
+NB I-215 W 
+ at MP 24 (700 N Exit Closed) Salt Lake Co.
+Use Alt Route","5/5/24, 4:13 PM","5/5/24, 5:11 PM","5/5/24, 4:15 PM",,40.789416,-111.949318
