@@ -20790,6 +20790,13 @@ SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:31 AM","5/6/24, 6:31 AM","5/6/24, 7:31 AM","5/6/24, 6:31 AM",,41.102376,-112.003101
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178790,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
+NB I-15 at MP 290 (13600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:00 AM","5/6/24, 5:56 AM","5/6/24, 7:00 AM","5/6/24, 5:56 AM",,40.506678,-111.891228
+UT-Incident--178791,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
+EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
+Est. Clearance Time: 7:00 AM","5/6/24, 5:58 AM","5/6/24, 7:00 AM","5/6/24, 5:58 AM",,40.747703,-111.639522
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178798,Incidents,Bangerter NB Hwy,Salt Lake County,Bangerter NB Hwy 1300 S,"Crash
 SB Bangerter Hwy at 1300 S (Salt Lake County)
@@ -20797,10 +20804,6 @@ Est. Clearance Time: 7:45 AM","5/6/24, 6:46 AM","5/6/24, 7:45 AM","5/6/24, 6:48 
 UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
  at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",,40.492398,-111.891485
-UT-Incident--178790,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
-NB I-15 at MP 290 (13600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 7:00 AM","5/6/24, 5:56 AM","5/6/24, 7:00 AM","5/6/24, 5:56 AM",,40.506678,-111.891228
 UT-Incident--178792,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 7:00 AM","5/6/24, 6:00 AM","5/6/24, 7:00 AM","5/6/24, 6:00 AM",,37.617149,-113.148892
@@ -20814,6 +20817,6 @@ Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/2
 UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 between MP 143-128 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.736024,-111.554376
-UT-Incident--178791,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
-EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
-Est. Clearance Time: 7:00 AM","5/6/24, 5:58 AM","5/6/24, 7:00 AM","5/6/24, 5:58 AM",,40.747703,-111.639522
+UT-Incident--178799,Incidents,US 6,Wasatch County,US 6 23801,"Crash
+EB US 6 at MP 209 (Wasatch Co)
+Est. Clearance Time: 8:50 AM","5/6/24, 7:44 AM","5/6/24, 8:50 AM","5/6/24, 7:44 AM",,39.933228,-111.10729
