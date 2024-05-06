@@ -20818,7 +20818,6 @@ UT-Incident--178801,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:50 AM","5/6/24, 7:52 AM","5/6/24, 8:50 AM","5/6/24, 7:52 AM",,40.467787,-111.911227
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178799,Incidents,US 6,Wasatch County,US 6 23801,"Crash
 EB US 6 at MP 209 (Wasatch Co)
 Est. Clearance Time: 8:50 AM","5/6/24, 7:44 AM","5/6/24, 8:50 AM","5/6/24, 7:44 AM",,39.933228,-111.10729
@@ -20830,6 +20829,11 @@ Est. Clearance Time: 8:50 AM","5/6/24, 7:45 AM","5/6/24, 8:50 AM","5/6/24, 7:48 
 UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
  at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",View on map,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178808,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+NB I-15 at MP 281 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:50 AM","5/6/24, 8:45 AM","5/6/24, 9:50 AM","5/6/24, 8:47 AM",View on map,40.401041,-111.849765
 UT-Incident--178807,Incidents,I-70,Sevier County,I-70 at MP 86,"Crash
 WB I-70 at MP 86 (3 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 9:37 AM","5/6/24, 8:44 AM","5/6/24, 9:37 AM","5/6/24, 8:44 AM",View on map,38.756713,-111.439533
@@ -20839,6 +20843,13 @@ Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/2
 UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 between MP 143-128 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",View on map,40.736024,-111.554376
+UT-Incident--178809,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
+EB I-84 at MP 92 (Mountain Green) Morgan Co.
+Left Shoulder
+Est. Clearance Time: 9:52 AM","5/6/24, 8:55 AM","5/6/24, 9:52 AM","5/6/24, 8:55 AM",View on map,41.139114,-111.835183
 UT-Incident--178802,Incidents,SR 14,Iron County,SR 14 at MP 16,"Crash
 Both Directions SR 14 at MP 16 (14 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 8:55 AM","5/6/24, 7:56 AM","5/6/24, 8:55 AM","5/6/24, 7:56 AM",View on map,37.577226,-112.867476
+UT-Incident--178810,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
+Both Directions SR 190 at MP 2-20 (Salt Lake County)
+Approved traction devices required","5/6/24, 9:03 AM","5/7/24, 9:57 AM","5/6/24, 9:03 AM",View on map,40.619107,-111.786281
