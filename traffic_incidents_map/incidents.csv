@@ -20781,7 +20781,6 @@ UT-Incident--178793,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:00 AM","5/6/24, 6:02 AM","5/6/24, 7:00 AM","5/6/24, 6:02 AM",,40.480607,-111.902252
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178789,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
@@ -20790,6 +20789,7 @@ UT-Incident--178796,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:31 AM","5/6/24, 6:31 AM","5/6/24, 7:31 AM","5/6/24, 6:31 AM",,41.102376,-112.003101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178798,Incidents,Bangerter NB Hwy,Salt Lake County,Bangerter NB Hwy 1300 S,"Crash
 SB Bangerter Hwy at 1300 S (Salt Lake County)
