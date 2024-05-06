@@ -20797,20 +20797,9 @@ UT-Incident--178791,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Est. Clearance Time: 7:00 AM","5/6/24, 5:58 AM","5/6/24, 7:00 AM","5/6/24, 5:58 AM",,40.747703,-111.639522
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178798,Incidents,Bangerter NB Hwy,Salt Lake County,Bangerter NB Hwy 1300 S,"Crash
-SB Bangerter Hwy at 1300 S (Salt Lake County)
-Est. Clearance Time: 7:45 AM","5/6/24, 6:46 AM","5/6/24, 7:45 AM","5/6/24, 6:48 AM",,40.743688,-111.989356
-UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
- at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",,40.492398,-111.891485
 UT-Incident--178792,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 7:00 AM","5/6/24, 6:00 AM","5/6/24, 7:00 AM","5/6/24, 6:00 AM",,37.617149,-113.148892
-UT-Incident--178801,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
-NB I-15 at MP 287 (15200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 8:50 AM","5/6/24, 7:52 AM","5/6/24, 8:50 AM","5/6/24, 7:52 AM",,40.467787,-111.911227
 UT-Incident--178803,Incidents,I-15,Weber County,I-15 at MP 339,"Stalled Vehicle
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Right Shoulder
@@ -20823,6 +20812,17 @@ UT-Incident--178797,Incidents,I-215w SB Fwy,Salt Lake County,I-215w SB Fwy at I-
 SB I-215 W at EB I-80, Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:43 AM","5/6/24, 6:44 AM","5/6/24, 7:43 AM","5/6/24, 6:44 AM",,40.754079,-111.94884
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178798,Incidents,Bangerter NB Hwy,Salt Lake County,Bangerter NB Hwy 1300 S,"Crash
+SB Bangerter Hwy at 1300 S (Salt Lake County)
+Est. Clearance Time: 8:30 AM","5/6/24, 6:46 AM","5/6/24, 8:30 AM","5/6/24, 8:11 AM",,40.743688,-111.989356
+UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
+ at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",,40.492398,-111.891485
+UT-Incident--178801,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
+NB I-15 at MP 287 (15200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:50 AM","5/6/24, 7:52 AM","5/6/24, 8:50 AM","5/6/24, 7:52 AM",,40.467787,-111.911227
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.712086,-111.801151
