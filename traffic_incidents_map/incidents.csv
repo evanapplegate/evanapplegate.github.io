@@ -20881,15 +20881,15 @@ UT-Incident--178811,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Re
 Both Directions SR 210 at MP 4-13 (Little Cottonwood Canyon)
 Approved traction devices required","5/6/24, 9:11 AM","5/7/24, 10:07 AM","5/6/24, 9:25 AM",,40.572095,-111.773814
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178823,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
+NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
+Right Shoulder
+Est. Clearance Time: 2:52 PM","5/6/24, 1:53 PM","5/6/24, 2:52 PM","5/6/24, 1:53 PM",,40.831692,-111.91596
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178815,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:40 AM","5/6/24, 9:40 AM","5/6/24, 10:40 AM","5/6/24, 9:40 AM",,40.480607,-111.902252
-UT-Incident--178823,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
-NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
-Right Shoulder
-Est. Clearance Time: 2:52 PM","5/6/24, 1:53 PM","5/6/24, 2:52 PM","5/6/24, 1:53 PM",,40.831692,-111.91596
 UT-Incident--178820,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 14,"Crash
 NB Mountain View SR-85 Closed at Old Bingham Highway Salt Lake Co.
 Use Alt.","5/6/24, 12:03 PM","5/6/24, 5:02 PM","5/6/24, 1:04 PM",,40.589067,-112.027815
@@ -20899,3 +20899,6 @@ Est. Clearance Time: 2:28 PM","5/6/24, 1:29 PM","5/6/24, 2:28 PM","5/6/24, 1:29 
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
+UT-Incident--178824,Incidents,US 40,Wasatch County,US 40 at MP 41,"Crash
+Ramp US 40 at MP 41 (20 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 4:02 PM","5/6/24, 3:03 PM","5/6/24, 4:02 PM","5/6/24, 3:03 PM",,40.244007,-111.169326
