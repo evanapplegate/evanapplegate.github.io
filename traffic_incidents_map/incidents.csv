@@ -20829,6 +20829,16 @@ UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Clos
  at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",View on map,40.492398,-111.891485
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178807,Incidents,I-70,Sevier County,I-70 at MP 86,"Crash
+WB I-70 at MP 86 (3 mi W of Fremont Jct) Sevier Co.
+Est. Clearance Time: 9:37 AM","5/6/24, 8:44 AM","5/6/24, 9:37 AM","5/6/24, 8:44 AM",,38.756713,-111.439533
+UT-Incident--178809,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
+EB I-84 at MP 92 (Mountain Green) Morgan Co.
+Left Shoulder
+Est. Clearance Time: 9:52 AM","5/6/24, 8:55 AM","5/6/24, 9:52 AM","5/6/24, 8:55 AM",,41.139114,-111.835183
+UT-Incident--178802,Incidents,SR 14,Iron County,SR 14 at MP 16,"Crash
+Both Directions SR 14 at MP 16 (14 Mi E of Cedar City) Iron Co.
+Est. Clearance Time: 8:55 AM","5/6/24, 7:56 AM","5/6/24, 8:55 AM","5/6/24, 7:56 AM",,37.577226,-112.867476
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178808,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
@@ -20841,22 +20851,12 @@ UT-Incident--178815,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:40 AM","5/6/24, 9:40 AM","5/6/24, 10:40 AM","5/6/24, 9:40 AM",,40.480607,-111.902252
-UT-Incident--178807,Incidents,I-70,Sevier County,I-70 at MP 86,"Crash
-WB I-70 at MP 86 (3 mi W of Fremont Jct) Sevier Co.
-Est. Clearance Time: 9:37 AM","5/6/24, 8:44 AM","5/6/24, 9:37 AM","5/6/24, 8:44 AM",,38.756713,-111.439533
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.712086,-111.801151
 UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 between MP 143-128 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.736024,-111.554376
-UT-Incident--178809,Incidents,I-84,Morgan County,I-84 at MP 92,"Crash
-EB I-84 at MP 92 (Mountain Green) Morgan Co.
-Left Shoulder
-Est. Clearance Time: 9:52 AM","5/6/24, 8:55 AM","5/6/24, 9:52 AM","5/6/24, 8:55 AM",,41.139114,-111.835183
-UT-Incident--178802,Incidents,SR 14,Iron County,SR 14 at MP 16,"Crash
-Both Directions SR 14 at MP 16 (14 Mi E of Cedar City) Iron Co.
-Est. Clearance Time: 8:55 AM","5/6/24, 7:56 AM","5/6/24, 8:55 AM","5/6/24, 7:56 AM",,37.577226,-112.867476
 UT-Incident--178810,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2-20 (Big Cottonwood Canyon)
 Approved traction devices required","5/6/24, 9:03 AM","5/7/24, 9:57 AM","5/6/24, 9:26 AM",,40.619107,-111.786281
@@ -20871,6 +20871,6 @@ UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weath
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
 UT-Incident--178814,Incidents,US 89,Davis County,US 89 at MP 402,"Crash
-NB US 89 at MP 402 (1200 N / Layton) Davis Co.
-2 Right Lanes Closed
-Est. Clearance Time: 10:36 AM","5/6/24, 9:37 AM","5/6/24, 10:36 AM","5/6/24, 9:37 AM",,41.074577,-111.911004
+NB US 89 at MP 402 (1000 N / Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:36 AM","5/6/24, 9:37 AM","5/6/24, 10:36 AM","5/6/24, 10:01 AM",,41.074577,-111.911004
