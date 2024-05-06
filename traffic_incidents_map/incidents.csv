@@ -20838,7 +20838,6 @@ Est. Clearance Time: 9:52 AM","5/6/24, 8:55 AM","5/6/24, 9:52 AM","5/6/24, 8:55 
 UT-Incident--178802,Incidents,SR 14,Iron County,SR 14 at MP 16,"Crash
 Both Directions SR 14 at MP 16 (14 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 8:55 AM","5/6/24, 7:56 AM","5/6/24, 8:55 AM","5/6/24, 7:56 AM",,37.577226,-112.867476
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178808,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
@@ -20847,6 +20846,15 @@ UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restric
 WB I-80 between MP 143-128 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.736024,-111.554376
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178816,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
+WB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 10:40 AM","5/6/24, 9:42 AM","5/6/24, 10:40 AM","5/6/24, 9:42 AM",,40.375381,-111.556028
+UT-Incident--178814,Incidents,US 89,Davis County,US 89 at MP 402,"Crash
+NB US 89 at MP 402 (1000 N / Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 10:36 AM","5/6/24, 9:37 AM","5/6/24, 10:36 AM","5/6/24, 10:01 AM",,41.074577,-111.911004
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178812,Incidents,I-15,Davis County,I-15 at MP 325,"Road weather
 SB I-15 at MP 325 (Shepard Ln) Davis Co.
 Standing Water In All Lanes","5/6/24, 9:22 AM","5/6/24, 10:20 AM","5/6/24, 9:22 AM",,40.994182,-111.914296
@@ -20854,23 +20862,22 @@ UT-Incident--178815,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:40 AM","5/6/24, 9:40 AM","5/6/24, 10:40 AM","5/6/24, 9:40 AM",,40.480607,-111.902252
+UT-Incident--178818,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
+SB I-15 at MP 324 (Park Ln) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 11:35 AM","5/6/24, 10:36 AM","5/6/24, 11:35 AM","5/6/24, 10:36 AM",,40.985152,-111.899709
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.712086,-111.801151
+UT-Incident--178817,Incidents,SR 167,Morgan County,SR 167 at MP 4,"Crash
+SR 167 at MP 4 (4 miles N of I-84 JCT) Morgan Co.
+Est. Clearance Time: 11:40 AM","5/6/24, 10:32 AM","5/6/24, 11:40 AM","5/6/24, 10:32 AM",,41.169107,-111.809854
 UT-Incident--178810,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2-20 (Big Cottonwood Canyon)
 Approved traction devices required","5/6/24, 9:03 AM","5/7/24, 9:57 AM","5/6/24, 9:26 AM",,40.619107,-111.786281
 UT-Incident--178811,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4-13 (Little Cottonwood Canyon)
 Approved traction devices required","5/6/24, 9:11 AM","5/7/24, 10:07 AM","5/6/24, 9:25 AM",,40.572095,-111.773814
-UT-Incident--178816,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
-WB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 10:40 AM","5/6/24, 9:42 AM","5/6/24, 10:40 AM","5/6/24, 9:42 AM",,40.375381,-111.556028
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
-UT-Incident--178814,Incidents,US 89,Davis County,US 89 at MP 402,"Crash
-NB US 89 at MP 402 (1000 N / Layton) Davis Co.
-Right Shoulder
-Est. Clearance Time: 10:36 AM","5/6/24, 9:37 AM","5/6/24, 10:36 AM","5/6/24, 10:01 AM",,41.074577,-111.911004
