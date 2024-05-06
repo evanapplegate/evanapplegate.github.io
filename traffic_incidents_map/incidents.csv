@@ -20828,7 +20828,6 @@ Est. Clearance Time: 8:50 AM","5/6/24, 7:45 AM","5/6/24, 8:50 AM","5/6/24, 7:48 
 UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
  at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Use Alt Route","5/6/24, 2:48 AM","5/6/24, 8:30 AM","5/6/24, 7:21 AM",View on map,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178807,Incidents,I-70,Sevier County,I-70 at MP 86,"Crash
 WB I-70 at MP 86 (3 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 9:37 AM","5/6/24, 8:44 AM","5/6/24, 9:37 AM","5/6/24, 8:44 AM",,38.756713,-111.439533
@@ -20844,6 +20843,10 @@ UT-Incident--178808,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:50 AM","5/6/24, 8:45 AM","5/6/24, 9:50 AM","5/6/24, 8:47 AM",,40.401041,-111.849765
+UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 between MP 143-128 (Parleys Canyon)
+Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.736024,-111.554376
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178812,Incidents,I-15,Davis County,I-15 at MP 325,"Road weather
 SB I-15 at MP 325 (Shepard Ln) Davis Co.
 Standing Water In All Lanes","5/6/24, 9:22 AM","5/6/24, 10:20 AM","5/6/24, 9:22 AM",,40.994182,-111.914296
@@ -20854,9 +20857,6 @@ Est. Clearance Time: 10:40 AM","5/6/24, 9:40 AM","5/6/24, 10:40 AM","5/6/24, 9:4
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.712086,-111.801151
-UT-Incident--178781,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
-WB I-80 between MP 143-128 (Parleys Canyon)
-Traction Devices Required for Semis","5/6/24, 2:26 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.736024,-111.554376
 UT-Incident--178810,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 Both Directions SR 190 at MP 2-20 (Big Cottonwood Canyon)
 Approved traction devices required","5/6/24, 9:03 AM","5/7/24, 9:57 AM","5/6/24, 9:26 AM",,40.619107,-111.786281
