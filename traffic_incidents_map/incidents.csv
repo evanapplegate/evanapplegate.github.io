@@ -20731,9 +20731,13 @@ UT-Incident--178773,Incidents,HWY 14,Iron County,HWY 14 14919,"Stalled Vehicle
 Both Directions HWY 14 Iron Co.
 Left Lane Closed
 Est. Clearance Time: 5/6/2024 12:41 AM","5/5/24, 11:41 PM","5/6/24, 12:41 AM","5/5/24, 11:41 PM",View on map,37.592937,-112.884553
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178775,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 NB I-15 at MP 355 (Box Elder) Box Elder Co.
 Left Shoulder
 Est. Clearance Time: 1:15 AM","5/6/24, 12:15 AM","5/6/24, 1:15 AM","5/6/24, 12:15 AM",View on map,41.382653,-112.042393
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178776,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
+NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
+Right Shoulder
+Est. Clearance Time: 1:54 AM","5/6/24, 12:55 AM","5/6/24, 1:54 AM","5/6/24, 12:55 AM",View on map,40.838466,-111.915057
