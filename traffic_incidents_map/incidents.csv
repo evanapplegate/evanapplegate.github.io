@@ -20710,11 +20710,15 @@ WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:20 PM","5/5/24, 6:22 PM","5/5/24, 7:20 PM","5/5/24, 6:22 PM",View on map,40.765438,-111.953251
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178769,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:14 PM","5/5/24, 8:15 PM","5/5/24, 9:14 PM","5/5/24, 8:15 PM",View on map,40.35648,-111.576663
 UT-Incident--178770,Incidents,US 40,Uintah County,US 40 at MP 125,"Debris
 WB US 40 at MP 125 (11 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 9:34 PM","5/5/24, 8:35 PM","5/5/24, 9:34 PM","5/5/24, 8:35 PM",View on map,40.302708,-109.791004
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178771,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
+NB Bangerter Hwy at 3100 S Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 9:49 PM","5/5/24, 8:49 PM","5/5/24, 9:49 PM","5/5/24, 8:51 PM",,40.703886,-111.980001
+UT-Incident--178769,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:14 PM","5/5/24, 8:15 PM","5/5/24, 9:14 PM","5/5/24, 8:15 PM",,40.35648,-111.576663
