@@ -20892,13 +20892,9 @@ UT-Incident--178822,Incidents,SR 138,Tooele County,SR 138 at MP 10,"Crash
 Both Directions Main Street and Hale St (Grantsville) Tooele Co.
 Est. Clearance Time: 2:28 PM","5/6/24, 1:29 PM","5/6/24, 2:28 PM","5/6/24, 1:29 PM",,40.599901,-112.467918
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178820,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 14,"Crash
 NB Mountain View SR-85 Closed at Old Bingham Highway Salt Lake Co.
 Use Alt.","5/6/24, 12:03 PM","5/6/24, 5:02 PM","5/6/24, 1:04 PM",,40.589067,-112.027815
-UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
-Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
-Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
 UT-Incident--178824,Incidents,US 40,Wasatch County,US 40 at MP 41,"Crash
 WB US 40 at MP 41 (20 mi S of Heber) Wasatch Co.
 Alternating Traffic
@@ -20906,3 +20902,7 @@ Est. Clearance Time: 4:02 PM","5/6/24, 3:03 PM","5/6/24, 4:02 PM","5/6/24, 4:12 
 UT-Incident--178825,Incidents,US 40,Wasatch County,US 40 at MP 14,"Crash
 EB US 40 at MP 14 (UVU Campus / Heber) Wasatch Co.
 Est. Clearance Time: 4:28 PM","5/6/24, 3:29 PM","5/6/24, 4:28 PM","5/6/24, 3:29 PM",,40.54763,-111.419951
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
+Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
+Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
