@@ -20757,19 +20757,27 @@ UT-Incident--178785,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 SB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:15 AM","5/6/24, 4:17 AM","5/6/24, 5:15 AM","5/6/24, 4:17 AM",View on map,41.066718,-111.970064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178787,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:11 AM","5/6/24, 5:11 AM","5/6/24, 6:11 AM","5/6/24, 5:11 AM",,40.38321,-111.829843
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
- at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Use Alt Route","5/6/24, 2:48 AM","5/6/24, 5:00 AM","5/6/24, 3:25 AM",,40.492398,-111.891485
 UT-Incident--178784,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Cleared at 6:05 AM
 Est. Clearance Time: 6:00 AM","5/6/24, 3:51 AM","5/6/24, 6:00 AM","5/6/24, 6:06 AM",,40.577586,-111.900307
+UT-Incident--178786,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
+NB I-215 W at MP 16 (3900 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:52 AM","5/6/24, 4:53 AM","5/6/24, 5:52 AM","5/6/24, 4:53 AM",,40.677553,-111.951953
+UT-Incident--178788,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
+WB US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 6:27 AM","5/6/24, 5:28 AM","5/6/24, 6:27 AM","5/6/24, 5:28 AM",,40.398835,-111.538152
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
+ at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Use Alt Route","5/6/24, 2:48 AM","5/6/24, 5:00 AM","5/6/24, 3:25 AM",,40.492398,-111.891485
 UT-Incident--178789,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
@@ -20785,10 +20793,10 @@ UT-Incident--178793,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:00 AM","5/6/24, 6:02 AM","5/6/24, 7:00 AM","5/6/24, 6:02 AM",,40.480607,-111.902252
-UT-Incident--178786,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Crash
-NB I-215 W at MP 16 (3900 S) Salt Lake Co.
+UT-Incident--178796,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
+SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Lane Closed
-Est. Clearance Time: 5:52 AM","5/6/24, 4:53 AM","5/6/24, 5:52 AM","5/6/24, 4:53 AM",,40.677553,-111.951953
+Est. Clearance Time: 7:31 AM","5/6/24, 6:31 AM","5/6/24, 7:31 AM","5/6/24, 6:31 AM",,41.102376,-112.003101
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",,40.712086,-111.801151
@@ -20802,7 +20810,3 @@ UT-Incident--178794,Incidents,Main St,Davis County,Main St at 800 W,"Crash
 SB Main St at 675 N Davis Co.
 Left Lane Closed
 Est. Clearance Time: 7:06 AM","5/6/24, 6:08 AM","5/6/24, 7:06 AM","5/6/24, 6:08 AM",,41.124457,-112.026029
-UT-Incident--178788,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
-WB US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 6:27 AM","5/6/24, 5:28 AM","5/6/24, 6:27 AM","5/6/24, 5:28 AM",,40.398835,-111.538152
