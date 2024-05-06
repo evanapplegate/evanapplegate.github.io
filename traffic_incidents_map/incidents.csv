@@ -20747,7 +20747,6 @@ UT-Incident--178777,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Est. Clearance Time: 2:56 AM","5/6/24, 1:56 AM","5/6/24, 2:56 AM","5/6/24, 2:01 AM",View on map,40.751782,-111.594637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178778,Incidents,I-15,Utah County,I-15 at MP 268,"Crash
 NB I-15 at MP 268 (S of Univ Pkwy) Utah Co.
 Est. Clearance Time: 3:00 AM","5/6/24, 2:00 AM","5/6/24, 3:00 AM","5/6/24, 2:00 AM",View on map,40.26217,-111.707067
@@ -20755,6 +20754,7 @@ UT-Incident--178782,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:43 AM","5/6/24, 2:43 AM","5/6/24, 3:43 AM","5/6/24, 3:08 AM",View on map,40.747194,-111.905915
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178783,Incidents,I-15,Salt Lake County,I-15 at MP 289,"NB I-15 Closed
  at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Use Alt Route","5/6/24, 2:48 AM","5/6/24, 5:00 AM","5/6/24, 3:25 AM",View on map,40.492398,-111.891485
@@ -20762,6 +20762,10 @@ UT-Incident--178784,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:51 AM","5/6/24, 3:51 AM","5/6/24, 4:51 AM","5/6/24, 3:51 AM",View on map,40.577586,-111.900307
+UT-Incident--178785,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+SB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:15 AM","5/6/24, 4:17 AM","5/6/24, 5:15 AM","5/6/24, 4:17 AM",View on map,41.066718,-111.970064
 UT-Incident--178780,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Roadway Restriction
 EB I-80 between MP 128-143 (Parleys Canyon)
 Traction Devices Required for Semis","5/6/24, 2:25 AM","5/6/24, 10:00 AM","5/6/24, 3:25 AM",View on map,40.712086,-111.801151
