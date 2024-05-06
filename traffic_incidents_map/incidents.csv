@@ -20773,11 +20773,15 @@ UT-Incident--178788,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
 WB US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 6:27 AM","5/6/24, 5:28 AM","5/6/24, 6:27 AM","5/6/24, 5:28 AM",,40.398835,-111.538152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178794,Incidents,Main St,Davis County,Main St at 800 W,"Crash
 SB Main St at 675 N Davis Co.
 Left Lane Closed
 Est. Clearance Time: 7:06 AM","5/6/24, 6:08 AM","5/6/24, 7:06 AM","5/6/24, 6:08 AM",,41.124457,-112.026029
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178793,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:00 AM","5/6/24, 6:02 AM","5/6/24, 7:00 AM","5/6/24, 6:02 AM",,40.480607,-111.902252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178798,Incidents,Bangerter NB Hwy,Salt Lake County,Bangerter NB Hwy 1300 S,"Crash
 SB Bangerter Hwy at 1300 S (Salt Lake County)
@@ -20796,10 +20800,6 @@ Est. Clearance Time: 7:00 AM","5/6/24, 5:56 AM","5/6/24, 7:00 AM","5/6/24, 5:56 
 UT-Incident--178792,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 NB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 7:00 AM","5/6/24, 6:00 AM","5/6/24, 7:00 AM","5/6/24, 6:00 AM",,37.617149,-113.148892
-UT-Incident--178793,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 7:00 AM","5/6/24, 6:02 AM","5/6/24, 7:00 AM","5/6/24, 6:02 AM",,40.480607,-111.902252
 UT-Incident--178796,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Lane Closed
