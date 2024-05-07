@@ -20976,7 +20976,6 @@ Traction devices required for vehicles","5/7/24, 5:02 AM","5/8/24, 6:01 AM","5/7
 UT-Incident--178841,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles.","5/7/24, 6:23 AM","5/8/24, 7:22 AM","5/7/24, 6:24 AM",,40.624634,-111.501637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178846,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
 SB I-15 at MP 333 (700 S /SR-193) Davis Co.
 Right Shoulder
@@ -21006,6 +21005,11 @@ UT-Incident--178861,Incidents,I-15,Davis County,I-15 at MP 323,"Stalled Vehicle
 NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:26 AM","5/7/24, 8:26 AM","5/7/24, 9:26 AM","5/7/24, 8:27 AM",,40.971566,-111.893495
+UT-Incident--178852,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
+NB US 89 at MAIN ST Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:29 AM","5/7/24, 7:29 AM","5/7/24, 8:29 AM","5/7/24, 7:29 AM",,41.008667,-111.911633
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178849,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 the NB I-215 W Exit (MP 117), Salt Lake Co.
 Exit Closed
@@ -21034,7 +21038,3 @@ Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.99768
 UT-Incident--178856,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
 EB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 9:03 AM","5/7/24, 8:03 AM","5/7/24, 9:03 AM","5/7/24, 8:04 AM",,40.305888,-111.25888
-UT-Incident--178852,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
-NB US 89 at MAIN ST Davis Co.
-Right Shoulder
-Est. Clearance Time: 8:29 AM","5/7/24, 7:29 AM","5/7/24, 8:29 AM","5/7/24, 7:29 AM",,41.008667,-111.911633
