@@ -20929,15 +20929,16 @@ UT-Incident--178832,Incidents,SR 112,Tooele County,SR 112 at MP 6,"Crash
 WB SR 112 at MP 6 (Utah Ave Jct) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:34 PM","5/6/24, 8:35 PM","5/6/24, 9:34 PM","5/6/24, 8:35 PM",,40.549239,-112.33989
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178834,Incidents,US 6,Utah County,US 6 at MP 182,"Crash
 WB US 6 at MP 182 (2 Mi W of Diamand Fork Rd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:50 PM","5/6/24, 9:51 PM","5/6/24, 10:50 PM","5/6/24, 9:51 PM",,40.040823,-111.541266
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178835,Incidents,I-70,Sevier County,I-70 at MP 49,"Crash
 EB I-70 at MP 49 (9 mi E of Richfield) Sevier Co.
-Est. Clearance Time: 11:21 PM","5/6/24, 10:21 PM","5/6/24, 11:21 PM","5/6/24, 10:21 PM",,38.874338,-111.964327
+Left Shoulder
+Est. Clearance Time: 11:21 PM","5/6/24, 10:21 PM","5/6/24, 11:21 PM","5/6/24, 10:40 PM",,38.874338,-111.964327
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
