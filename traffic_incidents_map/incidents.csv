@@ -20954,24 +20954,36 @@ UT-Incident--178844,Incidents,I-15,Davis County,I-15 at MP 325,"Crash
 NB I-15 at MP 325 (Shepard Ln) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 7:40 AM","5/7/24, 6:35 AM","5/7/24, 7:40 AM","5/7/24, 6:35 AM",,40.994182,-111.914296
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178851,Incidents,US 89,Davis County,US 89 at MP 397,"Crash
 NB US 89 at MP 397 (Park Ln / Farmington) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 8:17 AM","5/7/24, 7:18 AM","5/7/24, 8:17 AM","5/7/24, 7:18 AM",,41.002967,-111.908705
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178850,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
-NB 5600 S at Hwy 201 Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:01 AM","5/7/24, 7:02 AM","5/7/24, 8:01 AM","5/7/24, 7:09 AM",,40.724701,-112.024894
 UT-Incident--178845,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:35 AM","5/7/24, 6:39 AM","5/7/24, 7:35 AM","5/7/24, 6:39 AM",,40.985152,-111.899709
+UT-Incident--178847,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
+SB US 89 at MP 398 (Nicholls Rd / Fruit Heights) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:51 AM","5/7/24, 6:53 AM","5/7/24, 7:51 AM","5/7/24, 6:53 AM",,41.017359,-111.909292
+UT-Incident--178848,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
+NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
+Left Shoulder
+Est. Clearance Time: 8:00 AM","5/7/24, 6:54 AM","5/7/24, 8:00 AM","5/7/24, 7:20 AM",,40.988877,-111.901278
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178850,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
+NB 5600 S at Hwy 201 Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:01 AM","5/7/24, 7:02 AM","5/7/24, 8:01 AM","5/7/24, 7:09 AM",,40.724701,-112.024894
 UT-Incident--178846,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
 SB I-15 at MP 333 (700 S /SR-193) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","5/7/24, 6:42 AM","5/7/24, 7:45 AM","5/7/24, 6:42 AM",,41.090489,-111.992149
+UT-Incident--178853,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:37 AM","5/7/24, 7:38 AM","5/7/24, 8:37 AM","5/7/24, 7:38 AM",,40.777705,-111.910735
 UT-Incident--178838,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143-128 (Parley's Canyon)
 Traction devices required for vehicles","5/7/24, 5:02 AM","5/8/24, 6:01 AM","5/7/24, 5:40 AM",,40.740161,-111.558358
@@ -20991,14 +21003,6 @@ Approved Traction Devices Required For All Vehicles.","5/7/24, 6:23 AM","5/8/24,
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
-UT-Incident--178847,Incidents,US 89,Davis County,US 89 at MP 398,"Crash
-SB US 89 at MP 398 (Nicholls Rd / Fruit Heights) Davis Co.
-Right Shoulder
-Est. Clearance Time: 7:51 AM","5/7/24, 6:53 AM","5/7/24, 7:51 AM","5/7/24, 6:53 AM",,41.017359,-111.909292
-UT-Incident--178848,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
-NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
-Left Shoulder
-Est. Clearance Time: 8:00 AM","5/7/24, 6:54 AM","5/7/24, 8:00 AM","5/7/24, 7:20 AM",,40.988877,-111.901278
 UT-Incident--178852,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
 NB US 89 at MAIN ST Davis Co.
 Right Shoulder
