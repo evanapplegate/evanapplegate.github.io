@@ -20902,7 +20902,6 @@ UT-Incident--178825,Incidents,US 40,Wasatch County,US 40 at MP 14,"Crash
 EB US 40 at MP 14 (UVU Campus / Heber) Wasatch Co.
 Est. Clearance Time: 4:28 PM","5/6/24, 3:29 PM","5/6/24, 4:28 PM","5/6/24, 3:29 PM",,40.54763,-111.419951
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178826,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
@@ -20919,6 +20918,11 @@ UT-Incident--178828,Incidents,I-84,Summit County,I-84 at MP 115,"Crash
 EB I-84 at MP 115 (Henefer) Summit Co.
 Right Shoulder
 Est. Clearance Time: 6:46 PM","5/6/24, 5:46 PM","5/6/24, 6:46 PM","5/6/24, 5:46 PM",,41.020995,-111.493439
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178830,Incidents,9000 S,Salt Lake County,9000 S at Bangerter Hwy,"Crash
+EB 9000 S at Bangerter Hwy Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:03 PM","5/6/24, 7:04 PM","5/6/24, 8:03 PM","5/6/24, 7:04 PM",,40.587902,-111.974334
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
