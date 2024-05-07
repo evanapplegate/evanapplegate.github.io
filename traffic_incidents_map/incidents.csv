@@ -20970,13 +20970,13 @@ UT-Incident--178848,Incidents,US 89,Davis County,US 89 at MP 396,"Crash
 NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Left Shoulder
 Est. Clearance Time: 8:00 AM","5/7/24, 6:54 AM","5/7/24, 8:00 AM","5/7/24, 7:20 AM",,40.988877,-111.901278
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178838,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
 WB I-80 at MP 143-128 (Parley's Canyon)
 Traction devices required for vehicles","5/7/24, 5:02 AM","5/8/24, 6:01 AM","5/7/24, 5:40 AM",,40.740161,-111.558358
 UT-Incident--178841,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
 Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
 Approved Traction Devices Required For All Vehicles.","5/7/24, 6:23 AM","5/8/24, 7:22 AM","5/7/24, 6:24 AM",,40.624634,-111.501637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178854,Incidents,200 N,Davis County,200 N at I-15 SB Fwy,"Crash
 EB 200 N at I-15 SB Fwy Davis Co.
@@ -20986,10 +20986,14 @@ UT-Incident--178850,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
 NB 5600 S at Hwy 201 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:01 AM","5/7/24, 7:02 AM","5/7/24, 8:01 AM","5/7/24, 7:09 AM",,40.724701,-112.024894
+UT-Incident--178857,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 24,"Crash
+NB Bangerter Hwy at MP 24 (Airport/I-80 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:13 AM","5/7/24, 8:15 AM","5/7/24, 9:13 AM","5/7/24, 8:16 AM",,40.767964,-111.98612
 UT-Incident--178846,Incidents,I-15,Davis County,I-15 at MP 333,"Crash
 SB I-15 at MP 333 (700 S /SR-193) Davis Co.
 Right Shoulder
-Est. Clearance Time: 7:45 AM","5/7/24, 6:42 AM","5/7/24, 7:45 AM","5/7/24, 6:42 AM",,41.090489,-111.992149
+Est. Clearance Time: 8:30 AM","5/7/24, 6:42 AM","5/7/24, 8:30 AM","5/7/24, 8:07 AM",,41.090489,-111.992149
 UT-Incident--178853,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (700 N) Salt Lake Co.
 Right Shoulder
@@ -21001,7 +21005,7 @@ Est. Clearance Time: 8:49 AM","5/7/24, 7:50 AM","5/7/24, 8:49 AM","5/7/24, 7:50 
 UT-Incident--178849,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 the NB I-215 W Exit (MP 117), Salt Lake Co.
 Exit Closed
-Est. Clearance Time: 7:58 AM","5/7/24, 6:59 AM","5/7/24, 7:58 AM","5/7/24, 7:13 AM",,40.765438,-111.953251
+Est. Clearance Time: 11:13 AM","5/7/24, 6:59 AM","5/7/24, 11:13 AM","5/7/24, 8:12 AM",,40.765438,-111.953251
 UT-Incident--178839,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
 Approved traction devices required for all vehicles ","5/7/24, 5:24 AM","5/8/24, 6:22 AM","5/7/24, 5:24 AM",,40.619107,-111.786281
