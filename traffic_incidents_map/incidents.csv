@@ -20958,7 +20958,6 @@ UT-Incident--178851,Incidents,US 89,Davis County,US 89 at MP 397,"Crash
 NB US 89 at MP 397 (Park Ln / Farmington) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 8:17 AM","5/7/24, 7:18 AM","5/7/24, 8:17 AM","5/7/24, 7:18 AM",,41.002967,-111.908705
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178845,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
 Right Shoulder
@@ -20972,6 +20971,17 @@ NB US 89 at MP 396 (I-15 Jct / Farmington) Davis Co.
 Left Shoulder
 Est. Clearance Time: 8:00 AM","5/7/24, 6:54 AM","5/7/24, 8:00 AM","5/7/24, 7:20 AM",,40.988877,-111.901278
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178838,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
+WB I-80 at MP 143-128 (Parley's Canyon)
+Traction devices required for vehicles","5/7/24, 5:02 AM","5/8/24, 6:01 AM","5/7/24, 5:40 AM",,40.740161,-111.558358
+UT-Incident--178841,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
+Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
+Approved Traction Devices Required For All Vehicles.","5/7/24, 6:23 AM","5/8/24, 7:22 AM","5/7/24, 6:24 AM",,40.624634,-111.501637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178854,Incidents,200 N,Davis County,200 N at I-15 SB Fwy,"Crash
+EB 200 N at I-15 SB Fwy Davis Co.
+Right Lane Closed
+Est. Clearance Time: 8:44 AM","5/7/24, 7:47 AM","5/7/24, 8:44 AM","5/7/24, 7:47 AM",,41.038164,-111.949079
 UT-Incident--178850,Incidents,5600 W,Salt Lake County,5600 W 2149,"Crash
 NB 5600 S at Hwy 201 Salt Lake Co.
 Right Shoulder
@@ -20984,9 +20994,10 @@ UT-Incident--178853,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:37 AM","5/7/24, 7:38 AM","5/7/24, 8:37 AM","5/7/24, 7:38 AM",,40.777705,-111.910735
-UT-Incident--178838,Incidents,I-80,Summit County,I-80 at MP 143,"Roadway Restriction
-WB I-80 at MP 143-128 (Parley's Canyon)
-Traction devices required for vehicles","5/7/24, 5:02 AM","5/8/24, 6:01 AM","5/7/24, 5:40 AM",,40.740161,-111.558358
+UT-Incident--178855,Incidents,I-15,Davis County,I-15 at MP 323,"Crash
+NB I-15 at MP 323 (State St, Farmngtn) Davis Co.
+Left Shoulder
+Est. Clearance Time: 8:49 AM","5/7/24, 7:50 AM","5/7/24, 8:49 AM","5/7/24, 7:50 AM",,40.971566,-111.893495
 UT-Incident--178849,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 the NB I-215 W Exit (MP 117), Salt Lake Co.
 Exit Closed
@@ -20997,12 +21008,12 @@ Approved traction devices required for all vehicles ","5/7/24, 5:24 AM","5/8/24,
 UT-Incident--178840,Incidents,SR 210,Salt Lake County,SR 210 at MP 4,"Roadway Restriction
 Both Directions SR 210 at MP 4 (Mouth of Ltl Cottonwood) Salt Lake Co.
 Approved traction devices required for all vehicles ","5/7/24, 5:25 AM","5/8/24, 6:24 AM","5/7/24, 5:25 AM",,40.572095,-111.773814
-UT-Incident--178841,Incidents,SR 224,Summit County,SR 224 at MP 2,"Roadway Restriction
-Both Directions SR 224 at MP 2 (Empire Pass) Summit Co.
-Approved Traction Devices Required For All Vehicles.","5/7/24, 6:23 AM","5/8/24, 7:22 AM","5/7/24, 6:24 AM",,40.624634,-111.501637
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
+UT-Incident--178856,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
+EB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 9:03 AM","5/7/24, 8:03 AM","5/7/24, 9:03 AM","5/7/24, 8:04 AM",,40.305888,-111.25888
 UT-Incident--178852,Incidents,US 89,Davis County,US 89 at MAIN ST,"Crash
 NB US 89 at MAIN ST Davis Co.
 Right Shoulder
