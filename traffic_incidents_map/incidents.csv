@@ -21055,6 +21055,10 @@ UT-Incident--178868,Incidents,I-70,Sevier County,I-70 at MP 94,"Crash
 EB I-70 at MP 94 (5 mi E of Fremont Jct) Sevier Co.
 Est. Clearance Time: 2:55 PM","5/7/24, 1:57 PM","5/7/24, 2:55 PM","5/7/24, 1:57 PM",,38.786433,-111.301786
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178872,Incidents,SR 36,Tooele County,SR 36 at MP 65,"Crash
+WB SR 36 at MP 65 (Lake Point) Tooele Co.
+Left Lane Closed
+Est. Clearance Time: 4:45 PM","5/7/24, 3:40 PM","5/7/24, 4:45 PM","5/7/24, 3:40 PM",,40.679608,-112.273746
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178866,Incidents,12600 S,Salt Lake County,12600 S 3451,"Water Line Break
 WB 12600 S at 3082 W Salt Lake Co.
@@ -21075,10 +21079,6 @@ UT-Incident--178875,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","5/7/24, 4:17 PM","5/7/24, 5:35 PM","5/7/24, 4:17 PM",,40.724124,-111.943886
-UT-Incident--178872,Incidents,SR 36,Tooele County,SR 36 at MP 65,"Crash
-WB SR 36 at MP 65 (Lake Point) Tooele Co.
-Left Lane Closed
-Est. Clearance Time: 4:45 PM","5/7/24, 3:40 PM","5/7/24, 4:45 PM","5/7/24, 3:40 PM",,40.679608,-112.273746
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
