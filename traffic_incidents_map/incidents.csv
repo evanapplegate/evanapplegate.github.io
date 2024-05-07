@@ -21024,11 +21024,14 @@ UT-Incident--178859,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:52 AM","5/7/24, 8:22 AM","5/7/24, 9:52 AM","5/7/24, 9:28 AM",,40.750653,-111.708179
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178858,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:49 AM","5/7/24, 8:20 AM","5/7/24, 9:49 AM","5/7/24, 9:28 AM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178856,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
+EB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 10:03 AM","5/7/24, 8:03 AM","5/7/24, 10:03 AM","5/7/24, 9:28 AM",,40.305888,-111.25888
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178839,Incidents,SR 190,Salt Lake County,SR 190 at MP 2,"Roadway Restriction
 SR 190 at MP 2-20 (Mouth of Big Cottonwood) Salt Lake Co.
@@ -21039,6 +21042,3 @@ Approved traction devices required for all vehicles ","5/7/24, 5:25 AM","5/8/24,
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
-UT-Incident--178856,Incidents,US 40,Wasatch County,US 40 at MP 34,"Crash
-EB US 40 at MP 34 (13 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 10:03 AM","5/7/24, 8:03 AM","5/7/24, 10:03 AM","5/7/24, 9:28 AM",,40.305888,-111.25888
