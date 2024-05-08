@@ -21150,10 +21150,13 @@ Use Alt Route","5/8/24, 8:18 AM","5/8/24, 9:18 AM","5/8/24, 8:37 AM",,40.294053,
 UT-Incident--178904,Incidents,I-15 SB X269 Off Univ Pkwy EB Ramp,Utah County,I-15 SB X269 Off Univ Pkwy EB Ramp at University Pkwy,"Crash
 SB I-15 Univ Pkwy Ramp Off Ramp (MP 263) Utah Co.
 Est. Clearance Time: 11:20 AM","5/8/24, 10:17 AM","5/8/24, 11:20 AM","5/8/24, 10:17 AM",,40.275311,-111.718922
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178866,Incidents,12600 S,Salt Lake County,12600 S 3451,"Water Line Break
 WB 12600 S at 3082 W Salt Lake Co.
 Left Lane Closed","5/7/24, 1:00 PM","5/9/24, 12:00 AM","5/8/24, 9:05 AM",,40.522261,-111.971023
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178903,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
+NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
+Est. Clearance Time: 11:00 AM","5/8/24, 9:56 AM","5/8/24, 11:00 AM","5/8/24, 9:56 AM",,40.803702,-111.949406
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21167,9 +21170,6 @@ UT-Incident--178905,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 WB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 11:30 AM","5/8/24, 10:22 AM","5/8/24, 11:30 AM","5/8/24, 10:22 AM",,40.64406,-111.929407
-UT-Incident--178903,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
-NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
-Est. Clearance Time: 11:00 AM","5/8/24, 9:56 AM","5/8/24, 11:00 AM","5/8/24, 9:56 AM",,40.803702,-111.949406
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
