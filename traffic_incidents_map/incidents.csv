@@ -21201,11 +21201,11 @@ UT-Incident--178913,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
 WB SR 201 at MP 9 (6800 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","5/8/24, 3:47 PM","5/8/24, 5:00 PM","5/8/24, 3:48 PM",,40.718554,-112.056887
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178919,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:00 PM","5/8/24, 4:59 PM","5/8/24, 6:00 PM","5/8/24, 5:02 PM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21215,6 +21215,10 @@ UT-Incident--178915,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","5/8/24, 4:13 PM","5/8/24, 5:35 PM","5/8/24, 4:13 PM",,40.480607,-111.902252
+UT-Incident--178922,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+NB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:45 PM","5/8/24, 5:32 PM","5/8/24, 6:45 PM","5/8/24, 5:32 PM",,40.373184,-111.808465
 UT-Incident--178920,Incidents,I-15 NB Fwy,Salt Lake County,I-15 NB Fwy at I-80 WB Fwy,"Crash
 Ramp From I-15 NB To I-80 WB Salt Lake Co.
 Left Lane Closed
