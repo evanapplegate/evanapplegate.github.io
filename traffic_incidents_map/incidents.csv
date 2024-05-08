@@ -21106,6 +21106,13 @@ UT-Incident--178889,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 SB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 10:35 PM","5/7/24, 9:17 PM","5/7/24, 10:35 PM","5/7/24, 9:17 PM",,37.613172,-113.153387
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178887,Incidents,US 40,Uintah County,US 40 at MP 118,"Crash
+Both Directions US 40 at MP 118 (4 Mi E of Roosevelt) Uintah Co.
+Est. Clearance Time: 10:00 PM","5/7/24, 8:59 PM","5/7/24, 10:00 PM","5/7/24, 8:59 PM",,40.302192,-109.923864
+UT-Incident--178890,Incidents,Wall Ave,Weber County,Wall Ave at 36th St,"Crash
+SB Wall Ave at 36th St Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 11:00 PM","5/7/24, 9:50 PM","5/7/24, 11:00 PM","5/7/24, 9:50 PM",,41.197902,-111.979394
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178866,Incidents,12600 S,Salt Lake County,12600 S 3451,"Water Line Break
 WB 12600 S at 3082 W Salt Lake Co.
@@ -21114,10 +21121,3 @@ Est. Clearance Time: 7:30 PM","5/7/24, 1:00 PM","5/7/24, 7:30 PM","5/7/24, 1:14 
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
-UT-Incident--178887,Incidents,US 40,Uintah County,US 40 at MP 118,"Crash
-Both Directions US 40 at MP 118 (4 Mi E of Roosevelt) Uintah Co.
-Est. Clearance Time: 10:00 PM","5/7/24, 8:59 PM","5/7/24, 10:00 PM","5/7/24, 8:59 PM",,40.302192,-109.923864
-UT-Incident--178890,Incidents,Wall Ave,Weber County,Wall Ave at 36th St,"Crash
-SB Wall Ave at 36th St Weber Co.
-2 Right Lanes Closed
-Est. Clearance Time: 11:00 PM","5/7/24, 9:50 PM","5/7/24, 11:00 PM","5/7/24, 9:50 PM",,41.197902,-111.979394
