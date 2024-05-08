@@ -21100,14 +21100,14 @@ UT-Incident--178886,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 NB I-15 at MP 265 Off Ramp (Center St / Provo) Utah Co.
 Est. Clearance Time: 8:35 PM","5/7/24, 7:29 PM","5/7/24, 8:35 PM","5/7/24, 7:29 PM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178888,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+SB I-15 at MP 283 (Lehi) Utah Co.
+Est. Clearance Time: 10:35 PM","5/7/24, 9:16 PM","5/7/24, 10:35 PM","5/7/24, 9:16 PM",,40.420056,-111.878496
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178866,Incidents,12600 S,Salt Lake County,12600 S 3451,"Water Line Break
 WB 12600 S at 3082 W Salt Lake Co.
 Left Lanes Closed
 Est. Clearance Time: 7:30 PM","5/7/24, 1:00 PM","5/7/24, 7:30 PM","5/7/24, 1:14 PM",,40.522261,-111.971023
-UT-Incident--178888,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
-SB I-15 at MP 283 (Lehi) Utah Co.
-Est. Clearance Time: 10:35 PM","5/7/24, 9:16 PM","5/7/24, 10:35 PM","5/7/24, 9:16 PM",,40.420056,-111.878496
 UT-Incident--178889,Incidents,I-15,Iron County,I-15 at MP 52,"Crash
 SB I-15 at MP 52 (1 mi N of Kanarraville) Iron Co.
 Est. Clearance Time: 10:35 PM","5/7/24, 9:17 PM","5/7/24, 10:35 PM","5/7/24, 9:17 PM",,37.613172,-113.153387
@@ -21117,3 +21117,7 @@ Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.99768
 UT-Incident--178887,Incidents,US 40,Uintah County,US 40 at MP 118,"Crash
 Both Directions US 40 at MP 118 (4 Mi E of Roosevelt) Uintah Co.
 Est. Clearance Time: 10:00 PM","5/7/24, 8:59 PM","5/7/24, 10:00 PM","5/7/24, 8:59 PM",,40.302192,-109.923864
+UT-Incident--178890,Incidents,Wall Ave,Weber County,Wall Ave at 36th St,"Crash
+SB Wall Ave at 36th St Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 11:00 PM","5/7/24, 9:50 PM","5/7/24, 11:00 PM","5/7/24, 9:50 PM",,41.197902,-111.979394
