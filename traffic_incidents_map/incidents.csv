@@ -21119,7 +21119,6 @@ UT-Incident--178892,Incidents,I-215 W,Salt Lake County,I-215 W at MP 26,"Crash
 NB I-215 W at MP 26 (2800 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 AM","5/8/24, 4:56 AM","5/8/24, 6:00 AM","5/8/24, 4:56 AM",,40.817974,-111.949525
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178895,Incidents,1900 W,Weber County,1900 W 2106,"Crash
 SB 1900 W at 2106 S (Weber Co)
 NB Right ln blkd, WB Middle lane blocked
@@ -21128,6 +21127,7 @@ UT-Incident--178894,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
 SB I-15 at MP 337 (Sunset) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:46 AM","5/8/24, 6:47 AM","5/8/24, 7:46 AM","5/8/24, 6:47 AM",,41.145326,-112.025608
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178866,Incidents,12600 S,Salt Lake County,12600 S 3451,"Water Line Break
 WB 12600 S at 3082 W Salt Lake Co.
