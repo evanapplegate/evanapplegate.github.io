@@ -21205,7 +21205,6 @@ UT-Incident--178919,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:00 PM","5/8/24, 4:59 PM","5/8/24, 6:00 PM","5/8/24, 5:02 PM",,40.373184,-111.808465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178915,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -21223,10 +21222,6 @@ WB I-215 S at MP 10 (700 E) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 5:45 PM","5/8/24, 4:35 PM","5/8/24, 5:45 PM","5/8/24, 4:35 PM",,40.63036,-111.877391
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
-EB 500 S at 1300 E Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 5/10/2024 9:41 AM","5/8/24, 8:44 AM","5/10/24, 9:41 AM","5/8/24, 8:44 AM",,40.758491,-111.854971
 UT-Incident--178923,Incidents,I-15,Iron County,I-15 at MP 90,"Crash
 NB I-15 at MP 90 (13 mi N of Parowan) Iron Co.
 Left Shoulder
@@ -21242,6 +21237,14 @@ Est. Clearance Time: 7:35 PM","5/8/24, 6:27 PM","5/8/24, 7:35 PM","5/8/24, 6:27 
 UT-Incident--178921,Incidents,RANCHES PKWY,Utah County,RANCHES PKWY at CEDAR FORT RD,"Signal problems
 All Directions Hwy 73 at Ranches Pkwy Utah Co.
 Flashing Intersection: Treat As A 4 Way Stop","5/8/24, 5:18 PM","5/8/24, 6:30 PM","5/8/24, 5:20 PM",,40.380696,-111.974167
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
+EB 500 S at 1300 E Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5/10/2024 9:41 AM","5/8/24, 8:44 AM","5/10/24, 9:41 AM","5/8/24, 8:44 AM",,40.758491,-111.854971
+UT-Incident--178928,Incidents,SR 38,Box Elder County,SR 38 at MP 17,"Crash
+SR 38 at MP 17 (1 mi S of Collinston) Box Elder Co.
+Est. Clearance Time: 8:00 PM","5/8/24, 6:48 PM","5/8/24, 8:00 PM","5/8/24, 6:48 PM",,41.757838,-112.0981
 UT-Incident--178813,Incidents,US 191,Daggett County,US 191 at MP 404,"Road weather
 Both Directions US-191 Closed at MP 404 (UT/WY Border) Daggett Co.
 Use Alt Route","5/6/24, 9:30 AM","5/10/24, 10:29 AM","5/6/24, 9:30 AM",,40.997685,-109.432538
