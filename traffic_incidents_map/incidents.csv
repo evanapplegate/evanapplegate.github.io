@@ -21335,7 +21335,11 @@ UT-Incident--178956,Incidents,BANGERTER NB HWY,Salt Lake County,BANGERTER NB HWY
 SB Bangerter Hwy at California Ave Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","5/9/24, 2:50 PM","5/9/24, 3:45 PM",,,40.743333,-111.989495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--178959,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:45 PM","5/9/24, 3:51 PM","5/9/24, 4:45 PM",,,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21348,10 +21352,9 @@ UT-Incident--178958,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
 NB I-15 at MP 346 (Pioneer Rd) Weber Co.
 Right Shoulder
 Est. Clearance Time: 4:41 PM","5/9/24, 3:42 PM","5/9/24, 4:41 PM",,,41.258018,-112.022971
-UT-Incident--178959,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 4:45 PM","5/9/24, 3:51 PM","5/9/24, 4:45 PM",,,40.722344,-111.904691
+UT-Incident--178961,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Est. Clearance Time: 5:30 PM","5/9/24, 4:28 PM","5/9/24, 5:30 PM",,,40.346539,-111.763778
 UT-Incident--178957,Incidents,US 189,Utah County,US 189 at MP 11,"Crash
 NB US 189 at MP 11 (Bridal Veil Falls) Utah Co.
 2 Right Lanes Closed
