@@ -21243,7 +21243,6 @@ UT-Incident--178929,Incidents,SR 36,Tooele County,SR 36 at MP 64,"Vehicle on fir
 NB SR 36 at MP 64 (Canyon Rd) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","5/8/24, 8:12 PM","5/8/24, 9:35 PM","5/8/24, 9:01 PM",,40.667795,-112.284101
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178930,Incidents,I-15,Iron County,I-15 at MP 69,"Crash
 NB I-15 at MP 69 (5 mi N of Cedar City) Iron Co.
 Right Shoulder
@@ -21251,6 +21250,7 @@ Est. Clearance Time: 10:30 PM","5/8/24, 9:29 PM","5/8/24, 10:30 PM","5/8/24, 9:2
 UT-Incident--178931,Incidents,SR 56,Iron County,SR 56 at MP 44,"Crash
 SR 56 at MP 44 (12 Mi W of Cedar City) Iron Co.
 Est. Clearance Time: 10:45 PM","5/8/24, 9:48 PM","5/8/24, 10:45 PM","5/8/24, 9:48 PM",,37.608959,-113.354209
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
