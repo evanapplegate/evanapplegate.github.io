@@ -21463,7 +21463,6 @@ Est. Clearance Time: 11:47 AM","5/10/24, 10:48 AM","5/10/24, 11:47 AM","5/10/24,
 UT-Incident--178990,Incidents,St George Blvd,Washington County,St George Blvd at 400 E,"Crash 
 WB St George Blvd Closed
  at 400 E Washington Co.","5/10/24, 8:32 AM","5/10/24, 10:30 AM","5/10/24, 8:55 AM",,37.109851,-113.573111
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178998,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
 SB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.
 Center Lanes Closed
@@ -21472,6 +21471,7 @@ UT-Incident--178996,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:51 PM","5/10/24, 12:51 PM","5/10/24, 1:51 PM","5/10/24, 12:51 PM",,40.550055,-111.896336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21484,7 +21484,8 @@ Est. Clearance Time: 1:05 PM","5/10/24, 12:05 PM","5/10/24, 1:05 PM","5/10/24, 1
 UT-Incident--178997,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
 NB I-15 at MP 337 (Sunset) Davis Co.
 3 Right Lanes Closed
-Est. Clearance Time: 1:59 PM","5/10/24, 1:02 PM","5/10/24, 1:59 PM","5/10/24, 1:10 PM",,41.140572,-112.025572
+5600 S Exit Closed
+Est. Clearance Time: 4:59 PM","5/10/24, 1:02 PM","5/10/24, 4:59 PM","5/10/24, 2:11 PM",,41.140572,-112.025572
 UT-Incident--178999,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
