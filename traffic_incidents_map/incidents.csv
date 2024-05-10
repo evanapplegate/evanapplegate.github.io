@@ -21452,7 +21452,6 @@ UT-Incident--178987,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co. 
 Traffic using center lanes
 Est. Clearance Time: 8:45 AM","5/10/24, 6:49 AM","5/10/24, 8:45 AM","5/10/24, 8:10 AM",,40.74385,-111.657734
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178992,Incidents,I-70,Sevier County,I-70 at MP 63,"Crash
 EB I-70 at MP 63 (23 mi E of Richfield) Sevier Co.
 Left Lane Closed
@@ -21464,6 +21463,7 @@ Est. Clearance Time: 11:47 AM","5/10/24, 10:48 AM","5/10/24, 11:47 AM","5/10/24,
 UT-Incident--178990,Incidents,St George Blvd,Washington County,St George Blvd at 400 E,"Crash 
 WB St George Blvd Closed
  at 400 E Washington Co.","5/10/24, 8:32 AM","5/10/24, 10:30 AM","5/10/24, 8:55 AM",,37.109851,-113.573111
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
