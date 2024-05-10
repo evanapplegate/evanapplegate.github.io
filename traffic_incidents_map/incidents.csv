@@ -21494,7 +21494,6 @@ UT-Incident--179003,Incidents,I-15,Millard County,I-15 at MP 189,"Crash
 SB I-15 at MP 189 (1 mi N of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","5/10/24, 3:13 PM","5/10/24, 4:15 PM","5/10/24, 3:13 PM",,39.259435,-112.108096
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179007,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Lane Closed
@@ -21503,6 +21502,7 @@ UT-Incident--179005,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Vehicle on f
 WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:16 PM","5/10/24, 3:17 PM","5/10/24, 4:16 PM","5/10/24, 3:42 PM",,40.719771,-111.855009
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21520,6 +21520,10 @@ UT-Incident--179010,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:15 PM","5/10/24, 4:05 PM","5/10/24, 5:15 PM","5/10/24, 4:05 PM",,40.63583,-111.905066
+UT-Incident--179011,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:35 PM","5/10/24, 4:25 PM","5/10/24, 5:35 PM","5/10/24, 4:25 PM",,40.649847,-111.90236
 UT-Incident--179006,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 WB I-80 at MP 191 (Wasatch) Summit Co.
 Right Shoulder
