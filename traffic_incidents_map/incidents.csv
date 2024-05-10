@@ -21490,11 +21490,11 @@ UT-Incident--179002,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 3:44 PM","5/10/24, 2:46 PM","5/10/24, 3:44 PM","5/10/24, 2:49 PM",,40.707874,-111.90397
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179003,Incidents,I-15,Millard County,I-15 at MP 189,"Crash
 SB I-15 at MP 189 (1 mi N of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","5/10/24, 3:13 PM","5/10/24, 4:15 PM","5/10/24, 3:13 PM",,39.259435,-112.108096
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21502,9 +21502,8 @@ EB 500 S at 1300 E Salt Lake Co.
 Est. Clearance Time: 5/10/2024 ","5/8/24, 8:44 AM","5/10/24, 5:00 PM","5/10/24, 2:23 PM",,40.758491,-111.854971
 UT-Incident--178997,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
 NB I-15 at MP 337 (Sunset) Davis Co.
-3 Right Lanes Closed
-5600 S Exit Closed
-Est. Clearance Time: 4:59 PM","5/10/24, 1:02 PM","5/10/24, 4:59 PM","5/10/24, 2:11 PM",,41.140572,-112.025572
+Cleared at 3:59 PM
+Est. Clearance Time: 5:00 PM","5/10/24, 1:02 PM","5/10/24, 5:00 PM","5/10/24, 3:59 PM",,41.140572,-112.025572
 UT-Incident--179004,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Shoulder
