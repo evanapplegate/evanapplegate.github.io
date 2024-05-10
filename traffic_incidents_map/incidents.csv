@@ -21483,10 +21483,14 @@ UT-Incident--179000,Incidents,SR 232,Davis County,SR 232 at MP 1,"Crash
 NB SR 232 at MP 1 (Forbes Ave) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 3:04 PM","5/10/24, 2:05 PM","5/10/24, 3:04 PM","5/10/24, 2:05 PM",,41.085175,-111.973454
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179001,Incidents,SR 28,Juab County,SR 28 at MP 18,"Crash
 Rollover SR 28 at MP 18 (2 Mi N of Yuba Lake) Juab Co.
 Est. Clearance Time: 3:34 PM","5/10/24, 2:35 PM","5/10/24, 3:34 PM","5/10/24, 2:35 PM",,39.395658,-111.927857
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179002,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:44 PM","5/10/24, 2:46 PM","5/10/24, 3:44 PM","5/10/24, 2:49 PM",,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--178900,Incidents,500 S,Salt Lake County,500 S at 1300 E,"Utility work
 EB 500 S at 1300 E Salt Lake Co.
@@ -21497,7 +21501,15 @@ NB I-15 at MP 337 (Sunset) Davis Co.
 3 Right Lanes Closed
 5600 S Exit Closed
 Est. Clearance Time: 4:59 PM","5/10/24, 1:02 PM","5/10/24, 4:59 PM","5/10/24, 2:11 PM",,41.140572,-112.025572
-UT-Incident--179002,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
-NB I-15 at MP 304 (2700 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:44 PM","5/10/24, 2:46 PM","5/10/24, 3:44 PM","5/10/24, 2:49 PM",,40.707874,-111.90397
+UT-Incident--179003,Incidents,I-15,Millard County,I-15 at MP 189,"Crash
+SB I-15 at MP 189 (1 mi N of Scipio) Millard Co.
+Right Shoulder
+Est. Clearance Time: 4:15 PM","5/10/24, 3:13 PM","5/10/24, 4:15 PM","5/10/24, 3:13 PM",,39.259435,-112.108096
+UT-Incident--179004,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:15 PM","5/10/24, 3:17 PM","5/10/24, 4:15 PM","5/10/24, 3:17 PM",,40.722344,-111.904691
+UT-Incident--179005,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Vehicle on fire
+WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:16 PM","5/10/24, 3:17 PM","5/10/24, 4:16 PM","5/10/24, 3:17 PM",,40.719771,-111.855009
