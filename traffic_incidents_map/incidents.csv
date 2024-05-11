@@ -21568,12 +21568,16 @@ UT-Incident--179022,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 10:35 PM","5/10/24, 9:22 PM","5/10/24, 10:35 PM","5/10/24, 9:22 PM",,40.203376,-111.655441
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179024,Incidents,I-15,Utah County,I-15 at MP 267,"Crash
 SB I-15 at MP 267 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5/11/2024 12:35 AM","5/10/24, 11:19 PM","5/11/24, 12:35 AM","5/10/24, 11:19 PM",,40.251153,-111.695664
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179026,Incidents,I-80,Summit County,I-80 at MP 157,"Crash
+EB I-80 at MP 157 (1 mi N of Wanship) Summit Co.
+Right Shoulder
+Est. Clearance Time: 2:29 AM","5/11/24, 1:30 AM","5/11/24, 2:29 AM","5/11/24, 1:30 AM",,40.833465,-111.389995
 UT-Incident--179025,Incidents,US 89,Weber County,US 89 at Skyline Dr,"Crash
 Other US 89 at Skyline Dr Weber Co.
 2 Right Lanes Closed
