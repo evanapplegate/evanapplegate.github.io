@@ -21543,7 +21543,6 @@ UT-Incident--179015,Incidents,US 89,Davis County,US 89 at MP 403,"Crash
 NB US 89 at MP 403 (2000 N / Layton) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","5/10/24, 5:46 PM","5/10/24, 7:00 PM","5/10/24, 5:46 PM",,41.088959,-111.910716
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179013,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Lane Closed
@@ -21559,3 +21558,4 @@ Est. Clearance Time: 7:15 PM","5/10/24, 6:04 PM","5/10/24, 7:15 PM","5/10/24, 6:
 UT-Incident--179020,Incidents,800 N,Utah County,800 N 1501,"Crash
 WB 800 N at Geneva Rd Utah Co.
 Est. Clearance Time: 8:15 PM","5/10/24, 7:18 PM","5/10/24, 8:15 PM","5/10/24, 7:20 PM",,40.311862,-111.734662
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
