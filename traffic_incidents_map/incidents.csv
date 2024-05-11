@@ -21592,9 +21592,13 @@ UT-Incident--179030,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 Ramp I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:19 AM","5/11/24, 4:24 AM","5/11/24, 5:19 AM","5/11/24, 4:44 AM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179029,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 4:28 AM","5/11/24, 3:28 AM","5/11/24, 4:28 AM","5/11/24, 3:28 AM",,41.114242,-112.014007
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179031,Incidents,I-15,Iron County,I-15 at MP 49,"Crash
+SB I-15 at MP 49 (Kanarraville) Iron Co.
+Right Shoulder
+Est. Clearance Time: 6:52 AM","5/11/24, 5:53 AM","5/11/24, 6:52 AM","5/11/24, 5:53 AM",,37.575505,-113.180624
