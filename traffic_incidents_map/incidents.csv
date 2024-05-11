@@ -21522,7 +21522,6 @@ WB I-80 at MP 191 (Wasatch) Summit Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","5/10/24, 3:33 PM","5/10/24, 5:30 PM","5/10/24, 5:01 PM",,41.193495,-111.117252
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179010,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -21531,13 +21530,29 @@ UT-Incident--179011,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","5/10/24, 4:25 PM","5/10/24, 6:00 PM","5/10/24, 5:34 PM",,40.649847,-111.90236
+UT-Incident--179014,Incidents,Main St,Tooele County,Main St at 1280 N,"SB Main St Closed
+ at 1280 N Tooele Co.
+Use Alt Route","5/10/24, 5:33 PM","5/10/24, 6:45 PM","5/10/24, 5:37 PM",,40.553863,-112.297693
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179019,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:25 PM","5/10/24, 6:25 PM","5/10/24, 7:25 PM","5/10/24, 6:25 PM",,40.365209,-111.792922
 UT-Incident--179013,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Crash
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","5/10/24, 5:33 PM","5/10/24, 6:45 PM","5/10/24, 5:33 PM",,40.740268,-111.674521
-UT-Incident--179014,Incidents,Main St,Tooele County,Main St at 1280 N,"SB Main St Closed
- at 1280 N Tooele Co.
-Use Alt Route","5/10/24, 5:33 PM","5/10/24, 6:45 PM","5/10/24, 5:37 PM",,40.553863,-112.297693
+UT-Incident--179016,Incidents,SR 12,Garfield County,SR 12 at MP 58,"Crash
+SR 12 at MP 58 (1 Mi W of Escalante) Garfield Co.
+Est. Clearance Time: 7:00 PM","5/10/24, 5:50 PM","5/10/24, 7:00 PM","5/10/24, 5:50 PM",,37.777548,-111.624808
 UT-Incident--179012,Incidents,SR 24,Wayne County,SR 24 at MP 47,"Crash
 SR 24 at MP 47 (4 Mi W of Loa) Wayne Co.
 Est. Clearance Time: 6:15 PM","5/10/24, 5:01 PM","5/10/24, 6:15 PM","5/10/24, 5:01 PM",,38.432308,-111.714077
+UT-Incident--179015,Incidents,US 89,Davis County,US 89 at MP 403,"Crash
+NB US 89 at MP 403 (2000 N / Layton) Davis Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","5/10/24, 5:46 PM","5/10/24, 7:00 PM","5/10/24, 5:46 PM",,41.088959,-111.910716
+UT-Incident--179017,Incidents,Washington Blvd,Weber County,Washington Blvd at 4700 S,"Crash
+NB Washington Blvd at 4700 S Weber Co.
+Left Lane Closed
+Est. Clearance Time: 7:15 PM","5/10/24, 6:04 PM","5/10/24, 7:15 PM","5/10/24, 6:04 PM",,41.177369,-111.971465
