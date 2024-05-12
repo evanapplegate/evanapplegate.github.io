@@ -21643,7 +21643,6 @@ UT-Incident--179043,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:15 PM","5/11/24, 5:10 PM","5/11/24, 6:15 PM","5/11/24, 5:10 PM",,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179045,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
@@ -21653,7 +21652,10 @@ UT-Incident--179046,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 NB I-215 W at MP 19 (1900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 PM","5/11/24, 7:41 PM","5/11/24, 9:00 PM","5/11/24, 7:41 PM",,40.717792,-111.95364
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179047,Incidents,Main St,Iron County,Main St at 600 S,"SB Main St Closed
+ at 600 S Iron Co.
+Use Alt Route","5/11/24, 7:59 PM","5/11/24, 9:15 PM","5/11/24, 7:59 PM",,0.0,0.0
 UT-Incident--179042,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 6:15 PM","5/11/24, 5:09 PM","5/11/24, 9:00 PM","5/11/24, 6:40 PM",,40.35648,-111.576663
+Est. Clearance Time: 6:15 PM","5/11/24, 5:09 PM","5/11/24, 9:00 PM","5/11/24, 8:05 PM",,40.35648,-111.576663
