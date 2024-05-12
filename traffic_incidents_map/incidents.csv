@@ -21684,10 +21684,10 @@ EB I-80 at MP 23 (18 mi W of Knolls) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 2:20 AM","5/12/24, 1:20 AM","5/12/24, 2:20 AM",,,40.734261,-113.607626
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--179056,Incidents,I-15,Box Elder County,I-15 at MP 395,"Stalled Vehicle
-SB I-15 at MP 395 (5 Mi S of UT border) Box Elder Co.
-Est. Clearance Time: 3:17 AM","5/12/24, 2:18 AM","5/12/24, 3:17 AM",,,41.924049,-112.171975
 UT-Incident--179055,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD at 40TH ST/WALL AVE,"SB RIVERDALE RD Closed
  at 40TH ST/WALL AVE Weber Co.
 Use Alt Route","5/12/24, 1:52 AM","5/12/24, 2:51 AM",,,41.192559,-111.979321
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179056,Incidents,I-15,Box Elder County,I-15 at MP 395,"Stalled Vehicle
+SB I-15 at MP 395 (5 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 3:17 AM","5/12/24, 2:18 AM","5/12/24, 3:17 AM","5/12/24, 2:18 AM",,41.924049,-112.171975
