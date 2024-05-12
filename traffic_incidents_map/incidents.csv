@@ -21660,7 +21660,6 @@ Use Alt Route","5/11/24, 7:59 PM","5/11/24, 9:15 PM","5/11/24, 7:59 PM",,0.0,0.0
 UT-Incident--179048,Incidents,US 89,Weber County,US 89 at MP 417,"Crash
 NB US 89 at MP 417 (North St / Ogden) Weber Co.
 Est. Clearance Time: 9:45 PM","5/11/24, 8:39 PM","5/11/24, 9:45 PM","5/11/24, 8:39 PM",,41.266167,-111.974068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179052,Incidents,I-215 E,Salt Lake County,I-215 E at MP 4,"Crash
 SB I-215 E at MP 4 (5200 S) Salt Lake Co.
 Left Shoulder
@@ -21672,6 +21671,7 @@ Est. Clearance Time: 10:45 PM","5/11/24, 9:37 PM","5/11/24, 10:45 PM","5/11/24, 
 UT-Incident--179049,Incidents,US 89,Sanpete County,US 89 at MP 289,"Crash
 US 89 at MP 289 (5 miles N of Fairview) Sanpete Co.
 Est. Clearance Time: 10:35 PM","5/11/24, 9:31 PM","5/11/24, 10:35 PM","5/11/24, 9:31 PM",,39.700719,-111.465839
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179051,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
