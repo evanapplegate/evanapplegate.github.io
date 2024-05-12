@@ -21679,12 +21679,15 @@ UT-Incident--179053,Incidents,SR 73,Utah County,SR 73 at MP 20,"Crash
 SR 73 at MP 20 (18300 W in Fairfield) Utah Co.
 Right Shoulder
 Est. Clearance Time: 1:33 AM","5/12/24, 12:34 AM","5/12/24, 1:33 AM","5/12/24, 12:34 AM",,40.255504,-112.105628
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--179054,Incidents,I-80,Tooele County,I-80 at MP 20,"Crash
-EB I-80 at MP 20 (18 mi E of Wendover) Tooele Co.
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--179056,Incidents,I-15,Box Elder County,I-15 at MP 395,"Stalled Vehicle
+SB I-15 at MP 395 (5 Mi S of UT border) Box Elder Co.
+Est. Clearance Time: 3:17 AM","5/12/24, 2:18 AM","5/12/24, 3:17 AM",,,41.924049,-112.171975
+UT-Incident--179054,Incidents,I-80,Tooele County,I-80 at MP 23,"Crash
+EB I-80 at MP 23 (18 mi W of Knolls) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 2:20 AM","5/12/24, 1:20 AM","5/12/24, 2:20 AM",,,40.735522,-113.6649
+Est. Clearance Time: 2:20 AM","5/12/24, 1:20 AM","5/12/24, 2:20 AM",,,40.734261,-113.607626
 UT-Incident--179055,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD at 40TH ST/WALL AVE,"SB RIVERDALE RD Closed
  at 40TH ST/WALL AVE Weber Co.
 Use Alt Route","5/12/24, 1:52 AM","5/12/24, 2:51 AM",,,41.192559,-111.979321
