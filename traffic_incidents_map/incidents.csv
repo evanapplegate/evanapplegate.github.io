@@ -21845,11 +21845,6 @@ SB I-15 at MP 369 (Honeyville) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 5:12 PM","5/13/24, 4:12 PM","5/13/24, 5:12 PM","5/13/24, 4:12 PM",,41.584819,-112.073061
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179100,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 14,"Crash
-SB Bangerter Hwy at MP 14 (6900 S) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 5:30 PM","5/13/24, 4:30 PM","5/13/24, 5:30 PM","5/13/24, 4:30 PM",,40.625669,-111.976359
 UT-Incident--179102,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
@@ -21858,11 +21853,20 @@ UT-Incident--179104,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:03 PM","5/13/24, 5:04 PM","5/13/24, 6:03 PM","5/13/24, 5:04 PM",,40.592858,-111.902495
-UT-Incident--179103,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
-NB I-215 W at MP 23 (700 N) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:53 PM","5/13/24, 4:53 PM","5/13/24, 5:53 PM","5/13/24, 4:53 PM",,40.775011,-111.949343
 UT-Incident--179097,Incidents,SR 232,Davis County,SR 232 at MP 1,"Crash
 Both Directions Hill Field Rd at MP 1 (Antelope Drive) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:07 PM","5/13/24, 4:08 PM","5/13/24, 5:07 PM","5/13/24, 4:43 PM",,41.085175,-111.973454
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179100,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 14,"Crash
+SB Bangerter Hwy at MP 14 (6900 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:30 PM","5/13/24, 4:30 PM","5/13/24, 5:30 PM","5/13/24, 4:30 PM",,40.625669,-111.976359
+UT-Incident--179105,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
+NB I-15 at MP 276 (500 E / American Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:40 PM","5/13/24, 5:41 PM","5/13/24, 6:40 PM","5/13/24, 5:41 PM",,40.355866,-111.778344
+UT-Incident--179103,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
+NB I-215 W at MP 23 (700 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:53 PM","5/13/24, 4:53 PM","5/13/24, 5:53 PM","5/13/24, 4:53 PM",,40.775011,-111.949343
