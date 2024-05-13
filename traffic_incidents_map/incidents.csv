@@ -21820,7 +21820,6 @@ UT-Incident--179092,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 Ramp SR 201 at MP 14 (I-215 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:06 PM","5/13/24, 3:09 PM","5/13/24, 4:06 PM","5/13/24, 3:09 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179093,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
@@ -21834,6 +21833,15 @@ SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:03 PM","5/13/24, 4:04 PM","5/13/24, 5:03 PM","5/13/24, 4:04 PM",,40.746426,-111.949053
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179099,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292 (11400 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:13 PM","5/13/24, 4:14 PM","5/13/24, 5:13 PM","5/13/24, 4:14 PM",,40.53585,-111.892927
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179100,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 14,"Crash
+SB Bangerter Hwy at MP 14 (6900 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:30 PM","5/13/24, 4:30 PM","5/13/24, 5:30 PM","5/13/24, 4:30 PM",,40.625669,-111.976359
 UT-Incident--179094,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Right Shoulder
@@ -21842,10 +21850,6 @@ UT-Incident--179098,Incidents,I-15,Box Elder County,I-15 at MP 369,"Crash
 SB I-15 at MP 369 (Honeyville) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 5:12 PM","5/13/24, 4:12 PM","5/13/24, 5:12 PM","5/13/24, 4:12 PM",,41.584819,-112.073061
-UT-Incident--179099,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
-NB I-15 at MP 292 (11400 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:13 PM","5/13/24, 4:14 PM","5/13/24, 5:13 PM","5/13/24, 4:14 PM",,40.53585,-111.892927
 UT-Incident--179097,Incidents,SR 232,Davis County,SR 232 at MP 1,"Crash
 Both Directions SR 232 at MP 1 (Antelope Drive) Davis Co.
 Left Lane Closed
