@@ -21759,11 +21759,15 @@ UT-Incident--179076,Incidents,HWY 201,Salt Lake County,HWY 201 at 3230 W,"Crash
 WB HWY 201 at 3230 W Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:53 AM","5/13/24, 6:55 AM","5/13/24, 7:53 AM","5/13/24, 6:55 AM",,40.725884,-111.979262
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179078,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:30 AM","5/13/24, 7:28 AM","5/13/24, 8:30 AM","5/13/24, 7:28 AM",,40.63583,-111.905066
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179079,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
+SB I-15 at MP 310 (1000 N) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:40 AM","5/13/24, 7:41 AM","5/13/24, 8:40 AM","5/13/24, 7:41 AM",,40.791232,-111.916128
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179077,Incidents,Hwy 201,Salt Lake County,Hwy 201 at I-215w SB Fwy,"Crash
 EB HWY 201 at I-215W SB FWY Salt Lake Co.
@@ -21773,7 +21777,10 @@ UT-Incident--179075,Incidents,I-15,Iron County,I-15 at MP 98,"Crash
 SB I-15 at MP 98 (10 mi S of Beaver) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:22 AM","5/13/24, 6:23 AM","5/13/24, 7:22 AM","5/13/24, 6:23 AM",,38.110984,-112.646468
-UT-Incident--179079,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
-SB I-15 at MP 310 (1000 N) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 8:40 AM","5/13/24, 7:41 AM","5/13/24, 8:40 AM","5/13/24, 7:41 AM",,40.791232,-111.916128
+UT-Incident--179081,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:00 AM","5/13/24, 8:02 AM","5/13/24, 9:00 AM","5/13/24, 8:02 AM",,40.365209,-111.792922
+UT-Incident--179080,Incidents,SR 132,Sanpete County,SR 132 at MP 58,"Crash
+Both Directions SR 132 at MP 58 (2 MI from Moroni) Sanpete Co.
+Est. Clearance Time: 9:00 AM","5/13/24, 7:57 AM","5/13/24, 9:00 AM","5/13/24, 7:57 AM",,39.495158,-111.563537
