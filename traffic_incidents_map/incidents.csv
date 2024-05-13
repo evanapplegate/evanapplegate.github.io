@@ -21767,20 +21767,20 @@ UT-Incident--179079,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 8:40 AM","5/13/24, 7:41 AM","5/13/24, 8:40 AM","5/13/24, 7:41 AM",,40.791232,-111.916128
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179075,Incidents,I-15,Iron County,I-15 at MP 98,"Crash
 SB I-15 at MP 98 (10 mi S of Beaver) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:22 AM","5/13/24, 6:23 AM","5/13/24, 7:22 AM","5/13/24, 6:23 AM",,38.110984,-112.646468
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179077,Incidents,Hwy 201,Salt Lake County,Hwy 201 at I-215w SB Fwy,"Crash
-EB HWY 201 at I-215W SB FWY Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 8:50 AM","5/13/24, 7:22 AM","5/13/24, 8:50 AM","5/13/24, 8:12 AM",,40.72579,-111.954206
 UT-Incident--179081,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","5/13/24, 8:02 AM","5/13/24, 9:00 AM","5/13/24, 8:02 AM",,40.365209,-111.792922
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179077,Incidents,Hwy 201,Salt Lake County,Hwy 201 at I-215w SB Fwy,"Crash
+EB HWY 201 at I-215W SB FWY Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:50 AM","5/13/24, 7:22 AM","5/13/24, 8:50 AM","5/13/24, 8:12 AM",,40.72579,-111.954206
 UT-Incident--179083,Incidents,I-15,Utah County,I-15 at MP 271,"Special Event
 Both Directions I-15 from MP 271 - 244, Utah Co.
 Funeral Procession
