@@ -21755,11 +21755,11 @@ UT-Incident--179073,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:29 AM","5/13/24, 5:30 AM","5/13/24, 6:29 AM","5/13/24, 6:07 AM",,40.649847,-111.90236
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179076,Incidents,HWY 201,Salt Lake County,HWY 201 at 3230 W,"Crash
 WB HWY 201 at 3230 W Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:53 AM","5/13/24, 6:55 AM","5/13/24, 7:53 AM","5/13/24, 6:55 AM",,40.725884,-111.979262
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179077,Incidents,Hwy 201,Salt Lake County,Hwy 201 at I-215w SB Fwy,"Crash
 EB HWY 201 at I-215W SB FWY Salt Lake Co.
@@ -21769,3 +21769,7 @@ UT-Incident--179075,Incidents,I-15,Iron County,I-15 at MP 98,"Crash
 SB I-15 at MP 98 (10 mi S of Beaver) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:22 AM","5/13/24, 6:23 AM","5/13/24, 7:22 AM","5/13/24, 6:23 AM",,38.110984,-112.646468
+UT-Incident--179078,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","5/13/24, 7:28 AM","5/13/24, 8:30 AM","5/13/24, 7:28 AM",,40.63583,-111.905066
