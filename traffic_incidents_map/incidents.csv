@@ -21809,7 +21809,6 @@ Est. Clearance Time: 12:11 PM","5/13/24, 11:13 AM","5/13/24, 12:11 PM","5/13/24,
 UT-Incident--179090,Incidents,I-15,Juab County,I-15 at MP 211,"Vehicle on fire
 NB I-15 at MP 211 (12 mi S of Nephi) Juab Co.
 Est. Clearance Time: 1:30 PM","5/13/24, 12:15 PM","5/13/24, 1:30 PM","5/13/24, 12:15 PM",,39.543513,-111.95213
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179083,Incidents,I-15,Utah County,I-15 at MP 271,"Special Event
 Both Directions I-15 from MP 271 - 244, Utah Co.
 Funeral Procession
@@ -21818,3 +21817,12 @@ UT-Incident--179091,Incidents,I-15 NB X260 On 400 S Ramp,Utah County,I-15 NB X26
 NB I-15 400 S On Ramp (MP260) Utah Co.
 Est. Clearance Time: 2:10 PM","5/13/24, 1:09 PM","5/13/24, 2:10 PM","5/13/24, 1:09 PM",,40.161347,-111.646596
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179093,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
+NB I-15 at MP 349 (SR-143, Farr West) Weber Co.
+Right Shoulder
+Est. Clearance Time: 4:18 PM","5/13/24, 3:19 PM","5/13/24, 4:18 PM","5/13/24, 3:19 PM",,41.301243,-112.026067
+UT-Incident--179092,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+Ramp SR 201 at MP 14 (I-215 Jct) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:06 PM","5/13/24, 3:09 PM","5/13/24, 4:06 PM","5/13/24, 3:09 PM",,40.72606,-111.962907
