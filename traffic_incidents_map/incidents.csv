@@ -21856,7 +21856,6 @@ UT-Incident--179097,Incidents,SR 232,Davis County,SR 232 at MP 1,"Crash
 Both Directions Hill Field Rd at MP 1 (Antelope Drive) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:07 PM","5/13/24, 4:08 PM","5/13/24, 5:07 PM","5/13/24, 4:43 PM",,41.085175,-111.973454
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179100,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 14,"Crash
 SB Bangerter Hwy at MP 14 (6900 S) Salt Lake Co.
 Center Lane Closed
@@ -21870,3 +21869,8 @@ UT-Incident--179105,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 NB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:40 PM","5/13/24, 5:41 PM","5/13/24, 6:40 PM","5/13/24, 5:41 PM",,40.355866,-111.778344
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179106,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
+NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:25 PM","5/13/24, 7:22 PM","5/13/24, 8:25 PM","5/13/24, 7:22 PM",,39.945085,-111.807481
