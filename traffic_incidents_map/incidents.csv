@@ -21880,16 +21880,19 @@ SB I-15 at University Ave Off Ramp (MP 263, Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:18 AM","5/14/24, 2:20 AM","5/14/24, 3:18 AM","5/14/24, 2:21 AM",,40.203376,-111.655441
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179109,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 9:24 AM","5/14/24, 8:31 AM","5/14/24, 9:24 AM","5/14/24, 8:33 AM",,40.817596,-111.917999
+Est. Clearance Time: 9:24 AM","5/14/24, 8:31 AM","5/14/24, 9:24 AM",,,40.817596,-111.917999
 UT-Incident--179111,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Left Shoulder
-Est. Clearance Time: 9:39 AM","5/14/24, 8:57 AM","5/14/24, 9:39 AM","5/14/24, 8:57 AM",,40.442142,-111.903011
+Est. Clearance Time: 9:39 AM","5/14/24, 8:57 AM","5/14/24, 9:39 AM",,,40.442142,-111.903011
 UT-Incident--179110,Incidents,REDWOOD RD,Salt Lake County,REDWOOD RD 3395,"Crash
 All Directions Redwood Rd at 3300 S Salt Lake Co.
 Center Lane Closed
-Est. Clearance Time: 9:34 AM","5/14/24, 8:34 AM","5/14/24, 9:34 AM","5/14/24, 8:37 AM",,40.698657,-111.938899
+Est. Clearance Time: 9:34 AM","5/14/24, 8:34 AM","5/14/24, 9:34 AM",,,40.698657,-111.938899
+UT-Incident--179112,Incidents,US 40,Duchesne County,US 40 at MP 75,"Crash
+Both Directions US 40 at MP 75 (6 mi W of Starvation) Duchesne Co.
+Est. Clearance Time: 10:20 AM","5/14/24, 9:21 AM","5/14/24, 10:20 AM",,,40.180067,-110.610487
