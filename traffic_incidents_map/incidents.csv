@@ -21911,11 +21911,15 @@ Est. Clearance Time: 2:01 PM","5/14/24, 1:02 PM","5/14/24, 2:01 PM","5/14/24, 1:
 UT-Incident--179118,Incidents,SR 18,Iron County,SR 18 at MP 45,"Crash
 Other SR 18 at MP 45 (4 Mi W of Enterprise) Iron Co.
 Est. Clearance Time: 3:45 PM","5/14/24, 2:40 PM","5/14/24, 3:45 PM","5/14/24, 2:40 PM",,37.623193,-113.661177
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179121,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 5:35 PM","5/14/24, 4:29 PM","5/14/24, 5:35 PM","5/14/24, 4:29 PM",,41.102376,-112.003101
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179122,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","5/14/24, 4:31 PM","5/14/24, 5:45 PM","5/14/24, 4:31 PM",,40.492398,-111.891485
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179119,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
@@ -21925,15 +21929,18 @@ UT-Incident--179120,Incidents,I-15,Juab County,I-15 at MP 241,"Crash
 NB I-15 at MP 241 (2 mi S of Santaquin) Juab Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","5/14/24, 4:23 PM","5/14/24, 5:35 PM","5/14/24, 4:23 PM",,39.931086,-111.811584
-UT-Incident--179122,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
-SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:45 PM","5/14/24, 4:31 PM","5/14/24, 5:45 PM","5/14/24, 4:31 PM",,40.492398,-111.891485
 UT-Incident--179123,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","5/14/24, 4:42 PM","5/14/24, 5:45 PM","5/14/24, 4:42 PM",,40.274259,-111.718248
+UT-Incident--179125,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
+NB I-15 at MP 311 (2300 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","5/14/24, 5:03 PM","5/14/24, 6:00 PM","5/14/24, 5:03 PM",,40.804836,-111.922481
 UT-Incident--179116,Incidents,I-80,Summit County,I-80 at MP 183,"Vehicle on fire
 WB I-80 at MP 183 (3 mi E of Emory) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 6:00 PM","5/14/24, 2:16 PM","5/14/24, 6:00 PM","5/14/24, 4:13 PM",,41.107819,-111.206542
+UT-Incident--179124,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 13400 S,"Debris
+NB Mountain View Corridor Hwy at 13400 S Salt Lake Co.
+Est. Clearance Time: 5:45 PM","5/14/24, 4:46 PM","5/14/24, 5:45 PM","5/14/24, 4:46 PM",,40.507864,-112.005183
