@@ -21875,9 +21875,17 @@ Est. Clearance Time: 8:25 PM","5/13/24, 7:22 PM","5/13/24, 8:25 PM","5/13/24, 7:
 UT-Incident--179107,Incidents,US 40,Wasatch County,US 40 at MP 12,"Crash
 NB US 40 at MP 12 (1 mi N of Heber) Wasatch Co.
 Est. Clearance Time: 1:30 AM","5/13/24, 11:21 PM","5/14/24, 1:30 AM","5/14/24, 12:16 AM",,40.574514,-111.434154
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179108,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at University Ave Off Ramp (MP 263, Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:18 AM","5/14/24, 2:20 AM","5/14/24, 3:18 AM","5/14/24, 2:21 AM",,40.203376,-111.655441
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179109,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:24 AM","5/14/24, 8:31 AM","5/14/24, 9:24 AM","5/14/24, 8:33 AM",,40.817596,-111.917999
+UT-Incident--179110,Incidents,REDWOOD RD,Salt Lake County,REDWOOD RD 3395,"Crash
+All Directions Redwood Rd at 3300 S Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 9:34 AM","5/14/24, 8:34 AM","5/14/24, 9:34 AM","5/14/24, 8:37 AM",,40.698657,-111.938899
