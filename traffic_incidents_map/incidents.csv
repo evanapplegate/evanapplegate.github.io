@@ -22048,7 +22048,6 @@ UT-Incident--179165,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP
 SB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:10 PM","5/15/24, 3:11 PM","5/15/24, 4:10 PM","5/15/24, 3:11 PM",,40.68297,-111.981592
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179164,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -22062,6 +22061,11 @@ UT-Incident--179166,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 4:35 PM","5/15/24, 3:20 PM","5/15/24, 4:35 PM","5/15/24, 3:20 PM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179170,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
+SB I-215 W at MP 18 (2900 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:35 PM","5/15/24, 4:24 PM","5/15/24, 5:35 PM","5/15/24, 4:24 PM",,40.703296,-111.95315
 UT-Incident--179167,Incidents,SR 18,Washington County,SR 18 at MP 35,"Crash
 SR 18 at MP 35 (4 Mi E of Enterprise) Washington Co.
 Est. Clearance Time: 4:45 PM","5/15/24, 3:27 PM","5/15/24, 4:45 PM","5/15/24, 3:27 PM",,37.525527,-113.643346
