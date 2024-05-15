@@ -21927,15 +21927,11 @@ UT-Incident--179123,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","5/14/24, 4:42 PM","5/14/24, 5:45 PM","5/14/24, 4:42 PM",,40.274259,-111.718248
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179120,Incidents,I-15,Juab County,I-15 at MP 241,"Crash
 NB I-15 at MP 241 (2 mi S of Santaquin) Juab Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","5/14/24, 4:23 PM","5/14/24, 5:35 PM","5/14/24, 4:23 PM",,39.931086,-111.811584
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179127,Incidents,2000 W,Davis County,2000 W at Hwy 193,"Crash
-NB 2000 W at Hwy 193 Davis Co.
-Est. Clearance Time: 6:30 PM","5/14/24, 5:34 PM","5/14/24, 6:30 PM","5/14/24, 5:34 PM",,41.110571,-112.064535
 UT-Incident--179125,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 NB I-15 at MP 311 (2300 N) Salt Lake Co.
 Right Shoulder
@@ -21948,10 +21944,6 @@ UT-Incident--179130,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:42 PM","5/14/24, 5:43 PM","5/14/24, 6:42 PM","5/14/24, 5:43 PM",,40.664677,-111.90152
-UT-Incident--179116,Incidents,I-80,Summit County,I-80 at MP 183,"Vehicle on fire
-WB I-80 at MP 183 (3 mi E of Emory) Summit Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","5/14/24, 2:16 PM","5/14/24, 6:00 PM","5/14/24, 4:13 PM",,41.107819,-111.206542
 UT-Incident--179124,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 13400 S,"Debris
 NB Mountain View Corridor Hwy at 13400 S Salt Lake Co.
 Est. Clearance Time: 5:45 PM","5/14/24, 4:46 PM","5/14/24, 5:45 PM","5/14/24, 4:46 PM",,40.507864,-112.005183
@@ -21959,3 +21951,23 @@ UT-Incident--179128,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
 WB SR 201 at MP 16 (900 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6:45 PM","5/14/24, 5:35 PM","5/14/24, 6:45 PM","5/14/24, 5:35 PM",,40.724236,-111.924637
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179127,Incidents,2000 W,Davis County,2000 W at Hwy 193,"Crash
+NB 2000 W at Hwy 193 Davis Co.
+Est. Clearance Time: 6:30 PM","5/14/24, 5:34 PM","5/14/24, 6:30 PM","5/14/24, 5:34 PM",,41.110571,-112.064535
+UT-Incident--179134,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+SB I-15 at MP 297 (7200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:15 PM","5/14/24, 6:21 PM","5/14/24, 7:15 PM","5/14/24, 6:21 PM",,40.607173,-111.905403
+UT-Incident--179116,Incidents,I-80,Summit County,I-80 at MP 183,"Vehicle on fire
+WB I-80 at MP 183 (3 mi E of Emory) Summit Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","5/14/24, 2:16 PM","5/14/24, 7:00 PM","5/14/24, 6:24 PM",,41.107819,-111.206542
+UT-Incident--179132,Incidents,Main St,Tooele County,Main St at 1000 N,"Crash
+NB Main St at 1100 N Tooele Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","5/14/24, 5:59 PM","5/14/24, 7:00 PM","5/14/24, 5:59 PM",,40.552085,-112.297932
+UT-Incident--179135,Incidents,US 89,Weber County,US 89 at MP 416,"Crash
+Both Directions US 89 at MP 416 (700 S / Ogden) Weber Co.
+Cleared at 6:23 PM
+Est. Clearance Time: 7:35 PM","5/14/24, 6:23 PM","5/14/24, 7:35 PM","5/14/24, 6:23 PM",,41.252537,-111.96978
