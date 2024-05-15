@@ -22005,7 +22005,6 @@ Est. Clearance Time: 6:00 AM","5/15/24, 4:36 AM","5/15/24, 6:00 AM","5/15/24, 5:
 UT-Incident--179149,Incidents,US 89,Sanpete County,US 89 at MP 251,"Crash
 SB US 89 at MP 251 (Sanpete Co)
 Est. Clearance Time: 6:55 AM","5/15/24, 5:52 AM","5/15/24, 6:55 AM","5/15/24, 5:52 AM",,39.214613,-111.686613
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179151,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 20,"Crash
 NB Bangerter Hwy at MP 20 (2700 S) Salt Lake Co.
 Right Shoulder 
@@ -22015,3 +22014,4 @@ UT-Incident--179150,Incidents,I-15,Weber County,I-15 at MP 341,"Vehicle on fire
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 8:30 AM","5/15/24, 6:51 AM","5/15/24, 8:30 AM","5/15/24, 7:43 AM",,41.194004,-112.002614
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
