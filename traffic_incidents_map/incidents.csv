@@ -22044,11 +22044,11 @@ UT-Incident--179163,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284  Off Ramp (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:35 PM","5/15/24, 2:12 PM","5/15/24, 3:35 PM","5/15/24, 2:12 PM",,40.431127,-111.890772
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179165,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 18,"Crash
 SB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:10 PM","5/15/24, 3:11 PM","5/15/24, 4:10 PM","5/15/24, 3:11 PM",,40.68297,-111.981592
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179164,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
@@ -22058,6 +22058,10 @@ UT-Incident--179166,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 4:35 PM","5/15/24, 3:20 PM","5/15/24, 4:35 PM","5/15/24, 3:20 PM",,40.707874,-111.90397
+UT-Incident--179168,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
+SB I-15 at MP 263 (University Ave / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","5/15/24, 3:42 PM","5/15/24, 4:45 PM","5/15/24, 3:42 PM",,40.203376,-111.655441
 UT-Incident--179167,Incidents,SR 18,Washington County,SR 18 at MP 35,"Crash
 SR 18 at MP 35 (4 Mi E of Enterprise) Washington Co.
 Est. Clearance Time: 4:45 PM","5/15/24, 3:27 PM","5/15/24, 4:45 PM","5/15/24, 3:27 PM",,37.525527,-113.643346
