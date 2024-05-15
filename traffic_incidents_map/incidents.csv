@@ -21999,7 +21999,6 @@ Est. Clearance Time: 4:48 AM","5/15/24, 3:49 AM","5/15/24, 4:48 AM","5/15/24, 3:
 UT-Incident--179146,Incidents,HWY 201,Salt Lake County,HWY 201 at BANGERTER HWY,"WB HWY 201 Closed
  at BANGERTER HWY Salt Lake Co.
 Use Alt Route","5/15/24, 2:35 AM","5/15/24, 3:35 AM","5/15/24, 2:35 AM",,40.726063,-111.987851
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179148,Incidents,SR 50,Sevier County,SR 50 at MP 158,"Crash
 WB SR 50 at MP 158 (US-89 Jct Salina) Sevier Co.
 Est. Clearance Time: 6:00 AM","5/15/24, 4:36 AM","5/15/24, 6:00 AM","5/15/24, 5:31 AM",,38.956864,-111.868941
@@ -22007,3 +22006,8 @@ UT-Incident--179149,Incidents,US 89,Sanpete County,US 89 at MP 251,"Crash
 SB US 89 at MP 251 (Sanpete Co)
 Est. Clearance Time: 6:55 AM","5/15/24, 5:52 AM","5/15/24, 6:55 AM","5/15/24, 5:52 AM",,39.214613,-111.686613
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179150,Incidents,I-15,Weber County,I-15 at MP 341,"Vehicle on fire
+SB I-15 at MP 341 (31st St, Ogden) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 7:50 AM","5/15/24, 6:51 AM","5/15/24, 7:50 AM","5/15/24, 6:51 AM",,41.194004,-112.002614
