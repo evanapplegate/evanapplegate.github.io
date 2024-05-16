@@ -22124,7 +22124,6 @@ UT-Incident--179189,Incidents,700 E,Salt Lake County,700 E at 1700 S,"Crash
 NB 700 E at 1700 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","5/16/24, 7:06 AM","5/16/24, 8:40 AM","5/16/24, 8:07 AM",,40.73224,-111.871063
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179190,Incidents,I-15,Iron County,I-15 at MP 48,"Crash
 SB I-15 at MP 48 (Kanarraville) Iron Co.
 Left Shoulder
@@ -22144,9 +22143,18 @@ EB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:20 AM","5/16/24, 9:21 AM","5/16/24, 10:20 AM","5/16/24, 9:21 AM",,40.724124,-111.943886
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179195,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:15 AM","5/16/24, 9:15 AM","5/16/24, 10:15 AM","5/16/24, 9:15 AM",,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179199,Incidents,400 S,Davis County,400 S at Main St/Porter Ln,"Crash
 400 S at Main St/Porter Ln Davis Co.
 Est. Clearance Time: 11:00 AM","5/16/24, 9:57 AM","5/16/24, 11:00 AM","5/16/24, 9:57 AM",,40.913123,-111.878935
+UT-Incident--179200,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 4200,"Crash
+NB Harrison Blvd at 4400 S Weber Co.
+Left Lane Closed
+Est. Clearance Time: 11:30 AM","5/16/24, 10:23 AM","5/16/24, 11:30 AM","5/16/24, 10:24 AM",,41.183625,-111.949062
 UT-Incident--179184,Incidents,I-15,Utah County,I-15 at MP 246,"Vehicle on fire
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Right Shoulder
@@ -22155,10 +22163,6 @@ UT-Incident--179193,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:45 AM","5/16/24, 8:47 AM","5/16/24, 9:45 AM","5/16/24, 8:47 AM",,40.791232,-111.916128
-UT-Incident--179195,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 10:15 AM","5/16/24, 9:15 AM","5/16/24, 10:15 AM","5/16/24, 9:15 AM",,40.480607,-111.902252
 UT-Incident--179197,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
 EB I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 10:40 AM","5/16/24, 9:38 AM","5/16/24, 10:40 AM","5/16/24, 9:38 AM",,38.865365,-111.978921
