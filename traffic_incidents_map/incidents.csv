@@ -22157,7 +22157,6 @@ Est. Clearance Time: 9:45 AM","5/16/24, 8:47 AM","5/16/24, 9:45 AM","5/16/24, 8:
 UT-Incident--179197,Incidents,I-70,Sevier County,I-70 at MP 48,"Crash
 EB I-70 at MP 48 (8 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 10:40 AM","5/16/24, 9:38 AM","5/16/24, 10:40 AM","5/16/24, 9:38 AM",,38.865365,-111.978921
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179199,Incidents,400 S,Davis County,400 S at Main St/Porter Ln,"Crash
 400 S at Main St/Porter Ln Davis Co.
 Est. Clearance Time: 11:00 AM","5/16/24, 9:57 AM","5/16/24, 11:00 AM","5/16/24, 9:57 AM",,,
@@ -22165,6 +22164,7 @@ UT-Incident--179200,Incidents,HARRISON BLVD,Weber County,HARRISON BLVD 4200,"Cra
 NB Harrison Blvd at 4400 S Weber Co.
 Left Lane Closed
 Est. Clearance Time: 11:30 AM","5/16/24, 10:23 AM","5/16/24, 11:30 AM","5/16/24, 10:24 AM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179201,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Crash
 EB SR 201 Closed at MP 13 (Bangerter Hwy) Salt Lake Co.
