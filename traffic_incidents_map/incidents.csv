@@ -22071,7 +22071,6 @@ UT-Incident--179173,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 6:00 PM","5/15/24, 4:56 PM","5/15/24, 6:00 PM","5/15/24, 4:56 PM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179175,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 NB I-15 at MP 358 (Willard) Box Elder Co.
 Est. Clearance Time: 6:35 PM","5/15/24, 5:35 PM","5/15/24, 6:35 PM","5/15/24, 5:35 PM",,41.42749,-112.056768
@@ -22094,7 +22093,12 @@ Est. Clearance Time: 6:37 PM","5/15/24, 5:41 PM","5/15/24, 6:37 PM","5/15/24, 5:
 UT-Incident--179174,Incidents,Porter Rockwell Blvd,Salt Lake County,Porter Rockwell Blvd at 2200 W,"Crash
 Both Directions Porter Rockwell Blvd at 2200 W Salt Lake Co.
 Est. Clearance Time: 6:29 PM","5/15/24, 5:33 PM","5/15/24, 6:29 PM","5/15/24, 5:33 PM",,40.463837,-111.948363
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--179181,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY 2101,"Crash
+SB BANGERTER HWY At SR-201 Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:34 PM","5/15/24, 7:37 PM","5/15/24, 8:34 PM",,,40.725837,-111.986284
 UT-Incident--179177,Incidents,SR 201 EB X15 TO I-215W SB RAMP,Salt Lake County,SR 201 EB X15 TO I-215W SB RAMP at I-215W SB,"Vehicle on fire
 EB SR 201 TO I-215W Ramp, Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 6:48 PM","5/15/24, 5:48 PM","5/15/24, 6:48 PM","5/15/24, 5:50 PM",,40.72202,-111.952995
+Est. Clearance Time: 6:48 PM","5/15/24, 5:48 PM","5/15/24, 6:48 PM",,,40.72202,-111.952995
