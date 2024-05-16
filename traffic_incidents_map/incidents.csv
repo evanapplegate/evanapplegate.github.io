@@ -22120,11 +22120,11 @@ UT-Incident--179188,Incidents,US 6,Utah County,US 6 at MP 206,"Stalled Vehicle
 WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:40 AM","5/16/24, 6:41 AM","5/16/24, 7:40 AM","5/16/24, 6:41 AM",,39.932532,-111.161681
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179189,Incidents,700 E,Salt Lake County,700 E at 1700 S,"Crash
 NB 700 E at 1700 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","5/16/24, 7:06 AM","5/16/24, 8:40 AM","5/16/24, 8:07 AM",,40.73224,-111.871063
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179184,Incidents,I-15,Utah County,I-15 at MP 246,"Vehicle on fire
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
@@ -22142,9 +22142,17 @@ UT-Incident--179194,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","5/16/24, 8:58 AM","5/16/24, 10:00 AM","5/16/24, 8:58 AM",,40.791232,-111.916128
+UT-Incident--179195,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:15 AM","5/16/24, 9:15 AM","5/16/24, 10:15 AM","5/16/24, 9:15 AM",,40.480607,-111.902252
 UT-Incident--179191,Incidents,SR 138,Tooele County,SR 138 at MP 18,"Crash
-SR 138 at MP 18 (W of Stansbury Park) Tooele Co.
-Est. Clearance Time: 9:00 AM","5/16/24, 7:53 AM","5/16/24, 9:00 AM","5/16/24, 7:53 AM",,40.635727,-112.329074
+Both Directions SR 138 at MP 18 (W of Stansbury Park) Tooele Co.
+Est. Clearance Time: 9:30 AM","5/16/24, 7:53 AM","5/16/24, 9:30 AM","5/16/24, 9:08 AM",,40.635727,-112.329074
 UT-Incident--179192,Incidents,SR 150,Summit County,SR 150 at MP 53,"Crash
 SR 150 at MP 53 (2 MI S of UT/WY ST Line) Summit Co.
 Est. Clearance Time: 10:00 AM","5/16/24, 8:31 AM","5/16/24, 10:00 AM","5/16/24, 8:31 AM",,40.974039,-110.851365
+UT-Incident--179196,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+EB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:20 AM","5/16/24, 9:21 AM","5/16/24, 10:20 AM","5/16/24, 9:21 AM",,40.724124,-111.943886
