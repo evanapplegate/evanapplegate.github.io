@@ -22067,7 +22067,6 @@ Est. Clearance Time: 5:35 PM","5/15/24, 4:24 PM","5/15/24, 5:35 PM","5/15/24, 4:
 UT-Incident--179167,Incidents,SR 18,Washington County,SR 18 at MP 35,"Crash
 SR 18 at MP 35 (4 Mi E of Enterprise) Washington Co.
 Est. Clearance Time: 4:45 PM","5/15/24, 3:27 PM","5/15/24, 4:45 PM","5/15/24, 3:27 PM",,37.525527,-113.643346
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179173,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Center Lane Closed
@@ -22076,6 +22075,18 @@ Est. Clearance Time: 6:00 PM","5/15/24, 4:56 PM","5/15/24, 6:00 PM","5/15/24, 4:
 UT-Incident--179175,Incidents,I-15,Box Elder County,I-15 at MP 358,"Crash
 NB I-15 at MP 358 (Willard) Box Elder Co.
 Est. Clearance Time: 6:35 PM","5/15/24, 5:35 PM","5/15/24, 6:35 PM","5/15/24, 5:35 PM",,41.42749,-112.056768
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179178,Incidents,1900 W,Weber County,1900 W at 6000 S,"Crash
+Both Directions 1900 W at 6000 S Weber Co.
+Est. Clearance Time: 7:00 PM","5/15/24, 5:49 PM","5/15/24, 7:00 PM","5/15/24, 5:50 PM",,41.154435,-112.026056
+UT-Incident--179179,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
+SB I-15 at MP 276  On Ramp (500 E / American Fork) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:15 PM","5/15/24, 6:04 PM","5/15/24, 7:15 PM","5/15/24, 6:05 PM",,40.355866,-111.778344
+UT-Incident--179180,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
+SB I-15 at MP 279 (Main St, Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:25 PM","5/15/24, 6:14 PM","5/15/24, 7:25 PM","5/15/24, 6:14 PM",,40.380301,-111.824926
 UT-Incident--179176,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 SB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
@@ -22083,3 +22094,7 @@ Est. Clearance Time: 6:37 PM","5/15/24, 5:41 PM","5/15/24, 6:37 PM","5/15/24, 5:
 UT-Incident--179174,Incidents,Porter Rockwell Blvd,Salt Lake County,Porter Rockwell Blvd at 2200 W,"Crash
 Both Directions Porter Rockwell Blvd at 2200 W Salt Lake Co.
 Est. Clearance Time: 6:29 PM","5/15/24, 5:33 PM","5/15/24, 6:29 PM","5/15/24, 5:33 PM",,40.463837,-111.948363
+UT-Incident--179177,Incidents,SR 201 EB X15 TO I-215W SB RAMP,Salt Lake County,SR 201 EB X15 TO I-215W SB RAMP at I-215W SB,"Vehicle on fire
+EB SR 201 TO I-215W Ramp, Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 6:48 PM","5/15/24, 5:48 PM","5/15/24, 6:48 PM","5/15/24, 5:50 PM",,40.72202,-111.952995
