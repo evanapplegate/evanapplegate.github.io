@@ -22249,19 +22249,31 @@ Est. Clearance Time: 4:15 PM","5/17/24, 3:13 PM","5/17/24, 4:15 PM","5/17/24, 3:
 UT-Incident--179229,Incidents,I-15,Juab County,I-15 at MP 240,"Crash
 SB I-15 at MP 240 (3 mi S of Santaquin) Juab Co.
 Est. Clearance Time: 5:15 PM","5/17/24, 4:08 PM","5/17/24, 5:15 PM","5/17/24, 4:08 PM",,39.917642,-111.81531
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179231,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Est. Clearance Time: 6:25 PM","5/17/24, 5:14 PM","5/17/24, 6:25 PM","5/17/24, 5:14 PM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179232,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","5/17/24, 5:17 PM","5/17/24, 6:35 PM","5/17/24, 5:17 PM",,40.346539,-111.763778
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179230,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","5/17/24, 4:59 PM","5/17/24, 5:45 PM","5/17/24, 4:59 PM",,40.722344,-111.904691
-UT-Incident--179232,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
-SB I-15 at MP 275 (PG Blvd) Utah Co.
+UT-Incident--179233,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+SB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
-Est. Clearance Time: 6:35 PM","5/17/24, 5:17 PM","5/17/24, 6:35 PM","5/17/24, 5:17 PM",,40.346539,-111.763778
+Est. Clearance Time: 6:45 PM","5/17/24, 5:34 PM","5/17/24, 6:45 PM","5/17/24, 5:34 PM",,40.442142,-111.903011
+UT-Incident--179234,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","5/17/24, 5:34 PM","5/17/24, 6:30 PM","5/17/24, 5:34 PM",,40.679062,-111.902181
+UT-Incident--179235,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:45 PM","5/17/24, 5:41 PM","5/17/24, 6:45 PM","5/17/24, 5:41 PM",,40.480607,-111.902252
 UT-Incident--179228,Incidents,US 6,Utah County,US 6 at MP 187,"Crash
 EB US 6 Closed
  at MP 187 (Thistle US-89 Jct) Utah Co.","5/17/24, 3:33 PM","5/17/24, 4:31 PM","5/17/24, 3:33 PM",,39.998056,-111.476906
