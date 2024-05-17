@@ -22198,7 +22198,6 @@ Est. Clearance Time: 5:00 PM","5/16/24, 3:50 PM","5/16/24, 5:00 PM","5/16/24, 3:
 UT-Incident--179210,Incidents,SR 126,Weber County,SR 126 at MP 12,"Crash
 Both Directions SR 126 at MP 12 (Clearfield) Weber Co.
 Est. Clearance Time: 5:35 PM","5/16/24, 4:30 PM","5/16/24, 5:35 PM","5/16/24, 4:34 PM",,41.209126,-112.025803
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179212,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -22212,3 +22211,4 @@ UT-Incident--179215,Incidents,Main St,Davis County,Main St at Hill Field Rd,"Cra
 SB Main St at Hill Field Rd Davis Co.
 Left Lane Closed
 Est. Clearance Time: 7:15 PM","5/16/24, 6:12 PM","5/16/24, 7:15 PM","5/16/24, 6:12 PM",,41.072258,-111.978377
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
