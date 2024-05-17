@@ -22226,7 +22226,6 @@ UT-Incident--179221,Incidents,US 89,Utah County,US 89 16001,"Crash
 SB US 89 Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:07 PM","5/17/24, 11:08 AM","5/17/24, 12:07 PM","5/17/24, 11:08 AM",,39.946977,-111.539079
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179222,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
 Ramp EB I-80 at MP 126 (1300 E Exit) Salt Lake Co.
 Right lane closed
@@ -22240,6 +22239,11 @@ UT-Incident--179225,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:25 PM","5/17/24, 2:27 PM","5/17/24, 3:25 PM","5/17/24, 2:27 PM",,40.550055,-111.896336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179227,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:15 PM","5/17/24, 3:13 PM","5/17/24, 4:15 PM","5/17/24, 3:13 PM",,40.442142,-111.903011
 UT-Incident--179224,Incidents,US 6,Utah County,US 6 at MP 177,"Crash
 SB US 6 at MP 177 (Canyon Rd, Spanish Fork) Utah Co.
 Right Shoulder
