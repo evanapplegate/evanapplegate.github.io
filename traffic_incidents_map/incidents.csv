@@ -22291,7 +22291,6 @@ UT-Incident--179243,Incidents,Wall Ave,Weber County,Wall Ave at 26th St,"Crash
 Both Directions Wall Ave at 25th St Weber Co.
 Est. Clearance Time: 9:45 PM","5/17/24, 8:54 PM","5/17/24, 9:45 PM","5/17/24, 8:54 PM",,41.217782,-111.978913
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179242,Incidents,I-15,Utah County,I-15 at MP 261,"Crash
 SB I-15 at MP 261 (1400 N Springville) Utah Co.
 Right Shoulder
@@ -22300,3 +22299,10 @@ UT-Incident--179245,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 NB I-15 at MP 276 Off Ramp (500 E / American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:00 PM","5/17/24, 9:49 PM","5/17/24, 11:00 PM","5/17/24, 9:49 PM",,40.355866,-111.778344
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179246,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+Ramp I-15 at MP 295 (9000 S) Salt Lake Co.
+Est. Clearance Time: 5/18/2024 12:30 AM","5/17/24, 11:38 PM","5/18/24, 12:30 AM","5/17/24, 11:38 PM",,40.578741,-111.900284
+UT-Incident--179247,Incidents,SR 36,Tooele County,SR 36 at MP 50,"Crash
+SB SR 36 at MP 50 (Bauer) Tooele Co.
+Est. Clearance Time: 5/18/2024 12:45 AM","5/17/24, 11:39 PM","5/18/24, 12:45 AM","5/17/24, 11:39 PM",,40.480837,-112.343781
