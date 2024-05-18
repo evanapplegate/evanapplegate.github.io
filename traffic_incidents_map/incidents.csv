@@ -22271,7 +22271,6 @@ Est. Clearance Time: 6:45 PM","5/17/24, 5:41 PM","5/17/24, 6:45 PM","5/17/24, 5:
 UT-Incident--179228,Incidents,US 6,Utah County,US 6 at MP 187,"Crash
 EB US 6 Closed
  at MP 187 (Thistle US-89 Jct) Utah Co.","5/17/24, 3:33 PM","5/17/24, 4:31 PM","5/17/24, 3:33 PM",,39.998056,-111.476906
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179234,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
@@ -22281,3 +22280,8 @@ SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","5/17/24, 6:13 PM","5/17/24, 7:35 PM","5/17/24, 6:13 PM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179241,Incidents,I-15,Utah County,I-15 at MP 274,"Debris
+NB I-15 at MP 274 (Lindon) Utah Co.
+Center Lane Closed
+Est. Clearance Time: 8:30 PM","5/17/24, 8:10 PM","5/17/24, 8:30 PM","5/17/24, 8:10 PM",,40.337197,-111.749203
