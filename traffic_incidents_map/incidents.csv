@@ -22339,7 +22339,6 @@ UT-Incident--179258,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
 WB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
 Right 2 Lanes Closed
 Est. Clearance Time: 3:10 PM","5/18/24, 2:11 PM","5/18/24, 3:10 PM","5/18/24, 2:11 PM",,40.35648,-111.576663
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179260,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Est. Clearance Time: 4:15 PM","5/18/24, 3:12 PM","5/18/24, 4:15 PM","5/18/24, 3:12 PM",,40.578741,-111.900284
@@ -22355,6 +22354,7 @@ UT-Incident--179262,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:29 PM","5/18/24, 3:30 PM","5/18/24, 4:29 PM","5/18/24, 3:30 PM",,40.760605,-111.951068
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179263,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
