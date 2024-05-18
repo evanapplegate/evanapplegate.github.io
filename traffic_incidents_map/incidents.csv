@@ -22355,15 +22355,19 @@ NB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:29 PM","5/18/24, 3:30 PM","5/18/24, 4:29 PM","5/18/24, 3:30 PM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179263,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Cleared at 5:24 PM
 Est. Clearance Time: 6:00 PM","5/18/24, 3:33 PM","5/18/24, 6:00 PM","5/18/24, 5:24 PM",,40.39191,-111.835579
+UT-Incident--179268,Incidents,US 89,Box Elder County,US 89 at MP 433,"Crash
+SB US 89 at MP 433 (1650 S / Perry) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","5/18/24, 5:19 PM","5/18/24, 6:00 PM","5/18/24, 5:19 PM",,41.479581,-112.021299
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179265,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 5:30 PM","5/18/24, 4:19 PM","5/18/24, 5:30 PM","5/18/24, 5:24 PM",,40.564298,-111.899489
+Est. Clearance Time: 5:45 PM","5/18/24, 4:19 PM","5/18/24, 5:45 PM","5/18/24, 5:34 PM",,40.564298,-111.899489
 UT-Incident--179254,Incidents,I-80,Summit County,I-80 at MP 161,"Crash
 EB I-80 at MP 161 (Hoytsville) Summit Co.
 Left Lane Closed
@@ -22378,7 +22382,3 @@ Est. Clearance Time: 6:30 PM","5/18/24, 5:26 PM","5/18/24, 6:30 PM","5/18/24, 5:
 UT-Incident--179267,Incidents,SR 198,Utah County,SR 198 at MP 15,"Crash
 Both Directions SR 198 Closed at MP 15 (2300 E) Utah Co.
 Est. Clearance Time: 9:00 PM","5/18/24, 5:00 PM","5/18/24, 9:00 PM","5/18/24, 5:00 PM",,40.093768,-111.607949
-UT-Incident--179268,Incidents,US 89,Box Elder County,US 89 at MP 433,"Crash
-SB US 89 at MP 433 (1650 S / Perry) Box Elder Co.
-Right Shoulder
-Est. Clearance Time: 6:00 PM","5/18/24, 5:19 PM","5/18/24, 6:00 PM","5/18/24, 5:19 PM",,41.479581,-112.021299
