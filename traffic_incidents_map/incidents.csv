@@ -22396,14 +22396,18 @@ EB I-80 at MP 97 (1 mi W of Tooele) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 9:30 PM","5/18/24, 7:56 PM","5/18/24, 9:30 PM","5/18/24, 8:39 PM",,40.676333,-112.285248
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179275,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
-NB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
-Est. Clearance Time: 10:00 PM","5/18/24, 8:55 PM","5/18/24, 10:00 PM","5/18/24, 8:55 PM",,39.44476,-112.02295
 UT-Incident--179254,Incidents,I-80,Summit County,I-80 at MP 161,"Crash
 EB I-80 at MP 161 (Hoytsville) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 10:00 PM","5/18/24, 11:08 AM","5/18/24, 10:00 PM","5/18/24, 8:40 PM",,40.89034,-111.394188
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179275,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
+NB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
+Est. Clearance Time: 10:00 PM","5/18/24, 8:55 PM","5/18/24, 10:00 PM","5/18/24, 8:55 PM",,39.44476,-112.02295
+UT-Incident--179277,Incidents,I-15,Box Elder County,I-15 at MP 400,"Crash
+NB I-15 at MP 400 (UT/ID State Line) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 11:00 PM","5/18/24, 9:56 PM","5/18/24, 11:00 PM","5/18/24, 9:56 PM",,41.993017,-112.195719
 UT-Incident--179276,Incidents,SR 167,Morgan County,SR 167 at MP 5,"Crash
 SR 167 at MP 5 (5 miles N of I-84 JCT) Morgan Co.
 Est. Clearance Time: 10:30 PM","5/18/24, 9:27 PM","5/18/24, 10:30 PM","5/18/24, 9:27 PM",,41.182081,-111.807508
