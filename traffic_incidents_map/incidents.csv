@@ -22387,7 +22387,6 @@ UT-Incident--179273,Incidents,NORTH ST,Weber County,NORTH ST at WASHINGTON BLVD,
 SB Washington Blvd at 400 N Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","5/18/24, 7:38 PM","5/18/24, 8:30 PM","5/18/24, 7:41 PM",,41.266586,-111.969499
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179272,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
 NB I-15 at MP 336 (Sunset) Davis Co.
 Right Shoulder
@@ -22396,6 +22395,7 @@ UT-Incident--179274,Incidents,I-80,Tooele County,I-80 at MP 97,"Crash
 EB I-80 at MP 97 (1 mi W of Tooele) Tooele Co.
 Left Shoulder
 Est. Clearance Time: 9:30 PM","5/18/24, 7:56 PM","5/18/24, 9:30 PM","5/18/24, 8:39 PM",,40.676333,-112.285248
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179275,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
 NB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
