@@ -22415,7 +22415,6 @@ Est. Clearance Time: 11:30 PM","5/18/24, 10:35 PM","5/18/24, 11:30 PM","5/18/24,
 UT-Incident--179279,Incidents,STATE ST,Salt Lake County,STATE ST 2401,"Crash
 SB State St at I-80 WB Ramps Salt Lake Co.
 Est. Clearance Time: 11:45 PM","5/18/24, 10:41 PM","5/18/24, 11:45 PM","5/18/24, 10:44 PM",,40.718632,-111.888231
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179282,Incidents,12th St,Weber County,12th St at Wall Ave,"Crash
 EB 12th St Closed at Wall Ave Weber Co.
 Use Alt Route","5/19/24, 12:12 AM","5/19/24, 1:30 AM","5/19/24, 12:12 AM",,41.244242,-111.978229
@@ -22426,6 +22425,7 @@ Est. Clearance Time: 5/19/2024 12:45 AM","5/18/24, 11:43 PM","5/19/24, 12:45 AM"
 UT-Incident--179281,Incidents,SR 199,Tooele County,SR 199 at MP 5,"Crash
 SR 199 at MP 5 (3 mi W of Terra) Tooele Co.
 Est. Clearance Time: 5/19/2024 1:00 AM","5/18/24, 11:50 PM","5/19/24, 1:00 AM","5/18/24, 11:50 PM",,40.287279,-112.663264
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179283,Incidents,I-15 NB X278 Off Main St Ramp,Utah County,I-15 NB X278 Off Main St Ramp at Main St,"Crash
 NB I-15 Off Main St Off Ramp (Pioneer Xing) Utah Co.
