@@ -22362,7 +22362,6 @@ UT-Incident--179268,Incidents,US 89,Box Elder County,US 89 at MP 433,"Crash
 SB US 89 at MP 433 (1650 S / Perry) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","5/18/24, 5:19 PM","5/18/24, 6:00 PM","5/18/24, 5:19 PM",,41.479581,-112.021299
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179265,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Left Lane Closed
@@ -22378,10 +22377,23 @@ Est. Clearance Time: 6:30 PM","5/18/24, 5:26 PM","5/18/24, 6:30 PM","5/18/24, 5:
 UT-Incident--179270,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Est. Clearance Time: 7:30 PM","5/18/24, 6:28 PM","5/18/24, 7:30 PM","5/18/24, 6:28 PM",,40.607173,-111.905403
+UT-Incident--179267,Incidents,SR 198,Utah County,SR 198 at MP 15,"Crash
+Both Directions SR 198 Closed at MP 15 (2300 E) Utah Co.
+Est. Clearance Time: 9:00 PM","5/18/24, 5:00 PM","5/18/24, 9:00 PM","5/18/24, 5:00 PM",,40.093768,-111.607949
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179271,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
+SB I-15 at MP 334 (Center St, Clrfld) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 8:15 PM","5/18/24, 7:04 PM","5/18/24, 8:15 PM","5/18/24, 7:04 PM",,41.102376,-112.003101
+UT-Incident--179272,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
+NB I-15 at MP 336 (Sunset) Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","5/18/24, 7:21 PM","5/18/24, 8:30 PM","5/18/24, 7:23 PM",,41.125961,-112.025249
 UT-Incident--179254,Incidents,I-80,Summit County,I-80 at MP 161,"Crash
 EB I-80 at MP 161 (Hoytsville) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 8:00 PM","5/18/24, 11:08 AM","5/18/24, 8:00 PM","5/18/24, 4:49 PM",,40.89034,-111.394188
-UT-Incident--179267,Incidents,SR 198,Utah County,SR 198 at MP 15,"Crash
-Both Directions SR 198 Closed at MP 15 (2300 E) Utah Co.
-Est. Clearance Time: 9:00 PM","5/18/24, 5:00 PM","5/18/24, 9:00 PM","5/18/24, 5:00 PM",,40.093768,-111.607949
+UT-Incident--179273,Incidents,NORTH ST,Weber County,NORTH ST at WASHINGTON BLVD,"Crash
+SB Washington Blvd at 400 N Weber Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","5/18/24, 7:38 PM","5/18/24, 8:30 PM","5/18/24, 7:41 PM",,41.266586,-111.969499
