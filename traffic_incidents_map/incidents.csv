@@ -22468,7 +22468,6 @@ UT-Incident--179295,Incidents,US 89,Weber County,US 89 at MP 414,"Crash
 SB US 89 at MP 414 (2500 St. / Ogden) Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 3:36 PM","5/19/24, 2:39 PM","5/19/24, 3:36 PM","5/19/24, 2:39 PM",,41.223816,-111.970397
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179296,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 11400 S,"Crash
 Ramp NB Bangerter Hwy at 11400 S Salt Lake Co.
 NB to EB ramp closed
@@ -22478,3 +22477,8 @@ UT-Incident--179297,Incidents,I-15,Weber County,I-15 at MP 345,"Crash
 Ramp I-15 at MP 345 (12th St) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:25 PM","5/19/24, 5:28 PM","5/19/24, 6:25 PM","5/19/24, 5:28 PM",,41.244836,-112.016202
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179298,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+Ramp I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:50 PM","5/19/24, 5:50 PM","5/19/24, 6:50 PM","5/19/24, 5:50 PM",,40.765438,-111.953251
