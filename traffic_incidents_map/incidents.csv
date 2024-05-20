@@ -22571,7 +22571,6 @@ WB I-80 at MP 135 (Run Away Truck Ramp)
 Salt Lake Co.
 Ramp Closed
 Est. Clearance Time: 3:59 PM","5/20/24, 12:01 PM","5/20/24, 3:59 PM","5/20/24, 12:01 PM",,40.745148,-111.69119
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179325,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
@@ -22581,15 +22580,6 @@ EB I-80 at MP 170 (2 mi E of Echo) Summit Co.
 Right Shoulder
 Est. Clearance Time: 2:18 PM","5/20/24, 1:19 PM","5/20/24, 2:18 PM","5/20/24, 1:22 PM",,40.994447,-111.39863
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-UT-Incident--179327,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
-SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
-Left Lane Closed
-Est. Clearance Time: 3:00 PM","5/20/24, 1:53 PM","5/20/24, 3:00 PM",,,40.85851,-111.904912
-UT-Incident--179328,Incidents,I-15 NB X271 ON CENTER ST WB RAMP,Utah County,I-15 NB X271 ON CENTER ST WB RAMP at CENTER ST,"Crash
-NB I-15 Orem Center Street On-Ramp Closed
-(from WB Center Street)
-Utah Co.
-Use Alt Route","5/20/24, 1:58 PM","5/20/24, 2:55 PM",,,40.297585,-111.724718
 UT-Incident--179323,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Left Shoulder
@@ -22598,6 +22588,16 @@ UT-Incident--179324,Incidents,RIVERDALE RD,Weber County,RIVERDALE RD 4000,"Crash
 WB 4086 S Riverdale Rd  Weber Co.
 Right Lanes Closed
 Est. Clearance Time: 2:30 PM","5/20/24, 1:30 PM","5/20/24, 2:30 PM",,,41.189336,-111.98261
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179327,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
+SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 3:00 PM","5/20/24, 1:53 PM","5/20/24, 3:00 PM","5/20/24, 1:53 PM",,40.85851,-111.904912
+UT-Incident--179328,Incidents,I-15 NB X271 ON CENTER ST WB RAMP,Utah County,I-15 NB X271 ON CENTER ST WB RAMP at CENTER ST,"Crash
+NB I-15 Orem Center Street On-Ramp Closed
+(from WB Center Street)
+Utah Co.
+Use Alt Route","5/20/24, 1:58 PM","5/20/24, 2:55 PM","5/20/24, 2:01 PM",,40.297585,-111.724718
 UT-Incident--179326,Incidents,US 189,Wasatch County,US 189 at MP 16,"Crash
 US 189 at MP 16 (9 mi SW of Charleston) Wasatch Co.
-Est. Clearance Time: 2:50 PM","5/20/24, 1:49 PM","5/20/24, 2:50 PM",,,40.388104,-111.54897
+Est. Clearance Time: 2:50 PM","5/20/24, 1:49 PM","5/20/24, 2:50 PM","5/20/24, 1:49 PM",,40.388104,-111.54897
