@@ -22548,7 +22548,6 @@ UT-Incident--179315,Incidents,I-15 NB X260 On 400 S Ramp,Utah County,I-15 NB X26
 NB I-15 400 S On Ramp (MP 260) Utah Co.
 Est. Clearance Time: 11:35 AM","5/20/24, 10:37 AM","5/20/24, 11:35 AM","5/20/24, 10:37 AM",,40.161347,-111.646596
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179320,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
@@ -22557,6 +22556,11 @@ UT-Incident--179316,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:50 PM","5/20/24, 11:51 AM","5/20/24, 12:50 PM","5/20/24, 11:51 AM",,40.746426,-111.949053
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179321,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
+SB I-15 at MP 330 (Layton Pkwy) Davis Co.
+Left Shoulder
+Est. Clearance Time: 1:45 PM","5/20/24, 12:44 PM","5/20/24, 1:45 PM","5/20/24, 12:44 PM",,41.054659,-111.961089
 UT-Incident--179319,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
