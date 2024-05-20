@@ -22627,7 +22627,6 @@ UT-Incident--179340,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
 WB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:30 PM","5/20/24, 4:29 PM","5/20/24, 5:30 PM","5/20/24, 4:29 PM",,40.630157,-111.858352
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179332,Incidents,MOUNTAIN VIEW CORR NB,Salt Lake County,MOUNTAIN VIEW CORR NB at 4100 S TO NORTH OF 3500 S,"Crash
 NB MOUNTAIN VIEW CORR at 4100 S TO NORTH OF 3500 S Salt Lake Co.
 Est. Clearance Time: 4:49 PM","5/20/24, 2:51 PM","5/20/24, 4:49 PM","5/20/24, 4:44 PM",,40.682872,-112.029943
@@ -22636,6 +22635,7 @@ UT-Incident--179336,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder 1000 N on ramp
 Est. Clearance Time: 4:34 PM","5/20/24, 3:35 PM","5/20/24, 4:34 PM","5/20/24, 4:08 PM",,40.791232,-111.916128
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179339,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
@@ -22644,6 +22644,9 @@ UT-Incident--179342,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:05 PM","5/20/24, 5:04 PM","5/20/24, 6:05 PM","5/20/24, 5:04 PM",,40.316406,-111.72616
+UT-Incident--179343,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Est. Clearance Time: 6:16 PM","5/20/24, 5:17 PM","5/20/24, 6:16 PM","5/20/24, 5:17 PM",,40.480607,-111.902252
 UT-Incident--179338,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Right Shoulder
