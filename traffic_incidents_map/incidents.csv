@@ -22555,7 +22555,6 @@ UT-Incident--179316,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:50 PM","5/20/24, 11:51 AM","5/20/24, 12:50 PM","5/20/24, 11:51 AM",,40.746426,-111.949053
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179321,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
 SB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Left Shoulder
@@ -22563,6 +22562,7 @@ Est. Clearance Time: 1:45 PM","5/20/24, 12:44 PM","5/20/24, 1:45 PM","5/20/24, 1
 UT-Incident--179318,Incidents,SR 112,Tooele County,SR 112 at MP 6,"Crash
 Both Directions SR 112 at MP 6 (Utah Ave Jct) Tooele Co.
 Est. Clearance Time: 1:20 PM","5/20/24, 12:16 PM","5/20/24, 1:20 PM","5/20/24, 12:17 PM",,40.549239,-112.33989
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179319,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
