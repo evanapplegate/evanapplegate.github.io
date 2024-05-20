@@ -22503,7 +22503,6 @@ SB Closed
 WB, NB Right turn only.
 EB No Left Turn
 Est. Clearance Time: 5/20/2024 02:00 AM","5/19/24, 11:08 PM","5/20/24, 2:00 AM","5/19/24, 11:16 PM",,40.699821,-111.888253
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179307,Incidents,I-15 NB X278 On Main St Ramp,Utah County,I-15 NB X278 On Main St Ramp at Main St,"Crash
 NB I-15 Main St On Ramp (MP 278) Utah Co.
 Est. Clearance Time: 7:45 AM","5/20/24, 6:45 AM","5/20/24, 7:45 AM","5/20/24, 6:47 AM",,40.376869,-111.818356
@@ -22511,6 +22510,7 @@ UT-Incident--179305,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 WB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 7:30 AM","5/20/24, 6:28 AM","5/20/24, 7:30 AM","5/20/24, 6:28 AM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179306,Incidents,I-15,Box Elder County,I-15 at MP 361,"Crash
 SB I-15 at MP 361 (Brigham City) Box Elder Co.
