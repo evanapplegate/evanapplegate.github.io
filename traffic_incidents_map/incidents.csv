@@ -22510,7 +22510,6 @@ UT-Incident--179305,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 WB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Left Shoulder
 Est. Clearance Time: 7:30 AM","5/20/24, 6:28 AM","5/20/24, 7:30 AM","5/20/24, 6:28 AM",,40.560962,-111.427534
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179306,Incidents,I-15,Box Elder County,I-15 at MP 361,"Crash
 SB I-15 at MP 361 (Brigham City) Box Elder Co.
 Right Shoulder
@@ -22520,9 +22519,10 @@ UT-Incident--179308,Incidents,I-15,Davis County,I-15 at MP 328,"Vehicle on fire
 NB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:43 AM","5/20/24, 6:46 AM","5/20/24, 7:43 AM","5/20/24, 7:13 AM",,41.028688,-111.946853
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179310,Incidents,I-15 SB X263 On Univ Ave Ramp,Utah County,I-15 SB X263 On Univ Ave Ramp at Univ Ave,"Crash
 SB I-15 Univ Ave Off Ramp (MP263Utah Co.
-Est. Clearance Time: 8:40 AM","5/20/24, 7:41 AM","5/20/24, 8:40 AM","5/20/24, 8:02 AM",,40.209383,-111.660135
+Est. Clearance Time: 9:25 AM","5/20/24, 7:41 AM","5/20/24, 9:25 AM","5/20/24, 8:17 AM",,40.209383,-111.660135
 UT-Incident--179309,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
