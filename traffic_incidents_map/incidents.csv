@@ -22484,7 +22484,6 @@ UT-Incident--179298,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 Ramp I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:50 PM","5/19/24, 5:50 PM","5/19/24, 6:50 PM","5/19/24, 5:50 PM",,40.765438,-111.953251
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179302,Incidents,31st St,Weber County,31st St 601,"Crash
 Both Directions 31st St at I-15 Weber Co.
 EB left 2 lanes Blkd
@@ -22494,6 +22493,7 @@ UT-Incident--179301,Incidents,I-15,Davis County,I-15 at MP 337,"Crash
 NB I-15 at MP 337 (Sunset) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 10:19 PM","5/19/24, 9:20 PM","5/19/24, 10:19 PM",,,41.140572,-112.025572
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179300,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 651,"Crash
 NB WASHINGTON BLVD Closed
