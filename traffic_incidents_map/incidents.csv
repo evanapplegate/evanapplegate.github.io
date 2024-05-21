@@ -22694,7 +22694,6 @@ Est. Clearance Time: 8:45 AM","5/21/24, 7:47 AM","5/21/24, 8:45 AM","5/21/24, 8:
 UT-Incident--179357,Incidents,SR 201 EB X 10 ON MOUNTAIN VIEW CORR RAMP,Salt Lake County,SR 201 EB X 10 ON MOUNTAIN VIEW CORR RAMP,"Crash
 EB SR 201 X 10 ON MOUNTAIN VIEW CORR RAMP Salt Lake Co.
 Est. Clearance Time: 9:20 AM","5/21/24, 8:22 AM","5/21/24, 9:20 AM","5/21/24, 8:22 AM",,40.72487,-112.02795
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179355,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 NB I-15 at MP 283 (Lehi) Utah Co.
 Left Lane Closed
@@ -22707,9 +22706,18 @@ UT-Incident--179359,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 9:50 AM","5/21/24, 8:47 AM","5/21/24, 9:50 AM","5/21/24, 8:47 AM",,40.725741,-112.001283
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179361,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Est. Clearance Time: 9:54 AM","5/21/24, 8:58 AM","5/21/24, 9:54 AM","5/21/24, 8:58 AM",,40.791232,-111.916128
+UT-Incident--179363,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:30 AM","5/21/24, 9:25 AM","5/21/24, 10:30 AM","5/21/24, 9:26 AM",,40.492398,-111.891485
+UT-Incident--179364,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:25 AM","5/21/24, 9:26 AM","5/21/24, 10:25 AM","5/21/24, 9:26 AM",,40.480607,-111.902252
 UT-Incident--179362,Incidents,I-80,Tooele County,I-80 at MP 21,"Crash
 SB I-80 at MP 21 (19 mi E of Wendover) Tooele Co.
 Right Shoulder
