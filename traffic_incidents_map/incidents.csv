@@ -22764,10 +22764,10 @@ UT-Incident--179379,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","5/21/24, 4:23 PM","5/21/24, 5:35 PM","5/21/24, 4:24 PM",,40.431127,-111.890772
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179376,Incidents,MAIN ST,Iron County,MAIN ST 1101,"Crash
 Main St at 1100 W (Cedar City) Iron Co.
 Est. Clearance Time: 4:45 PM","5/21/24, 3:54 PM","5/21/24, 4:45 PM","5/21/24, 3:55 PM",,37.658655,-113.073646
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
 5600 S at 2700 W (Roy) Weber Co.
@@ -22779,6 +22779,10 @@ Est. Clearance Time: 5:45 PM","5/21/24, 4:32 PM","5/21/24, 5:45 PM","5/21/24, 4:
 UT-Incident--179382,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at Onramp MP 349 (SR-143, Farr West) Weber Co.
 Est. Clearance Time: 5:45 PM","5/21/24, 4:52 PM","5/21/24, 5:45 PM","5/21/24, 4:52 PM",,41.301243,-112.026067
+UT-Incident--179384,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 6:15 PM","5/21/24, 5:13 PM","5/21/24, 6:15 PM","5/21/24, 5:13 PM",,40.215696,-111.665414
 UT-Incident--179381,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
