@@ -22733,7 +22733,6 @@ UT-Incident--179368,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 3800 S,"
 SB Redwood Rd at 3800 S Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 1:00 PM","5/21/24, 12:05 PM","5/21/24, 1:00 PM","5/21/24, 12:05 PM",,40.687995,-111.938889
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179369,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
@@ -22742,6 +22741,7 @@ UT-Incident--179370,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:45 PM","5/21/24, 1:41 PM","5/21/24, 2:45 PM","5/21/24, 1:41 PM",,40.621691,-111.903876
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179371,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
