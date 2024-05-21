@@ -22705,7 +22705,6 @@ Est. Clearance Time: 9:30 AM","5/21/24, 8:28 AM","5/21/24, 9:30 AM","5/21/24, 8:
 UT-Incident--179359,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Crash
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Est. Clearance Time: 9:50 AM","5/21/24, 8:47 AM","5/21/24, 9:50 AM","5/21/24, 8:47 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179363,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
@@ -22714,6 +22713,7 @@ UT-Incident--179364,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:25 AM","5/21/24, 9:26 AM","5/21/24, 10:25 AM","5/21/24, 9:26 AM",,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179361,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
