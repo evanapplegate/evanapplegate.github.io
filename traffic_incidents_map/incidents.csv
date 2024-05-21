@@ -22745,7 +22745,6 @@ UT-Incident--179371,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Left Shoulder
 Est. Clearance Time: 3:00 PM","5/21/24, 1:49 PM","5/21/24, 3:00 PM","5/21/24, 1:49 PM",,41.194004,-112.002614
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179372,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 On Ramp  (3300 S) Salt Lake Co.
 Right Shoulder
@@ -22755,6 +22754,24 @@ SB I-15 at MP 309 On Ramp (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","5/21/24, 3:07 PM","5/21/24, 4:15 PM","5/21/24, 3:07 PM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
+5600 S at 2700 W (Roy) Weber Co.
+Est. Clearance Time: 5:15 PM","5/21/24, 4:04 PM","5/21/24, 5:15 PM","5/21/24, 4:04 PM",,,
+UT-Incident--179377,Incidents,Harrison Blvd,Weber County,Harrison Blvd at Country Hills Dr,"Crash
+SB Harrison Blvd at Country Hills Dr Weber Co.
+Est. Clearance Time: 5:00 PM","5/21/24, 3:59 PM","5/21/24, 5:00 PM","5/21/24, 4:01 PM",,41.186339,-111.949022
+UT-Incident--179375,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","5/21/24, 3:50 PM","5/21/24, 5:00 PM","5/21/24, 3:50 PM",,40.63583,-111.905066
+UT-Incident--179374,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
+WB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:00 PM","5/21/24, 3:48 PM","5/21/24, 5:00 PM","5/21/24, 3:48 PM",,40.718625,-112.233989
+UT-Incident--179376,Incidents,MAIN ST,Iron County,MAIN ST 1101,"Crash
+Main St at 1100 W (Cedar City) Iron Co.
+Est. Clearance Time: 4:45 PM","5/21/24, 3:54 PM","5/21/24, 4:45 PM","5/21/24, 3:55 PM",,37.658655,-113.073646
 UT-Incident--179348,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 Both Directions US 189 Closed
 MP 22 to MP 24 Wasatch Co.
