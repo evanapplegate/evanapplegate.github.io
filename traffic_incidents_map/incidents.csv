@@ -22767,7 +22767,6 @@ Est. Clearance Time: 5:35 PM","5/21/24, 4:23 PM","5/21/24, 5:35 PM","5/21/24, 4:
 UT-Incident--179376,Incidents,MAIN ST,Iron County,MAIN ST 1101,"Crash
 Main St at 1100 W (Cedar City) Iron Co.
 Est. Clearance Time: 4:45 PM","5/21/24, 3:54 PM","5/21/24, 4:45 PM","5/21/24, 3:55 PM",,37.658655,-113.073646
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
 5600 S at 2700 W (Roy) Weber Co.
 Est. Clearance Time: 5:15 PM","5/21/24, 4:04 PM","5/21/24, 5:15 PM","5/21/24, 4:04 PM",,41.161648,-112.042857
@@ -22776,6 +22775,11 @@ UT-Incident--179380,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","5/21/24, 4:32 PM","5/21/24, 5:45 PM","5/21/24, 4:32 PM",,40.480607,-111.902252
+UT-Incident--179381,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","5/21/24, 4:39 PM","5/21/24, 5:45 PM","5/21/24, 5:04 PM",,40.636258,-111.914012
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179382,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at Onramp MP 349 (SR-143, Farr West) Weber Co.
 Est. Clearance Time: 5:45 PM","5/21/24, 4:52 PM","5/21/24, 5:45 PM","5/21/24, 4:52 PM",,41.301243,-112.026067
@@ -22787,10 +22791,6 @@ UT-Incident--179385,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","5/21/24, 5:23 PM","5/21/24, 6:35 PM","5/21/24, 5:23 PM",,40.607173,-111.905403
-UT-Incident--179381,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
-EB I-215 S at MP 12 (1200 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:45 PM","5/21/24, 4:39 PM","5/21/24, 5:45 PM","5/21/24, 5:04 PM",,40.636258,-111.914012
 UT-Incident--179374,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
 WB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
 Right Lane Closed
@@ -22803,3 +22803,7 @@ UT-Incident--179383,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
 WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:00 PM","5/21/24, 4:55 PM","5/21/24, 6:00 PM","5/21/24, 4:55 PM",,40.721584,-111.490111
+UT-Incident--179386,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 6:45 PM","5/21/24, 5:40 PM","5/21/24, 6:45 PM","5/21/24, 5:43 PM",,40.560962,-111.427534
