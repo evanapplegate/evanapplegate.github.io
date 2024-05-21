@@ -22758,10 +22758,6 @@ SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","5/21/24, 3:50 PM","5/21/24, 5:00 PM","5/21/24, 3:50 PM",,40.63583,-111.905066
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
-5600 S at 2700 W (Roy) Weber Co.
-Est. Clearance Time: 5:15 PM","5/21/24, 4:04 PM","5/21/24, 5:15 PM","5/21/24, 4:04 PM",,41.161648,-112.042857
 UT-Incident--179377,Incidents,Harrison Blvd,Weber County,Harrison Blvd at Country Hills Dr,"Crash
 SB Harrison Blvd at Country Hills Dr Weber Co.
 Est. Clearance Time: 5:00 PM","5/21/24, 3:59 PM","5/21/24, 5:00 PM","5/21/24, 4:01 PM",,41.186339,-111.949022
@@ -22769,6 +22765,18 @@ UT-Incident--179379,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","5/21/24, 4:23 PM","5/21/24, 5:35 PM","5/21/24, 4:24 PM",,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
+5600 S at 2700 W (Roy) Weber Co.
+Est. Clearance Time: 5:15 PM","5/21/24, 4:04 PM","5/21/24, 5:15 PM","5/21/24, 4:04 PM",,41.161648,-112.042857
+UT-Incident--179380,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+SB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","5/21/24, 4:32 PM","5/21/24, 5:45 PM","5/21/24, 4:32 PM",,40.480607,-111.902252
+UT-Incident--179381,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:45 PM","5/21/24, 4:39 PM","5/21/24, 5:45 PM","5/21/24, 4:39 PM",,40.636258,-111.914012
 UT-Incident--179374,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
 WB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
 Right Lane Closed
