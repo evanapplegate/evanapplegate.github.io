@@ -22898,16 +22898,16 @@ Est. Clearance Time: 11:40 AM","5/22/24, 10:36 AM","5/22/24, 11:40 AM","5/22/24,
 UT-Incident--179416,Incidents,I-80,Summit County,I-80 at MP 139,"Vehicle on fire
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Est. Clearance Time: 12:28 PM","5/22/24, 11:31 AM","5/22/24, 12:28 PM","5/22/24, 11:31 AM",,40.753891,-111.622581
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179417,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:55 PM","5/22/24, 11:55 AM","5/22/24, 12:55 PM","5/22/24, 11:55 AM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179419,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Medical
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 1:31 PM","5/22/24, 12:33 PM","5/22/24, 1:31 PM","5/22/24, 12:33 PM",,,
+Left Lane Closed
+Est. Clearance Time: 1:31 PM","5/22/24, 12:33 PM","5/22/24, 1:31 PM","5/22/24, 12:37 PM",,40.760605,-111.951068
 UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 EB I-80 at MP 88 (Grantsville) Tooele Co.
 Left Lanes Closed
@@ -22919,4 +22919,4 @@ Est. Clearance Time: 1:00 PM","5/22/24, 12:04 PM","5/22/24, 1:00 PM","5/22/24, 1
 UT-Incident--179420,Incidents,Main St,Davis County,Main St at Hill Field Rd,"Crash
 NB Main St at Hill Field Rd Davis Co.
 Right Lane Closed
-Est. Clearance Time: 1:35 PM","5/22/24, 12:35 PM","5/22/24, 1:35 PM","5/22/24, 12:35 PM",,,
+Est. Clearance Time: 1:35 PM","5/22/24, 12:35 PM","5/22/24, 1:35 PM","5/22/24, 12:35 PM",,41.072258,-111.978377
