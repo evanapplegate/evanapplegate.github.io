@@ -22854,7 +22854,6 @@ Est. Clearance Time: 8:20 AM","5/22/24, 7:20 AM","5/22/24, 8:20 AM","5/22/24, 7:
 UT-Incident--179403,Incidents,PIONEER RD,Weber County,PIONEER RD at 1950 W/2000 W,"Crash
 400 N at 2000 W Weber Co.
 Est. Clearance Time: 8:10 AM","5/22/24, 7:05 AM","5/22/24, 8:10 AM","5/22/24, 7:07 AM",,41.268764,-112.028042
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179406,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
@@ -22864,14 +22863,18 @@ NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:01 AM","5/22/24, 8:02 AM","5/22/24, 9:01 AM","5/22/24, 8:02 AM",,40.564298,-111.899489
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179405,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
+SB I-15 at MP 59 (200 N / Cedar City) Iron Co.
+Est. Clearance Time: 8:45 AM","5/22/24, 7:44 AM","5/22/24, 8:45 AM","5/22/24, 8:31 AM",,37.682913,-113.079828
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179408,Incidents,Hwy 138,Tooele County,Hwy 138 at Hwy 36,"Crash
 EB Hwy 138 at Hwy 36 (Mills Jct.) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:23 AM","5/22/24, 8:25 AM","5/22/24, 9:23 AM","5/22/24, 8:25 AM",,0.0,0.0
-UT-Incident--179405,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
-SB I-15 at MP 59 (200 N / Cedar City) Iron Co.
-Est. Clearance Time: 8:45 AM","5/22/24, 7:44 AM","5/22/24, 8:45 AM","5/22/24, 8:31 AM",,37.682913,-113.079828
 UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 EB I-80 at MP 88 (Grantsville) Tooele Co.
 Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 10:00 AM","5/22/24, 7:52 AM",,40.685919,-112.447604
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 11:00 AM","5/22/24, 8:49 AM",,40.685919,-112.447604
+UT-Incident--179409,Incidents,SR 24,Wayne County,SR 24 at MP 90,"Tree in Roadway
+WB SR 24 at MP 90 (8 Mi W of Caineville) Wayne Co.
+Est. Clearance Time: 9:57 AM","5/22/24, 9:03 AM","5/22/24, 9:57 AM","5/22/24, 9:03 AM",,38.275131,-111.106675
