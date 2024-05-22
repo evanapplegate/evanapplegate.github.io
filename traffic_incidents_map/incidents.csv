@@ -22902,7 +22902,6 @@ UT-Incident--179417,Incidents,I-15,Utah County,I-15 at MP 265,"Crash
 SB I-15 at MP 265 (Center St / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 12:55 PM","5/22/24, 11:55 AM","5/22/24, 12:55 PM","5/22/24, 11:55 AM",,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179419,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Medical
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Lane Closed
@@ -22911,6 +22910,7 @@ UT-Incident--179418,Incidents,I-80 WB X118 Off Redwood Ramp,Salt Lake County,I-8
 WB I-80 Redwood Off Ramp (MP 118)
 Salt Lake Co.
 Est. Clearance Time: 1:00 PM","5/22/24, 12:04 PM","5/22/24, 1:00 PM","5/22/24, 12:04 PM",,40.767271,-111.93912
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 EB I-80 at MP 88 (Grantsville) Tooele Co.
