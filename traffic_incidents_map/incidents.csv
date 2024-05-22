@@ -22926,7 +22926,6 @@ UT-Incident--179423,Incidents,I-15,Utah County,I-15 at MP 259,"Crash
 NB I-15 at MP 259 (2700 N / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:59 PM","5/22/24, 2:59 PM","5/22/24, 3:59 PM","5/22/24, 3:38 PM",,40.149449,-111.646651
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179426,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 NB I-15 at MP 271 (800 N / Orem) Utah Co.
 Right Shoulder
@@ -22936,22 +22935,27 @@ SB I-15 Exit 311 (2300 N) Off-Ramp Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:12 PM","5/22/24, 3:14 PM","5/22/24, 4:12 PM","5/22/24, 3:20 PM",,40.812047,-111.924405
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179428,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
-EB 5600 S at 3500 W Weber Co.
-Est. Clearance Time: 5:15 PM","5/22/24, 4:12 PM","5/22/24, 5:15 PM","5/22/24, 4:12 PM",,41.161599,-112.06442
 UT-Incident--179429,Incidents,I-15,Iron County,I-15 at MP 44,"Crash
 NB I-15 at MP 44 (Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","5/22/24, 4:15 PM","5/22/24, 5:35 PM","5/22/24, 4:15 PM",,37.508507,-113.213733
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179428,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
+EB 5600 S at 3500 W Weber Co.
+Est. Clearance Time: 5:15 PM","5/22/24, 4:12 PM","5/22/24, 5:15 PM","5/22/24, 4:12 PM",,41.161599,-112.06442
 UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 EB I-80 at MP 88 (Grantsville) Tooele Co.
 Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 4:15 PM","5/22/24, 2:33 PM",,40.685919,-112.447604
-UT-Incident--179430,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4100 S,"Crash
-SB Redwood Rd at 4100 S Salt Lake Co.
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
+UT-Incident--179430,Incidents,REDWOOD RD,Salt Lake County,REDWOOD RD at 4100 S/MEADOW BROOK EXPY,"Crash
+SB REDWOOD RD at 4100 S/MEADOW BROOK EXPY Salt Lake Co.
 2 Right Lanes Closed
-Est. Clearance Time: 6:00 PM","5/22/24, 4:42 PM","5/22/24, 6:00 PM","5/22/24, 4:42 PM",,,
+Est. Clearance Time: 6:00 PM","5/22/24, 4:42 PM","5/22/24, 6:00 PM","5/22/24, 4:47 PM",,40.682229,-111.93884
 UT-Incident--179427,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","5/22/24, 4:03 PM","5/22/24, 5:15 PM","5/22/24, 4:03 PM",,41.144394,-111.918626
+UT-Incident--179431,Incidents,Washington Blvd,Weber County,Washington Blvd at Riverdale Rd,"Crash
+SB Washington Blvd at Riverdale Rd Weber Co.
+Right Lane Closed
+Est. Clearance Time: 5:45 PM","5/22/24, 4:52 PM","5/22/24, 5:45 PM","5/22/24, 4:52 PM",,41.199737,-111.970946
