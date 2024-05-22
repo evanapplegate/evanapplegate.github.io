@@ -22770,7 +22770,6 @@ Est. Clearance Time: 4:45 PM","5/21/24, 3:54 PM","5/21/24, 4:45 PM","5/21/24, 3:
 UT-Incident--179378,Incidents,5600 S,Weber County,5600 S at 2700 W,"Crash
 5600 S at 2700 W (Roy) Weber Co.
 Est. Clearance Time: 5:15 PM","5/21/24, 4:04 PM","5/21/24, 5:15 PM","5/21/24, 4:04 PM",,41.161648,-112.042857
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179380,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -22791,10 +22790,6 @@ UT-Incident--179385,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","5/21/24, 5:23 PM","5/21/24, 6:35 PM","5/21/24, 5:23 PM",,40.607173,-111.905403
-UT-Incident--179374,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
-WB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 PM","5/21/24, 3:48 PM","5/21/24, 6:00 PM","5/21/24, 4:56 PM",,40.718625,-112.233989
 UT-Incident--179348,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 Both Directions US 189 Closed
 MP 22 to MP 24 Wasatch Co.
@@ -22807,3 +22802,19 @@ UT-Incident--179386,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
 EB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","5/21/24, 5:40 PM","5/21/24, 6:45 PM","5/21/24, 5:43 PM",,40.560962,-111.427534
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179389,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:00 PM","5/21/24, 5:57 PM","5/21/24, 7:00 PM","5/21/24, 5:57 PM",,40.492398,-111.891485
+UT-Incident--179374,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
+WB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
+Cleared at 6:17 PM
+Est. Clearance Time: 6:45 PM","5/21/24, 3:48 PM","5/21/24, 6:45 PM","5/21/24, 6:17 PM",,40.718625,-112.233989
+UT-Incident--179390,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","5/21/24, 6:04 PM","5/21/24, 7:15 PM","5/21/24, 6:04 PM",,40.718332,-111.893095
+UT-Incident--179391,Incidents,SR 248,Summit County,SR 248 at MP 0,"Crash
+WB SR 248 at MP 0 (Snow Creek Drive) Summit Co.
+Est. Clearance Time: 7:15 PM","5/21/24, 6:08 PM","5/21/24, 7:15 PM","5/21/24, 6:08 PM",,40.660288,-111.509399
