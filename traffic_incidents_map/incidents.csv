@@ -22848,15 +22848,26 @@ WB US 6 at MP 195 (Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:06 AM","5/22/24, 3:07 AM","5/22/24, 4:06 AM","5/22/24, 3:07 AM",,39.973069,-111.336625
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179404,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 SB I-15 at MP 310 (1000 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:20 AM","5/22/24, 7:20 AM","5/22/24, 8:20 AM","5/22/24, 7:24 AM",,40.791232,-111.916128
-UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
-EB I-80 at MP 88 (Grantsville) Tooele Co.
-Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 9:30 AM","5/22/24, 6:57 AM",,40.685919,-112.447604
 UT-Incident--179403,Incidents,PIONEER RD,Weber County,PIONEER RD at 1950 W/2000 W,"Crash
 400 N at 2000 W Weber Co.
 Est. Clearance Time: 8:10 AM","5/22/24, 7:05 AM","5/22/24, 8:10 AM","5/22/24, 7:07 AM",,41.268764,-112.028042
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179405,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
+SB I-15 at MP 59 (200 N / Cedar City) Iron Co.
+Est. Clearance Time: 8:45 AM","5/22/24, 7:44 AM","5/22/24, 8:45 AM","5/22/24, 7:48 AM",,37.682913,-113.079828
+UT-Incident--179406,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:50 AM","5/22/24, 7:47 AM","5/22/24, 8:50 AM","5/22/24, 7:47 AM",,40.63583,-111.905066
+UT-Incident--179407,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
+NB I-15 at MP 294 (10200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:01 AM","5/22/24, 8:02 AM","5/22/24, 9:01 AM","5/22/24, 8:02 AM",,40.564298,-111.899489
+UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
+EB I-80 at MP 88 (Grantsville) Tooele Co.
+Left Lanes Closed
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 10:00 AM","5/22/24, 7:52 AM",,40.685919,-112.447604
