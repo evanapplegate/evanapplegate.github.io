@@ -23019,7 +23019,6 @@ Est. Clearance Time: 6:30 AM","5/23/24, 4:26 AM","5/23/24, 6:30 AM","5/23/24, 5:
 UT-Incident--179450,Incidents,SR 92,Utah County,SR 92 at MP 8,"Both Directions SR 92 Closed
  at MP 8 (Mouth of the Canyon) Utah Co.
 Use Alt Route","5/23/24, 3:58 AM","5/23/24, 7:00 AM","5/23/24, 5:51 AM",,40.433642,-111.742831
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179454,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
@@ -23033,19 +23032,24 @@ UT-Incident--179455,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at 18
 SB Bangerter Hwy at SR-201 (SLC) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:00 AM","5/23/24, 8:01 AM","5/23/24, 9:00 AM",,,40.727598,-111.986521
-UT-Incident--179457,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
-SB I-15 at MP 297 (7200 S Onramp) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 9:40 AM","5/23/24, 8:40 AM","5/23/24, 9:40 AM",,,40.607173,-111.905403
 UT-Incident--179459,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:55 AM","5/23/24, 8:52 AM","5/23/24, 9:55 AM",,,40.817596,-111.917999
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179460,Incidents,Hwy 224,Summit County,Hwy 224 at Meadows Dr,"Crash
+SB SR-224 at Meadows Dr (Park City) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 10:30 AM","5/23/24, 9:09 AM","5/23/24, 10:30 AM","5/23/24, 9:09 AM",,40.676031,-111.521353
+UT-Incident--179457,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+SB I-15 at MP 297 (7200 S Onramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:40 AM","5/23/24, 8:40 AM","5/23/24, 9:40 AM","5/23/24, 8:40 AM",,40.607173,-111.905403
 UT-Incident--179453,Incidents,I-80,Tooele County,I-80 at MP 71,"Crash
 EB I-80 at MP 71 (2 mi E of Skull Valley) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 8:25 AM","5/23/24, 7:27 AM","5/23/24, 8:25 AM",,,40.75637,-112.755332
+Est. Clearance Time: 10:00 AM","5/23/24, 7:27 AM","5/23/24, 10:00 AM","5/23/24, 9:07 AM",,40.75637,-112.755332
 UT-Incident--179458,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTAIN VIEW CORRIDOR HWY,"Crash
 SB Mountain View Corr. (West Jordan) Salt Lake Co.
 Right Lane Closed
-Est. Clearance Time: 10:45 AM","5/23/24, 8:49 AM","5/23/24, 10:45 AM",,,40.617624,-112.041794
+Est. Clearance Time: 10:45 AM","5/23/24, 8:49 AM","5/23/24, 10:45 AM","5/23/24, 8:49 AM",,40.617624,-112.041794
