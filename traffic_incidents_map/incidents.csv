@@ -23068,12 +23068,16 @@ UT-Incident--179468,Incidents,SR 36,Tooele County,SR 36 at MP 57,"Crash
 SB SR 36 at MP 57 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 1:40 PM","5/23/24, 12:42 PM","5/23/24, 1:40 PM","5/23/24, 12:42 PM",,40.568696,-112.295673
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179466,Incidents,I-15,Millard County,I-15 at MP 137,"Crash
 NB I-15 at MP 137 (3 mi N of Cove Fort) Millard Co.
 Left Shoulder
 Est. Clearance Time: 1:10 PM","5/23/24, 12:14 PM","5/23/24, 1:10 PM","5/23/24, 12:14 PM",,38.645446,-112.603991
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179470,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","5/23/24, 1:37 PM","5/23/24, 2:45 PM","5/23/24, 1:37 PM",,40.736823,-111.90475
 UT-Incident--179469,Incidents,State St,Salt Lake County,State St at 600 S,"Emergancy Utility Work
 Both Directions State St at 600 S (SLC) Salt Lake Co.
 Road Closed Until Repairs Are Complete","5/23/24, 1:11 PM","5/23/24, 8:00 PM","5/23/24, 1:11 PM",,40.756433,-111.888222
