@@ -22942,7 +22942,6 @@ UT-Incident--179427,Incidents,US 89,Weber County,US 89 at MP 407,"Crash
 NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","5/22/24, 4:03 PM","5/22/24, 5:15 PM","5/22/24, 4:03 PM",,41.144394,-111.918626
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179428,Incidents,5600 S,Weber County,5600 S at 3500 W,"Crash
 EB 5600 S at 3500 W Weber Co.
 Est. Clearance Time: 5:15 PM","5/22/24, 4:12 PM","5/22/24, 5:15 PM","5/22/24, 4:12 PM",,41.161599,-112.06442
@@ -22955,10 +22954,6 @@ SB Washington Blvd at Riverdale Rd Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:45 PM","5/22/24, 4:52 PM","5/22/24, 5:45 PM","5/22/24, 4:52 PM",,41.199737,-111.970946
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
-EB I-80 at MP 88 (Grantsville) Tooele Co.
-Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
 UT-Incident--179432,Incidents,SR 127,Davis County,SR 127 at MP 2,"Crash
 WB SR 127 (Antelope Dr.) at MP 2 (Syracuse) Davis Co.
 Est. Clearance Time: 6:15 PM","5/22/24, 5:12 PM","5/22/24, 6:15 PM","5/22/24, 5:12 PM",,41.089209,-112.07433
@@ -22966,3 +22961,20 @@ UT-Incident--179433,Incidents,Washington Blvd,Weber County,Washington Blvd at 21
 NB Washington Blvd at 21st St Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 6:35 PM","5/22/24, 5:28 PM","5/22/24, 6:35 PM","5/22/24, 5:28 PM",,41.229029,-111.970318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179436,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:15 PM","5/22/24, 6:01 PM","5/22/24, 7:15 PM","5/22/24, 6:01 PM",,40.328045,-111.73498
+UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
+EB I-80 at MP 88 (Grantsville) Tooele Co.
+Left Lanes Closed
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
+UT-Incident--179434,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:45 PM","5/22/24, 5:47 PM","5/22/24, 6:45 PM","5/22/24, 5:47 PM",,40.724124,-111.943886
+UT-Incident--179437,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
+NB SR 36 at MP 59 (Erda) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","5/22/24, 6:28 PM","5/22/24, 7:35 PM","5/22/24, 6:28 PM",,40.597521,-112.294273
