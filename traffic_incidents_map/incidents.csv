@@ -22960,7 +22960,6 @@ UT-Incident--179433,Incidents,Washington Blvd,Weber County,Washington Blvd at 21
 NB Washington Blvd at 21st St Weber Co.
 2 Right Lanes Closed
 Est. Clearance Time: 6:35 PM","5/22/24, 5:28 PM","5/22/24, 6:35 PM","5/22/24, 5:28 PM",,41.229029,-111.970318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179436,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
@@ -22974,6 +22973,11 @@ NB SR 36 at MP 59 (Erda) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","5/22/24, 6:28 PM","5/22/24, 7:35 PM","5/22/24, 6:28 PM",,40.597521,-112.294273
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
+EB I-80 at MP 88 (Grantsville) Tooele Co.
+Left Lanes Closed
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179441,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
@@ -22981,7 +22985,3 @@ Est. Clearance Time: 8:30 PM","5/22/24, 7:32 PM","5/22/24, 8:30 PM","5/22/24, 7:
 UT-Incident--179440,Incidents,I-70,Sevier County,I-70 at MP 52,"Vehicle on fire
 EB I-70 at MP 52 (12 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 7:55 PM","5/22/24, 6:50 PM","5/22/24, 7:55 PM","5/22/24, 6:50 PM",,38.887776,-111.913608
-UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
-EB I-80 at MP 88 (Grantsville) Tooele Co.
-Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
