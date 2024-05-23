@@ -23014,10 +23014,10 @@ SB I-15 at MP 344 (24th St) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:01 AM","5/23/24, 4:02 AM","5/23/24, 5:01 AM","5/23/24, 4:02 AM",,41.230556,-112.01298
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179452,Incidents,I-70,Sevier County,I-70 at MP 32,"Crash
 EB I-70 at MP 32 (5 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 6:30 AM","5/23/24, 4:26 AM","5/23/24, 6:30 AM","5/23/24, 5:27 AM",,38.686774,-112.153815
-UT-Incident--179450,Incidents,SR 92,Utah County,SR 92 at MP 8,"Crash
-Both Directions SR 92 at MP 8 (Mouth of the Canyon) Utah Co.
-Est. Clearance Time: 7:00 AM","5/23/24, 3:58 AM","5/23/24, 7:00 AM","5/23/24, 5:27 AM",,40.433642,-111.742831
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179450,Incidents,SR 92,Utah County,SR 92 at MP 8,"Both Directions SR 92 Closed
+ at MP 8 (Mouth of the Canyon) Utah Co.
+Use Alt Route","5/23/24, 3:58 AM","5/23/24, 7:00 AM","5/23/24, 5:51 AM",,40.433642,-111.742831
