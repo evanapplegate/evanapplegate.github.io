@@ -23076,7 +23076,6 @@ UT-Incident--179471,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 WB I-215 S at MP 11 (300 W) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:55 PM","5/23/24, 1:56 PM","5/23/24, 2:55 PM","5/23/24, 1:56 PM",,40.634373,-111.895376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179469,Incidents,State St,Salt Lake County,State St at 600 S,"Emergancy Utility Work
 Both Directions State St at 600 S (SLC) Salt Lake Co.
 Road Closed Until Repairs Are Complete","5/23/24, 1:11 PM","5/23/24, 8:00 PM","5/23/24, 2:22 PM",,40.756433,-111.888222
@@ -23085,3 +23084,4 @@ UT-Incident--179470,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","5/23/24, 1:37 PM","5/23/24, 2:45 PM","5/23/24, 1:37 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
