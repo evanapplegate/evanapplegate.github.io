@@ -23091,7 +23091,6 @@ UT-Incident--179474,Incidents,SUNSET BLVD,Washington County,SUNSET BLVD 1301,"Cr
 WB SUNSET BLVD @ Westridge Dr (Washington Co).
 Right Lane Closed
 Est. Clearance Time: 5:35 PM","5/23/24, 4:29 PM","5/23/24, 5:35 PM","5/23/24, 4:37 PM",,37.122799,-113.614879
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179478,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 1545,"Crash
 EB ANTELOPE DR @ 1700 W Davis Co.
 3 Left Lanes Closed
@@ -23108,6 +23107,14 @@ UT-Incident--179476,Incidents,US 89,Box Elder County,US 89 at MP 432,"Crash
 US 89 at MP 432 (2300 S / Perry) Box Elder Co.
 Est. Clearance Time: 5:39 PM","5/23/24, 4:40 PM","5/23/24, 5:39 PM","5/23/24, 4:40 PM",,41.467405,-112.031475
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179479,Incidents,US 40,Uintah County,US 40 at MP 146,"Crash
+NB US 40 at MP 146 (Naples) Uintah Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","5/23/24, 5:08 PM","5/23/24, 6:15 PM","5/23/24, 5:08 PM",,40.44706,-109.500874
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179483,Incidents,1800 N,Weber County,1800 N at 2000 W,"Crash
+Both Directions 1800 N at 2000 W Weber Co.
+Est. Clearance Time: 6:35 PM","5/23/24, 5:29 PM","5/23/24, 6:35 PM","5/23/24, 5:29 PM",,0.0,0.0
 UT-Incident--179473,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Vehicle on fire
 SB I-15 at MP 311 Off Ramp (2300 N) Salt Lake Co.
 Est. Clearance Time: 5:35 PM","5/23/24, 4:19 PM","5/23/24, 5:35 PM","5/23/24, 4:19 PM",,40.804836,-111.922481
@@ -23115,7 +23122,11 @@ UT-Incident--179480,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","5/23/24, 5:18 PM","5/23/24, 6:35 PM","5/23/24, 5:18 PM",,40.707874,-111.90397
-UT-Incident--179479,Incidents,US 40,Uintah County,US 40 at MP 146,"Crash
-NB US 40 at MP 146 (Naples) Uintah Co.
-Right Shoulder
-Est. Clearance Time: 6:15 PM","5/23/24, 5:08 PM","5/23/24, 6:15 PM","5/23/24, 5:08 PM",,40.44706,-109.500874
+UT-Incident--179481,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:30 PM","5/23/24, 5:19 PM","5/23/24, 6:30 PM","5/23/24, 5:19 PM",,40.649847,-111.90236
+UT-Incident--179482,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
+EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 6:30 PM","5/23/24, 5:22 PM","5/23/24, 6:30 PM","5/23/24, 5:22 PM",,40.719771,-111.855009
