@@ -23020,8 +23020,16 @@ UT-Incident--179450,Incidents,SR 92,Utah County,SR 92 at MP 8,"Both Directions S
  at MP 8 (Mouth of the Canyon) Utah Co.
 Use Alt Route","5/23/24, 3:58 AM","5/23/24, 7:00 AM","5/23/24, 5:51 AM",,40.433642,-111.742831
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--179455,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at 1820 S/BANGERTER SB HWY,"Crash
+SB Bangerter Hwy at SR-201 (SLC) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:00 AM","5/23/24, 8:01 AM","5/23/24, 9:00 AM",,,40.727598,-111.986521
+UT-Incident--179454,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:50 AM","5/23/24, 7:51 AM","5/23/24, 8:50 AM",,,40.480607,-111.902252
 UT-Incident--179453,Incidents,I-80,Tooele County,I-80 at MP 71,"Crash
 EB I-80 at MP 71 (2 mi E of Skull Valley) Tooele Co.
 Right Shoulder
-Est. Clearance Time: 8:25 AM","5/23/24, 7:27 AM","5/23/24, 8:25 AM","5/23/24, 7:27 AM",,40.75637,-112.755332
+Est. Clearance Time: 8:25 AM","5/23/24, 7:27 AM","5/23/24, 8:25 AM",,,40.75637,-112.755332
