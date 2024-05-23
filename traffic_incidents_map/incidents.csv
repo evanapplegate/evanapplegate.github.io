@@ -23027,7 +23027,6 @@ UT-Incident--179456,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:05 AM","5/23/24, 8:06 AM","5/23/24, 9:05 AM",,,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179455,Incidents,BANGERTER HWY,Salt Lake County,BANGERTER HWY at 1820 S/BANGERTER SB HWY,"Crash
 SB Bangerter Hwy at SR-201 (SLC) Salt Lake Co.
 Left Shoulder
@@ -23036,6 +23035,7 @@ UT-Incident--179459,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:55 AM","5/23/24, 8:52 AM","5/23/24, 9:55 AM",,,40.817596,-111.917999
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179460,Incidents,Hwy 224,Summit County,Hwy 224 at Meadows Dr,"Crash
 SB SR-224 at Meadows Dr (Park City) Summit Co.
