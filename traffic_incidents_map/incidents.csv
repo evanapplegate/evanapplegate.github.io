@@ -22976,7 +22976,6 @@ UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
 EB I-80 at MP 88 (Grantsville) Tooele Co.
 Left Lanes Closed
 Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179440,Incidents,I-70,Sevier County,I-70 at MP 52,"Vehicle on fire
 EB I-70 at MP 52 (12 mi E of Richfield) Sevier Co.
 Est. Clearance Time: 7:55 PM","5/22/24, 6:50 PM","5/22/24, 7:55 PM","5/22/24, 6:50 PM",,38.887776,-111.913608
@@ -22985,3 +22984,4 @@ UT-Incident--179441,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","5/22/24, 7:32 PM","5/22/24, 8:30 PM","5/22/24, 7:32 PM",,41.155128,-112.024901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
