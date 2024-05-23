@@ -22983,7 +22983,6 @@ UT-Incident--179441,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:30 PM","5/22/24, 7:32 PM","5/22/24, 8:30 PM","5/22/24, 7:32 PM",,41.155128,-112.024901
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179445,Incidents,HWY 56,Iron County,HWY 56 at AVIATION WAY/CROSS HOLLOW RD,"Crash
 EB Hwy 56 at Cross Hollow Rd Iron Co.
 Est. Clearance Time: 11:30 PM","5/22/24, 10:34 PM","5/22/24, 11:30 PM","5/22/24, 10:36 PM",,37.685037,-113.106229
@@ -22992,6 +22991,11 @@ SB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5/23/2024 12:00 AM","5/22/24, 10:21 PM","5/23/24, 12:00 AM","5/22/24, 11:12 PM",,40.750339,-111.910554
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179448,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5/23/2024 12:45 AM","5/22/24, 11:36 PM","5/23/24, 12:45 AM","5/22/24, 11:36 PM",,40.420056,-111.878496
 UT-Incident--179443,Incidents,I-80,Tooele County,I-80 at MP 31,"Crash
 WB I-80 at MP 31 (10 mi W of Knolls) Tooele Co.
 Left Lane Closed
