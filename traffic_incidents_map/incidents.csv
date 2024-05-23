@@ -23106,11 +23106,11 @@ Est. Clearance Time: 5:45 PM","5/23/24, 4:36 PM","5/23/24, 5:45 PM","5/23/24, 4:
 UT-Incident--179476,Incidents,US 89,Box Elder County,US 89 at MP 432,"Crash
 US 89 at MP 432 (2300 S / Perry) Box Elder Co.
 Est. Clearance Time: 5:39 PM","5/23/24, 4:40 PM","5/23/24, 5:39 PM","5/23/24, 4:40 PM",,41.467405,-112.031475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179479,Incidents,US 40,Uintah County,US 40 at MP 146,"Crash
 NB US 40 at MP 146 (Naples) Uintah Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","5/23/24, 5:08 PM","5/23/24, 6:15 PM","5/23/24, 5:08 PM",,40.44706,-109.500874
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179483,Incidents,1800 N,Weber County,1800 N at 2000 W,"Crash
 Both Directions 1800 N at 2000 W Weber Co.
@@ -23126,6 +23126,18 @@ UT-Incident--179481,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 NB I-15 at MP 300 (5200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:30 PM","5/23/24, 5:19 PM","5/23/24, 6:30 PM","5/23/24, 5:19 PM",,40.649847,-111.90236
+UT-Incident--179485,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","5/23/24, 5:32 PM","5/23/24, 6:30 PM","5/23/24, 5:32 PM",,40.365209,-111.792922
+UT-Incident--179484,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","5/23/24, 5:32 PM","5/23/24, 6:45 PM","5/23/24, 5:32 PM",,40.746426,-111.949053
+UT-Incident--179486,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","5/23/24, 5:42 PM","5/23/24, 6:45 PM","5/23/24, 5:42 PM",,40.746426,-111.949053
 UT-Incident--179482,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Lane Closed
