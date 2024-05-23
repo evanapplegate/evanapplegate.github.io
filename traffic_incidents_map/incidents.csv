@@ -22953,7 +22953,6 @@ UT-Incident--179431,Incidents,Washington Blvd,Weber County,Washington Blvd at Ri
 SB Washington Blvd at Riverdale Rd Weber Co.
 Right Lane Closed
 Est. Clearance Time: 5:45 PM","5/22/24, 4:52 PM","5/22/24, 5:45 PM","5/22/24, 4:52 PM",,41.199737,-111.970946
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179432,Incidents,SR 127,Davis County,SR 127 at MP 2,"Crash
 WB SR 127 (Antelope Dr.) at MP 2 (Syracuse) Davis Co.
 Est. Clearance Time: 6:15 PM","5/22/24, 5:12 PM","5/22/24, 6:15 PM","5/22/24, 5:12 PM",,41.089209,-112.07433
@@ -22966,10 +22965,6 @@ UT-Incident--179436,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 7:15 PM","5/22/24, 6:01 PM","5/22/24, 7:15 PM","5/22/24, 6:01 PM",,40.328045,-111.73498
-UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
-EB I-80 at MP 88 (Grantsville) Tooele Co.
-Left Lanes Closed
-Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
 UT-Incident--179434,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 2 Left Lanes Closed
@@ -22978,3 +22973,15 @@ UT-Incident--179437,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 NB SR 36 at MP 59 (Erda) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","5/22/24, 6:28 PM","5/22/24, 7:35 PM","5/22/24, 6:28 PM",,40.597521,-112.294273
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179441,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+NB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
+Right Shoulder
+Est. Clearance Time: 8:30 PM","5/22/24, 7:32 PM","5/22/24, 8:30 PM","5/22/24, 7:32 PM",,41.155128,-112.024901
+UT-Incident--179440,Incidents,I-70,Sevier County,I-70 at MP 52,"Vehicle on fire
+EB I-70 at MP 52 (12 mi E of Richfield) Sevier Co.
+Est. Clearance Time: 7:55 PM","5/22/24, 6:50 PM","5/22/24, 7:55 PM","5/22/24, 6:50 PM",,38.887776,-111.913608
+UT-Incident--179401,Incidents,I-80,Tooele County,I-80 at MP 88,"Crash
+EB I-80 at MP 88 (Grantsville) Tooele Co.
+Left Lanes Closed
+Use Alt Route","5/22/24, 6:01 AM","5/22/24, 8:15 PM","5/22/24, 4:48 PM",,40.685919,-112.447604
