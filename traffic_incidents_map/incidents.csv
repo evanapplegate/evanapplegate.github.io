@@ -23111,7 +23111,6 @@ NB US 40 at MP 146 (Naples) Uintah Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","5/23/24, 5:08 PM","5/23/24, 6:15 PM","5/23/24, 5:08 PM",,40.44706,-109.500874
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179483,Incidents,1800 N,Weber County,1800 N at 2000 W,"Crash
 Both Directions 1800 N at 2000 W Weber Co.
 Est. Clearance Time: 6:35 PM","5/23/24, 5:29 PM","5/23/24, 6:35 PM","5/23/24, 5:29 PM",,0.0,0.0
@@ -23122,23 +23121,35 @@ UT-Incident--179480,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","5/23/24, 5:18 PM","5/23/24, 6:35 PM","5/23/24, 5:18 PM",,40.707874,-111.90397
-UT-Incident--179481,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
-NB I-15 at MP 300 (5200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:30 PM","5/23/24, 5:19 PM","5/23/24, 6:30 PM","5/23/24, 5:19 PM",,40.649847,-111.90236
 UT-Incident--179485,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:30 PM","5/23/24, 5:32 PM","5/23/24, 6:30 PM","5/23/24, 5:32 PM",,40.365209,-111.792922
-UT-Incident--179484,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
-SB I-215 W at MP 21 (900 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:45 PM","5/23/24, 5:32 PM","5/23/24, 6:45 PM","5/23/24, 5:32 PM",,40.746426,-111.949053
 UT-Incident--179486,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","5/23/24, 5:42 PM","5/23/24, 6:45 PM","5/23/24, 5:42 PM",,40.746426,-111.949053
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179481,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+NB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:30 PM","5/23/24, 5:19 PM","5/23/24, 6:30 PM","5/23/24, 5:19 PM",,40.649847,-111.90236
+UT-Incident--179487,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:15 PM","5/23/24, 6:00 PM","5/23/24, 7:15 PM","5/23/24, 6:12 PM",,40.492398,-111.891485
+UT-Incident--179489,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+3 Left Lanes Closed
+Est. Clearance Time: 7:30 PM","5/23/24, 6:28 PM","5/23/24, 7:30 PM","5/23/24, 6:28 PM",,40.365209,-111.792922
+UT-Incident--179484,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+SB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","5/23/24, 5:32 PM","5/23/24, 6:45 PM","5/23/24, 5:32 PM",,40.746426,-111.949053
 UT-Incident--179482,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:30 PM","5/23/24, 5:22 PM","5/23/24, 6:30 PM","5/23/24, 5:22 PM",,40.719771,-111.855009
+UT-Incident--179490,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+WB I-80 at MP 124 Off Ramp (State St / Salt Lake City) Salt Lake Co.
+Est. Clearance Time: 7:45 PM","5/23/24, 6:32 PM","5/23/24, 7:45 PM","5/23/24, 6:32 PM",,40.718459,-111.873941
