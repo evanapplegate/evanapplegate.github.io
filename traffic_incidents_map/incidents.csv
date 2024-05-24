@@ -23214,7 +23214,6 @@ UT-Incident--179505,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 Ramp I-80 Closed
  at MP 131 (Quarry) Salt Lake Co.
 Use Alt Route","5/24/24, 8:04 AM","5/24/24, 10:45 AM","5/24/24, 8:54 AM",,40.732387,-111.755095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179509,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 36th St,"Crash
 NB Harrison Blvd at 36th St Weber Co.
 Left Shoulder
@@ -23223,6 +23222,7 @@ UT-Incident--179510,Incidents,I-15,Utah County,I-15 at MP 248,"Crash
 SB I-15 at MP 248 (1 mi S of Payson) Utah Co.
 Left Shoulder
 Est. Clearance Time: 12:08 PM","5/24/24, 11:09 AM","5/24/24, 12:08 PM","5/24/24, 11:09 AM",,40.020219,-111.762745
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179511,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 NB I-15 at MP 279 (Main St, Lehi) Utah Co.
