@@ -23268,11 +23268,11 @@ UT-Incident--179526,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
 SB I-15 at MP 283 (Lehi) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 5:00 PM","5/24/24, 4:22 PM","5/24/24, 5:00 PM","5/24/24, 4:22 PM",,40.420056,-111.878496
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179528,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","5/24/24, 4:45 PM","5/24/24, 6:00 PM","5/24/24, 4:45 PM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179529,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 501,"Crash
 WB Antelope Dr at 500 W Davis Co.
@@ -23281,6 +23281,9 @@ UT-Incident--179527,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","5/24/24, 4:25 PM","5/24/24, 5:35 PM","5/24/24, 4:25 PM",,40.550055,-111.896336
+UT-Incident--179531,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292  Off Ramp (11500 S) Salt Lake Co.
+Est. Clearance Time: 6:15 PM","5/24/24, 5:08 PM","5/24/24, 6:15 PM","5/24/24, 5:09 PM",,40.53585,-111.892927
 UT-Incident--179530,Incidents,Main St,Box Elder County,Main St at 2300 W,"Crash
 Both Directions Main St at 2300 W Box Elder Co.
 Est. Clearance Time: 6:00 PM","5/24/24, 4:58 PM","5/24/24, 6:00 PM","5/24/24, 4:58 PM",,41.7109,-112.201472
