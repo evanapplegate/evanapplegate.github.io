@@ -23110,7 +23110,6 @@ UT-Incident--179479,Incidents,US 40,Uintah County,US 40 at MP 146,"Crash
 NB US 40 at MP 146 (Naples) Uintah Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","5/23/24, 5:08 PM","5/23/24, 6:15 PM","5/23/24, 5:08 PM",,40.44706,-109.500874
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179483,Incidents,1800 N,Weber County,1800 N at 2000 W,"Crash
 Both Directions 1800 N at 2000 W Weber Co.
 Est. Clearance Time: 6:35 PM","5/23/24, 5:29 PM","5/23/24, 6:35 PM","5/23/24, 5:29 PM",,0.0,0.0
@@ -23153,3 +23152,8 @@ Est. Clearance Time: 6:30 PM","5/23/24, 5:22 PM","5/23/24, 6:30 PM","5/23/24, 5:
 UT-Incident--179490,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 Off Ramp (State St / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 7:45 PM","5/23/24, 6:32 PM","5/23/24, 7:45 PM","5/23/24, 6:32 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179492,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
+NB I-215 W at MP 17 (3500 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:30 PM","5/23/24, 7:32 PM","5/23/24, 8:30 PM","5/23/24, 7:32 PM",,40.688869,-111.951947
