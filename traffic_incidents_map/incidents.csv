@@ -23431,7 +23431,6 @@ UT-Incident--179571,Incidents,I-15,Juab County,I-15 at MP 204,"Crash
 SB I-15 at MP 204 (16 mi N of Scipio) Juab Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","5/25/24, 1:35 PM","5/25/24, 2:45 PM","5/25/24, 1:35 PM",,39.455634,-112.010607
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179572,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 SB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Right Shoulder
@@ -23453,9 +23452,10 @@ UT-Incident--179581,Incidents,4500 S,Salt Lake County,4500 S at 700 E/VANWINKLE 
 EB 4500 S at 700 E Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:14 PM","5/25/24, 3:15 PM","5/25/24, 4:14 PM","5/25/24, 3:18 PM",,40.674239,-111.873381
-UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
-SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 5:00 PM","5/25/24, 12:48 PM","5/25/24, 5:00 PM","5/25/24, 2:24 PM",,38.617668,-112.609775
 UT-Incident--179579,Incidents,I-80,Tooele County,I-80 at MP 83,"Crash
 WB I-80 at MP 83 (SR 138 / Grantsville) Tooele Co.
 Est. Clearance Time: 3:45 PM","5/25/24, 2:40 PM","5/25/24, 3:45 PM","5/25/24, 2:40 PM",,40.712461,-112.535628
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 5:00 PM","5/25/24, 12:48 PM","5/25/24, 5:00 PM","5/25/24, 2:24 PM",,38.617668,-112.609775
