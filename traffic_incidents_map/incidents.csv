@@ -23380,7 +23380,6 @@ UT-Incident--179560,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 EB I-80 at MP 131 (Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:20 AM","5/25/24, 10:20 AM","5/25/24, 11:20 AM","5/25/24, 10:20 AM",,40.732387,-111.755095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179562,Incidents,I-15,Box Elder County,I-15 at MP 385,"Crash
 SB I-15 at MP 385 (Riverside) Box Elder Co.
 Right Shoulder
@@ -23393,4 +23392,5 @@ UT-Incident--179551,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy Closed
  at 9000 S Salt Lake Co.
 Use Alt Route","5/25/24, 7:16 AM","5/25/24, 12:30 PM","5/25/24, 7:38 AM",,40.587306,-112.02784
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
