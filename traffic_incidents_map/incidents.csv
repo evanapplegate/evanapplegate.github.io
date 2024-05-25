@@ -23272,7 +23272,6 @@ UT-Incident--179528,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","5/24/24, 4:45 PM","5/24/24, 6:00 PM","5/24/24, 4:45 PM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179532,Incidents,12300 S,Salt Lake County,12300 S at Lone Peak Pkwy,"Crash
 WB 12300 S at Lone Peak Pkwy Salt Lake Co.
 Right Lane Closed
@@ -23291,10 +23290,6 @@ Est. Clearance Time: 6:00 PM","5/24/24, 4:58 PM","5/24/24, 6:00 PM","5/24/24, 4:
 UT-Incident--179531,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292  Off Ramp (11500 S) Salt Lake Co.
 Est. Clearance Time: 6:15 PM","5/24/24, 5:08 PM","5/24/24, 6:15 PM","5/24/24, 5:09 PM",,40.53585,-111.892927
-UT-Incident--179535,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
-SB I-15 at MP 276 (500 E / American Fork) Utah Co.
-Right Shoulder
-Est. Clearance Time: 7:00 PM","5/24/24, 5:57 PM","5/24/24, 7:00 PM","5/24/24, 5:57 PM",,40.355866,-111.778344
 UT-Incident--179534,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Vehicle on fire
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Left Lane Closed
@@ -23302,7 +23297,19 @@ Est. Clearance Time: 6:45 PM","5/24/24, 5:48 PM","5/24/24, 6:45 PM","5/24/24, 5:
 UT-Incident--179536,Incidents,MAIN ST,Iron County,MAIN ST at 650 S,"Crash
 SB MAIN ST at 650 S Iron Co.
 Est. Clearance Time: 7:15 PM","5/24/24, 6:09 PM","5/24/24, 7:15 PM","5/24/24, 6:13 PM",,37.665834,-113.064336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--179535,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
+SB I-15 at MP 276 (500 E / American Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","5/24/24, 5:57 PM","5/24/24, 7:00 PM",,,40.355866,-111.778344
+UT-Incident--179540,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at MP 280 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 8:35 PM","5/24/24, 7:28 PM","5/24/24, 8:35 PM",,,40.39191,-111.835579
 UT-Incident--179537,Incidents,SR 134,Weber County,SR 134 at MP 14,"Crash
 EB SR 134 at MP 14 (200 E, North Ogden) Weber Co.
 2 Right Lanes Closed
-Est. Clearance Time: 7:35 PM","5/24/24, 6:18 PM","5/24/24, 7:35 PM","5/24/24, 6:18 PM",,41.305843,-111.974516
+Est. Clearance Time: 7:35 PM","5/24/24, 6:18 PM","5/24/24, 7:35 PM",,,41.305843,-111.974516
+UT-Incident--179539,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 3700,"Crash
+SB Washington Blvd at 39th St. Weber Co.
+Est. Clearance Time: 8:15 PM","5/24/24, 7:19 PM","5/24/24, 8:15 PM",,,41.192868,-111.971128
