@@ -23296,7 +23296,6 @@ Est. Clearance Time: 6:45 PM","5/24/24, 5:48 PM","5/24/24, 6:45 PM","5/24/24, 5:
 UT-Incident--179536,Incidents,MAIN ST,Iron County,MAIN ST at 650 S,"Crash
 SB MAIN ST at 650 S Iron Co.
 Est. Clearance Time: 7:15 PM","5/24/24, 6:09 PM","5/24/24, 7:15 PM","5/24/24, 6:13 PM",,37.665834,-113.064336
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179535,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
@@ -23313,10 +23312,11 @@ UT-Incident--179539,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 3700,
 SB Washington Blvd at 39th St. Weber Co.
 Est. Clearance Time: 8:15 PM","5/24/24, 7:19 PM","5/24/24, 8:15 PM",,,41.192868,-111.971128
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179543,Incidents,SR 30,Box Elder County,SR 30 at MP 83,"Crash
+SR 30 at MP 83 (7 Mi W of Snowville) Box Elder Co.
+Est. Clearance Time: 9:15 PM","5/24/24, 8:04 PM","5/24/24, 9:15 PM","5/24/24, 8:04 PM",,41.966651,-112.899238
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179542,Incidents,I-70,Millard County,I-70 at MP 2,"Crash
 WB I-70 at MP 2 (Cove Fort) Millard Co.
 Right Shoulder
 Est. Clearance Time: 9:15 PM","5/24/24, 8:03 PM","5/24/24, 9:15 PM","5/24/24, 8:03 PM",,38.592169,-112.57485
-UT-Incident--179543,Incidents,SR 30,Box Elder County,SR 30 at MP 83,"Crash
-SR 30 at MP 83 (7 Mi W of Snowville) Box Elder Co.
-Est. Clearance Time: 9:15 PM","5/24/24, 8:04 PM","5/24/24, 9:15 PM","5/24/24, 8:04 PM",,41.966651,-112.899238
