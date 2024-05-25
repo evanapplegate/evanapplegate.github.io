@@ -23361,7 +23361,6 @@ UT-Incident--179552,Incidents,I-80,Tooele County,I-80 at MP 31,"Crash
 WB I-80 at MP 31 (10 mi W of Knolls) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","5/25/24, 7:58 AM","5/25/24, 9:00 AM","5/25/24, 7:58 AM",,40.730751,-113.454893
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179556,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 9000 S,"NB Mountain View Corridor Hwy Closed
  at 9000 S (West Jordan) Salt Lake Co.
 Use Alt Route","5/25/24, 8:33 AM","5/25/24, 9:35 AM","5/25/24, 9:27 AM",,40.587306,-112.02784
@@ -23374,7 +23373,16 @@ UT-Incident--179559,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:17 AM","5/25/24, 9:18 AM","5/25/24, 10:17 AM","5/25/24, 9:18 AM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179560,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
+EB I-80 at MP 131 (Quarry) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:20 AM","5/25/24, 10:20 AM","5/25/24, 11:20 AM","5/25/24, 10:20 AM",,40.732387,-111.755095
 UT-Incident--179551,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 9000 S,"Crash
 SB Mountain View Corridor Hwy Closed
  at 9000 S Salt Lake Co.
 Use Alt Route","5/25/24, 7:16 AM","5/25/24, 12:30 PM","5/25/24, 7:38 AM",,40.587306,-112.02784
+UT-Incident--179561,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 11:18 AM","5/25/24, 10:21 AM","5/25/24, 11:18 AM","5/25/24, 10:24 AM",,40.329534,-111.619014
