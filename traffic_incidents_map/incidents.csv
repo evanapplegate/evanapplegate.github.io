@@ -23364,7 +23364,6 @@ Est. Clearance Time: 9:00 AM","5/25/24, 7:58 AM","5/25/24, 9:00 AM","5/25/24, 7:
 UT-Incident--179556,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 9000 S,"NB Mountain View Corridor Hwy Closed
  at 9000 S (West Jordan) Salt Lake Co.
 Use Alt Route","5/25/24, 8:33 AM","5/25/24, 9:35 AM","5/25/24, 9:27 AM",,40.587306,-112.02784
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179558,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11900 S) Salt Lake Co.
 Left Shoulder
@@ -23373,6 +23372,7 @@ UT-Incident--179559,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:17 AM","5/25/24, 9:18 AM","5/25/24, 10:17 AM","5/25/24, 9:18 AM",,40.492398,-111.891485
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179560,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 EB I-80 at MP 131 (Quarry) Salt Lake Co.
