@@ -23416,7 +23416,6 @@ UT-Incident--179570,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
 EB US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
 Left Lane Blocked
 Est. Clearance Time: 2:33 PM","5/25/24, 1:34 PM","5/25/24, 2:33 PM","5/25/24, 1:34 PM",,40.398835,-111.538152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179574,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 SB I-15 at MP 312  Off Ramp (Beck St / US-89) Salt Lake Co.
 Left Shoulder
@@ -23429,13 +23428,14 @@ UT-Incident--179575,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 Both Directions US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 Est. Clearance Time: 3:20 PM","5/25/24, 2:21 PM","5/25/24, 3:20 PM","5/25/24, 2:21 PM",,40.329534,-111.619014
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
-SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
-Est. Clearance Time: 5:00 PM","5/25/24, 12:48 PM","5/25/24, 5:00 PM","5/25/24, 2:24 PM",,38.617668,-112.609775
 UT-Incident--179571,Incidents,I-15,Juab County,I-15 at MP 204,"Crash
 SB I-15 at MP 204 (16 mi N of Scipio) Juab Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","5/25/24, 1:35 PM","5/25/24, 2:45 PM","5/25/24, 1:35 PM",,39.455634,-112.010607
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
+SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
+Est. Clearance Time: 5:00 PM","5/25/24, 12:48 PM","5/25/24, 5:00 PM","5/25/24, 2:24 PM",,38.617668,-112.609775
 UT-Incident--179572,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 SB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Right Shoulder
@@ -23451,3 +23451,7 @@ UT-Incident--179578,Incidents,SR 224,Summit County,SR 224 at MP 11,"Crash
 NB SR 224 at MP 11 (Newpark Town Center) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 3:39 PM","5/25/24, 2:39 PM","5/25/24, 3:39 PM","5/25/24, 2:39 PM",,40.719592,-111.544709
+UT-Incident--179580,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
+WB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","5/25/24, 2:51 PM","5/25/24, 4:00 PM","5/25/24, 2:51 PM",,39.932532,-111.161681
