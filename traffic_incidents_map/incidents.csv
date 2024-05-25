@@ -23392,7 +23392,6 @@ UT-Incident--179551,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mounta
 SB Mountain View Corridor Hwy Closed
  at 9000 S Salt Lake Co.
 Use Alt Route","5/25/24, 7:16 AM","5/25/24, 12:30 PM","5/25/24, 7:38 AM",,40.587306,-112.02784
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179567,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 SB I-15 at MP 322 (Glover Ln) Davis Co.
 Left Lane Closed
@@ -23406,6 +23405,7 @@ NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 2:45 PM","5/25/24, 1:32 PM","5/25/24, 2:45 PM","5/25/24, 1:38 PM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Est. Clearance Time: 1:50 PM","5/25/24, 12:48 PM","5/25/24, 1:50 PM","5/25/24, 12:48 PM",,38.617668,-112.609775
@@ -23417,6 +23417,14 @@ UT-Incident--179572,Incidents,I-15,Juab County,I-15 at MP 208,"Crash
 SB I-15 at MP 208 (15 mi S of Nephi) Juab Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","5/25/24, 1:43 PM","5/25/24, 3:00 PM","5/25/24, 1:43 PM",,39.501581,-111.966452
+UT-Incident--179573,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
+SB I-15 at MP 286 (15800 S) Salt Lake Co.
+Left and Right Shoulder
+Est. Clearance Time: 3:05 PM","5/25/24, 2:06 PM","5/25/24, 3:05 PM","5/25/24, 2:07 PM",,40.453646,-111.91388
+UT-Incident--179574,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+SB I-15 at MP 312  Off Ramp (Beck St / US-89) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:35 PM","5/25/24, 2:12 PM","5/25/24, 3:35 PM","5/25/24, 2:12 PM",,40.817596,-111.917999
 UT-Incident--179566,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
