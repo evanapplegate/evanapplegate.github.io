@@ -23468,7 +23468,6 @@ Est. Clearance Time: 6:15 PM","5/25/24, 5:08 PM","5/25/24, 6:15 PM","5/25/24, 5:
 UT-Incident--179584,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 SB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Est. Clearance Time: 6:45 PM","5/25/24, 5:36 PM","5/25/24, 6:45 PM","5/25/24, 5:36 PM",,40.274259,-111.718248
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179585,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Est. Clearance Time: 7:00 PM","5/25/24, 5:48 PM","5/25/24, 7:00 PM","5/25/24, 5:48 PM",,40.274259,-111.718248
@@ -23484,3 +23483,8 @@ UT-Incident--179589,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","5/25/24, 7:42 PM","5/25/24, 8:45 PM","5/25/24, 7:42 PM",,40.53585,-111.892927
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179590,Incidents,I-15,Box Elder County,I-15 at MP 356,"Crash
+SB I-15 at MP 356 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","5/25/24, 8:18 PM","5/25/24, 9:35 PM","5/25/24, 8:18 PM",,41.399901,-112.046487
