@@ -23478,13 +23478,17 @@ Est. Clearance Time: 7:00 PM","5/25/24, 5:50 PM","5/25/24, 7:00 PM","5/25/24, 5:
 UT-Incident--179587,Incidents,SR 138,Tooele County,SR 138 at MP 16,"Crash
 SB SR 138 at MP 16 (near Airport) Tooele Co.
 Est. Clearance Time: 7:00 PM","5/25/24, 5:56 PM","5/25/24, 7:00 PM","5/25/24, 5:56 PM",,40.61966,-112.360713
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179589,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","5/25/24, 7:42 PM","5/25/24, 8:45 PM","5/25/24, 7:42 PM",,40.53585,-111.892927
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179590,Incidents,I-15,Box Elder County,I-15 at MP 356,"Crash
 SB I-15 at MP 356 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","5/25/24, 8:18 PM","5/25/24, 9:35 PM","5/25/24, 8:18 PM",,41.399901,-112.046487
+UT-Incident--179591,Incidents,I-15,Davis County,I-15 at MP 327,"Lane Closure
+NB I-15 at MP 327 (Kysvll) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 10:00 PM","5/25/24, 8:31 PM","5/25/24, 10:00 PM","5/25/24, 8:31 PM",,41.01502,-111.940495
