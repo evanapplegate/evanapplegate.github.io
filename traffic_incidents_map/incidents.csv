@@ -23482,7 +23482,6 @@ UT-Incident--179589,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","5/25/24, 7:42 PM","5/25/24, 8:45 PM","5/25/24, 7:42 PM",,40.53585,-111.892927
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179590,Incidents,I-15,Box Elder County,I-15 at MP 356,"Crash
 SB I-15 at MP 356 (Box Elder) Box Elder Co.
 Right Shoulder
@@ -23492,3 +23491,7 @@ NB I-15 at MP 327 (Kysvll) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 10:00 PM","5/25/24, 8:31 PM","5/25/24, 10:00 PM","5/25/24, 8:31 PM",,41.01502,-111.940495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179592,Incidents,US 6,Utah County,US 6 at MP 209,"Crash
+EB US 6 at MP 209 (1 Mi W of Soldier Summit) Utah Co.
+Est. Clearance Time: 10:35 PM","5/25/24, 9:13 PM","5/25/24, 10:35 PM","5/25/24, 9:13 PM",,39.933221,-111.107262
