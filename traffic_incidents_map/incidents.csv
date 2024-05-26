@@ -23508,9 +23508,12 @@ UT-Incident--179596,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
 SB I-15 at MP 346 (Pioneer Rd) Weber Co.
 Right Shoulder
 Est. Clearance Time: 2:52 AM","5/26/24, 1:53 AM","5/26/24, 2:52 AM","5/26/24, 1:53 AM",,41.258018,-112.022971
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179597,Incidents,SR 201,Salt Lake County,SR 201 at MP 4,"Crash
 WB SR 201 at MP 4 (E of SR-202) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:12 AM","5/26/24, 4:13 AM","5/26/24, 5:12 AM","5/26/24, 4:31 AM",,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179598,Incidents,US 40,Summit County,US 40 at MP 2,"Crash
+WB US 40 at MP 2 (Sliver Summit / Park City) Summit Co.
+Est. Clearance Time: 6:35 AM","5/26/24, 5:35 AM","5/26/24, 6:35 AM","5/26/24, 5:35 AM",,40.709049,-111.480451
