@@ -23458,7 +23458,6 @@ UT-Incident--179582,Incidents,SR 38,Box Elder County,SR 38 at MP 8,"Crash
 Both Directions SR 38 at MP 8 (Honeyville) Box Elder Co.
 Est. Clearance Time: 5:00 PM","5/25/24, 3:57 PM","5/25/24, 5:00 PM","5/25/24, 3:57 PM",,41.630824,-112.077458
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179565,Incidents,I-15,Millard County,I-15 at MP 135,"Crash
 SB I-15 at MP 135 (1 mi N of Cove Fort) Millard Co.
 Right Shoulder
@@ -23470,3 +23469,14 @@ Est. Clearance Time: 6:15 PM","5/25/24, 5:08 PM","5/25/24, 6:15 PM","5/25/24, 5:
 UT-Incident--179584,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 SB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Est. Clearance Time: 6:45 PM","5/25/24, 5:36 PM","5/25/24, 6:45 PM","5/25/24, 5:36 PM",,40.274259,-111.718248
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179585,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
+NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
+Est. Clearance Time: 7:00 PM","5/25/24, 5:48 PM","5/25/24, 7:00 PM","5/25/24, 5:48 PM",,40.274259,-111.718248
+UT-Incident--179586,Incidents,I-80,Tooele County,I-80 at MP 82,"Crash
+WB I-80 at MP 82 (5 mi E of Skull Valley Rd) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 7:00 PM","5/25/24, 5:50 PM","5/25/24, 7:00 PM","5/25/24, 5:50 PM",,40.71956,-112.552294
+UT-Incident--179587,Incidents,SR 138,Tooele County,SR 138 at MP 16,"Crash
+SB SR 138 at MP 16 (near Airport) Tooele Co.
+Est. Clearance Time: 7:00 PM","5/25/24, 5:56 PM","5/25/24, 7:00 PM","5/25/24, 5:56 PM",,40.61966,-112.360713
