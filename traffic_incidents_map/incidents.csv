@@ -23542,7 +23542,6 @@ Est. Clearance Time: 2:20 PM","5/26/24, 1:19 PM","5/26/24, 2:20 PM","5/26/24, 1:
 UT-Incident--179605,Incidents,SR 39,Weber County,SR 39 at MP 11,"Crash
 Both Directions SR 39 at MP 11 (3 miles east of Ogden) Weber Co.
 Est. Clearance Time: 2:50 PM","5/26/24, 12:51 PM","5/26/24, 2:50 PM","5/26/24, 2:03 PM",,41.24737,-111.889715
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179608,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -23552,3 +23551,4 @@ UT-Incident--179609,Incidents,I-15,Davis County,I-15 at MP 314,"Vehicle on fire
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 6:05 PM","5/26/24, 5:03 PM","5/26/24, 6:05 PM","5/26/24, 5:03 PM",,40.846156,-111.91486
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
