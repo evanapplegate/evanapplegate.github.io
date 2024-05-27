@@ -23579,7 +23579,6 @@ Est. Clearance Time: 11:00 AM","5/27/24, 9:53 AM","5/27/24, 11:00 AM","5/27/24, 
 UT-Incident--179620,Incidents,US 89,Garfield County,US 89 at MP 148,"Crash
 US 89 at MP 148 (10 miles S of Circleville) Garfield Co.
 Est. Clearance Time: 11:05 AM","5/27/24, 10:04 AM","5/27/24, 11:05 AM","5/27/24, 10:04 AM",,38.0513,-112.353233
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179618,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 NB I-15 at MP 277 (American Fork) Utah Co.
 Left Shoulder
@@ -23588,6 +23587,7 @@ UT-Incident--179621,Incidents,I-80,Salt Lake County,I-80 at MP 136,"Medical
 WB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:10 AM","5/27/24, 10:09 AM","5/27/24, 11:10 AM","5/27/24, 10:09 AM",,40.740268,-111.674521
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179619,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
