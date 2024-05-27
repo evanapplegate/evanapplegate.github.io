@@ -23566,7 +23566,6 @@ UT-Incident--179613,Incidents,I-15,Iron County,I-15 at MP 80,"Crash
 NB I-15 at MP 80 (3 mi N of Parowan) Iron Co.
 Est. Clearance Time: 4:00 AM","5/27/24, 2:53 AM","5/27/24, 4:00 AM","5/27/24, 2:53 AM",,37.882943,-112.802477
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179614,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 WB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.
 Center Lane Closed
@@ -23575,3 +23574,4 @@ UT-Incident--179615,Incidents,Wall Ave,Weber County,Wall Ave at 31st St,"Crash
 Wall Ave at 31st St Weber Co.
 NB Right Lanes Closed on Wall Ave, EB 31st St closed at Wall Ave. 
 Est. Clearance Time: 7:10 AM","5/27/24, 6:08 AM","5/27/24, 7:10 AM","5/27/24, 6:10 AM",,41.208227,-111.979229
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
