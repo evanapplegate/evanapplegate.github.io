@@ -23666,7 +23666,6 @@ UT-Incident--179643,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:40 AM","5/28/24, 8:39 AM","5/28/24, 9:40 AM","5/28/24, 8:39 AM",,40.664677,-111.90152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179640,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
@@ -23676,6 +23675,14 @@ UT-Incident--179642,Incidents,3300 S,Salt Lake County,3300 S 880,"Crash
 WB 3300 S at 880 W  Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:05AM","5/28/24, 8:35 AM","5/28/24, 10:05 AM","5/28/24, 9:27 AM",,40.699464,-111.917065
+UT-Incident--179645,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:20 AM","5/28/24, 9:16 AM","5/28/24, 10:20 AM","5/28/24, 9:16 AM",,40.636258,-111.914012
+UT-Incident--179644,Incidents,US 40,Wasatch County,US 40 at MP 35,"Crash
+US 40 at MP 35 (14 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 10:00 AM","5/28/24, 9:01 AM","5/28/24, 10:00 AM","5/28/24, 9:33 AM",,40.293161,-111.250154
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179646,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (Davis Co)
 RIght Shoulder Closed
@@ -23684,10 +23691,7 @@ UT-Incident--179647,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:25 AM","5/28/24, 9:26 AM","5/28/24, 10:25 AM","5/28/24, 9:26 AM",,40.679062,-111.902181
-UT-Incident--179645,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
-EB I-215 S at MP 12 (1200 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:20 AM","5/28/24, 9:16 AM","5/28/24, 10:20 AM","5/28/24, 9:16 AM",,40.636258,-111.914012
-UT-Incident--179644,Incidents,US 40,Wasatch County,US 40 at MP 35,"Crash
-US 40 at MP 35 (14 mi S of Heber) Wasatch Co.
-Est. Clearance Time: 10:00 AM","5/28/24, 9:01 AM","5/28/24, 10:00 AM","5/28/24, 9:33 AM",,40.293161,-111.250154
+UT-Incident--179648,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 at MP 296 (8000 S) Salt Lake Co.
+3 Left Lanes Closed
+Est. Clearance Time: 10:45 AM","5/28/24, 9:46 AM","5/28/24, 10:45 AM","5/28/24, 9:47 AM",,40.592858,-111.902495
