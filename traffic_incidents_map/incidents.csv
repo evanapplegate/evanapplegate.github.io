@@ -23717,7 +23717,6 @@ Est. Clearance Time: 1:00 PM","5/28/24, 10:47 AM","5/28/24, 1:00 PM","5/28/24, 1
 UT-Incident--179655,Incidents,Main St,Wasatch County,Main St 400,"Crash
 SB Main St at 400 S (Wasatch Co)
 Est. Clearance Time: 2:25 PM","5/28/24, 1:23 PM","5/28/24, 2:25 PM","5/28/24, 1:24 PM",,40.499309,-111.413425
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179656,Incidents,2700 N,Weber County,2700 N at US 89,"Crash
 EB 2700 N at US 89 Weber Co.
 2 Right Lanes Closed
@@ -23726,3 +23725,8 @@ Est. Clearance Time: 3:00 PM","5/28/24, 1:54 PM","5/28/24, 3:00 PM","5/28/24, 1:
 UT-Incident--179657,Incidents,12TH ST,Weber County,12TH ST at WASHINGTON BLVD,"Crash
 WB 12th St at Adams Ave Weber Co.
 Est. Clearance Time: 3:30 PM","5/28/24, 2:30 PM","5/28/24, 3:30 PM","5/28/24, 2:32 PM",,41.244184,-111.968323
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179659,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+SB I-15 at MP 260 Off Ramp (400 S / Springville) Utah Co.
+Left Shoulder
+Est. Clearance Time: 4:00 PM","5/28/24, 2:48 PM","5/28/24, 4:00 PM","5/28/24, 2:48 PM",,40.161636,-111.646866
