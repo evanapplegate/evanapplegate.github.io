@@ -23697,12 +23697,16 @@ UT-Incident--179648,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:45 AM","5/28/24, 9:46 AM","5/28/24, 10:45 AM","5/28/24, 10:36 AM",,40.592858,-111.902495
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179652,Incidents,I-15 NB COL RAMP,Salt Lake County,I-15 NB COL RAMP at 2100 S,"Medical
 NB I-15 COL RAMP at 2100 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","5/28/24, 11:21 AM","5/28/24, 12:30 PM","5/28/24, 11:21 AM",,40.729307,-111.903919
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179654,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 4600 S,"Crash
+NB Harrison Blvd at 4600 S Weber Co.
+Right Lane Closed
+Est. Clearance Time: 12:55 PM","5/28/24, 11:55 AM","5/28/24, 12:55 PM","5/28/24, 11:55 AM",,41.179647,-111.949179
 UT-Incident--179653,Incidents,I-15 SB X341 Off 3100 S Ramp,Weber County,I-15 SB X341 Off 3100 S Ramp at 31st St,"HAZMAT
 SB I-15 31st St Off Ramp (MP 341) Weber Co.
 Off Ramp Closed
