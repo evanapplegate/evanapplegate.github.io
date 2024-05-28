@@ -23693,12 +23693,17 @@ UT-Incident--179649,Incidents,Center St,Sevier County,Center St at Main St,"Cras
 SB Center St at Main St Sevier Co.
 SB Right Lane Closed, EB Center St Closed
 Est. Clearance Time: 11:09 AM","5/28/24, 10:11 AM","5/28/24, 11:09 AM","5/28/24, 10:11 AM",,38.768068,-112.084762
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179648,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:45 AM","5/28/24, 9:46 AM","5/28/24, 10:45 AM","5/28/24, 10:36 AM",,40.592858,-111.902495
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179650,Incidents,US 40,Wasatch County,US 40 at 500 N/MAIN ST,"Crash
-NB US 40 Closed at 500 N/MAIN ST Wasatch Co.
-Use Alt Route","5/28/24, 10:47 AM","5/28/24, 11:46 AM","5/28/24, 10:48 AM",,40.514716,-111.413141
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179652,Incidents,I-15 NB COL RAMP,Salt Lake County,I-15 NB COL RAMP at 2100 S,"Medical
+NB I-15 COL RAMP at 2100 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 12:30 PM","5/28/24, 11:21 AM","5/28/24, 12:30 PM","5/28/24, 11:21 AM",,,
+UT-Incident--179650,Incidents,Main St,Wasatch County,Main St 501,"Crash
+Both Directions 500 N at Main St  Wasatch Co.
+SB Main St Closed, NB Left lane Closed
+Est. Clearance Time: 1:00 PM","5/28/24, 10:47 AM","5/28/24, 1:00 PM","5/28/24, 11:08 AM",,40.514716,-111.413141
