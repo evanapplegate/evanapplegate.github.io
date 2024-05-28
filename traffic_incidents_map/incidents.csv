@@ -23628,21 +23628,24 @@ UT-Incident--179630,Incidents,I-15 SB X 293 On 10600 S Ramp,Salt Lake County,I-1
 SB I-15 10600 S On Ramp (MP 293) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:40 AM","5/28/24, 5:41 AM","5/28/24, 6:40 AM","5/28/24, 5:48 AM",,40.557816,-111.898999
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179633,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 SB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","5/28/24, 6:59 AM","5/28/24, 8:00 AM","5/28/24, 6:59 AM",,40.85851,-111.904912
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179631,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
-SB I-15 at MP 324 (Park Ln) Davis Co.
-Left Lane Closed
-Est. Clearance Time: 7:50 AM","5/28/24, 6:49 AM","5/28/24, 7:50 AM","5/28/24, 6:52 AM",,40.985152,-111.899709
 UT-Incident--179632,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","5/28/24, 6:51 AM","5/28/24, 8:00 AM","5/28/24, 6:51 AM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179631,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
+SB I-15 at MP 324 (Park Ln) Davis Co.
+Left Lane Closed
+Est. Clearance Time: 7:50 AM","5/28/24, 6:49 AM","5/28/24, 7:50 AM","5/28/24, 6:52 AM",,40.985152,-111.899709
 UT-Incident--179634,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Right Shoulder
 Est. Clearance Time: 8:10 AM","5/28/24, 7:03 AM","5/28/24, 8:10 AM","5/28/24, 7:03 AM",,40.846156,-111.91486
+UT-Incident--179635,Incidents,I-15 NB X300 Off 5300 S Ramp,Salt Lake County,I-15 NB X300 Off 5300 S Ramp at 5300 S,"Crash
+NB I-15 5300 S Off Ramp (MP 300) Salt Lake Co.
+Est. Clearance Time: 8:30 AM","5/28/24, 7:26 AM","5/28/24, 8:30 AM","5/28/24, 7:26 AM",,40.65268,-111.901349
