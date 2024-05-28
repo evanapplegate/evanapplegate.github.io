@@ -23609,7 +23609,6 @@ UT-Incident--179626,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 Ramp EB I-80 at MP 145 (Kimball Jct Exit) Summit Co.
 Right Shoulder
 Est. Clearance Time: 5:14 PM","5/27/24, 4:15 PM","5/27/24, 5:14 PM","5/27/24, 4:15 PM",,40.723073,-111.529346
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179627,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 NB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Right Shoulder
@@ -23623,3 +23622,4 @@ UT-Incident--179625,Incidents,I-80,Salt Lake County,I-80 at MP 107,"Crash
 WB I-80 Closed at 5600 W/MP 113
  Salt Lake Co.
 Use SR-201","5/27/24, 3:00 PM","5/27/24, 7:59 PM","5/27/24, 5:02 PM",,40.770886,-112.143879
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
