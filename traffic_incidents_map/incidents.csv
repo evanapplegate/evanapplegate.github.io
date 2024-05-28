@@ -23652,15 +23652,27 @@ UT-Incident--179635,Incidents,I-15 NB X300 Off 5300 S Ramp,Salt Lake County,I-15
 NB I-15 5300 S Off Ramp (MP 300) Salt Lake Co.
 Est. Clearance Time: 8:30 AM","5/28/24, 7:26 AM","5/28/24, 8:30 AM","5/28/24, 7:26 AM",,40.65268,-111.901349
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179631,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 SB I-15 at MP 324 (Park Ln) Davis Co.
 Cleared Expect risidual delay","5/28/24, 6:49 AM","5/28/24, 8:50 AM","5/28/24, 7:59 AM",,40.985152,-111.899709
-UT-Incident--179640,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
-NB I-15 at MP 302 (4100 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 9:30 AM","5/28/24, 8:26 AM","5/28/24, 9:30 AM","5/28/24, 8:26 AM",,40.679062,-111.902181
 UT-Incident--179639,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:20 AM","5/28/24, 8:19 AM","5/28/24, 9:20 AM","5/28/24, 8:19 AM",,40.72606,-111.962907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179642,Incidents,3300 S,Salt Lake County,3300 S 880,"Crash
+WB 3300 S at 880 W  Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:35 AM","5/28/24, 8:35 AM","5/28/24, 9:35 AM","5/28/24, 8:35 AM",,40.699464,-111.917065
+UT-Incident--179640,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:30 AM","5/28/24, 8:26 AM","5/28/24, 9:30 AM","5/28/24, 8:43 AM",,40.679062,-111.902181
+UT-Incident--179641,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
+NB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 9:30 AM","5/28/24, 8:30 AM","5/28/24, 9:30 AM","5/28/24, 8:30 AM",,40.215696,-111.665414
+UT-Incident--179643,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:40 AM","5/28/24, 8:39 AM","5/28/24, 9:40 AM","5/28/24, 8:39 AM",,40.664677,-111.90152
