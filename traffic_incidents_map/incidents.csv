@@ -23670,7 +23670,6 @@ UT-Incident--179640,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:00 AM","5/28/24, 8:26 AM","5/28/24, 10:00 AM","5/28/24, 9:27 AM",,40.679062,-111.902181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179642,Incidents,3300 S,Salt Lake County,3300 S 880,"Crash
 WB 3300 S at 880 W  Salt Lake Co.
 Right Lane Closed
@@ -23691,7 +23690,12 @@ UT-Incident--179647,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:25 AM","5/28/24, 9:26 AM","5/28/24, 10:25 AM","5/28/24, 9:26 AM",,40.679062,-111.902181
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179649,Incidents,Center St,Sevier County,Center St at Main St,"Crash
+SB Center St at Main St Sevier Co.
+SB Right Lane Closed, EB Center St Closed
+Est. Clearance Time: 11:09 AM","5/28/24, 10:11 AM","5/28/24, 11:09 AM","5/28/24, 10:11 AM",,38.768068,-112.084762
 UT-Incident--179648,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 3 Left Lanes Closed
-Est. Clearance Time: 10:45 AM","5/28/24, 9:46 AM","5/28/24, 10:45 AM","5/28/24, 9:47 AM",,40.592858,-111.902495
+Est. Clearance Time: 10:45 AM","5/28/24, 9:46 AM","5/28/24, 10:45 AM","5/28/24, 10:12 AM",,40.592858,-111.902495
