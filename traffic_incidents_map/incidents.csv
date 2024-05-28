@@ -23724,7 +23724,6 @@ Est. Clearance Time: 3:00 PM","5/28/24, 1:54 PM","5/28/24, 3:00 PM","5/28/24, 1:
 UT-Incident--179657,Incidents,12TH ST,Weber County,12TH ST at WASHINGTON BLVD,"Crash
 WB 12th St at Adams Ave Weber Co.
 Est. Clearance Time: 3:30 PM","5/28/24, 2:30 PM","5/28/24, 3:30 PM","5/28/24, 2:32 PM",,41.244184,-111.968323
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179659,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 Off Ramp (400 S / Springville) Utah Co.
 Left Shoulder
@@ -23741,3 +23740,15 @@ UT-Incident--179662,Incidents,SR 203,Weber County,SR 203 at MP 2,"Crash
 NB SR 203 at MP 2 (S Ogden) Weber Co.
 Right Shoulder
 Est. Clearance Time: 4:45 PM","5/28/24, 3:39 PM","5/28/24, 4:45 PM","5/28/24, 3:39 PM",,41.182133,-111.949127
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179663,Incidents,HILL FIELD RD,Davis County,HILL FIELD RD 2477,"Crash
+SB Hill Field Rd at 2600 N (Layton) Davis Co.
+Est. Clearance Time: 5:00 PM","5/28/24, 4:07 PM","5/28/24, 5:00 PM","5/28/24, 4:09 PM",,41.10114,-111.973423
+UT-Incident--179664,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:35 PM","5/28/24, 4:12 PM","5/28/24, 5:35 PM","5/28/24, 4:12 PM",,40.664677,-111.90152
+UT-Incident--179665,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
+EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 5:30 PM","5/28/24, 4:23 PM","5/28/24, 5:30 PM","5/28/24, 4:23 PM",,40.64406,-111.929407
