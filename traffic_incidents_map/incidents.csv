@@ -23715,7 +23715,11 @@ Both Directions 500 N at Main St  Wasatch Co.
 SB Main St Closed, NB Left lane Closed
 Est. Clearance Time: 1:00 PM","5/28/24, 10:47 AM","5/28/24, 1:00 PM","5/28/24, 11:08 AM",,40.514716,-111.413141
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179655,Incidents,Main St,Wasatch County,Main St 400,"Crash
 SB Main St at 400 S (Wasatch Co)
 Est. Clearance Time: 2:25 PM","5/28/24, 1:23 PM","5/28/24, 2:25 PM","5/28/24, 1:24 PM",,40.499309,-111.413425
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179656,Incidents,2700 N,Weber County,2700 N at US 89,"Crash
+EB 2700 N at US 89 Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 3:00 PM","5/28/24, 1:54 PM","5/28/24, 3:00 PM","5/28/24, 1:54 PM",,41.30684,-112.00464
