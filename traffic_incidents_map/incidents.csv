@@ -23823,7 +23823,6 @@ NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:33 AM","5/29/24, 7:34 AM","5/29/24, 8:33 AM","5/29/24, 7:37 AM",,40.722344,-111.904691
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179686,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -23832,6 +23831,23 @@ UT-Incident--179687,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
 SB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:08 AM","5/29/24, 6:55 AM","5/29/24, 9:08 AM","5/29/24, 8:22 AM",,40.113661,-111.670965
+UT-Incident--179692,Incidents,I-80,Summit County,I-80 at MP 139,"Lane Closure
+WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
+Left Lane Closed
+Est. Clearance Time: 9:20 AM","5/29/24, 7:52 AM","5/29/24, 9:20 AM","5/29/24, 8:23 AM",,40.753891,-111.622581
+UT-Incident--179688,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Crash
+WB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 8:40 AM","5/29/24, 7:11 AM","5/29/24, 8:55 AM","5/29/24, 8:22 AM",,40.725733,-111.982034
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179695,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Center Lanes Closed
+Est. Clearance Time: 9:37 AM","5/29/24, 8:39 AM","5/29/24, 9:37 AM","5/29/24, 8:39 AM",,40.442142,-111.903011
+UT-Incident--179696,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
+SB I-15 at MP 335 (650 N Clearfield) Davis Co.
+Left Shoulder
+Est. Clearance Time: 9:42 AM","5/29/24, 8:43 AM","5/29/24, 9:42 AM","5/29/24, 8:43 AM",,41.114242,-112.014007
 UT-Incident--179694,Incidents,I-215 W,Salt Lake County,I-215 W at MP 16,"Stalled Vehicle
 NB I-215 W at MP 16 (3900 S) Salt Lake Co.
 Right Shoulder
@@ -23844,14 +23860,6 @@ UT-Incident--179691,Incidents,I-80,Summit County,I-80 at MP 139,"Vehicle on fire
 EB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 9:17 AM","5/29/24, 7:48 AM","5/29/24, 9:17 AM","5/29/24, 8:23 AM",,40.753891,-111.622581
-UT-Incident--179692,Incidents,I-80,Summit County,I-80 at MP 139,"Lane Closure
-WB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
-Left Lane Closed
-Est. Clearance Time: 9:20 AM","5/29/24, 7:52 AM","5/29/24, 9:20 AM","5/29/24, 8:23 AM",,40.753891,-111.622581
-UT-Incident--179688,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Crash
-WB SR 201 at MP 14 (3000 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:40 AM","5/29/24, 7:11 AM","5/29/24, 8:55 AM","5/29/24, 8:22 AM",,40.725733,-111.982034
 UT-Incident--179693,Incidents,Washington Blvd,Weber County,Washington Blvd at 22nd St,"Crash
 SB Washington Blvd at 22nd St Weber Co.
 Right Shoulder
