@@ -23777,7 +23777,6 @@ Est. Clearance Time: 6:45 PM","5/28/24, 5:35 PM","5/28/24, 6:45 PM","5/28/24, 5:
 UT-Incident--179674,Incidents,I-15,Washington County,I-15 at MP 13,"Vehicle on fire
 NB I-15 at MP 13 (Washington Pkwy) Washington Co.
 Est. Clearance Time: 6:45 PM","5/28/24, 5:41 PM","5/28/24, 6:45 PM","5/28/24, 5:41 PM",,37.145112,-113.493678
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179669,Incidents,I-15,Washington County,I-15 at MP 24,"Crash
 SB I-15 at MP 24 (1 mi NE of Leeds) Washington Co.
 Left Lane Closed
@@ -23801,3 +23800,4 @@ UT-Incident--179679,Incidents,SR 36,Tooele County,SR 36 at MP 62,"Crash
 SB SR 36 at MP 62 (Stansbury Park) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","5/28/24, 7:35 PM","5/28/24, 8:45 PM","5/28/24, 7:35 PM",,40.640314,-112.288239
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
