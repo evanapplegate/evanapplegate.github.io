@@ -23754,7 +23754,6 @@ UT-Incident--179667,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","5/28/24, 4:38 PM","5/28/24, 5:45 PM","5/28/24, 4:38 PM",,40.679062,-111.902181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179668,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB I-15 at MP 288 (14600 S Offramp) Salt Lake Co.
 Right Shoulder
@@ -23764,10 +23763,6 @@ EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","5/28/24, 4:23 PM","5/28/24, 5:30 PM","5/28/24, 4:45 PM",,40.64406,-111.929407
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179669,Incidents,I-15,Washington County,I-15 at MP 24,"Crash
-SB I-15 at MP 24 (1 mi NE of Leeds) Washington Co.
-Left Lane Closed
-Est. Clearance Time: 6:35 PM","5/28/24, 5:07 PM","5/28/24, 6:35 PM","5/28/24, 5:07 PM",,37.24681,-113.349129
 UT-Incident--179670,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S Collector) Salt Lake Co.
 Right Shoulder
@@ -23783,6 +23778,18 @@ Est. Clearance Time: 6:45 PM","5/28/24, 5:35 PM","5/28/24, 6:45 PM","5/28/24, 5:
 UT-Incident--179674,Incidents,I-15,Washington County,I-15 at MP 13,"Vehicle on fire
 NB I-15 at MP 13 (Washington Pkwy) Washington Co.
 Est. Clearance Time: 6:45 PM","5/28/24, 5:41 PM","5/28/24, 6:45 PM","5/28/24, 5:41 PM",,37.145112,-113.493678
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179669,Incidents,I-15,Washington County,I-15 at MP 24,"Crash
+SB I-15 at MP 24 (1 mi NE of Leeds) Washington Co.
+Left Lane Closed
+Est. Clearance Time: 6:35 PM","5/28/24, 5:07 PM","5/28/24, 6:35 PM","5/28/24, 5:07 PM",,37.24681,-113.349129
+UT-Incident--179676,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","5/28/24, 6:16 PM","5/28/24, 7:35 PM","5/28/24, 6:16 PM",,40.346539,-111.763778
+UT-Incident--179675,Incidents,SR 111,Salt Lake County,SR 111 at MP 8,"Crash
+Both Directions SR 111 at MP 8 (4100 S) Salt Lake Co.
+Est. Clearance Time: 7:00 PM","5/28/24, 5:46 PM","5/28/24, 7:00 PM","5/28/24, 5:46 PM",,40.68047,-112.091846
 UT-Incident--179671,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 Right Shoulder
