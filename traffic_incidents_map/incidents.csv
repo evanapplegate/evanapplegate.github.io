@@ -23858,16 +23858,17 @@ UT-Incident--179696,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 SB I-15 at MP 335 (650 N Clearfield) Davis Co.
 Left Shoulder
 Est. Clearance Time: 9:42 AM","5/29/24, 8:43 AM","5/29/24, 9:42 AM","5/29/24, 8:43 AM",,41.114242,-112.014007
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179697,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:43 AM","5/29/24, 8:59 AM","5/29/24, 10:43 AM","5/29/24, 9:58 AM",,40.747119,-111.724705
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179695,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
 Cleared at 10:21 AM
 Residual Delay","5/29/24, 8:39 AM","5/29/24, 10:37 AM","5/29/24, 10:22 AM",,40.442142,-111.903011
 UT-Incident--179698,Incidents,SR 77,Utah County,SR 77 at MP 4,"Crash
-Both Directions SR 77 at MP 4 (2000 W) Utah Co.
-Est. Clearance Time: 1:10 PM","5/29/24, 10:24 AM","5/29/24, 1:10 PM","5/29/24, 10:24 AM",,40.158356,-111.705575
+NB SR 77 at MP 4 (2000 W) Utah Co.
+NB 
+Est. Clearance Time: 1:10 PM","5/29/24, 10:24 AM","5/29/24, 1:10 PM","5/29/24, 10:31 AM",,40.158356,-111.705575
