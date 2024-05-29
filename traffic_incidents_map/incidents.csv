@@ -23762,7 +23762,6 @@ UT-Incident--179665,Incidents,I-215 S,Salt Lake County,I-215 S at MP 13,"Crash
 EB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","5/28/24, 4:23 PM","5/28/24, 5:30 PM","5/28/24, 4:45 PM",,40.64406,-111.929407
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179670,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S Collector) Salt Lake Co.
 Right Shoulder
@@ -23794,3 +23793,11 @@ UT-Incident--179671,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:35 PM","5/28/24, 5:29 PM","5/28/24, 6:35 PM","5/28/24, 5:29 PM",,40.329534,-111.619014
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179677,Incidents,I-15,Washington County,I-15 at MP 15,"Crash
+SB I-15 at MP 15 (2 mi NE of Washington) Washington Co.
+Est. Clearance Time: 8:45 PM","5/28/24, 6:37 PM","5/28/24, 8:45 PM","5/28/24, 7:26 PM",,37.161594,-113.465281
+UT-Incident--179679,Incidents,SR 36,Tooele County,SR 36 at MP 62,"Crash
+SB SR 36 at MP 62 (Stansbury Park) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","5/28/24, 7:35 PM","5/28/24, 8:45 PM","5/28/24, 7:35 PM",,40.640314,-112.288239
