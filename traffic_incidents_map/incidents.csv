@@ -23963,7 +23963,6 @@ UT-Incident--179728,Incidents,MOUNTAIN VIEW CORRIDOR HWY,Salt Lake County,MOUNTA
  at 13400 S Salt Lake Co.
 Use Alt Route","5/30/24, 12:25 AM","5/30/24, 6:00 AM","5/30/24, 3:23 AM",,40.507073,-112.004789
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179729,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 EB I-80 at MP 129 (Foothill / Parelys Way) Salt Lake Co.
 Right Shoulder
@@ -23972,3 +23971,8 @@ UT-Incident--179730,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Crash
 WB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:54 AM","5/30/24, 7:54 AM","5/30/24, 8:54 AM","5/30/24, 7:54 AM",,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179731,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+EB SR 201 at MP 14 (3000 W) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:54 AM","5/30/24, 8:55 AM","5/30/24, 9:54 AM","5/30/24, 8:55 AM",,40.72606,-111.962907
