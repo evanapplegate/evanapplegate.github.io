@@ -23910,7 +23910,6 @@ UT-Incident--179709,Incidents,SR 193,Davis County,SR 193 at MP 4,"Crash
 EB SR 193 at MP 4 (University Pk Blvd CFD) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","5/29/24, 4:32 PM","5/29/24, 5:30 PM","5/29/24, 4:32 PM",,41.101202,-111.938961
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179711,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 Right Shoulder
@@ -23943,3 +23942,4 @@ UT-Incident--179716,Incidents,SR 126,Weber County,SR 126 at MP 13,"Crash
 SB SR 126 at MP 13 (Clearfield) Weber Co.
 Left Lanes Closed
 Est. Clearance Time: 7:15 PM","5/29/24, 6:07 PM","5/29/24, 7:15 PM","5/29/24, 6:07 PM",,41.2237,-112.025626
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
