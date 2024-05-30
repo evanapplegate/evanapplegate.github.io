@@ -24039,11 +24039,15 @@ SB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","5/30/24, 4:24 PM","5/30/24, 5:35 PM","5/30/24, 4:31 PM",,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179751,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","5/30/24, 5:08 PM","5/30/24, 6:15 PM","5/30/24, 5:08 PM",,40.679062,-111.902181
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179753,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+NB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 6:30 PM","5/30/24, 5:26 PM","5/30/24, 6:30 PM","5/30/24, 5:26 PM",,40.431127,-111.890772
 UT-Incident--179752,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 WB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Left Shoulder
