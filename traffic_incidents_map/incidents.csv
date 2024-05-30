@@ -23985,13 +23985,16 @@ UT-Incident--179735,Incidents,I-215 S,Salt Lake County,I-215 S at MP 8,"Crash
 EB I-215 S at MP 8 (1300 E) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:18 AM","5/30/24, 9:18 AM","5/30/24, 10:18 AM","5/30/24, 9:18 AM",,40.631583,-111.839435
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179734,Incidents,I-15,Iron County,I-15 at MP 43,"Vehicle on fire
 NB I-15 at MP 43 (Kanarraville) Iron Co.
 Right Shoulder
 Est. Clearance Time: 10:16 AM","5/30/24, 9:17 AM","5/30/24, 10:16 AM","5/30/24, 9:46 AM",,37.494343,-113.217562
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179732,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 10:04 AM","5/30/24, 9:05 AM","5/30/24, 10:04 AM","5/30/24, 9:50 AM",,40.442142,-111.903011
+Cleared at 11:11 AM
+Est. Clearance Time: 10:04 AM","5/30/24, 9:05 AM","5/30/24, 10:04 AM","5/30/24, 11:11 AM",,40.442142,-111.903011
+UT-Incident--179737,Incidents,US 191,San Juan County,US 191 at MP 113,"Crash
+SB US 191 Closed at MP 113 (7 miles S of Moab) San Juan Co.
+Est. Clearance Time: 3:05 PM","5/30/24, 11:08 AM","5/30/24, 3:05 PM","5/30/24, 11:21 AM",,38.423885,-109.429154
