@@ -24031,7 +24031,6 @@ SB SR 172 at MP 9 (5800 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:00 PM","5/30/24, 3:57 PM","5/30/24, 5:00 PM","5/30/24, 3:57 PM",,40.769015,-112.02505
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179747,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
@@ -24040,3 +24039,7 @@ UT-Incident--179748,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 SB I-15 at MP 304 (2700 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","5/30/24, 4:24 PM","5/30/24, 5:35 PM","5/30/24, 4:31 PM",,40.707874,-111.90397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179750,Incidents,I-84,Box Elder County,I-84 at MP 9,"Crash
+EB I-84 at MP 9 (Snowville) Box Elder Co.
+Est. Clearance Time: 7:00 PM","5/30/24, 4:57 PM","5/30/24, 7:00 PM","5/30/24, 4:57 PM",,41.954697,-112.676162
