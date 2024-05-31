@@ -24148,11 +24148,15 @@ UT-Incident--179779,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:16 PM","5/31/24, 4:19 PM","5/31/24, 5:16 PM","5/31/24, 4:19 PM",,40.722344,-111.904691
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179781,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","5/31/24, 4:38 PM","5/31/24, 5:45 PM","5/31/24, 4:38 PM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179785,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+SB I-15 at MP 281 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:15 PM","5/31/24, 5:01 PM","5/31/24, 6:15 PM","5/31/24, 5:01 PM",,40.401041,-111.849765
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179780,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
 NB I-15 at MP 290 (13200 S) Salt Lake Co.
@@ -24162,10 +24166,10 @@ UT-Incident--179784,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","5/31/24, 4:55 PM","5/31/24, 6:00 PM","5/31/24, 4:55 PM",,40.39191,-111.835579
-UT-Incident--179785,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
-SB I-15 at MP 281 (Lehi) Utah Co.
+UT-Incident--179786,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
+SB I-15 at MP 271 (800 N / Orem) Utah Co.
 Left Shoulder
-Est. Clearance Time: 6:15 PM","5/31/24, 5:01 PM","5/31/24, 6:15 PM","5/31/24, 5:01 PM",,40.401041,-111.849765
+Est. Clearance Time: 6:20 PM","5/31/24, 5:20 PM","5/31/24, 6:20 PM","5/31/24, 5:20 PM",,40.301853,-111.72593
 UT-Incident--179782,Incidents,I-80 WB Fwy,Salt Lake County,I-80 WB Fwy at I-215e SB Fwy,"Crash
 Ramp From I-80 WB to I-215E SB Fwy Salt Lake Co.
 Est. Clearance Time: 5:45 PM","5/31/24, 4:44 PM","5/31/24, 5:45 PM","5/31/24, 4:44 PM",,40.711883,-111.800543
