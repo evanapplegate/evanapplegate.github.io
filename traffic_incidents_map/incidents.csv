@@ -24089,6 +24089,10 @@ WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:01 AM","5/31/24, 8:01 AM","5/31/24, 9:01 AM","5/31/24, 8:01 AM",,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179766,Incidents,Kearns Blvd,Summit County,Kearns Blvd at Monitor Dr,"Crash
+NB Kearns Blvd at Monitor Dr Summit Co.
+Right Lane Blocked
+Est. Clearance Time: 12:50 PM","5/31/24, 11:55 AM","5/31/24, 12:50 PM","5/31/24, 11:55 AM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179765,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
@@ -24098,7 +24102,3 @@ UT-Incident--179767,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Vehicle on f
 SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:20 PM","5/31/24, 12:18 PM","5/31/24, 1:20 PM","5/31/24, 12:22 PM",,40.467787,-111.911227
-UT-Incident--179766,Incidents,Kearns Blvd,Summit County,Kearns Blvd at Monitor Dr,"Crash
-NB Kearns Blvd at Monitor Dr Summit Co.
-Right Lane Blocked
-Est. Clearance Time: 12:50 PM","5/31/24, 11:55 AM","5/31/24, 12:50 PM","5/31/24, 11:55 AM",,0.0,0.0
