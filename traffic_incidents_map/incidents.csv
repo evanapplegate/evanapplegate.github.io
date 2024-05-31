@@ -24104,7 +24104,6 @@ UT-Incident--179768,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:40 PM","5/31/24, 12:40 PM","5/31/24, 1:40 PM","5/31/24, 12:40 PM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179769,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
@@ -24113,6 +24112,7 @@ UT-Incident--179771,Incidents,I-84,Weber County,I-84 at MP 87,"Crash
 WB I-84 at MP 87 (1900 S / South Weber) Weber Co.
 Right Shoulder
 Est. Clearance Time: 2:31 PM","5/31/24, 1:32 PM","5/31/24, 2:31 PM","5/31/24, 1:32 PM",,41.136622,-111.929104
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179765,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 SB I-15 at MP 279 (Main St, Lehi) Utah Co.
