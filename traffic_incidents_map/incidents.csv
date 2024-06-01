@@ -24196,7 +24196,6 @@ Est. Clearance Time: 10:00 PM","5/31/24, 8:44 PM","5/31/24, 10:00 PM","5/31/24, 
 UT-Incident--179796,Incidents,I-15,Juab County,I-15 at MP 233,"Crash
 SB I-15 at MP 233 (Mona) Juab Co.
 Est. Clearance Time: 10:45 PM","5/31/24, 9:28 PM","5/31/24, 10:45 PM","5/31/24, 9:28 PM",,39.81888,-111.833832
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179799,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 1700,"Crash
 SB Washington Blvd at 17th St Weber Co.
 Right Lane Closed
@@ -24206,10 +24205,11 @@ UT-Incident--179798,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 Onramp at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:45 PM","5/31/24, 10:35 PM","5/31/24, 11:45 PM","5/31/24, 10:35 PM",,40.52103,-111.891246
+UT-Incident--179797,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Est. Clearance Time: 11:00 PM","5/31/24, 9:51 PM","5/31/24, 11:00 PM","5/31/24, 9:51 PM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179800,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6/1/2024 1:00 AM","5/31/24, 11:22 PM","6/1/24, 1:00 AM","5/31/24, 11:22 PM",,40.480607,-111.902252
-UT-Incident--179797,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-WB I-215 S at MP 10 (State St) Salt Lake Co.
-Est. Clearance Time: 11:00 PM","5/31/24, 9:51 PM","5/31/24, 11:00 PM","5/31/24, 9:51 PM",,40.63036,-111.877391
