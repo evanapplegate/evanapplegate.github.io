@@ -24164,7 +24164,6 @@ UT-Incident--179786,Incidents,I-15,Utah County,I-15 at MP 271,"Crash
 SB I-15 at MP 271 (800 N / Orem) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:20 PM","5/31/24, 5:20 PM","5/31/24, 6:20 PM","5/31/24, 5:20 PM",,40.301853,-111.72593
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179780,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
 NB I-15 at MP 290 (13200 S) Salt Lake Co.
 Left Shoulder
@@ -24184,3 +24183,11 @@ Est. Clearance Time: 7:30 PM","5/31/24, 5:56 PM","5/31/24, 7:30 PM","5/31/24, 5:
 UT-Incident--179789,Incidents,SR 112,Tooele County,SR 112 at MP 5,"Crash
 SR 112 at MP 5 (1 mi E of Deseret Peak) Tooele Co.
 Est. Clearance Time: 7:20 PM","5/31/24, 6:21 PM","5/31/24, 7:20 PM","5/31/24, 6:21 PM",,40.558648,-112.351397
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179793,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 13400 S,"Crash
+SB Bangerter Hwy at 13400 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:45 PM","5/31/24, 7:38 PM","5/31/24, 8:45 PM","5/31/24, 7:38 PM",,40.5078,-111.982752
+UT-Incident--179792,Incidents,SR 204,Weber County,SR 204 at MP 4,"Crash
+NB SR 204 at MP 4 (700 S Ogden) Weber Co.
+Est. Clearance Time: 8:45 PM","5/31/24, 7:24 PM","5/31/24, 8:45 PM","5/31/24, 7:24 PM",,41.250631,-111.978077
