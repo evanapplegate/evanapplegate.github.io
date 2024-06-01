@@ -24237,7 +24237,6 @@ UT-Incident--179808,Incidents,US 89,Weber County,US 89 at 40th St,"Crash
 SB US 89 at 40th St Weber Co.
 Right Shoulder
 Est. Clearance Time: 12:10 PM","6/1/24, 11:13 AM","6/1/24, 12:10 PM","6/1/24, 11:13 AM",,0.0,0.0
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179809,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
@@ -24259,3 +24258,4 @@ UT-Incident--179812,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:40 PM","6/1/24, 1:37 PM","6/1/24, 2:40 PM","6/1/24, 1:37 PM",View on map,40.238135,-111.689206
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
