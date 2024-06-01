@@ -24207,7 +24207,7 @@ Est. Clearance Time: 11:45 PM","5/31/24, 10:35 PM","5/31/24, 11:45 PM","5/31/24,
 UT-Incident--179797,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Est. Clearance Time: 11:00 PM","5/31/24, 9:51 PM","5/31/24, 11:00 PM","5/31/24, 9:51 PM",,40.63036,-111.877391
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--179800,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
@@ -24216,10 +24216,10 @@ Est. Clearance Time: 6/1/2024 1:00 AM","5/31/24, 11:22 PM","6/1/24, 1:00 AM",,,4
 UT-Incident--179801,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Est. Clearance Time: 6/1/2024 12:37 AM","5/31/24, 11:39 PM","6/1/24, 12:37 AM",,,40.480607,-111.902252
-UT-Incident--179802,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
-WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
+UT-Incident--179802,Incidents,US 40,Summit County,US 40 at MP 5,"Crash
+WB US 40 at MP 5 (S of SR-248/ Park City) Summit Co.
 Left Lane Closed
-Est. Clearance Time: 6/1/2024 12:58 AM","5/31/24, 11:59 PM","6/1/24, 12:58 AM",,,40.721584,-111.490111
+Est. Clearance Time: 12:58 AM","5/31/24, 11:59 PM","6/1/24, 12:58 AM",,,40.669043,-111.45982
 UT-Incident--179803,Incidents,WASHINGTON BLVD,Weber County,WASHINGTON BLVD 500,"Crash
 SB Washington Blvd at 4th St Weber Co.
 Right Lane Closed
