@@ -24171,7 +24171,6 @@ Est. Clearance Time: 5:45 PM","5/31/24, 4:34 PM","5/31/24, 5:45 PM","5/31/24, 4:
 UT-Incident--179782,Incidents,I-80 WB Fwy,Salt Lake County,I-80 WB Fwy at I-215e SB Fwy,"Crash
 Ramp From I-80 WB to I-215E SB Fwy Salt Lake Co.
 Est. Clearance Time: 5:45 PM","5/31/24, 4:44 PM","5/31/24, 5:45 PM","5/31/24, 4:44 PM",,40.711883,-111.800543
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179788,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 2 Left Lanes Closed
@@ -24184,10 +24183,11 @@ UT-Incident--179789,Incidents,SR 112,Tooele County,SR 112 at MP 5,"Crash
 SR 112 at MP 5 (1 mi E of Deseret Peak) Tooele Co.
 Est. Clearance Time: 7:20 PM","5/31/24, 6:21 PM","5/31/24, 7:20 PM","5/31/24, 6:21 PM",,40.558648,-112.351397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179792,Incidents,SR 204,Weber County,SR 204 at MP 4,"Crash
+NB SR 204 at MP 4 (700 S Ogden) Weber Co.
+Est. Clearance Time: 8:45 PM","5/31/24, 7:24 PM","5/31/24, 8:45 PM","5/31/24, 7:24 PM",,41.250631,-111.978077
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179793,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 13400 S,"Crash
 SB Bangerter Hwy at 13400 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:45 PM","5/31/24, 7:38 PM","5/31/24, 8:45 PM","5/31/24, 7:38 PM",,40.5078,-111.982752
-UT-Incident--179792,Incidents,SR 204,Weber County,SR 204 at MP 4,"Crash
-NB SR 204 at MP 4 (700 S Ogden) Weber Co.
-Est. Clearance Time: 8:45 PM","5/31/24, 7:24 PM","5/31/24, 8:45 PM","5/31/24, 7:24 PM",,41.250631,-111.978077
