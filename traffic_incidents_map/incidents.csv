@@ -24335,15 +24335,14 @@ SB State St at 2100 N Utah Co.
 Right Lane Closed
 Est. Clearance Time: 2:00 PM","6/2/24, 12:55 PM","6/2/24, 2:00 PM","6/2/24, 12:55 PM",,40.412677,-111.872503
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179835,Incidents,SR 264,Sanpete County,SR 264 at MP 5,"Crash
 Both Directions SR 264 at MP 5 (5 MI from SR-31 Jct) Sanpete Co.
 Est. Clearance Time: 2:30 PM","6/2/24, 1:18 PM","6/2/24, 2:30 PM","6/2/24, 1:18 PM",,39.646762,-111.249131
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179837,Incidents,Taylorsville Expy,Salt Lake County,Taylorsville Expy at Redwood Rd,"Crash
-EB Taylorsville Expy at 1400 W Salt Lake Co.
-EB Closed
-Est. Clearance Time: 5:13 PM","6/2/24, 3:15 PM","6/2/24, 5:13 PM","6/2/24, 3:15 PM",,40.667846,-111.933889
+EB Taylorsville Expy at Redwood Rd Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:13 PM","6/2/24, 3:15 PM","6/2/24, 5:13 PM","6/2/24, 3:36 PM",,40.667846,-111.933889
 UT-Incident--179836,Incidents,US 189,Wasatch County,US 189 at MP 15,"Crash
-WB US 189 Closed
- at MP 15 (10 mi SW of Charleston) Wasatch Co.
-Use Alt Route","6/2/24, 2:27 PM","6/2/24, 3:30 PM","6/2/24, 3:17 PM",,40.375381,-111.556028
+WB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
+Left Lane Closed","6/2/24, 2:27 PM","6/2/24, 5:30 PM","6/2/24, 3:33 PM",,40.375381,-111.556028
