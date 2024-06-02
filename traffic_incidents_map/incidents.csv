@@ -24278,7 +24278,6 @@ UT-Incident--179819,Incidents,I-15,Utah County,I-15 at MP 242,"Crash
 SB I-15 at MP 242 (1 mi S of Santaquin) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:45 PM","6/1/24, 5:39 PM","6/1/24, 6:45 PM","6/1/24, 5:39 PM",View on map,39.945085,-111.807481
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179820,Incidents,5300 S,Salt Lake County,5300 S at State St,"Stalled Vehicle
 WB 5300 S at State St Salt Lake Co.
 Right Lane Closed
@@ -24292,3 +24291,8 @@ NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 7:35 PM","6/1/24, 6:26 PM","6/1/24, 7:35 PM","6/1/24, 6:26 PM",View on map,40.688869,-111.951947
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179823,Incidents,US 6,Utah County,US 6 at MP 178,"Crash
+Other US 6 at MP 178 (US-89, Spanish Fork) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 9:15 PM","6/1/24, 8:03 PM","6/1/24, 9:15 PM","6/1/24, 8:03 PM",View on map,40.081737,-111.586664
