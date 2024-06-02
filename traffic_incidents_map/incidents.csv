@@ -24298,7 +24298,6 @@ UT-Incident--179823,Incidents,US 6,Utah County,US 6 at MP 178,"Crash
 Other US 6 at MP 178 (US-89, Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 9:15 PM","6/1/24, 8:03 PM","6/1/24, 9:15 PM","6/1/24, 8:03 PM",View on map,40.081737,-111.586664
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179827,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
@@ -24307,6 +24306,7 @@ UT-Incident--179825,Incidents,I-80,Salt Lake County,I-80 at MP 130,"Crash
 EB I-80 at MP 130 (I-215 South Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:36 PM","6/1/24, 10:38 PM","6/1/24, 11:36 PM","6/1/24, 10:38 PM",View on map,40.7252,-111.771166
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179828,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
 WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
