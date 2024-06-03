@@ -24406,15 +24406,6 @@ WB I-215S Exit12 TO SB I-15 Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:39 PM","6/3/24, 12:42 PM","6/3/24, 1:39 PM","6/3/24, 12:42 PM",View on map,40.637251,-111.905223
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179857,Incidents,4100 S,Salt Lake County,4100 S 5875,"Crash
-WB 4100 S Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 4:19 PM","6/3/24, 3:21 PM","6/3/24, 4:19 PM","6/3/24, 3:40 PM",View on map,40.682049,-112.030953
-UT-Incident--179858,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Police incident
-WB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 4:38 PM","6/3/24, 3:39 PM","6/3/24, 4:38 PM","6/3/24, 3:45 PM",View on map,40.630157,-111.858352
 UT-Incident--179859,Incidents,US 89,Kane County,US 89 at MP 56,"Fire affecting roadway
 EB US 89 Closed
 at MP 56 (East of Kanab)
@@ -24424,3 +24415,12 @@ UT-Incident--179860,Incidents,US 89,Kane County,US 89 at MP 42,"Fire affecting r
 WB US 89 Closed
  at MP 42 (21 mi N of Kanab) Kane Co.
 Use Alt Route","6/3/24, 3:53 PM","6/3/24, 7:52 PM","6/3/24, 3:53 PM",View on map,37.083361,-112.15696
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179857,Incidents,4100 S,Salt Lake County,4100 S 5875,"Crash
+WB 4100 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:19 PM","6/3/24, 3:21 PM","6/3/24, 5:19 PM","6/3/24, 4:18 PM",View on map,40.682049,-112.030953
+UT-Incident--179858,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Police incident
+WB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:38 PM","6/3/24, 3:39 PM","6/3/24, 5:38 PM","6/3/24, 4:18 PM",View on map,40.630157,-111.858352
