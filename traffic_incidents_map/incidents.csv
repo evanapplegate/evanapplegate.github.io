@@ -24357,7 +24357,6 @@ SB Washington Blvd at 400 E (Ogden) Weber Co
 NB Left Lane Closed
 Est. Clearance Time: 8:27 PM","6/2/24, 7:32 PM","6/2/24, 8:27 PM","6/2/24, 8:04 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179842,Incidents,I-15,Utah County,I-15 at MP 258,"Crash
 NB I-15 at MP 258 (Spanish Fork) Utah Co.
 Right Shoulder
@@ -24366,3 +24365,4 @@ UT-Incident--179843,Incidents,I-15,Box Elder County,I-15 at MP 375,"Crash
 SB I-15 at MP 375 (Tremonton) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 11:35 PM","6/2/24, 10:35 PM","6/2/24, 11:35 PM","6/2/24, 10:35 PM",View on map,41.661735,-112.122622
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
