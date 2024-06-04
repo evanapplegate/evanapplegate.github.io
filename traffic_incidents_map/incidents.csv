@@ -24521,15 +24521,18 @@ NB I-15 Exit 260 400 S  Off Ramp Utah Co.
 Left Lane Blocked
 Est. Clearance Time: 11:15 AM","6/4/24, 9:59 AM","6/4/24, 11:15 AM","6/4/24, 9:59 AM",View on map,40.161225,-111.646537
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179891,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
+SB I-15 at MP 330 (Layton Pkwy) Davis Co.
+Est. Clearance Time: 1:55 PM","6/4/24, 12:52 PM","6/4/24, 1:55 PM","6/4/24, 12:52 PM",View on map,41.054659,-111.961089
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179889,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Left Lane Closed
-Est. Clearance Time: 1:15 PM","6/4/24, 12:15 PM","6/4/24, 1:15 PM","6/4/24, 12:15 PM",View on map,41.028688,-111.946853
+Est. Clearance Time: 1:15 PM","6/4/24, 12:15 PM","6/4/24, 1:15 PM","6/4/24, 12:15 PM",,41.028688,-111.946853
 UT-Incident--179890,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 1:40 PM","6/4/24, 12:36 PM","6/4/24, 1:40 PM","6/4/24, 12:36 PM",View on map,40.492398,-111.891485
-UT-Incident--179891,Incidents,I-15,Davis County,I-15 at MP 330,"Crash
-SB I-15 at MP 330 (Layton Pkwy) Davis Co.
-Est. Clearance Time: 1:55 PM","6/4/24, 12:52 PM","6/4/24, 1:55 PM","6/4/24, 12:52 PM",View on map,41.054659,-111.961089
+Left Lane Closed
+Est. Clearance Time: 1:40 PM","6/4/24, 12:36 PM","6/4/24, 1:40 PM","6/4/24, 1:06 PM",,40.492398,-111.891485
+UT-Incident--179892,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
+SB Washington Blvd at 40th St Weber Co.
+Est. Clearance Time: 2:10 PM","6/4/24, 1:09 PM","6/4/24, 2:10 PM","6/4/24, 1:09 PM",,41.190563,-111.97117
