@@ -24528,7 +24528,6 @@ SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 1:15 PM","6/4/24, 12:15 PM","6/4/24, 1:15 PM","6/4/24, 12:15 PM",,41.028688,-111.946853
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179890,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
@@ -24536,3 +24535,15 @@ Est. Clearance Time: 1:40 PM","6/4/24, 12:36 PM","6/4/24, 1:40 PM","6/4/24, 1:06
 UT-Incident--179892,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
 SB Washington Blvd at 40th St Weber Co.
 Est. Clearance Time: 2:10 PM","6/4/24, 1:09 PM","6/4/24, 2:10 PM","6/4/24, 1:09 PM",,41.190563,-111.97117
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179894,Incidents,1900 W,Weber County,1900 W at 21st St,"Crash
+SB 1900 W at 21st St Weber Co.
+Est. Clearance Time: 2:45 PM","6/4/24, 1:49 PM","6/4/24, 2:45 PM","6/4/24, 1:49 PM",View on map,0.0,0.0
+UT-Incident--179893,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 3:00 PM","6/4/24, 1:44 PM","6/4/24, 3:00 PM","6/4/24, 1:44 PM",View on map,40.736823,-111.90475
+UT-Incident--179896,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:15 PM","6/4/24, 2:01 PM","6/4/24, 3:15 PM","6/4/24, 2:01 PM",View on map,40.480607,-111.902252
