@@ -24485,7 +24485,6 @@ UT-Incident--179877,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 AM","6/4/24, 6:33 AM","6/4/24, 7:35 AM","6/4/24, 6:33 AM",View on map,40.688869,-111.951947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179878,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 WB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Center Lane Closed
@@ -24494,3 +24493,12 @@ Est. Clearance Time: 8:00 AM","6/4/24, 6:58 AM","6/4/24, 8:00 AM","6/4/24, 7:07 
 UT-Incident--179879,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"Crash
 NB Legacy Pkwy at MP 10 (W 1470 S, Farmington) Davis Co.
 Est. Clearance Time: 8:40 AM","6/4/24, 7:40 AM","6/4/24, 8:40 AM","6/4/24, 7:40 AM",View on map,40.957721,-111.892575
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179881,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+NB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Center Lane Closed
+Est. Clearance Time: 9:20 AM","6/4/24, 8:21 AM","6/4/24, 9:20 AM","6/4/24, 8:21 AM",View on map,40.431127,-111.890772
+UT-Incident--179882,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 9:30 AM","6/4/24, 8:22 AM","6/4/24, 9:30 AM","6/4/24, 8:22 AM",View on map,41.155128,-112.024901
