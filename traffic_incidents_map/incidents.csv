@@ -24534,7 +24534,6 @@ Est. Clearance Time: 1:40 PM","6/4/24, 12:36 PM","6/4/24, 1:40 PM","6/4/24, 1:06
 UT-Incident--179892,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
 SB Washington Blvd at 40th St Weber Co.
 Est. Clearance Time: 2:10 PM","6/4/24, 1:09 PM","6/4/24, 2:10 PM","6/4/24, 1:09 PM",,41.190563,-111.97117
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179894,Incidents,1900 W,Weber County,1900 W at 21st St,"Crash
 SB 1900 W at 21st St Weber Co.
 Est. Clearance Time: 2:45 PM","6/4/24, 1:49 PM","6/4/24, 2:45 PM","6/4/24, 1:49 PM",View on map,0.0,0.0
@@ -24553,3 +24552,11 @@ Est. Clearance Time: 3:00 PM","6/4/24, 1:44 PM","6/4/24, 3:00 PM","6/4/24, 2:37 
 UT-Incident--179898,Incidents,I-15,Iron County,I-15 at MP 57,"Vehicle on fire
 NB I-15 at MP 57 (Main St / Cedar City) Iron Co.
 Est. Clearance Time: 3:40 PM","6/4/24, 2:39 PM","6/4/24, 3:40 PM","6/4/24, 2:39 PM",View on map,37.65423,-113.082252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179900,Incidents,SR 126,Weber County,SR 126 at MP 10,"Crash
+SB SR 126 at MP 10 (Sunset) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 4:35 PM","6/4/24, 3:18 PM","6/4/24, 4:35 PM","6/4/24, 3:18 PM",View on map,41.180094,-112.02598
+UT-Incident--179899,Incidents,US 89,Weber County,US 89 at MP 417,"Crash
+NB US 89 at MP 417 (North St / Ogden) Weber Co.
+Est. Clearance Time: 4:15 PM","6/4/24, 3:10 PM","6/4/24, 4:15 PM","6/4/24, 3:10 PM",View on map,41.266167,-111.974068
