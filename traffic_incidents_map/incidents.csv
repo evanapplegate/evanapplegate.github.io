@@ -24422,7 +24422,6 @@ UT-Incident--179858,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Police i
 WB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:38 PM","6/3/24, 3:39 PM","6/3/24, 5:38 PM","6/3/24, 4:18 PM",View on map,40.630157,-111.858352
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179863,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
@@ -24432,10 +24431,6 @@ WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:40 PM","6/3/24, 5:41 PM","6/3/24, 6:40 PM","6/3/24, 5:41 PM",View on map,40.765772,-111.934049
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179857,Incidents,4100 S,Salt Lake County,4100 S 5875,"Crash
-WB 4100 S Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 7:55 PM","6/3/24, 3:21 PM","6/3/24, 7:55 PM","6/3/24, 6:26 PM",View on map,40.682049,-112.030953
 UT-Incident--179862,Incidents,I-15,Davis County,I-15 at MP 314,"Crash
 SB I-15 at MP 314 (Main St, NSL) Davis Co.
 Left Shoulder
@@ -24460,3 +24455,8 @@ UT-Incident--179868,Incidents,SR 118,Sevier County,SR 118 at MP 12,"Crash
 Both Directions SR 118 at MP 12 (2.5 MI of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 7:17 PM","6/3/24, 6:19 PM","6/3/24, 7:17 PM","6/3/24, 6:19 PM",View on map,38.713241,-112.105361
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179857,Incidents,4100 S,Salt Lake County,4100 S 5875,"Crash
+WB 4100 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:30 PM","6/3/24, 3:21 PM","6/3/24, 8:30 PM","6/3/24, 7:14 PM",View on map,40.682049,-112.030953
