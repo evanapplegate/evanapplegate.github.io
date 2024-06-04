@@ -24554,17 +24554,21 @@ Est. Clearance Time: 3:40 PM","6/4/24, 2:39 PM","6/4/24, 3:40 PM","6/4/24, 2:39 
 UT-Incident--179899,Incidents,US 89,Weber County,US 89 at MP 417,"Crash
 NB US 89 at MP 417 (North St / Ogden) Weber Co.
 Est. Clearance Time: 4:15 PM","6/4/24, 3:10 PM","6/4/24, 4:15 PM","6/4/24, 3:10 PM",View on map,41.266167,-111.974068
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179901,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","6/4/24, 3:42 PM","6/4/24, 5:00 PM","6/4/24, 3:42 PM",View on map,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179902,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
-NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 5:00 PM","6/4/24, 3:49 PM","6/4/24, 5:00 PM","6/4/24, 3:49 PM",View on map,40.817596,-111.917999
 UT-Incident--179900,Incidents,SR 126,Weber County,SR 126 at MP 10,"Crash
 SB SR 126 at MP 10 (Sunset) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 4:35 PM","6/4/24, 3:18 PM","6/4/24, 4:35 PM","6/4/24, 3:18 PM",View on map,41.180094,-112.02598
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179902,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:00 PM","6/4/24, 3:49 PM","6/4/24, 5:00 PM","6/4/24, 3:49 PM",View on map,40.817596,-111.917999
+UT-Incident--179903,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
+NB I-15 at MP 350 (Farr West) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 5:15 PM","6/4/24, 4:06 PM","6/4/24, 5:15 PM","6/4/24, 4:06 PM",View on map,41.315731,-112.026127
