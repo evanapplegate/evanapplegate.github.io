@@ -24527,7 +24527,6 @@ UT-Incident--179889,Incidents,I-15,Davis County,I-15 at MP 328,"Crash
 SB I-15 at MP 328 (200 N/SR-273) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 1:15 PM","6/4/24, 12:15 PM","6/4/24, 1:15 PM","6/4/24, 12:15 PM",,41.028688,-111.946853
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179890,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Left Lane Closed
@@ -24535,6 +24534,7 @@ Est. Clearance Time: 1:40 PM","6/4/24, 12:36 PM","6/4/24, 1:40 PM","6/4/24, 1:06
 UT-Incident--179892,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
 SB Washington Blvd at 40th St Weber Co.
 Est. Clearance Time: 2:10 PM","6/4/24, 1:09 PM","6/4/24, 2:10 PM","6/4/24, 1:09 PM",,41.190563,-111.97117
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179894,Incidents,1900 W,Weber County,1900 W at 21st St,"Crash
 SB 1900 W at 21st St Weber Co.
