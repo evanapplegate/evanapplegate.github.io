@@ -24567,11 +24567,6 @@ NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","6/4/24, 3:49 PM","6/4/24, 5:00 PM","6/4/24, 4:34 PM",View on map,40.817596,-111.917999
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179905,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
-Both Directions 1900 W at 5600 S Weber Co.
-Left Lane Closed
-Est. Clearance Time: 5:45 PM","6/4/24, 4:40 PM","6/4/24, 5:45 PM","6/4/24, 4:40 PM",View on map,41.160848,-112.026054
 UT-Incident--179903,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
 NB I-15 at MP 350 (Farr West) Weber Co.
 Left Lane Closed
@@ -24580,6 +24575,11 @@ UT-Incident--179904,Incidents,I-15,Davis County,I-15 at MP 325,"Crash
 SB I-15 at MP 325 (Shepard Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/4/24, 4:37 PM","6/4/24, 5:45 PM","6/4/24, 4:37 PM",View on map,40.994182,-111.914296
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179905,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
+Both Directions 1900 W at 5600 S Weber Co.
+Left Lane Closed
+Est. Clearance Time: 5:45 PM","6/4/24, 4:40 PM","6/4/24, 5:45 PM","6/4/24, 4:40 PM",View on map,41.160848,-112.026054
 UT-Incident--179906,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Left Lane Closed
@@ -24594,3 +24594,6 @@ Est. Clearance Time: 6:15 PM","6/4/24, 5:10 PM","6/4/24, 6:15 PM","6/4/24, 5:10 
 UT-Incident--179909,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
 US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 6:35 PM","6/4/24, 5:11 PM","6/4/24, 6:35 PM","6/4/24, 5:11 PM",View on map,40.018787,-111.496233
+UT-Incident--179910,Incidents,US 89,Weber County,US 89 at MP 418,"Crash
+US 89 at MP 418 (400 N / Ogden) Weber Co.
+Est. Clearance Time: 6:45 PM","6/4/24, 5:35 PM","6/4/24, 6:45 PM","6/4/24, 5:35 PM",View on map,41.27844,-111.983732
