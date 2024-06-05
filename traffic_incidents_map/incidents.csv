@@ -24741,7 +24741,6 @@ UT-Incident--179954,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","6/5/24, 4:16 PM","6/5/24, 5:35 PM","6/5/24, 4:16 PM",,40.337197,-111.749203
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179951,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
 NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
 Est. Clearance Time: 5:00 PM","6/5/24, 3:48 PM","6/5/24, 5:00 PM","6/5/24, 3:48 PM",,40.87142,-111.897275
@@ -24749,6 +24748,7 @@ UT-Incident--179956,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:28 PM","6/5/24, 4:29 PM","6/5/24, 5:28 PM","6/5/24, 4:29 PM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179957,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
