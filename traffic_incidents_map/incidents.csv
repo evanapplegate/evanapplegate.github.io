@@ -24566,7 +24566,6 @@ UT-Incident--179902,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","6/4/24, 3:49 PM","6/4/24, 5:00 PM","6/4/24, 4:34 PM",View on map,40.817596,-111.917999
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179903,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
 NB I-15 at MP 350 (Farr West) Weber Co.
 Left Lane Closed
@@ -24591,9 +24590,21 @@ Est. Clearance Time: 6:15 PM","6/4/24, 5:03 PM","6/4/24, 6:15 PM","6/4/24, 5:03 
 UT-Incident--179908,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
  US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
 Est. Clearance Time: 6:15 PM","6/4/24, 5:10 PM","6/4/24, 6:15 PM","6/4/24, 5:10 PM",View on map,40.328835,-111.637103
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179912,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Est. Clearance Time: 7:15 PM","6/4/24, 6:06 PM","6/4/24, 7:15 PM","6/4/24, 6:06 PM",,40.736823,-111.90475
+UT-Incident--179913,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 7:35 PM","6/4/24, 6:20 PM","6/4/24, 7:35 PM","6/4/24, 6:20 PM",,40.707874,-111.90397
+UT-Incident--179911,Incidents,I-80,Summit County,I-80 at MP 143,"Crash
+WB I-80 at MP 143 (Powderwood / Park City) Summit Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","6/4/24, 5:51 PM","6/4/24, 7:00 PM","6/4/24, 5:51 PM",,40.740161,-111.558358
 UT-Incident--179909,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
 US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
-Est. Clearance Time: 6:35 PM","6/4/24, 5:11 PM","6/4/24, 6:35 PM","6/4/24, 5:11 PM",View on map,40.018787,-111.496233
+Est. Clearance Time: 6:35 PM","6/4/24, 5:11 PM","6/4/24, 6:35 PM","6/4/24, 5:11 PM",,40.018787,-111.496233
 UT-Incident--179910,Incidents,US 89,Weber County,US 89 at MP 418,"Crash
 US 89 at MP 418 (400 N / Ogden) Weber Co.
-Est. Clearance Time: 6:45 PM","6/4/24, 5:35 PM","6/4/24, 6:45 PM","6/4/24, 5:35 PM",View on map,41.27844,-111.983732
+Est. Clearance Time: 6:45 PM","6/4/24, 5:35 PM","6/4/24, 6:45 PM","6/4/24, 5:35 PM",,41.27844,-111.983732
