@@ -24733,19 +24733,19 @@ UT-Incident--179950,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:20 PM","6/5/24, 3:21 PM","6/5/24, 4:20 PM","6/5/24, 3:22 PM",,40.346539,-111.763778
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179955,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:21 PM","6/5/24, 4:23 PM","6/5/24, 5:21 PM","6/5/24, 4:23 PM",,40.337197,-111.749203
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179951,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
-NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
-Est. Clearance Time: 5:00 PM","6/5/24, 3:48 PM","6/5/24, 5:00 PM","6/5/24, 3:48 PM",,40.87142,-111.897275
 UT-Incident--179954,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","6/5/24, 4:16 PM","6/5/24, 5:35 PM","6/5/24, 4:16 PM",,40.337197,-111.749203
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179951,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Est. Clearance Time: 5:00 PM","6/5/24, 3:48 PM","6/5/24, 5:00 PM","6/5/24, 3:48 PM",,40.87142,-111.897275
 UT-Incident--179956,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
