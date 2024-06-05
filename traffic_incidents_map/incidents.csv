@@ -24647,7 +24647,6 @@ UT-Incident--179925,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:25 AM","6/5/24, 7:02 AM","6/5/24, 8:25 AM","6/5/24, 8:00 AM",View on map,40.044918,-111.743767
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179924,Incidents,I-15,Salt Lake County,I-15 at MP 311,"Crash
 SB I-15 at Exit 311 (2300 N) Salt Lake Co.
 Right Lane of Exiit Ramp Closed
@@ -24663,16 +24662,21 @@ UT-Incident--179926,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Crash
 EB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
 Est. Clearance Time: 8:38 AM","6/5/24, 7:39 AM","6/5/24, 8:38 AM","6/5/24, 7:41 AM",,40.742835,-112.186308
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179930,Incidents,US 40,Uintah County,US 40 at 1500 S,"Crash
+All Directions US 40 at 1500 S Uintah Co.
+Est. Clearance Time: 9:30 AM","6/5/24, 8:26 AM","6/5/24, 9:30 AM","6/5/24, 8:26 AM",,40.433343,-109.572817
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179931,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 7800 S,"Vehicle on fire
 NB Bangerter Hwy at 7800 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:30 AM","6/5/24, 8:33 AM","6/5/24, 9:30 AM","6/5/24, 8:33 AM",,40.604695,-111.976686
+UT-Incident--179933,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:10 AM","6/5/24, 9:09 AM","6/5/24, 10:10 AM","6/5/24, 9:09 AM",,40.607173,-111.905403
 UT-Incident--179922,Incidents,I-70,Grand County,I-70 at MP 211,"WB I-70 Closed
  at MP 211 (20 mi W of UT/CO border) Grand Co.
 Use Alt Route","6/5/24, 5:17 AM","6/5/24, 10:00 AM","6/5/24, 8:44 AM",,39.000918,-109.318934
 UT-Incident--179928,Incidents,SR 65,Morgan County,SR 65 at MP 17,"Vehicle on fire
 Both Directions SR 65 at MP 17 (East Cyn Reservoir) Morgan Co.
 Est. Clearance Time: 9:21 AM","6/5/24, 8:22 AM","6/5/24, 9:21 AM","6/5/24, 8:22 AM",,40.898686,-111.58807
-UT-Incident--179930,Incidents,US 40,Uintah County,US 40 at 1500 S,"Crash
-All Directions US 40 at 1500 S Uintah Co.
-Est. Clearance Time: 9:30 AM","6/5/24, 8:26 AM","6/5/24, 9:30 AM","6/5/24, 8:26 AM",,40.433343,-109.572817
