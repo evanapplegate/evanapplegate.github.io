@@ -24737,7 +24737,6 @@ UT-Incident--179955,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:21 PM","6/5/24, 4:23 PM","6/5/24, 5:21 PM","6/5/24, 4:23 PM",,40.337197,-111.749203
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179954,Incidents,I-15,Utah County,I-15 at MP 274,"Crash
 SB I-15 at MP 274 (Lindon) Utah Co.
 Right Shoulder
@@ -24750,14 +24749,25 @@ UT-Incident--179956,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:28 PM","6/5/24, 4:29 PM","6/5/24, 5:28 PM","6/5/24, 4:29 PM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179957,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
+NB I-15 at MP 308 (N Temple) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","6/5/24, 4:49 PM","6/5/24, 6:00 PM","6/5/24, 4:49 PM",,40.763745,-111.914284
 UT-Incident--179953,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","6/5/24, 4:14 PM","6/5/24, 5:35 PM","6/5/24, 4:14 PM",,40.775011,-111.949343
+UT-Incident--179958,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
+SB I-215 W at MP 20 (California Ave) Salt Lake Co.
+Est. Clearance Time: 5:52 PM","6/5/24, 4:55 PM","6/5/24, 5:52 PM","6/5/24, 4:55 PM",,40.731947,-111.949915
 UT-Incident--179952,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Crash
 SB SR 36 at MP 63 (Mills Jct) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 5:15 PM","6/5/24, 4:02 PM","6/5/24, 5:15 PM","6/5/24, 4:18 PM",,40.654647,-112.289368
+UT-Incident--179959,Incidents,SR 36,Juab County,SR 36 at MP 6,"Crash
+SB SR 36 at MP 6 (TE/JU Co line) Juab Co.
+Est. Clearance Time: 6:04 PM","6/5/24, 5:05 PM","6/5/24, 6:04 PM","6/5/24, 5:05 PM",,39.955581,-112.241551
 UT-Incident--179945,Incidents,US 191,Daggett County,US 191 at MP 391,"Crash
 Both Directions US 191 at MP 391 (Flaming Gorge Rec Area) Daggett Co.
 Est. Clearance Time: 3:56 PM","6/5/24, 1:57 PM","6/5/24, 3:56 PM","6/5/24, 3:10 PM",,40.894447,-109.446802
