@@ -24574,7 +24574,6 @@ UT-Incident--179904,Incidents,I-15,Davis County,I-15 at MP 325,"Crash
 SB I-15 at MP 325 (Shepard Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/4/24, 4:37 PM","6/4/24, 5:45 PM","6/4/24, 4:37 PM",View on map,40.994182,-111.914296
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179905,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
 Both Directions 1900 W at 5600 S Weber Co.
 Left Lane Closed
@@ -24608,3 +24607,7 @@ Est. Clearance Time: 6:35 PM","6/4/24, 5:11 PM","6/4/24, 6:35 PM","6/4/24, 5:11 
 UT-Incident--179910,Incidents,US 89,Weber County,US 89 at MP 418,"Crash
 US 89 at MP 418 (400 N / Ogden) Weber Co.
 Est. Clearance Time: 6:45 PM","6/4/24, 5:35 PM","6/4/24, 6:45 PM","6/4/24, 5:35 PM",,41.27844,-111.983732
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179914,Incidents,SR 13,Box Elder County,SR 13 at MP 8,"Crash
+SR 13 at MP 8 (Corinne) Box Elder Co.
+Est. Clearance Time: 8:00 PM","6/4/24, 6:56 PM","6/4/24, 8:00 PM","6/4/24, 6:56 PM",View on map,41.550437,-112.108195
