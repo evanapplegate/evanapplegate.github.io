@@ -24718,7 +24718,6 @@ UT-Incident--179943,Incidents,Hill Field Rd,Davis County,Hill Field Rd 850 N,"Cr
 WB Hill Field Rd at 850 N  (Davis Co)
 Center Lanes Closed
 Est. Clearance Time: 3:35 PM","6/5/24, 1:39 PM","6/5/24, 3:35 PM","6/5/24, 2:13 PM",,41.073382,-111.977609
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179947,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Right Shoulder
@@ -24726,6 +24725,7 @@ Est. Clearance Time: 3:30 PM","6/5/24, 2:27 PM","6/5/24, 3:30 PM","6/5/24, 2:27 
 UT-Incident--179946,Incidents,US 6,Millard County,US 6 at MP 96,"Both Directions US 6 Closed
  at MP 96 (6 Mi E of Delta) Millard Co.
 Use Alt Route","6/5/24, 2:12 PM","6/5/24, 3:41 PM","6/5/24, 3:10 PM",,39.420125,-112.477453
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179949,Incidents,I-15,Box Elder County,I-15 at MP 365,"Crash
 NB I-15 at MP 365 (Brigham City) Box Elder Co.
