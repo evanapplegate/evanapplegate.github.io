@@ -24748,7 +24748,6 @@ UT-Incident--179956,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:28 PM","6/5/24, 4:29 PM","6/5/24, 5:28 PM","6/5/24, 4:29 PM",,40.777705,-111.910735
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179957,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
@@ -24758,13 +24757,20 @@ SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:35 PM","6/5/24, 4:14 PM","6/5/24, 5:35 PM","6/5/24, 4:14 PM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179958,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
-SB I-215 W at MP 20 (California Ave) Salt Lake Co.
-Est. Clearance Time: 5:52 PM","6/5/24, 4:55 PM","6/5/24, 5:52 PM","6/5/24, 4:55 PM",,40.731947,-111.949915
 UT-Incident--179952,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Crash
 SB SR 36 at MP 63 (Mills Jct) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 5:15 PM","6/5/24, 4:02 PM","6/5/24, 5:15 PM","6/5/24, 4:18 PM",,40.654647,-112.289368
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179961,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 13400 S,"Signal problems
+All Directions Bangerter Hwy at 13400 S Salt Lake Co.
+Est. Clearance Time: 6:29 PM","6/5/24, 5:31 PM","6/5/24, 6:29 PM","6/5/24, 5:31 PM",,40.5078,-111.982752
+UT-Incident--179958,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
+SB I-215 W at MP 20 (California Ave) Salt Lake Co.
+Est. Clearance Time: 5:52 PM","6/5/24, 4:55 PM","6/5/24, 5:52 PM","6/5/24, 4:55 PM",,40.731947,-111.949915
+UT-Incident--179960,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 8,"Signal problems
+All Directions Mountain View Corr at MP 8 (13200 S) Salt Lake Co.
+Est. Clearance Time: 7:00 PM","6/5/24, 5:31 PM","6/5/24, 7:00 PM","6/5/24, 5:31 PM",,40.509227,-112.003732
 UT-Incident--179959,Incidents,SR 36,Juab County,SR 36 at MP 6,"Crash
 SB SR 36 at MP 6 (TE/JU Co line) Juab Co.
 Est. Clearance Time: 6:04 PM","6/5/24, 5:05 PM","6/5/24, 6:04 PM","6/5/24, 5:05 PM",,39.955581,-112.241551
