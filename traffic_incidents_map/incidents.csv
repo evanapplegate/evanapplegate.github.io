@@ -24783,23 +24783,27 @@ UT-Incident--179964,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:45 PM","6/5/24, 6:36 PM","6/5/24, 7:45 PM","6/5/24, 6:36 PM",,40.724124,-111.943886
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179966,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:15 PM","6/5/24, 7:07 PM","6/5/24, 8:15 PM","6/5/24, 7:07 PM",,41.114242,-112.014007
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179965,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Road Damage
-Hard Closure NB I-15 at MP 297 (7200 S)  Closing Down NB I-15 Collector due to Road Buckling  (Salt Lake Co.)
-Est. Clearance Time: 9:00 PM","6/5/24, 6:54 PM","6/6/24, 10:00 AM","6/5/24, 8:22 PM",,40.607173,-111.905403
-UT-Incident--179968,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
-NB I-15 at MP 306 (1300 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 9:15 PM","6/5/24, 8:08 PM","6/5/24, 9:15 PM","6/5/24, 8:08 PM",,40.736823,-111.90475
-UT-Incident--179967,Incidents,I-80,Tooele County,I-80 at MP 10,"Medical
-WB I-80 at MP 10 (8 mi E of Wendover) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 8:48 PM","6/5/24, 7:50 PM","6/5/24, 8:48 PM","6/5/24, 7:50 PM",,40.739475,-113.855764
 UT-Incident--179945,Incidents,US 191,Daggett County,US 191 at MP 391,"Crash
 Both Directions US 191 at MP 391 (Flaming Gorge Rec Area) Daggett Co.
 Est. Clearance Time: 3:56 PM","6/5/24, 1:57 PM","6/5/24, 3:56 PM","6/5/24, 3:10 PM",,40.894447,-109.446802
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179965,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Road Damage
+Hard Closure NB I-15 at MP 297 (7200 S)  Closing Down NB I-15 Collector due to Road Buckling  (Salt Lake Co.)
+Est. Clearance Time: 9:00 PM","6/5/24, 6:54 PM","6/6/24, 10:00 AM","6/5/24, 8:22 PM",View on map,40.607173,-111.905403
+UT-Incident--179968,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:15 PM","6/5/24, 8:08 PM","6/5/24, 9:15 PM","6/5/24, 8:08 PM",View on map,40.736823,-111.90475
+UT-Incident--179967,Incidents,I-80,Tooele County,I-80 at MP 10,"Medical
+WB I-80 at MP 10 (8 mi E of Wendover) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 8:48 PM","6/5/24, 7:50 PM","6/5/24, 8:48 PM","6/5/24, 7:50 PM",View on map,40.739475,-113.855764
+UT-Incident--179970,Incidents,I-80,Salt Lake County,I-80 at MP 104,"Stalled Vehicle
+WB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:40 PM","6/5/24, 8:41 PM","6/5/24, 9:40 PM","6/5/24, 8:41 PM",View on map,40.742835,-112.186308
