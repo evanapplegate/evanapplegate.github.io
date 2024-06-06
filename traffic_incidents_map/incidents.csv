@@ -24894,7 +24894,6 @@ UT-Incident--179995,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
 WB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:17 PM","6/6/24, 4:19 PM","6/6/24, 5:17 PM","6/6/24, 4:19 PM",View on map,40.725537,-111.91064
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180001,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 EB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Shoulder
@@ -24915,6 +24914,11 @@ Est. Clearance Time: 5:26 PM","6/6/24, 4:27 PM","6/6/24, 5:26 PM","6/6/24, 4:27 
 UT-Incident--180002,Incidents,Midland Dr,Weber County,Midland Dr at 4000 S,"Crash
 Both Directions Midland Dr at 4000 S Weber Co.
 Est. Clearance Time: 6:35 PM","6/6/24, 5:19 PM","6/6/24, 6:35 PM","6/6/24, 5:19 PM",,41.190637,-112.048311
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180004,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:45 PM","6/6/24, 5:36 PM","6/6/24, 6:45 PM","6/6/24, 5:36 PM",,40.480607,-111.902252
 UT-Incident--180003,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 5,"Crash
 SB Mountain View Corr at MP 5 (3600 W) Salt Lake Co.
 Est. Clearance Time: 6:23 PM","6/6/24, 5:26 PM","6/6/24, 6:23 PM","6/6/24, 5:26 PM",,40.47514,-111.976075
