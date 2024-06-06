@@ -24886,7 +24886,6 @@ EB Off Ramp I-80 at 1300 E / Sugar House
 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:02 PM","6/6/24, 4:04 PM","6/6/24, 5:02 PM","6/6/24, 4:04 PM",View on map,40.717537,-111.836246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179992,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
@@ -24896,22 +24895,26 @@ WB SR 201 at MP 17 (at I-15) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:17 PM","6/6/24, 4:19 PM","6/6/24, 5:17 PM","6/6/24, 4:19 PM",View on map,40.725537,-111.91064
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179998,Incidents,I-15,Davis County,I-15 at MP 319,"Vehicle on fire
-SB I-15 at MP 319 (Parrish Ln) Davis Co.
-Right Shoulder
-Est. Clearance Time: 5:34 PM","6/6/24, 4:35 PM","6/6/24, 5:34 PM","6/6/24, 4:35 PM",View on map,40.914229,-111.891449
-UT-Incident--179999,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-WB I-215 S at MP 10 (State St) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:45 PM","6/6/24, 4:39 PM","6/6/24, 5:45 PM","6/6/24, 4:39 PM",View on map,40.63036,-111.877391
 UT-Incident--180001,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 EB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/6/24, 4:49 PM","6/6/24, 5:47 PM","6/6/24, 4:49 PM",View on map,40.634373,-111.895376
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179998,Incidents,I-15,Davis County,I-15 at MP 319,"Vehicle on fire
+SB I-15 at MP 319 (Parrish Ln) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:34 PM","6/6/24, 4:35 PM","6/6/24, 5:34 PM","6/6/24, 4:35 PM",,40.914229,-111.891449
+UT-Incident--179999,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","6/6/24, 4:39 PM","6/6/24, 5:45 PM","6/6/24, 4:39 PM",,40.63036,-111.877391
 UT-Incident--179997,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 SB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 5:26 PM","6/6/24, 4:27 PM","6/6/24, 5:26 PM","6/6/24, 4:27 PM",View on map,40.731947,-111.949915
+Est. Clearance Time: 5:26 PM","6/6/24, 4:27 PM","6/6/24, 5:26 PM","6/6/24, 4:27 PM",,40.731947,-111.949915
 UT-Incident--180002,Incidents,Midland Dr,Weber County,Midland Dr at 4000 S,"Crash
 Both Directions Midland Dr at 4000 S Weber Co.
-Est. Clearance Time: 6:35 PM","6/6/24, 5:19 PM","6/6/24, 6:35 PM","6/6/24, 5:19 PM",View on map,41.190637,-112.048311
+Est. Clearance Time: 6:35 PM","6/6/24, 5:19 PM","6/6/24, 6:35 PM","6/6/24, 5:19 PM",,41.190637,-112.048311
+UT-Incident--180003,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 5,"Crash
+SB Mountain View Corr at MP 5 (3600 W) Salt Lake Co.
+Est. Clearance Time: 6:23 PM","6/6/24, 5:26 PM","6/6/24, 6:23 PM","6/6/24, 5:26 PM",,40.47514,-111.976075
