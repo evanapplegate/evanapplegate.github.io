@@ -24763,7 +24763,6 @@ Est. Clearance Time: 5:15 PM","6/5/24, 4:02 PM","6/5/24, 5:15 PM","6/5/24, 4:18 
 UT-Incident--179958,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 SB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Est. Clearance Time: 5:52 PM","6/5/24, 4:55 PM","6/5/24, 5:52 PM","6/5/24, 4:55 PM",,40.731947,-111.949915
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179961,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 13400 S,"Signal problems
 All Directions Bangerter Hwy at 13400 S Salt Lake Co.
 Est. Clearance Time: 6:29 PM","6/5/24, 5:31 PM","6/5/24, 6:29 PM","6/5/24, 5:31 PM",,40.5078,-111.982752
@@ -24781,6 +24780,11 @@ UT-Incident--179962,Incidents,SR 73,Utah County,SR 73 at MP 31,"Crash
 Both Directions SR 73 at MP 31 (6 Mile Rd, Eagle Mountain) Utah Co.
 Est. Clearance Time: 7:00 PM","6/5/24, 6:00 PM","6/5/24, 7:00 PM","6/5/24, 6:00 PM",,40.37403,-112.017109
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179964,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:45 PM","6/5/24, 6:36 PM","6/5/24, 7:45 PM","6/5/24, 6:36 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179965,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Road Damage
 Hard Closure NB I-15 at MP 297 (7200 S)  Closing Down NB I-15 Collector due to Road Buckling  (Salt Lake Co.)
 Est. Clearance Time: 9:00 PM","6/5/24, 6:54 PM","6/6/24, 10:00 AM","6/5/24, 6:56 PM",,40.607173,-111.905403
@@ -24788,10 +24792,14 @@ UT-Incident--179966,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 8:15 PM","6/5/24, 7:07 PM","6/5/24, 8:15 PM","6/5/24, 7:07 PM",,41.114242,-112.014007
-UT-Incident--179964,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
-WB SR 201 at MP 15 (1300 W) Salt Lake Co.
+UT-Incident--179968,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 7:45 PM","6/5/24, 6:36 PM","6/5/24, 7:45 PM","6/5/24, 6:36 PM",,40.724124,-111.943886
+Est. Clearance Time: 9:15 PM","6/5/24, 8:08 PM","6/5/24, 9:15 PM","6/5/24, 8:08 PM",,40.736823,-111.90475
+UT-Incident--179967,Incidents,I-80,Tooele County,I-80 at MP 10,"Medical
+WB I-80 at MP 10 (8 mi E of Wendover) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 8:48 PM","6/5/24, 7:50 PM","6/5/24, 8:48 PM","6/5/24, 7:50 PM",,40.739475,-113.855764
 UT-Incident--179945,Incidents,US 191,Daggett County,US 191 at MP 391,"Crash
 Both Directions US 191 at MP 391 (Flaming Gorge Rec Area) Daggett Co.
 Est. Clearance Time: 3:56 PM","6/5/24, 1:57 PM","6/5/24, 3:56 PM","6/5/24, 3:10 PM",,40.894447,-109.446802
