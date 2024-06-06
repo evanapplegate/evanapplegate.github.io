@@ -24854,7 +24854,6 @@ Est. Clearance Time: 3:35 PM","6/6/24, 2:10 PM","6/6/24, 3:35 PM","6/6/24, 2:10 
 UT-Incident--179988,Incidents,I-15,Weber County,I-15 at MP 339,"Stalled Vehicle
 NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co. Right Lane Closed
 Est. Clearance Time: 3:35 PM","6/6/24, 2:19 PM","6/6/24, 3:35 PM","6/6/24, 2:19 PM",View on map,41.169225,-112.020449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179991,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
 Right Shoulder
@@ -24864,14 +24863,15 @@ SB I-215 W at MP 15 (4700 S) Salt Lake Co.
 3 Left Lanes Closed
 Est. Clearance Time: 11:30 AM","6/6/24, 10:28 AM","6/6/24, 4:00 PM","6/6/24, 3:14 PM",,40.659924,-111.952783
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--179990,Incidents,I-15,Iron County,I-15 at MP 44,"Vehicle on fire
-NB I-15 at MP 44 (Kanarraville) Iron Co.
-Right Shoulder
-Est. Clearance Time: 4:13 PM","6/6/24, 3:14 PM","6/6/24, 4:13 PM","6/6/24, 3:14 PM",,37.508507,-113.213733
 UT-Incident--179983,Incidents,I-215 S,Salt Lake County,I-215 S at MP 14,"Crash
 NB I-215 S at MP 14 (5100 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:00 PM","6/6/24, 10:30 AM","6/6/24, 4:00 PM","6/6/24, 3:14 PM",,40.646306,-111.947981
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--179990,Incidents,I-15,Iron County,I-15 at MP 44,"Vehicle on fire
+NB I-15 at MP 44 (Kanarraville) Iron Co.
+Right Shoulder
+Est. Clearance Time: 4:13 PM","6/6/24, 3:14 PM","6/6/24, 4:13 PM","6/6/24, 3:14 PM",,,
 UT-Incident--179992,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
@@ -24885,6 +24885,10 @@ EB Off Ramp I-80 at 1300 E / Sugar House
 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:02 PM","6/6/24, 4:04 PM","6/6/24, 5:02 PM","6/6/24, 4:04 PM",,40.717537,-111.836246
+UT-Incident--179995,Incidents,SR 201,Salt Lake County,SR 201 at MP 17,"Crash
+WB SR 201 at MP 17 (at I-15) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:17 PM","6/6/24, 4:19 PM","6/6/24, 5:17 PM","6/6/24, 4:19 PM",,40.725537,-111.91064
 UT-Incident--179986,Incidents,SR 257,Beaver County,SR 257 at MP 5,"Crash
 Both Directions SR 257 at MP 5 (5 MI N of Milford) Beaver Co.
 Est. Clearance Time: 4:00 PM","6/6/24, 1:34 PM","6/6/24, 4:00 PM","6/6/24, 3:16 PM",,38.467668,-112.99789
