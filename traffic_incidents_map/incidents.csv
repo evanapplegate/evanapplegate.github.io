@@ -25052,11 +25052,11 @@ UT-Incident--180045,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:21 PM","6/7/24, 3:22 PM","6/7/24, 4:21 PM","6/7/24, 3:22 PM",,40.719771,-111.855009
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180053,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","6/7/24, 4:05 PM","6/7/24, 5:15 PM",,,40.751955,-111.569589
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed
@@ -25077,6 +25077,10 @@ UT-Incident--180054,Incidents,I-80,Tooele County,I-80 at MP 4,"Crash
 WB I-80 at MP 4 (2 mi E of Wendover) Tooele Co.
 Center Lane Closed
 Est. Clearance Time: 5:08 PM","6/7/24, 4:09 PM","6/7/24, 5:08 PM",,,40.742165,-113.97017
+UT-Incident--180056,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
+WB SR 201 at MP 16 (900 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:40 PM","6/7/24, 4:42 PM","6/7/24, 5:40 PM",,,40.724236,-111.924637
 UT-Incident--180049,Incidents,SR 36,Tooele County,SR 36 at MP 62,"Crash
 SB SR 36 at MP 62 (Stansbury Park) Tooele Co.
 Right Shoulder
