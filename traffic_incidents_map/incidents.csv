@@ -25036,7 +25036,6 @@ Est. Clearance Time: 2:25 PM","6/7/24, 1:26 PM","6/7/24, 2:25 PM","6/7/24, 1:26 
 UT-Incident--180038,Incidents,I-15,Utah County,I-15 at MP 265,"Stalled Vehicle
 NB Ramp I-15 at MP 265 (Center St / Provo) Utah Co.
 Est. Clearance Time: 2:35 PM","6/7/24, 1:36 PM","6/7/24, 2:35 PM","6/7/24, 2:01 PM",,40.226604,-111.677837
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180040,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
@@ -25054,9 +25053,18 @@ WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:21 PM","6/7/24, 3:22 PM","6/7/24, 4:21 PM","6/7/24, 3:22 PM",,40.719771,-111.855009
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed
  at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 4:02 PM",,,37.227818,-113.375714
+UT-Incident--180051,Incidents,I-15,Utah County,I-15 at MP 285,"Vehicle on fire
+SB I-15 at MP 285 (Lehi) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:55 PM","6/7/24, 3:55 PM","6/7/24, 4:55 PM",,,40.442142,-111.903011
+UT-Incident--180052,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
+SB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
+Right Shoulder
+Est. Clearance Time: 5:15 PM","6/7/24, 4:02 PM","6/7/24, 5:15 PM",,,37.600834,-113.162952
 UT-Incident--180049,Incidents,SR 36,Tooele County,SR 36 at MP 62,"Crash
 SB SR 36 at MP 62 (Stansbury Park) Tooele Co.
 Right Shoulder
