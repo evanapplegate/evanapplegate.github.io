@@ -24898,7 +24898,6 @@ UT-Incident--180001,Incidents,I-215 S,Salt Lake County,I-215 S at MP 11,"Crash
 EB I-215 S at MP 11 (300 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/6/24, 4:49 PM","6/6/24, 5:47 PM","6/6/24, 4:49 PM",View on map,40.634373,-111.895376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--179998,Incidents,I-15,Davis County,I-15 at MP 319,"Vehicle on fire
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
@@ -24915,10 +24914,21 @@ UT-Incident--180002,Incidents,Midland Dr,Weber County,Midland Dr at 4000 S,"Cras
 Both Directions Midland Dr at 4000 S Weber Co.
 Est. Clearance Time: 6:35 PM","6/6/24, 5:19 PM","6/6/24, 6:35 PM","6/6/24, 5:19 PM",,41.190637,-112.048311
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180004,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:45 PM","6/6/24, 5:36 PM","6/6/24, 6:45 PM","6/6/24, 5:36 PM",,40.480607,-111.902252
 UT-Incident--180003,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 5,"Crash
 SB Mountain View Corr at MP 5 (3600 W) Salt Lake Co.
 Est. Clearance Time: 6:23 PM","6/6/24, 5:26 PM","6/6/24, 6:23 PM","6/6/24, 5:26 PM",,40.47514,-111.976075
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180004,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:45 PM","6/6/24, 5:36 PM","6/6/24, 6:45 PM","6/6/24, 5:36 PM",View on map,40.480607,-111.902252
+UT-Incident--180007,Incidents,I-15,Davis County,I-15 at MP 327,"Debris
+SB I-15 at MP 327 (Kysvll) Davis Co.
+Est. Clearance Time: 6:58 PM","6/6/24, 5:59 PM","6/6/24, 6:58 PM","6/6/24, 5:59 PM",View on map,41.01502,-111.940495
+UT-Incident--180006,Incidents,SR 97,Weber County,SR 97 at MP 1,"Crash
+SR 97 at MP 1 (5500 W, Hooper) Weber Co.
+Est. Clearance Time: 7:00 PM","6/6/24, 5:51 PM","6/6/24, 7:00 PM","6/6/24, 5:51 PM",View on map,41.163906,-112.103578
+UT-Incident--180009,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
+WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 7:35 PM","6/6/24, 6:25 PM","6/6/24, 7:35 PM","6/6/24, 6:25 PM",View on map,40.319492,-111.649399
