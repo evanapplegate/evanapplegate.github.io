@@ -25025,15 +25025,19 @@ UT-Incident--180035,Incidents,12300 S,Salt Lake County,12300 S 451,"Crash
 EB 12300 S 450 E (Draper) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:01 PM","6/7/24, 12:01 PM","6/7/24, 1:01 PM","6/7/24, 12:02 PM",View on map,40.526666,-111.878414
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180036,Incidents,SR 167,Morgan County,SR 167 at MP 4,"Crash
 NB SR 167 at MP 4 (4 miles N of I-84 JCT) Morgan Co.
 Right Shoulder
 Est. Clearance Time: 1:27 PM","6/7/24, 12:28 PM","6/7/24, 1:27 PM","6/7/24, 12:28 PM",View on map,41.169107,-111.809854
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180038,Incidents,I-15,Utah County,I-15 at MP 265,"Stalled Vehicle
 NB Ramp I-15 at MP 265 (Center St / Provo) Utah Co.
-Est. Clearance Time: 2:35 PM","6/7/24, 1:36 PM","6/7/24, 2:35 PM","6/7/24, 1:41 PM",View on map,40.226604,-111.677837
+Est. Clearance Time: 2:35 PM","6/7/24, 1:36 PM","6/7/24, 2:35 PM","6/7/24, 2:01 PM",View on map,40.226604,-111.677837
+UT-Incident--180040,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
+NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:54 PM","6/7/24, 1:55 PM","6/7/24, 2:54 PM","6/7/24, 1:55 PM",View on map,40.492398,-111.891485
 UT-Incident--180037,Incidents,US 189,Utah County,US 189 at MP 11,"Crash
 EB US 189 at MP 11 (Bridal Veil Falls) Utah Co.
 Right Shoulder
