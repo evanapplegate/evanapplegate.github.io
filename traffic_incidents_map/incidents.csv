@@ -24916,7 +24916,6 @@ Est. Clearance Time: 6:35 PM","6/6/24, 5:19 PM","6/6/24, 6:35 PM","6/6/24, 5:19 
 UT-Incident--180003,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 5,"Crash
 SB Mountain View Corr at MP 5 (3600 W) Salt Lake Co.
 Est. Clearance Time: 6:23 PM","6/6/24, 5:26 PM","6/6/24, 6:23 PM","6/6/24, 5:26 PM",,40.47514,-111.976075
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180004,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
@@ -24940,9 +24939,6 @@ UT-Incident--180012,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 8:15 PM","6/6/24, 7:03 PM","6/6/24, 8:15 PM","6/6/24, 7:03 PM",View on map,40.52103,-111.891246
-UT-Incident--180013,Incidents,I-15,Salt Lake County,I-15 at MP 295,"SB I-15 Closed
- at MP 295 (9000 S) Salt Lake Co.
-Use Alt Route","6/6/24, 7:15 PM","6/6/24, 8:14 PM","6/6/24, 7:38 PM",View on map,40.578741,-111.900284
 UT-Incident--180011,Incidents,I-80,Tooele County,I-80 at MP 8,"Crash
 EB I-80 at MP 8 (6 mi E of Wendover) Tooele Co.
 Right Shoulder
@@ -24955,3 +24951,7 @@ UT-Incident--180009,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
 WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:35 PM","6/6/24, 6:25 PM","6/6/24, 7:35 PM","6/6/24, 6:25 PM",View on map,40.319492,-111.649399
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180013,Incidents,I-15,Salt Lake County,I-15 at MP 295,"SB I-15 Closed
+ at MP 295 (9000 S) Salt Lake Co.
+Use Alt Route","6/6/24, 7:15 PM","6/6/24, 8:14 PM","6/6/24, 7:38 PM",View on map,40.578741,-111.900284
