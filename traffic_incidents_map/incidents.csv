@@ -25075,7 +25075,6 @@ Est. Clearance Time: 4:38 PM","6/7/24, 3:39 PM","6/7/24, 4:38 PM",,,40.640314,-1
 UT-Incident--180050,Incidents,Washington Blvd,Weber County,Washington Blvd at 31st St,"Crash
 NB Washington Blvd at 31st St Weber Co.
 Est. Clearance Time: 4:41 PM","6/7/24, 3:42 PM","6/7/24, 4:41 PM",,,41.208163,-111.970738
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180058,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 SB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Left Shoulder
@@ -25085,20 +25084,25 @@ WB SR 201 at MP 16 (900 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:40 PM","6/7/24, 4:42 PM","6/7/24, 5:40 PM","6/7/24, 4:42 PM",,40.724236,-111.924637
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180057,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
+SB I-215 W at MP 20 (California Ave) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:46 PM","6/7/24, 4:46 PM","6/7/24, 5:46 PM","6/7/24, 4:46 PM",,40.731947,-111.949915
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180059,Incidents,Beck St,Salt Lake County,Beck St at 400 W,"Crash
 NB Beck St at 400 W Salt Lake Co.
 Est. Clearance Time: 6:06 PM","6/7/24, 5:08 PM","6/7/24, 6:06 PM","6/7/24, 5:08 PM",,40.791083,-111.901636
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed
  at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 9:02 PM","6/7/24, 4:57 PM",,37.227818,-113.375714
+UT-Incident--180060,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
+NB I-15 at MP 266 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:35 PM","6/7/24, 5:29 PM","6/7/24, 6:35 PM","6/7/24, 5:29 PM",,40.238135,-111.689206
 UT-Incident--180055,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Crash
 SB I-215 W at MP 18 (2900 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:00 PM","6/7/24, 4:29 PM","6/7/24, 6:00 PM","6/7/24, 4:29 PM",,40.703296,-111.95315
-UT-Incident--180057,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
-SB I-215 W at MP 20 (California Ave) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:46 PM","6/7/24, 4:46 PM","6/7/24, 5:46 PM","6/7/24, 4:46 PM",,40.731947,-111.949915
 UT-Incident--180047,Incidents,SR 9,Washington County,SR 9 at MP 29,"Fire Affecting Roadway
 Both Directions SR 9 Closed
 EB Closed at MP 28 (Rockville)
