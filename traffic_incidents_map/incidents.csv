@@ -24926,7 +24926,6 @@ Est. Clearance Time: 6:58 PM","6/6/24, 5:59 PM","6/6/24, 6:58 PM","6/6/24, 5:59 
 UT-Incident--180006,Incidents,SR 97,Weber County,SR 97 at MP 1,"Crash
 SR 97 at MP 1 (5500 W, Hooper) Weber Co.
 Est. Clearance Time: 7:00 PM","6/6/24, 5:51 PM","6/6/24, 7:00 PM","6/6/24, 5:51 PM",View on map,41.163906,-112.103578
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180015,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
 SB 1900 W at 5600 S Weber Co.
 Right Lane Closed
@@ -24952,6 +24951,10 @@ WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:35 PM","6/6/24, 6:25 PM","6/6/24, 7:35 PM","6/6/24, 6:25 PM",View on map,40.319492,-111.649399
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180013,Incidents,I-15,Salt Lake County,I-15 at MP 295,"SB I-15 Closed
  at MP 295 (9000 S) Salt Lake Co.
 Use Alt Route","6/6/24, 7:15 PM","6/6/24, 8:14 PM","6/6/24, 7:38 PM",View on map,40.578741,-111.900284
+UT-Incident--180016,Incidents,I-215 S,Salt Lake County,I-215 S at MP 9,"Crash
+EB I-215 S at MP 9  Off Ramp (Union Park Ave) Salt Lake Co.
+Est. Clearance Time: 9:45 PM","6/6/24, 8:33 PM","6/6/24, 9:45 PM","6/6/24, 8:33 PM",View on map,40.630157,-111.858352
