@@ -25013,7 +25013,6 @@ UT-Incident--180031,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
 Ramp I-15 at MP 262 (Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:25 AM","6/7/24, 10:26 AM","6/7/24, 11:25 AM","6/7/24, 10:26 AM",View on map,40.190632,-111.64694
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180033,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Crash
 WB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Right Shoulder
@@ -25023,3 +25022,8 @@ UT-Incident--180032,Incidents,1900 W,Weber County,1900 W at 2550 S,"Crash
 NB 1900 W at 2550 S Weber Co.
 Center Lanes Closed
 Est. Clearance Time: 12:00 PM","6/7/24, 11:04 AM","6/7/24, 12:00 PM","6/7/24, 11:04 AM",View on map,41.219686,-112.025681
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180035,Incidents,12300 S,Salt Lake County,12300 S 451,"Crash
+EB 12300 S 450 E (Draper) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 1:01 PM","6/7/24, 12:01 PM","6/7/24, 1:01 PM","6/7/24, 12:02 PM",View on map,40.526666,-111.878414
