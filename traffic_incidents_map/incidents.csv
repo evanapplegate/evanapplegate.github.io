@@ -25037,14 +25037,10 @@ UT-Incident--180038,Incidents,I-15,Utah County,I-15 at MP 265,"Stalled Vehicle
 NB Ramp I-15 at MP 265 (Center St / Provo) Utah Co.
 Est. Clearance Time: 2:35 PM","6/7/24, 1:36 PM","6/7/24, 2:35 PM","6/7/24, 2:01 PM",,40.226604,-111.677837
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180040,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:54 PM","6/7/24, 1:55 PM","6/7/24, 2:54 PM","6/7/24, 1:55 PM",,40.492398,-111.891485
-UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
-Ramp NB I-15 Closed
- at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 4:02 PM","6/7/24, 3:04 PM",,37.227818,-113.375714
 UT-Incident--180046,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Road damage
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -25057,9 +25053,24 @@ UT-Incident--180045,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Crash
 WB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:21 PM","6/7/24, 3:22 PM","6/7/24, 4:21 PM","6/7/24, 3:22 PM",,40.719771,-111.855009
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
+Ramp NB I-15 Closed
+ at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 4:02 PM",,,37.227818,-113.375714
+UT-Incident--180049,Incidents,SR 36,Tooele County,SR 36 at MP 62,"Crash
+SB SR 36 at MP 62 (Stansbury Park) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 4:38 PM","6/7/24, 3:39 PM","6/7/24, 4:38 PM",,,40.640314,-112.288239
 UT-Incident--180047,Incidents,SR 9,Washington County,SR 9 at MP 29,"Fire Affecting Roadway
 Both Directions SR 9 Closed
- at MP 29 (Anasazi Way, Springdale) Washington Co.","6/7/24, 3:29 PM","6/7/24, 4:26 PM","6/7/24, 3:29 PM",,37.162676,-113.023085
+EB Closed at MP 28 (Rockville)
+WB Closed at MP 30 (Zion Park Blvd) Washington Co.","6/7/24, 3:29 PM","6/7/24, 4:26 PM",,,37.162676,-113.023085
+UT-Incident--180048,Incidents,US 189,Wasatch County,US 189 at MP 22,"Crash
+SB US 189 at MP 22 (Deer Creek Reservoir) Wasatch Co.
+Est. Clearance Time: 4:45 PM","6/7/24, 3:34 PM","6/7/24, 4:45 PM",,,40.424806,-111.489796
 UT-Incident--180042,Incidents,US 191,Duchesne County,US 191 at MP 286,"Crash
  US 191 at MP 286 (8 miles S of Duchesne) Duchesne Co.
-Est. Clearance Time: 4:00 PM","6/7/24, 2:55 PM","6/7/24, 4:00 PM","6/7/24, 2:55 PM",,40.07309,-110.512285
+Est. Clearance Time: 4:00 PM","6/7/24, 2:55 PM","6/7/24, 4:00 PM",,,40.07309,-110.512285
+UT-Incident--180050,Incidents,Washington Blvd,Weber County,Washington Blvd at 31st St,"Crash
+NB Washington Blvd at 31st St Weber Co.
+Est. Clearance Time: 4:41 PM","6/7/24, 3:42 PM","6/7/24, 4:41 PM",,,41.208163,-111.970738
