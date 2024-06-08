@@ -25221,11 +25221,11 @@ UT-Incident--180092,Incidents,SR 201,Salt Lake County,SR 201 at MP 16,"Crash
 EB SR 201 Closed
  at MP 16 (900 W) Salt Lake Co.
 Use Alt Route","6/8/24, 10:31 AM","6/8/24, 1:45 PM","6/8/24, 11:13 AM",View on map,40.724236,-111.924637
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180095,Incidents,8400 W,Salt Lake County,8400 W at 2700 S,"Crash
 SB 8400 W Closed
  at 2700 S Salt Lake Co.
 Use Alt Route","6/8/24, 11:29 AM","6/8/24, 12:28 PM","6/8/24, 11:29 AM",View on map,40.711358,-112.091609
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180085,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 RampSB  I-15 at MP 257 (US-6) Utah Co.
@@ -25237,6 +25237,9 @@ Est. Clearance Time: 12:23 PM","6/8/24, 11:24 AM","6/8/24, 12:23 PM","6/8/24, 11
 UT-Incident--180090,Incidents,SR 171,Salt Lake County,SR 171 at MP 10,"Lane Closures
 Both Directions SR 171 at MP 10 (900 W to State St) Salt Lake Co.
 Est. Clearance Time: 6/10/2024 10:59 AM","6/8/24, 10:00 AM","6/10/24, 10:59 AM","6/8/24, 11:16 AM",View on map,40.6999,-111.902179
+UT-Incident--180096,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
+Ramp EB SR 201 Closed
+ at MP 15 (NB I-215 W Exit) Salt Lake Co.","6/8/24, 12:10 PM","6/8/24, 1:09 PM","6/8/24, 12:21 PM",View on map,40.724124,-111.943886
 UT-Incident--180091,Incidents,US 191,Carbon County,US 191 at MP 252,"Fire affecting the roadway
 Both directions US 191 Closed
  at MP 252 (2 miles N of Helper) Carbon Co.
