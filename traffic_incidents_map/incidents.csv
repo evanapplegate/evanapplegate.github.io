@@ -25239,7 +25239,6 @@ UT-Incident--180097,Incidents,North St,Weber County,North St at Washington Blvd,
 SB North St at Washington Blvd Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:07 PM","6/8/24, 2:08 PM","6/8/24, 3:07 PM","6/8/24, 2:10 PM",,41.266597,-111.969441
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180098,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 SB I-15 at MP 257 (Main St / Spanish Fork) Utah Co.
 Left Shoulder
@@ -25253,6 +25252,7 @@ UT-Incident--180100,Incidents,US 189,Utah County,US 189 at MP 9,"Lane Closure
 WB US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 3:35 PM","6/8/24, 2:16 PM","6/8/24, 3:35 PM","6/8/24, 2:16 PM",View on map,40.328835,-111.637103
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180090,Incidents,SR 171,Salt Lake County,SR 171 at MP 10,"Lane Closures
 Both Directions SR 171 at MP 10 (900 W to State St) Salt Lake Co.
