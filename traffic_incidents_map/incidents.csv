@@ -25140,6 +25140,14 @@ Both Directions SR 9 Closed
 EB Closed at MP 28 (Rockville)
 WB Closed at MP 30 (Zion Park Blvd) Washington Co.","6/7/24, 3:29 PM","6/8/24, 12:00 AM","6/7/24, 4:57 PM",,37.162676,-113.023085
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180072,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
+NB I-215 W at MP 24 (1200 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:27 PM","6/7/24, 10:28 PM","6/7/24, 11:27 PM","6/7/24, 10:28 PM",,40.789416,-111.949318
+UT-Incident--180070,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
+WB I-80 at MP 131 (Quarry) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 10:56 PM","6/7/24, 9:57 PM","6/7/24, 10:56 PM","6/7/24, 9:57 PM",,40.732387,-111.755095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180073,Incidents,Harrison Blvd,Weber County,Harrison Blvd at US 89,"Both Directions Harrison Blvd Closed
  at US 89 Weber Co.
@@ -25150,11 +25158,3 @@ UT-Incident--180071,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:24 PM","6/7/24, 10:25 PM","6/7/24, 11:24 PM","6/7/24, 10:25 PM",,40.763745,-111.914284
-UT-Incident--180072,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
-NB I-215 W at MP 24 (1200 N) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 11:27 PM","6/7/24, 10:28 PM","6/7/24, 11:27 PM","6/7/24, 10:28 PM",,40.789416,-111.949318
-UT-Incident--180070,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
-WB I-80 at MP 131 (Quarry) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 10:56 PM","6/7/24, 9:57 PM","6/7/24, 10:56 PM","6/7/24, 9:57 PM",,40.732387,-111.755095
