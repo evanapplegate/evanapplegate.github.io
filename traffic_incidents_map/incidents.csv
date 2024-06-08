@@ -25188,7 +25188,6 @@ UT-Incident--180080,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 Ramp I-80 Closed
  at MP 116 (Bangerter Hwy) Salt Lake Co.
 Use Alt Route","6/8/24, 3:28 AM","6/8/24, 4:27 AM","6/8/24, 6:26 AM",View on map,40.764633,-111.972427
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180084,Incidents,I-15,Iron County,I-15 at MP 77,"Crash
 SB I-15 at MP 77 (Parowan) Iron Co.
 Right Shoulder
@@ -25201,6 +25200,7 @@ UT-Incident--180083,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
 SB SR 36 at MP 56 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 6:28 AM","6/8/24, 5:28 AM","6/8/24, 6:28 AM","6/8/24, 5:28 AM",View on map,40.554334,-112.297621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180085,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
 RampSB  I-15 at MP 257 (US-6) Utah Co.
