@@ -25099,7 +25099,6 @@ Est. Clearance Time: 5:45 PM","6/7/24, 3:34 PM","6/7/24, 5:45 PM","6/7/24, 4:58 
 UT-Incident--180042,Incidents,US 191,Duchesne County,US 191 at MP 286,"Crash
  US 191 at MP 286 (8 miles S of Duchesne) Duchesne Co.
 Est. Clearance Time: 4:00 PM","6/7/24, 2:55 PM","6/7/24, 5:45 PM","6/7/24, 4:57 PM",,40.07309,-110.512285
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180060,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Right Shoulder
@@ -25140,6 +25139,7 @@ UT-Incident--180047,Incidents,SR 9,Washington County,SR 9 at MP 29,"Fire Affecti
 Both Directions SR 9 Closed
 EB Closed at MP 28 (Rockville)
 WB Closed at MP 30 (Zion Park Blvd) Washington Co.","6/7/24, 3:29 PM","6/8/24, 12:00 AM","6/7/24, 4:57 PM",,37.162676,-113.023085
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 9:02 PM","6/7/24, 7:04 PM",,37.227818,-113.375714
