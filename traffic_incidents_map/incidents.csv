@@ -25184,7 +25184,6 @@ UT-Incident--180082,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 NB Redwood Rd Closed
  at Indiana Ave Salt Lake Co.
 Use Alt Route","6/8/24, 5:27 AM","6/8/24, 6:25 PM","6/8/24, 6:04 AM",,40.750242,-111.939001
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180080,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 Ramp I-80 Closed
  at MP 116 (Bangerter Hwy) Salt Lake Co.
@@ -25194,10 +25193,6 @@ UT-Incident--180084,Incidents,I-15,Iron County,I-15 at MP 77,"Crash
 SB I-15 at MP 77 (Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6:50 AM","6/8/24, 5:48 AM","6/8/24, 6:50 AM","6/8/24, 5:48 AM",View on map,37.851125,-112.839791
-UT-Incident--180085,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
-RampSB  I-15 at MP 257 (US-6) Utah Co.
-Right Shoulder
-Est. Clearance Time: 7:43 AM","6/8/24, 6:45 AM","6/8/24, 7:43 AM","6/8/24, 6:45 AM",View on map,40.122652,-111.658929
 UT-Incident--180081,Incidents,I-80,Tooele County,I-80 at MP 52,"Crash
 EB I-80 at MP 52 (11 mi E of Knolls) Tooele Co.
 Right Shoulder
@@ -25206,3 +25201,8 @@ UT-Incident--180083,Incidents,SR 36,Tooele County,SR 36 at MP 56,"Crash
 SB SR 36 at MP 56 (Tooele) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 6:28 AM","6/8/24, 5:28 AM","6/8/24, 6:28 AM","6/8/24, 5:28 AM",View on map,40.554334,-112.297621
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180085,Incidents,I-15,Utah County,I-15 at MP 257,"Crash
+RampSB  I-15 at MP 257 (US-6) Utah Co.
+SB Exit Ramp Closed
+Est. Clearance Time: 7:43 AM","6/8/24, 6:45 AM","6/8/24, 7:43 AM","6/8/24, 7:49 AM",View on map,40.122652,-111.658929
