@@ -25147,17 +25147,22 @@ UT-Incident--180070,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 WB I-80 at MP 131 (Quarry) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 10:56 PM","6/7/24, 9:57 PM","6/7/24, 10:56 PM","6/7/24, 9:57 PM",,40.732387,-111.755095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180071,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:24 PM","6/7/24, 10:25 PM","6/7/24, 11:24 PM","6/7/24, 10:25 PM",,40.763745,-111.914284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180073,Incidents,Harrison Blvd,Weber County,Harrison Blvd at US 89,"Both Directions Harrison Blvd Closed
  at US 89 Weber Co.
 Use Alt Route","6/7/24, 10:38 PM","6/7/24, 11:33 PM","6/7/24, 10:38 PM",,41.157019,-111.939742
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 9:02 PM","6/7/24, 7:04 PM",,37.227818,-113.375714
-UT-Incident--180074,Incidents,I-15,Davis County,I-15 at MP 318,"SB Ramp I-15 Closed
- at MP 318 (500 W, Bntfl) Davis Co.
-Use Alt Route","6/7/24, 11:21 PM","6/8/24, 12:19 AM","6/7/24, 11:21 PM",,40.900348,-111.893142
+UT-Incident--180074,Incidents,I-15,Davis County,I-15 at MP 318,"Crash
+Ramp I-15 at MP 318 (500 W, Bntfl) Davis Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6/8/2024 12:19 AM","6/7/24, 11:21 PM","6/8/24, 12:19 AM","6/7/24, 11:29 PM",,40.900348,-111.893142
+UT-Incident--180075,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
+WB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6/8/2024 12:28 AM","6/7/24, 11:29 PM","6/8/24, 12:28 AM","6/7/24, 11:29 PM",,40.319492,-111.649399
