@@ -25176,7 +25176,6 @@ Center Lane Closed
 Est. Clearance Time: 3:52 AM","6/8/24, 2:54 AM","6/8/24, 3:52 AM","6/8/24, 3:27 AM",,40.767964,-111.98612
 UT-Incident--180044,Incidents,I-15,Washington County,I-15 at MP 22,"Lane Closure
 Ramp NB I-15 Closed at MP 22 (SR-228 Exit) Washington Co.","6/7/24, 3:04 PM","6/7/24, 9:02 PM","6/7/24, 7:04 PM",,37.227818,-113.375714
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180086,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 NB I-215 E at MP 1 (3300 S) Salt Lake Co.
 Right Lane Closed
@@ -25185,6 +25184,7 @@ UT-Incident--180082,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 NB Redwood Rd Closed
  at Indiana Ave Salt Lake Co.
 Use Alt Route","6/8/24, 5:27 AM","6/8/24, 6:25 PM","6/8/24, 6:04 AM",,40.750242,-111.939001
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180084,Incidents,I-15,Iron County,I-15 at MP 77,"Crash
 SB I-15 at MP 77 (Parowan) Iron Co.
