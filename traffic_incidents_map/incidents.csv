@@ -25358,7 +25358,6 @@ UT-Incident--180128,Incidents,I-15,Beaver County,I-15 at MP 123,"Crash
 SB I-15 at MP 123 (9 mi S of cove fort) Beaver Co.
 Right Shoulder
 Est. Clearance Time: 7:45 AM","6/9/24, 6:34 AM","6/9/24, 7:45 AM","6/9/24, 6:34 AM",View on map,38.448932,-112.628256
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180129,Incidents,I-15,Iron County,I-15 at MP 51,"Crash
 SB I-15 at MP 51 (Old U.S 91 / Kanarraville) Iron Co.
 Est. Clearance Time: 9:15 AM","6/9/24, 8:10 AM","6/9/24, 9:15 AM","6/9/24, 8:10 AM",,37.600834,-113.162952
@@ -25367,3 +25366,11 @@ NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 11:15 AM","6/9/24, 9:03 AM","6/9/24, 11:15 AM","6/9/24, 9:03 AM",,40.693589,-111.902881
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180132,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Main St,"Crash
+NB Hill Field Rd at Main St Davis Co.
+Left Lane Closed
+Est. Clearance Time: 12:30 PM","6/9/24, 10:57 AM","6/9/24, 12:30 PM","6/9/24, 10:57 AM",View on map,,
+UT-Incident--180131,Incidents,I-80 EB X121 OFF 600 S RAMP,Salt Lake County,I-80 EB X121 OFF 600 S RAMP at 600 S,"Crash
+EB I-80 Exit 121 600 S Off Ramp Salt Lake Co.
+Est. Clearance Time: 12:30 PM","6/9/24, 10:56 AM","6/9/24, 12:30 PM","6/9/24, 10:56 AM",View on map,40.760867,-111.915227
