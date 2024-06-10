@@ -25479,7 +25479,6 @@ UT-Incident--180163,Incidents,I-15,Washington County,I-15 at MP 16,"Grass Fire
 SB I-15 at MP 16 (3 mi NE of Washington) Washington Co.
 Right Shoulder
 Est. Clearance Time: 1:28 PM","6/10/24, 12:29 PM","6/10/24, 1:28 PM","6/10/24, 12:29 PM",,37.168124,-113.449179
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180164,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
@@ -25489,6 +25488,15 @@ SB I-15 at MP 295 (9000 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 2:00 PM","6/10/24, 12:51 PM","6/10/24, 2:00 PM","6/10/24, 12:51 PM",,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180166,Incidents,Main St,Wasatch County,Main St at 600 S,"Crash
+NB Main St at 600 S Wasatch Co.
+2 Right Lanes Closed
+Est. Clearance Time: 2:20 PM","6/10/24, 1:20 PM","6/10/24, 2:20 PM","6/10/24, 1:20 PM",,40.500285,-111.413548
+UT-Incident--180167,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
+WB SR 201 at MP 14 (3200 W Off-Ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:20 PM","6/10/24, 1:21 PM","6/10/24, 2:20 PM","6/10/24, 1:22 PM",,40.72606,-111.962907
 UT-Incident--180156,Incidents,SR 210,Salt Lake County,SR 210 at MP 6,"Crash
 Both Directions of traffic are alternating lanes SR 210  MP 6 (2 Mi E of the Mouth) Salt Lake Co.
 Expect delays","6/10/24, 8:49 AM","6/10/24, 2:30 PM","6/10/24, 12:33 PM",,40.571684,-111.737891
