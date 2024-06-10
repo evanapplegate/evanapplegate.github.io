@@ -25405,7 +25405,6 @@ UT-Incident--180141,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
 EB US 6 at MP 210 (Soldier Summit) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:44 PM","6/9/24, 3:45 PM","6/9/24, 4:44 PM","6/9/24, 3:45 PM",View on map,39.931871,-111.089175
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180142,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 3 Right Lanes Closed
@@ -25422,3 +25421,7 @@ Est. Clearance Time: 7:09 PM","6/9/24, 6:11 PM","6/9/24, 7:09 PM","6/9/24, 6:11 
 UT-Incident--180145,Incidents,SR 36,Tooele County,SR 36 at MP 31,"Crash
 SB SR 36 at MP 31 (3 Mi N of Faust) Tooele Co.
 Est. Clearance Time: 7:12 PM","6/9/24, 6:13 PM","6/9/24, 7:12 PM","6/9/24, 6:13 PM",View on map,40.226004,-112.404197
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180146,Incidents,I-15,Salt Lake County,I-15 at MP 291,"NB I-15 Offramp Closed
+ at MP 291 (12300 S Exit) Salt Lake Co.
+Use Alt Route","6/9/24, 7:43 PM","6/9/24, 11:39 PM","6/9/24, 7:44 PM",View on map,40.52103,-111.891246
