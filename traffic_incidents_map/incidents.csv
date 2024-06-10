@@ -25424,7 +25424,6 @@ UT-Incident--180146,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Road Damage
 NB I-15 Offramp Closed
  at MP 291 (12300 S Exit) Salt Lake Co.
 Use Alt Route","6/9/24, 7:43 PM","6/9/24, 11:39 PM","6/9/24, 8:26 PM",View on map,40.52103,-111.891246
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180147,Incidents,I-15,Juab County,I-15 at MP 230,"Crash
 NB I-15 at MP 230 (3 mi S of Mona) Juab Co.
 Right Shoulder
@@ -25433,6 +25432,7 @@ UT-Incident--180148,Incidents,I-80,Salt Lake County,I-80 at MP 127,"Crash
 EB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:59 AM","6/10/24, 12:00 AM","6/10/24, 12:59 AM","6/10/24, 12:00 AM",,40.713146,-111.819005
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180149,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 EB I-215 W at MP 22 (N Temple) Salt Lake Co.
