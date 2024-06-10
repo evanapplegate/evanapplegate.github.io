@@ -25437,11 +25437,11 @@ EB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:00 AM","6/10/24, 12:51 AM","6/10/24, 3:00 AM","6/10/24, 2:00 AM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180150,Incidents,I-80,Summit County,I-80 at MP 169,"Crash
-WB I-80 at MP 169 (1 mi E of Echo) Summit Co.
-Right Shoulder
-Est. Clearance Time: 3:24 AM","6/10/24, 2:24 AM","6/10/24, 3:24 AM","6/10/24, 2:24 AM",,40.985207,-111.41299
 UT-Incident--180151,Incidents,Main St,Tooele County,Main St at 600 N,"Medical
 NB Main St at 600 N Tooele Co.
 Est. Clearance Time: 3:29 AM","6/10/24, 2:30 AM","6/10/24, 3:29 AM","6/10/24, 2:30 AM",,40.541544,-112.298356
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180150,Incidents,I-80,Summit County,I-80 at MP 169,"Crash
+WB I-80 at MP 169 (1 mi E of Echo) Summit Co.
+Right Lane Closed
+Est. Clearance Time: 3:24 AM","6/10/24, 2:24 AM","6/10/24, 3:24 AM","6/10/24, 2:56 AM",,40.985207,-111.41299
