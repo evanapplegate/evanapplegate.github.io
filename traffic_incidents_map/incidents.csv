@@ -25508,24 +25508,29 @@ UT-Incident--180170,Incidents,HWY 56,Iron County,HWY 56 at AVIATION WAY/CROSS HO
 EB Cross Hollow Rd at Hwy 56 Iron Co.
 Right Lane Closed
 Est. Clearance Time: 3:15 PM","6/10/24, 2:09 PM","6/10/24, 3:15 PM","6/10/24, 2:16 PM",,37.684997,-113.106221
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180172,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
 WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:50 PM","6/10/24, 2:51 PM","6/10/24, 3:50 PM","6/10/24, 2:52 PM",,40.348428,-111.591901
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180173,Incidents,I-15,Utah County,I-15 at MP 257,"Stalled Vehicle
 Ramp NB I-15 at MP 257 (Main St / Spanish Fork Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:54 PM","6/10/24, 2:54 PM","6/10/24, 3:54 PM","6/10/24, 2:54 PM",,40.122652,-111.658929
+UT-Incident--180177,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:59 PM","6/10/24, 4:00 PM","6/10/24, 4:59 PM","6/10/24, 4:00 PM",,40.550055,-111.896336
 UT-Incident--180174,Incidents,I-80,Salt Lake County,I-80 at MP 106,"Crash
 WB I-80 at MP 106 (2 mi E of Saltair) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:29 PM","6/10/24, 3:30 PM","6/10/24, 4:29 PM","6/10/24, 3:30 PM",,40.764195,-112.160062
 UT-Incident--180175,Incidents,SR 20,Iron County,SR 20 at MP 1,"Crash
-Both Directions SR 20 Closed
- at MP 1 (1 Mi E of I-15) Iron Co.","6/10/24, 3:41 PM","6/10/24, 4:38 PM","6/10/24, 3:41 PM",,38.066225,-112.673727
+WB SR 20 at MP 1 (1 Mi E of I-15) Iron Co.
+Right Shoulder
+Est. Clearance Time: 4:38 PM","6/10/24, 3:41 PM","6/10/24, 4:38 PM","6/10/24, 3:54 PM",,38.066225,-112.673727
 UT-Incident--180156,Incidents,SR 210,Salt Lake County,SR 210 at MP 6,"Crash
 Both Directions SR 210 at MP 6 (Upper Vault) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 4:00 PM","6/10/24, 8:49 AM","6/10/24, 4:00 PM","6/10/24, 2:28 PM",,40.571684,-111.737891
+Est. Clearance Time: 6:30 PM","6/10/24, 8:49 AM","6/10/24, 6:30 PM","6/10/24, 4:00 PM",,40.571684,-111.737891
