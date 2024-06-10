@@ -25495,11 +25495,11 @@ UT-Incident--180167,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 WB SR 201 at MP 14 (3200 W Off-Ramp) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","6/10/24, 1:21 PM","6/10/24, 2:20 PM","6/10/24, 1:22 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180168,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:50 PM","6/10/24, 1:51 PM","6/10/24, 2:50 PM","6/10/24, 1:51 PM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180169,Incidents,2700 W,Salt Lake County,2700 W at 4700 S,"Crash
 NB 2700 W at 4700 S Salt Lake Co.
@@ -25511,5 +25511,6 @@ EB Cross Hollow Rd at Hwy 56 Iron Co.
 Right Lane Closed
 Est. Clearance Time: 3:15 PM","6/10/24, 2:09 PM","6/10/24, 3:15 PM","6/10/24, 2:16 PM",,37.684997,-113.106221
 UT-Incident--180156,Incidents,SR 210,Salt Lake County,SR 210 at MP 6,"Crash
-Both Directions SR 210 Closed
- at MP 6 (Upper Vault) Salt Lake Co.","6/10/24, 8:49 AM","6/10/24, 4:00 PM","6/10/24, 2:21 PM",,40.571684,-111.737891
+Both Directions SR 210 at MP 6 (Upper Vault) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","6/10/24, 8:49 AM","6/10/24, 4:00 PM","6/10/24, 2:28 PM",,40.571684,-111.737891
