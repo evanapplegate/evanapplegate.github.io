@@ -25642,16 +25642,9 @@ NB Redwood Rd at 5500 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","6/11/24, 11:21 AM","6/11/24, 12:30 PM","6/11/24, 11:23 AM",,40.650462,-111.938811
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180211,Incidents,HILL FIELD RD,Davis County,HILL FIELD RD 2277,"Crash
 Hill Field Rd at Antelope Dr (Layton) Davis Co.
 Est. Clearance Time: 1:45 PM","6/11/24, 12:39 PM","6/11/24, 1:45 PM","6/11/24, 12:41 PM",,41.089143,-111.97346
-UT-Incident--180213,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
-NB I-15 at MP 283 (Lehi) Utah Co.
-2 Left Lanes Closed
-Est. Clearance Time: 2:29 PM","6/11/24, 1:31 PM","6/11/24, 2:29 PM","6/11/24, 1:31 PM",,40.420056,-111.878496
-UT-Incident--180210,Incidents,I-70,Sevier County,I-70 at MP 21,"Fire affecting roadway
-Both Directions I-70 at MP 21 (16 Mi W of Richfield) Sevier Co.","6/11/24, 11:38 AM","6/12/24, 12:37 PM","6/11/24, 11:38 AM",,38.579226,-112.284156
 UT-Incident--180212,Incidents,SR 201,Salt Lake County,SR 201 at MP 11,"Crash
 WB SR 201 at MP 11 (4600 W) Salt Lake Co.
 Right Shoulder
@@ -25659,3 +25652,10 @@ Est. Clearance Time: 2:00 PM","6/11/24, 12:51 PM","6/11/24, 2:00 PM","6/11/24, 1
 UT-Incident--180208,Incidents,US 89,Sanpete County,US 89 at MP 264,"Crash
 US 89 at MP 264 (1 mile N of Ephraim) Sanpete Co.
 Est. Clearance Time: 12:30 PM","6/11/24, 11:16 AM","6/11/24, 12:30 PM","6/11/24, 11:16 AM",,39.379076,-111.586208
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180213,Incidents,I-15,Utah County,I-15 at MP 283,"Crash
+NB I-15 at MP 283 (Lehi) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 2:29 PM","6/11/24, 1:31 PM","6/11/24, 2:29 PM","6/11/24, 1:31 PM",,40.420056,-111.878496
+UT-Incident--180210,Incidents,I-70,Sevier County,I-70 at MP 21,"Fire affecting roadway
+Both Directions I-70 at MP 21 (16 Mi W of Richfield) Sevier Co.","6/11/24, 11:38 AM","6/12/24, 12:37 PM","6/11/24, 11:38 AM",,38.579226,-112.284156
