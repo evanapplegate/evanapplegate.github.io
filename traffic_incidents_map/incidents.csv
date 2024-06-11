@@ -25670,10 +25670,14 @@ UT-Incident--180218,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:59 PM","6/11/24, 4:00 PM","6/11/24, 4:59 PM","6/11/24, 4:00 PM",,40.679062,-111.902181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180222,Incidents,SR 201,Salt Lake County,SR 201 at MP 15,"Crash
 WB SR 201 at MP 15 (1300 W) Salt Lake Co.
 Est. Clearance Time: 5:49 PM","6/11/24, 4:51 PM","6/11/24, 5:49 PM","6/11/24, 4:51 PM",,40.724124,-111.943886
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180221,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
+Other SR 36 at MP 59 (Erda) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 5:42 PM","6/11/24, 4:44 PM","6/11/24, 5:42 PM","6/11/24, 4:44 PM",,40.597521,-112.294273
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180223,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 SB I-215 W at MP 21 (900 S) Salt Lake Co.
@@ -25688,7 +25692,3 @@ Both Directions I-70 at MP 21 (16 Mi W of Richfield) Sevier Co.","6/11/24, 11:38
 UT-Incident--180220,Incidents,SR 18,Washington County,SR 18 at MP 2,"Crash
 SR 18 at MP 2 (St George Blvd) Washington Co.
 Est. Clearance Time: 6:00 PM","6/11/24, 4:42 PM","6/11/24, 6:00 PM","6/11/24, 4:42 PM",,37.108514,-113.593242
-UT-Incident--180221,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
-Other SR 36 at MP 59 (Erda) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 5:42 PM","6/11/24, 4:44 PM","6/11/24, 5:42 PM","6/11/24, 4:44 PM",,40.597521,-112.294273
