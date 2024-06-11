@@ -25614,7 +25614,6 @@ UT-Incident--180203,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 SB I-15 at MP 285 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:00 AM","6/11/24, 9:02 AM","6/11/24, 10:00 AM","6/11/24, 9:02 AM",,40.442142,-111.903011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180201,Incidents,I-15,Davis County,I-15 at MP 322,"Crash
 SB I-15 at MP 322 (Glover Ln) Davis Co.
 Left Lane Closed
@@ -25631,7 +25630,12 @@ UT-Incident--180202,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at 650 N On-Ramp (Clearfield) Davis Co.
 Right Shoulder
 Est. Clearance Time: 9:31 AM","6/11/24, 8:32 AM","6/11/24, 9:31 AM","6/11/24, 8:33 AM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180207,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Main St,"Crash
+WB Hill Field Rd at Main St Davis Co.
+2 Right Lanes Closed
+Est. Clearance Time: 11:26 AM","6/11/24, 10:27 AM","6/11/24, 11:26 AM","6/11/24, 10:27 AM",,41.072713,-111.978866
 UT-Incident--180204,Incidents,I-15,Utah County,I-15 at MP 266,"Stalled Vehicle
 SB I-15 at MP 266 (N of Center St) Utah Co.
 Right Lane Closed
-Est. Clearance Time: 10:04 AM","6/11/24, 9:05 AM","6/11/24, 10:04 AM","6/11/24, 9:52 AM",,40.238135,-111.689206
+Est. Clearance Time: 11:04 AM","6/11/24, 9:05 AM","6/11/24, 10:04 AM","6/11/24, 10:22 AM",,40.238135,-111.689206
