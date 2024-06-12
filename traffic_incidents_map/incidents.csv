@@ -25750,7 +25750,6 @@ NB I-15 at MP 266 (N of Center St) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","6/12/24, 8:08 AM","6/12/24, 9:15 AM","6/12/24, 8:08 AM",,40.238135,-111.689206
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180241,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
@@ -25763,3 +25762,8 @@ UT-Incident--180242,Incidents,I-80,Summit County,I-80 at MP 145,"Crash
 SB I-80 at MP 145 (East of Kimball Jct) Summit Co.
 Right Shoulder
 Est. Clearance Time: 10:13 AM","6/12/24, 9:14 AM","6/12/24, 10:13 AM","6/12/24, 9:14 AM",,40.723073,-111.529346
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180244,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+HOV Lane Closed
+Est. Clearance Time: 11:15 AM","6/12/24, 10:05 AM","6/12/24, 11:15 AM","6/12/24, 10:10 AM",,40.607173,-111.905403
