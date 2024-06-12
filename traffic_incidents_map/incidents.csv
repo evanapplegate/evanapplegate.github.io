@@ -25712,7 +25712,6 @@ UT-Incident--180230,Incidents,SR 36,Tooele County,SR 36 at MP 57,"Crash
 NB SR 36 at MP 57 (Tooele) Tooele Co.
 LeftLane Closed
 Est. Clearance Time: 8:43 PM","6/11/24, 7:47 PM","6/11/24, 8:43 PM","6/11/24, 7:47 PM",,40.568696,-112.295673
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180231,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Left Shoulder
@@ -25721,6 +25720,7 @@ UT-Incident--180232,Incidents,I-15,Washington County,I-15 at MP 24,"Crash
 SB I-15 at MP 24 (1 mi NE of Leeds) Washington Co.
 Right Shoulder
 Est. Clearance Time: 9:45 PM","6/11/24, 8:26 PM","6/11/24, 9:45 PM","6/11/24, 8:26 PM",,37.24681,-113.349129
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180210,Incidents,I-70,Sevier County,I-70 at MP 21,"Fire affecting roadway
 Both Directions I-70 at MP 21 (16 Mi W of Richfield) Sevier Co.","6/11/24, 11:38 AM","6/12/24, 12:37 PM","6/11/24, 11:38 AM",,38.579226,-112.284156
