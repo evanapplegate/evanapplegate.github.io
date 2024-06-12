@@ -25769,16 +25769,24 @@ UT-Incident--180245,Incidents,SR 143,Iron County,SR 143 at MP 13,"Vehicle on fir
 Both Directions SR 143 at MP 13 (1 Mi N of Brian Head) Iron Co.
 Est. Clearance Time: 12:15 PM","6/12/24, 11:08 AM","6/12/24, 12:15 PM","6/12/24, 11:08 AM",,37.720234,-112.844724
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180247,Incidents,5600 W,Salt Lake County,5600 W at 6200 S,"Crash
-All Directions 5600 W at 6200 S (West Jordan) Salt Lake Co.
-Est. Clearance Time: 2:45 PM","6/12/24, 1:34 PM","6/12/24, 2:45 PM","6/12/24, 1:34 PM",,40.638553,-112.024561
 UT-Incident--180249,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 6200 S,"Crash
 NB Bangerter Hwy  at 6200 S Salt Lake Co.","6/12/24, 2:00 PM","6/12/24, 2:58 PM","6/12/24, 2:00 PM",,40.638572,-111.976589
-UT-Incident--180248,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
-SB I-15 at MP 276 Off Ramp  (500 E / American Fork) Utah Co.
-Est. Clearance Time: 3:00 PM","6/12/24, 1:59 PM","6/12/24, 3:00 PM","6/12/24, 1:59 PM",,40.355866,-111.778344
 UT-Incident--180250,Incidents,I-80,Salt Lake County,I-80 at MP 119,"Stalled Vehicle
 NB I-15 to WB I-80 On Ramp Salt Lake Co.
 Left Lane Blocked
 Est. Clearance Time: 3:15 PM","6/12/24, 2:03 PM","6/12/24, 3:15 PM","6/12/24, 2:03 PM",,40.761924,-111.913139
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180247,Incidents,5600 W,Salt Lake County,5600 W at 6200 S,"Crash
+All Directions 5600 W at 6200 S (West Jordan) Salt Lake Co.
+Est. Clearance Time: 2:45 PM","6/12/24, 1:34 PM","6/12/24, 2:45 PM","6/12/24, 1:34 PM",,40.638553,-112.024561
+UT-Incident--180248,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
+SB I-15 at MP 276 Off Ramp  (500 E / American Fork) Utah Co.
+Est. Clearance Time: 3:00 PM","6/12/24, 1:59 PM","6/12/24, 3:00 PM","6/12/24, 1:59 PM",,40.355866,-111.778344
+UT-Incident--180252,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Vehicle on fire
+NB I-15 at MP 293 (10600 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 3:35 PM","6/12/24, 2:12 PM","6/12/24, 3:35 PM","6/12/24, 2:12 PM",,40.550055,-111.896336
+UT-Incident--180251,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
+WB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 3:15 PM","6/12/24, 2:11 PM","6/12/24, 3:15 PM","6/12/24, 2:11 PM",,40.717537,-111.836246
