@@ -25738,7 +25738,6 @@ NB I-15 at MP 324 (Park Ln) Davis Co.
 Left Shoulder
 Est. Clearance Time: 4:09 AM","6/12/24, 3:10 AM","6/12/24, 4:09 AM","6/12/24, 3:10 AM",,40.988621,-111.903894
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180237,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 NB I-15 at MP 292 (11400 S) Salt Lake Co.
 Left Shoulder
@@ -25751,3 +25750,4 @@ UT-Incident--180240,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
 NB I-15 at MP 266 (N of Center St) Utah Co.
 Left Shoulder
 Est. Clearance Time: 9:15 AM","6/12/24, 8:08 AM","6/12/24, 9:15 AM","6/12/24, 8:08 AM",,40.238135,-111.689206
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
