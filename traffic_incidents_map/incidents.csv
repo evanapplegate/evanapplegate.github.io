@@ -25677,7 +25677,6 @@ UT-Incident--180221,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
 Other SR 36 at MP 59 (Erda) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 5:42 PM","6/11/24, 4:44 PM","6/11/24, 5:42 PM","6/11/24, 4:44 PM",,40.597521,-112.294273
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180225,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
@@ -25706,6 +25705,7 @@ UT-Incident--180228,Incidents,I-15,Washington County,I-15 at MP 12,"Crash
 NB I-15 at MP 12 (Main St / Washington) Washington Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","6/11/24, 6:01 PM","6/11/24, 7:15 PM","6/11/24, 6:01 PM",,37.138873,-113.510033
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180229,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Crash
 NB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Lane Closed
