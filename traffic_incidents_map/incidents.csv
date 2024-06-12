@@ -25827,10 +25827,10 @@ UT-Incident--180262,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 5:50 PM","6/12/24, 4:51 PM","6/12/24, 5:50 PM","6/12/24, 5:03 PM",,40.765772,-111.934049
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180258,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 EB I-80 at MP 124 Off Ramp (State St / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 5:35 PM","6/12/24, 4:26 PM","6/12/24, 5:35 PM","6/12/24, 4:26 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180256,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
 NB I-15 at MP 285 (Lehi) Utah Co.
@@ -25844,3 +25844,15 @@ UT-Incident--180266,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 NB I-15 at MP 277 (American Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6:35 PM","6/12/24, 5:25 PM","6/12/24, 6:35 PM","6/12/24, 5:25 PM",,40.365209,-111.792922
+UT-Incident--180267,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+NB I-15 at MP 282 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 6:30 PM","6/12/24, 5:32 PM","6/12/24, 6:30 PM","6/12/24, 5:32 PM",,40.410606,-111.863979
+UT-Incident--180268,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","6/12/24, 5:34 PM","6/12/24, 6:45 PM","6/12/24, 5:34 PM",,40.346539,-111.763778
+UT-Incident--180269,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+NB I-15 at MP 355 (Box Elder) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","6/12/24, 5:41 PM","6/12/24, 7:00 PM","6/12/24, 5:41 PM",,41.386011,-112.042059
