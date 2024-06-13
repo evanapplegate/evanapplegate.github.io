@@ -25850,7 +25850,6 @@ UT-Incident--180269,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 NB I-15 at MP 355 (Box Elder) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","6/12/24, 5:41 PM","6/12/24, 7:00 PM","6/12/24, 5:41 PM",,41.386011,-112.042059
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180264,Incidents,I-15,Beaver County,I-15 at MP 103,"Crash
 NB I-15 at MP 103 (5 mi S of Beaver) Beaver Co.
 Right Shoulder
@@ -25880,10 +25879,6 @@ EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:21 PM","6/12/24, 6:22 PM","6/12/24, 7:21 PM","6/12/24, 6:22 PM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180273,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Road damage
-SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 7:35 PM","6/12/24, 6:13 PM","6/12/24, 10:35 PM","6/12/24, 6:56 PM",,40.578741,-111.900284
 UT-Incident--180279,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Road damage
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -25892,6 +25887,11 @@ UT-Incident--180281,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 PM","6/12/24, 7:35 PM","6/12/24, 8:45 PM","6/12/24, 7:35 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180273,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Road damage
+SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 7:35 PM","6/12/24, 6:13 PM","6/12/24, 10:35 PM","6/12/24, 6:56 PM",,40.578741,-111.900284
 UT-Incident--180278,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
 WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Left Lane Closed
