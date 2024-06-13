@@ -26005,17 +26005,20 @@ Est. Clearance Time: 4:15 PM","6/13/24, 3:19 PM","6/13/24, 4:15 PM","6/13/24, 3:
 UT-Incident--180307,Incidents,SR 24,Wayne County,SR 24 at MP 114,"Crash
 SR 24 at MP 114 (1 Mi W of Hanksville) Wayne Co.
 Est. Clearance Time: 2:30 PM","6/13/24, 1:28 PM","6/13/24, 2:30 PM","6/13/24, 1:28 PM",,38.371984,-110.746913
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180313,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/13/24, 4:00 PM","6/13/24, 5:00 PM","6/13/24, 4:00 PM",,40.467787,-111.911227
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180315,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
-NB I-15 at MP 285 (Lehi) Utah Co.
-Left Shoulder
-Est. Clearance Time: 5:30 PM","6/13/24, 4:36 PM","6/13/24, 5:30 PM","6/13/24, 4:36 PM",,40.442142,-111.903011
 UT-Incident--180314,Incidents,SR 118,Sevier County,SR 118 at MP 2,"Crash
 NB SR 118 at MP 2 (1100 S.) Sevier Co.
 Left Lane Closed
 Est. Clearance Time: 5:15 PM","6/13/24, 4:16 PM","6/13/24, 5:15 PM","6/13/24, 4:16 PM",,38.631122,-112.192803
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180317,Incidents,1900 W,Weber County,1900 W at 2550 S,"Crash
+Both Directions 1900 W at 2550 S Weber Co.
+Est. Clearance Time: 6:15 PM","6/13/24, 5:05 PM","6/13/24, 6:15 PM","6/13/24, 5:05 PM",,41.219686,-112.025681
+UT-Incident--180315,Incidents,I-15,Utah County,I-15 at MP 285,"Crash
+NB I-15 at MP 285 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 5:30 PM","6/13/24, 4:36 PM","6/13/24, 5:30 PM","6/13/24, 4:36 PM",,40.442142,-111.903011
