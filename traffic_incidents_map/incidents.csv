@@ -25995,7 +25995,6 @@ UT-Incident--180310,Incidents,I-15,Juab County,I-15 at MP 203,"Crash
 NB I-15 at MP 203 (15 mi N of Scipio) Juab Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","6/13/24, 2:51 PM","6/13/24, 4:00 PM","6/13/24, 2:51 PM",,39.44476,-112.02295
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180311,Incidents,I-80,Summit County,I-80 at MP 191,"Crash
 WB I-80 at MP 191 (Wasatch) Summit Co.
 Est. Clearance Time: 4:00 PM","6/13/24, 2:53 PM","6/13/24, 4:00 PM","6/13/24, 2:53 PM",,41.193495,-111.117252
@@ -26006,6 +26005,7 @@ Est. Clearance Time: 4:15 PM","6/13/24, 3:19 PM","6/13/24, 4:15 PM","6/13/24, 3:
 UT-Incident--180307,Incidents,SR 24,Wayne County,SR 24 at MP 114,"Crash
 SR 24 at MP 114 (1 Mi W of Hanksville) Wayne Co.
 Est. Clearance Time: 2:30 PM","6/13/24, 1:28 PM","6/13/24, 2:30 PM","6/13/24, 1:28 PM",,38.371984,-110.746913
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180313,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
