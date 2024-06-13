@@ -25940,11 +25940,11 @@ UT-Incident--180295,Incidents,I-15 SB X261 Off SR 75 Ramp,Utah County,I-15 SB X2
 SB I-15 Exit 261 Hwy 75 Off Ramp (Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","6/13/24, 8:27 AM","6/13/24, 9:30 AM","6/13/24, 8:27 AM",,40.193156,-111.647938
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180293,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (1200 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","6/13/24, 8:10 AM","6/13/24, 9:15 AM",,,40.789416,-111.949318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180297,Incidents,Highland Dr,Salt Lake County,Highland Dr 9405,"Crash
 All Dirs 9400 S at Highland Dr (Sandy) Salt Lake Co.
@@ -25954,6 +25954,10 @@ UT-Incident--180298,Incidents,HWY 73,Utah County,HWY 73 at CROSSROADS BLVD/REDWO
 WB Mountain View Corridor at Redwood Rd (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 10:45 AM","6/13/24, 9:38 AM","6/13/24, 10:45 AM",,,40.387485,-111.916903
+UT-Incident--180300,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Crash
+EB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:15 AM","6/13/24, 10:07 AM","6/13/24, 11:15 AM",,,40.714016,-111.806496
 UT-Incident--180299,Incidents,Redwood Rd,Salt Lake County,Redwood Rd 9201,"Crash
 Both Dirs Redwood Rd at 9300 S (West Jordan) Salt Lake Co.
 Est. Clearance Time: 11:30 AM","6/13/24, 9:53 AM","6/13/24, 11:30 AM",,,40.582711,-111.93868
