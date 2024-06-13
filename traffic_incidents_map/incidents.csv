@@ -25970,11 +25970,14 @@ NB I-15 at MP 330 (Layton Pkwy) Davis Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","6/13/24, 12:16 PM","6/13/24, 1:15 PM","6/13/24, 12:16 PM",,41.054659,-111.961089
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180308,Incidents,12th St,Weber County,12th St at 1200 W,"Crash
 EB 12th St at 1200 W Weber Co.
 Left Lane Closed
 Est. Clearance Time: 2:45 PM","6/13/24, 1:39 PM","6/13/24, 2:45 PM","6/13/24, 1:39 PM",,41.244643,-112.009491
+UT-Incident--180304,Incidents,US 40,Wasatch County,US 40 at MP 56,"Crash
+EB US 40 at MP 56 (5 mi W of Fruitland) Wasatch Co.
+Est. Clearance Time: 1:30 PM","6/13/24, 12:18 PM","6/13/24, 1:30 PM","6/13/24, 12:18 PM",,40.194518,-110.945421
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180306,Incidents,4700 W,Weber County,4700 W at 4000 S,"Crash
 All Directions 4000 S at 4700 S (West Haven) Weber Co.
 Est. Clearance Time: 2:30 PM","6/13/24, 1:19 PM","6/13/24, 2:30 PM","6/13/24, 1:24 PM",,41.190854,-112.093017
@@ -25986,9 +25989,10 @@ UT-Incident--180305,Incidents,I-80,Salt Lake County,I-80 at MP 135,"Vehicle on f
 EB I-80 at MP 135 (Parley's Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","6/13/24, 12:56 PM","6/13/24, 2:30 PM","6/13/24, 12:56 PM",,40.745467,-111.694612
+UT-Incident--180309,Incidents,Main St,Sevier County,Main St at 500 S,"Crash
+SB Main St at 500 S Sevier Co.
+Left Lane Closed
+Est. Clearance Time: 2:30 PM","6/13/24, 1:43 PM","6/13/24, 2:30 PM","6/13/24, 1:43 PM",,38.761125,-112.084774
 UT-Incident--180307,Incidents,SR 24,Wayne County,SR 24 at MP 114,"Crash
 SR 24 at MP 114 (1 Mi W of Hanksville) Wayne Co.
 Est. Clearance Time: 2:30 PM","6/13/24, 1:28 PM","6/13/24, 2:30 PM","6/13/24, 1:28 PM",,38.371984,-110.746913
-UT-Incident--180304,Incidents,US 40,Wasatch County,US 40 at MP 56,"Crash
-EB US 40 at MP 56 (5 mi W of Fruitland) Wasatch Co.
-Est. Clearance Time: 1:30 PM","6/13/24, 12:18 PM","6/13/24, 1:30 PM","6/13/24, 12:18 PM",,40.194518,-110.945421
