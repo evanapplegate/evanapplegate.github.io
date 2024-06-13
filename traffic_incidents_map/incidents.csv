@@ -25878,7 +25878,6 @@ UT-Incident--180275,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:21 PM","6/12/24, 6:22 PM","6/12/24, 7:21 PM","6/12/24, 6:22 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180279,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Road damage
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -25892,6 +25891,14 @@ UT-Incident--180273,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Road damage
 SB I-15 at MP 295 On Ramp (9000 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:35 PM","6/12/24, 6:13 PM","6/12/24, 10:35 PM","6/12/24, 6:56 PM",,40.578741,-111.900284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180283,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
+EB I-215 S at MP 12 (1200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:45 PM","6/12/24, 8:24 PM","6/12/24, 9:45 PM","6/12/24, 8:24 PM",,40.636258,-111.914012
+UT-Incident--180284,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
+SB I-215 W at MP 17 On Ramp (3500 S) Salt Lake Co.
+Est. Clearance Time: 9:35 PM","6/12/24, 8:30 PM","6/12/24, 9:35 PM","6/12/24, 8:30 PM",,40.688869,-111.951947
 UT-Incident--180278,Incidents,I-80,Summit County,I-80 at MP 140,"Crash
 WB I-80 at MP 140 (Summit Park / Park City) Summit Co.
 Left Lane Closed
