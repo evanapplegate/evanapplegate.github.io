@@ -25944,12 +25944,15 @@ UT-Incident--180293,Incidents,I-215 W,Salt Lake County,I-215 W at MP 24,"Crash
 SB I-215 W at MP 24 (1200 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:15 AM","6/13/24, 8:10 AM","6/13/24, 9:15 AM",,,40.789416,-111.949318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180297,Incidents,Highland Dr,Salt Lake County,Highland Dr 9405,"Crash
 All Dirs 9400 S at Highland Dr (Sandy) Salt Lake Co.
 Intersection Blocked, EB/WB Closed
 Est. Clearance Time: 1:00 PM","6/13/24, 9:12 AM","6/13/24, 1:00 PM",,,40.580449,-111.833988
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--180301,Incidents,3400 W,Washington County,3400 W at State St,"Signal Problems
+All Dirs SR-9 at 3400 W (Hurricane) Washington Co.
+Est. Clearance Time: 12:00 PM","6/13/24, 10:50 AM","6/13/24, 12:00 PM",,,37.169097,-113.366939
 UT-Incident--180298,Incidents,HWY 73,Utah County,HWY 73 at CROSSROADS BLVD/REDWOOD RD,"Crash
 WB Mountain View Corridor at Redwood Rd (Lehi) Utah Co.
 Right Shoulder
