@@ -26131,11 +26131,26 @@ UT-Incident--180358,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Stalled Vehi
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:15 PM","6/14/24, 5:05 PM","6/14/24, 6:15 PM","6/14/24, 5:05 PM",,40.747703,-111.639522
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180357,Incidents,SR 14,Iron County,SR 14 at MP 6,"Crash
 SR 14 at MP 6 (4 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 6:00 PM","6/14/24, 4:55 PM","6/14/24, 6:00 PM","6/14/24, 4:55 PM",,37.646842,-112.97024
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180347,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
+EB I-80 at MP 85 (Grantsville) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","6/14/24, 3:53 PM","6/14/24, 5:00 PM","6/14/24, 3:53 PM",,40.703193,-112.499976
+UT-Incident--180349,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
+EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180364,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
+WB 1800 N at 2000 W Davis Co.
+Est. Clearance Time: 6:30 PM","6/14/24, 5:32 PM","6/14/24, 6:30 PM","6/14/24, 5:32 PM",,41.139868,-112.064454
+UT-Incident--180363,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
+WB 4000 S at Midland Dr Weber Co.
+Left Lane Closed
+Est. Clearance Time: 6:30 PM","6/14/24, 5:30 PM","6/14/24, 6:30 PM","6/14/24, 5:32 PM",,41.190637,-112.048311
 UT-Incident--180352,Incidents,I-15,Juab County,I-15 at MP 217,"Crash
 NB I-15 at MP 217 (6 mi S of Nephi) Juab Co.
 Left Shoulder
@@ -26156,14 +26171,6 @@ UT-Incident--180360,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:15 PM","6/14/24, 5:14 PM","6/14/24, 6:15 PM","6/14/24, 5:14 PM",,40.649847,-111.90236
-UT-Incident--180347,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
-EB I-80 at MP 85 (Grantsville) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","6/14/24, 3:53 PM","6/14/24, 5:00 PM","6/14/24, 3:53 PM",,40.703193,-112.499976
-UT-Incident--180349,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
-EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
 UT-Incident--180362,Incidents,I-80,Summit County,I-80 at MP 152,"Crash
 EB I-80 at MP 152 (3 mi W of Wanship) Summit Co.
 Left Lane Closed
