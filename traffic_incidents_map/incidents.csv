@@ -26049,11 +26049,12 @@ SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:58 AM","6/14/24, 3:59 AM","6/14/24, 4:58 AM","6/14/24, 3:59 AM",,40.63583,-111.905066
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180329,Incidents,I-15,Utah County,I-15 at MP 278,"NB On Ramp I-15 Closed
- at MP 278 (Pioneer Xing) Utah Co.
-Use Alt Route","6/14/24, 5:40 AM","6/14/24, 6:37 AM","6/14/24, 5:40 AM",,40.373184,-111.808465
 UT-Incident--180327,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Stalled Vehicle
 EB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:09 AM","6/14/24, 5:10 AM","6/14/24, 6:09 AM","6/14/24, 5:10 AM",,40.725741,-112.001283
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180329,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+Ramp I-15 at MP 278 (Pioneer Xing) Utah Co.
+Cleared at 6:09 AM
+Est. Clearance Time: 6:37 AM","6/14/24, 5:40 AM","6/14/24, 6:37 AM","6/14/24, 6:09 AM",,40.373184,-111.808465
