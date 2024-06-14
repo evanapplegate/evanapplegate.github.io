@@ -26112,7 +26112,6 @@ UT-Incident--180345,Incidents,South Jordan Pkwy,Salt Lake County,South Jordan Pk
 WB South Jordan Pkwy at 1600 West Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:15 PM","6/14/24, 3:12 PM","6/14/24, 4:15 PM","6/14/24, 3:12 PM",,40.562308,-111.938641
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180351,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 EB I-80 at MP 117  Off Ramp (I-215 West Belt) Salt Lake Co.
 Left Shoulder
@@ -26122,10 +26121,22 @@ UT-Incident--180348,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","6/14/24, 3:57 PM","6/14/24, 5:00 PM","6/14/24, 3:57 PM",,40.550055,-111.896336
+UT-Incident--180346,Incidents,US 89,Davis County,US 89 at MP 404,"Crash
+SB US 89 at MP 404 (3000 N Offramp) Davis Co.
+Est. Clearance Time: 4:45 PM","6/14/24, 3:41 PM","6/14/24, 4:45 PM","6/14/24, 3:41 PM",,41.103305,-111.910202
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180352,Incidents,I-15,Juab County,I-15 at MP 217,"Crash
 NB I-15 at MP 217 (6 mi S of Nephi) Juab Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","6/14/24, 4:12 PM","6/14/24, 5:35 PM","6/14/24, 4:12 PM",,39.620933,-111.906013
+UT-Incident--180353,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
+SB I-15 at MP 280 (Lehi) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:45 PM","6/14/24, 4:34 PM","6/14/24, 5:45 PM","6/14/24, 4:34 PM",,40.39191,-111.835579
+UT-Incident--180355,Incidents,I-15,Davis County,I-15 at MP 321,"Crash
+NB I-15 at MP 321 (2100 N, Centrvl) Davis Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","6/14/24, 4:39 PM","6/14/24, 5:45 PM","6/14/24, 4:40 PM",,40.943029,-111.891485
 UT-Incident--180347,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
 EB I-80 at MP 85 (Grantsville) Tooele Co.
 Right Shoulder
@@ -26134,10 +26145,11 @@ UT-Incident--180349,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
+UT-Incident--180354,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
+EB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","6/14/24, 4:37 PM","6/14/24, 5:45 PM","6/14/24, 4:37 PM",,40.74385,-111.657734
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/15/24, 3:15 PM","6/14/24, 2:35 PM",,40.721209,-111.938966
-UT-Incident--180346,Incidents,US 89,Davis County,US 89 at MP 404,"Crash
-SB US 89 at MP 404 (3000 N Offramp) Davis Co.
-Est. Clearance Time: 4:45 PM","6/14/24, 3:41 PM","6/14/24, 4:45 PM","6/14/24, 3:41 PM",,41.103305,-111.910202
