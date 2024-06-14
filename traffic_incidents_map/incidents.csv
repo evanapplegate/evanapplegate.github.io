@@ -26093,7 +26093,6 @@ WB 3500 S at 4400 W Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:08 PM","6/14/24, 1:08 PM","6/14/24, 2:08 PM","6/14/24, 1:08 PM",,40.696466,-111.997347
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180335,Incidents,HWY 12,Garfield County,HWY 12 6651,"Crash
 SB HWY 12 Garfield Co.
 Right Shoulder
@@ -26106,7 +26105,8 @@ UT-Incident--180341,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:35 PM","6/14/24, 2:16 PM","6/14/24, 3:35 PM","6/14/24, 2:16 PM",,40.777705,-111.910735
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
-WB 3 Right Lanes Closed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/15/24, 3:15 PM","6/14/24, 2:20 PM",,40.721209,-111.938966
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/15/24, 3:15 PM","6/14/24, 2:35 PM",,40.721209,-111.938966
