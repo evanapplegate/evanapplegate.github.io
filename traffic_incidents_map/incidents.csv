@@ -26108,11 +26108,15 @@ UT-Incident--180343,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 NB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5/14/2024 3:45 PM","6/14/24, 2:47 PM","6/14/24, 3:44 PM","6/14/24, 3:02 PM",,40.885849,-111.896677
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180345,Incidents,South Jordan Pkwy,Salt Lake County,South Jordan Pkwy at Redwood Rd,"Crash
 WB South Jordan Pkwy at 1600 West Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:15 PM","6/14/24, 3:12 PM","6/14/24, 4:15 PM","6/14/24, 3:12 PM",,40.562308,-111.938641
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180351,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+EB I-80 at MP 117  Off Ramp (I-215 West Belt) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:15 PM","6/14/24, 4:10 PM","6/14/24, 5:15 PM","6/14/24, 4:10 PM",,40.765438,-111.953251
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180348,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 SB I-15 at MP 293 (10600 S) Salt Lake Co.
@@ -26130,10 +26134,6 @@ UT-Incident--180349,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
-UT-Incident--180351,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-EB I-80 at MP 117  Off Ramp (I-215 West Belt) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 5:15 PM","6/14/24, 4:10 PM","6/14/24, 5:15 PM","6/14/24, 4:10 PM",,40.765438,-111.953251
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
