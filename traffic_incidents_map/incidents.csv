@@ -26134,7 +26134,6 @@ Est. Clearance Time: 6:15 PM","6/14/24, 5:05 PM","6/14/24, 6:15 PM","6/14/24, 5:
 UT-Incident--180357,Incidents,SR 14,Iron County,SR 14 at MP 6,"Crash
 SR 14 at MP 6 (4 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 6:00 PM","6/14/24, 4:55 PM","6/14/24, 6:00 PM","6/14/24, 4:55 PM",,37.646842,-112.97024
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180347,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
 EB I-80 at MP 85 (Grantsville) Tooele Co.
 Right Shoulder
@@ -26144,9 +26143,6 @@ EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180364,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
-WB 1800 N at 2000 W Davis Co.
-Est. Clearance Time: 6:30 PM","6/14/24, 5:32 PM","6/14/24, 6:30 PM","6/14/24, 5:32 PM",,41.139868,-112.064454
 UT-Incident--180363,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
 WB 4000 S at Midland Dr Weber Co.
 Left Lane Closed
@@ -26175,10 +26171,18 @@ UT-Incident--180362,Incidents,I-80,Summit County,I-80 at MP 152,"Crash
 EB I-80 at MP 152 (3 mi W of Wanship) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 6:30 PM","6/14/24, 5:26 PM","6/14/24, 6:30 PM","6/14/24, 5:26 PM",,40.78871,-111.453916
+UT-Incident--180356,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 38,"Crash
+Both Directions Redwood Rd at MP 38 (Utah Lake Canal Trail) Salt Lake Co.
+Est. Clearance Time: 6:00 PM","6/14/24, 4:53 PM","6/14/24, 6:00 PM","6/14/24, 4:53 PM",,40.461185,-111.942122
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180364,Incidents,1800 N,Davis County,1800 N at 2000 W,"Crash
+WB 1800 N at 2000 W Davis Co.
+Est. Clearance Time: 6:30 PM","6/14/24, 5:32 PM","6/14/24, 6:30 PM","6/14/24, 5:32 PM",,41.139868,-112.064454
+UT-Incident--180365,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
+NB I-15 at MP 338 (5600 S Offramp) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 7:00 PM","6/14/24, 5:58 PM","6/14/24, 7:00 PM","6/14/24, 5:58 PM",,41.155128,-112.024901
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/15/24, 3:15 PM","6/14/24, 2:35 PM",,40.721209,-111.938966
-UT-Incident--180356,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 38,"Crash
-Both Directions Redwood Rd at MP 38 (Utah Lake Canal Trail) Salt Lake Co.
-Est. Clearance Time: 6:00 PM","6/14/24, 4:53 PM","6/14/24, 6:00 PM","6/14/24, 4:53 PM",,40.461185,-111.942122
