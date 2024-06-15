@@ -26247,11 +26247,11 @@ Est. Clearance Time: 12:25 PM","6/15/24, 11:26 AM","6/15/24, 12:25 PM","6/15/24,
 UT-Incident--180387,Incidents,SR 35,Wasatch County,SR 35 at MP 18,"Crash
 SR 35 at MP 18 (14 Mi E of Woodland) Wasatch Co.
 Est. Clearance Time: 2:50 PM","6/15/24, 1:50 PM","6/15/24, 2:50 PM","6/15/24, 1:50 PM",,40.499837,-111.04092
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180389,Incidents,I-15,Davis County,I-15 at MP 314,"Stalled Vehicle
 NB I-15 at MP 314 (Main St, NSL) Davis Co.
 2 Left Lanes Closed
 Est. Clearance Time: 3:12 PM","6/15/24, 2:13 PM","6/15/24, 3:12 PM","6/15/24, 2:17 PM",,40.846156,-111.91486
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180386,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 SB Offramp I-15 at MP 288 (14600 S) Salt Lake Co.
@@ -26268,3 +26268,7 @@ UT-Incident--180385,Incidents,US 89,Sanpete County,US 89 at MP 277,"Crash
 Both Directions US 89 at MP 277 (Mt Pleasant) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","6/15/24, 1:22 PM","6/15/24, 2:20 PM","6/15/24, 1:22 PM",,39.534559,-111.457131
+UT-Incident--180390,Incidents,US 89,Weber County,US 89 at MP 419,"Crash
+SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
+Right Shoulder
+Est. Clearance Time: 3:39 PM","6/15/24, 2:41 PM","6/15/24, 3:39 PM","6/15/24, 2:41 PM",,41.291245,-111.992296
