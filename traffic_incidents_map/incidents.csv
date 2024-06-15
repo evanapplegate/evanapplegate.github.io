@@ -26231,7 +26231,6 @@ UT-Incident--180381,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
 Ramp NB I-215 W at MP 19 (SR-201 Exit) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:07 AM","6/15/24, 9:09 AM","6/15/24, 10:07 AM","6/15/24, 9:09 AM",,40.717792,-111.95364
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180383,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
 Right Shoulder
@@ -26241,6 +26240,7 @@ SB WASHINGTON BLVD at ADAMS AVE/US 89
 Weber Co.
 Center Lanes Closed
 Est. Clearance Time: 11:20 AM","6/15/24, 10:20 AM","6/15/24, 11:20 AM",,,41.170643,-111.968869
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
