@@ -26183,7 +26183,6 @@ Est. Clearance Time: 7:00 PM","6/14/24, 5:58 PM","6/14/24, 7:00 PM","6/14/24, 5:
 UT-Incident--180367,Incidents,US 40,Duchesne County,US 40 at MP 86,"Crash
 WB US 40 at MP 86 (Duchesne) Duchesne Co.
 Est. Clearance Time: 10:00 PM","6/14/24, 9:04 PM","6/14/24, 10:00 PM","6/14/24, 9:04 PM",,40.163418,-110.411336
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180366,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 SB I-215 W at MP 17 (3500 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -26192,13 +26191,18 @@ UT-Incident--180369,Incidents,Washington Blvd,Weber County,Washington Blvd at 20
 Both Directions Washington Blvd at 20th St Weber Co.
 Est. Clearance Time: 10:30 PM","6/14/24, 9:24 PM","6/14/24, 10:30 PM","6/14/24, 9:24 PM",,41.231111,-111.970233
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180371,Incidents,I-80,Summit County,I-80 at MP 159,"Crash
+EB I-80 at MP 159 (3 mi N of Wanship) Summit Co.
+Est. Clearance Time: 11:00 PM","6/14/24, 9:50 PM","6/14/24, 11:00 PM","6/14/24, 9:50 PM",,40.86167,-111.387933
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180372,Incidents,I-15,Millard County,I-15 at MP 183,"Crash
+SB I-15 at MP 183 (5 mi S of Scipio) Millard Co.
+Right Shoulder
+Est. Clearance Time: 11:30 PM","6/14/24, 10:17 PM","6/14/24, 11:30 PM","6/14/24, 10:17 PM",,39.198168,-112.183878
 UT-Incident--180368,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 10:30 PM","6/14/24, 9:21 PM","6/14/24, 10:30 PM","6/14/24, 9:21 PM",,40.751955,-111.569589
-UT-Incident--180371,Incidents,I-80,Summit County,I-80 at MP 159,"Crash
-EB I-80 at MP 159 (3 mi N of Wanship) Summit Co.
-Est. Clearance Time: 11:00 PM","6/14/24, 9:50 PM","6/14/24, 11:00 PM","6/14/24, 9:50 PM",,40.86167,-111.387933
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
