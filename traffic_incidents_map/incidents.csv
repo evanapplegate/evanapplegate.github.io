@@ -26142,7 +26142,6 @@ UT-Incident--180349,Incidents,I-80,Salt Lake County,I-80 at MP 129,"Crash
 EB I-80 at MP 129 (Chain-up area) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/14/24, 4:03 PM","6/14/24, 5:00 PM","6/14/24, 4:03 PM",,40.715578,-111.784616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180363,Incidents,4000 S,Weber County,4000 S at Midland Dr,"Crash
 WB 4000 S at Midland Dr Weber Co.
 Left Lane Closed
@@ -26182,6 +26181,7 @@ UT-Incident--180365,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 NB I-15 at MP 338 (5600 S Offramp) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 7:00 PM","6/14/24, 5:58 PM","6/14/24, 7:00 PM","6/14/24, 5:58 PM",,41.155128,-112.024901
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
