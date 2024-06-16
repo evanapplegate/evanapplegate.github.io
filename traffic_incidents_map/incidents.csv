@@ -26300,7 +26300,6 @@ UT-Incident--180400,Incidents,SR 92,Utah County,SR 92 at MP 12,"Crash
 WB SR 92 at MP 12 (3 Mi E of Alpine) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM",,,40.449729,-111.672005
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180402,Incidents,SR 196,Tooele County,SR 196 at MP 26,"Crash
 Other SR 196 at MP 26 (10 mi S of I-80 Jct) Tooele Co.
 Right Shoulder
@@ -26310,6 +26309,11 @@ UT-Incident--180403,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:41 PM","6/15/24, 9:41 PM","6/15/24, 10:41 PM","6/15/24, 9:41 PM",,40.679062,-111.902181
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180404,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
+SB I-15 at MP 293 (10600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:49 PM","6/15/24, 9:50 PM","6/15/24, 10:49 PM","6/15/24, 9:50 PM",,40.550055,-111.896336
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
