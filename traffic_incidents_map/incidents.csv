@@ -26368,11 +26368,11 @@ UT-Incident--180419,Incidents,SR 32,Summit County,SR 32 at MP 21,"Crash
 Both Directions SR 32 at MP 21 (Peoa) Summit Co.
 Est. Clearance Time: 2:45 PM","6/16/24, 12:52 PM","6/16/24, 2:45 PM","6/16/24, 1:56 PM",,40.725814,-111.342422
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180420,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:37 PM","6/16/24, 2:38 PM","6/16/24, 3:37 PM","6/16/24, 2:38 PM",,40.831692,-111.91596
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180422,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Police incident
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Right Lane Closed
@@ -26380,16 +26380,19 @@ Est. Clearance Time: 3:57 PM","6/16/24, 2:57 PM","6/16/24, 3:57 PM","6/16/24, 3:
 UT-Incident--180424,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
 Right Shoulder
-Est. Clearance Time: 4:04 PM","6/16/24, 3:05 PM","6/16/24, 4:04 PM","6/16/24, 3:05 PM",,,
+Est. Clearance Time: 4:04 PM","6/16/24, 3:05 PM","6/16/24, 4:04 PM","6/16/24, 3:05 PM",,39.991194,-111.764095
 UT-Incident--180423,Incidents,I-80,Summit County,I-80 at MP 182,"Crash
 EB I-80 at MP 182 (2 mi E of Emory) Summit Co.
 Right Shoulder
-Est. Clearance Time: 4:03 PM","6/16/24, 3:04 PM","6/16/24, 4:03 PM","6/16/24, 3:04 PM",,,
+Est. Clearance Time: 4:03 PM","6/16/24, 3:04 PM","6/16/24, 4:03 PM","6/16/24, 3:04 PM",,41.096757,-111.218919
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 3:15 PM","6/15/24, 1:51 PM",,40.721209,-111.938966
+UT-Incident--180425,Incidents,SR 190,Salt Lake County,SR 190 at MP 4,"Police incident
+WB SR 190 at MP 4 (Power Plant) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 4:20 PM","6/16/24, 3:20 PM","6/16/24, 4:20 PM","6/16/24, 3:20 PM",,40.623959,-111.75227
 UT-Incident--180421,Incidents,STATE ST,Salt Lake County,STATE ST at 4500 S,"Crash
 SB STATE ST CLOSED at 4500 S Salt Lake Co.
-EB 4500 S CLOSED at State Street 
-Est. Clearance Time: 4:00 PM","6/16/24, 2:56 PM","6/16/24, 4:00 PM","6/16/24, 2:56 PM",,40.674401,-111.888182
+Est. Clearance Time: 4:00 PM","6/16/24, 2:56 PM","6/16/24, 4:00 PM","6/16/24, 3:07 PM",,40.674401,-111.888182
