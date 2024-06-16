@@ -26262,7 +26262,6 @@ UT-Incident--180385,Incidents,US 89,Sanpete County,US 89 at MP 277,"Crash
 Both Directions US 89 at MP 277 (Mt Pleasant) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","6/15/24, 1:22 PM","6/15/24, 2:20 PM","6/15/24, 1:22 PM",,39.534559,-111.457131
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180396,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
 NB I-15 at MP 346 (Pioneer Rd) Weber Co.
 Right Shoulder
@@ -26283,6 +26282,7 @@ SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:39 PM","6/15/24, 2:41 PM","6/15/24, 6:39 PM","6/15/24, 3:24 PM",,41.291245,-111.992296
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180399,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 Off Ramp NB I-15 at MP 59 (200 N / Cedar City) Iron Co.
 Est. Clearance Time: 7:21 PM","6/15/24, 6:22 PM","6/15/24, 7:21 PM","6/15/24, 6:22 PM",,37.68304,-113.079774
@@ -26302,3 +26302,7 @@ UT-Incident--180400,Incidents,SR 92,Utah County,SR 92 at MP 12,"Crash
 WB SR 92 at MP 12 (3 Mi E of Alpine) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM","6/15/24, 7:33 PM",,40.449729,-111.672005
+UT-Incident--180401,Incidents,Washington Blvd,Weber County,Washington Blvd at 2600 N,"Crash
+Both Directions Washington Blvd at 2600 N Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 9:23 PM","6/15/24, 8:24 PM","6/15/24, 9:23 PM","6/15/24, 8:24 PM",,0.0,0.0
