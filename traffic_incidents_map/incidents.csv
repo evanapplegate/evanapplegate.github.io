@@ -26282,27 +26282,27 @@ SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:39 PM","6/15/24, 2:41 PM","6/15/24, 6:39 PM","6/15/24, 3:24 PM",,41.291245,-111.992296
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--180401,Incidents,2600 N,Weber County,2600 N at 400 E/WASHINGTON BLVD,"Crash
+EB 2600 N at 400 E/WASHINGTON BLVD Weber Co.
+4 Right Lanes Closed
+Est. Clearance Time: 9:23 PM","6/15/24, 8:24 PM","6/15/24, 9:23 PM",,,41.305869,-111.968797
 UT-Incident--180399,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 Off Ramp NB I-15 at MP 59 (200 N / Cedar City) Iron Co.
-Est. Clearance Time: 7:21 PM","6/15/24, 6:22 PM","6/15/24, 7:21 PM","6/15/24, 6:22 PM",,37.68304,-113.079774
+Est. Clearance Time: 7:21 PM","6/15/24, 6:22 PM","6/15/24, 7:21 PM",,,37.68304,-113.079774
 UT-Incident--180392,Incidents,MOUNTAIN VIEW CORR NB,Salt Lake County,MOUNTAIN VIEW CORR NB,"Crash
 SB Mountain View Corridor Hwy at 3500 S Salt Lake Co.
 Left Shoulder
-Est. Clearance Time: 4:07 PM","6/15/24, 3:10 PM","6/15/24, 4:07 PM","6/15/24, 3:14 PM",,40.691955,-112.028984
+Est. Clearance Time: 4:07 PM","6/15/24, 3:10 PM","6/15/24, 4:07 PM",,,40.691955,-112.028984
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 3:15 PM","6/15/24, 1:51 PM",,40.721209,-111.938966
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 3:15 PM",,,40.721209,-111.938966
 UT-Incident--180398,Incidents,SR 143,Garfield County,SR 143 at MP 47,"Crash
 Both Directions SR 143 at MP 47 (4 Mi SW of Panguitch) Garfield Co.
 Right Shoulder
-Est. Clearance Time: 7:04 PM","6/15/24, 6:06 PM","6/15/24, 7:04 PM","6/15/24, 6:29 PM",,37.76854,-112.454098
+Est. Clearance Time: 7:04 PM","6/15/24, 6:06 PM","6/15/24, 7:04 PM",,,37.76854,-112.454098
 UT-Incident--180400,Incidents,SR 92,Utah County,SR 92 at MP 12,"Crash
 WB SR 92 at MP 12 (3 Mi E of Alpine) Utah Co.
 Right Shoulder
-Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM","6/15/24, 7:33 PM",,40.449729,-111.672005
-UT-Incident--180401,Incidents,Washington Blvd,Weber County,Washington Blvd at 2600 N,"Crash
-Both Directions Washington Blvd at 2600 N Weber Co.
-2 Right Lanes Closed
-Est. Clearance Time: 9:23 PM","6/15/24, 8:24 PM","6/15/24, 9:23 PM","6/15/24, 8:24 PM",,0.0,0.0
+Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM",,,40.449729,-111.672005
