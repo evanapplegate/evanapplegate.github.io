@@ -26281,7 +26281,6 @@ UT-Incident--180390,Incidents,US 89,Weber County,US 89 at MP 419,"Crash
 SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 6:39 PM","6/15/24, 2:41 PM","6/15/24, 6:39 PM","6/15/24, 3:24 PM",,41.291245,-111.992296
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180401,Incidents,2600 N,Weber County,2600 N at 400 E/WASHINGTON BLVD,"Crash
 EB 2600 N at 400 E/WASHINGTON BLVD Weber Co.
 4 Right Lanes Closed
@@ -26301,6 +26300,7 @@ UT-Incident--180400,Incidents,SR 92,Utah County,SR 92 at MP 12,"Crash
 WB SR 92 at MP 12 (3 Mi E of Alpine) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM",,,40.449729,-111.672005
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
