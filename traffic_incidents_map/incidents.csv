@@ -26339,14 +26339,18 @@ UT-Incident--180412,Incidents,700 E,Salt Lake County,700 E at 3900 S,"Fire Affec
 700 E is closed at 3900 S to 3300 S. ( Salt Lake Co)
 Use Alt Route","6/16/24, 5:57 AM","6/16/24, 9:30 AM","6/16/24, 5:57 AM",,40.687072,-111.871369
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180413,Incidents,1200 W,Utah County,1200 W at 800 N,"Crash
 EB 1200 W at 800 N Utah Co.
 Right Lane Closed
 Est. Clearance Time: 7:20 AM","6/16/24, 6:19 AM","6/16/24, 7:20 AM","6/16/24, 6:19 AM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180409,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 11,"Crash
 Both Directions of Bangerter Hwy are closed at 9800 S. and 10400 S. (Salt Lake Co)
 Use Alt Route","6/16/24, 2:45 AM","6/16/24, 10:45 AM","6/16/24, 6:00 AM",,40.58218,-111.977116
+UT-Incident--180414,Incidents,I-15 SB X309 Off 600 N EB Ramp,Salt Lake County,I-15 SB X309 Off 600 N EB Ramp at 600 N,"Stalled Vehicle
+SB I-15 600 N Off Ramp ( 309) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 8:15 AM","6/16/24, 7:14 AM","6/16/24, 8:15 AM","6/16/24, 7:14 AM",,40.782432,-111.910835
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
