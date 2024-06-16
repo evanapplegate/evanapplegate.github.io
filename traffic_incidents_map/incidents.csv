@@ -26263,7 +26263,6 @@ Both Directions US 89 at MP 277 (Mt Pleasant) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","6/15/24, 1:22 PM","6/15/24, 2:20 PM","6/15/24, 1:22 PM",,39.534559,-111.457131
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180396,Incidents,I-15,Weber County,I-15 at MP 346,"Crash
 NB I-15 at MP 346 (Pioneer Rd) Weber Co.
 Right Shoulder
@@ -26271,6 +26270,19 @@ Est. Clearance Time: 6:12 PM","6/15/24, 5:13 PM","6/15/24, 6:12 PM","6/15/24, 5:
 UT-Incident--180397,Incidents,I-15,Juab County,I-15 at MP 197,"Crash
 NB I-15 at MP 197 (9 mi N of Scipio) Juab Co.
 Est. Clearance Time: 6:26 PM","6/15/24, 5:32 PM","6/15/24, 6:26 PM","6/15/24, 5:32 PM",,39.371095,-112.07989
+UT-Incident--180393,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
+SB SR 36 at MP 59 (Erda) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 4:13 PM","6/15/24, 3:14 PM","6/15/24, 4:13 PM","6/15/24, 3:42 PM",,40.597521,-112.294273
+UT-Incident--180395,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
+EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
+Center Lanes Closed
+Est. Clearance Time: 6:03 PM","6/15/24, 5:08 PM","6/15/24, 6:03 PM","6/15/24, 5:08 PM",,40.35648,-111.576663
+UT-Incident--180390,Incidents,US 89,Weber County,US 89 at MP 419,"Crash
+SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 6:39 PM","6/15/24, 2:41 PM","6/15/24, 6:39 PM","6/15/24, 3:24 PM",,41.291245,-111.992296
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180399,Incidents,I-15,Iron County,I-15 at MP 59,"Crash
 Off Ramp NB I-15 at MP 59 (200 N / Cedar City) Iron Co.
 Est. Clearance Time: 7:21 PM","6/15/24, 6:22 PM","6/15/24, 7:21 PM","6/15/24, 6:22 PM",,37.68304,-113.079774
@@ -26286,15 +26298,7 @@ UT-Incident--180398,Incidents,SR 143,Garfield County,SR 143 at MP 47,"Crash
 Both Directions SR 143 at MP 47 (4 Mi SW of Panguitch) Garfield Co.
 Right Shoulder
 Est. Clearance Time: 7:04 PM","6/15/24, 6:06 PM","6/15/24, 7:04 PM","6/15/24, 6:29 PM",,37.76854,-112.454098
-UT-Incident--180393,Incidents,SR 36,Tooele County,SR 36 at MP 59,"Crash
-SB SR 36 at MP 59 (Erda) Tooele Co.
+UT-Incident--180400,Incidents,SR 92,Utah County,SR 92 at MP 12,"Crash
+WB SR 92 at MP 12 (3 Mi E of Alpine) Utah Co.
 Right Shoulder
-Est. Clearance Time: 4:13 PM","6/15/24, 3:14 PM","6/15/24, 4:13 PM","6/15/24, 3:42 PM",,40.597521,-112.294273
-UT-Incident--180395,Incidents,US 189,Utah County,US 189 at MP 13,"Crash
-EB US 189 at MP 13 (Vivian Park 4 mi S Provo) Utah Co.
-Center Lanes Closed
-Est. Clearance Time: 6:03 PM","6/15/24, 5:08 PM","6/15/24, 6:03 PM","6/15/24, 5:08 PM",,40.35648,-111.576663
-UT-Incident--180390,Incidents,US 89,Weber County,US 89 at MP 419,"Crash
-SB US 89 at MP 419 (1800 N / Ogden) Weber Co.
-Right Lane Closed
-Est. Clearance Time: 6:39 PM","6/15/24, 2:41 PM","6/15/24, 6:39 PM","6/15/24, 3:24 PM",,41.291245,-111.992296
+Est. Clearance Time: 8:24 PM","6/15/24, 7:33 PM","6/15/24, 8:24 PM","6/15/24, 7:33 PM",,40.449729,-111.672005
