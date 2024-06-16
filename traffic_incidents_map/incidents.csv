@@ -26316,7 +26316,6 @@ UT-Incident--180405,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 Ramp I-15 at MP 309 (600 N) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:05 AM","6/16/24, 12:06 AM","6/16/24, 1:05 AM","6/16/24, 12:06 AM",,40.777705,-111.910735
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180408,Incidents,I-15,Utah County,I-15 at MP 262,"Crash
 SB I-15 at MP 262 (Provo) Utah Co.
 Right Shoulder
@@ -26329,6 +26328,7 @@ UT-Incident--180406,Incidents,SR 116,Sanpete County,SR 116 at MP 4,"Crash
 WB SR 116 at MP 4 (4 MI of SR-132 Jct Moroni) Sanpete Co.
 Right Lane Closed
 Est. Clearance Time: 1:52 AM","6/16/24, 12:54 AM","6/16/24, 1:52 AM","6/16/24, 12:55 AM",,39.546753,-111.512682
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
