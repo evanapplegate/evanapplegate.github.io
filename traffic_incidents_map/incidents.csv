@@ -26394,7 +26394,6 @@ UT-Incident--180427,Incidents,US 189,Utah County,US 189 at MP 11,"Crash
 NB US 189 at MP 11 (Bridal Veil Falls) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:38 PM","6/16/24, 4:39 PM","6/16/24, 5:38 PM","6/16/24, 4:39 PM",,40.340167,-111.606843
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180428,Incidents,I-15,Utah County,I-15 at MP 263,"Crash
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Right Lanes Closed
@@ -26407,14 +26406,19 @@ UT-Incident--180431,Incidents,Highland Dr,Salt Lake County,Highland Dr at 6400 S
 NB Highland Dr at 6400 S Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 6:59 PM","6/16/24, 5:59 PM","6/16/24, 6:59 PM","6/16/24, 5:59 PM",,40.634677,-111.834259
-UT-Incident--180429,Incidents,I-15,Millard County,I-15 at MP 134,"Crash
-NB I-15 at MP 134 (Black Rock Rd / Cove Fort) Millard Co.
-Right Shoulder
-Est. Clearance Time: 5:52 PM","6/16/24, 4:53 PM","6/16/24, 5:52 PM","6/16/24, 4:53 PM",,38.603177,-112.609096
 UT-Incident--180430,Incidents,I-215 W,Salt Lake County,I-215 W at MP 18,"Fire affecting roadway
 NB I-215 W at MP 18 (2900 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 6:40 PM","6/16/24, 5:42 PM","6/16/24, 6:40 PM","6/16/24, 6:00 PM",,40.703296,-111.95315
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180429,Incidents,I-15,Millard County,I-15 at MP 134,"Crash
+NB I-15 at MP 134 (Black Rock Rd / Cove Fort) Millard Co.
+Right Shoulder
+Est. Clearance Time: 5:52 PM","6/16/24, 4:53 PM","6/16/24, 5:52 PM","6/16/24, 4:53 PM",,38.603177,-112.609096
+UT-Incident--180433,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
+SB I-215 W at MP 15 (5100 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 8:09 PM","6/16/24, 7:10 PM","6/16/24, 8:09 PM","6/16/24, 7:10 PM",,40.659924,-111.952783
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
