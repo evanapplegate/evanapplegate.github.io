@@ -26455,7 +26455,6 @@ EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:20 AM","6/17/24, 8:17 AM","6/17/24, 9:20 AM","6/17/24, 8:17 AM",,40.718237,-112.076122
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180448,Incidents,4500 S,Salt Lake County,4500 S at 500 W,"Crash
 All Directions 4500 S at 500 W Salt Lake Co.
 Left Lane Closed WB, Center Lane Closed SB
@@ -26467,18 +26466,23 @@ Est. Clearance Time: 9:45 AM","6/17/24, 8:41 AM","6/17/24, 9:45 AM","6/17/24, 8:
 UT-Incident--180444,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
 Est. Clearance Time: 9:20 AM","6/17/24, 7:21 AM","6/17/24, 9:20 AM","6/17/24, 8:46 AM",,41.414023,-112.050731
-UT-Incident--180445,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
-NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
-Right Shoulder
-Est. Clearance Time: 9:15 AM","6/17/24, 7:45 AM","6/17/24, 9:15 AM","6/17/24, 8:46 AM",,39.991194,-111.764095
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 3:15 PM","6/15/24, 1:51 PM",,40.721209,-111.938966
 UT-Incident--180449,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:45 AM","6/17/24, 8:34 AM","6/17/24, 9:45 AM","6/17/24, 8:34 AM",,40.718237,-112.076122
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180445,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
+NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
+Right Shoulder
+Est. Clearance Time: 9:30 AM","6/17/24, 7:45 AM","6/17/24, 9:30 AM","6/17/24, 9:10 AM",,39.991194,-111.764095
+UT-Incident--180451,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 (4500 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 10:07 AM","6/17/24, 9:08 AM","6/17/24, 10:07 AM","6/17/24, 9:08 AM",,40.664677,-111.90152
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 3:15 PM","6/15/24, 1:51 PM",,40.721209,-111.938966
 UT-Incident--180446,Incidents,US 191,Duchesne County,US 191 at MP 268,"Crash
 NB US 191 at MP 268 (18 miles N of Helper) Duchesne Co.
 Right Shoulder
