@@ -26421,7 +26421,6 @@ UT-Incident--180435,Incidents,3300 S,Salt Lake County,3300 S at 300 W,"Crash
 EB 3300 S at 300 W Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:13 PM","6/16/24, 9:14 PM","6/16/24, 10:13 PM","6/16/24, 9:14 PM",,40.699893,-111.900021
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180436,Incidents,I-15,Millard County,I-15 at MP 167,"Crash
 NB I-15 at MP 167 (1650 N / Fillmore) Millard Co.
 Right Shoulder
@@ -26431,10 +26430,11 @@ NB US 89 at MP 285 (1 mile N of Fairview) Sanpete Co.
 Right Shoulder
 Est. Clearance Time: 9:53 PM","6/16/24, 8:54 PM","6/16/24, 9:53 PM","6/16/24, 8:54 PM",,39.6446,-111.449894
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180437,Incidents,I-80,Summit County,I-80 at MP 179,"Crash
 WB I-80 at MP 179 (Emory) Summit Co.
-Right Shoulder
-Est. Clearance Time: 6/17/2024 12:01 AM","6/16/24, 11:02 PM","6/17/24, 12:01 AM","6/16/24, 11:02 PM",,41.070661,-111.26329
+Left Lane Closed
+Est. Clearance Time: 6/17/2024 12:01 AM","6/16/24, 11:02 PM","6/17/24, 12:01 AM","6/16/24, 11:13 PM",,41.070661,-111.26329
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
