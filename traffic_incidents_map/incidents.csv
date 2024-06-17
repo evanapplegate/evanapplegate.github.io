@@ -26537,7 +26537,6 @@ UT-Incident--180471,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Fire
 SB Legacy Pkwy at MP 1 (Center St) Davis Co.
 Right Lane Closed
 Est. Clearance Time: 5:35 PM","6/17/24, 4:33 PM","6/17/24, 5:35 PM","6/17/24, 4:33 PM",,40.840909,-111.942301
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180467,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
@@ -26547,6 +26546,7 @@ UT-Incident--180466,Incidents,12300 S,Salt Lake County,12300 S at 265 W,"Crash
 Both Directions 12300 S at 265 W Salt Lake Co.
 WB Closed
 Est. Clearance Time: 6:30 PM","6/17/24, 3:01 PM","6/17/24, 6:30 PM","6/17/24, 4:03 PM",,40.526841,-111.898961
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180472,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 Ramp NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
