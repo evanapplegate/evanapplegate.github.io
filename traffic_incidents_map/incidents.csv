@@ -26501,7 +26501,6 @@ Est. Clearance Time: 1:15 PM","6/17/24, 12:11 PM","6/17/24, 1:15 PM","6/17/24, 1
 UT-Incident--180455,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.
 Est. Clearance Time: 2:30 PM","6/17/24, 12:02 PM","6/17/24, 2:30 PM","6/17/24, 1:39 PM",,40.755521,-111.587294
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180457,Incidents,HWY 13,Box Elder County,HWY 13 at HWY 83,"Crash
 WB HWY 13 at HWY 83 Box Elder Co.
 Right Shoulder
@@ -26509,6 +26508,7 @@ Est. Clearance Time: 1:53 PM","6/17/24, 12:53 PM","6/17/24, 1:53 PM","6/17/24, 1
 UT-Incident--180459,Incidents,I-15,Utah County,I-15 at MP 272,"Fire affecting roadway
 SB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Est. Clearance Time: 2:55 PM","6/17/24, 1:52 PM","6/17/24, 2:55 PM","6/17/24, 1:52 PM",,40.316406,-111.72616
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180462,Incidents,I-15,Davis County,I-15 at MP 324,"Crash
 NB I-15 at MP 324 (Park Ln) Davis Co.
