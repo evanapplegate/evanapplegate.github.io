@@ -26525,7 +26525,6 @@ Use Alt Route","6/17/24, 2:09 PM","6/17/24, 3:10 PM","6/17/24, 2:19 PM",,41.2066
 UT-Incident--180465,Incidents,US 6,Millard County,US 6 at MP 86,"Crash
 All Directions US 6 at MP 86 (1 Mi W of Delta) Millard Co.
 Est. Clearance Time: 3:52 PM","6/17/24, 2:53 PM","6/17/24, 3:52 PM","6/17/24, 2:53 PM",,39.331117,-112.613116
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180469,Incidents,I-15,Iron County,I-15 at MP 61,"Fire affecting roadway
 NB I-15 at MP 61 (400 W / Cedar City) Iron Co.
 Right Shoulder
@@ -26535,6 +26534,11 @@ NB SR 144 at MP 0 (SR-92 Jct) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:14 PM","6/17/24, 3:15 PM","6/17/24, 4:14 PM","6/17/24, 3:17 PM",,40.453734,-111.662097
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180471,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Fire affecting roadway
+SB Legacy Pkwy at MP 1 (Center St) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 5:35 PM","6/17/24, 4:33 PM","6/17/24, 5:35 PM","6/17/24, 4:33 PM",,40.840909,-111.942301
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180466,Incidents,12300 S,Salt Lake County,12300 S at 265 W,"Crash
 Both Directions 12300 S at 265 W Salt Lake Co.
 WB Closed
@@ -26543,10 +26547,10 @@ UT-Incident--180467,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:05 PM","6/17/24, 3:06 PM","6/17/24, 4:05 PM","6/17/24, 3:06 PM",,40.607173,-111.905403
-UT-Incident--180471,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 1,"Fire affecting roadway
-SB Legacy Pkwy at MP 1 (Center St) Davis Co.
-Right Lane Closed
-Est. Clearance Time: 5:35 PM","6/17/24, 4:33 PM","6/17/24, 5:35 PM","6/17/24, 4:33 PM",,40.840909,-111.942301
+UT-Incident--180472,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
+Ramp NB I-15 at MP 284 (SR-92 Exit) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:47 PM","6/17/24, 4:48 PM","6/17/24, 5:47 PM","6/17/24, 4:48 PM",,40.431127,-111.890772
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
