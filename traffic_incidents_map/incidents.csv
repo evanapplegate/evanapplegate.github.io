@@ -26513,15 +26513,24 @@ NB I-15 at MP 324 (Park Ln) Davis Co.
 Right Shoulder
 Est. Clearance Time: 3:16 PM","6/17/24, 2:16 PM","6/17/24, 3:16 PM","6/17/24, 2:16 PM",,40.985152,-111.899709
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180466,Incidents,12300 S,Salt Lake County,12300 S at 265 W,"Crash
-Both Directions 12300 S at 265 W Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 6:30 PM","6/17/24, 3:01 PM","6/17/24, 6:30 PM","6/17/24, 3:44 PM",,40.526841,-111.898961
 UT-Incident--180463,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:35 PM","6/17/24, 2:46 PM","6/17/24, 3:35 PM","6/17/24, 2:46 PM",,40.52103,-111.891246
+UT-Incident--180461,Incidents,SR 130,Iron County,SR 130 at MP 35,"Crash
+Both Directions SR 130 at MP 35 (7 MI from Minersville) Iron Co.
+Est. Clearance Time: 3:11 PM","6/17/24, 2:11 PM","6/17/24, 3:11 PM","6/17/24, 2:11 PM",,38.113874,-112.952072
+UT-Incident--180460,Incidents,SR 167,Morgan County,SR 167 at MP 7,"Crash
+Both Directions SR 167 Closed at MP 7 (4 miles S of Old Hwy Rd) Morgan Co.
+Use Alt Route","6/17/24, 2:09 PM","6/17/24, 3:10 PM","6/17/24, 2:19 PM",,41.206684,-111.815229
+UT-Incident--180465,Incidents,US 6,Millard County,US 6 at MP 86,"Crash
+All Directions US 6 at MP 86 (1 Mi W of Delta) Millard Co.
+Est. Clearance Time: 3:52 PM","6/17/24, 2:53 PM","6/17/24, 3:52 PM","6/17/24, 2:53 PM",,39.331117,-112.613116
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180466,Incidents,12300 S,Salt Lake County,12300 S at 265 W,"Crash
+Both Directions 12300 S at 265 W Salt Lake Co.
+WB Closed
+Est. Clearance Time: 6:30 PM","6/17/24, 3:01 PM","6/17/24, 6:30 PM","6/17/24, 4:03 PM",,40.526841,-111.898961
 UT-Incident--180467,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
@@ -26534,16 +26543,10 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM","6/17/24, 1:56 PM",,40.721209,-111.938966
-UT-Incident--180461,Incidents,SR 130,Iron County,SR 130 at MP 35,"Crash
-Both Directions SR 130 at MP 35 (7 MI from Minersville) Iron Co.
-Est. Clearance Time: 3:11 PM","6/17/24, 2:11 PM","6/17/24, 3:11 PM","6/17/24, 2:11 PM",,38.113874,-112.952072
+UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Water Main Break
+SB Redwood Rd at Indiana Ave Salt Lake Co.
+Est. Clearance Time: 10:00 PM","6/17/24, 4:07 PM","6/17/24, 10:00 PM","6/17/24, 4:20 PM",,40.750242,-111.939001
 UT-Incident--180468,Incidents,SR 144,Utah County,SR 144 at MP 0,"Crash
 NB SR 144 at MP 0 (SR-92 Jct) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 4:14 PM","6/17/24, 3:15 PM","6/17/24, 4:14 PM","6/17/24, 3:17 PM",,40.453734,-111.662097
-UT-Incident--180460,Incidents,SR 167,Morgan County,SR 167 at MP 7,"Crash
-Both Directions SR 167 Closed at MP 7 (4 miles S of Old Hwy Rd) Morgan Co.
-Use Alt Route","6/17/24, 2:09 PM","6/17/24, 3:10 PM","6/17/24, 2:19 PM",,41.206684,-111.815229
-UT-Incident--180465,Incidents,US 6,Millard County,US 6 at MP 86,"Crash
-All Directions US 6 at MP 86 (1 Mi W of Delta) Millard Co.
-Est. Clearance Time: 3:52 PM","6/17/24, 2:53 PM","6/17/24, 3:52 PM","6/17/24, 2:53 PM",,39.331117,-112.613116
