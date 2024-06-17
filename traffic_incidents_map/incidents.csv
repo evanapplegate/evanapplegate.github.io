@@ -26443,7 +26443,6 @@ Est. Clearance Time: 3:44 AM","6/17/24, 2:44 AM","6/17/24, 3:44 AM","6/17/24, 3:
 UT-Incident--180440,Incidents,I-70,Sevier County,I-70 at MP 31,"Crash
 EB I-70 at MP 31 (6 Mi W of Richfield) Sevier Co.
 Est. Clearance Time: 5:55 AM","6/17/24, 4:21 AM","6/17/24, 5:55 AM","6/17/24, 5:12 AM",,38.674379,-112.163157
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180441,Incidents,500 S,Davis County,500 S at 800 W,"Road Closure
 Both Directions 500 S Closed at 800 W (Davis Co)
 Use Alt Route","6/17/24, 5:21 AM","6/17/24, 10:05 AM","6/17/24, 6:19 AM",,40.884207,-111.902007
@@ -26451,6 +26450,7 @@ UT-Incident--180442,Incidents,I-15 NB X343 On 2100 S Ramp,Weber County,I-15 NB X
 NB I-15 2100 S On Ramp (MP343) Weber Co.
 Right Shoulder
 Est. Clearance Time: 8:00 AM","6/17/24, 6:59 AM","6/17/24, 8:00 AM","6/17/24, 6:59 AM",,41.22965,-112.011083
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180444,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
