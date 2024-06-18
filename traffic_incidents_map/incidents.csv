@@ -26593,7 +26593,6 @@ UT-Incident--180486,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
 EB US 6 at MP 192 (3 Mi W of Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:55 AM","6/18/24, 6:55 AM","6/18/24, 7:55 AM","6/18/24, 6:55 AM",,39.991472,-111.386113
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180488,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder
@@ -26605,21 +26604,22 @@ Est. Clearance Time: 9:30 AM","6/18/24, 8:34 AM","6/18/24, 9:30 AM",,,37.176585,
 UT-Incident--180491,Incidents,HARRISVILLE RD,Weber County,HARRISVILLE RD 281,"Crash
 SB Washington Blvd at 700 N Weber Co.
 Est. Clearance Time: 10:00 AM","6/18/24, 9:02 AM","6/18/24, 10:00 AM",,,41.264824,-111.973306
-UT-Incident--180483,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
-EB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
-Right Lane Closed
-Est. Clearance Time: 10:00 AM","6/18/24, 5:55 AM","6/18/24, 10:00 AM",,,41.886366,-112.496058
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM",,,40.721209,-111.938966
-UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Utility work
-SB Redwood Rd at Indiana Ave Salt Lake Co.
-Traffic using center median
-Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM",,,40.750242,-111.939001
-UT-Incident--180487,Incidents,US 91,Box Elder County,US 91 at MP 4,"Crash
-NB US 91 at MP 4 (1.5 MI from Mantua) Box Elder Co.
-Est. Clearance Time: 9:45 AM","6/18/24, 7:29 AM","6/18/24, 9:45 AM",,,41.499746,-111.985862
 UT-Incident--180492,Incidents,Washington Blvd,Weber County,Washington Blvd at 26th St,"Crash
 NB Washington Blvd at 26th St Weber Co.
 Est. Clearance Time: 10:03 AM","6/18/24, 9:04 AM","6/18/24, 10:03 AM",,,41.218565,-111.970524
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180483,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
+EB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 10:00 AM","6/18/24, 5:55 AM","6/18/24, 10:00 AM","6/18/24, 8:46 AM",,41.886366,-112.496058
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM","6/17/24, 1:56 PM",,40.721209,-111.938966
+UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Utility work
+SB Redwood Rd at Indiana Ave Salt Lake Co.
+Traffic using center median
+Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
+UT-Incident--180487,Incidents,US 91,Box Elder County,US 91 at MP 4,"Crash
+NB US 91 at MP 4 (1.5 MI from Mantua) Box Elder Co.
+Est. Clearance Time: 9:45 AM","6/18/24, 7:29 AM","6/18/24, 9:45 AM","6/18/24, 9:05 AM",,41.499746,-111.985862
