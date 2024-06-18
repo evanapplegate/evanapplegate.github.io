@@ -26546,11 +26546,14 @@ Both Directions 12300 S at 265 W Salt Lake Co.
 WB Closed
 Est. Clearance Time: 6:30 PM","6/17/24, 3:01 PM","6/17/24, 6:30 PM","6/17/24, 4:03 PM",,40.526841,-111.898961
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180472,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 Ramp NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/17/24, 4:48 PM","6/17/24, 5:47 PM","6/17/24, 4:48 PM",,40.431127,-111.890772
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180473,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 7800 S,"Crash
+SB Mountain View Corridor Hwy at 7800 S Salt Lake Co.
+Est. Clearance Time: 6:54 PM","6/17/24, 5:54 PM","6/17/24, 6:54 PM","6/17/24, 5:54 PM",,40.60943,-112.035576
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26558,3 +26561,7 @@ NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM","6/17/24, 1:56 PM"
 UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Water Main Break
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Est. Clearance Time: 10:00 PM","6/17/24, 4:07 PM","6/17/24, 10:00 PM","6/17/24, 5:17 PM",,40.750242,-111.939001
+UT-Incident--180474,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Crash
+WB Ramp SR 201 at MP 13 (3200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:55 PM","6/17/24, 5:56 PM","6/17/24, 6:55 PM","6/17/24, 5:56 PM",,40.725733,-111.982034
