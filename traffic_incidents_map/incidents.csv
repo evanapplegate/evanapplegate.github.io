@@ -26550,15 +26550,10 @@ Ramp NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/17/24, 4:48 PM","6/17/24, 5:47 PM","6/17/24, 4:48 PM",,40.431127,-111.890772
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180477,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","6/17/24, 6:36 PM","6/17/24, 7:35 PM","6/17/24, 6:53 PM",,40.607173,-111.905403
-UT-Incident--180478,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
-SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 7:39 PM","6/17/24, 6:41 PM","6/17/24, 7:39 PM","6/17/24, 6:52 PM",,40.63583,-111.905066
 UT-Incident--180480,Incidents,I-15,Utah County,I-15 at MP 255,"Crash
 NB I-15 at MP 255 (100 S / Spanish Fork) Utah Co.
 Left Shoulder
@@ -26569,13 +26564,6 @@ Est. Clearance Time: 10:34 PM","6/17/24, 6:35 PM","6/17/24, 10:34 PM","6/17/24, 
 UT-Incident--180473,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 7800 S,"Crash
 SB Mountain View Corridor Hwy at 7800 S Salt Lake Co.
 Est. Clearance Time: 6:54 PM","6/17/24, 5:54 PM","6/17/24, 6:54 PM","6/17/24, 5:54 PM",,40.60943,-112.035576
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM","6/17/24, 1:56 PM",,40.721209,-111.938966
-UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Water Main Break
-SB Redwood Rd at Indiana Ave Salt Lake Co.
-Est. Clearance Time: 10:00 PM","6/17/24, 4:07 PM","6/17/24, 10:00 PM","6/17/24, 5:17 PM",,40.750242,-111.939001
 UT-Incident--180474,Incidents,SR 201,Salt Lake County,SR 201 at MP 13,"Crash
 WB Ramp SR 201 at MP 13 (3200 W) Salt Lake Co.
 Right Shoulder
@@ -26587,3 +26575,15 @@ UT-Incident--180481,Incidents,US 6,Utah County,US 6 at MP 186,"Crash
 Both Directions US 6 at MP 186 (Billys Mtn View Area) Utah Co.
 Right Shoulder
 Est. Clearance Time: 8:08 PM","6/17/24, 7:09 PM","6/17/24, 8:08 PM","6/17/24, 7:09 PM",,40.00534,-111.491875
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180478,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 8:39 PM","6/17/24, 6:41 PM","6/17/24, 8:39 PM","6/17/24, 8:02 PM",,40.63583,-111.905066
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/18/24, 4:00 PM","6/17/24, 1:56 PM",,40.721209,-111.938966
+UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Water Main Break
+SB Redwood Rd at Indiana Ave Salt Lake Co.
+Est. Clearance Time: 10:00 PM","6/17/24, 4:07 PM","6/17/24, 10:00 PM","6/17/24, 5:17 PM",,40.750242,-111.939001
