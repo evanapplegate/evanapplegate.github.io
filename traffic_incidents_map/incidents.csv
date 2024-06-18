@@ -26579,11 +26579,14 @@ SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:39 PM","6/17/24, 6:41 PM","6/17/24, 8:39 PM","6/17/24, 8:02 PM",,40.63583,-111.905066
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180482,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 8,"Crash
 SB Legacy Pkwy at MP 8 (W 950 N, Centerville) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:40 AM","6/18/24, 4:07 AM","6/18/24, 5:40 AM","6/18/24, 5:09 AM",,40.929495,-111.896156
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180483,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
+EB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
+Est. Clearance Time: 7:00 AM","6/18/24, 5:55 AM","6/18/24, 7:00 AM","6/18/24, 5:55 AM",,41.886366,-112.496058
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
