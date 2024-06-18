@@ -26585,7 +26585,6 @@ Est. Clearance Time: 5:40 AM","6/18/24, 4:07 AM","6/18/24, 5:40 AM","6/18/24, 5:
 UT-Incident--180484,Incidents,I-15 NB X341 On 3100 S Ramp,Weber County,I-15 NB X341 On 3100 S Ramp at 31st St,"Crash
 NB I-15 3100 S On Ramp (MP 31)Weber Co.
 Est. Clearance Time: 7:30 AM","6/18/24, 6:28 AM","6/18/24, 7:30 AM","6/18/24, 6:28 AM",,41.206133,-111.992125
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180485,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
@@ -26594,6 +26593,7 @@ UT-Incident--180486,Incidents,US 6,Utah County,US 6 at MP 192,"Crash
 EB US 6 at MP 192 (3 Mi W of Sheep Creek) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:55 AM","6/18/24, 6:55 AM","6/18/24, 7:55 AM","6/18/24, 6:55 AM",,39.991472,-111.386113
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180488,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
