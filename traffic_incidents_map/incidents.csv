@@ -26636,7 +26636,6 @@ UT-Incident--180499,Incidents,I-15,Weber County,I-15 at MP 339,"Stalled Vehicle
 NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
  Right Lane Closed
 Est. Clearance Time: 6:45 PM","6/18/24, 5:28 PM","6/18/24, 6:45 PM","6/18/24, 5:28 PM",,41.169225,-112.020449
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180498,Incidents,SR 39,Weber County,SR 39 at MP 5,"Crash
 EB SR 39 at MP 5 (Ogden) Weber Co.
 Right Shoulder
@@ -26662,6 +26661,7 @@ UT-Incident--180501,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
 WB I-215 S at MP 10 (State St) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","6/18/24, 5:42 PM","6/18/24, 7:00 PM","6/18/24, 6:07 PM",,40.63036,-111.877391
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26672,4 +26672,4 @@ Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
 UT-Incident--180507,Incidents,SR 59,Washington County,SR 59 at MP 5,"Crash
 SR 59 at MP 5 (4 Mi N of Hilldale) Washington Co.
-Est. Clearance Time: 7:30 PM","6/18/24, 6:16 PM","6/18/24, 7:30 PM","6/18/24, 6:16 PM",,37.039503,-113.074631
+Est. Clearance Time: 8:30 PM","6/18/24, 6:16 PM","6/18/24, 8:30 PM","6/18/24, 7:30 PM",,37.039503,-113.074631
