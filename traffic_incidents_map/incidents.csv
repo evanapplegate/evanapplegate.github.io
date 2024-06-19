@@ -26712,7 +26712,6 @@ Est. Clearance Time: 10:45 AM","6/19/24, 9:47 AM","6/19/24, 10:45 AM","6/19/24, 
 UT-Incident--180526,Incidents,NORTH ST,Weber County,NORTH ST at HARRISVILLE RD,"Crash:
 Both Directions Harrisville Rd Closed at 400 N (Weber Co)
 Use Alt Route","6/19/24, 10:03 AM","6/19/24, 11:30 AM","6/19/24, 10:06 AM",,41.266663,-111.974384
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180530,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Lane Closed
@@ -26721,6 +26720,7 @@ UT-Incident--180529,Incidents,I-84,Morgan County,I-84 at MP 97,"Crash
 EB I-84 at MP 97 (Peterson) Morgan Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","6/19/24, 10:41 AM","6/19/24, 11:45 AM","6/19/24, 10:41 AM",,41.111722,-111.756781
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180528,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
