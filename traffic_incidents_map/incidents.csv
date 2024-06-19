@@ -26680,7 +26680,6 @@ UT-Incident--180516,Incidents,US 6,Juab County,US 6 at MP 137,"Crash
 Both Directions US 6 at MP 137 (2 Miles West of Eureka) Juab Co.
 Right Shoulder
 Est. Clearance Time: 6:28 AM","6/19/24, 4:28 AM","6/19/24, 6:28 AM","6/19/24, 5:39 AM",,39.923759,-112.146005
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180518,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
 EB SR 201 at MP 8 (7200 W) Salt Lake Co.
 Est. Clearance Time: 8:10 AM","6/19/24, 7:08 AM","6/19/24, 8:10 AM","6/19/24, 7:08 AM",,40.718237,-112.076122
@@ -26689,6 +26688,7 @@ UT-Incident--180521,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:00 AM","6/19/24, 8:01 AM","6/19/24, 9:00 AM","6/19/24, 8:02 AM",,40.550055,-111.896336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
