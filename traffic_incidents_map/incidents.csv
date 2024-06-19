@@ -26742,7 +26742,6 @@ Est. Clearance Time: 3:00 PM","6/19/24, 1:59 PM","6/19/24, 3:00 PM","6/19/24, 1:
 UT-Incident--180533,Incidents,US 40,Wasatch County,US 40 at MP 16,"Crash
 US 40 at MP 16 (1200 N / Heber) Wasatch Co.
 Est. Clearance Time: 2:30 PM","6/19/24, 1:24 PM","6/19/24, 2:30 PM","6/19/24, 1:24 PM",,40.520757,-111.410906
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180534,Incidents,I-15,Weber County,I-15 at MP 341,"Crash
 NB I-15 at MP 341 (31st St, Ogden) Weber Co.
 Right Shoulder
@@ -26762,6 +26761,14 @@ Est. Clearance Time: 4:00 PM","6/19/24, 2:50 PM","6/19/24, 4:00 PM","6/19/24, 2:
 UT-Incident--180540,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
 EB I-80 Onramp at MP 141 (Jeremy Ranch) Summit Co.
 Est. Clearance Time: 4:00 PM","6/19/24, 2:51 PM","6/19/24, 4:00 PM","6/19/24, 2:51 PM",,40.755521,-111.587294
+UT-Incident--180538,Incidents,SR 9,Washington County,SR 9 at MP 26,"Crash
+Other SR 9 at MP 26 (1600 West, Rockville) Washington Co.
+Est. Clearance Time: 3:45 PM","6/19/24, 2:33 PM","6/19/24, 3:45 PM","6/19/24, 2:33 PM",,37.170814,-113.071419
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180542,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:35 PM","6/19/24, 3:12 PM","6/19/24, 4:35 PM","6/19/24, 3:12 PM",,40.649847,-111.90236
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26770,6 +26777,3 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
-UT-Incident--180538,Incidents,SR 9,Washington County,SR 9 at MP 26,"Crash
-Other SR 9 at MP 26 (1600 West, Rockville) Washington Co.
-Est. Clearance Time: 3:45 PM","6/19/24, 2:33 PM","6/19/24, 3:45 PM","6/19/24, 2:33 PM",,37.170814,-113.071419
