@@ -26664,10 +26664,10 @@ UT-Incident--180507,Incidents,SR 59,Washington County,SR 59 at MP 5,"Crash
 SR 59 at MP 5 (4 Mi N of Hilldale) Washington Co.
 Est. Clearance Time: 8:30 PM","6/18/24, 6:16 PM","6/18/24, 8:30 PM","6/18/24, 7:30 PM",,37.039503,-113.074631
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180513,Incidents,5600 W,Salt Lake County,5600 W 2149,"Signal problems
 All Directions 2100 S at 5600 W Salt Lake Co.
 Est. Clearance Time: 10:00 PM","6/18/24, 9:05 PM","6/18/24, 10:00 PM","6/18/24, 9:09 PM",,40.72468,-112.024907
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26676,3 +26676,6 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
+UT-Incident--180514,Incidents,US 89,Sanpete County,US 89 at MP 237,"Crash
+US 89 at MP 237 (2 miles S of Centerfield) Sanpete Co.
+Est. Clearance Time: 11:00 PM","6/18/24, 9:42 PM","6/18/24, 11:00 PM","6/18/24, 9:42 PM",,39.09545,-111.819809
