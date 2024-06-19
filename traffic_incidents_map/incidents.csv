@@ -26735,7 +26735,6 @@ UT-Incident--180532,Incidents,I-15,Salt Lake County,I-15 at MP 289,"Debris
 SB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:55 PM","6/19/24, 12:52 PM","6/19/24, 1:55 PM","6/19/24, 12:52 PM",,40.492398,-111.891485
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180536,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Road damage
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -26752,6 +26751,17 @@ UT-Incident--180537,Incidents,I-15,Utah County,I-15 at MP 284,"Crash
 NB I-15 at MP 284 (SR-92 Exit) Utah Co.
 Right Shoulder
 Est. Clearance Time: 3:35 PM","6/19/24, 2:11 PM","6/19/24, 3:35 PM","6/19/24, 2:11 PM",,40.431127,-111.890772
+UT-Incident--180535,Incidents,US 89,Sanpete County,US 89 at MP 256,"Crash
+ US 89 at MP 256 (400 N / Manti) Sanpete Co.
+Est. Clearance Time: 3:00 PM","6/19/24, 1:57 PM","6/19/24, 3:00 PM","6/19/24, 1:57 PM",,39.27198,-111.636815
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180539,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+NB I-15 at MP 301 Off Ramp (4500 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","6/19/24, 2:50 PM","6/19/24, 4:00 PM","6/19/24, 2:50 PM",,40.664677,-111.90152
+UT-Incident--180540,Incidents,I-80,Summit County,I-80 at MP 141,"Crash
+EB I-80 Onramp at MP 141 (Jeremy Ranch) Summit Co.
+Est. Clearance Time: 4:00 PM","6/19/24, 2:51 PM","6/19/24, 4:00 PM","6/19/24, 2:51 PM",,40.755521,-111.587294
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26763,6 +26773,3 @@ Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM",
 UT-Incident--180538,Incidents,SR 9,Washington County,SR 9 at MP 26,"Crash
 Other SR 9 at MP 26 (1600 West, Rockville) Washington Co.
 Est. Clearance Time: 3:45 PM","6/19/24, 2:33 PM","6/19/24, 3:45 PM","6/19/24, 2:33 PM",,37.170814,-113.071419
-UT-Incident--180535,Incidents,US 89,Sanpete County,US 89 at MP 256,"Crash
- US 89 at MP 256 (400 N / Manti) Sanpete Co.
-Est. Clearance Time: 3:00 PM","6/19/24, 1:57 PM","6/19/24, 3:00 PM","6/19/24, 1:57 PM",,39.27198,-111.636815
