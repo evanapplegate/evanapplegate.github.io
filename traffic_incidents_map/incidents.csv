@@ -26694,16 +26694,26 @@ Est. Clearance Time: 8:45 AM","6/19/24, 7:45 AM","6/19/24, 8:45 AM","6/19/24, 7:
 UT-Incident--180523,Incidents,SR 201 EB TO I-15 SB I-80E EB RAMP,Salt Lake County,SR 201 EB TO I-15 SB I-80E EB RAMP at I-80E EB,"Stalled Vehicle
 EB SR 201 TO I-15 I-80E On Ramp (Salt Lake Co)
 Est. Clearance Time: 10:01 AM","6/19/24, 9:01 AM","6/19/24, 10:01 AM","6/19/24, 9:01 AM",,40.722683,-111.906001
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180524,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 30th St,"Crash
 NB Harrison Blvd at 30th St Weber Co.
 Right Shoulder
 Est. Clearance Time: 10:24 AM","6/19/24, 9:27 AM","6/19/24, 10:24 AM","6/19/24, 9:27 AM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180519,Incidents,SR 38,Box Elder County,SR 38 at MP 14,"Crash
+NB SR 38 at MP 14 (SR-102 Jct) Box Elder Co.
+Est. Clearance Time: 9:10 AM","6/19/24, 7:32 AM","6/19/24, 9:10 AM","6/19/24, 8:24 AM",,41.715211,-112.092789
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180525,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
+NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
+Right Shoulder
+Est. Clearance Time: 10:45 AM","6/19/24, 9:47 AM","6/19/24, 10:45 AM","6/19/24, 9:47 AM",,41.169225,-112.020449
 UT-Incident--180522,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
 EB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
 Left Lane Closed
-Est. Clearance Time: 9:50 AM","6/19/24, 8:50 AM","6/19/24, 9:50 AM","6/19/24, 8:50 AM",,40.771168,-112.047728
+Est. Clearance Time: 10:50 AM","6/19/24, 8:50 AM","6/19/24, 10:50 AM","6/19/24, 9:55 AM",,40.771168,-112.047728
+UT-Incident--180526,Incidents,NORTH ST,Weber County,NORTH ST at HARRISVILLE RD,"Crash:
+Both Directions Harrisville Rd Closed at 400 N (Weber Co)
+Use Alt Route","6/19/24, 10:03 AM","6/19/24, 11:30 AM","6/19/24, 10:06 AM",,41.266663,-111.974384
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26712,6 +26722,3 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
-UT-Incident--180519,Incidents,SR 38,Box Elder County,SR 38 at MP 14,"Crash
-NB SR 38 at MP 14 (SR-102 Jct) Box Elder Co.
-Est. Clearance Time: 9:10 AM","6/19/24, 7:32 AM","6/19/24, 9:10 AM","6/19/24, 8:24 AM",,41.715211,-112.092789
