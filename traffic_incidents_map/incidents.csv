@@ -26705,7 +26705,6 @@ UT-Incident--180527,Incidents,12th St,Weber County,12th St at 1200 W,"Crash
 WB 12th St at 1200 W Weber Co.
 Right Lane Closed
 Est. Clearance Time: 11:10 AM","6/19/24, 10:09 AM","6/19/24, 11:10 AM","6/19/24, 10:10 AM",,41.244643,-112.009491
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180525,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Right Shoulder
@@ -26714,22 +26713,23 @@ UT-Incident--180526,Incidents,NORTH ST,Weber County,NORTH ST at HARRISVILLE RD,"
 Both Directions Harrisville Rd Closed at 400 N (Weber Co)
 Use Alt Route","6/19/24, 10:03 AM","6/19/24, 11:30 AM","6/19/24, 10:06 AM",,41.266663,-111.974384
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180528,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-SB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 11:45 AM","6/19/24, 10:39 AM","6/19/24, 11:45 AM","6/19/24, 10:39 AM",,40.722344,-111.904691
 UT-Incident--180530,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:45 AM","6/19/24, 10:43 AM","6/19/24, 11:45 AM","6/19/24, 10:58 AM",,40.736823,-111.90475
-UT-Incident--180522,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
-EB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 12:05 PM","6/19/24, 8:50 AM","6/19/24, 12:05 PM","6/19/24, 11:01 AM",,40.771168,-112.047728
 UT-Incident--180529,Incidents,I-84,Morgan County,I-84 at MP 97,"Crash
 EB I-84 at MP 97 (Peterson) Morgan Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","6/19/24, 10:41 AM","6/19/24, 11:45 AM","6/19/24, 10:41 AM",,41.111722,-111.756781
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180528,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+SB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 11:45 AM","6/19/24, 10:39 AM","6/19/24, 11:45 AM","6/19/24, 10:39 AM",,40.722344,-111.904691
+UT-Incident--180522,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
+EB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 12:05 PM","6/19/24, 8:50 AM","6/19/24, 12:05 PM","6/19/24, 11:01 AM",,40.771168,-112.047728
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
