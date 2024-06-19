@@ -26753,7 +26753,6 @@ Est. Clearance Time: 3:35 PM","6/19/24, 2:11 PM","6/19/24, 3:35 PM","6/19/24, 2:
 UT-Incident--180535,Incidents,US 89,Sanpete County,US 89 at MP 256,"Crash
  US 89 at MP 256 (400 N / Manti) Sanpete Co.
 Est. Clearance Time: 3:00 PM","6/19/24, 1:57 PM","6/19/24, 3:00 PM","6/19/24, 1:57 PM",,39.27198,-111.636815
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180539,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 Off Ramp (4500 S) Salt Lake Co.
 Right Shoulder
@@ -26764,6 +26763,7 @@ Est. Clearance Time: 4:00 PM","6/19/24, 2:51 PM","6/19/24, 4:00 PM","6/19/24, 2:
 UT-Incident--180538,Incidents,SR 9,Washington County,SR 9 at MP 26,"Crash
 Other SR 9 at MP 26 (1600 West, Rockville) Washington Co.
 Est. Clearance Time: 3:45 PM","6/19/24, 2:33 PM","6/19/24, 3:45 PM","6/19/24, 2:33 PM",,37.170814,-113.071419
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180542,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
