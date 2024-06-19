@@ -26701,11 +26701,11 @@ Est. Clearance Time: 10:24 AM","6/19/24, 9:27 AM","6/19/24, 10:24 AM","6/19/24, 
 UT-Incident--180519,Incidents,SR 38,Box Elder County,SR 38 at MP 14,"Crash
 NB SR 38 at MP 14 (SR-102 Jct) Box Elder Co.
 Est. Clearance Time: 9:10 AM","6/19/24, 7:32 AM","6/19/24, 9:10 AM","6/19/24, 8:24 AM",,41.715211,-112.092789
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180527,Incidents,12th St,Weber County,12th St at 1200 W,"Crash
 WB 12th St at 1200 W Weber Co.
 Right Lane Closed
 Est. Clearance Time: 11:10 AM","6/19/24, 10:09 AM","6/19/24, 11:10 AM","6/19/24, 10:10 AM",,41.244643,-112.009491
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180525,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 NB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
@@ -26714,11 +26714,15 @@ Est. Clearance Time: 10:45 AM","6/19/24, 9:47 AM","6/19/24, 10:45 AM","6/19/24, 
 UT-Incident--180528,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 11:45 AM","6/19/24, 10:39 AM","6/19/24, 11:45 AM","6/19/24, 10:39 AM",,,
+Est. Clearance Time: 11:45 AM","6/19/24, 10:39 AM","6/19/24, 11:45 AM","6/19/24, 10:39 AM",,40.722344,-111.904691
 UT-Incident--180522,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
 EB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 11:20 AM","6/19/24, 8:50 AM","6/19/24, 11:20 AM","6/19/24, 10:14 AM",,40.771168,-112.047728
+UT-Incident--180529,Incidents,I-84,Morgan County,I-84 at MP 97,"Crash
+EB I-84 at MP 97 (Peterson) Morgan Co.
+Right Shoulder
+Est. Clearance Time: 11:45 AM","6/19/24, 10:41 AM","6/19/24, 11:45 AM","6/19/24, 10:41 AM",,41.111722,-111.756781
 UT-Incident--180526,Incidents,NORTH ST,Weber County,NORTH ST at HARRISVILLE RD,"Crash:
 Both Directions Harrisville Rd Closed at 400 N (Weber Co)
 Use Alt Route","6/19/24, 10:03 AM","6/19/24, 11:30 AM","6/19/24, 10:06 AM",,41.266663,-111.974384
