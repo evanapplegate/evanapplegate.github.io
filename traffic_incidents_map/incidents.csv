@@ -26882,7 +26882,6 @@ UT-Incident--180578,Incidents,I-84,Weber County,I-84 at MP 84,"Vehicle on fire
 EB I-84 at MP 84 (South Weber) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","6/20/24, 2:30 PM","6/20/24, 3:45 PM","6/20/24, 2:57 PM",,41.153613,-111.979249
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180580,Incidents,I-15,Utah County,I-15 at MP 280,"Crash
 SB I-15 at MP 280 (Lehi) Utah Co.
 Right Shoulder
@@ -26891,6 +26890,7 @@ UT-Incident--180583,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/20/24, 3:57 PM","6/20/24, 5:00 PM","6/20/24, 3:57 PM",,41.114242,-112.014007
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180581,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5500 S) Salt Lake Co.
