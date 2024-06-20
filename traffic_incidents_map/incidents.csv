@@ -26847,7 +26847,6 @@ UT-Incident--180561,Incidents,US 40,Duchesne County,US 40 at MP 95,"Crash
 WB US 40 at MP 95 (1 mi W of Bridgeland) Duchesne Co.
 Right Lane Closed
 Est. Clearance Time: 5:48 AM","6/20/24, 4:50 AM","6/20/24, 5:48 AM","6/20/24, 4:50 AM",,40.155158,-110.248162
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180569,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
 SB I-15 at MP 292 (11400 S) Salt Lake Co.
 Right Shoulder
@@ -26860,6 +26859,7 @@ UT-Incident--180571,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","6/20/24, 11:37 AM","6/20/24, 12:45 PM","6/20/24, 11:37 AM",,40.688869,-111.951947
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
