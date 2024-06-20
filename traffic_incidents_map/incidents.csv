@@ -26861,11 +26861,11 @@ Est. Clearance Time: 12:45 PM","6/20/24, 11:37 AM","6/20/24, 12:45 PM","6/20/24,
 UT-Incident--180572,Incidents,HILL FIELD RD,Davis County,HILL FIELD RD 1225,"Crash
 NB Hill Field Rd at 1225 N (Layton) Davis Co.
 Est. Clearance Time: 2:15 PM","6/20/24, 1:05 PM","6/20/24, 2:15 PM","6/20/24, 1:05 PM",,41.07669,-111.973506
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180573,Incidents,US 6,Utah County,US 6 at 1000 N,"Crash
 EB US 6 at Canyon Creek Pkwy (Spanish Fork) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 2:30 PM","6/20/24, 1:29 PM","6/20/24, 2:30 PM","6/20/24, 1:29 PM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180574,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
@@ -26874,6 +26874,9 @@ Est. Clearance Time: 2:45 PM","6/20/24, 1:51 PM","6/20/24, 2:45 PM","6/20/24, 1:
 UT-Incident--180577,Incidents,I-15,Utah County,I-15 at MP 263,"Stalled Vehicle
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Est. Clearance Time: 3:00 PM","6/20/24, 2:28 PM","6/20/24, 3:00 PM","6/20/24, 2:28 PM",,40.203376,-111.655441
+UT-Incident--180578,Incidents,I-84,Weber County,I-84 at MP 85,"Vehicle on fire
+EB I-84 at MP 85 (South Weber) Weber Co.
+Est. Clearance Time: 3:45 PM","6/20/24, 2:30 PM","6/20/24, 3:45 PM","6/20/24, 2:30 PM",,41.146953,-111.961855
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26889,3 +26892,6 @@ Est. Clearance Time: 3:00 PM","6/20/24, 2:03 PM","6/20/24, 3:00 PM","6/20/24, 2:
 UT-Incident--180575,Incidents,US 191,Carbon County,US 191 at MP 256,"Crash
 Both Directions US 191 at MP 256 (6 miles N of Helper) Carbon Co.
 Est. Clearance Time: 3:15 PM","6/20/24, 1:56 PM","6/20/24, 3:15 PM","6/20/24, 1:56 PM",,39.764952,-110.809771
+UT-Incident--180579,Incidents,US 191,Carbon County,US 191 at MP 255,"Both Directions US 191 Closed
+ at MP 255 (5 miles N of Helper) Carbon Co.
+Use Alt Route","6/20/24, 2:36 PM","6/20/24, 3:35 PM","6/20/24, 2:36 PM",,39.755711,-110.823749
