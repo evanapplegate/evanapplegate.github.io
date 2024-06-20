@@ -26858,11 +26858,15 @@ UT-Incident--180571,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 12:45 PM","6/20/24, 11:37 AM","6/20/24, 12:45 PM","6/20/24, 11:37 AM",,40.688869,-111.951947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180572,Incidents,HILL FIELD RD,Davis County,HILL FIELD RD 1225,"Crash
 NB Hill Field Rd at 1225 N (Layton) Davis Co.
 Est. Clearance Time: 2:15 PM","6/20/24, 1:05 PM","6/20/24, 2:15 PM","6/20/24, 1:05 PM",,41.07669,-111.973506
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180574,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","6/20/24, 1:51 PM","6/20/24, 2:45 PM","6/20/24, 1:51 PM",,40.722344,-111.904691
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26871,6 +26875,13 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
+UT-Incident--180576,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Crash
+WB SR 201 at MP 2 (SR-202) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:00 PM","6/20/24, 2:03 PM","6/20/24, 3:00 PM","6/20/24, 2:03 PM",,40.727579,-112.186092
+UT-Incident--180575,Incidents,US 191,Carbon County,US 191 at MP 256,"Crash
+Both Directions US 191 at MP 256 (6 miles N of Helper) Carbon Co.
+Est. Clearance Time: 3:15 PM","6/20/24, 1:56 PM","6/20/24, 3:15 PM","6/20/24, 1:56 PM",,39.764952,-110.809771
 UT-Incident--180573,Incidents,US 6,Utah County,US 6 at 1000 N,"Crash
 EB US 6 at Canyon Creek Pkwy (Spanish Fork) Utah Co.
 Right Lane Closed
