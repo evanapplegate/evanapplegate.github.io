@@ -26869,11 +26869,14 @@ UT-Incident--180575,Incidents,US 191,Carbon County,US 191 at MP 256,"Crash
 Both Directions US 191 at MP 256 (6 miles N of Helper) Carbon Co.
 Est. Clearance Time: 3:15 PM","6/20/24, 1:56 PM","6/20/24, 3:15 PM","6/20/24, 1:56 PM",,39.764952,-110.809771
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180574,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","6/20/24, 1:51 PM","6/20/24, 2:45 PM","6/20/24, 1:51 PM",,40.722344,-111.904691
+UT-Incident--180579,Incidents,US 191,Carbon County,US 191 at MP 255,"Both Directions US 191 Closed
+ at MP 255 (5 miles N of Helper) Carbon Co.
+Use Alt Route","6/20/24, 2:36 PM","6/20/24, 3:35 PM","6/20/24, 2:36 PM",,39.755711,-110.823749
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180577,Incidents,I-15,Utah County,I-15 at MP 263,"Stalled Vehicle
 SB I-15 at MP 263 (University Ave / Provo) Utah Co.
 Est. Clearance Time: 3:00 PM","6/20/24, 2:28 PM","6/20/24, 3:00 PM","6/20/24, 2:28 PM",,40.203376,-111.655441
@@ -26897,6 +26900,3 @@ UT-Incident--180576,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Crash
 WB SR 201 at MP 2 (SR-202) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","6/20/24, 2:03 PM","6/20/24, 3:00 PM","6/20/24, 2:03 PM",,40.727579,-112.186092
-UT-Incident--180579,Incidents,US 191,Carbon County,US 191 at MP 255,"Both Directions US 191 Closed
- at MP 255 (5 miles N of Helper) Carbon Co.
-Use Alt Route","6/20/24, 2:36 PM","6/20/24, 3:35 PM","6/20/24, 2:36 PM",,39.755711,-110.823749
