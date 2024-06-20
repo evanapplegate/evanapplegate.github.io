@@ -26771,7 +26771,6 @@ UT-Incident--180545,Incidents,SR 126,Weber County,SR 126 at MP 11,"Crash
 NB SR 126 at MP 11 (sunset) Weber Co.
  Right Lanes Closed
 Est. Clearance Time: 5:35 PM","6/19/24, 4:21 PM","6/19/24, 5:35 PM","6/19/24, 4:21 PM",,41.194584,-112.025823
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180548,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8000 S) Salt Lake Co.
 Center Lane Closed
@@ -26797,6 +26796,10 @@ UT-Incident--180551,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
 NB I-15 at MP 354 (Box Elder) Box Elder Co.
 Left Lane Closed
 Est. Clearance Time: 7:35 PM","6/19/24, 6:16 PM","6/19/24, 7:35 PM","6/19/24, 6:16 PM",,41.371541,-112.042879
+UT-Incident--180552,Incidents,SR 102,Box Elder County,SR 102 at MP 16,"Crash
+ SR 102 at MP 16 (Tremonton) Box Elder Co.
+Est. Clearance Time: 7:45 PM","6/19/24, 6:19 PM","6/19/24, 7:45 PM","6/19/24, 6:19 PM",,41.71159,-112.171248
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180550,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Vehicle on fire
 SB I-215 W CLOSED at MP 15 (4700 S) Salt Lake Co.","6/19/24, 5:36 PM","6/19/24, 10:00 PM","6/19/24, 6:04 PM",,40.659924,-111.952783
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
@@ -26807,6 +26810,3 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
-UT-Incident--180552,Incidents,SR 102,Box Elder County,SR 102 at MP 16,"Crash
- SR 102 at MP 16 (Tremonton) Box Elder Co.
-Est. Clearance Time: 7:45 PM","6/19/24, 6:19 PM","6/19/24, 7:45 PM","6/19/24, 6:19 PM",,41.71159,-112.171248
