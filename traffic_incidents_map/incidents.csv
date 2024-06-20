@@ -26772,31 +26772,33 @@ NB SR 126 at MP 11 (sunset) Weber Co.
  Right Lanes Closed
 Est. Clearance Time: 5:35 PM","6/19/24, 4:21 PM","6/19/24, 5:35 PM","6/19/24, 4:21 PM",,41.194584,-112.025823
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180548,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
+NB I-15 at MP 296 (8000 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:45 PM","6/19/24, 5:24 PM","6/19/24, 6:45 PM","6/19/24, 5:36 PM",,40.592858,-111.902495
+UT-Incident--180547,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+WB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","6/19/24, 5:14 PM","6/19/24, 6:30 PM","6/19/24, 5:14 PM",,40.63036,-111.877391
+UT-Incident--180546,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S WB X12 TO I-15 SB COL RAMP at I-15 SB,"Crash
+WB I-215 S to I-15 SB Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:00 PM","6/19/24, 5:06 PM","6/19/24, 6:00 PM","6/19/24, 5:06 PM",,40.633968,-111.905418
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180543,Incidents,I-15,Weber County,I-15 at MP 338,"Crash
 SB I-15 at MP 338 (5600 S/SR-97, Roy) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 5:15 PM","6/19/24, 4:05 PM","6/19/24, 5:15 PM","6/19/24, 4:05 PM",,41.155128,-112.024901
-UT-Incident--180548,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
-NB I-15 at MP 296 (8000 S) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 6:45 PM","6/19/24, 5:24 PM","6/19/24, 6:45 PM","6/19/24, 5:36 PM",,40.592858,-111.902495
 UT-Incident--180549,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:45 PM","6/19/24, 5:27 PM","6/19/24, 5:45 PM","6/19/24, 5:27 PM",,40.52103,-111.891246
-UT-Incident--180547,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
-WB I-215 S at MP 10 (State St) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:30 PM","6/19/24, 5:14 PM","6/19/24, 6:30 PM","6/19/24, 5:14 PM",,40.63036,-111.877391
-UT-Incident--180550,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Vehicle on fire
-SB I-215 W at MP 15 (4700 S) Salt Lake Co.
-3 Right Lanes Closed
-Est. Clearance Time: 7:00 PM","6/19/24, 5:36 PM","6/19/24, 7:00 PM","6/19/24, 5:36 PM",,40.659924,-111.952783
-UT-Incident--180546,Incidents,I-215S WB X12 TO I-15 SB COL RAMP,Salt Lake County,I-215S WB X12 TO I-15 SB COL RAMP at I-15 SB,"Crash
-WB I-215 S to I-15 SB Salt Lake Co.
+UT-Incident--180551,Incidents,I-15,Box Elder County,I-15 at MP 354,"Crash
+NB I-15 at MP 354 (Box Elder) Box Elder Co.
 Left Lane Closed
-Est. Clearance Time: 6:00 PM","6/19/24, 5:06 PM","6/19/24, 6:00 PM","6/19/24, 5:06 PM",,40.633968,-111.905418
+Est. Clearance Time: 7:35 PM","6/19/24, 6:16 PM","6/19/24, 7:35 PM","6/19/24, 6:16 PM",,41.371541,-112.042879
+UT-Incident--180550,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Vehicle on fire
+SB I-215 W CLOSED at MP 15 (4700 S) Salt Lake Co.","6/19/24, 5:36 PM","6/19/24, 10:00 PM","6/19/24, 6:04 PM",,40.659924,-111.952783
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -26805,3 +26807,6 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
+UT-Incident--180552,Incidents,SR 102,Box Elder County,SR 102 at MP 16,"Crash
+ SR 102 at MP 16 (Tremonton) Box Elder Co.
+Est. Clearance Time: 7:45 PM","6/19/24, 6:19 PM","6/19/24, 7:45 PM","6/19/24, 6:19 PM",,41.71159,-112.171248
