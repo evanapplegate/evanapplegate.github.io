@@ -27017,7 +27017,6 @@ UT-Incident--180619,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:00 PM","6/21/24, 1:44 PM","6/21/24, 3:00 PM","6/21/24, 1:44 PM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180616,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
 Both Directions US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
 Center Lane Closed
@@ -27031,14 +27030,15 @@ UT-Incident--180617,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","6/21/24, 1:37 PM","6/21/24, 2:45 PM","6/21/24, 1:37 PM",,40.803702,-111.949406
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180620,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 WB I-80 at MP 115 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:30 PM","6/21/24, 1:52 PM","6/21/24, 3:30 PM","6/21/24, 1:52 PM",,40.765165,-111.991516
 UT-Incident--180621,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 3:00 PM","6/21/24, 1:56 PM","6/21/24, 3:00 PM","6/21/24, 1:58 PM",,40.765438,-111.953251
+Right Shoulder
+Est. Clearance Time: 3:00 PM","6/21/24, 1:56 PM","6/21/24, 3:00 PM","6/21/24, 2:36 PM",,40.765438,-111.953251
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
