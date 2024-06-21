@@ -27025,7 +27025,6 @@ UT-Incident--180614,Incidents,US 89,Davis County,US 89 at MP 405,"Crash
 SB US 89 at MP 405 (8200 S / South Weber) Davis Co.
 Right Shoulder
 Est. Clearance Time: 1:27 PM","6/21/24, 12:29 PM","6/21/24, 1:27 PM","6/21/24, 1:07 PM",,41.117602,-111.908671
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180617,Incidents,I-215 W,Salt Lake County,I-215 W at MP 25,"Crash
 NB I-215 W at MP 25 (2100 N,) Salt Lake Co.
 Right Shoulder
@@ -27039,6 +27038,14 @@ UT-Incident--180621,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","6/21/24, 1:56 PM","6/21/24, 3:00 PM","6/21/24, 2:36 PM",,40.765438,-111.953251
+UT-Incident--180622,Incidents,Washington Blvd,Weber County,Washington Blvd 3200,"Crash
+SB Washington Blvd & 34th St Weber Co.
+Est. Clearance Time: 3:35 PM","6/21/24, 2:19 PM","6/21/24, 3:35 PM","6/21/24, 2:19 PM",,41.203984,-111.970871
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180623,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+SB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:00 PM","6/21/24, 2:49 PM","6/21/24, 4:00 PM","6/21/24, 2:49 PM",,40.316406,-111.72616
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27047,6 +27054,3 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
-UT-Incident--180622,Incidents,Washington Blvd,Weber County,Washington Blvd 3200,"Crash
-SB Washington Blvd & 34th St Weber Co.
-Est. Clearance Time: 3:35 PM","6/21/24, 2:19 PM","6/21/24, 3:35 PM","6/21/24, 2:19 PM",,41.203984,-111.970871
