@@ -26953,7 +26953,6 @@ UT-Incident--180600,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 18,"Crash
 SB Redwood Rd at MP 18 (Utah Lake) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:30 PM","6/20/24, 8:32 PM","6/20/24, 9:30 PM","6/20/24, 8:32 PM",,40.194795,-111.904696
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180603,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 SB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Left Lane Closed
@@ -26962,6 +26961,7 @@ UT-Incident--180602,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
 EB US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 1:06 AM","6/21/24, 12:07 AM","6/21/24, 1:06 AM","6/21/24, 12:20 AM",,40.328835,-111.637103
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
