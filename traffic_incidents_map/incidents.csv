@@ -26961,11 +26961,11 @@ UT-Incident--180602,Incidents,US 189,Utah County,US 189 at MP 9,"Crash
 EB US 189 at MP 9 (Canyon View Park / Provo) Utah Co.
 Center Lane Closed
 Est. Clearance Time: 1:06 AM","6/21/24, 12:07 AM","6/21/24, 1:06 AM","6/21/24, 12:20 AM",,40.328835,-111.637103
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180605,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:48 AM","6/21/24, 2:49 AM","6/21/24, 3:48 AM","6/21/24, 2:49 AM",,40.74966,-111.90976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180604,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
@@ -26979,6 +26979,7 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
-UT-Incident--180601,Incidents,US 40,Wasatch County,US 40 at MP 24,"Both Directions US 40 Closed
- at MP 24 (3 mi S of Heber) Wasatch Co.
-Use Alt Route","6/20/24, 10:38 PM","6/21/24, 6:00 AM","6/20/24, 11:17 PM",,40.422834,-111.343715
+UT-Incident--180601,Incidents,US 40,Wasatch County,US 40 at MP 24,"Crash
+Both Directions US 40 at MP 24 (3 mi S of Heber) Wasatch Co.
+Cleared at 3:26 AM
+Est. Clearance Time: 6:00 AM","6/20/24, 10:38 PM","6/21/24, 6:00 AM","6/21/24, 3:26 AM",,40.422834,-111.343715
