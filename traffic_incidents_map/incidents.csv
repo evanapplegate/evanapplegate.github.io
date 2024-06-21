@@ -27001,8 +27001,8 @@ Est. Clearance Time: 10:10 AM","6/21/24, 9:14 AM","6/21/24, 10:10 AM","6/21/24, 
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180612,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 12:56 PM","6/21/24, 11:58 AM","6/21/24, 12:56 PM","6/21/24, 11:58 AM",,40.693589,-111.902881
+Right Shoulder
+Est. Clearance Time: 12:56 PM","6/21/24, 11:58 AM","6/21/24, 12:56 PM","6/21/24, 12:33 PM",,40.693589,-111.902881
 UT-Incident--180613,Incidents,I-15,Millard County,I-15 at MP 187,"Fire affecting roadway
 SB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Right Shoulder
@@ -27015,3 +27015,7 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
+UT-Incident--180614,Incidents,US 89,Davis County,US 89 at MP 405,"Crash
+SB US 89 at MP 405 (8200 S / South Weber) Davis Co.
+Right Lane Closed
+Est. Clearance Time: 1:27 PM","6/21/24, 12:29 PM","6/21/24, 1:27 PM","6/21/24, 12:29 PM",,41.117602,-111.908671
