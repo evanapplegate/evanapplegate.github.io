@@ -26906,7 +26906,6 @@ UT-Incident--180585,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 NB US 89 at MP 406 (I- 84 Jct / Weber Drive) Davis Co.
 Left Shoulder
 Est. Clearance Time: 5:35 PM","6/20/24, 4:11 PM","6/20/24, 5:35 PM","6/20/24, 4:11 PM",,41.131604,-111.910087
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180588,Incidents,I-215 S,Salt Lake County,I-215 S at MP 7,"Stalled Vehicle
 EB I-215 S at MP 7 (2300 E) Salt Lake Co.
 Est. Clearance Time: 6:00 PM","6/20/24, 4:58 PM","6/20/24, 6:00 PM","6/20/24, 5:29 PM",,40.634375,-111.821002
@@ -26923,10 +26922,6 @@ UT-Incident--180581,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5500 S) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 4:30 PM","6/20/24, 3:32 PM","6/20/24, 4:30 PM","6/20/24, 3:32 PM",,40.649847,-111.90236
-UT-Incident--180590,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
-NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:45 PM","6/20/24, 5:32 PM","6/20/24, 6:45 PM","6/20/24, 5:32 PM",,40.722344,-111.904691
 UT-Incident--180593,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Right Shoulder
@@ -26935,6 +26930,23 @@ UT-Incident--180591,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Crash
 WB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","6/20/24, 5:32 PM","6/20/24, 6:45 PM","6/20/24, 5:34 PM",,40.765772,-111.934049
+UT-Incident--180582,Incidents,US 191,Duchesne County,US 191 at MP 282,"Crash
+US 191 at MP 282 (12 miles S of Duchesne) Duchesne Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","6/20/24, 3:33 PM","6/20/24, 6:00 PM","6/20/24, 4:55 PM",,40.027649,-110.551596
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180590,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
+NB I-15 at MP 305 (2100 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","6/20/24, 5:32 PM","6/20/24, 6:45 PM","6/20/24, 5:32 PM",,40.722344,-111.904691
+UT-Incident--180595,Incidents,I-15,Utah County,I-15 at MP 266,"Crash
+SB I-15 at MP 266 (N of Center St) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:00 PM","6/20/24, 5:52 PM","6/20/24, 7:00 PM","6/20/24, 5:52 PM",,40.238135,-111.689206
+UT-Incident--180598,Incidents,I-15,Salt Lake County,I-15 at MP 290,"Crash
+SB I-15 at MP 290 (13200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:30 PM","6/20/24, 6:31 PM","6/20/24, 7:30 PM","6/20/24, 6:31 PM",,40.506678,-111.891228
 UT-Incident--180592,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 WB I-80 at MP 131 (Quarry) Salt Lake Co.
 Right Shoulder
@@ -26947,7 +26959,3 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/19/2024 10:00 PM","6/17/24, 4:07 PM","6/19/24, 10:00 PM","6/17/24, 8:56 PM",,40.750242,-111.939001
-UT-Incident--180582,Incidents,US 191,Duchesne County,US 191 at MP 282,"Crash
-US 191 at MP 282 (12 miles S of Duchesne) Duchesne Co.
-Right Shoulder
-Est. Clearance Time: 5:00 PM","6/20/24, 3:33 PM","6/20/24, 6:00 PM","6/20/24, 4:55 PM",,40.027649,-110.551596
