@@ -26997,7 +26997,6 @@ UT-Incident--180611,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 10:10 AM","6/21/24, 9:14 AM","6/21/24, 10:10 AM","6/21/24, 9:21 AM",,40.578741,-111.900284
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180612,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -27006,6 +27005,7 @@ UT-Incident--180613,Incidents,I-15,Millard County,I-15 at MP 187,"Fire affecting
 SB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 1:25 PM","6/21/24, 12:26 PM","6/21/24, 1:25 PM","6/21/24, 12:26 PM",,39.237415,-112.13211
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180615,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
