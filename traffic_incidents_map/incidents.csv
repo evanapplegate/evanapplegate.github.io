@@ -26917,7 +26917,6 @@ UT-Incident--180576,Incidents,SR 201,Salt Lake County,SR 201 at MP 2,"Crash
 WB SR 201 at MP 2 (SR-202) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:30 PM","6/20/24, 2:03 PM","6/20/24, 4:30 PM","6/20/24, 4:02 PM",,40.727579,-112.186092
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180581,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5500 S) Salt Lake Co.
 Left Lane Closed
@@ -26951,6 +26950,7 @@ UT-Incident--180592,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 WB I-80 at MP 131 (Quarry) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","6/20/24, 5:33 PM","6/20/24, 6:45 PM","6/20/24, 5:33 PM",,40.732387,-111.755095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
