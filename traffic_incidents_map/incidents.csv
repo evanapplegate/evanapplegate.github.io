@@ -26998,7 +26998,6 @@ NB I-15 at MP 295 (9000 S) Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 10:10 AM","6/21/24, 9:14 AM","6/21/24, 10:10 AM","6/21/24, 9:21 AM",,40.578741,-111.900284
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180612,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -27007,10 +27006,11 @@ UT-Incident--180613,Incidents,I-15,Millard County,I-15 at MP 187,"Fire affecting
 SB I-15 at MP 187 (1 mi S of Scipio) Millard Co.
 Right Shoulder
 Est. Clearance Time: 1:25 PM","6/21/24, 12:26 PM","6/21/24, 1:25 PM","6/21/24, 12:26 PM",,39.237415,-112.13211
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180615,Incidents,I-15,Salt Lake County,I-15 at MP 294,"Crash
 NB I-15 at MP 294 (10200 S) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 1:56 PM","6/21/24, 12:58 PM","6/21/24, 1:56 PM","6/21/24, 12:58 PM",,40.564298,-111.899489
+Right Shoulder
+Est. Clearance Time: 1:56 PM","6/21/24, 12:58 PM","6/21/24, 1:56 PM","6/21/24, 1:06 PM",,40.564298,-111.899489
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27019,7 +27019,11 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
+UT-Incident--180616,Incidents,US 189,Wasatch County,US 189 at MP 17,"Crash
+Both Directions US 189 at MP 17 (Lower Deer Creek) Wasatch Co.
+Center Lane Closed
+Est. Clearance Time: 2:03 PM","6/21/24, 1:05 PM","6/21/24, 2:03 PM","6/21/24, 1:05 PM",,40.398835,-111.538152
 UT-Incident--180614,Incidents,US 89,Davis County,US 89 at MP 405,"Crash
 SB US 89 at MP 405 (8200 S / South Weber) Davis Co.
-Right Lane Closed
-Est. Clearance Time: 1:27 PM","6/21/24, 12:29 PM","6/21/24, 1:27 PM","6/21/24, 12:29 PM",,41.117602,-111.908671
+Right Shoulder
+Est. Clearance Time: 1:27 PM","6/21/24, 12:29 PM","6/21/24, 1:27 PM","6/21/24, 1:07 PM",,41.117602,-111.908671
