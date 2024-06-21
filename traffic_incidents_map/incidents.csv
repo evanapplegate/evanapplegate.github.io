@@ -27052,24 +27052,27 @@ UT-Incident--180626,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","6/21/24, 3:45 PM","6/21/24, 5:00 PM","6/21/24, 3:45 PM",,40.346539,-111.763778
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180631,Incidents,State St,Salt Lake County,State St at I-80 EB Fwy,"Stalled Vehicle
 NB State St at I-80 EB Fwy Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 6:35 PM","6/21/24, 5:01 PM","6/21/24, 6:35 PM","6/21/24, 5:01 PM",,0.0,0.0
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180628,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
-SB I-15 at MP 275 (PG Blvd) Utah Co.
-Right Lane Closed
-Est. Clearance Time: 5:45 PM","6/21/24, 4:45 PM","6/21/24, 5:45 PM","6/21/24, 5:11 PM",,40.346539,-111.763778
-UT-Incident--180630,Incidents,I-15,Washington County,I-15 at MP 29,"Fire affecting roadway
-SB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
-Right Lane Closed
-Est. Clearance Time: 6:15 PM","6/21/24, 4:49 PM","6/21/24, 6:15 PM","6/21/24, 4:49 PM",,37.304053,-113.299211
 UT-Incident--180632,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","6/21/24, 5:09 PM","6/21/24, 6:15 PM","6/21/24, 5:09 PM",,40.693589,-111.902881
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180628,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
+SB I-15 at MP 275 (PG Blvd) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","6/21/24, 4:45 PM","6/21/24, 5:45 PM","6/21/24, 5:28 PM",,40.346539,-111.763778
+UT-Incident--180630,Incidents,I-15,Washington County,I-15 at MP 29,"Fire affecting roadway
+SB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
+Right Lane Closed
+Est. Clearance Time: 6:15 PM","6/21/24, 4:49 PM","6/21/24, 6:15 PM","6/21/24, 4:49 PM",,37.304053,-113.299211
+UT-Incident--180635,Incidents,I-15,Washington County,I-15 at MP 32,"Crash
+SB I-15 at MP 32 (Pintura) Washington Co.
+Est. Clearance Time: 7:00 PM","6/21/24, 5:26 PM","6/21/24, 7:00 PM","6/21/24, 5:26 PM",,37.342999,-113.274118
 UT-Incident--180627,Incidents,I-215 E,Salt Lake County,I-215 E at MP 1,"Crash
 SB I-215 E at MP 1 (3300 S) Salt Lake Co.
 Right Shoulder
