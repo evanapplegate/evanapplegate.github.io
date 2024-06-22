@@ -27144,11 +27144,11 @@ UT-Incident--180653,Incidents,US 89,Sanpete County,US 89 14951,"Crash
 NB US 89/Ephraim Sanpete Co.
 Est. Clearance Time: 6:51 AM","6/22/24, 5:51 AM","6/22/24, 6:51 AM","6/22/24, 5:51 AM",,39.494383,-111.509757
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180654,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Right Lanes Closed
 Est. Clearance Time: 9:37 AM","6/22/24, 7:38 AM","6/22/24, 9:37 AM","6/22/24, 7:48 AM",,40.550055,-111.896336
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27161,3 +27161,6 @@ UT-Incident--180655,Incidents,SR 163,San Juan County,SR 163 at MP 28,"Road damag
 Both Directions SR 163 at MP 28 (13 MI of US-191 Jct) San Juan Co.
 Alternating traffic
 Est. Clearance Time: 6/23/2024 12:00 PM","6/22/24, 8:32 AM","6/23/24, 12:00 PM","6/22/24, 8:32 AM",,37.222776,-109.822658
+UT-Incident--180656,Incidents,SR 316,San Juan County,SR 316 at MP 2,"Road damage
+Both Directions SR 316 at MP 2 (1.5 MI from SR-261 Jct) San Juan Co.
+Est. Clearance Time: 6/24/2024 9:53 AM","6/22/24, 8:55 AM","6/24/24, 9:53 AM","6/22/24, 8:55 AM",,37.196059,-109.905009
