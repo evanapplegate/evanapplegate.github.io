@@ -27072,7 +27072,6 @@ UT-Incident--180636,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","6/21/24, 5:41 PM","6/21/24, 6:45 PM","6/21/24, 5:44 PM",,40.63583,-111.905066
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180637,Incidents,1900 W,Weber County,1900 W at 4800 S,"Crash
 SB 1900 W at 4900 S Weber Co.
 Right Lane Closed
@@ -27104,6 +27103,7 @@ UT-Incident--180640,Incidents,Washington Blvd,Weber County,Washington Blvd at 30
 SB Washington Blvd at 30th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 7:35 PM","6/21/24, 6:19 PM","6/21/24, 7:35 PM",,,41.211217,-111.970687
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
