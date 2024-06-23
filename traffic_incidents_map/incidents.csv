@@ -27222,11 +27222,15 @@ UT-Incident--180665,Incidents,I-15,Iron County,I-15 at MP 86,"Crash
 NB I-15 at MP 86 (9 mi N of Parowan) Iron Co.
 Right Lane Closed
 Est. Clearance Time: 11:00 PM","6/22/24, 3:55 PM","6/22/24, 11:00 PM","6/22/24, 9:04 PM",,37.958832,-112.749966
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180679,Incidents,US 6,Utah County,US 6 at MP 201,"Crash
 WB US 6 at MP 201 (W of Tie Fork Rest Stop) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:22 PM","6/22/24, 10:24 PM","6/22/24, 11:22 PM","6/22/24, 10:24 PM",,39.954707,-111.236626
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180678,Incidents,US 40,Wasatch County,US 40 at MP 50,"Crash
+WB US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 11:21 PM","6/22/24, 10:22 PM","6/22/24, 11:21 PM","6/22/24, 10:22 PM",,40.182299,-111.041584
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
@@ -27241,7 +27245,6 @@ Both Directions SR 316 at MP 2 (1.5 MI from SR-261 Jct) San Juan Co.
 Est. Clearance Time: 6/24/2024 9:53 AM","6/22/24, 8:55 AM","6/24/24, 9:53 AM","6/22/24, 8:55 AM",,37.196059,-109.905009
 UT-Incident--180677,Incidents,SR 39,Weber County,SR 39 at MP 9,"Both Directions SR 39 Closed
  at MP 9-14 (Mouth of canyon) Weber Co.","6/22/24, 7:57 PM","6/23/24, 1:00 AM","6/22/24, 8:30 PM",,41.236707,-111.923062
-UT-Incident--180678,Incidents,US 40,Wasatch County,US 40 at MP 50,"Crash
-WB US 40 at MP 50 (Strawberry Reservoir) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 11:21 PM","6/22/24, 10:22 PM","6/22/24, 11:21 PM","6/22/24, 10:22 PM",,40.182299,-111.041584
+UT-Incident--180680,Incidents,SR 83,Box Elder County,SR 83 at MP 24,"Crash
+Other SR 83 at MP 24 (N of ATK/Thiokol) Box Elder Co.
+Est. Clearance Time: 1:01 AM","6/23/24, 12:02 AM","6/23/24, 1:01 AM","6/23/24, 12:02 AM",,41.727032,-112.433784
