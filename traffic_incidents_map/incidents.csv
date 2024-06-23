@@ -27203,7 +27203,6 @@ UT-Incident--180655,Incidents,SR 163,San Juan County,SR 163 at MP 28,"Road damag
 Both Directions SR 163 at MP 28 (13 MI of US-191 Jct) San Juan Co.
 Alternating traffic
 Est. Clearance Time: 6/23/2024 12:00 PM","6/22/24, 8:32 AM","6/23/24, 12:00 PM","6/22/24, 8:32 AM",,37.222776,-109.822658
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180674,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
 WB I-80 at MP 113 Off Ramp (5600 W / Salt Lake City) Salt Lake Co.
 Right Shoulder
@@ -27216,9 +27215,10 @@ UT-Incident--180667,Incidents,US 89,Sanpete County,US 89 at MP 296,"Crash
 US 89 at MP 296 (9 miles S of Birdseye) Sanpete Co.
 Est. Clearance Time: 5:45 PM","6/22/24, 4:20 PM","6/22/24, 5:45 PM","6/22/24, 4:20 PM",,39.797789,-111.499887
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180665,Incidents,I-15,Iron County,I-15 at MP 86,"Crash
 NB I-15 at MP 86 (9 mi N of Parowan) Iron Co.
-Est. Clearance Time: 5:00 PM","6/22/24, 3:55 PM","6/22/24, 5:00 PM","6/22/24, 3:55 PM",,37.958832,-112.749966
+Est. Clearance Time: 11:00 PM","6/22/24, 3:55 PM","6/22/24, 11:00 PM","6/22/24, 8:33 PM",,37.958832,-112.749966
 UT-Incident--180676,Incidents,I-15,Utah County,I-15 at MP 285,"Lane Closure
 NB I-15 at MP 285 (Lehi) Utah Co.
 2 Right Lanes Closed
@@ -27235,5 +27235,4 @@ UT-Incident--180656,Incidents,SR 316,San Juan County,SR 316 at MP 2,"Road damage
 Both Directions SR 316 at MP 2 (1.5 MI from SR-261 Jct) San Juan Co.
 Est. Clearance Time: 6/24/2024 9:53 AM","6/22/24, 8:55 AM","6/24/24, 9:53 AM","6/22/24, 8:55 AM",,37.196059,-109.905009
 UT-Incident--180677,Incidents,SR 39,Weber County,SR 39 at MP 9,"Both Directions SR 39 Closed
- at MP 9 (Mouth of canyon) Weber Co.
-Use Alt Route","6/22/24, 7:57 PM","6/23/24, 1:00 AM","6/22/24, 7:57 PM",,41.236707,-111.923062
+ at MP 9-14 (Mouth of canyon) Weber Co.","6/22/24, 7:57 PM","6/23/24, 1:00 AM","6/22/24, 8:30 PM",,41.236707,-111.923062
