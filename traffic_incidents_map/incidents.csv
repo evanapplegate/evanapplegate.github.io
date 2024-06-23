@@ -27266,7 +27266,6 @@ Est. Clearance Time: 1:45 PM","6/23/24, 12:47 PM","6/23/24, 1:45 PM","6/23/24, 1
 UT-Incident--180687,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
 SB US 189 at MP 24 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 2:45 PM","6/23/24, 12:34 PM","6/23/24, 2:45 PM","6/23/24, 1:40 PM",,40.446013,-111.477114
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180691,Incidents,3300 S,Salt Lake County,3300 S 1201,"Crash
 WB 3300 S 1200 W Salt Lake Co.
 Right 2 Lanes Closed
@@ -27276,14 +27275,23 @@ NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 4:26 PM","6/23/24, 2:27 PM","6/23/24, 4:26 PM","6/23/24, 3:32 PM",,40.74966,-111.90976
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180692,Incidents,I-15,Washington County,I-15 at MP 34,"Crash
-SB I-15 at MP 34 (8 mi S of Kanarraville) Washington Co.
-Right Lane Closed
-Est. Clearance Time: 4:45 PM","6/23/24, 2:46 PM","6/23/24, 4:45 PM","6/23/24, 4:00 PM",,37.368573,-113.257183
 UT-Incident--180695,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:36 PM","6/23/24, 3:37 PM","6/23/24, 4:36 PM","6/23/24, 3:37 PM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180692,Incidents,I-15,Washington County,I-15 at MP 34,"Crash
+SB I-15 at MP 34 (8 mi S of Kanarraville) Washington Co.
+Right Lane Closed
+Est. Clearance Time: 4:45 PM","6/23/24, 2:46 PM","6/23/24, 4:45 PM","6/23/24, 4:00 PM",,37.368573,-113.257183
+UT-Incident--180696,Incidents,I-15,Weber County,I-15 at MP 347,"Vehicle on fire
+NB I-15 at MP 347 (Farr West) Weber Co.
+Right Lanes Closed
+Est. Clearance Time: 5:11 PM","6/23/24, 4:13 PM","6/23/24, 5:11 PM","6/23/24, 4:16 PM",,41.272257,-112.026419
+UT-Incident--180697,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
+NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 5:19 PM","6/23/24, 4:20 PM","6/23/24, 5:19 PM","6/23/24, 4:20 PM",,40.638493,-112.046384
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
