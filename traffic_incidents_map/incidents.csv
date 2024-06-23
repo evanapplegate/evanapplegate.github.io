@@ -27232,7 +27232,6 @@ Right Shoulder
 Est. Clearance Time: 11:21 PM","6/22/24, 10:22 PM","6/22/24, 11:21 PM","6/22/24, 10:22 PM",,40.182299,-111.041584
 UT-Incident--180677,Incidents,SR 39,Weber County,SR 39 at MP 9,"Both Directions SR 39 Closed
  at MP 9-14 (Mouth of canyon) Weber Co.","6/22/24, 7:57 PM","6/23/24, 1:00 AM","6/22/24, 8:30 PM",,41.236707,-111.923062
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180681,Incidents,I-15,Utah County,I-15 at MP 253,"Crash
 NB I-15 at MP 253 (8000 S / Spanish Fork) Utah Co.
 Left Shoulder
@@ -27240,6 +27239,7 @@ Est. Clearance Time: 2:14 AM","6/23/24, 1:28 AM","6/23/24, 2:14 AM","6/23/24, 1:
 UT-Incident--180680,Incidents,SR 83,Box Elder County,SR 83 at MP 24,"Crash
 Other SR 83 at MP 24 (N of ATK/Thiokol) Box Elder Co.
 Est. Clearance Time: 1:01 AM","6/23/24, 12:02 AM","6/23/24, 1:01 AM","6/23/24, 12:02 AM",,41.727032,-112.433784
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
