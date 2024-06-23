@@ -27215,14 +27215,15 @@ UT-Incident--180667,Incidents,US 89,Sanpete County,US 89 at MP 296,"Crash
 US 89 at MP 296 (9 miles S of Birdseye) Sanpete Co.
 Est. Clearance Time: 5:45 PM","6/22/24, 4:20 PM","6/22/24, 5:45 PM","6/22/24, 4:20 PM",,39.797789,-111.499887
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180665,Incidents,I-15,Iron County,I-15 at MP 86,"Crash
-NB I-15 at MP 86 (9 mi N of Parowan) Iron Co.
-Est. Clearance Time: 11:00 PM","6/22/24, 3:55 PM","6/22/24, 11:00 PM","6/22/24, 8:33 PM",,37.958832,-112.749966
 UT-Incident--180676,Incidents,I-15,Utah County,I-15 at MP 285,"Lane Closure
 NB I-15 at MP 285 (Lehi) Utah Co.
 2 Right Lanes Closed
 Est. Clearance Time: 8:55 PM","6/22/24, 7:40 PM","6/22/24, 8:55 PM","6/22/24, 7:40 PM",,40.442142,-111.903011
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180665,Incidents,I-15,Iron County,I-15 at MP 86,"Crash
+NB I-15 at MP 86 (9 mi N of Parowan) Iron Co.
+Right Lane Closed
+Est. Clearance Time: 11:00 PM","6/22/24, 3:55 PM","6/22/24, 11:00 PM","6/22/24, 9:04 PM",,37.958832,-112.749966
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
