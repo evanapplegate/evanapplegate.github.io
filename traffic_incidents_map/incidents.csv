@@ -27342,10 +27342,14 @@ SB I-15 Antelope Dr Ramp (MP 332) Davis Co.
 Right Shoulder
 Est. Clearance Time: 6:40 AM","6/24/24, 5:42 AM","6/24/24, 6:40 AM","6/24/24, 5:42 AM",,41.093485,-111.994943
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180713,Incidents,1900 W,Weber County,1900 W 3350,"Crash
 NB 1900 W Closed at Hinckley Dr (Weber Co)
 Use Alt Route","6/24/24, 5:52 AM","6/24/24, 7:25 AM","6/24/24, 6:35 AM",,41.198308,-112.025807
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180716,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+NB I-15 at MP 309 (600 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:55 AM","6/24/24, 6:52 AM","6/24/24, 7:55 AM","6/24/24, 6:52 AM",,40.777705,-111.910735
 UT-Incident--180714,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
@@ -27358,3 +27362,6 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
+UT-Incident--180715,Incidents,SR 132,Juab County,SR 132 at MP 24,"Crash
+Both Directions SR 132 at MP 24 (8 MI from Nephi) Juab Co.
+Est. Clearance Time: 7:49 AM","6/24/24, 6:49 AM","6/24/24, 7:49 AM","6/24/24, 6:49 AM",,39.68861,-112.002646
