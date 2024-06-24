@@ -27383,10 +27383,6 @@ WB I-80 at MP 124 (900 E / Salt Lake City) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:17 AM","6/24/24, 10:18 AM","6/24/24, 11:17 AM","6/24/24, 10:18 AM",,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
-Both Directions HWY 73  Closed at MP 14 (Tooele Co)
-Use Alt Route","6/24/24, 8:52 AM","6/24/24, 12:30 PM","6/24/24, 8:53 AM",,40.243972,-112.209183
 UT-Incident--180726,Incidents,HWY 73,Tooele County,HWY 73,"Crash
 SR-73 Closed at SR-36
 Tooele Co.
@@ -27399,6 +27395,10 @@ UT-Incident--180730,Incidents,I-15 NB X301 Off 4500 S Ramp,Salt Lake County,I-15
 SB I-15 4500 S Off Ramp (Salt Lake Co)
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","6/24/24, 11:14 AM","6/24/24, 12:30 PM","6/24/24, 11:14 AM",,40.669208,-111.901182
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
+NB HWY 73  Closed at MP 14 (2 miles North of Faust Rd (Tooele Co)
+Use Alt Route","6/24/24, 8:52 AM","6/24/24, 5:00 PM","6/24/24, 12:19 PM",,40.243972,-112.209183
 UT-Incident--180727,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 Closed at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Use Alt Route","6/24/24, 9:44 AM","6/24/24, 1:30 PM","6/24/24, 9:44 AM",,40.771145,-112.066961
@@ -27410,3 +27410,7 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/25/2024 10:00 PM","6/17/24, 4:07 PM","6/25/24, 10:00 PM","6/24/24, 8:03 AM",,40.750242,-111.939001
+UT-Incident--180731,Incidents,SR 73,Tooele County,SR 73 at MP 4,"Crash
+SB SR 73 Closed
+ at MP 4 (5 MI E of Rush Valley) Tooele Co.
+Use Alt Route","6/24/24, 12:18 PM","6/24/24, 5:00 PM","6/24/24, 12:18 PM",,40.356901,-112.317884
