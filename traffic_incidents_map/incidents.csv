@@ -27302,10 +27302,14 @@ NB Right Lane Closed
 WB to NB Closed
 Est. Clearance Time: 7:21 PM","6/23/24, 6:22 PM","6/23/24, 7:21 PM","6/23/24, 6:22 PM",,40.699821,-111.888253
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180706,Incidents,900 E,Salt Lake County,900 E at 6600 S,"Signal problems - treat as 4 way stop
 All Directions 900 E at 6600 S Salt Lake Co.
 Est. Clearance Time: 9:15 PM","6/23/24, 8:16 PM","6/23/24, 9:15 PM","6/23/24, 8:16 PM",,0.0,0.0
+UT-Incident--180697,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
+NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:45 PM","6/23/24, 4:20 PM","6/23/24, 6:45 PM","6/23/24, 5:32 PM",,40.638493,-112.046384
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180707,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Vehicle on fire
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Right Shoulder
@@ -27314,10 +27318,6 @@ UT-Incident--180705,Incidents,I-80,Tooele County,I-80 at MP 37,"Crash
 WB I-80 at MP 37 (4 mi W of Knolls) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 8:53 PM","6/23/24, 7:54 PM","6/23/24, 8:53 PM","6/23/24, 7:54 PM",,40.728557,-113.34036
-UT-Incident--180697,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
-NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
-Left Lane Closed
-Est. Clearance Time: 6:45 PM","6/23/24, 4:20 PM","6/23/24, 6:45 PM","6/23/24, 5:32 PM",,40.638493,-112.046384
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
