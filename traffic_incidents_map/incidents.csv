@@ -27359,7 +27359,6 @@ Est. Clearance Time: 8:30 AM","6/24/24, 7:30 AM","6/24/24, 8:30 AM","6/24/24, 7:
 UT-Incident--180715,Incidents,SR 132,Juab County,SR 132 at MP 24,"Crash
 Both Directions SR 132 at MP 24 (8 MI from Nephi) Juab Co.
 Est. Clearance Time: 7:49 AM","6/24/24, 6:49 AM","6/24/24, 7:49 AM","6/24/24, 6:49 AM",,39.68861,-112.002646
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180720,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
@@ -27372,13 +27371,18 @@ SB Washington Blvd at 5000 S Weber Co.
 Right Lane Closed
 Est. Clearance Time: 9:50 AM","6/24/24, 8:44 AM","6/24/24, 9:50 AM","6/24/24, 8:48 AM",,41.172969,-111.970804
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
-Both Directions HWY 73  Closed at MP 14 (Tooele Co)
-Use Alt Route","6/24/24, 8:52 AM","6/24/24, 12:30 PM","6/24/24, 8:53 AM",,40.243972,-112.209183
 UT-Incident--180717,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:17 AM","6/24/24, 7:18 AM","6/24/24, 10:17 AM","6/24/24, 9:12 AM",,40.765438,-111.953251
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
+Both Directions HWY 73  Closed at MP 14 (Tooele Co)
+Use Alt Route","6/24/24, 8:52 AM","6/24/24, 12:30 PM","6/24/24, 8:53 AM",,40.243972,-112.209183
+UT-Incident--180726,Incidents,HWY 73,Tooele County,HWY 73,"Crash
+SR-73 Closed at SR-36
+Tooele Co.
+Use Alt Route","6/24/24, 9:30 AM","6/24/24, 10:28 AM","6/24/24, 9:30 AM",,40.380838,-112.386617
 UT-Incident--180721,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
