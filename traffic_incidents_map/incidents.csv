@@ -27395,13 +27395,13 @@ SB I-15 4500 S Off Ramp (Salt Lake Co)
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","6/24/24, 11:14 AM","6/24/24, 12:30 PM","6/24/24, 11:14 AM",,40.669208,-111.901182
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180727,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
+EB I-80 Closed at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
+Use Alt Route","6/24/24, 9:44 AM","6/24/24, 1:30 PM","6/24/24, 9:44 AM",,40.771145,-112.066961
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
 NB HWY 73  Closed at MP 14 (2 miles North of Faust Rd (Tooele Co)
 Use Alt Route","6/24/24, 8:52 AM","6/24/24, 5:00 PM","6/24/24, 12:19 PM",,40.243972,-112.209183
-UT-Incident--180727,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
-EB I-80 Closed at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
-Use Alt Route","6/24/24, 9:44 AM","6/24/24, 1:30 PM","6/24/24, 9:44 AM",,40.771145,-112.066961
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27416,4 +27416,5 @@ SB SR 73 Closed
 Use Alt Route","6/24/24, 12:18 PM","6/24/24, 5:00 PM","6/24/24, 12:18 PM",,40.356901,-112.317884
 UT-Incident--180732,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
 EB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
-Est. Clearance Time: 1:47 PM","6/24/24, 12:48 PM","6/24/24, 1:47 PM","6/24/24, 12:48 PM",,39.980043,-111.353152
+Alternating traffic
+Est. Clearance Time: 2:47 PM","6/24/24, 12:48 PM","6/24/24, 2:47 PM","6/24/24, 1:23 PM",,39.980043,-111.353152
