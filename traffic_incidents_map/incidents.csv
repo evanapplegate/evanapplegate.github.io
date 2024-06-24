@@ -27361,6 +27361,9 @@ Both Directions SR 132 at MP 24 (8 MI from Nephi) Juab Co.
 Est. Clearance Time: 7:49 AM","6/24/24, 6:49 AM","6/24/24, 7:49 AM","6/24/24, 6:49 AM",,39.68861,-112.002646
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
+Both Directions HWY 73  Closed at MP 14 (Tooele Co)
+Use Alt Route","6/24/24, 8:52 AM","6/24/24, 12:30 PM","6/24/24, 8:53 AM",,40.243972,-112.209183
 UT-Incident--180720,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Left Shoulder
@@ -27373,6 +27376,9 @@ UT-Incident--180721,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Crash
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:37 AM","6/24/24, 8:37 AM","6/24/24, 9:37 AM","6/24/24, 8:37 AM",,40.771145,-112.066961
+UT-Incident--180725,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
+EB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
+Est. Clearance Time: 10:05 AM","6/24/24, 9:05 AM","6/24/24, 10:05 AM","6/24/24, 9:05 AM",,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27381,7 +27387,7 @@ UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana 
 SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/25/2024 10:00 PM","6/17/24, 4:07 PM","6/25/24, 10:00 PM","6/24/24, 8:03 AM",,40.750242,-111.939001
-UT-Incident--180722,Incidents,Washington Blvd,Weber County,Washington Blvd 5053 S,"Crash
-SB Washington Blvd Weber Co.
+UT-Incident--180722,Incidents,Washington Blvd,Weber County,Washington Blvd at 5000 S,"Crash
+SB Washington Blvd at 5000 S Weber Co.
 Right Lane Closed
-Est. Clearance Time: 9:50 AM","6/24/24, 8:44 AM","6/24/24, 9:50 AM","6/24/24, 8:44 AM",,0.0,0.0
+Est. Clearance Time: 9:50 AM","6/24/24, 8:44 AM","6/24/24, 9:50 AM","6/24/24, 8:48 AM",,41.172969,-111.970804
