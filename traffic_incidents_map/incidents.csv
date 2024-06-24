@@ -27352,7 +27352,6 @@ UT-Incident--180716,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:55 AM","6/24/24, 6:52 AM","6/24/24, 7:55 AM","6/24/24, 6:52 AM",,40.777705,-111.910735
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180718,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder blocked
@@ -27361,6 +27360,11 @@ UT-Incident--180715,Incidents,SR 132,Juab County,SR 132 at MP 24,"Crash
 Both Directions SR 132 at MP 24 (8 MI from Nephi) Juab Co.
 Est. Clearance Time: 7:49 AM","6/24/24, 6:49 AM","6/24/24, 7:49 AM","6/24/24, 6:49 AM",,39.68861,-112.002646
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180720,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:20 AM","6/24/24, 8:21 AM","6/24/24, 9:20 AM","6/24/24, 8:21 AM",,40.63583,-111.905066
 UT-Incident--180717,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Lane Closed
