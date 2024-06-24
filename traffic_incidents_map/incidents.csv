@@ -27289,12 +27289,27 @@ UT-Incident--180698,Incidents,I-15,Beaver County,I-15 at MP 103,"Crash
 SB I-15 at MP 103 (5 mi S of Beaver) Beaver Co.
 Left Shoulder
 Est. Clearance Time: 5:37 PM","6/23/24, 4:39 PM","6/23/24, 5:37 PM","6/23/24, 4:39 PM",,38.171491,-112.62323
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180699,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
 EB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/23/24, 4:48 PM","6/23/24, 5:47 PM","6/23/24, 5:33 PM",,41.886629,-112.496048
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180694,Incidents,State St,Salt Lake County,State St at 2100 S,"Signal problems - treat as 4 way stop
+All Directions State St at 1900 S Salt Lake Co.
+Est. Clearance Time: 7:02 PM","6/23/24, 3:04 PM","6/23/24, 7:02 PM","6/23/24, 5:20 PM",,40.724427,-111.888226
+UT-Incident--180703,Incidents,State St,Salt Lake County,State St at 3300 S,"Crash
+NB State St at 3300 S Salt Lake Co.
+NB Right Lane Closed
+WB to NB Closed
+Est. Clearance Time: 7:21 PM","6/23/24, 6:22 PM","6/23/24, 7:21 PM","6/23/24, 6:22 PM",,40.699821,-111.888253
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180706,Incidents,900 E,Salt Lake County,900 E at 6600 S,"Signal problems - treat as 4 way stop
+All Directions 900 E at 6600 S Salt Lake Co.
+Est. Clearance Time: 9:15 PM","6/23/24, 8:16 PM","6/23/24, 9:15 PM","6/23/24, 8:16 PM",,0.0,0.0
+UT-Incident--180705,Incidents,I-80,Tooele County,I-80 at MP 37,"Crash
+WB I-80 at MP 37 (4 mi W of Knolls) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 8:53 PM","6/23/24, 7:54 PM","6/23/24, 8:53 PM","6/23/24, 7:54 PM",,40.728557,-113.34036
 UT-Incident--180697,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 6200 S,"Crash
 NB Mountain View Corridor Hwy at 6200 S Salt Lake Co.
 Left Lane Closed
@@ -27314,11 +27329,3 @@ Est. Clearance Time: 6/24/2024 11:00 PM","6/23/24, 6:34 PM","6/24/24, 11:00 PM",
 UT-Incident--180656,Incidents,SR 316,San Juan County,SR 316 at MP 2,"Road damage
 Both Directions SR 316 at MP 2 (1.5 MI from SR-261 Jct) San Juan Co.
 Est. Clearance Time: 6/24/2024 9:53 AM","6/22/24, 8:55 AM","6/24/24, 9:53 AM","6/22/24, 8:55 AM",,37.196059,-109.905009
-UT-Incident--180694,Incidents,State St,Salt Lake County,State St at 2100 S,"Signal problems - treat as 4 way stop
-All Directions State St at 1900 S Salt Lake Co.
-Est. Clearance Time: 7:02 PM","6/23/24, 3:04 PM","6/23/24, 7:02 PM","6/23/24, 5:20 PM",,40.724427,-111.888226
-UT-Incident--180703,Incidents,State St,Salt Lake County,State St at 3300 S,"Crash
-NB State St at 3300 S Salt Lake Co.
-NB Right Lane Closed
-WB to NB Closed
-Est. Clearance Time: 7:21 PM","6/23/24, 6:22 PM","6/23/24, 7:21 PM","6/23/24, 6:22 PM",,40.699821,-111.888253
