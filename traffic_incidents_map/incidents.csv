@@ -27382,7 +27382,6 @@ UT-Incident--180728,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (900 E / Salt Lake City) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 11:17 AM","6/24/24, 10:18 AM","6/24/24, 11:17 AM","6/24/24, 10:18 AM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180726,Incidents,HWY 73,Tooele County,HWY 73,"Crash
 SR-73 Closed at SR-36
 Tooele Co.
@@ -27395,6 +27394,7 @@ UT-Incident--180730,Incidents,I-15 NB X301 Off 4500 S Ramp,Salt Lake County,I-15
 SB I-15 4500 S Off Ramp (Salt Lake Co)
 Right Lane Closed
 Est. Clearance Time: 12:30 PM","6/24/24, 11:14 AM","6/24/24, 12:30 PM","6/24/24, 11:14 AM",,40.669208,-111.901182
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
 NB HWY 73  Closed at MP 14 (2 miles North of Faust Rd (Tooele Co)
