@@ -27421,12 +27421,6 @@ SB I-15 at MP 302 (4100 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:15 PM","6/24/24, 4:15 PM","6/24/24, 5:15 PM","6/24/24, 4:15 PM",,40.679062,-111.902181
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
-Ramp NB I-15 at 1300 S On Ramp 
-Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 4:01 PM","6/24/24, 3:04 PM","6/24/24, 7:01 PM","6/24/24, 3:50 PM",,40.736823,-111.90475
 UT-Incident--180737,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
@@ -27435,6 +27429,12 @@ UT-Incident--180738,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","6/24/24, 4:59 PM","6/24/24, 6:00 PM","6/24/24, 4:59 PM",,40.316406,-111.72616
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
+Ramp NB I-15 at 1300 S On Ramp 
+Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:01 PM","6/24/24, 3:04 PM","6/24/24, 7:01 PM","6/24/24, 3:50 PM",,40.736823,-111.90475
 UT-Incident--180739,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
