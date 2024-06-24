@@ -27293,7 +27293,6 @@ UT-Incident--180699,Incidents,I-84,Box Elder County,I-84 at MP 20,"Crash
 EB I-84 at MP 20 (11 mi east of Snowville) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 5:47 PM","6/23/24, 4:48 PM","6/23/24, 5:47 PM","6/23/24, 5:33 PM",,41.886629,-112.496048
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180694,Incidents,State St,Salt Lake County,State St at 2100 S,"Signal problems - treat as 4 way stop
 All Directions State St at 1900 S Salt Lake Co.
 Est. Clearance Time: 7:02 PM","6/23/24, 3:04 PM","6/23/24, 7:02 PM","6/23/24, 5:20 PM",,40.724427,-111.888226
@@ -27302,6 +27301,7 @@ NB State St at 3300 S Salt Lake Co.
 NB Right Lane Closed
 WB to NB Closed
 Est. Clearance Time: 7:21 PM","6/23/24, 6:22 PM","6/23/24, 7:21 PM","6/23/24, 6:22 PM",,40.699821,-111.888253
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180706,Incidents,900 E,Salt Lake County,900 E at 6600 S,"Signal problems - treat as 4 way stop
 All Directions 900 E at 6600 S Salt Lake Co.
