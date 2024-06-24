@@ -27315,7 +27315,6 @@ Est. Clearance Time: 9:52 PM","6/23/24, 8:55 PM","6/23/24, 9:52 PM","6/23/24, 8:
 UT-Incident--180656,Incidents,SR 316,San Juan County,SR 316 at MP 2,"Road damage
 Both Directions SR 316 at MP 2 (1.5 MI from SR-261 Jct) San Juan Co.
 Est. Clearance Time: 6/24/2024 9:53 AM","6/22/24, 8:55 AM","6/24/24, 9:53 AM","6/22/24, 8:55 AM",,37.196059,-109.905009
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180708,Incidents,I-15,Weber County,I-15 at MP 339,"Crash
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Right Lane Closed
@@ -27323,6 +27322,7 @@ Est. Clearance Time: 10:47 PM","6/23/24, 9:48 PM","6/23/24, 10:47 PM","6/23/24, 
 UT-Incident--180710,Incidents,Main St,Box Elder County,Main St at US 89,"Crash
 NB Main St at US 89 Box Elder Co.
 Est. Clearance Time: 11:17 PM","6/23/24, 10:18 PM","6/23/24, 11:17 PM","6/23/24, 10:18 PM",,41.483827,-112.017817
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180709,Incidents,7200 S,Salt Lake County,7200 S at 300 W,"Crash
 EB 7200 S Closed
