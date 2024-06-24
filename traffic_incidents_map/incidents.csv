@@ -27348,12 +27348,16 @@ UT-Incident--180714,Incidents,I-215 W,Salt Lake County,I-215 W at MP 17,"Crash
 NB I-215 W at MP 17 (3500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:00 AM","6/24/24, 6:01 AM","6/24/24, 7:00 AM","6/24/24, 6:01 AM",,40.688869,-111.951947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180716,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
 NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:55 AM","6/24/24, 6:52 AM","6/24/24, 7:55 AM","6/24/24, 6:52 AM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180718,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
+SB I-15 at MP 319 (Parrish Ln) Davis Co.
+Right Shoulder blocked
+Est. Clearance Time: 8:30 AM","6/24/24, 7:30 AM","6/24/24, 8:30 AM","6/24/24, 7:41 AM",,40.914229,-111.891449
 UT-Incident--180717,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
 WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
 Right Shoulder
