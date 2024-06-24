@@ -27408,7 +27408,6 @@ Use Alt Route","6/24/24, 12:18 PM","6/24/24, 5:00 PM","6/24/24, 12:18 PM",,40.35
 UT-Incident--180732,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
 EB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
 Est. Clearance Time: 3:47 PM","6/24/24, 12:48 PM","6/24/24, 3:47 PM","6/24/24, 3:17 PM",,39.980043,-111.353152
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
 Both Directions HWY 73 Tooele Co.
 Alternating Traffic
@@ -27417,6 +27416,7 @@ UT-Incident--180734,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Lanes Closed
 Est. Clearance Time: 4:31 PM","6/24/24, 3:32 PM","6/24/24, 4:31 PM","6/24/24, 3:51 PM",,40.346539,-111.763778
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
 Ramp NB I-15 at 1300 S On Ramp 
