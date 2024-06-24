@@ -27402,18 +27402,24 @@ SB Redwood Rd at Indiana Ave Salt Lake Co.
 Traffic using center median
 Est. Clearance Time: 6/25/2024 10:00 PM","6/17/24, 4:07 PM","6/25/24, 10:00 PM","6/24/24, 8:03 AM",,40.750242,-111.939001
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
-NB HWY 73  Closed at MP 14 (2 miles North of Faust Rd (Tooele Co)
-Use Alt Route","6/24/24, 8:52 AM","6/24/24, 5:00 PM","6/24/24, 12:19 PM",,40.243972,-112.209183
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/25/24, 4:00 PM","6/24/24, 8:03 AM",,40.721209,-111.938966
 UT-Incident--180731,Incidents,SR 73,Tooele County,SR 73 at MP 4,"Crash
 SB SR 73 Closed
  at MP 4 (5 MI E of Rush Valley) Tooele Co.
 Use Alt Route","6/24/24, 12:18 PM","6/24/24, 5:00 PM","6/24/24, 12:18 PM",,40.356901,-112.317884
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180724,Incidents,HWY 73,Tooele County,HWY 73,"Crash
+Both Directions HWY 73 Tooele Co.
+Alternating Traffic
+Est. Clearance Time: 5:00 PM","6/24/24, 8:52 AM","6/24/24, 5:00 PM","6/24/24, 3:00 PM",,40.243972,-112.209183
+UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
+NB Ramp I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 4:01 PM","6/24/24, 3:04 PM","6/24/24, 4:01 PM","6/24/24, 3:04 PM",,40.736823,-111.90475
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/25/24, 4:00 PM","6/24/24, 8:03 AM",,40.721209,-111.938966
 UT-Incident--180732,Incidents,US 6,Utah County,US 6 at MP 194,"Crash
-EB/WB US 6 Closed
- at MP 194 (1 Mi W of Sheep Creek) Utah Co.","6/24/24, 12:48 PM","6/24/24, 3:47 PM","6/24/24, 2:32 PM",,39.980043,-111.353152
+EB US 6 at MP 194 (1 Mi W of Sheep Creek) Utah Co.
+Alternating Traffic
+Est. Clearance Time: 3:47 PM","6/24/24, 12:48 PM","6/24/24, 3:47 PM","6/24/24, 2:56 PM",,39.980043,-111.353152
