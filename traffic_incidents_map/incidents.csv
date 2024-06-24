@@ -27353,23 +27353,23 @@ NB I-15 at MP 309 (600 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:55 AM","6/24/24, 6:52 AM","6/24/24, 7:55 AM","6/24/24, 6:52 AM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180718,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 Right Shoulder blocked
 Est. Clearance Time: 8:30 AM","6/24/24, 7:30 AM","6/24/24, 8:30 AM","6/24/24, 7:41 AM",,40.914229,-111.891449
-UT-Incident--180717,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
-WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 8:17 AM","6/24/24, 7:18 AM","6/24/24, 8:17 AM","6/24/24, 7:18 AM",,40.765438,-111.953251
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/23/24, 4:00 PM","6/20/24, 10:29 PM",,40.721209,-111.938966
-UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Utility work
-SB Redwood Rd at Indiana Ave Salt Lake Co.
-Traffic using center median
-Est. Clearance Time: 6/23/2024 10:00 PM","6/17/24, 4:07 PM","6/23/24, 10:00 PM","6/20/24, 10:29 PM",,40.750242,-111.939001
 UT-Incident--180715,Incidents,SR 132,Juab County,SR 132 at MP 24,"Crash
 Both Directions SR 132 at MP 24 (8 MI from Nephi) Juab Co.
 Est. Clearance Time: 7:49 AM","6/24/24, 6:49 AM","6/24/24, 7:49 AM","6/24/24, 6:49 AM",,39.68861,-112.002646
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180717,Incidents,I-80,Salt Lake County,I-80 at MP 117,"Crash
+WB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:32 AM","6/24/24, 7:18 AM","6/24/24, 9:32 AM","6/24/24, 7:49 AM",,40.765438,-111.953251
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/25/24, 4:00 PM","6/24/24, 8:03 AM",,40.721209,-111.938966
+UT-Incident--180470,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at Indiana Ave,"Utility work
+SB Redwood Rd at Indiana Ave Salt Lake Co.
+Traffic using center median
+Est. Clearance Time: 6/25/2024 10:00 PM","6/17/24, 4:07 PM","6/25/24, 10:00 PM","6/24/24, 8:03 AM",,40.750242,-111.939001
