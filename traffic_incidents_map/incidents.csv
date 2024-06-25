@@ -27493,7 +27493,6 @@ Est. Clearance Time: 12:35 PM","6/25/24, 9:36 AM","6/25/24, 12:35 PM","6/25/24, 
 UT-Incident--180760,Incidents,I-15 NB X276 ON 500 E SB RAMP,Utah County,I-15 NB X276 ON 500 E SB RAMP at 500 E,"Crash
 NB I-15 500 E On-Ramp (American Fork) Utah Co.
 Est. Clearance Time: 11:15 AM","6/25/24, 10:15 AM","6/25/24, 11:15 AM","6/25/24, 10:15 AM",,40.361962,-111.785846
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180761,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 SB I-15 at MP 305 (2100 S) Salt Lake Co.
 Right Shoulder
@@ -27510,6 +27509,15 @@ Est. Clearance Time: 10:45 AM","6/25/24, 9:45 AM","6/25/24, 10:45 AM","6/25/24, 
 UT-Incident--180763,Incidents,Hill Field Rd,Davis County,Hill Field Rd at Main St,"Crash
 All Directions Hill Field Rd at Main St Davis Co.
 Est. Clearance Time: 1:07 PM","6/25/24, 12:08 PM","6/25/24, 1:07 PM","6/25/24, 12:08 PM",,41.072713,-111.978866
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180765,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
+NB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 1:15 PM","6/25/24, 12:16 PM","6/25/24, 1:15 PM","6/25/24, 12:16 PM",,40.328045,-111.73498
+UT-Incident--180764,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Crash
+SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
+Right Shoulder
+Est. Clearance Time: 1:15 PM","6/25/24, 12:10 PM","6/25/24, 1:15 PM","6/25/24, 12:10 PM",,40.869089,-111.939468
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
