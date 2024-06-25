@@ -27428,7 +27428,6 @@ UT-Incident--180738,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","6/24/24, 4:59 PM","6/24/24, 6:00 PM","6/24/24, 4:59 PM",,40.316406,-111.72616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
 Ramp NB I-15 at 1300 S On Ramp 
 Salt Lake Co.
@@ -27451,6 +27450,11 @@ UT-Incident--180746,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 SB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:20 PM","6/24/24, 6:20 PM","6/24/24, 7:20 PM","6/24/24, 6:20 PM",,40.607173,-111.905403
+UT-Incident--180745,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+WB SR 201 at MP 9 (6800 W) Salt Lake Co.
+On Left Shoulder
+Est. Clearance Time: 6:55 PM","6/24/24, 5:57 PM","6/24/24, 6:55 PM","6/24/24, 5:57 PM",,40.718554,-112.056887
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27461,8 +27465,4 @@ Left Lane Closed
 Est. Clearance Time: 6/25/2024 12:00 PM","6/24/24, 5:48 PM","6/25/24, 12:00 PM","6/24/24, 6:20 PM",,40.785414,-111.939327
 UT-Incident--180744,Incidents,Redwood Rd,Utah County,Redwood Rd at Pioneer Crossing,"Signal problems/Treat as 4 way stop
 All Directions Redwood Rd at Pioneer Crossing Utah Co.
-Est. Clearance Time: 7:54 PM","6/24/24, 5:56 PM","6/24/24, 6:54 PM","6/24/24, 5:56 PM",,40.37269,-111.916361
-UT-Incident--180745,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
-WB SR 201 at MP 9 (6800 W) Salt Lake Co.
-On Left Shoulder
-Est. Clearance Time: 6:55 PM","6/24/24, 5:57 PM","6/24/24, 6:55 PM","6/24/24, 5:57 PM",,40.718554,-112.056887
+Est. Clearance Time: 8:30PM ","6/24/24, 5:56 PM","6/24/24, 8:30 PM","6/24/24, 7:12 PM",,40.37269,-111.916361
