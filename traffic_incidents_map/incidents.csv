@@ -27461,7 +27461,6 @@ SB Redwood Rd at 700 N Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 6/25/2024 12:00 PM","6/24/24, 5:48 PM","6/25/24, 12:00 PM","6/24/24, 6:20 PM",,40.785414,-111.939327
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180750,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 4 Right Lanes Closed
@@ -27473,6 +27472,7 @@ Est. Clearance Time: 6/25/2024 12:17 AM","6/24/24, 11:18 PM","6/25/24, 12:17 AM"
 UT-Incident--180749,Incidents,I-84,Box Elder County,I-84 at MP 24,"Vehicle Fire
 Ramp WB I-84 Closed
  at MP 24 (18400 N Exit) Box Elder Co.","6/24/24, 9:30 PM","6/24/24, 10:29 PM","6/24/24, 9:47 PM",,41.846768,-112.44232
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
