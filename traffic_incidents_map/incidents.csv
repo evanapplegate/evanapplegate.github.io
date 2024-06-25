@@ -27429,25 +27429,40 @@ NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","6/24/24, 4:59 PM","6/24/24, 6:00 PM","6/24/24, 4:59 PM",,40.316406,-111.72616
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180733,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Medical
 Ramp NB I-15 at 1300 S On Ramp 
 Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:01 PM","6/24/24, 3:04 PM","6/24/24, 7:01 PM","6/24/24, 3:50 PM",,40.736823,-111.90475
-UT-Incident--180739,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
-NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
-Right Shoulder
-Est. Clearance Time: 6:05 PM","6/24/24, 5:04 PM","6/24/24, 6:05 PM","6/24/24, 5:04 PM",,40.831692,-111.91596
 UT-Incident--180740,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:25 PM","6/24/24, 5:26 PM","6/24/24, 6:25 PM","6/24/24, 5:26 PM",,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180739,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
+NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:05 PM","6/24/24, 5:04 PM","6/24/24, 6:05 PM","6/24/24, 5:04 PM",,40.831692,-111.91596
 UT-Incident--180741,Incidents,I-15,Utah County,I-15 at MP 269,"Crash
 NB I-15 at MP 269 (Univ Pkwy / Orem) Utah Co.
-3 Left Lanes Closed
-Est. Clearance Time: 6:32 PM","6/24/24, 5:33 PM","6/24/24, 6:32 PM","6/24/24, 5:33 PM",,40.274259,-111.718248
+Left Lane Closed
+Est. Clearance Time: 6:32 PM","6/24/24, 5:33 PM","6/24/24, 6:32 PM","6/24/24, 5:59 PM",,40.274259,-111.718248
+UT-Incident--180746,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+SB I-15 at MP 297 (7200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:20 PM","6/24/24, 6:20 PM","6/24/24, 7:20 PM","6/24/24, 6:20 PM",,40.607173,-111.905403
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/25/24, 4:00 PM","6/24/24, 8:03 AM",,40.721209,-111.938966
+UT-Incident--180743,Incidents,Redwood Rd,Salt Lake County,Redwood Rd 813,"Road damage
+SB Redwood Rd at 700 N Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6/25/2024 12:00 PM","6/24/24, 5:48 PM","6/25/24, 12:00 PM","6/24/24, 6:20 PM",,40.785414,-111.939327
+UT-Incident--180744,Incidents,Redwood Rd,Utah County,Redwood Rd at Pioneer Crossing,"Signal problems/Treat as 4 way stop
+All Directions Redwood Rd at Pioneer Crossing Utah Co.
+Est. Clearance Time: 7:54 PM","6/24/24, 5:56 PM","6/24/24, 6:54 PM","6/24/24, 5:56 PM",,40.37269,-111.916361
+UT-Incident--180745,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
+WB SR 201 at MP 9 (6800 W) Salt Lake Co.
+On Left Shoulder
+Est. Clearance Time: 6:55 PM","6/24/24, 5:57 PM","6/24/24, 6:55 PM","6/24/24, 5:57 PM",,40.718554,-112.056887
