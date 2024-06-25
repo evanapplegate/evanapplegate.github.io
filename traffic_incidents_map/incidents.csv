@@ -27437,7 +27437,6 @@ UT-Incident--180740,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:25 PM","6/24/24, 5:26 PM","6/24/24, 6:25 PM","6/24/24, 5:26 PM",,40.480607,-111.902252
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180739,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 NB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
@@ -27454,6 +27453,7 @@ UT-Incident--180745,Incidents,SR 201,Salt Lake County,SR 201 at MP 9,"Crash
 WB SR 201 at MP 9 (6800 W) Salt Lake Co.
 On Left Shoulder
 Est. Clearance Time: 6:55 PM","6/24/24, 5:57 PM","6/24/24, 6:55 PM","6/24/24, 5:57 PM",,40.718554,-112.056887
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
