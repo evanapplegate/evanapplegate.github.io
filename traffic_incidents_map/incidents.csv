@@ -27516,12 +27516,16 @@ UT-Incident--180764,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 3,"Cras
 SB Legacy Pkwy at MP 3 (2000 S in Woods Cross) Davis Co.
 Right Shoulder
 Est. Clearance Time: 1:15 PM","6/25/24, 12:10 PM","6/25/24, 1:15 PM","6/25/24, 12:10 PM",,40.869089,-111.939468
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180766,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Stalled Vehicle
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:58 PM","6/25/24, 12:59 PM","6/25/24, 1:58 PM","6/25/24, 12:59 PM",,40.467787,-111.911227
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180767,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Vehicle on fire
+EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:00 PM","6/25/24, 1:56 PM","6/25/24, 3:00 PM","6/25/24, 1:56 PM",,40.747703,-111.639522
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
