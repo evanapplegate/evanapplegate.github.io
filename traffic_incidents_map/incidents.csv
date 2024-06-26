@@ -27688,32 +27688,40 @@ UT-Incident--180817,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Vehicle on f
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:17 PM","6/26/24, 2:18 PM","6/26/24, 3:17 PM","6/26/24, 2:18 PM",,40.765165,-111.991516
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180821,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
 WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:35 PM","6/26/24, 3:06 PM","6/26/24, 4:35 PM","6/26/24, 3:06 PM",,40.362967,-111.560551
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180816,Incidents,5600 W,Salt Lake County,5600 W 301,"Fire affecting roadway
-NB 5600 W at 200 S Salt Lake Co.
-Right Lane Closed
-Est. Clearance Time: 3:00 PM","6/26/24, 2:00 PM","6/26/24, 3:00 PM","6/26/24, 2:02 PM",,40.764591,-112.025033
 UT-Incident--180819,Incidents,I-15,Box Elder County,I-15 at MP 362,"Crash
 NB I-15 at MP 362 On Ramp (Brigham City) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 4:00 PM","6/26/24, 2:41 PM","6/26/24, 4:00 PM","6/26/24, 2:41 PM",,41.485402,-112.05328
-UT-Incident--180823,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
-NB I-15 at MP 331 (Hill Field Rd) Davis Co.
-2 Left Lanes Closed
-Est. Clearance Time: 4:45 PM","6/26/24, 3:35 PM","6/26/24, 4:45 PM","6/26/24, 3:35 PM",,41.066718,-111.970064
-UT-Incident--180824,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
-SB I-15 at MP 298 (6600 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 4:45 PM","6/26/24, 3:37 PM","6/26/24, 4:45 PM","6/26/24, 3:37 PM",,40.621691,-111.903876
 UT-Incident--180822,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Stalled Vehicle
 EB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","6/26/24, 3:27 PM","6/26/24, 4:30 PM","6/26/24, 3:27 PM",,40.712086,-111.801151
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180816,Incidents,5600 W,Salt Lake County,5600 W 301,"Fire affecting roadway
+NB 5600 W at 200 S Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 3:00 PM","6/26/24, 2:00 PM","6/26/24, 3:00 PM","6/26/24, 2:02 PM",,40.764591,-112.025033
+UT-Incident--180823,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
+NB I-15 at MP 331 (Hill Field Rd) Davis Co.
+Cleared at 4:01 PM
+Est. Clearance Time: 4:45 PM","6/26/24, 3:35 PM","6/26/24, 4:45 PM","6/26/24, 4:01 PM",,41.066718,-111.970064
+UT-Incident--180824,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (6600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 4:45 PM","6/26/24, 3:37 PM","6/26/24, 4:45 PM","6/26/24, 3:37 PM",,40.621691,-111.903876
+UT-Incident--180825,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+SB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:00 PM","6/26/24, 3:45 PM","6/26/24, 5:00 PM","6/26/24, 3:45 PM",,40.736823,-111.90475
+UT-Incident--180826,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:00 PM","6/26/24, 3:52 PM","6/26/24, 5:00 PM","6/26/24, 3:52 PM",,40.664677,-111.90152
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
