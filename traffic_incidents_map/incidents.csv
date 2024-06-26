@@ -27574,7 +27574,6 @@ UT-Incident--180786,Incidents,I-70,Sevier County,I-70 at MP 58,"Crash
 WB I-70 at MP 58 (18 mi E of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","6/25/24, 6:01 PM","6/25/24, 7:35 PM","6/25/24, 6:01 PM",,38.930464,-111.831314
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180790,Incidents,2000 W,Davis County,2000 W at HWY 193,"Crash
 WB Hwy 193 at 3000 W Davis Co.
 Est. Clearance Time: 7:30 PM","6/25/24, 6:32 PM","6/25/24, 7:30 PM","6/25/24, 6:36 PM",,41.110651,-112.064541
@@ -27583,6 +27582,7 @@ SB I-15 at MP 309 (600 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:35 PM","6/25/24, 6:11 PM","6/25/24, 7:35 PM","6/25/24, 6:11 PM",,40.777705,-111.910735
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180776,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 16,"Road Damage
 NB Bangerter Hwy at MP 16 (5400 S) Salt Lake Co.
 Est. Clearance Time: 10:00 PM","6/25/24, 4:47 PM","6/25/24, 10:00 PM","6/25/24, 4:47 PM",,40.654021,-111.981809
@@ -27590,10 +27590,17 @@ UT-Incident--180784,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:44 PM","6/25/24, 5:47 PM","6/25/24, 6:44 PM","6/25/24, 5:47 PM",,40.044918,-111.743767
+UT-Incident--180793,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
+SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
+Right Shoulder
+Est. Clearance Time: 9:35 PM","6/25/24, 8:26 PM","6/25/24, 9:35 PM","6/25/24, 8:26 PM",,41.414023,-112.050731
 UT-Incident--180781,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
 EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 6:30 PM","6/25/24, 5:30 PM","6/25/24, 6:30 PM","6/25/24, 6:38 PM",,40.751769,-111.470819
+UT-Incident--180794,Incidents,I-80,Tooele County,I-80 at MP 21,"Crash
+WB I-80 at MP 21 (19 mi E of Wendover) Tooele Co.
+Est. Clearance Time: 9:35 PM","6/25/24, 8:27 PM","6/25/24, 9:35 PM","6/25/24, 8:27 PM",,40.735105,-113.645809
 UT-Incident--180772,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"HAZMAT
 Ramp From NB Legacy Pkwy To West Davis Hwy Closed Davis Co.
 Est. Clearance Time: 10:00 PM","6/25/24, 4:19 PM","6/25/24, 10:00 PM","6/25/24, 6:41 PM",,40.957721,-111.892575
