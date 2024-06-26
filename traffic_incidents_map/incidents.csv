@@ -27619,7 +27619,6 @@ UT-Incident--180799,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6/26/2024 12:45 AM","6/25/24, 11:50 PM","6/26/24, 12:45 AM","6/25/24, 11:50 PM",,40.401041,-111.849765
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180772,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"HAZMAT
 Ramp From NB Legacy Pkwy To West Davis Hwy Closed Davis Co.
 Est. Clearance Time: 1:30 AM","6/25/24, 4:19 PM","6/26/24, 1:30 AM","6/26/24, 1:07 AM",,40.957721,-111.892575
@@ -27628,6 +27627,11 @@ EB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 AM","6/26/24, 12:36 AM","6/26/24, 2:00 AM","6/26/24, 12:36 AM",,39.932532,-111.161681
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180801,Incidents,I-80,Tooele County,I-80 at MP 100,"Crash
+WB I-80 at MP 100 (1 mi E of Tooele) Tooele Co.
+2 Right Lanes Closed
+Est. Clearance Time: 4:00 AM","6/26/24, 2:14 AM","6/26/24, 4:00 AM","6/26/24, 2:14 AM",,40.709702,-112.249214
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
