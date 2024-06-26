@@ -27585,7 +27585,6 @@ UT-Incident--180793,Incidents,I-15,Box Elder County,I-15 at MP 357,"Crash
 SB I-15 at MP 357 (SR-315 / Willard Bay) Box Elder Co.
 Right Shoulder
 Est. Clearance Time: 9:35 PM","6/25/24, 8:26 PM","6/25/24, 9:35 PM","6/25/24, 8:26 PM",,41.414023,-112.050731
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180796,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Crash
 SB SR 36 at MP 63 (Mills Jct) Tooele Co.
 Right Shoulder
@@ -27598,14 +27597,15 @@ UT-Incident--180784,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 SB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:44 PM","6/25/24, 5:47 PM","6/25/24, 6:44 PM","6/25/24, 5:47 PM",,40.044918,-111.743767
-UT-Incident--180795,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
-NB I-215 W at MP 21 (900 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 10:00 PM","6/25/24, 8:42 PM","6/25/24, 10:00 PM","6/25/24, 8:42 PM",,40.746426,-111.949053
 UT-Incident--180781,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
 EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 6:30 PM","6/25/24, 5:30 PM","6/25/24, 6:30 PM","6/25/24, 6:38 PM",,40.751769,-111.470819
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180795,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+NB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:00 PM","6/25/24, 8:42 PM","6/25/24, 10:00 PM","6/25/24, 8:42 PM",,40.746426,-111.949053
 UT-Incident--180794,Incidents,I-80,Tooele County,I-80 at MP 21,"Crash
 WB I-80 at MP 21 (19 mi E of Wendover) Tooele Co.
 Est. Clearance Time: 9:35 PM","6/25/24, 8:27 PM","6/25/24, 9:35 PM","6/25/24, 8:27 PM",,40.735105,-113.645809
