@@ -27535,7 +27535,6 @@ Est. Clearance Time: 4:45 PM","6/25/24, 3:43 PM","6/25/24, 4:45 PM","6/25/24, 3:
 UT-Incident--180773,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (Collector) Salt Lake Co.
 Est. Clearance Time: 5:30 PM","6/25/24, 4:23 PM","6/25/24, 5:30 PM","6/25/24, 4:23 PM",,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180769,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 SB I-15 at MP 302 (4100 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -27564,21 +27563,10 @@ WB SR 201 at MP 9 (6800 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/25/24, 4:47 PM","6/25/24, 5:45 PM","6/25/24, 4:47 PM",,40.718554,-112.056887
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180776,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 16,"Road Damage
-NB Bangerter Hwy at MP 16 (5400 S) Salt Lake Co.
-Est. Clearance Time: 10:00 PM","6/25/24, 4:47 PM","6/25/24, 10:00 PM","6/25/24, 4:47 PM",,40.654021,-111.981809
-UT-Incident--180784,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
-SB I-15 at MP 250 (400 N /Payson) Utah Co.
-Right Shoulder
-Est. Clearance Time: 6:44 PM","6/25/24, 5:47 PM","6/25/24, 6:44 PM","6/25/24, 5:47 PM",,40.044918,-111.743767
 UT-Incident--180785,Incidents,I-15,Juab County,I-15 at MP 204,"Crash
 NB I-15 at MP 204 (16 mi N of Scipio) Juab Co.
 Right Lane Closed
 Est. Clearance Time: 7:00 PM","6/25/24, 5:49 PM","6/25/24, 7:00 PM","6/25/24, 5:49 PM",,39.455634,-112.010607
-UT-Incident--180787,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
-SB I-15 at MP 309 (600 N) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 7:35 PM","6/25/24, 6:11 PM","6/25/24, 7:35 PM","6/25/24, 6:11 PM",,40.777705,-111.910735
 UT-Incident--180788,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
 NB I-15 at MP 303 (3300 S) Salt Lake Co.
 Right Shoulder
@@ -27587,12 +27575,28 @@ UT-Incident--180786,Incidents,I-70,Sevier County,I-70 at MP 58,"Crash
 WB I-70 at MP 58 (18 mi E of Richfield) Sevier Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","6/25/24, 6:01 PM","6/25/24, 7:35 PM","6/25/24, 6:01 PM",,38.930464,-111.831314
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180790,Incidents,2000 W,Davis County,2000 W at HWY 193,"Crash
+WB Hwy 193 at 3000 W Davis Co.
+Est. Clearance Time: 7:30 PM","6/25/24, 6:32 PM","6/25/24, 7:30 PM","6/25/24, 6:36 PM",,41.110651,-112.064541
+UT-Incident--180776,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 16,"Road Damage
+NB Bangerter Hwy at MP 16 (5400 S) Salt Lake Co.
+Est. Clearance Time: 10:00 PM","6/25/24, 4:47 PM","6/25/24, 10:00 PM","6/25/24, 4:47 PM",,40.654021,-111.981809
+UT-Incident--180784,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
+SB I-15 at MP 250 (400 N /Payson) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:44 PM","6/25/24, 5:47 PM","6/25/24, 6:44 PM","6/25/24, 5:47 PM",,40.044918,-111.743767
+UT-Incident--180787,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Crash
+SB I-15 at MP 309 (600 N) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:35 PM","6/25/24, 6:11 PM","6/25/24, 7:35 PM","6/25/24, 6:11 PM",,40.777705,-111.910735
 UT-Incident--180781,Incidents,I-80,Summit County,I-80 at MP 149,"Crash
 EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
-Est. Clearance Time: 6:30 PM","6/25/24, 5:30 PM","6/25/24, 6:30 PM","6/25/24, 5:30 PM",,40.751769,-111.470819
+Right Lane Closed
+Est. Clearance Time: 6:30 PM","6/25/24, 5:30 PM","6/25/24, 6:30 PM","6/25/24, 6:38 PM",,40.751769,-111.470819
 UT-Incident--180772,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"HAZMAT
 Ramp From NB Legacy Pkwy To West Davis Hwy Closed Davis Co.
-Est. Clearance Time: 7:00 PM","6/25/24, 4:19 PM","6/25/24, 7:00 PM","6/25/24, 4:25 PM",,40.957721,-111.892575
+Est. Clearance Time: 10:00 PM","6/25/24, 4:19 PM","6/25/24, 10:00 PM","6/25/24, 6:41 PM",,40.957721,-111.892575
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
