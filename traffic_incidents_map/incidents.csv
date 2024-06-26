@@ -27700,7 +27700,6 @@ UT-Incident--180822,Incidents,I-80,Salt Lake County,I-80 at MP 128,"Stalled Vehi
 EB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 4:30 PM","6/26/24, 3:27 PM","6/26/24, 4:30 PM","6/26/24, 3:27 PM",,40.712086,-111.801151
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180823,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd) Davis Co.
 Cleared at 4:01 PM
@@ -27709,6 +27708,7 @@ UT-Incident--180824,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:45 PM","6/26/24, 3:37 PM","6/26/24, 4:45 PM","6/26/24, 3:37 PM",,40.621691,-111.903876
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180816,Incidents,5600 W,Salt Lake County,5600 W 301,"Fire affecting roadway
 NB 5600 W at 200 S Salt Lake Co.
