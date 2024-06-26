@@ -27612,7 +27612,6 @@ UT-Incident--180798,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 11:45 PM","6/25/24, 10:46 PM","6/25/24, 11:45 PM","6/25/24, 10:46 PM",,40.453646,-111.91388
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180794,Incidents,I-80,Tooele County,I-80 at MP 21,"Crash
 WB I-80 at MP 21 (19 mi E of Wendover) Tooele Co.
 Est. Clearance Time: 6/26/2024 1:00 AM","6/25/24, 8:27 PM","6/26/24, 1:00 AM","6/25/24, 11:20 PM",,40.735105,-113.645809
@@ -27621,6 +27620,7 @@ UT-Incident--180799,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 NB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6/26/2024 12:45 AM","6/25/24, 11:50 PM","6/26/24, 12:45 AM","6/25/24, 11:50 PM",,40.401041,-111.849765
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180772,Incidents,Legacy Pkwy,Davis County,Legacy Pkwy at MP 10,"HAZMAT
 Ramp From NB Legacy Pkwy To West Davis Hwy Closed Davis Co.
 Est. Clearance Time: 10:00 PM","6/25/24, 4:19 PM","6/25/24, 10:00 PM","6/25/24, 6:41 PM",,40.957721,-111.892575
