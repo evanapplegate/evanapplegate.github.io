@@ -27627,7 +27627,6 @@ EB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 AM","6/26/24, 12:36 AM","6/26/24, 2:00 AM","6/26/24, 12:36 AM",,39.932532,-111.161681
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180802,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -27636,15 +27635,20 @@ UT-Incident--180803,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 6:15 AM","6/26/24, 5:03 AM","6/26/24, 6:15 AM","6/26/24, 5:03 AM",,40.664677,-111.90152
-UT-Incident--180801,Incidents,I-80,Tooele County,I-80 at MP 100,"Crash
-WB I-80 at MP 100 (1 mi E of Tooele) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 6:00 AM","6/26/24, 2:14 AM","6/26/24, 6:00 AM","6/26/24, 4:16 AM",,40.709702,-112.249214
 UT-Incident--180804,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:15 AM","6/26/24, 5:05 AM","6/26/24, 6:15 AM","6/26/24, 5:24 AM",,40.764633,-111.972427
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180801,Incidents,I-80,Tooele County,I-80 at MP 100,"Crash
+WB I-80 at MP 100 (1 mi E of Tooele) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 6:00 AM","6/26/24, 2:14 AM","6/26/24, 6:00 AM","6/26/24, 4:16 AM",,40.709702,-112.249214
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
+UT-Incident--180805,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
+EB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 6:48 AM","6/26/24, 5:50 AM","6/26/24, 6:48 AM","6/26/24, 5:50 AM",,40.319492,-111.649399
