@@ -27646,16 +27646,20 @@ UT-Incident--180805,Incidents,US 189,Utah County,US 189 at MP 8,"Crash
 EB US 189 at MP 8 (Canyon View Park / Provo) Utah Co.
 Right Shoulder
 Est. Clearance Time: 6:48 AM","6/26/24, 5:50 AM","6/26/24, 6:48 AM","6/26/24, 5:50 AM",,40.319492,-111.649399
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180806,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:45 AM","6/26/24, 7:39 AM","6/26/24, 8:45 AM","6/26/24, 7:39 AM",,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180807,Incidents,I-80,Summit County,I-80 at MP 143,"Crash
 EB I-80 at MP 143 (Powderwood / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 8:20 AM","6/26/24, 7:45 AM","6/26/24, 8:20 AM","6/26/24, 7:45 AM",,40.740161,-111.558358
+UT-Incident--180809,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
+EB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:24 AM","6/26/24, 8:24 AM","6/26/24, 9:24 AM","6/26/24, 8:24 AM",,40.747119,-111.724705
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
