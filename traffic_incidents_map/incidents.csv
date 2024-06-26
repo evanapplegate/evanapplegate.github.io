@@ -27665,7 +27665,6 @@ Est. Clearance Time: 9:24 AM","6/26/24, 8:24 AM","6/26/24, 9:24 AM","6/26/24, 8:
 UT-Incident--180808,Incidents,SR 30,Box Elder County,SR 30 at MP 83,"Crash
 SR 30 at MP 83 (7 Mi W of Snowville) Box Elder Co.
 Est. Clearance Time: 9:00 AM","6/26/24, 8:00 AM","6/26/24, 9:00 AM","6/26/24, 8:00 AM",,41.966651,-112.899238
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180812,Incidents,I-15,Box Elder County,I-15 at MP 382,"Crash
 NB I-15 at MP 382 (N of Tremonton) Box Elder Co.
 Est. Clearance Time: 10:58 AM","6/26/24, 9:59 AM","6/26/24, 10:58 AM","6/26/24, 9:59 AM",,41.739096,-112.189778
@@ -27673,10 +27672,6 @@ Est. Clearance Time: 10:58 AM","6/26/24, 9:59 AM","6/26/24, 10:58 AM","6/26/24, 
 UT-Incident--180813,Incidents,I-70,Sevier County,I-70 at MP 11,"Crash
 EB I-70 at MP 11 (11 Mi E of Cove Fort) Sevier Co.
 Est. Clearance Time: 11:02 AM","6/26/24, 10:02 AM","6/26/24, 11:02 AM","6/26/24, 10:02 AM",,38.565545,-112.439339
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
 UT-Incident--180811,Incidents,SR 12,Garfield County,SR 12 at MP 5,"Crash
 Both Directions SR 12 at MP 5 (8 Mi W of Bryce Cyn City) Garfield Co.
 Est. Clearance Time: 10:30 AM","6/26/24, 9:31 AM","6/26/24, 10:30 AM","6/26/24, 9:31 AM",,37.738939,-112.294909
@@ -27686,3 +27681,8 @@ Est. Clearance Time: 11:43 AM","6/26/24, 10:44 AM","6/26/24, 11:43 AM","6/26/24,
 UT-Incident--180814,Incidents,State St,Sevier County,State St at 85 S,"Crash
 State St at 50 S (Sigurd) Sevier Co.
 Est. Clearance Time: 11:30 AM","6/26/24, 10:33 AM","6/26/24, 11:30 AM","6/26/24, 10:33 AM",,38.838752,-111.96755
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
