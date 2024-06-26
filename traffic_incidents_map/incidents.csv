@@ -27724,11 +27724,11 @@ UT-Incident--180828,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
 NB I-15 at MP 272 (1600 N / Orem) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/26/24, 4:32 PM","6/26/24, 5:45 PM","6/26/24, 4:34 PM",,40.316406,-111.72616
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180830,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/26/24, 4:46 PM","6/26/24, 5:45 PM","6/26/24, 4:46 PM",,40.724933,-112.039659
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180827,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
@@ -27742,6 +27742,13 @@ UT-Incident--180832,Incidents,I-15,Washington County,I-15 at MP 10,"Crash
 NB I-15 at MP 10 (2100 E / St George) Washington Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","6/26/24, 4:52 PM","6/26/24, 6:00 PM","6/26/24, 4:52 PM",,37.121548,-113.539407
+UT-Incident--180834,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
+NB I-15 at MP 315 (2600 S, Woods X) Davis Co.
+Est. Clearance Time: 6:45 PM","6/26/24, 5:37 PM","6/26/24, 6:45 PM","6/26/24, 5:37 PM",,40.85851,-111.904912
+UT-Incident--180835,Incidents,LEGACY NB X11 TO US 89 NB RAMP,Davis County,LEGACY NB X11 TO US 89 NB RAMP at US 89 NB,"Crash
+Ramp From NB Legacy Pkwy To NB US-89 Davis Co.
+Right Lane Closed
+Est. Clearance Time: 6:45 PM","6/26/24, 5:37 PM","6/26/24, 6:45 PM","6/26/24, 5:37 PM",,40.984544,-111.900453
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
