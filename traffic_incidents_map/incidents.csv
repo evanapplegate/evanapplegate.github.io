@@ -27684,11 +27684,11 @@ UT-Incident--180818,Incidents,I-80,Salt Lake County,I-80 at MP 113,"Crash
 WB I-80 at MP 113 Off Ramp (5600 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:45 PM","6/26/24, 2:29 PM","6/26/24, 3:45 PM","6/26/24, 2:29 PM",,40.771201,-112.028497
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180817,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Vehicle on fire
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:17 PM","6/26/24, 2:18 PM","6/26/24, 3:17 PM","6/26/24, 2:18 PM",,40.765165,-111.991516
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180816,Incidents,5600 W,Salt Lake County,5600 W 301,"Fire affecting roadway
 NB 5600 W at 200 S Salt Lake Co.
@@ -27702,3 +27702,7 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
+UT-Incident--180821,Incidents,US 189,Utah County,US 189 at MP 14,"Crash
+WB US 189 at MP 14 (SR-92 / The tunnel) Utah Co.
+Right Shoulder
+Est. Clearance Time: 4:35 PM","6/26/24, 3:06 PM","6/26/24, 4:35 PM","6/26/24, 3:06 PM",,40.362967,-111.560551
