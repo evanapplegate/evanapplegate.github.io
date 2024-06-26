@@ -27589,7 +27589,6 @@ UT-Incident--180796,Incidents,SR 36,Tooele County,SR 36 at MP 63,"Crash
 SB SR 36 at MP 63 (Mills Jct) Tooele Co.
 Right Shoulder
 Est. Clearance Time: 10:00 PM","6/25/24, 9:03 PM","6/25/24, 10:00 PM","6/25/24, 9:03 PM",,40.654647,-112.289368
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180776,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 16,"Road Damage
 NB Bangerter Hwy at MP 16 (5400 S) Salt Lake Co.
 Est. Clearance Time: 10:00 PM","6/25/24, 4:47 PM","6/25/24, 10:00 PM","6/25/24, 4:47 PM",,40.654021,-111.981809
@@ -27602,6 +27601,11 @@ EB I-80 at MP 149 (2 mi E of Sliver Creek) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 6:30 PM","6/25/24, 5:30 PM","6/25/24, 6:30 PM","6/25/24, 6:38 PM",,40.751769,-111.470819
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180797,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+SB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 11:00 PM","6/25/24, 9:52 PM","6/25/24, 11:00 PM","6/25/24, 9:52 PM",,40.52103,-111.891246
 UT-Incident--180795,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
