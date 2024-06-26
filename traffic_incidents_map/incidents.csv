@@ -27709,11 +27709,11 @@ SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 4:45 PM","6/26/24, 3:37 PM","6/26/24, 4:45 PM","6/26/24, 3:37 PM",,40.621691,-111.903876
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180816,Incidents,5600 W,Salt Lake County,5600 W 301,"Fire affecting roadway
 NB 5600 W at 200 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","6/26/24, 2:00 PM","6/26/24, 3:00 PM","6/26/24, 2:02 PM",,40.764591,-112.025033
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180825,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 Off Ramp (1300 S) Salt Lake Co.
 Right Shoulder
@@ -27722,6 +27722,18 @@ UT-Incident--180826,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 5:00 PM","6/26/24, 3:52 PM","6/26/24, 5:00 PM","6/26/24, 3:52 PM",,40.664677,-111.90152
+UT-Incident--180827,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","6/26/24, 4:29 PM","6/26/24, 5:45 PM","6/26/24, 4:29 PM",,40.664677,-111.90152
+UT-Incident--180828,Incidents,I-15,Utah County,I-15 at MP 272,"Crash
+NB I-15 at MP 272 (1600 N / Orem) Utah Co.
+Right Shoulder
+Est. Clearance Time: 5:45 PM","6/26/24, 4:32 PM","6/26/24, 5:45 PM","6/26/24, 4:34 PM",,40.316406,-111.72616
+UT-Incident--180829,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+SB I-15 at MP 302 (4100 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","6/26/24, 4:39 PM","6/26/24, 5:45 PM","6/26/24, 4:39 PM",,40.679062,-111.902181
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
