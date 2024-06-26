@@ -27626,7 +27626,6 @@ UT-Incident--180800,Incidents,US 6,Utah County,US 6 at MP 206,"Crash
 EB US 6 at MP 206 (3 Mi E of Tucker) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 AM","6/26/24, 12:36 AM","6/26/24, 2:00 AM","6/26/24, 12:36 AM",,39.932532,-111.161681
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180802,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -27644,6 +27643,7 @@ UT-Incident--180801,Incidents,I-80,Tooele County,I-80 at MP 100,"Crash
 WB I-80 at MP 100 (1 mi E of Tooele) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 6:00 AM","6/26/24, 2:14 AM","6/26/24, 6:00 AM","6/26/24, 4:16 AM",,40.709702,-112.249214
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
