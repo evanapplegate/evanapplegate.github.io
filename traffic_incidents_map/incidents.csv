@@ -27828,7 +27828,6 @@ Est. Clearance Time: 10:30 AM","6/27/24, 9:30 AM","6/27/24, 10:30 AM","6/27/24, 
 UT-Incident--180854,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Est. Clearance Time: 9:00 AM","6/27/24, 7:58 AM","6/27/24, 9:00 AM","6/27/24, 7:58 AM",,39.975722,-112.072947
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180860,Incidents,I-215W SB X22B TO I-80 EB RAMP,Salt Lake County,I-215W SB X22B TO I-80 EB RAMP at I-80 EB,"Crash
 SB I-215W Exit 22B (SB I-215W to EB I-80 Ramp) Salt Lake Co.
 Est. Clearance Time: 10:37 AM","6/27/24, 9:38 AM","6/27/24, 10:37 AM","6/27/24, 9:38 AM",,40.763165,-111.95407
@@ -27836,6 +27835,7 @@ UT-Incident--180861,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4700 S,"
 NB Redwood Rd at 4700 S Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 11:40 AM","6/27/24, 10:41 AM","6/27/24, 11:40 AM","6/27/24, 10:41 AM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180863,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
 NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
