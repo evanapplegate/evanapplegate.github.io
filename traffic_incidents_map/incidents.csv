@@ -27804,7 +27804,6 @@ Est. Clearance Time: 7:38 AM","6/27/24, 6:40 AM","6/27/24, 7:38 AM","6/27/24, 6:
 UT-Incident--180851,Incidents,SR 24,Wayne County,SR 24 at MP 124,"Crash
 Both Directions SR 24 at MP 124 (7 Mi N of Hanksville) Wayne Co.
 Est. Clearance Time: 6:34 AM","6/27/24, 5:35 AM","6/27/24, 6:34 AM","6/27/24, 5:35 AM",,38.474687,-110.665655
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180853,Incidents,I-15,Utah County,I-15 at MP 256,"Crash
 SB I-15 at MP 256 (6400 S / Spanish Fork) Utah Co.
 Right Shoulder
@@ -27814,6 +27813,11 @@ UT-Incident--180855,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 9:30 AM","6/27/24, 8:25 AM","6/27/24, 9:30 AM","6/27/24, 8:25 AM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180857,Incidents,I-215 S,Salt Lake County,I-215 S at MP 10,"Crash
+EB I-215 S at MP 10 (State St) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:08 AM","6/27/24, 9:09 AM","6/27/24, 10:08 AM","6/27/24, 9:09 AM",,40.63036,-111.877391
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27821,6 +27825,9 @@ NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM"
 UT-Incident--180856,Incidents,SR 201 WB X15 On Redwood Ramp,Salt Lake County,SR 201 WB X15 On Redwood Ramp at Redwood Rd,"Stalled Vehicle
 WB SR 201 Redwood On Ramp Salt Lake Co.
 Est. Clearance Time: 9:45 AM","6/27/24, 8:34 AM","6/27/24, 9:45 AM","6/27/24, 8:37 AM",,40.724369,-111.944247
+UT-Incident--180858,Incidents,SR 32,Summit County,SR 32 at MP 21,"Crash
+Both Directions SR 32 at MP 21 (Peoa) Summit Co.
+Est. Clearance Time: 10:19 AM","6/27/24, 9:20 AM","6/27/24, 10:19 AM","6/27/24, 9:20 AM",,40.725814,-111.342422
 UT-Incident--180854,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Est. Clearance Time: 9:00 AM","6/27/24, 7:58 AM","6/27/24, 9:00 AM","6/27/24, 7:58 AM",,39.975722,-112.072947
