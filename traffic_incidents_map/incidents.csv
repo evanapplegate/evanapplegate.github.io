@@ -27763,10 +27763,13 @@ SB US 89 at MP 406 (I- 84 Jct / Weber Drive) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 6:30 PM","6/26/24, 5:27 PM","6/26/24, 6:30 PM","6/26/24, 5:27 PM",,41.131604,-111.910087
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180840,Incidents,I-84,Box Elder County,I-84 at MP 40,"Crash
 WB I-84 at MP 40 (Tremonton) Box Elder Co.
 Est. Clearance Time: 8:00 PM","6/26/24, 7:02 PM","6/26/24, 8:00 PM","6/26/24, 7:02 PM",,41.717114,-112.220186
+UT-Incident--180842,Incidents,US 40,Duchesne County,US 40 at MP 80,"Crash
+WB US 40 at MP 80 (1 mi W of Starvation) Duchesne Co.
+Est. Clearance Time: 9:00 PM","6/26/24, 7:50 PM","6/26/24, 9:00 PM","6/26/24, 7:50 PM",,40.17848,-110.519915
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27774,7 +27777,7 @@ NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM"
 UT-Incident--180839,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1500 W,"Crash
 WB Riverdale Rd at 1500 W Weber Co.
 Right Lane Closed
-Est. Clearance Time: 8:00 PM","6/26/24, 6:43 PM","6/26/24, 8:00 PM","6/26/24, 6:43 PM",,41.172896,-112.015235
-UT-Incident--180842,Incidents,US 40,Duchesne County,US 40 at MP 80,"Crash
-WB US 40 at MP 80 (1 mi W of Starvation) Duchesne Co.
-Est. Clearance Time: 9:00 PM","6/26/24, 7:50 PM","6/26/24, 9:00 PM","6/26/24, 7:50 PM",,40.17848,-110.519915
+Est. Clearance Time: 10:00 PM","6/26/24, 6:43 PM","6/26/24, 10:00 PM","6/26/24, 8:29 PM",,41.172896,-112.015235
+UT-Incident--180843,Incidents,SR 20,Iron County,SR 20 at MP 11,"Crash
+SR 20 at MP 11 (9 Mi W of US-89 Jct) Iron Co.
+Est. Clearance Time: 9:45 PM","6/26/24, 8:26 PM","6/26/24, 9:45 PM","6/26/24, 8:26 PM",,38.026511,-112.526074
