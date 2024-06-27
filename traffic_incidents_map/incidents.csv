@@ -27728,7 +27728,6 @@ UT-Incident--180830,Incidents,SR 201,Salt Lake County,SR 201 at MP 10,"Crash
 WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/26/24, 4:46 PM","6/26/24, 5:45 PM","6/26/24, 4:46 PM",,40.724933,-112.039659
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180827,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
@@ -27760,11 +27759,19 @@ UT-Incident--180835,Incidents,LEGACY NB X11 TO US 89 NB RAMP,Davis County,LEGACY
 Ramp From NB Legacy Pkwy To NB US-89 Davis Co.
 Right Lane Closed
 Est. Clearance Time: 6:45 PM","6/26/24, 5:37 PM","6/26/24, 6:45 PM","6/26/24, 5:37 PM",,40.984544,-111.900453
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
 UT-Incident--180833,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 SB US 89 at MP 406 (I- 84 Jct / Weber Drive) Davis Co.
 Left Lane Closed
 Est. Clearance Time: 6:30 PM","6/26/24, 5:27 PM","6/26/24, 6:30 PM","6/26/24, 5:27 PM",,41.131604,-111.910087
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180840,Incidents,I-84,Box Elder County,I-84 at MP 40,"Crash
+WB I-84 at MP 40 (Tremonton) Box Elder Co.
+Est. Clearance Time: 8:00 PM","6/26/24, 7:02 PM","6/26/24, 8:00 PM","6/26/24, 7:02 PM",,41.717114,-112.220186
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
+UT-Incident--180839,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 1500 W,"Crash
+WB Riverdale Rd at 1500 W Weber Co.
+Right Lane Closed
+Est. Clearance Time: 8:00 PM","6/26/24, 6:43 PM","6/26/24, 8:00 PM","6/26/24, 6:43 PM",,41.172896,-112.015235
