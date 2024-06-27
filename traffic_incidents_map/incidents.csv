@@ -27729,7 +27729,6 @@ WB SR 201 at MP 10 (5600 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","6/26/24, 4:46 PM","6/26/24, 5:45 PM","6/26/24, 4:46 PM",,40.724933,-112.039659
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180827,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 SB I-15 at MP 301 (4500 S) Salt Lake Co.
 Left Shoulder
@@ -27742,9 +27741,21 @@ UT-Incident--180832,Incidents,I-15,Washington County,I-15 at MP 10,"Crash
 NB I-15 at MP 10 (2100 E / St George) Washington Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","6/26/24, 4:52 PM","6/26/24, 6:00 PM","6/26/24, 4:52 PM",,37.121548,-113.539407
+UT-Incident--180831,Incidents,SR 92,Utah County,SR 92 at MP 0,"Crash
+WB SR 92 at MP 0 (I-15 Jct) Utah Co.
+Est. Clearance Time: 6:00 PM","6/26/24, 4:47 PM","6/26/24, 6:00 PM","6/26/24, 4:47 PM",,40.431289,-111.893495
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180838,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 3100 S,"Crash
+NB Bangerter Hwy at 3100 S Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 7:35 PM","6/26/24, 6:24 PM","6/26/24, 7:35 PM","6/26/24, 6:24 PM",,40.703886,-111.980001
 UT-Incident--180834,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 NB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Est. Clearance Time: 6:45 PM","6/26/24, 5:37 PM","6/26/24, 6:45 PM","6/26/24, 5:37 PM",,40.85851,-111.904912
+UT-Incident--180837,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
+SB I-15 at MP 295 (9000 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:00 PM","6/26/24, 6:03 PM","6/26/24, 7:00 PM","6/26/24, 6:03 PM",,40.578741,-111.900284
 UT-Incident--180835,Incidents,LEGACY NB X11 TO US 89 NB RAMP,Davis County,LEGACY NB X11 TO US 89 NB RAMP at US 89 NB,"Crash
 Ramp From NB Legacy Pkwy To NB US-89 Davis Co.
 Right Lane Closed
@@ -27753,9 +27764,6 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
-UT-Incident--180831,Incidents,SR 92,Utah County,SR 92 at MP 0,"Crash
-WB SR 92 at MP 0 (I-15 Jct) Utah Co.
-Est. Clearance Time: 6:00 PM","6/26/24, 4:47 PM","6/26/24, 6:00 PM","6/26/24, 4:47 PM",,40.431289,-111.893495
 UT-Incident--180833,Incidents,US 89,Davis County,US 89 at MP 406,"Crash
 SB US 89 at MP 406 (I- 84 Jct / Weber Drive) Davis Co.
 Left Lane Closed
