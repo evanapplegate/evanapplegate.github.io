@@ -27845,10 +27845,10 @@ Est. Clearance Time: 1:33 PM","6/27/24, 12:33 PM","6/27/24, 1:33 PM","6/27/24, 1
 UT-Incident--180862,Incidents,PARK AVE,Summit County,PARK AVE 2041,"Crash
 Park Ave @ Holiday Ranch Loop Rd (Park City) Summit Co.
 Est. Clearance Time: 12:45 PM","6/27/24, 11:49 AM","6/27/24, 12:45 PM","6/27/24, 11:57 AM",,40.666102,-111.514376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180865,Incidents,SR 68,Davis County,SR 68 at MP 66,"Crash
 SB SR 68 at MP 66 (1100 N / North Salt Lake) Davis Co.
 Est. Clearance Time: 2:45 PM","6/27/24, 1:38 PM","6/27/24, 2:45 PM","6/27/24, 1:39 PM",,40.865486,-111.929903
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180868,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
@@ -27862,3 +27862,6 @@ WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
 UT-Incident--180866,Incidents,SR 24,Wayne County,SR 24 at MP 85,"Flooding
 SR 24 Closed at MP 85 (4 Mi E of Fruita) Wayne Co.","6/27/24, 1:43 PM","6/29/24, 2:39 PM","6/27/24, 1:56 PM",,38.281225,-111.173308
+UT-Incident--180869,Incidents,SR 92,Utah County,SR 92 at MP 16,"Crash
+SR 92 at MP 16 (7 Mi SE of Alpine) Utah Co.
+Est. Clearance Time: 3:30 PM","6/27/24, 2:27 PM","6/27/24, 3:30 PM","6/27/24, 2:27 PM",,40.433377,-111.634808
