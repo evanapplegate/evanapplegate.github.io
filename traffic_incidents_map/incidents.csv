@@ -27822,9 +27822,6 @@ Est. Clearance Time: 9:45 AM","6/27/24, 8:34 AM","6/27/24, 9:45 AM","6/27/24, 8:
 UT-Incident--180858,Incidents,SR 32,Summit County,SR 32 at MP 21,"Crash
 Both Directions SR 32 at MP 21 (Peoa) Summit Co.
 Est. Clearance Time: 10:19 AM","6/27/24, 9:20 AM","6/27/24, 10:19 AM","6/27/24, 9:20 AM",,40.725814,-111.342422
-UT-Incident--180859,Incidents,SR 92,Utah County,SR 92 at MP 17,"Crash
-Both Directions SR 92 at MP 17 (8 Mi SE of Alpine) Utah Co.
-Est. Clearance Time: 10:30 AM","6/27/24, 9:30 AM","6/27/24, 10:30 AM","6/27/24, 9:30 AM",,40.439694,-111.624996
 UT-Incident--180854,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Est. Clearance Time: 9:00 AM","6/27/24, 7:58 AM","6/27/24, 9:00 AM","6/27/24, 7:58 AM",,39.975722,-112.072947
@@ -27849,7 +27846,14 @@ UT-Incident--180865,Incidents,SR 68,Davis County,SR 68 at MP 66,"Crash
 SB SR 68 at MP 66 (1100 N / North Salt Lake) Davis Co.
 Est. Clearance Time: 2:45 PM","6/27/24, 1:38 PM","6/27/24, 2:45 PM","6/27/24, 1:39 PM",,40.865486,-111.929903
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180869,Incidents,SR 92,Utah County,SR 92 at MP 16,"Crash
+SR 92 at MP 16 (7 Mi SE of Alpine) Utah Co.
+Est. Clearance Time: 3:30 PM","6/27/24, 2:27 PM","6/27/24, 3:30 PM","6/27/24, 2:27 PM",,40.433377,-111.634808
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180870,Incidents,I-15,Box Elder County,I-15 at MP 385,"Vehicle on fire
+SB I-15 at MP 385 (Riverside) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 3:45 PM","6/27/24, 2:36 PM","6/27/24, 3:45 PM","6/27/24, 2:36 PM",,41.78057,-112.173474
 UT-Incident--180868,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Shoulder
@@ -27862,6 +27866,6 @@ WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
 UT-Incident--180866,Incidents,SR 24,Wayne County,SR 24 at MP 85,"Flooding
 SR 24 Closed at MP 85 (4 Mi E of Fruita) Wayne Co.","6/27/24, 1:43 PM","6/29/24, 2:39 PM","6/27/24, 1:56 PM",,38.281225,-111.173308
-UT-Incident--180869,Incidents,SR 92,Utah County,SR 92 at MP 16,"Crash
-SR 92 at MP 16 (7 Mi SE of Alpine) Utah Co.
-Est. Clearance Time: 3:30 PM","6/27/24, 2:27 PM","6/27/24, 3:30 PM","6/27/24, 2:27 PM",,40.433377,-111.634808
+UT-Incident--180859,Incidents,SR 92,Utah County,SR 92 at MP 17,"Crash
+Both Directions SR 92 at MP 17 (8 Mi SE of Alpine) Utah Co.
+Est. Clearance Time: 10:30 AM","6/27/24, 9:30 AM","6/27/24, 10:30 AM","6/27/24, 2:35 PM",,40.439694,-111.624996
