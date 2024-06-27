@@ -27829,15 +27829,22 @@ UT-Incident--180854,Incidents,US 6,Utah County,US 6 at MP 143,"Crash
 US 6 at MP 143 (2 Miles East of Eureka) Utah Co.
 Est. Clearance Time: 9:00 AM","6/27/24, 7:58 AM","6/27/24, 9:00 AM","6/27/24, 7:58 AM",,39.975722,-112.072947
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180860,Incidents,I-215W SB X22B TO I-80 EB RAMP,Salt Lake County,I-215W SB X22B TO I-80 EB RAMP at I-80 EB,"Crash
 SB I-215W Exit 22B (SB I-215W to EB I-80 Ramp) Salt Lake Co.
 Est. Clearance Time: 10:37 AM","6/27/24, 9:38 AM","6/27/24, 10:37 AM","6/27/24, 9:38 AM",,40.763165,-111.95407
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
 UT-Incident--180861,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at 4700 S,"Debris
 NB Redwood Rd at 4700 S Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 11:40 AM","6/27/24, 10:41 AM","6/27/24, 11:40 AM","6/27/24, 10:41 AM",,0.0,0.0
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180863,Incidents,I-15,Utah County,I-15 at MP 246,"Crash
+NB I-15 at MP 246 (2 mi N of Santaquin) Utah Co.
+Right Shoulder
+Est. Clearance Time: 12:54 PM","6/27/24, 11:54 AM","6/27/24, 12:54 PM","6/27/24, 11:54 AM",,39.991194,-111.764095
+UT-Incident--180862,Incidents,PARK AVE,Summit County,PARK AVE 2041,"Crash
+Park Ave @ Holiday Ranch Loop Rd (Park City) Summit Co.
+Est. Clearance Time: 12:45 PM","6/27/24, 11:49 AM","6/27/24, 12:45 PM","6/27/24, 11:57 AM",,40.666102,-111.514376
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
