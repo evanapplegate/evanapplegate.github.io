@@ -27864,7 +27864,6 @@ UT-Incident--180872,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 4:45 PM","6/27/24, 3:20 PM","6/27/24, 4:45 PM","6/27/24, 3:20 PM",,41.182676,-112.014444
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180875,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (300 S) Salt Lake Co.
 Right Lane Closed
@@ -27882,11 +27881,16 @@ UT-Incident--180878,Incidents,I-215e WB Fwy,Salt Lake County,I-215e WB Fwy at I-
 Ramp From I-215S WB To I-15 SB Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:40 PM","6/27/24, 4:43 PM","6/27/24, 5:40 PM","6/27/24, 4:43 PM",,40.636235,-111.905739
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180879,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
+NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:15 PM","6/27/24, 5:04 PM","6/27/24, 6:15 PM","6/27/24, 5:05 PM",,40.817596,-111.917999
 UT-Incident--180867,Incidents,I-70,Emery County,I-70 at MP 96,"Road weather/Flooding
 Both Directions I-70 from MP 96 to MP 103 (E of Fremont Jct) Emery Co.","6/27/24, 1:46 PM","6/27/24, 2:44 PM","6/27/24, 1:46 PM",,38.799497,-111.270139
 UT-Incident--180877,Incidents,I-80,Salt Lake County,I-80 at MP 115,"Crash
 EB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co. Right Lanes
-Est. Clearance Time: 5:45 PM","6/27/24, 4:40 PM","6/27/24, 5:45 PM","6/27/24, 4:40 PM",,40.765165,-111.991516
+Est. Clearance Time: 5:45 PM","6/27/24, 4:40 PM","6/27/24, 5:45 PM","6/27/24, 4:52 PM",,40.765165,-111.991516
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
