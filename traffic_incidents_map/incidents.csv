@@ -27848,20 +27848,20 @@ Est. Clearance Time: 2:45 PM","6/27/24, 1:38 PM","6/27/24, 2:45 PM","6/27/24, 1:
 UT-Incident--180869,Incidents,SR 92,Utah County,SR 92 at MP 16,"Crash
 SR 92 at MP 16 (7 Mi SE of Alpine) Utah Co.
 Est. Clearance Time: 3:30 PM","6/27/24, 2:27 PM","6/27/24, 3:30 PM","6/27/24, 2:27 PM",,40.433377,-111.634808
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180868,Incidents,I-215 W,Salt Lake County,I-215 W at MP 23,"Crash
 NB I-215 W at MP 23 (700 N) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 3:00 PM","6/27/24, 1:48 PM","6/27/24, 3:00 PM","6/27/24, 1:48 PM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180870,Incidents,I-15,Box Elder County,I-15 at MP 385,"Vehicle on fire
-SB I-15 at MP 385 (Riverside) Box Elder Co.
-Right Lane Closed
-Est. Clearance Time: 3:45 PM","6/27/24, 2:36 PM","6/27/24, 3:45 PM","6/27/24, 2:36 PM",,41.78057,-112.173474
 UT-Incident--180871,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:25 PM","6/27/24, 3:18 PM","6/27/24, 4:25 PM","6/27/24, 3:18 PM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180870,Incidents,I-15,Box Elder County,I-15 at MP 385,"Vehicle on fire
+SB I-15 at MP 385 (Riverside) Box Elder Co.
+Right Lane Closed
+Est. Clearance Time: 3:45 PM","6/27/24, 2:36 PM","6/27/24, 3:45 PM","6/27/24, 2:36 PM",,41.78057,-112.173474
 UT-Incident--180872,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 2 Left Lanes Closed
@@ -27876,4 +27876,4 @@ UT-Incident--180866,Incidents,SR 24,Wayne County,SR 24 at MP 85,"Flooding
 SR 24 Closed at MP 85 (4 Mi E of Fruita) Wayne Co.","6/27/24, 1:43 PM","6/29/24, 2:39 PM","6/27/24, 1:56 PM",,38.281225,-111.173308
 UT-Incident--180859,Incidents,SR 92,Utah County,SR 92 at MP 17,"Crash
 Both Directions SR 92 at MP 17 (8 Mi SE of Alpine) Utah Co.
-Est. Clearance Time: 10:30 AM","6/27/24, 9:30 AM","6/27/24, 10:30 AM","6/27/24, 2:35 PM",,40.439694,-111.624996
+Est. Clearance Time: 10:30 PM","6/27/24, 9:30 AM","6/27/24, 10:30 PM","6/27/24, 3:37 PM",,40.439694,-111.624996
