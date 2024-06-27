@@ -27856,7 +27856,6 @@ UT-Incident--180871,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 4:25 PM","6/27/24, 3:18 PM","6/27/24, 4:25 PM","6/27/24, 3:18 PM",,40.373184,-111.808465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180870,Incidents,I-15,Box Elder County,I-15 at MP 385,"Vehicle on fire
 SB I-15 at MP 385 (Riverside) Box Elder Co.
 Right Lane Closed
@@ -27866,6 +27865,11 @@ UT-Incident--180872,Incidents,I-15,Weber County,I-15 at MP 340,"Crash
 SB I-15 at MP 340 (Riverdale) Weber Co.
 2 Left Lanes Closed
 Est. Clearance Time: 4:45 PM","6/27/24, 3:20 PM","6/27/24, 4:45 PM","6/27/24, 3:20 PM",,41.182676,-112.014444
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180875,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
+NB I-15 at MP 308 (300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 5:30 PM","6/27/24, 4:20 PM","6/27/24, 5:30 PM","6/27/24, 4:20 PM",,40.763745,-111.914284
 UT-Incident--180874,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
