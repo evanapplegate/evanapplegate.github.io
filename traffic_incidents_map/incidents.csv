@@ -27903,7 +27903,6 @@ Est. Clearance Time: 6:45 PM","6/27/24, 5:42 PM","6/27/24, 6:45 PM","6/27/24, 5:
 UT-Incident--180873,Incidents,US 191,Grand County,US 191 at MP 131,"Debris
 Both Directions US 191 Closed at MP 131 (Arches Entrance) Grand Co.
 Est. Clearance Time: 7:00 PM","6/27/24, 4:01 PM","6/27/24, 7:00 PM","6/27/24, 4:01 PM",,38.615179,-109.619395
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180885,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
 SB I-15 at MP 281 (Lehi) Utah Co.
 Left Shoulder
@@ -27928,6 +27927,11 @@ UT-Incident--180887,Incidents,I-15,Iron County,I-15 at MP 59,"Stalled Vehicle
 SB I-15 at MP 59 (Offramp) Iron Co.
 Offramp- left lane closed
 Est. Clearance Time: 8:00 PM","6/27/24, 7:00 PM","6/27/24, 8:00 PM","6/27/24, 7:00 PM",,37.68304,-113.079774
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180889,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+NB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 9:15 PM","6/27/24, 8:14 PM","6/27/24, 9:15 PM","6/27/24, 8:14 PM",,40.52103,-111.891246
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
