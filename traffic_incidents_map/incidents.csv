@@ -27964,7 +27964,6 @@ UT-Incident--180898,Incidents,3500 S,Salt Lake County,3500 S 5761,"Medical
 WB 3500 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:58 AM","6/28/24, 6:30 AM","6/28/24, 7:58 AM","6/28/24, 7:41 AM",,40.696347,-112.027727
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180900,Incidents,I-15,Weber County,I-15 at MP 343,"Crash
 SB I-15 at MP 343 (Ogden) Weber Co.
 2 Left Lanes Closed
@@ -27973,6 +27972,7 @@ UT-Incident--180901,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:50 AM","6/28/24, 8:50 AM","6/28/24, 9:50 AM","6/28/24, 8:50 AM",,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180903,Incidents,5600 W,Salt Lake County,5600 W 1001,"Signal problems
 All Directions 5600 W 1100 S Salt Lake Co.
