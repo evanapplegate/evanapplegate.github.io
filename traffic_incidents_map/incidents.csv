@@ -27948,7 +27948,6 @@ UT-Incident--180894,Incidents,I-215 E,Salt Lake County,I-215 E at MP 3,"Crash
 NB I-215 E at MP 3 (4500 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:59 AM","6/28/24, 2:00 AM","6/28/24, 2:59 AM","6/28/24, 2:00 AM",,40.683284,-111.797477
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180896,Incidents,I-15,Millard County,I-15 at MP 150,"Crash
 SB I-15 at MP 150 (4 mi NE of Kanosh) Millard Co.
 Left Shoulder
@@ -27957,6 +27956,7 @@ UT-Incident--180897,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:42 AM","6/28/24, 5:43 AM","6/28/24, 6:42 AM","6/28/24, 5:43 AM",,41.301243,-112.026067
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180898,Incidents,3500 S,Salt Lake County,3500 S 5761,"Medical
 NB Mountain View to WB 3500 S 
@@ -27967,3 +27967,7 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
+UT-Incident--180899,Incidents,Washington Blvd,Weber County,Washington Blvd 300,"Crash
+NB Washington Blvd at 3rd St Weber Co.
+Right Lane Closed
+Est. Clearance Time: 8:23 AM","6/28/24, 7:24 AM","6/28/24, 8:23 AM","6/28/24, 7:24 AM",,41.256851,-111.969524
