@@ -27987,7 +27987,6 @@ UT-Incident--180907,Incidents,SR 201,Salt Lake County,SR 201 at MP 6,"Stalled Ve
 WB Ramp SR 201 at MP 6 (5600 W) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 1:35 PM","6/28/24, 12:33 PM","6/28/24, 1:35 PM","6/28/24, 12:34 PM",,40.71806,-112.114369
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180908,Incidents,US 89,Weber County,US 89 at MP 412,"Crash
 SB US 89 at MP 412 (40 th/Ogden) Weber Co.
 SB Lanes Closed
@@ -27999,14 +27998,15 @@ All Directions 5400 S at 3600 W Salt Lake Co.
 NB/SB Closed
 EB Left 2 lanes Closed
 Est. Clearance Time: 2:35 PM","6/28/24, 1:37 PM","6/28/24, 2:35 PM","6/28/24, 1:37 PM",,40.652715,-111.977611
-UT-Incident--180906,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Stalled Vehicle
-NB I-15 at MP 304 (2700 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 1:37 PM","6/28/24, 11:38 AM","6/28/24, 1:37 PM","6/28/24, 1:03 PM",,40.707874,-111.90397
 UT-Incident--180909,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:29 PM","6/28/24, 1:31 PM","6/28/24, 2:29 PM","6/28/24, 1:31 PM",,40.63583,-111.905066
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180906,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Stalled Vehicle
+NB I-15 at MP 304 (2700 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:37 PM","6/28/24, 11:38 AM","6/28/24, 3:37 PM","6/28/24, 1:48 PM",,40.707874,-111.90397
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
