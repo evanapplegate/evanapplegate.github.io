@@ -28017,6 +28017,14 @@ UT-Incident--180918,Incidents,US 189,Wasatch County,US 189 at MP 23,"Stalled Veh
 WB US 189 at MP 23 (Deer Creek Reservoir) Wasatch Co.
 Est. Clearance Time: 4:45 PM","6/28/24, 3:36 PM","6/28/24, 4:45 PM","6/28/24, 3:36 PM",,40.438577,-111.491821
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180920,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
+SB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
+Right Shoulder
+Est. Clearance Time: 5:35 PM","6/28/24, 4:06 PM","6/28/24, 5:35 PM","6/28/24, 4:06 PM",,41.329561,-112.031305
+UT-Incident--180921,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:15 PM","6/28/24, 4:12 PM","6/28/24, 5:15 PM","6/28/24, 4:14 PM",,40.607173,-111.905403
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180906,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Stalled Vehicle
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
@@ -28029,14 +28037,6 @@ UT-Incident--180915,Incidents,I-15,Utah County,I-15 at MP 276,"Stalled Vehicle
 NB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
 Est. Clearance Time: 4:07 PM","6/28/24, 3:08 PM","6/28/24, 4:07 PM","6/28/24, 3:14 PM",,40.355866,-111.778344
-UT-Incident--180920,Incidents,I-15,Weber County,I-15 at MP 351,"Crash
-SB I-15 at MP 351 (SR-126, Box Elder) Weber Co.
-Right Shoulder
-Est. Clearance Time: 5:35 PM","6/28/24, 4:06 PM","6/28/24, 5:35 PM","6/28/24, 4:06 PM",,41.329561,-112.031305
-UT-Incident--180921,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
-NB I-15 at MP 297 (7200 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 5:15 PM","6/28/24, 4:12 PM","6/28/24, 5:15 PM","6/28/24, 4:14 PM",,40.607173,-111.905403
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
