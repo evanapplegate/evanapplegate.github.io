@@ -27956,7 +27956,6 @@ UT-Incident--180897,Incidents,I-15,Weber County,I-15 at MP 349,"Crash
 SB I-15 at MP 349 (SR-143, Farr West) Weber Co.
 Right Shoulder
 Est. Clearance Time: 6:42 AM","6/28/24, 5:43 AM","6/28/24, 6:42 AM","6/28/24, 5:43 AM",,41.301243,-112.026067
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180899,Incidents,Washington Blvd,Weber County,Washington Blvd 300,"Crash
 NB Washington Blvd at 3rd St Weber Co.
 Right Lane Closed
@@ -27966,6 +27965,7 @@ UT-Incident--180898,Incidents,3500 S,Salt Lake County,3500 S 5761,"Medical
 WB 3500 S Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 7:58 AM","6/28/24, 6:30 AM","6/28/24, 7:58 AM","6/28/24, 7:41 AM",,40.696347,-112.027727
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
