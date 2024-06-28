@@ -27880,7 +27880,6 @@ UT-Incident--180878,Incidents,I-215e WB Fwy,Salt Lake County,I-215e WB Fwy at I-
 Ramp From I-215S WB To I-15 SB Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 5:40 PM","6/27/24, 4:43 PM","6/27/24, 5:40 PM","6/27/24, 4:43 PM",,40.636235,-111.905739
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180879,Incidents,I-15,Salt Lake County,I-15 at MP 312,"Crash
 NB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.
 Right Shoulder
@@ -27902,11 +27901,20 @@ UT-Incident--180883,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 at MP 295 (9100 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","6/27/24, 5:42 PM","6/27/24, 6:45 PM","6/27/24, 5:42 PM",,40.578741,-111.900284
+UT-Incident--180873,Incidents,US 191,Grand County,US 191 at MP 131,"Debris
+Both Directions US 191 Closed at MP 131 (Arches Entrance) Grand Co.
+Est. Clearance Time: 7:00 PM","6/27/24, 4:01 PM","6/27/24, 7:00 PM","6/27/24, 4:01 PM",,38.615179,-109.619395
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180885,Incidents,I-15,Utah County,I-15 at MP 281,"Crash
+SB I-15 at MP 281 (Lehi) Utah Co.
+Left Shoulder
+Est. Clearance Time: 7:30 PM","6/27/24, 6:30 PM","6/27/24, 7:30 PM","6/27/24, 6:30 PM",,40.401041,-111.849765
 UT-Incident--180867,Incidents,I-70,Emery County,I-70 at MP 96,"Road weather/Flooding
 Both Directions I-70 from MP 96 to MP 103 (E of Fremont Jct) Emery Co.","6/27/24, 1:46 PM","6/27/24, 2:44 PM","6/27/24, 1:46 PM",,38.799497,-111.270139
-UT-Incident--180882,Incidents,I-70,Sevier County,I-70 at MP 63,"WB I-70 Closed
- at MP 63 (23 mi E of Richfield) Sevier Co.
-Use Alt Route","6/27/24, 5:39 PM","6/27/24, 6:45 PM","6/27/24, 5:39 PM",,38.917197,-111.743746
+UT-Incident--180882,Incidents,I-70,Sevier County,I-70 at MP 63,"Crash
+WB I-70 at MP 63 (23 mi E of Richfield) Sevier Co.
+Left Lane Closed
+Est. Clearance Time: 6:45 PM","6/27/24, 5:39 PM","6/27/24, 6:45 PM","6/27/24, 6:00 PM",,38.917197,-111.743746
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -27916,6 +27924,3 @@ SR 24 Closed at MP 85 (4 Mi E of Fruita) Wayne Co.","6/27/24, 1:43 PM","6/29/24,
 UT-Incident--180859,Incidents,SR 92,Utah County,SR 92 at MP 17,"Crash
 Both Directions SR 92 at MP 17 (8 Mi SE of Alpine) Utah Co.
 Est. Clearance Time: 10:30 PM","6/27/24, 9:30 AM","6/27/24, 10:30 PM","6/27/24, 3:37 PM",,40.439694,-111.624996
-UT-Incident--180873,Incidents,US 191,Grand County,US 191 at MP 131,"Debris
-Both Directions US 191 Closed at MP 131 (Arches Entrance) Grand Co.
-Est. Clearance Time: 7:00 PM","6/27/24, 4:01 PM","6/27/24, 7:00 PM","6/27/24, 4:01 PM",,38.615179,-109.619395
