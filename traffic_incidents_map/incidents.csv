@@ -28128,7 +28128,6 @@ UT-Incident--180943,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
 US 6 at MP 210 (Soldier Summit)
 Utah Co.
 Est. Clearance Time: 12:10 PM","6/29/24, 11:09 AM","6/29/24, 12:10 PM","6/29/24, 11:16 AM",,39.931871,-111.089175
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180949,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Est. Clearance Time: 2:30 PM","6/29/24, 1:28 PM","6/29/24, 2:30 PM","6/29/24, 1:28 PM",,40.778527,-111.464951
@@ -28137,9 +28136,14 @@ NB US 89 at MP 431 (3000 S / Perry) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 2:05 PM","6/29/24, 1:07 PM","6/29/24, 2:05 PM","6/29/24, 1:08 PM",,41.454315,-112.038678
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180951,Incidents,3500 S,Salt Lake County,3500 S 2181,"Crash
 WB 3500 S at I-215W SB 3500 S Offramp Salt Lake Co.
 Est. Clearance Time: 2:45 PM","6/29/24, 1:45 PM","6/29/24, 2:45 PM","6/29/24, 2:00 PM",,40.696657,-111.953572
+UT-Incident--180953,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
+SB I-15 at MP 287 (15200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 3:28 PM","6/29/24, 2:28 PM","6/29/24, 3:28 PM","6/29/24, 2:28 PM",,40.467787,-111.911227
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -28148,6 +28152,10 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM","6/29/24, 10:08 AM",,40.322345,-111.902462
+UT-Incident--180952,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 23,"Crash
+SB Redwood Rd at MP 23 (4 mi S of Saratoga Springs) Utah Co.
+Right Lane Closed
+Est. Clearance Time: 3:20 PM","6/29/24, 2:21 PM","6/29/24, 3:20 PM","6/29/24, 2:21 PM",,40.257671,-111.867015
 UT-Incident--180950,Incidents,SR 204,Weber County,SR 204 at MP 3,"Crash
 SB SR 204 at MP 3 (20th St) Weber Co.
 Right Lane Closed
