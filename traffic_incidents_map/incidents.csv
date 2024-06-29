@@ -28113,7 +28113,6 @@ UT-Incident--180941,Incidents,US 89,Sanpete County,US 89 at MP 297,"Crash
  Sanpete Co.
 Est. Clearance Time: 9:35 AM","6/29/24, 8:40 AM","6/29/24, 12:35 PM","6/29/24, 8:40 AM",,39.811622,-111.50553
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180945,Incidents,I-15,Utah County,I-15 at MP 244,"Vehicle on fire
 NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
@@ -28126,6 +28125,10 @@ UT-Incident--180947,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 PM","6/29/24, 12:51 PM","6/29/24, 2:00 PM","6/29/24, 12:51 PM",,40.373184,-111.808465
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180949,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
+EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
+Est. Clearance Time: 2:30 PM","6/29/24, 1:28 PM","6/29/24, 2:30 PM","6/29/24, 1:28 PM",,40.778527,-111.464951
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
