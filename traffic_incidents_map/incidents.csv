@@ -28112,7 +28112,6 @@ UT-Incident--180941,Incidents,US 89,Sanpete County,US 89 at MP 297,"Crash
  US 89 at MP 297 (8 miles S of Birdseye)
  Sanpete Co.
 Est. Clearance Time: 9:35 AM","6/29/24, 8:40 AM","6/29/24, 12:35 PM","6/29/24, 8:40 AM",,39.811622,-111.50553
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180945,Incidents,I-15,Utah County,I-15 at MP 244,"Vehicle on fire
 NB I-15 at MP 244 (SR-198 Jct / Santaquin) Utah Co.
 Right Lane Closed
@@ -28126,6 +28125,7 @@ SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
 Est. Clearance Time: 2:00 PM","6/29/24, 12:51 PM","6/29/24, 2:00 PM","6/29/24, 12:51 PM",,40.373184,-111.808465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180949,Incidents,I-80,Summit County,I-80 at MP 151,"Crash
 EB I-80 at MP 151 (4 mi W of Wanship) Summit Co.
 Est. Clearance Time: 2:30 PM","6/29/24, 1:28 PM","6/29/24, 2:30 PM","6/29/24, 1:28 PM",,40.778527,-111.464951
@@ -28137,6 +28137,10 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM","6/29/24, 10:08 AM",,40.322345,-111.902462
+UT-Incident--180950,Incidents,SR 204,Weber County,SR 204 at MP 3,"Crash
+SB SR 204 at MP 3 (20th St) Weber Co.
+Right Lane Closed
+Est. Clearance Time: 2:43 PM","6/29/24, 1:44 PM","6/29/24, 2:43 PM","6/29/24, 1:44 PM",,41.236118,-111.978536
 UT-Incident--180943,Incidents,US 6,Utah County,US 6 at MP 210,"Crash
 US 6 at MP 210 (Soldier Summit)
 Utah Co.
