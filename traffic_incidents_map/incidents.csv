@@ -28037,7 +28037,6 @@ Other SR 36 at MP 56 (Tooele) Tooele Co.
 Cleared at 2:26 PM
 Est. Clearance Time: 3:20 PM","6/28/24, 2:24 PM","6/28/24, 3:20 PM","6/28/24, 2:27 PM",,40.554334,-112.297621
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180914,Incidents,I-15,Box Elder County,I-15 at MP 361,"Crash
 SB I-15 at MP 361 (Brigham City) Box Elder Co.
 Est. Clearance Time: 3:24 PM","6/28/24, 2:26 PM","6/28/24, 3:24 PM","6/28/24, 3:01 PM",,41.470922,-112.054458
@@ -28049,7 +28048,15 @@ UT-Incident--180924,Incidents,I-15,Utah County,I-15 at MP 247,"Crash
 NB I-15 at MP 247 (12400 S / Spring Lake) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:00 PM","6/28/24, 6:01 PM","6/28/24, 7:00 PM","6/28/24, 6:01 PM",,40.005686,-111.762644
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180925,Incidents,I-15,Juab County,I-15 at MP 223,"Crash
+NB I-15 at MP 223 (Main St Exit / Nephi) Juab Co.
+Est. Clearance Time: 8:00 PM","6/28/24, 6:49 PM","6/28/24, 8:00 PM","6/28/24, 6:49 PM",,39.682873,-111.83691
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","6/28/24, 4:00 PM","6/25/24, 1:36 PM",,40.721209,-111.938966
+UT-Incident--180927,Incidents,SR 126,Weber County,SR 126 at MP 11,"Crash
+SB SR 126 at MP 11 (sunset) Weber Co.
+Right Shoulder
+Est. Clearance Time: 8:15 PM","6/28/24, 6:58 PM","6/28/24, 8:15 PM","6/28/24, 6:58 PM",,41.194584,-112.025823
