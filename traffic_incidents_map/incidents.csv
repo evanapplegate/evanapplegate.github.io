@@ -28266,6 +28266,10 @@ UT-Incident--180979,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Fire af
 NB I-215 W at MP 20 (California Ave Exit) Salt Lake Co.
 California Ave Exit Closed","6/30/24, 1:35 PM","6/30/24, 3:45 PM","6/30/24, 2:58 PM",,40.731947,-111.949915
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180985,Incidents,US 89,Davis County,US 89 at MP 406,"Vehicle on fire
+NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
+Left lane closed
+Est. Clearance Time: 5:09 PM","6/30/24, 4:10 PM","6/30/24, 5:09 PM","6/30/24, 5:01 PM",,41.131604,-111.910087
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
@@ -28275,7 +28279,3 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM","6/29/24, 10:08 AM",,40.322345,-111.902462
-UT-Incident--180985,Incidents,US 89,Davis County,US 89 at MP 406,"Vehicle on fire
-NB US 89 at MP 407 (I-84 Jct / 6500 S / Ogden) Weber Co.
-Left lane closed
-Est. Clearance Time: 5:09 PM","6/30/24, 4:10 PM","6/30/24, 5:09 PM","6/30/24, 5:01 PM",,41.131604,-111.910087
