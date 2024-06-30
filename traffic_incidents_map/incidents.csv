@@ -28232,20 +28232,25 @@ UT-Incident--180973,Incidents,SR 52,Utah County,SR 52 at MP 4,"Crash
 Both Directions SR 52 at MP 4 (1500 E Orem) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 12:45 PM","6/30/24, 11:08 AM","6/30/24, 12:45 PM","6/30/24, 12:12 PM",,40.312841,-111.659302
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180977,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Fire affecting roadway
 Ramp NB I-215 W at MP 21 (Redwood Rd Exit) 
 Salt Lake Co.
 Ramp Closed to Redwood Rd
 Est. Clearance Time: 2:11 PM","6/30/24, 1:13 PM","6/30/24, 2:11 PM","6/30/24, 1:13 PM",,40.746426,-111.949053
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--180979,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Fire affecting roadway
-NB I-215 W at MP 20 (California Ave Exit) Salt Lake Co.
-NB I-215 W is closed at SR-201","6/30/24, 1:35 PM","6/30/24, 2:23 PM","6/30/24, 1:38 PM",,40.731947,-111.949915
 UT-Incident--180976,Incidents,I-80 WB TO SR 201 WB RAMP,Salt Lake County,I-80 WB TO SR 201 WB RAMP at SR 201 WB,"Crash
 WB I-80 To WB SR-201 Ramp Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 1:30 PM","6/30/24, 12:23 PM","6/30/24, 1:30 PM","6/30/24, 1:13 PM",,40.719848,-111.904528
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180980,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
+SB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
+Cleared at 1:51 PM
+Est. Clearance Time: 2:50 PM","6/30/24, 1:51 PM","6/30/24, 2:50 PM","6/30/24, 1:51 PM",,39.384797,-112.074376
+UT-Incident--180979,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Fire affecting roadway
+NB I-215 W at MP 20 (California Ave Exit) Salt Lake Co.
+NB I-215 Right Lane Closed
+California Ave Exit Closed","6/30/24, 1:35 PM","6/30/24, 2:23 PM","6/30/24, 2:03 PM",,40.731947,-111.949915
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -28260,3 +28265,6 @@ Est. Clearance Time: 1:00 PM","6/30/24, 12:02 PM","6/30/24, 1:00 PM","6/30/24, 1
 UT-Incident--180978,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
 Both Directions US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 2:49 PM","6/30/24, 1:20 PM","6/30/24, 2:49 PM","6/30/24, 1:20 PM",,40.333619,-111.261279
+UT-Incident--180981,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
+Other US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
+Est. Clearance Time: 3:00 PM","6/30/24, 1:58 PM","6/30/24, 3:00 PM","6/30/24, 1:58 PM",,40.333619,-111.261279
