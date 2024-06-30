@@ -28248,13 +28248,17 @@ UT-Incident--180980,Incidents,I-15,Juab County,I-15 at MP 198,"Crash
 SB I-15 at MP 198 (10 mi N of Scipio) Juab Co.
 Cleared at 1:51 PM
 Est. Clearance Time: 2:50 PM","6/30/24, 1:51 PM","6/30/24, 2:50 PM","6/30/24, 1:51 PM",,39.384797,-112.074376
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180975,Incidents,SR 43,Daggett County,SR 43 at MP 7,"Crash
 SR 43 at MP 7 (1 Mi W of Manila) Daggett Co.
 Est. Clearance Time: 1:00 PM","6/30/24, 12:02 PM","6/30/24, 2:30 PM","6/30/24, 2:10 PM",,40.983959,-109.738375
 UT-Incident--180978,Incidents,US 40,Wasatch County,US 40 at MP 32,"Crash
 Both Directions US 40 at MP 32 (11 mi S of Heber) Wasatch Co.
 Est. Clearance Time: 2:49 PM","6/30/24, 1:20 PM","6/30/24, 2:49 PM","6/30/24, 1:20 PM",,40.333619,-111.261279
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180982,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
+NB I-215 W at MP 19 (1700 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 3:00 PM","6/30/24, 2:04 PM","6/30/24, 3:00 PM","6/30/24, 2:06 PM",,40.717792,-111.95364
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180983,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
@@ -28263,10 +28267,6 @@ Est. Clearance Time: 3:49 PM","6/30/24, 2:49 PM","6/30/24, 3:49 PM","6/30/24, 2:
 UT-Incident--180979,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Fire affecting roadway
 NB I-215 W at MP 20 (California Ave Exit) Salt Lake Co.
 California Ave Exit Closed","6/30/24, 1:35 PM","6/30/24, 3:45 PM","6/30/24, 2:58 PM",,40.731947,-111.949915
-UT-Incident--180982,Incidents,I-215 W,Salt Lake County,I-215 W at MP 19,"Crash
-NB I-215 W at MP 19 (1700 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 3:00 PM","6/30/24, 2:04 PM","6/30/24, 3:00 PM","6/30/24, 2:06 PM",,40.717792,-111.95364
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
