@@ -28224,7 +28224,6 @@ Est. Clearance Time: 5:54 AM","6/30/24, 4:54 AM","6/30/24, 5:54 AM","6/30/24, 4:
 UT-Incident--180972,Incidents,I-15 SB X242 On Summit Ridge Ramp,Utah County,I-15 SB X242 On Summit Ridge Ramp at Summit Ridge,"Crash
 SB I-15 Summit Ridge On Ramp Utah Co.
 Est. Clearance Time: 11:15 AM","6/30/24, 10:15 AM","6/30/24, 11:15 AM","6/30/24, 10:15 AM",,39.951043,-111.803465
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180974,Incidents,I-80,Summit County,I-80 at MP 155,"Stalled Vehicle
 WB I-80 at MP 155 (Wanship) Summit Co.
 Right Lane Closed
@@ -28234,9 +28233,16 @@ Both Directions SR 52 at MP 4 (1500 E Orem) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 12:45 PM","6/30/24, 11:08 AM","6/30/24, 12:45 PM","6/30/24, 12:12 PM",,40.312841,-111.659302
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180977,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Fire affecting roadway
+Ramp NB I-215 W at MP 21 (Redwood Rd Exit) 
+Salt Lake Co.
+Ramp Closed to Redwood Rd
+Est. Clearance Time: 2:11 PM","6/30/24, 1:13 PM","6/30/24, 2:11 PM","6/30/24, 1:13 PM",,40.746426,-111.949053
 UT-Incident--180976,Incidents,I-80 WB TO SR 201 WB RAMP,Salt Lake County,I-80 WB TO SR 201 WB RAMP at SR 201 WB,"Crash
 WB I-80 To WB SR-201 Ramp Salt Lake Co.
-Est. Clearance Time: 1:30 PM","6/30/24, 12:23 PM","6/30/24, 1:30 PM","6/30/24, 12:23 PM",,40.719848,-111.904528
+Right Shoulder
+Est. Clearance Time: 1:30 PM","6/30/24, 12:23 PM","6/30/24, 1:30 PM","6/30/24, 1:13 PM",,40.719848,-111.904528
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
