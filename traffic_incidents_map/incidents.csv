@@ -28233,12 +28233,15 @@ Both Directions SR 52 at MP 4 (1500 E Orem) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 12:45 PM","6/30/24, 11:08 AM","6/30/24, 12:45 PM","6/30/24, 12:12 PM",,40.312841,-111.659302
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180977,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Fire affecting roadway
 Ramp NB I-215 W at MP 21 (Redwood Rd Exit) 
 Salt Lake Co.
 Ramp Closed to Redwood Rd
 Est. Clearance Time: 2:11 PM","6/30/24, 1:13 PM","6/30/24, 2:11 PM","6/30/24, 1:13 PM",,40.746426,-111.949053
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180979,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Fire affecting roadway
+NB I-215 W at MP 20 (California Ave Exit) Salt Lake Co.
+NB I-215 W is closed at SR-201","6/30/24, 1:35 PM","6/30/24, 2:23 PM","6/30/24, 1:38 PM",,40.731947,-111.949915
 UT-Incident--180976,Incidents,I-80 WB TO SR 201 WB RAMP,Salt Lake County,I-80 WB TO SR 201 WB RAMP at SR 201 WB,"Crash
 WB I-80 To WB SR-201 Ramp Salt Lake Co.
 Right Shoulder
