@@ -28202,7 +28202,6 @@ UT-Incident--180964,Incidents,SR 56,Iron County,SR 56 at MP 45,"Crash
 Other SR 56 at MP 45 (11 Mi W of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6/30/2024 12:24 AM","6/29/24, 11:25 PM","6/30/24, 12:24 AM","6/29/24, 11:26 PM",,37.61508,-113.337687
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180968,Incidents,I-80,Salt Lake County,I-80 at MP 125,"Medical
 EB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.
 Est. Clearance Time: 1:55 AM","6/30/24, 12:59 AM","6/30/24, 1:55 AM","6/30/24, 12:59 AM",,40.719771,-111.855009
@@ -28211,6 +28210,11 @@ UT-Incident--180966,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 12:43 AM","6/29/24, 11:44 PM","6/30/24, 12:43 AM","6/30/24, 12:19 AM",,40.74966,-111.90976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180970,Incidents,I-80,Tooele County,I-80 at MP 45,"Medical
+EB I-80 at MP 45 (4 mi E of Knolls) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 2:52 AM","6/30/24, 1:52 AM","6/30/24, 2:52 AM","6/30/24, 1:52 AM",,40.726531,-113.188092
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
