@@ -28158,7 +28158,6 @@ UT-Incident--180955,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:55 PM","6/29/24, 4:55 PM","6/29/24, 5:55 PM","6/29/24, 4:55 PM",,40.718459,-111.873941
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180958,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Vehicle on fire
 SB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -28167,6 +28166,11 @@ UT-Incident--180957,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
 EB I-80 at MP 146 (West of US-40) Summit Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","6/29/24, 5:45 PM","6/29/24, 6:45 PM","6/29/24, 5:45 PM",,40.725101,-111.511877
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180959,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
+WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:49 PM","6/29/24, 6:50 PM","6/29/24, 7:49 PM","6/29/24, 6:50 PM",,40.329534,-111.619014
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180956,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 WB I-84 at MP 82 (South Weber) Weber Co.
@@ -28180,7 +28184,3 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM","6/29/24, 10:08 AM",,40.322345,-111.902462
-UT-Incident--180959,Incidents,US 189,Utah County,US 189 at MP 10,"Crash
-WB US 189 at MP 10 (Canyon Glen Park / Provo) Utah Co.
-Right Shoulder
-Est. Clearance Time: 7:49 PM","6/29/24, 6:50 PM","6/29/24, 7:49 PM","6/29/24, 6:50 PM",,40.329534,-111.619014
