@@ -28225,11 +28225,15 @@ UT-Incident--180972,Incidents,I-15 SB X242 On Summit Ridge Ramp,Utah County,I-15
 SB I-15 Summit Ridge On Ramp Utah Co.
 Est. Clearance Time: 11:15 AM","6/30/24, 10:15 AM","6/30/24, 11:15 AM","6/30/24, 10:15 AM",,39.951043,-111.803465
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180974,Incidents,I-80,Summit County,I-80 at MP 155,"Stalled Vehicle
 WB I-80 at MP 155 (Wanship) Summit Co.
 Right Lane Closed
 Est. Clearance Time: 1:45 PM","6/30/24, 11:46 AM","6/30/24, 1:45 PM","6/30/24, 12:12 PM",,40.808708,-111.407486
+UT-Incident--180973,Incidents,SR 52,Utah County,SR 52 at MP 4,"Crash
+Both Directions SR 52 at MP 4 (1500 E Orem) Utah Co.
+Left Lane Closed
+Est. Clearance Time: 12:45 PM","6/30/24, 11:08 AM","6/30/24, 12:45 PM","6/30/24, 12:12 PM",,40.312841,-111.659302
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180976,Incidents,I-80 WB TO SR 201 WB RAMP,Salt Lake County,I-80 WB TO SR 201 WB RAMP at SR 201 WB,"Crash
 WB I-80 To WB SR-201 Ramp Salt Lake Co.
 Est. Clearance Time: 1:30 PM","6/30/24, 12:23 PM","6/30/24, 1:30 PM","6/30/24, 12:23 PM",,40.719848,-111.904528
@@ -28244,7 +28248,3 @@ Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM"
 UT-Incident--180975,Incidents,SR 43,Daggett County,SR 43 at MP 7,"Crash
 SR 43 at MP 7 (1 Mi W of Manila) Daggett Co.
 Est. Clearance Time: 1:00 PM","6/30/24, 12:02 PM","6/30/24, 1:00 PM","6/30/24, 12:02 PM",,40.983959,-109.738375
-UT-Incident--180973,Incidents,SR 52,Utah County,SR 52 at MP 4,"Crash
-Both Directions SR 52 at MP 4 (1500 E Orem) Utah Co.
-Left Lane Closed
-Est. Clearance Time: 12:45 PM","6/30/24, 11:08 AM","6/30/24, 12:45 PM","6/30/24, 12:12 PM",,40.312841,-111.659302
