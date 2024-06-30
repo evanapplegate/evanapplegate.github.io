@@ -28191,11 +28191,19 @@ SB I-215 W at MP 23 (700 N) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6/30/2024 12:00 AM","6/29/24, 11:00 PM","6/30/24, 12:00 AM","6/29/24, 11:00 PM",,40.775011,-111.949343
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180965,Incidents,I-15,Iron County,I-15 at MP 69,"Debris
 SB I-15 at MP 69 (5 mi N of Cedar City) Iron Co.
 Right Shoulder
 Est. Clearance Time: 6/30/2024 12:25 AM","6/29/24, 11:26 PM","6/30/24, 12:25 AM","6/29/24, 11:26 PM",,37.791425,-112.96498
+UT-Incident--180967,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Stalled Vehicle
+WB SR 201 at MP 8 (7200 W) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 1:11 AM","6/30/24, 12:12 AM","6/30/24, 1:11 AM","6/30/24, 12:12 AM",,40.718237,-112.076122
+UT-Incident--180964,Incidents,SR 56,Iron County,SR 56 at MP 45,"Crash
+Other SR 56 at MP 45 (11 Mi W of Cedar City) Iron Co.
+Right Shoulder
+Est. Clearance Time: 6/30/2024 12:24 AM","6/29/24, 11:25 PM","6/30/24, 12:24 AM","6/29/24, 11:26 PM",,37.61508,-113.337687
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180966,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Crash
 NB I-15 at MP 307 (600 S) Salt Lake Co.
 2 Left Lanes Closed
@@ -28211,15 +28219,6 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","6/30/24, 10:06 PM","6/29/24, 10:08 AM",,40.322345,-111.902462
-UT-Incident--180967,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Stalled Vehicle
-WB SR 201 at MP 8 (7200 W) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 1:11 AM","6/30/24, 12:12 AM","6/30/24, 1:11 AM","6/30/24, 12:12 AM",,40.718237,-112.076122
-UT-Incident--180964,Incidents,SR 56,Iron County,SR 56 at MP 45,"Crash
-Other SR 56 at MP 45 (11 Mi W of Cedar City) Iron Co.
-Right Shoulder
-Est. Clearance Time: 6/30/2024 12:24 AM","6/29/24, 11:25 PM","6/30/24, 12:24 AM","6/29/24, 11:26 PM",,37.61508,-113.337687
-UT-Incident--180969,Incidents,US 6,Utah County,US 6 at MP 154,"Crash
-Other US 6 at MP 154 (1 Mile East of Goshen) Utah Co.
-Right Shoulder
-Est. Clearance Time: 2:01 AM","6/30/24, 1:01 AM","6/30/24, 2:01 AM","6/30/24, 1:01 AM",,39.956854,-111.879727
+UT-Incident--180969,Incidents,US 6,Utah County,US 6 at MP 154,"Other US 6 Closed
+ at MP 154 (1 Mile East of Goshen) Utah Co.
+Use Alt Route","6/30/24, 1:01 AM","6/30/24, 2:01 AM","6/30/24, 1:23 AM",,39.956854,-111.879727
