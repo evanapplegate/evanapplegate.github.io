@@ -28151,7 +28151,6 @@ SB SR 204 at MP 3 (20th St) Weber Co.
 Right Lane Closed
 Est. Clearance Time: 2:43 PM","6/29/24, 1:44 PM","6/29/24, 2:43 PM","6/29/24, 1:44 PM",,41.236118,-111.978536
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180954,Incidents,I-15,Utah County,I-15 at MP 279,"Crash
 Ramp I-15 at MP 279 (Main St, Lehi) Utah Co.
 Right Shoulder
@@ -28160,6 +28159,15 @@ UT-Incident--180955,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:55 PM","6/29/24, 4:55 PM","6/29/24, 5:55 PM","6/29/24, 4:55 PM",,40.718459,-111.873941
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180958,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Vehicle on fire
+SB I-15 at MP 307 (600 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 7:13 PM","6/29/24, 6:14 PM","6/29/24, 7:13 PM","6/29/24, 6:14 PM",,40.74966,-111.90976
+UT-Incident--180957,Incidents,I-80,Summit County,I-80 at MP 146,"Crash
+EB I-80 at MP 146 (West of US-40) Summit Co.
+Right Shoulder
+Est. Clearance Time: 6:45 PM","6/29/24, 5:45 PM","6/29/24, 6:45 PM","6/29/24, 5:45 PM",,40.725101,-111.511877
 UT-Incident--180956,Incidents,I-84,Weber County,I-84 at MP 82,"Crash
 WB I-84 at MP 82 (South Weber) Weber Co.
 Right Shoulder
