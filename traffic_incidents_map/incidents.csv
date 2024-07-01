@@ -28357,7 +28357,7 @@ Est. Clearance Time: 1:30 PM","7/1/24, 12:31 PM","7/1/24, 1:30 PM","7/1/24, 12:3
 UT-Incident--181014,Incidents,I-15,Davis County,I-15 at MP 319,"Crash
 SB I-15 at MP 319 (Parrish Ln) Davis Co.
 2 Left Lanes Closed
-Est. Clearance Time: 2:41 PM","7/1/24, 1:43 PM","7/1/24, 2:41 PM","7/1/24, 1:43 PM",,40.914229,-111.891449
+Est. Clearance Time: 3:41 PM","7/1/24, 1:43 PM","7/1/24, 3:41 PM","7/1/24, 2:27 PM",,40.914229,-111.891449
 UT-Incident--181010,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
 WB I-80 at MP 85 (Grantsville) Tooele Co.
 Right Lane Closed
@@ -28370,10 +28370,9 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","7/1/24, 10:06 PM","6/30/24, 9:49 PM",,40.322345,-111.902462
-UT-Incident--181013,Incidents,SR 36,Tooele County,SR 36 at MP 34,"Crash
-NB SR 36 at MP 34 (4 Mi S of Rush Valley) Tooele Co.
-Right Lane Closed
-Est. Clearance Time: 2:30 PM","7/1/24, 1:02 PM","7/1/24, 2:30 PM","7/1/24, 1:21 PM",,40.269019,-112.397416
+UT-Incident--181013,Incidents,SR 36,Tooele County,SR 36 at MP 34,"NB SR 36 Closed
+ at MP 34 (4 Mi S of Rush Valley) Tooele Co.
+Use Alt Route","7/1/24, 1:02 PM","7/1/24, 2:30 PM","7/1/24, 2:24 PM",,40.269019,-112.397416
 UT-Incident--181012,Incidents,US 40,Wasatch County,US 40 at MP 19,"Crash
 Both Directions US 40 at MP 19 (Heber) Wasatch Co.
 Right Shoulder
