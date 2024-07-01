@@ -28342,15 +28342,19 @@ UT-Incident--181006,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Cleared at 10:39 AM
 Est. Clearance Time: 11:10 AM","7/1/24, 10:07 AM","7/1/24, 11:10 AM","7/1/24, 10:39 AM",,40.707874,-111.90397
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181007,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 EB I-80 at MP 131 (Quarry) Salt Lake Co.
 Est. Clearance Time: 12:05 PM","7/1/24, 10:24 AM","7/1/24, 12:05 PM","7/1/24, 11:03 AM",,40.732387,-111.755095
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181008,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 SB I-15 at MP 296 (8000 S) Salt Lake Co.
 Right Shoulder
-Est. Clearance Time: 12:00 PM","7/1/24, 10:55 AM","7/1/24, 12:00 PM","7/1/24, 10:55 AM",,40.592858,-111.902495
+Est. Clearance Time: 12:30 PM","7/1/24, 10:55 AM","7/1/24, 12:30 PM","7/1/24, 11:46 AM",,40.592858,-111.902495
+UT-Incident--181010,Incidents,I-80,Tooele County,I-80 at MP 85,"Crash
+WB I-80 at MP 85 (Grantsville) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 12:56 PM","7/1/24, 11:58 AM","7/1/24, 12:56 PM","7/1/24, 11:58 AM",,40.703193,-112.499976
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
