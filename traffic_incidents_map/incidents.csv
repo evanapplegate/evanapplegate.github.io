@@ -28369,10 +28369,20 @@ WB I-80 at MP 85 (Grantsville) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","7/1/24, 11:58 AM","7/1/24, 3:00 PM",,,40.703193,-112.499976
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181013,Incidents,SR 36,Tooele County,SR 36 at MP 34,"Crash
+NB SR 36 at MP 34 (4 Mi S of Rush Valley) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 2:30 PM","7/1/24, 1:02 PM","7/1/24, 2:30 PM","7/1/24, 3:02 PM",,40.269019,-112.397416
+UT-Incident--181015,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
+US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
+Est. Clearance Time: 3:00 PM","7/1/24, 1:57 PM","7/1/24, 3:45 PM","7/1/24, 3:12 PM",,40.018787,-111.496233
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181017,Incidents,HWY 193,Davis County,HWY 193 at HILL FIELD RD/SOUTH GATE AVE,"Crash
 WB HWY 193 at HILL FIELD RD/SOUTH GATE AVE Davis Co.
 Est. Clearance Time: 4:10 PM","7/1/24, 3:11 PM","7/1/24, 4:10 PM","7/1/24, 3:11 PM",,41.103552,-111.97343
+UT-Incident--181018,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
+SB I-15 at MP 355 (Box Elder) Box Elder Co.
+Est. Clearance Time: 4:35 PM","7/1/24, 3:35 PM","7/1/24, 4:35 PM","7/1/24, 3:35 PM",,41.386011,-112.042059
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -28381,10 +28391,3 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","7/1/24, 10:06 PM","6/30/24, 9:49 PM",,40.322345,-111.902462
-UT-Incident--181013,Incidents,SR 36,Tooele County,SR 36 at MP 34,"Crash
-NB SR 36 at MP 34 (4 Mi S of Rush Valley) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 2:30 PM","7/1/24, 1:02 PM","7/1/24, 2:30 PM","7/1/24, 3:02 PM",,40.269019,-112.397416
-UT-Incident--181015,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
-US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
-Est. Clearance Time: 3:00 PM","7/1/24, 1:57 PM","7/1/24, 3:45 PM","7/1/24, 3:12 PM",,40.018787,-111.496233
