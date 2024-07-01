@@ -28273,7 +28273,6 @@ UT-Incident--180989,Incidents,I-15,Weber County,I-15 at MP 344,"Crash
 SB I-15 at MP 344 (24th St) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 8:20 PM","6/30/24, 7:21 PM","6/30/24, 8:20 PM","6/30/24, 7:23 PM",,41.230556,-112.01298
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180987,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
@@ -28282,6 +28281,7 @@ UT-Incident--180988,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 8:20 PM","6/30/24, 7:18 PM","6/30/24, 8:20 PM","6/30/24, 7:18 PM",,40.747119,-111.724705
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180991,Incidents,3100 S,Salt Lake County,3100 S at Bangerter Hwy,"Crash
 WB 3100 S Closed
