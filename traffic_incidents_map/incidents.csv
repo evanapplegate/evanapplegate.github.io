@@ -28356,7 +28356,6 @@ UT-Incident--181012,Incidents,US 40,Wasatch County,US 40 at MP 19,"Crash
 Both Directions US 40 at MP 19 (Heber) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 3:00 PM","7/1/24, 1:00 PM","7/1/24, 3:00 PM","7/1/24, 2:04 PM",,40.480704,-111.400864
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181016,Incidents,1820 S,Salt Lake County,1820 S at Bangerter Hwy/Bangerter SB Hwy,"Crash
 SB 1820 S at Bangerter Hwy/Bangerter SB Hwy Salt Lake Co.
 Right Shoulder
@@ -28369,6 +28368,7 @@ UT-Incident--181010,Incidents,I-80,Tooele County,I-80 at MP 85,"Road Debris
 WB I-80 at MP 85 (Grantsville) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:00 PM","7/1/24, 11:58 AM","7/1/24, 3:00 PM",,,40.703193,-112.499976
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181017,Incidents,HWY 193,Davis County,HWY 193 at HILL FIELD RD/SOUTH GATE AVE,"Crash
 WB HWY 193 at HILL FIELD RD/SOUTH GATE AVE Davis Co.
