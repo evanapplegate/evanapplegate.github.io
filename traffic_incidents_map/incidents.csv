@@ -28300,19 +28300,23 @@ Est. Clearance Time: 3:17 AM","7/1/24, 2:18 AM","7/1/24, 3:17 AM","7/1/24, 2:18 
 UT-Incident--180994,Incidents,I-80,Salt Lake County,I-80 at MP 131,"Crash
 WB I-80 at MP 131 (Quarry) Salt Lake Co.
 Est. Clearance Time: 7:40 AM","7/1/24, 6:04 AM","7/1/24, 7:40 AM","7/1/24, 7:06 AM",,40.732387,-111.755095
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180996,Incidents,I-15,Beaver County,I-15 at MP 121,"Crash
 NB I-15 at MP 121 (10 mi N of Beaver) Beaver Co.
 Est. Clearance Time: 8:40 AM","7/1/24, 7:35 AM","7/1/24, 8:40 AM","7/1/24, 7:35 AM",,38.424436,-112.646225
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--180998,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
+NB I-15 at MP 287 (15200 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 9:06 AM","7/1/24, 8:07 AM","7/1/24, 9:06 AM","7/1/24, 8:07 AM",,40.467787,-111.911227
+UT-Incident--180999,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
+SB Washington Blvd at 40th St (South Ogden) Weber Co.
+Right Lane Blocked
+Est. Clearance Time: 9:15 AM","7/1/24, 8:08 AM","7/1/24, 9:15 AM","7/1/24, 8:08 AM",,41.190174,-111.97118
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180995,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8500 S) Salt Lake Co.
 Left Shoulder of Collector
 Est. Clearance Time: 8:07 AM","7/1/24, 7:07 AM","7/1/24, 8:07 AM","7/1/24, 7:08 AM",,40.592858,-111.902495
-UT-Incident--180998,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
-NB I-15 at MP 287 (15200 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 9:06 AM","7/1/24, 8:07 AM","7/1/24, 9:06 AM","7/1/24, 8:07 AM",,40.467787,-111.911227
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -28321,7 +28325,3 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","7/1/24, 10:06 PM","6/30/24, 9:49 PM",,40.322345,-111.902462
-UT-Incident--180999,Incidents,Washington Blvd,Weber County,Washington Blvd at 40th St,"Crash
-SB Washington Blvd at 40th St (South Ogden) Weber Co.
-Right Lane Blocked
-Est. Clearance Time: 9:15 AM","7/1/24, 8:08 AM","7/1/24, 9:15 AM","7/1/24, 8:08 AM",,41.190174,-111.97118
