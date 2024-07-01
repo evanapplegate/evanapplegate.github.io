@@ -28391,16 +28391,20 @@ UT-Incident--181019,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","7/1/24, 3:58 PM","7/1/24, 5:00 PM","7/1/24, 3:58 PM",,40.161636,-111.646866
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181021,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
 SB I-15 at MP 350 (Farr West) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 5:21 PM","7/1/24, 4:22 PM","7/1/24, 5:21 PM","7/1/24, 4:23 PM",,41.315731,-112.026127
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181022,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 6:05 PM","7/1/24, 5:06 PM","7/1/24, 6:05 PM","7/1/24, 5:06 PM",,41.102376,-112.003101
+UT-Incident--181025,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 6:19 PM","7/1/24, 5:21 PM","7/1/24, 6:19 PM","7/1/24, 5:24 PM",,40.736823,-111.90475
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
