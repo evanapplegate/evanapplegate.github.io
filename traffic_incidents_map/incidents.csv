@@ -28312,7 +28312,6 @@ SB Washington Blvd at 40th St (South Ogden) Weber Co.
 Right Lane Blocked
 Est. Clearance Time: 9:15 AM","7/1/24, 8:08 AM","7/1/24, 9:15 AM","7/1/24, 8:08 AM",,41.190174,-111.97118
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180995,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8500 S) Salt Lake Co.
 Left Shoulder of Collector
@@ -28321,6 +28320,10 @@ UT-Incident--181000,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (7200 S Off-Ramp) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 9:36 AM","7/1/24, 8:37 AM","7/1/24, 9:36 AM","7/1/24, 8:37 AM",,,
+UT-Incident--181001,Incidents,I-84,Morgan County,I-84 at MP 111,"Crash
+WB I-84 at MP 111 (4 mi N of Henefer) Morgan Co.
+Est. Clearance Time: 9:52 AM","7/1/24, 8:53 AM","7/1/24, 9:52 AM","7/1/24, 8:53 AM",,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181002,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
@@ -28329,9 +28332,10 @@ UT-Incident--181003,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 NB I-15 at MP 298 (6600 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:17 AM","7/1/24, 9:18 AM","7/1/24, 10:17 AM","7/1/24, 9:20 AM",,40.621691,-111.903876
-UT-Incident--181001,Incidents,I-84,Morgan County,I-84 at MP 111,"Crash
-WB I-84 at MP 111 (4 mi N of Henefer) Morgan Co.
-Est. Clearance Time: 9:52 AM","7/1/24, 8:53 AM","7/1/24, 9:52 AM","7/1/24, 8:53 AM",,,
+UT-Incident--181004,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 10:25 AM","7/1/24, 9:22 AM","7/1/24, 10:25 AM","7/1/24, 9:22 AM",,40.63583,-111.905066
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
