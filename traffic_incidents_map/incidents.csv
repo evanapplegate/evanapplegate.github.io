@@ -28375,10 +28375,10 @@ Est. Clearance Time: 2:30 PM","7/1/24, 1:02 PM","7/1/24, 2:30 PM","7/1/24, 3:02 
 UT-Incident--181015,Incidents,US 6,Utah County,US 6 at MP 185,"Crash
 US 6 at MP 185 (1 Mi E of Diamond Fork Rd) Utah Co.
 Est. Clearance Time: 3:00 PM","7/1/24, 1:57 PM","7/1/24, 3:45 PM","7/1/24, 3:12 PM",,40.018787,-111.496233
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181017,Incidents,HWY 193,Davis County,HWY 193 at HILL FIELD RD/SOUTH GATE AVE,"Crash
 WB HWY 193 at HILL FIELD RD/SOUTH GATE AVE Davis Co.
 Est. Clearance Time: 4:10 PM","7/1/24, 3:11 PM","7/1/24, 4:10 PM","7/1/24, 3:11 PM",,41.103552,-111.97343
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181018,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
@@ -28387,6 +28387,16 @@ UT-Incident--181019,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","7/1/24, 3:58 PM","7/1/24, 5:00 PM","7/1/24, 3:58 PM",,40.161636,-111.646866
+UT-Incident--181021,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
+SB I-15 at MP 350 (Farr West) Weber Co.
+Left Lane Closed
+Est. Clearance Time: 5:21 PM","7/1/24, 4:22 PM","7/1/24, 5:21 PM","7/1/24, 4:23 PM",,41.315731,-112.026127
+UT-Incident--181020,Incidents,Mountain View Corridor Hwy,Salt Lake County,Mountain View Corridor Hwy at 3500 S,"Debris
+Mountain View Corridor Hwy at 3500 S
+Salt Lake Co.
+NB Right Lane Closed
+EB Center Lane Closed
+Est. Clearance Time: 5:00 PM","7/1/24, 4:15 PM","7/1/24, 5:00 PM","7/1/24, 4:15 PM",,0.0,0.0
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
