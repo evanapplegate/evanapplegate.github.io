@@ -28303,7 +28303,6 @@ Est. Clearance Time: 7:40 AM","7/1/24, 6:04 AM","7/1/24, 7:40 AM","7/1/24, 7:06 
 UT-Incident--180996,Incidents,I-15,Beaver County,I-15 at MP 121,"Crash
 NB I-15 at MP 121 (10 mi N of Beaver) Beaver Co.
 Est. Clearance Time: 8:40 AM","7/1/24, 7:35 AM","7/1/24, 8:40 AM","7/1/24, 7:35 AM",,38.424436,-112.646225
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180998,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Left Shoulder
@@ -28313,10 +28312,15 @@ SB Washington Blvd at 40th St (South Ogden) Weber Co.
 Right Lane Blocked
 Est. Clearance Time: 9:15 AM","7/1/24, 8:08 AM","7/1/24, 9:15 AM","7/1/24, 8:08 AM",,41.190174,-111.97118
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180995,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Crash
 NB I-15 at MP 296 (8500 S) Salt Lake Co.
 Left Shoulder of Collector
 Est. Clearance Time: 8:07 AM","7/1/24, 7:07 AM","7/1/24, 8:07 AM","7/1/24, 7:08 AM",,40.592858,-111.902495
+UT-Incident--181000,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
+SB I-15 at MP 298 (7200 S Off-Ramp) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 9:36 AM","7/1/24, 8:37 AM","7/1/24, 9:36 AM","7/1/24, 8:37 AM",,40.621691,-111.903876
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
