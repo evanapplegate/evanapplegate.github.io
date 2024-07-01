@@ -28387,7 +28387,6 @@ Salt Lake Co.
 NB Right Lane Closed
 EB Center Lane Closed
 Est. Clearance Time: 5:00 PM","7/1/24, 4:15 PM","7/1/24, 5:00 PM","7/1/24, 4:30 PM",,40.696603,-112.028153
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181019,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
@@ -28397,6 +28396,11 @@ UT-Incident--181021,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
 SB I-15 at MP 350 (Farr West) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 5:21 PM","7/1/24, 4:22 PM","7/1/24, 5:21 PM","7/1/24, 4:23 PM",,41.315731,-112.026127
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181022,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
+NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
+Right Shoulder
+Est. Clearance Time: 6:05 PM","7/1/24, 5:06 PM","7/1/24, 6:05 PM","7/1/24, 5:06 PM",,41.102376,-112.003101
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
@@ -28405,3 +28409,11 @@ UT-Incident--180942,Incidents,Redwood Rd,Utah County,Redwood Rd at MP 28,"Utilit
 SB Redwood Rd at MP 28 (Saratoga Springs) Utah Co.
 Right Lane Closed
 Est. Clearance Time: 6/30/2024 10:06 PM","6/29/24, 10:08 AM","7/1/24, 10:06 PM","6/30/24, 9:49 PM",,40.322345,-111.902462
+UT-Incident--181023,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 300 W,"Crash
+WB Riverdale Rd at 300 W Weber Co.
+Left Lane Closed
+Est. Clearance Time: 6:05 PM","7/1/24, 5:09 PM","7/1/24, 6:05 PM","7/1/24, 5:09 PM",,41.188751,-111.983123
+UT-Incident--181024,Incidents,SR 126,Weber County,SR 126 at MP 12,"Crash
+SB SR 126 at MP 12 (Commerce Way)
+Weber Co.
+Est. Clearance Time: 6:15 PM","7/1/24, 5:18 PM","7/1/24, 6:15 PM","7/1/24, 5:18 PM",,41.209126,-112.025803
