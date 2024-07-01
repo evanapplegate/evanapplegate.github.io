@@ -28381,7 +28381,6 @@ Est. Clearance Time: 4:10 PM","7/1/24, 3:11 PM","7/1/24, 4:10 PM","7/1/24, 3:11 
 UT-Incident--181018,Incidents,I-15,Box Elder County,I-15 at MP 355,"Crash
 SB I-15 at MP 355 (Box Elder) Box Elder Co.
 Est. Clearance Time: 4:35 PM","7/1/24, 3:35 PM","7/1/24, 4:35 PM","7/1/24, 3:35 PM",,41.386011,-112.042059
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181020,Incidents,3500 S,Salt Lake County,3500 S 5761,"Debris
 Mountain View Corridor Hwy at 3500 S
 Salt Lake Co.
@@ -28393,6 +28392,7 @@ UT-Incident--181019,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
 SB I-15 at MP 260 (400 S / Springville) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","7/1/24, 3:58 PM","7/1/24, 5:00 PM","7/1/24, 3:58 PM",,40.161636,-111.646866
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181021,Incidents,I-15,Weber County,I-15 at MP 350,"Crash
 SB I-15 at MP 350 (Farr West) Weber Co.
 Left Lane Closed
