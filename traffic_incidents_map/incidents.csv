@@ -28479,10 +28479,10 @@ Est. Clearance Time: 10:40 AM","7/2/24, 9:37 AM","7/2/24, 10:40 AM","7/2/24, 9:3
 UT-Incident--181049,Incidents,I-80,Tooele County,I-80 at MP 64,"Vehicle on fire
 EB I-80 at MP 64 (2 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 10:38 AM","7/2/24, 9:39 AM","7/2/24, 10:38 AM","7/2/24, 9:39 AM",,40.809856,-112.867
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181047,Incidents,SR 121,Uintah County,SR 121 at MP 14,"Crash
 SR 121 at MP 14 (3 Mi E of Neola) Uintah Co.
 Est. Clearance Time: 10:35 AM","7/2/24, 9:37 AM","7/2/24, 10:35 AM","7/2/24, 9:37 AM",,40.432889,-109.954255
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181050,Incidents,I-70,Sevier County,I-70 at MP 26,"Crash
 EB I-70 at MP 26 (11 Mi W of Richfield) Sevier Co.
@@ -28491,6 +28491,9 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
+UT-Incident--181051,Incidents,US 40,Duchesne County,US 40 at MP 93,"Crash
+Both Directions US 40 at MP 93 (3 mi W of Bridgeland) Duchesne Co.
+Est. Clearance Time: 12:35 PM","7/2/24, 11:36 AM","7/2/24, 12:35 PM","7/2/24, 11:36 AM",,40.164458,-110.284051
 UT-Incident--181044,Incidents,US 89,Garfield County,US 89 at MP 125,"Crash
 Both Directions US 89 at MP 125 (6 mi S of Panguitch) Garfield Co.
 Est. Clearance Time: 10:47 AM","7/2/24, 8:48 AM","7/2/24, 10:47 AM","7/2/24, 10:00 AM",,37.759615,-112.382972
