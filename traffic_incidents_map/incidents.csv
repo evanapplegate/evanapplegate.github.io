@@ -28460,7 +28460,6 @@ UT-Incident--181045,Incidents,I-80,Summit County,I-80 at MP 142,"Crash
 EB I-80 at MP 142 (Jeremy Ranch / Park City) Summit Co.
 Left Lane Closed
 Est. Clearance Time: 9:56 AM","7/2/24, 8:59 AM","7/2/24, 9:56 AM","7/2/24, 9:02 AM",,40.751955,-111.569589
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181042,Incidents,Wall Ave,Weber County,Wall Ave at 7th St,"Crash
 NB Wall Ave at 7th St Weber Co.
 Right Lane Closed
@@ -28474,10 +28473,14 @@ UT-Incident--181046,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
 NB I-15 at MP 308 (N Temple) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:34 AM","7/2/24, 9:34 AM","7/2/24, 10:34 AM","7/2/24, 9:34 AM",,40.763745,-111.914284
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181048,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 NB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:40 AM","7/2/24, 9:37 AM","7/2/24, 10:40 AM","7/2/24, 9:37 AM",,40.52103,-111.891246
+UT-Incident--181050,Incidents,I-70,Sevier County,I-70 at MP 26,"Crash
+EB I-70 at MP 26 (11 Mi W of Richfield) Sevier Co.
+Est. Clearance Time: 11:00 AM","7/2/24, 9:50 AM","7/2/24, 11:00 AM","7/2/24, 9:50 AM",,38.627929,-112.224583
 UT-Incident--181049,Incidents,I-80,Tooele County,I-80 at MP 64,"Vehicle on fire
 EB I-80 at MP 64 (2 mi E of Lakeside) Tooele Co.
 Est. Clearance Time: 10:38 AM","7/2/24, 9:39 AM","7/2/24, 10:38 AM","7/2/24, 9:39 AM",,40.809856,-112.867
@@ -28490,4 +28493,4 @@ SR 121 at MP 14 (3 Mi E of Neola) Uintah Co.
 Est. Clearance Time: 10:35 AM","7/2/24, 9:37 AM","7/2/24, 10:35 AM","7/2/24, 9:37 AM",,40.432889,-109.954255
 UT-Incident--181044,Incidents,US 89,Garfield County,US 89 at MP 125,"Crash
 Both Directions US 89 at MP 125 (6 mi S of Panguitch) Garfield Co.
-Est. Clearance Time: 9:47 AM","7/2/24, 8:48 AM","7/2/24, 9:47 AM","7/2/24, 8:59 AM",,37.759615,-112.382972
+Est. Clearance Time: 10:47 AM","7/2/24, 8:48 AM","7/2/24, 10:47 AM","7/2/24, 10:00 AM",,37.759615,-112.382972
