@@ -28399,7 +28399,6 @@ UT-Incident--181023,Incidents,Riverdale Rd,Weber County,Riverdale Rd at 300 W,"C
 WB Riverdale Rd at 300 W Weber Co.
 Left Lane Closed
 Est. Clearance Time: 6:05 PM","7/1/24, 5:09 PM","7/1/24, 6:05 PM","7/1/24, 5:09 PM",,41.188751,-111.983123
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181022,Incidents,I-15,Davis County,I-15 at MP 334,"Crash
 NB I-15 at MP 334 (Center St, Clrfld) Davis Co.
 Right Shoulder
@@ -28412,6 +28411,7 @@ UT-Incident--181024,Incidents,SR 126,Weber County,SR 126 at MP 12,"Crash
 SB SR 126 at MP 12 (Commerce Way)
 Weber Co.
 Est. Clearance Time: 6:15 PM","7/1/24, 5:18 PM","7/1/24, 6:15 PM","7/1/24, 5:18 PM",,41.209126,-112.025803
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
