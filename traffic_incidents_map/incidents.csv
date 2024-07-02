@@ -28504,11 +28504,11 @@ Est. Clearance Time: 3:00 PM","7/2/24, 1:27 PM","7/2/24, 3:00 PM",,,40.722924,-1
 UT-Incident--181051,Incidents,US 40,Duchesne County,US 40 at MP 93,"Crash
 Both Directions US 40 at MP 93 (3 mi W of Bridgeland) Duchesne Co.
 Est. Clearance Time: 12:35 PM","7/2/24, 11:36 AM","7/2/24, 12:35 PM","7/2/24, 11:36 AM",,40.164458,-110.284051
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181058,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Crash
 SB I-15 at MP 298 (6600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","7/2/24, 3:54 PM","7/2/24, 5:00 PM","7/2/24, 3:54 PM",,40.621691,-111.903876
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181059,Incidents,I-15,Davis County,I-15 at MP 335,"Vehicle on fire
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
@@ -28518,6 +28518,13 @@ UT-Incident--181060,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","7/2/24, 4:03 PM","7/2/24, 5:15 PM","7/2/24, 4:03 PM",,40.831692,-111.91596
+UT-Incident--181062,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
+NB I-15 at MP 276 (500 E / American Fork) Utah Co.
+Offramp
+Est. Clearance Time: 5:45 PM","7/2/24, 4:33 PM","7/2/24, 5:45 PM","7/2/24, 4:33 PM",,40.355866,-111.778344
+UT-Incident--181061,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
+WB I-80 at MP 137 (Lambs Canyon Onramp) Salt Lake Co.
+Est. Clearance Time: 5:30 PM","7/2/24, 4:31 PM","7/2/24, 5:30 PM","7/2/24, 4:31 PM",,40.74385,-111.657734
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
