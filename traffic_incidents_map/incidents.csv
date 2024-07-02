@@ -28453,11 +28453,15 @@ UT-Incident--181037,Incidents,US 89,Utah County,US 89 at MP 303,"Crash
 US 89 at MP 303 (2 miles S of Birdseye) Utah Co.
 Est. Clearance Time: 8:00 AM","7/2/24, 6:57 AM","7/2/24, 8:00 AM","7/2/24, 6:57 AM",,39.89093,-111.54869
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181039,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 9:10 AM","7/2/24, 7:41 AM","7/2/24, 9:10 AM","7/2/24, 8:18 AM",,40.607173,-111.905403
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181043,Incidents,I-15,Salt Lake County,I-15 at MP 292,"Crash
+NB I-15 at MP 292 (11400 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 9:38 AM","7/2/24, 8:40 AM","7/2/24, 9:38 AM","7/2/24, 8:40 AM",,40.53585,-111.892927
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
