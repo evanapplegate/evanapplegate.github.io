@@ -28524,7 +28524,6 @@ UT-Incident--181063,Incidents,SR 52,Utah County,SR 52 at MP 1,"Crash
 WB SR 52 at MP 1 (800 W Orem) Utah Co.
 Left Lane Closed
 Est. Clearance Time: 5:30 PM","7/2/24, 4:35 PM","7/2/24, 5:30 PM","7/2/24, 4:36 PM",,40.312007,-111.715757
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181064,Incidents,I-80,Salt Lake County,I-80 at MP 116,"Crash
 EB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.
 Right Shoulder
@@ -28532,6 +28531,7 @@ Est. Clearance Time: 6:00 PM","7/2/24, 4:48 PM","7/2/24, 6:00 PM","7/2/24, 4:48 
 UT-Incident--181057,Incidents,SR 30,Box Elder County,SR 30 at MP 71,"Crash
 Both Directions SR 30 at MP 71 (19 Mi W of Snowville) Box Elder Co.
 Est. Clearance Time: 3:22 PM","7/2/24, 2:22 PM","7/2/24, 3:22 PM","7/2/24, 2:23 PM",,41.919565,-113.095823
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181061,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (Lambs Canyon Onramp) Salt Lake Co.
