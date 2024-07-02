@@ -28495,10 +28495,10 @@ UT-Incident--181054,Incidents,US 91,Box Elder County,US 91 at Medical Dr,"Stalle
 EB US 91 at Medical Dr Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 1:50 PM","7/2/24, 12:51 PM","7/2/24, 1:50 PM","7/2/24, 12:51 PM",,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181053,Incidents,US 189,Wasatch County,US 189 at MP 15,"Vehicle on fire
 NB US 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.
 Est. Clearance Time: 2:00 PM","7/2/24, 12:50 PM","7/2/24, 2:00 PM","7/2/24, 12:50 PM",,40.375381,-111.556028
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
