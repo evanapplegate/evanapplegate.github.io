@@ -28645,6 +28645,10 @@ SB SR 36 at MP 57 (Tooele) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 3:35 PM","7/3/24, 2:31 PM","7/3/24, 3:35 PM","7/3/24, 2:31 PM",,40.568696,-112.295673
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181101,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
+SB I-15 at MP 301 (4500 S) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 4:35 PM","7/3/24, 3:24 PM","7/3/24, 4:35 PM","7/3/24, 3:24 PM",,40.664677,-111.90152
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 12:54 PM",,37.330274,-113.282856
@@ -28652,10 +28656,6 @@ UT-Incident--181099,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 3:45 PM","7/3/24, 2:36 PM","7/3/24, 3:45 PM","7/3/24, 2:36 PM",,40.467787,-111.911227
-UT-Incident--181101,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Stalled Vehicle
-SB I-15 at MP 301 (4500 S) Salt Lake Co.
-Center Lane Closed
-Est. Clearance Time: 4:35 PM","7/3/24, 3:24 PM","7/3/24, 4:35 PM","7/3/24, 3:24 PM",,40.664677,-111.90152
 UT-Incident--181102,Incidents,I-15,Washington County,I-15 at MP 29,"Crash
 NB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
 Est. Clearance Time: 4:35 PM","7/3/24, 3:28 PM","7/3/24, 4:35 PM","7/3/24, 3:28 PM",,37.304053,-113.299211
@@ -28663,3 +28663,6 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
+UT-Incident--181103,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
+Both Directions US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
+Est. Clearance Time: 5:15 PM","7/3/24, 4:02 PM","7/3/24, 5:15 PM","7/3/24, 4:02 PM",,40.484644,-111.426263
