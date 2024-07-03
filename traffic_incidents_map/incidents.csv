@@ -28611,7 +28611,6 @@ UT-Incident--181090,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:28 AM","7/3/24, 9:31 AM","7/3/24, 10:28 AM","7/3/24, 10:13 AM",,40.679062,-111.902181
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181091,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
 NB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
 Right Shoulder
@@ -28620,12 +28619,13 @@ UT-Incident--181092,Incidents,US 89,Box Elder County,US 89 at Hwy 126,"Crash
 NB US 89 at Hwy 126 Box Elder Co.
 Est. Clearance Time: 11:54 AM","7/3/24, 10:55 AM","7/3/24, 11:54 AM","7/3/24, 10:55 AM",,41.346492,-112.033376
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
 UT-Incident--181093,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 SB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
-2 Left Lanes Closed
-Est. Clearance Time: 12:30 PM","7/3/24, 11:27 AM","7/3/24, 12:30 PM","7/3/24, 11:41 AM",,40.215696,-111.665414
+Left Shoulder
+Est. Clearance Time: 12:30 PM","7/3/24, 11:27 AM","7/3/24, 12:30 PM","7/3/24, 12:06 PM",,40.215696,-111.665414
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
