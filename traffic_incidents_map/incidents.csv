@@ -28575,7 +28575,6 @@ UT-Incident--181078,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:31 PM","7/2/24, 10:32 PM","7/2/24, 11:31 PM","7/2/24, 10:50 PM",,41.115038,-112.014069
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181079,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
@@ -28583,6 +28582,7 @@ Est. Clearance Time: 7/3/2024 12:00 AM","7/2/24, 10:57 PM","7/3/24, 12:00 AM","7
 UT-Incident--181081,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
 EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
 Est. Clearance Time: 7/3/2024 12:00 AM","7/2/24, 11:01 PM","7/3/24, 12:00 AM","7/2/24, 11:01 PM",,40.678514,-112.410689
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181082,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 1820 S/Bangerter SB Hwy,"Crash
 Both Directions Bangerter Hwy at 1820 S, Salt Lake Co.
