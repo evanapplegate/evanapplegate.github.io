@@ -28599,11 +28599,11 @@ Est. Clearance Time: 6:50 AM","7/3/24, 5:47 AM","7/3/24, 6:50 AM","7/3/24, 6:02 
 UT-Incident--181086,Incidents,SR 248,Wasatch County,SR 248 at MP 9,"Crash
 Both Directions SR 248 at MP 9 (Tuhaye Park Dr) Wasatch Co.
 Est. Clearance Time: 8:05 AM","7/3/24, 7:05 AM","7/3/24, 8:05 AM","7/3/24, 7:05 AM",,40.633814,-111.38386
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181089,Incidents,I-15 NB 12300 S Off Ramp,Salt Lake County,I-15 NB 12300 S Off Ramp at 12300 S,"Abandoned Vehicle
 NB I-15 12300 S Off Ramp at 12300 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:30 AM","7/3/24, 9:24 AM","7/3/24, 10:30 AM","7/3/24, 9:24 AM",,40.52224,-111.890964
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
@@ -28615,6 +28615,10 @@ UT-Incident--181090,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:28 AM","7/3/24, 9:31 AM","7/3/24, 10:28 AM","7/3/24, 10:13 AM",,40.679062,-111.902181
+UT-Incident--181091,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
+NB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
+Right Shoulder
+Est. Clearance Time: 11:34 AM","7/3/24, 10:36 AM","7/3/24, 11:34 AM","7/3/24, 10:36 AM",,38.146484,-112.614659
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
