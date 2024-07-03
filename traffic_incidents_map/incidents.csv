@@ -28545,7 +28545,6 @@ Est. Clearance Time: 6:30 PM","7/2/24, 5:31 PM","7/2/24, 6:30 PM","7/2/24, 5:35 
 UT-Incident--181066,Incidents,SR 130,Iron County,SR 130 at MP 6,"Crash
 Both Directions SR 130 at MP 6 (Canyon Ranch Drive) Iron Co.
 Est. Clearance Time: 6:30 PM","7/2/24, 5:34 PM","7/2/24, 6:30 PM","7/2/24, 5:34 PM",,37.726761,-113.050432
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181067,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Left Shoulder
@@ -28561,6 +28560,7 @@ Est. Clearance Time: 7:30 PM","7/2/24, 6:20 PM","7/2/24, 7:30 PM","7/2/24, 6:20 
 UT-Incident--181071,Incidents,SR 199,Tooele County,SR 199 at MP 20,"Crash
 Both Directions SR 199 at MP 20 (Rush Valley) Tooele Co.
 Est. Clearance Time: 7:15 PM","7/2/24, 6:02 PM","7/2/24, 7:15 PM","7/2/24, 6:02 PM",,40.336636,-112.446631
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181075,Incidents,I-80,Tooele County,I-80 at MP 53,"Fire affecting roadway
 WB I-80 at MP 53 (12 mi E of Knolls) Tooele Co.
