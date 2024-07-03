@@ -28531,31 +28531,38 @@ Est. Clearance Time: 6:00 PM","7/2/24, 4:48 PM","7/2/24, 6:00 PM","7/2/24, 4:48 
 UT-Incident--181057,Incidents,SR 30,Box Elder County,SR 30 at MP 71,"Crash
 Both Directions SR 30 at MP 71 (19 Mi W of Snowville) Box Elder Co.
 Est. Clearance Time: 3:22 PM","7/2/24, 2:22 PM","7/2/24, 3:22 PM","7/2/24, 2:23 PM",,41.919565,-113.095823
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181061,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (Lambs Canyon Onramp) Salt Lake Co.
 Est. Clearance Time: 5:30 PM","7/2/24, 4:31 PM","7/2/24, 5:30 PM","7/2/24, 4:31 PM",,40.74385,-111.657734
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181069,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
+SB I-15 at MP 291 (12300 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:45 PM","7/2/24, 5:42 PM","7/2/24, 6:45 PM","7/2/24, 5:42 PM",,40.52103,-111.891246
+UT-Incident--181065,Incidents,MAIN ST,Wasatch County,MAIN ST 1001,"Crash
+NB Main St at 1000 S Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","7/2/24, 5:31 PM","7/2/24, 6:30 PM","7/2/24, 5:35 PM",,40.496045,-111.413511
+UT-Incident--181066,Incidents,SR 130,Iron County,SR 130 at MP 6,"Crash
+Both Directions SR 130 at MP 6 (Canyon Ranch Drive) Iron Co.
+Est. Clearance Time: 6:30 PM","7/2/24, 5:34 PM","7/2/24, 6:30 PM","7/2/24, 5:34 PM",,37.726761,-113.050432
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181067,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 SB I-15 at MP 275 (PG Blvd) Utah Co.
 Left Shoulder
 Est. Clearance Time: 6:45 PM","7/2/24, 5:36 PM","7/2/24, 6:45 PM","7/2/24, 5:36 PM",,40.346539,-111.763778
-UT-Incident--181069,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
-SB I-15 at MP 291 (12300 S) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:45 PM","7/2/24, 5:42 PM","7/2/24, 6:45 PM","7/2/24, 5:42 PM",,40.52103,-111.891246
 UT-Incident--181068,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","7/2/24, 5:39 PM","7/2/24, 6:45 PM","7/2/24, 5:39 PM",,40.746426,-111.949053
-UT-Incident--181065,Incidents,MAIN ST,Wasatch County,MAIN ST 1001,"Crash
-NB Main St at 1000 S Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 6:30 PM","7/2/24, 5:31 PM","7/2/24, 6:30 PM","7/2/24, 5:35 PM",,40.496045,-111.413511
+UT-Incident--181072,Incidents,Main St,Wasatch County,Main St at Center St,"Stalled Vehicle
+SB Main St at Center St Wasatch Co.
+Left Lane Closed
+Est. Clearance Time: 7:30 PM","7/2/24, 6:20 PM","7/2/24, 7:30 PM","7/2/24, 6:20 PM",,40.507634,-111.413486
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
-UT-Incident--181066,Incidents,SR 130,Iron County,SR 130 at MP 6,"Crash
-Both Directions SR 130 at MP 6 (Canyon Ranch Drive) Iron Co.
-Est. Clearance Time: 6:30 PM","7/2/24, 5:34 PM","7/2/24, 6:30 PM","7/2/24, 5:34 PM",,37.726761,-113.050432
+UT-Incident--181071,Incidents,SR 199,Tooele County,SR 199 at MP 20,"Crash
+Both Directions SR 199 at MP 20 (Rush Valley) Tooele Co.
+Est. Clearance Time: 7:15 PM","7/2/24, 6:02 PM","7/2/24, 7:15 PM","7/2/24, 6:02 PM",,40.336636,-112.446631
