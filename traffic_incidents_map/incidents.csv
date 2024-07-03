@@ -28596,14 +28596,15 @@ Est. Clearance Time: 6:00 AM","7/3/24, 4:29 AM","7/3/24, 6:00 AM","7/3/24, 5:21 
 UT-Incident--181085,Incidents,I-15,Davis County,I-15 at MP 326,"Crash
 SB I-15 at MP 326 (Kysvll) Davis Co.
 Est. Clearance Time: 6:50 AM","7/3/24, 5:47 AM","7/3/24, 6:50 AM","7/3/24, 6:02 AM",,41.00356,-111.928848
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181086,Incidents,SR 248,Wasatch County,SR 248 at MP 9,"Crash
 Both Directions SR 248 at MP 9 (Tuhaye Park Dr) Wasatch Co.
 Est. Clearance Time: 8:05 AM","7/3/24, 7:05 AM","7/3/24, 8:05 AM","7/3/24, 7:05 AM",,40.633814,-111.38386
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Crash
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (8 mi N of Leeds) Washington Co.
-Est. Clearance Time: 10:00 AM","7/3/24, 7:51 AM","7/3/24, 10:00 AM","7/3/24, 7:51 AM",,37.330274,-113.282856
+Right Lane Closed
+Est. Clearance Time: 10:00 AM","7/3/24, 7:51 AM","7/3/24, 10:00 AM","7/3/24, 8:23 AM",,37.330274,-113.282856
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
