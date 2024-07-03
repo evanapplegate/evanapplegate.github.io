@@ -28658,9 +28658,9 @@ Est. Clearance Time: 3:45 PM","7/3/24, 2:36 PM","7/3/24, 3:45 PM","7/3/24, 2:36 
 UT-Incident--181103,Incidents,US 189,Wasatch County,US 189 at MP 28,"Crash
 Both Directions US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
 Est. Clearance Time: 5:15 PM","7/3/24, 4:02 PM","7/3/24, 5:15 PM","7/3/24, 4:02 PM",,40.484644,-111.426263
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 12:54 PM",,37.330274,-113.282856
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181107,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
 Both Directions 1900 W at Midland Dr Weber Co.
@@ -28670,6 +28670,9 @@ UT-Incident--181106,Incidents,I-15,Weber County,I-15 at MP 339,"Lane Closure
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Left Lane Closed
 Est. Clearance Time: 5:45 PM","7/3/24, 4:41 PM","7/3/24, 5:45 PM","7/3/24, 4:41 PM",,41.169225,-112.020449
+UT-Incident--181109,Incidents,I-15,Box Elder County,I-15 at MP 388,"Crash
+SB I-15 at MP 388 (Plymouth) Box Elder Co.
+Est. Clearance Time: 6:30 PM","7/3/24, 5:21 PM","7/3/24, 6:30 PM","7/3/24, 5:21 PM",,41.823458,-112.179901
 UT-Incident--181104,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
@@ -28678,6 +28681,9 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
+UT-Incident--181108,Incidents,US 6,Utah County,US 6 at MP 174,"Crash
+NB US 6 at Canyon Creek Parkway (Utah Co.)
+Est. Clearance Time: 6:11 PM","7/3/24, 5:12 PM","7/3/24, 6:11 PM","7/3/24, 5:14 PM",,40.119015,-111.638342
 UT-Incident--181105,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
 WB US 91 at MP 1 (400 W Brigham City) Box Elder Co.
 Right Lane Closed
