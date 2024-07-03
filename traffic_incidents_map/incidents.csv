@@ -28651,7 +28651,6 @@ Est. Clearance Time: 4:35 PM","7/3/24, 3:24 PM","7/3/24, 4:35 PM","7/3/24, 3:24 
 UT-Incident--181102,Incidents,I-15,Washington County,I-15 at MP 29,"Crash
 NB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
 Est. Clearance Time: 4:35 PM","7/3/24, 3:28 PM","7/3/24, 4:35 PM","7/3/24, 3:28 PM",,37.304053,-113.299211
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181099,Incidents,I-15,Salt Lake County,I-15 at MP 287,"Crash
 NB I-15 at MP 287 (15200 S) Salt Lake Co.
 Right Lane Closed
@@ -28662,6 +28661,11 @@ Est. Clearance Time: 5:15 PM","7/3/24, 4:02 PM","7/3/24, 5:15 PM","7/3/24, 4:02 
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 12:54 PM",,37.330274,-113.282856
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181107,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
+Both Directions 1900 W at Midland Dr Weber Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6:15 PM","7/3/24, 5:03 PM","7/3/24, 6:15 PM","7/3/24, 5:03 PM",,41.205374,-112.025826
 UT-Incident--181106,Incidents,I-15,Weber County,I-15 at MP 339,"Lane Closure
 SB I-15 at MP 339 (Riverdale Rd/SR-26) Weber Co.
 Left Lane Closed
