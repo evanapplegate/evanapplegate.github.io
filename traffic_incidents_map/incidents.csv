@@ -28564,10 +28564,10 @@ UT-Incident--181075,Incidents,I-80,Tooele County,I-80 at MP 53,"Fire affecting r
 WB I-80 at MP 53 (12 mi E of Knolls) Tooele Co.
 Right Lane Closed
 Est. Clearance Time: 10:00 PM","7/2/24, 7:28 PM","7/2/24, 10:00 PM","7/2/24, 7:28 PM",,40.752012,-113.042631
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181076,Incidents,US 91,Box Elder County,US 91 at MP 0,"Crash
 EB US 91 at MP 0 (I-15/1100 S Jct) Box Elder Co.
 Est. Clearance Time: 11:00 PM","7/2/24, 9:56 PM","7/2/24, 11:00 PM","7/2/24, 9:56 PM",,41.485614,-112.054142
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181077,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 NB I-15 at University Ave On Ramp (MP 264 / Provo) Utah Co.
@@ -28575,7 +28575,15 @@ Left Shoulder
 Est. Clearance Time: 11:03 PM","7/2/24, 10:04 PM","7/2/24, 11:03 PM","7/2/24, 10:04 PM",,40.212155,-111.662234
 UT-Incident--181078,Incidents,I-15,Davis County,I-15 at MP 335,"Crash
 NB I-15 at MP 335 (650 N Clrfld) Davis Co.
-Est. Clearance Time: 11:31 PM","7/2/24, 10:32 PM","7/2/24, 11:31 PM","7/2/24, 10:32 PM",,41.115038,-112.014069
+Right Shoulder
+Est. Clearance Time: 11:31 PM","7/2/24, 10:32 PM","7/2/24, 11:31 PM","7/2/24, 10:50 PM",,41.115038,-112.014069
+UT-Incident--181079,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
+NB I-215 W at MP 21 (900 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7/3/2024 12:00 AM","7/2/24, 10:57 PM","7/3/24, 12:00 AM","7/2/24, 10:57 PM",,40.746426,-111.949053
+UT-Incident--181081,Incidents,I-80,Tooele County,I-80 at MP 90,"Crash
+EB I-80 at MP 90 (1 mi E of Grantsville) Tooele Co.
+Est. Clearance Time: 7/3/2024 12:00 AM","7/2/24, 11:01 PM","7/3/24, 12:00 AM","7/2/24, 11:01 PM",,40.678514,-112.410689
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
