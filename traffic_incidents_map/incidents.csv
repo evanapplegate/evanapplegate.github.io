@@ -28604,9 +28604,6 @@ NB I-15 12300 S Off Ramp at 12300 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:30 AM","7/3/24, 9:24 AM","7/3/24, 10:30 AM","7/3/24, 9:24 AM",,40.52224,-111.890964
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
-NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
 UT-Incident--181088,Incidents,I-15,Utah County,I-15 at MP 275,"Crash
 NB I-15 at MP 275 (PG Blvd) Utah Co.
 Right Lane Closed
@@ -28615,6 +28612,9 @@ UT-Incident--181090,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
 NB I-15 at MP 302 (4100 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 10:28 AM","7/3/24, 9:31 AM","7/3/24, 10:28 AM","7/3/24, 10:13 AM",,40.679062,-111.902181
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
+NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
 UT-Incident--181091,Incidents,I-15,Iron County,I-15 at MP 101,"Crash
 NB I-15 at MP 101 (7 mi S of Beaver) Iron Co.
 Right Shoulder
