@@ -28622,13 +28622,17 @@ UT-Incident--181093,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 SB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","7/3/24, 11:27 AM","7/3/24, 12:30 PM","7/3/24, 12:06 PM",,40.215696,-111.665414
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181094,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Est. Clearance Time: 1:14 PM","7/3/24, 12:19 PM","7/3/24, 1:14 PM","7/3/24, 12:19 PM",,40.72606,-111.962907
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 12:54 PM",,37.330274,-113.282856
+UT-Incident--181097,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
+NB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 2:09 PM","7/3/24, 1:11 PM","7/3/24, 2:09 PM","7/3/24, 1:11 PM",,40.63583,-111.905066
 UT-Incident--181096,Incidents,I-80,Summit County,I-80 at MP 139,"Crash
 NB I-80 at MP 139 (Parley Summit / Park City) Summit Co.
 Right Shoulder
