@@ -28619,13 +28619,13 @@ UT-Incident--181092,Incidents,US 89,Box Elder County,US 89 at Hwy 126,"Crash
 NB US 89 at Hwy 126 Box Elder Co.
 Est. Clearance Time: 11:54 AM","7/3/24, 10:55 AM","7/3/24, 11:54 AM","7/3/24, 10:55 AM",,41.346492,-112.033376
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
-NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
 UT-Incident--181093,Incidents,I-15,Utah County,I-15 at MP 264,"Crash
 SB I-15 at MP 264 (N of Univ Ave / Provo) Utah Co.
 Left Shoulder
 Est. Clearance Time: 12:30 PM","7/3/24, 11:27 AM","7/3/24, 12:30 PM","7/3/24, 12:06 PM",,40.215696,-111.665414
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
+NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 8:38 AM",,37.330274,-113.282856
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
