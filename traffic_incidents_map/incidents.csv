@@ -28534,7 +28534,6 @@ Est. Clearance Time: 3:22 PM","7/2/24, 2:22 PM","7/2/24, 3:22 PM","7/2/24, 2:23 
 UT-Incident--181061,Incidents,I-80,Salt Lake County,I-80 at MP 137,"Crash
 WB I-80 at MP 137 (Lambs Canyon Onramp) Salt Lake Co.
 Est. Clearance Time: 5:30 PM","7/2/24, 4:31 PM","7/2/24, 5:30 PM","7/2/24, 4:31 PM",,40.74385,-111.657734
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181069,Incidents,I-15,Salt Lake County,I-15 at MP 291,"Crash
 SB I-15 at MP 291 (12300 S) Salt Lake Co.
 Left Shoulder
@@ -28559,10 +28558,15 @@ UT-Incident--181072,Incidents,Main St,Wasatch County,Main St at Center St,"Stall
 SB Main St at Center St Wasatch Co.
 Left Lane Closed
 Est. Clearance Time: 7:30 PM","7/2/24, 6:20 PM","7/2/24, 7:30 PM","7/2/24, 6:20 PM",,40.507634,-111.413486
+UT-Incident--181071,Incidents,SR 199,Tooele County,SR 199 at MP 20,"Crash
+Both Directions SR 199 at MP 20 (Rush Valley) Tooele Co.
+Est. Clearance Time: 7:15 PM","7/2/24, 6:02 PM","7/2/24, 7:15 PM","7/2/24, 6:02 PM",,40.336636,-112.446631
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181075,Incidents,I-80,Tooele County,I-80 at MP 53,"Fire affecting roadway
+WB I-80 at MP 53 (12 mi E of Knolls) Tooele Co.
+Right Lane Closed
+Est. Clearance Time: 10:00 PM","7/2/24, 7:28 PM","7/2/24, 10:00 PM","7/2/24, 7:28 PM",,40.752012,-113.042631
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
-UT-Incident--181071,Incidents,SR 199,Tooele County,SR 199 at MP 20,"Crash
-Both Directions SR 199 at MP 20 (Rush Valley) Tooele Co.
-Est. Clearance Time: 7:15 PM","7/2/24, 6:02 PM","7/2/24, 7:15 PM","7/2/24, 6:02 PM",,40.336636,-112.446631
