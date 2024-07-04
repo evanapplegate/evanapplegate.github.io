@@ -28757,7 +28757,6 @@ Est. Clearance Time: 11:36 AM","7/4/24, 10:37 AM","7/4/24, 11:36 AM","7/4/24, 10
 UT-Incident--181134,Incidents,US 91,Box Elder County,US 91 at MP 3,"Crash
 NB US 91 at MP 3 (2.5 MI from Mantua) Box Elder Co.
 Est. Clearance Time: 12:45 PM","7/4/24, 11:47 AM","7/4/24, 12:45 PM","7/4/24, 11:47 AM",,41.491609,-111.998676
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181135,Incidents,US 189,Wasatch County,US 189 at Main St,"Crash
 WB US 189 at Main St Wasatch Co.
 Right Lane Closed
@@ -28766,6 +28765,7 @@ UT-Incident--181133,Incidents,US 89,Utah County,US 89 13001,"Crash
 NB US 89 at US 6 (Thistle Jct) Utah Co.
 Left Turn Lane Closed
 Est. Clearance Time: 12:42 PM","7/4/24, 11:42 AM","7/4/24, 12:42 PM","7/4/24, 11:48 AM",,39.994944,-111.469055
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181136,Incidents,I-15,Washington County,I-15 at MP 40,"Fire affecting roadway
 NB I-15 at MP 40 (2 mi S of Kanarraville) Washington Co.
