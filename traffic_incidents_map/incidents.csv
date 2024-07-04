@@ -28672,7 +28672,6 @@ UT-Incident--181104,Incidents,I-215 S,Salt Lake County,I-215 S at MP 12,"Crash
 EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","7/3/24, 4:09 PM","7/3/24, 5:15 PM","7/3/24, 4:09 PM",,40.636258,-111.914012
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181110,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (400 e / Salt Lake City) Salt Lake Co.
 Right Shoulder
@@ -28707,6 +28706,7 @@ UT-Incident--181115,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
 NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","7/3/24, 6:21 PM","7/3/24, 7:35 PM","7/3/24, 6:21 PM",,37.972209,-112.742728
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
