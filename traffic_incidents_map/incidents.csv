@@ -28728,7 +28728,6 @@ UT-Incident--181125,Incidents,I-215 W,Salt Lake County,I-215 W at MP 15,"Crash
 NB I-215 W at MP 15 (4700 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 2:44 AM","7/4/24, 1:45 AM","7/4/24, 2:44 AM","7/4/24, 1:45 AM",,40.659924,-111.952783
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181122,Incidents,I-15,Salt Lake County,I-15 at MP 295,"Crash
 SB I-15 Onramp at MP 295 (9000 S) Salt Lake Co.
 Right Lane Closed
@@ -28737,6 +28736,7 @@ UT-Incident--181126,Incidents,US 40,Summit County,US 40 at MP 3,"Crash
 EB US 40 at MP 3 (N of SR-248 / Park City) Summit Co.
 Right Shoulder
 Est. Clearance Time: 3:42 AM","7/4/24, 2:43 AM","7/4/24, 3:42 AM","7/4/24, 2:43 AM",,40.696221,-111.4715
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
