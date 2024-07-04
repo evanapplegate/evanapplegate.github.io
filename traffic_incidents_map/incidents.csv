@@ -28765,20 +28765,20 @@ UT-Incident--181133,Incidents,US 89,Utah County,US 89 13001,"Crash
 NB US 89 at US 6 (Thistle Jct) Utah Co.
 Left Turn Lane Closed
 Est. Clearance Time: 12:42 PM","7/4/24, 11:42 AM","7/4/24, 12:42 PM","7/4/24, 11:48 AM",,39.994944,-111.469055
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181136,Incidents,I-15,Washington County,I-15 at MP 40,"Fire affecting roadway
 NB I-15 at MP 40 (2 mi S of Kanarraville) Washington Co.
 Right Lane Closed and
 Exit 40 Closed","7/4/24, 12:36 PM","7/4/24, 1:24 PM","7/4/24, 12:36 PM",,37.450828,-113.22929
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181138,Incidents,I-15,Washington County,I-15 at MP 29,"Crash
-NB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
-Right Shoulder
-Est. Clearance Time: 3:45 PM","7/4/24, 2:34 PM","7/4/24, 3:45 PM","7/4/24, 2:34 PM",,37.304053,-113.299211
 UT-Incident--181132,Incidents,I-80,Tooele County,I-80 at MP 32,"Crash
 EB I-80 at MP 32 (9 mi W of Knolls) Tooele Co.
 Left Lane Closed
 Est. Clearance Time: 11:51 AM","7/4/24, 10:52 AM","7/4/24, 11:51 AM","7/4/24, 12:17 PM",,40.730303,-113.435793
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181138,Incidents,I-15,Washington County,I-15 at MP 29,"Crash
+NB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
+Right Shoulder
+Est. Clearance Time: 3:45 PM","7/4/24, 2:34 PM","7/4/24, 3:45 PM","7/4/24, 2:34 PM",,37.304053,-113.299211
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
