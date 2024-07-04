@@ -28683,7 +28683,6 @@ UT-Incident--181105,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
 WB US 91 at MP 1 (400 W Brigham City) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","7/3/24, 4:17 PM","7/3/24, 5:15 PM","7/3/24, 4:17 PM",,41.486567,-112.034906
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181109,Incidents,I-15,Box Elder County,I-15 at MP 388,"Crash
 SB I-15 at MP 388 (Plymouth) Box Elder Co.
 Est. Clearance Time: 7:30 PM","7/3/24, 5:21 PM","7/3/24, 7:30 PM","7/3/24, 6:20 PM",,41.823458,-112.179901
@@ -28706,6 +28705,7 @@ UT-Incident--181115,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
 NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
 Right Shoulder
 Est. Clearance Time: 7:35 PM","7/3/24, 6:21 PM","7/3/24, 7:35 PM","7/3/24, 6:21 PM",,37.972209,-112.742728
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
