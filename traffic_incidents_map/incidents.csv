@@ -28660,7 +28660,6 @@ Both Directions US 189 at MP 28 (US-40 Jct / Heber) Wasatch Co.
 Est. Clearance Time: 5:15 PM","7/3/24, 4:02 PM","7/3/24, 5:15 PM","7/3/24, 4:02 PM",,40.484644,-111.426263
 UT-Incident--181087,Incidents,I-15,Washington County,I-15 at MP 31,"Structure Emergency
 NB I-15 at MP 31 (Browse) Washington Co.","7/3/24, 7:51 AM","7/3/24, 4:00 PM","7/3/24, 12:54 PM",,37.330274,-113.282856
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181107,Incidents,1900 W,Weber County,1900 W at Midland Dr,"Crash
 Both Directions 1900 W at Midland Dr Weber Co.
 2 Right Lanes Closed
@@ -28674,21 +28673,10 @@ EB I-215 S at MP 12 (1200 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:15 PM","7/3/24, 4:09 PM","7/3/24, 5:15 PM","7/3/24, 4:09 PM",,40.636258,-111.914012
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181109,Incidents,I-15,Box Elder County,I-15 at MP 388,"Crash
-SB I-15 at MP 388 (Plymouth) Box Elder Co.
-Est. Clearance Time: 6:30 PM","7/3/24, 5:21 PM","7/3/24, 6:30 PM","7/3/24, 5:21 PM",,41.823458,-112.179901
-UT-Incident--181111,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
-NB I-15 at MP 302 (4100 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 6:45 PM","7/3/24, 5:37 PM","7/3/24, 6:45 PM","7/3/24, 5:37 PM",,40.679062,-111.902181
 UT-Incident--181110,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
 WB I-80 at MP 124 (400 e / Salt Lake City) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:45 PM","7/3/24, 5:32 PM","7/3/24, 6:45 PM","7/3/24, 5:32 PM",,40.718459,-111.873941
-UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
-Redwood Rd at 2100 S Salt Lake Co.
-WB  Right LanesClosed
-NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
 UT-Incident--181108,Incidents,US 6,Utah County,US 6 at MP 174,"Crash
 NB US 6 at Canyon Creek Parkway (Utah Co.)
 Est. Clearance Time: 6:11 PM","7/3/24, 5:12 PM","7/3/24, 6:11 PM","7/3/24, 5:14 PM",,40.119015,-111.638342
@@ -28696,3 +28684,30 @@ UT-Incident--181105,Incidents,US 91,Box Elder County,US 91 at MP 1,"Crash
 WB US 91 at MP 1 (400 W Brigham City) Box Elder Co.
 Right Lane Closed
 Est. Clearance Time: 5:15 PM","7/3/24, 4:17 PM","7/3/24, 5:15 PM","7/3/24, 4:17 PM",,41.486567,-112.034906
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181109,Incidents,I-15,Box Elder County,I-15 at MP 388,"Crash
+SB I-15 at MP 388 (Plymouth) Box Elder Co.
+Est. Clearance Time: 7:30 PM","7/3/24, 5:21 PM","7/3/24, 7:30 PM","7/3/24, 6:20 PM",,41.823458,-112.179901
+UT-Incident--181111,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+NB I-15 at MP 302 (4100 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 6:45 PM","7/3/24, 5:37 PM","7/3/24, 6:45 PM","7/3/24, 5:37 PM",,40.679062,-111.902181
+UT-Incident--181112,Incidents,I-15,Utah County,I-15 at MP 260,"Crash
+SB I-15 at MP 260 (400 S / Springville) Utah Co.
+Est. Clearance Time: 7:00 PM","7/3/24, 5:47 PM","7/3/24, 7:00 PM","7/3/24, 5:47 PM",,40.161636,-111.646866
+UT-Incident--181113,Incidents,I-15,Davis County,I-15 at MP 336,"Crash
+NB I-15 at MP 336 (Sunset) Davis Co.
+Center Lane Closed
+Est. Clearance Time: 7:15 PM","7/3/24, 6:10 PM","7/3/24, 7:15 PM","7/3/24, 6:10 PM",,41.125961,-112.025249
+UT-Incident--181114,Incidents,I-15,Salt Lake County,I-15 at MP 307,"Debris
+NB I-15 at MP 307 (600 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:15 PM","7/3/24, 6:10 PM","7/3/24, 7:15 PM","7/3/24, 6:22 PM",,40.74966,-111.90976
+UT-Incident--181115,Incidents,I-15,Iron County,I-15 at MP 87,"Crash
+NB I-15 at MP 87 (10 mi N of Parowan) Iron Co.
+Right Shoulder
+Est. Clearance Time: 7:35 PM","7/3/24, 6:21 PM","7/3/24, 7:35 PM","7/3/24, 6:21 PM",,37.972209,-112.742728
+UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
+Redwood Rd at 2100 S Salt Lake Co.
+WB  Right LanesClosed
+NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
