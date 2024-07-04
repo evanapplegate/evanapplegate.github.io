@@ -28781,12 +28781,16 @@ UT-Incident--181137,Incidents,US 6,Utah County,US 6 at MP 189,"Vehicle on fire
 EB US 6 at MP 189 (1.5 MI E of US-89 Jct) Utah Co.
 Right Shoulder
 Est. Clearance Time: 5:00 PM","7/4/24, 1:52 PM","7/4/24, 5:00 PM","7/4/24, 3:55 PM",,39.995918,-111.440337
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181138,Incidents,I-15,Washington County,I-15 at MP 29,"Crash
 NB I-15 at MP 29 (6 mi N of Leeds) Washington Co.
 Right Shoulder
 Est. Clearance Time: 3:45 PM","7/4/24, 2:34 PM","7/4/24, 3:45 PM","7/4/24, 2:34 PM",,37.304053,-113.299211
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181140,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
+SB Bangerter Hwy at 4700 S Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 5:45 PM","7/4/24, 4:42 PM","7/4/24, 5:45 PM","7/4/24, 4:42 PM",,40.667559,-111.9815
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
