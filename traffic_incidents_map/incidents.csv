@@ -28803,7 +28803,6 @@ Est. Clearance Time: 6:45 PM","7/4/24, 5:39 PM","7/4/24, 6:45 PM","7/4/24, 5:40 
 UT-Incident--181144,Incidents,Hwy 36,Tooele County,Hwy 36 at Hwy 73,"Crash
 SB Hwy 36 at Hwy 73 Tooele Co.
 Est. Clearance Time: 10:00 PM","7/4/24, 8:27 PM","7/4/24, 10:00 PM","7/4/24, 8:27 PM",,40.377015,-112.39205
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181147,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Shoulder
@@ -28812,6 +28811,7 @@ UT-Incident--181148,Incidents,SR 113,Wasatch County,SR 113 at MP 6,"Crash
 WB SR 113 at MP 6 (900 W) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 1:12 AM","7/5/24, 12:12 AM","7/5/24, 1:12 AM","7/5/24, 12:12 AM",,40.506926,-111.435088
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181146,Incidents,700 W,Salt Lake County,700 W at 12300 S,"Crash
 All Directions 700 W at 12300 S Salt Lake Co.
