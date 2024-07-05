@@ -28804,14 +28804,18 @@ UT-Incident--181144,Incidents,Hwy 36,Tooele County,Hwy 36 at Hwy 73,"Crash
 SB Hwy 36 at Hwy 73 Tooele Co.
 Est. Clearance Time: 10:00 PM","7/4/24, 8:27 PM","7/4/24, 10:00 PM","7/4/24, 8:27 PM",,40.377015,-112.39205
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181146,Incidents,700 W,Salt Lake County,700 W at 12300 S,"Crash
-All Directions 700 W at 12300 S Salt Lake Co.
-Est. Clearance Time: 12:24 AM","7/4/24, 11:28 PM","7/5/24, 12:24 AM","7/5/24, 12:11 AM",,40.526797,-111.91023
 UT-Incident--181147,Incidents,I-15,Davis County,I-15 at MP 317,"Crash
 SB I-15 at MP 317 (400 N, W Bntfl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 1:08 AM","7/5/24, 12:09 AM","7/5/24, 1:08 AM","7/5/24, 12:09 AM",,40.885849,-111.896677
+UT-Incident--181148,Incidents,SR 113,Wasatch County,SR 113 at MP 6,"Crash
+WB SR 113 at MP 6 (900 W) Wasatch Co.
+Right Shoulder
+Est. Clearance Time: 1:12 AM","7/5/24, 12:12 AM","7/5/24, 1:12 AM","7/5/24, 12:12 AM",,40.506926,-111.435088
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181146,Incidents,700 W,Salt Lake County,700 W at 12300 S,"Crash
+All Directions 700 W at 12300 S Salt Lake Co.
+Est. Clearance Time: 12:24 AM","7/4/24, 11:28 PM","7/5/24, 12:24 AM","7/5/24, 12:11 AM",,40.526797,-111.91023
 UT-Incident--181149,Incidents,I-15,Davis County,I-15 at MP 315,"Crash
 NB I-15 at MP 315 (2600 S, Woods X) Davis Co.
 Right Shoulder
@@ -28820,7 +28824,3 @@ UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"U
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
-UT-Incident--181148,Incidents,SR 113,Wasatch County,SR 113 at MP 6,"Crash
-WB SR 113 at MP 6 (900 W) Wasatch Co.
-Right Shoulder
-Est. Clearance Time: 1:12 AM","7/5/24, 12:12 AM","7/5/24, 1:12 AM","7/5/24, 12:12 AM",,40.506926,-111.435088
