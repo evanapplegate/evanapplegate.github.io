@@ -28919,16 +28919,20 @@ UT-Incident--181176,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
 NB I-15 at MP 250 (400 N /Payson) Utah Co.
 Right Shoulder
 Est. Clearance Time: 11:30 PM","7/5/24, 10:27 PM","7/5/24, 11:30 PM","7/5/24, 10:54 PM",,40.044918,-111.743767
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181174,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
 Est. Clearance Time: 7/6/2024 12:00 AM","7/5/24, 9:48 PM","7/6/24, 12:00 AM","7/5/24, 11:08 PM",,40.627915,-111.443541
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181180,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at 4700 S,"Crash
 SB Bangerter Hwy at 4700 S Salt Lake Co.
 Center Lane Closed
 Est. Clearance Time: 1:13 AM","7/6/24, 12:16 AM","7/6/24, 1:13 AM","7/6/24, 12:26 AM",,40.667559,-111.9815
+UT-Incident--181181,Incidents,I-80,Salt Lake County,I-80 at MP 118,"Medical
+EB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 1:31 AM","7/6/24, 12:32 AM","7/6/24, 1:31 AM","7/6/24, 12:32 AM",,40.765772,-111.934049
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
