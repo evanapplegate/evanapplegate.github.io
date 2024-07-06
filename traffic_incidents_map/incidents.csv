@@ -28977,7 +28977,6 @@ UT-Incident--181196,Incidents,Washington Blvd,Weber County,Washington Blvd at 36
 SB Washington Blvd at 36th St Weber Co.
 Right Lane Closed
 Est. Clearance Time: 4:15 PM","7/6/24, 3:07 PM","7/6/24, 4:15 PM","7/6/24, 3:07 PM",,41.197104,-111.971011
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181198,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 NB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
@@ -28999,6 +28998,10 @@ UT-Incident--181199,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Stalled Vehi
 NB I-15 at MP 306 (1300 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 4:51 PM","7/6/24, 3:51 PM","7/6/24, 4:51 PM","7/6/24, 3:51 PM",View on map,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181200,Incidents,SR 126,Weber County,SR 126 at MP 20,"Crash
+Both Directions SR 126 at MP 20 (Layton Parkway) Weber Co.
+Est. Clearance Time: 5:45 PM","7/6/24, 4:13 PM","7/6/24, 5:45 PM","7/6/24, 4:13 PM",View on map,41.324864,-112.031722
 UT-Incident--181190,Incidents,SR 39,Weber County,SR 39 at MP 15,"Crash
 Both Directions SR 39 at MP 15 (Pineview Res) at MP 8 (Ogden) Weber Co.
 Weber Canyon closed between MP 9 and  MP 15
