@@ -28905,22 +28905,29 @@ UT-Incident--181172,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
 Both Directions 1900 W at 5600 S Weber Co.
 Est. Clearance Time: 9:15 PM","7/5/24, 8:05 PM","7/5/24, 9:15 PM","7/5/24, 8:05 PM",,41.160848,-112.026054
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181175,Incidents,Antelope Dr,Davis County,Antelope Dr at Fairfield Rd,"Crash
 WB Antelope Dr at Fairfield Rd Davis Co.
 Right Lane Closed
 Est. Clearance Time: 11:30 PM","7/5/24, 10:04 PM","7/5/24, 11:30 PM","7/5/24, 10:04 PM",,41.088846,-111.948414
-UT-Incident--181176,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
-NB I-15 Closed at MP 250 (400 N /Payson) Utah Co.
-Est. Clearance Time: 11:30 PM","7/5/24, 10:27 PM","7/5/24, 11:30 PM","7/5/24, 10:35 PM",,40.044918,-111.743767
 UT-Incident--181173,Incidents,I-80,Salt Lake County,I-80 at MP 138,"Vehicle on fire
 EB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:30 PM","7/5/24, 8:39 PM","7/5/24, 10:30 PM","7/5/24, 10:09 PM",,40.747703,-111.639522
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181176,Incidents,I-15,Utah County,I-15 at MP 250,"Crash
+NB I-15 at MP 250 (400 N /Payson) Utah Co.
+Right Shoulder
+Est. Clearance Time: 11:30 PM","7/5/24, 10:27 PM","7/5/24, 11:30 PM","7/5/24, 10:54 PM",,40.044918,-111.743767
+UT-Incident--181177,Incidents,Main St,Tooele County,Main St at 1000 N,"Crash
+NB Main St at 1000 N Tooele Co.
+Est. Clearance Time: 11:45 PM","7/5/24, 10:57 PM","7/5/24, 11:45 PM","7/5/24, 10:57 PM",,40.552085,-112.297932
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
 NB 1 Right lane Closed","6/14/24, 2:19 PM","7/10/24, 4:00 PM","6/29/24, 12:45 PM",,40.721209,-111.938966
+UT-Incident--181178,Incidents,SR 44,Daggett County,SR 44 at MP 10,"Crash
+SR 44 at MP 10 (10 Mi W of SR44/US191 Jct) Daggett Co.
+Est. Clearance Time: 7/6/2024 12:30 AM","7/5/24, 10:58 PM","7/6/24, 12:30 AM","7/5/24, 10:58 PM",,40.841218,-109.656344
 UT-Incident--181174,Incidents,US 40,Wasatch County,US 40 at MP 8,"Crash
 EB US 40 at MP 8 (Mayflower / SR-319) Wasatch Co.
 Right Shoulder
