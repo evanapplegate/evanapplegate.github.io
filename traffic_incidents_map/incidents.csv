@@ -28887,7 +28887,6 @@ Est. Clearance Time: 6:30 PM","7/5/24, 5:32 PM","7/5/24, 6:30 PM","7/5/24, 5:32 
 UT-Incident--181167,Incidents,US 40,Wasatch County,US 40 at MP 10,"Crash
 EB US 40 at MP 10 (Jordanelle Reservoir) Wasatch Co.
 Est. Clearance Time: 6:35 PM","7/5/24, 5:27 PM","7/5/24, 6:35 PM","7/5/24, 5:28 PM",,40.602142,-111.430846
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181169,Incidents,SR 36,Tooele County,SR 36 at MP 43,"Fire affecting roadway
 Both Directions SR 36 at MP 43 (SR-73 JCT) Tooele Co.
 Est. Clearance Time: 7:30 PM","7/5/24, 6:05 PM","7/5/24, 7:30 PM","7/5/24, 6:05 PM",,40.387293,-112.386298
@@ -28903,6 +28902,10 @@ UT-Incident--181170,Incidents,I-80,Salt Lake County,I-80 at MP 133,"Crash
 WB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 8:00 PM","7/5/24, 6:45 PM","7/5/24, 8:00 PM","7/5/24, 6:45 PM",,40.747119,-111.724705
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181172,Incidents,1900 W,Weber County,1900 W at 5600 S,"Crash
+Both Directions 1900 W at 5600 S Weber Co.
+Est. Clearance Time: 9:15 PM","7/5/24, 8:05 PM","7/5/24, 9:15 PM","7/5/24, 8:05 PM",,41.160848,-112.026054
 UT-Incident--180342,Incidents,Redwood Rd,Salt Lake County,Redwood Rd at MP 56,"Utility work
 Redwood Rd at 2100 S Salt Lake Co.
 WB  Right LanesClosed
