@@ -28965,7 +28965,6 @@ UT-Incident--181187,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP
 SB Bangerter Hwy at MP 15 (6100 S) Salt Lake Co.
 Left 2 Lanes Closed
 Est. Clearance Time: 12:13 PM","7/6/24, 11:15 AM","7/6/24, 12:13 PM","7/6/24, 11:15 AM",,40.640164,-111.976625
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181188,Incidents,I-215 W,Salt Lake County,I-215 W at MP 20,"Crash
 SB I-215 W at MP 20 (California Ave) Salt Lake Co.
 Right Shoulder
@@ -28975,3 +28974,7 @@ NB Redwood Rd at 11800 S Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 1:04 PM","7/6/24, 12:05 PM","7/6/24, 1:04 PM","7/6/24, 12:05 PM",,40.534941,-111.938686
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181190,Incidents,SR 39,Weber County,SR 39 at MP 15,"Crash
+Both Directions SR 39 at MP 15 (Pineview Res) Weber Co.
+Est. Clearance Time: 3:05 PM","7/6/24, 1:04 PM","7/6/24, 3:05 PM","7/6/24, 1:04 PM",View on map,,
