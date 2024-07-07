@@ -29050,7 +29050,6 @@ UT-Incident--181209,Incidents,US 89,Utah County,US 89 at MP 311,"Crash
 Other US 89 at MP 311 (Thistle) Utah Co.
 Est. Clearance Time: 11:15 PM","7/6/24, 10:08 PM","7/6/24, 11:15 PM","7/6/24, 10:08 PM",View on map,39.990508,-111.498797
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181212,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
 EB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
 Right Shoulder
@@ -29059,3 +29058,4 @@ UT-Incident--181213,Incidents,I-80,Salt Lake County,I-80 at MP 111,"Vehicle on f
 EB I-80 at MP 111 (7200 W / Salt Lake City) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:50 AM","7/7/24, 12:51 AM","7/7/24, 1:50 AM","7/7/24, 1:11 AM",View on map,40.771145,-112.066961
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
