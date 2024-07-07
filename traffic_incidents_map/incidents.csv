@@ -29018,7 +29018,6 @@ UT-Incident--181200,Incidents,SR 126,Weber County,SR 126 at MP 20,"Crash
 Both Directions SR 126 at MP 20 (Layton Parkway) Weber Co.
 Est. Clearance Time: 5:45 PM","7/6/24, 4:13 PM","7/6/24, 5:45 PM","7/6/24, 4:13 PM",,41.324864,-112.031722
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181201,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 20,"Crash
 Both Directions Bangerter Hwy at MP 20 (2700 S) Salt Lake Co.
 Est. Clearance Time: 6:35 PM","7/6/24, 5:09 PM","7/6/24, 6:35 PM","7/6/24, 5:09 PM",,40.711643,-111.98151
@@ -29037,4 +29036,9 @@ UT-Incident--181206,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 SB I-15 at MP 300 (5200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:15 PM","7/6/24, 6:14 PM","7/6/24, 7:15 PM","7/6/24, 6:14 PM",,40.649847,-111.90236
-UT-Incident--181205,Incidents,SR 117,Sanpete County,SR 117 at MP 2,Both Directions SR 117 Closed at MP 2-7  ( Sanpete County),"7/6/24, 5:58 PM","7/6/24, 8:00 PM","7/6/24, 6:36 PM",,39.475443,-111.617399
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181205,Incidents,SR 117,Sanpete County,SR 117 at MP 2,Both Directions SR 117 Closed at MP 2-7 due to fire affecting roadway ( Sanpete County),"7/6/24, 5:58 PM","7/6/24, 8:00 PM","7/6/24, 7:20 PM",,39.475443,-111.617399
+UT-Incident--181207,Incidents,US 189,Utah County,US 189 at MP 12,"Crash
+WB US 189 at MP 12 (3 mi SE of Provo) Utah Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","7/6/24, 7:41 PM","7/6/24, 8:45 PM","7/6/24, 7:41 PM",,40.348428,-111.591901
