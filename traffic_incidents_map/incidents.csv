@@ -29192,7 +29192,6 @@ UT-Incident--181253,Incidents,I-15,Davis County,I-15 at MP 331,"Crash
 NB I-15 at MP 331 (Hill Field Rd On Ramp) Davis Co.
 Left Shoulder
 Est. Clearance Time: 4:11 PM","7/8/24, 3:12 PM","7/8/24, 4:11 PM","7/8/24, 3:12 PM",View on map,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181258,Incidents,12300 S,Salt Lake County,12300 S at 265 W,"Crash
 Both Directions 12300 S at 265 W Salt Lake Co.
 EB Left Lane Closed
@@ -29204,18 +29203,6 @@ EB to NB Closed
 EB Left 2 Lanes Closed
 Est. Clearance Time: 5:02 PM","7/8/24, 4:04 PM","7/8/24, 5:02 PM","7/8/24, 4:08 PM",View on map,40.69911,-111.929766
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181254,Incidents,2000 W,Davis County,2000 W at 2300 N,"Crash
-All Directions 2000 W at 2300 N Davis Co.
-Left Lane Closed
-Est. Clearance Time: 4:17 PM","7/8/24, 3:18 PM","7/8/24, 4:17 PM","7/8/24, 3:29 PM",View on map,41.147776,-112.064465
-UT-Incident--181255,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
-SB I-15 at MP 304 (2700 S) Salt Lake Co.
-2 Right Lanes Closed
-Est. Clearance Time: 5:40 PM","7/8/24, 3:40 PM","7/8/24, 5:40 PM","7/8/24, 4:34 PM",View on map,40.707874,-111.90397
-UT-Incident--181259,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
-Ramp SB I-15 at MP 306 (1300 S Exit) Salt Lake Co.
-Left lane blocked
-Est. Clearance Time: 5:16 PM","7/8/24, 4:19 PM","7/8/24, 5:16 PM","7/8/24, 4:19 PM",View on map,40.736823,-111.90475
 UT-Incident--181261,Incidents,I-15,Salt Lake County,I-15 at MP 293,"Crash
 NB I-15 at MP 293 (10600 S) Salt Lake Co.
 Left Shoulder
@@ -29224,3 +29211,25 @@ UT-Incident--181260,Incidents,SR 248,Summit County,SR 248 at MP 2,"Vehicle on fi
 WB SR 248 at MP 2 (Richardson Flat Rd) Summit Co.
 Right Shoulder
 Est. Clearance Time: 5:21 PM","7/8/24, 4:23 PM","7/8/24, 5:21 PM","7/8/24, 4:40 PM",View on map,40.671159,-111.475314
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181254,Incidents,2000 W,Davis County,2000 W at 2300 N,"Crash
+All Directions 2000 W at 2300 N Davis Co.
+Left Lane Closed
+Est. Clearance Time: 4:17 PM","7/8/24, 3:18 PM","7/8/24, 4:17 PM","7/8/24, 3:29 PM",View on map,41.147776,-112.064465
+UT-Incident--181255,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
+SB I-15 at MP 304 (2700 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:40 PM","7/8/24, 3:40 PM","7/8/24, 5:40 PM","7/8/24, 4:45 PM",View on map,40.707874,-111.90397
+UT-Incident--181259,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+Ramp SB I-15 at MP 306 (1300 S Exit) Salt Lake Co.
+Left lane blocked
+Est. Clearance Time: 5:16 PM","7/8/24, 4:19 PM","7/8/24, 5:16 PM","7/8/24, 4:19 PM",View on map,40.736823,-111.90475
+UT-Incident--181264,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Stalled Vehicle
+SB I-15 at MP 309 (600 N) Salt Lake Co.
+Center Lane Closed
+Est. Clearance Time: 6:01 PM","7/8/24, 5:02 PM","7/8/24, 6:01 PM","7/8/24, 5:02 PM",View on map,40.777705,-111.910735
+UT-Incident--181263,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
+WB I-80 at MP 126 (1300 E / Sugar House)
+Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:55 PM","7/8/24, 4:54 PM","7/8/24, 5:55 PM","7/8/24, 4:55 PM",View on map,40.717537,-111.836246
