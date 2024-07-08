@@ -29096,7 +29096,6 @@ UT-Incident--181218,Incidents,US 40,Wasatch County,US 40 at MP 40,"Crash
 Both Directions US 40 at MP 40 (19 mi S of Heber) Wasatch Co.
 Single lane traffic for EB and WB
 Est. Clearance Time: 5:30 PM","7/7/24, 12:24 PM","7/7/24, 5:30 PM","7/7/24, 4:01 PM",,40.243881,-111.186309
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181227,Incidents,I-70,Sevier County,I-70 at MP 80,"Crash
 EB I-70 at MP 80 (9 mi W of Fremont Jct) Sevier Co.
 Est. Clearance Time: 6:39 PM","7/7/24, 5:40 PM","7/7/24, 6:39 PM","7/7/24, 5:40 PM",View on map,38.804499,-111.526356
@@ -29109,3 +29108,9 @@ UT-Incident--181220,Incidents,I-80,Salt Lake County,I-80 at MP 110,"Crash
 EB I-80 at MP 110 (6 mi E of Saltair) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 8:28 PM","7/7/24, 1:29 PM","7/7/24, 8:28 PM","7/7/24, 7:44 PM",View on map,40.771146,-112.086172
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181229,Incidents,US 189,Wasatch County,US 189 at MP 24,"Crash
+SB US 189 at MP 24 (Deer Creek Reservoir)
+Wasatch Co.
+SB lane Blocked
+Est. Clearance Time: 9:02 PM","7/7/24, 8:03 PM","7/7/24, 9:02 PM","7/7/24, 8:09 PM",,40.446013,-111.477114
