@@ -29219,11 +29219,11 @@ SB I-15 at MP 304 (2700 S) Salt Lake Co.
 2 Right Lanes Closed
 Est. Clearance Time: 5:40 PM","7/8/24, 3:40 PM","7/8/24, 5:40 PM","7/8/24, 4:45 PM",View on map,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181259,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 Ramp SB I-15 at MP 306 (1300 S Exit) Salt Lake Co.
 Left lane blocked
 Est. Clearance Time: 5:16 PM","7/8/24, 4:19 PM","7/8/24, 5:16 PM","7/8/24, 4:19 PM",View on map,40.736823,-111.90475
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181264,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Stalled Vehicle
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Center Lane Closed
@@ -29242,3 +29242,8 @@ Ramp WB I-80 to SB I-15 at MP 123 (I-15 Jct)
 Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:10 PM","7/8/24, 5:10 PM","7/8/24, 6:10 PM","7/8/24, 5:11 PM",View on map,40.718332,-111.893095
+UT-Incident--181267,Incidents,I-80,Salt Lake County,I-80 at MP 124,"Crash
+EB I-80 at MP 124 (State St / Salt Lake City) 
+Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:40 PM","7/8/24, 5:37 PM","7/8/24, 6:40 PM","7/8/24, 5:37 PM",View on map,40.718459,-111.873941
