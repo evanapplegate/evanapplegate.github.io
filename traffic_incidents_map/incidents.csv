@@ -29317,11 +29317,15 @@ NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","7/9/24, 1:16 PM","7/9/24, 2:20 PM","7/9/24, 1:16 PM",View on map,40.707874,-111.90397
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181291,Incidents,SR 36,Tooele County,SR 36 at MP 55,"Crash
+NB SR 36 at MP 55 (Tooele) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 4:15 PM","7/9/24, 3:00 PM","7/9/24, 4:15 PM","7/9/24, 3:00 PM",,40.539911,-112.298381
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181290,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
-2 Left Lanes Closed
-Est. Clearance Time: 3:30 PM","7/9/24, 2:24 PM","7/9/24, 3:30 PM","7/9/24, 2:25 PM",,40.750653,-111.708179
+Right Shoulder
+Est. Clearance Time: 3:30 PM","7/9/24, 2:24 PM","7/9/24, 3:30 PM","7/9/24, 3:27 PM",,40.750653,-111.708179
 UT-Incident--181293,Incidents,I-80,Summit County,I-80 at MP 181,"Crash
 WB I-80 at MP 181 (1 mi E of Emory) Summit Co.
 Right Shoulder
@@ -29330,13 +29334,9 @@ UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cotto
 EB Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
 EB is Closed, Use Alt
 Est. Clearance Time: 3:15 PM","7/9/24, 2:11 PM","7/9/24, 3:15 PM","7/9/24, 2:11 PM",,40.574971,-111.800134
-UT-Incident--181292,Incidents,SR 14,Iron County,SR 14 at MP 22,"Crash
- SR 14 at MP 22 (20 Mi E of Cedar City) Iron Co.
-Est. Clearance Time: 4:15 PM","7/9/24, 3:02 PM","7/9/24, 4:15 PM","7/9/24, 3:02 PM",,37.55128,-112.787109
-UT-Incident--181291,Incidents,SR 36,Tooele County,SR 36 at MP 55,"Crash
-NB SR 36 at MP 55 (Tooele) Tooele Co.
-Right Shoulder
-Est. Clearance Time: 4:15 PM","7/9/24, 3:00 PM","7/9/24, 4:15 PM","7/9/24, 3:00 PM",,40.539911,-112.298381
+UT-Incident--181292,Incidents,SR 14,Iron County,SR 14 at MP 21,"Crash
+SR 14 at MP 21 (19 Mi E of Cedar City) Iron Co.
+Est. Clearance Time: 4:15 PM","7/9/24, 3:02 PM","7/9/24, 4:15 PM","7/9/24, 3:23 PM",,37.56507,-112.789265
 UT-Incident--181294,Incidents,US 6,Utah County,US 6 at MP 174,"Crash
 Both Directions US 6 at MP 174 (I-15 Jct Spanish Fork) Utah Co.
 Est. Clearance Time: 4:15 PM","7/9/24, 3:18 PM","7/9/24, 4:15 PM","7/9/24, 3:18 PM",,40.119015,-111.638342
