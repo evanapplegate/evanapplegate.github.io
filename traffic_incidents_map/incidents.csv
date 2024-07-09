@@ -29343,34 +29343,47 @@ UT-Incident--181299,Incidents,SR 201,Salt Lake County,SR 201 at MP 14,"Crash
 EB SR 201 at MP 14 (3000 W) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","7/9/24, 4:22 PM","7/9/24, 5:45 PM","7/9/24, 4:22 PM",,40.72606,-111.962907
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181300,Incidents,I-215 W,Salt Lake County,I-215 W at MP 22,"Crash
 SB I-215 W at MP 22 (N Temple) Salt Lake Co.
 Left Lane Closed
 Est. Clearance Time: 5:45 PM","7/9/24, 4:38 PM","7/9/24, 5:45 PM","7/9/24, 4:38 PM",,40.760605,-111.951068
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181298,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Debris
-NB I-15 at MP 310 (1000 N) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:15 PM","7/9/24, 4:03 PM","7/9/24, 5:15 PM","7/9/24, 4:03 PM",,40.791232,-111.916128
-UT-Incident--181301,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
-NB I-15 at MP 288 (14600 S) Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 6:00 PM","7/9/24, 4:50 PM","7/9/24, 6:00 PM","7/9/24, 4:50 PM",,40.480607,-111.902252
-UT-Incident--181302,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
-WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
-Left Shoulder
-Est. Clearance Time: 6:00 PM","7/9/24, 4:52 PM","7/9/24, 6:00 PM","7/9/24, 4:52 PM",,40.718332,-111.893095
 UT-Incident--181295,Incidents,I-84,Weber County,I-84 at MP 87,"Fire affecting roadway
 EB I-84 at MP 87 (1900 S / South Weber) Weber Co.
 Est. Clearance Time: 5:00 PM","7/9/24, 3:34 PM","7/9/24, 5:00 PM","7/9/24, 3:34 PM",,41.136622,-111.929104
-UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
-EB Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
-EB is Closed, Use Alt
-Est. Clearance Time: 3:15 PM","7/9/24, 2:11 PM","7/9/24, 3:15 PM","7/9/24, 2:11 PM",,40.574971,-111.800134
 UT-Incident--181303,Incidents,Redwood Rd,Davis County,Redwood Rd at Center St,"Crash
 SB Redwood Rd at Center St Davis Co.
 Est. Clearance Time: 6:15 PM","7/9/24, 5:03 PM","7/9/24, 6:15 PM","7/9/24, 5:03 PM",,40.838571,-111.933503
 UT-Incident--181292,Incidents,SR 14,Iron County,SR 14 at MP 21,"Crash
 SR 14 at MP 21 (19 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 4:15 PM","7/9/24, 3:02 PM","7/9/24, 6:15 PM","7/9/24, 5:05 PM",,37.56507,-112.789265
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--181298,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
+NB I-15 at MP 310 (1000 N) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:30 PM","7/9/24, 4:03 PM","7/9/24, 5:30 PM",,,40.791232,-111.916128
+UT-Incident--181301,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
+NB I-15 at MP 288 (14600 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:00 PM","7/9/24, 4:50 PM","7/9/24, 6:00 PM",,,40.480607,-111.902252
+UT-Incident--181307,Incidents,I-15,Washington County,I-15 at MP 34,"Crash
+NB I-15 at MP 34 (8 mi S of Kanarraville) Washington Co.
+Est. Clearance Time: 6:35 PM","7/9/24, 5:22 PM","7/9/24, 6:35 PM",,,37.368573,-113.257183
+UT-Incident--181302,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
+WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 6:00 PM","7/9/24, 4:52 PM","7/9/24, 6:00 PM",,,40.718332,-111.893095
+UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
+Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
+Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM",,,40.574971,-111.800134
+UT-Incident--181306,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 20,"Crash
+SB Mountain View Corr at MP 20 (4700 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:30 PM","7/9/24, 5:22 PM","7/9/24, 6:30 PM",,,40.669943,-112.0315
+UT-Incident--181305,Incidents,SR 201,Salt Lake County,SR 201 at MP 8,"Crash
+WB SR 201 at MP 8 (7800 W) Salt Lake Co.
+Left Lane Closed
+Est. Clearance Time: 6:15 PM","7/9/24, 5:16 PM","7/9/24, 6:15 PM",,,40.718237,-112.076122
+UT-Incident--181304,Incidents,US 40,Wasatch County,US 40 at MP 20,"Crash
+Both Directions US 40 at MP 20 (Heber) Wasatch Co.
+Est. Clearance Time: 6:30 PM","7/9/24, 5:07 PM","7/9/24, 6:30 PM",,,40.469228,-111.389156
