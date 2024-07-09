@@ -29222,7 +29222,6 @@ UT-Incident--181259,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 Ramp SB I-15 at MP 306 (1300 S Exit) Salt Lake Co.
 Left lane blocked
 Est. Clearance Time: 5:16 PM","7/8/24, 4:19 PM","7/8/24, 5:16 PM","7/8/24, 4:19 PM",View on map,40.736823,-111.90475
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181264,Incidents,I-15,Salt Lake County,I-15 at MP 309,"Stalled Vehicle
 SB I-15 at MP 309 (600 N) Salt Lake Co.
 Center Lane Closed
@@ -29237,13 +29236,22 @@ Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:40 PM","7/8/24, 5:37 PM","7/8/24, 6:40 PM","7/8/24, 5:37 PM",View on map,40.718459,-111.873941
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-UT-Incident--181263,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
-WB I-80 at MP 126 (1300 E / Sugar House)
-Salt Lake Co.
-Right Shoulder
-Est. Clearance Time: 5:55 PM","7/8/24, 4:54 PM","7/8/24, 5:55 PM","7/8/24, 4:55 PM",View on map,40.717537,-111.836246
 UT-Incident--181265,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 Ramp WB I-80 to SB I-15 at MP 123 (I-15 Jct) 
 Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:10 PM","7/8/24, 5:10 PM","7/8/24, 6:10 PM","7/8/24, 5:11 PM",View on map,40.718332,-111.893095
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181269,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
+SB I-15 at MP 277 (American Fork) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:32 PM","7/8/24, 6:33 PM","7/8/24, 7:32 PM","7/8/24, 6:33 PM",View on map,40.365209,-111.792922
+UT-Incident--181270,Incidents,I-15,Salt Lake County,I-15 at MP 296,"Lane Closure
+SB I-15 at MP 296 (8000 S) Salt Lake Co.
+Right Lane Closed
+Est. Clearance Time: 7:35 PM","7/8/24, 6:36 PM","7/8/24, 7:35 PM","7/8/24, 6:36 PM",View on map,40.592858,-111.902495
+UT-Incident--181263,Incidents,I-80,Salt Lake County,I-80 at MP 126,"Crash
+WB I-80 at MP 126 (1300 E / Sugar House)
+Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 5:55 PM","7/8/24, 4:54 PM","7/8/24, 5:55 PM","7/8/24, 4:55 PM",View on map,40.717537,-111.836246
