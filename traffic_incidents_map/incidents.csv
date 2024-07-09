@@ -29316,7 +29316,6 @@ UT-Incident--181288,Incidents,I-15,Salt Lake County,I-15 at MP 304,"Crash
 NB I-15 at MP 304 (2700 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 2:20 PM","7/9/24, 1:16 PM","7/9/24, 2:20 PM","7/9/24, 1:16 PM",View on map,40.707874,-111.90397
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181291,Incidents,SR 36,Tooele County,SR 36 at MP 55,"Crash
 NB SR 36 at MP 55 (Tooele) Tooele Co.
 Right Shoulder
@@ -29326,10 +29325,18 @@ UT-Incident--181290,Incidents,I-80,Salt Lake County,I-80 at MP 134,"Crash
 EB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 3:30 PM","7/9/24, 2:24 PM","7/9/24, 3:30 PM","7/9/24, 3:27 PM",,40.750653,-111.708179
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181296,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
+SB I-15 at MP 300 (5200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 4:45 PM","7/9/24, 3:39 PM","7/9/24, 4:45 PM","7/9/24, 3:39 PM",,40.649847,-111.90236
 UT-Incident--181293,Incidents,I-80,Summit County,I-80 at MP 181,"Crash
 WB I-80 at MP 181 (1 mi E of Emory) Summit Co.
 Right Shoulder
 Est. Clearance Time: 4:15 PM","7/9/24, 3:16 PM","7/9/24, 4:15 PM","7/9/24, 3:16 PM",,41.086681,-111.232455
+UT-Incident--181295,Incidents,I-84,Weber County,I-84 at MP 87,"Fire affecting roadway
+EB I-84 at MP 87 (1900 S / South Weber) Weber Co.
+Est. Clearance Time: 5:00 PM","7/9/24, 3:34 PM","7/9/24, 5:00 PM","7/9/24, 3:34 PM",,41.136622,-111.929104
 UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
 EB Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
 EB is Closed, Use Alt
