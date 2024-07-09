@@ -29357,7 +29357,6 @@ UT-Incident--181292,Incidents,SR 14,Iron County,SR 14 at MP 21,"Crash
 SR 14 at MP 21 (19 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 4:15 PM","7/9/24, 3:02 PM","7/9/24, 6:15 PM","7/9/24, 5:05 PM",,37.56507,-112.789265
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181298,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
@@ -29366,9 +29365,14 @@ UT-Incident--181301,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","7/9/24, 4:50 PM","7/9/24, 6:00 PM",,,40.480607,-111.902252
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181307,Incidents,I-15,Washington County,I-15 at MP 34,"Crash
 NB I-15 at MP 34 (8 mi S of Kanarraville) Washington Co.
 Est. Clearance Time: 6:35 PM","7/9/24, 5:22 PM","7/9/24, 6:35 PM",,,37.368573,-113.257183
+UT-Incident--181308,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+2 Left Lanes Closed
+Est. Clearance Time: 6:45 PM","7/9/24, 5:34 PM","7/9/24, 6:45 PM",,,40.373184,-111.808465
 UT-Incident--181302,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Left Shoulder
