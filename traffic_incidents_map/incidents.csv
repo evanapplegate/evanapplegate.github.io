@@ -29269,7 +29269,6 @@ UT-Incident--181275,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at La
 All Directions Bangerter Hwy at Lake Park Blvd (2400 S) Salt Lake Co.
 Treat as a 4-way Stop","7/9/24, 5:08 AM","7/9/24, 6:05 AM","7/9/24, 5:08 AM",,40.718325,-111.98568
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181276,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at Lake Park Blvd,"Crash
 Both Directions Bangerter Hwy at Lake Park Blvd Salt Lake Co.
 Right Turn Lane Closed
@@ -29277,10 +29276,15 @@ Est. Clearance Time: 7:00 AM","7/9/24, 5:26 AM","7/9/24, 7:00 AM","7/9/24, 6:08 
 UT-Incident--181278,Incidents,I-15,Washington County,I-15 at MP 27,"Crash
 NB I-15 at MP 27 (4 mi N of Leeds) Washington Co.
 Est. Clearance Time: 8:15 AM","7/9/24, 7:07 AM","7/9/24, 8:15 AM","7/9/24, 7:07 AM",,37.278332,-113.312008
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181279,Incidents,I-15,Washington County,I-15 at MP 23,"Crash
+NB I-15 at MP 23 (Center St / Leeds) Washington Co.
+Right Shoulder
+Est. Clearance Time: 8:30 AM","7/9/24, 7:10 AM","7/9/24, 8:30 AM","7/9/24, 7:10 AM",,37.239089,-113.364384
 UT-Incident--181274,Incidents,I-15 SB X95 On SR 20 Ramp,Iron County,I-15 SB X95 On SR 20 Ramp at Hwy 20,"Vehicle on fire
 SB I-15 SR 20 On Ramp MP 95 (Iron Co)
 Right Shoulder
 Est. Clearance Time: 7:30 AM","7/9/24, 4:24 AM","7/9/24, 7:30 AM","7/9/24, 6:45 AM",,38.072104,-112.689525
 UT-Incident--181277,Incidents,US 40,Summit County,US 40 at MP 4,"Crash
-EB US 40 at MP 4 (SR-248 Jct / Park City) Summit Co.
-Est. Clearance Time: 8:01 AM","7/9/24, 7:06 AM","7/9/24, 8:01 AM","7/9/24, 7:06 AM",,40.68342,-111.462507
+EB US 40 Closed at MP 2 Summit Co.
+Use Alt Route","7/9/24, 7:06 AM","7/9/24, 8:01 AM","7/9/24, 7:13 AM",,40.68342,-111.462507
