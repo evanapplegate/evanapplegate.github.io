@@ -29356,7 +29356,6 @@ Est. Clearance Time: 6:15 PM","7/9/24, 5:03 PM","7/9/24, 6:15 PM","7/9/24, 5:03 
 UT-Incident--181292,Incidents,SR 14,Iron County,SR 14 at MP 21,"Crash
 SR 14 at MP 21 (19 Mi E of Cedar City) Iron Co.
 Est. Clearance Time: 4:15 PM","7/9/24, 3:02 PM","7/9/24, 6:15 PM","7/9/24, 5:05 PM",,37.56507,-112.789265
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181298,Incidents,I-15,Salt Lake County,I-15 at MP 310,"Crash
 NB I-15 at MP 310 (1000 N) Salt Lake Co.
 Right Shoulder
@@ -29377,9 +29376,6 @@ UT-Incident--181302,Incidents,I-80,Salt Lake County,I-80 at MP 123,"Crash
 WB I-80 at MP 123 (I-15 Jct) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 6:00 PM","7/9/24, 4:52 PM","7/9/24, 6:00 PM",,,40.718332,-111.893095
-UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
-Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
-Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM",,,40.574971,-111.800134
 UT-Incident--181306,Incidents,Mountain View Corr,Salt Lake County,Mountain View Corr at MP 20,"Crash
 SB Mountain View Corr at MP 20 (4700 S) Salt Lake Co.
 Right Shoulder
@@ -29391,3 +29387,17 @@ Est. Clearance Time: 6:15 PM","7/9/24, 5:16 PM","7/9/24, 6:15 PM",,,40.718237,-1
 UT-Incident--181304,Incidents,US 40,Wasatch County,US 40 at MP 20,"Crash
 Both Directions US 40 at MP 20 (Heber) Wasatch Co.
 Est. Clearance Time: 6:30 PM","7/9/24, 5:07 PM","7/9/24, 6:30 PM",,,40.469228,-111.389156
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181312,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
+Both Directions 1000 N at 200 W Tooele Co.
+Est. Clearance Time: 7:15 PM","7/9/24, 6:08 PM","7/9/24, 7:15 PM","7/9/24, 6:08 PM",,40.550989,-112.304646
+UT-Incident--181314,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
+NB I-15 at MP 286 (15800 S) Salt Lake Co.
+Left Shoulder
+Est. Clearance Time: 7:30 PM","7/9/24, 6:32 PM","7/9/24, 7:30 PM","7/9/24, 6:32 PM",,40.453646,-111.91388
+UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
+Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
+Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM","7/9/24, 5:08 PM",,40.574971,-111.800134
+UT-Incident--181309,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
+WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
+Est. Clearance Time: 7:15 PM","7/9/24, 5:58 PM","7/9/24, 7:15 PM","7/9/24, 5:58 PM",,40.721584,-111.490111
