@@ -29364,7 +29364,6 @@ UT-Incident--181301,Incidents,I-15,Salt Lake County,I-15 at MP 288,"Crash
 NB I-15 at MP 288 (14600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:00 PM","7/9/24, 4:50 PM","7/9/24, 6:00 PM",,,40.480607,-111.902252
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181307,Incidents,I-15,Washington County,I-15 at MP 34,"Crash
 NB I-15 at MP 34 (8 mi S of Kanarraville) Washington Co.
 Est. Clearance Time: 6:35 PM","7/9/24, 5:22 PM","7/9/24, 6:35 PM",,,37.368573,-113.257183
@@ -29395,9 +29394,10 @@ UT-Incident--181314,Incidents,I-15,Salt Lake County,I-15 at MP 286,"Crash
 NB I-15 at MP 286 (15800 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 7:30 PM","7/9/24, 6:32 PM","7/9/24, 7:30 PM","7/9/24, 6:32 PM",,40.453646,-111.91388
-UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
-Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
-Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM","7/9/24, 5:08 PM",,40.574971,-111.800134
 UT-Incident--181309,Incidents,US 40,Summit County,US 40 at MP 1,"Crash
 WB US 40 at MP 1 (I-80 Jct / Sliver Creek) Summit Co.
 Est. Clearance Time: 7:15 PM","7/9/24, 5:58 PM","7/9/24, 7:15 PM","7/9/24, 5:58 PM",,40.721584,-111.490111
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
+Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
+Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM","7/9/24, 5:08 PM",,40.574971,-111.800134
