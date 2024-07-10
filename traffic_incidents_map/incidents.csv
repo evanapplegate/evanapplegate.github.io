@@ -29495,7 +29495,6 @@ UT-Incident--181346,Incidents,ANTELOPE DR,Davis County,ANTELOPE DR 1441,"Crash
 EB Antelope Dr at 1500 W Davis Co.
 Right Lane Closed
 Est. Clearance Time: 5:30 PM","7/10/24, 4:00 PM","7/10/24, 5:30 PM","7/10/24, 4:02 PM",,41.089115,-112.054422
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181351,Incidents,I-15,Utah County,I-15 at MP 270,"Crash
 NB I-15 at MP 270 (Center St / Orem) Utah Co.
 Left Shoulder
@@ -29504,6 +29503,7 @@ UT-Incident--181352,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (900 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:45 PM","7/10/24, 4:44 PM","7/10/24, 5:45 PM","7/10/24, 4:44 PM",,40.746426,-111.949053
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181348,Incidents,I-15,Utah County,I-15 at MP 277,"Crash
 SB I-15 at MP 277 (American Fork) Utah Co.
@@ -29524,6 +29524,13 @@ UT-Incident--181356,Incidents,I-215 W,Salt Lake County,I-215 W at MP 21,"Crash
 NB I-215 W at MP 21 (600 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 6:15 PM","7/10/24, 5:17 PM","7/10/24, 6:15 PM","7/10/24, 5:17 PM",,40.746426,-111.949053
+UT-Incident--181357,Incidents,SR 73,Utah County,SR 73 at MP 33,"Crash
+WB SR 73 at MP 33 (N Cedar Pass Rd, Eagle Mnt) Utah Co.
+Left Lanes Closed
+Est. Clearance Time: 6:45 PM","7/10/24, 5:23 PM","7/10/24, 6:45 PM","7/10/24, 5:23 PM",,40.380357,-111.980471
 UT-Incident--181347,Incidents,US 89,Salt Lake County,US 89 at MP 377,"Crash
 NB US 89 at MP 377 (1800 S / SLC) Salt Lake Co.
 Est. Clearance Time: 5:15 PM","7/10/24, 4:07 PM","7/10/24, 5:15 PM","7/10/24, 4:08 PM",,40.738549,-111.888211
+UT-Incident--181358,Incidents,US 89,Utah County,US 89 at MP 340,"Crash
+NB US 89 at MP 340 (300 N / Orem) Utah Co.
+Est. Clearance Time: 6:26 PM","7/10/24, 5:27 PM","7/10/24, 6:26 PM","7/10/24, 5:27 PM",,40.302226,-111.69722
