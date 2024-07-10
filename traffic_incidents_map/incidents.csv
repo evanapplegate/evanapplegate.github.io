@@ -29430,7 +29430,6 @@ UT-Incident--181328,Incidents,I-15,Davis County,I-15 at MP 320,"Crash
 SB I-15 at MP 320 (1400 N, Centrvl) Davis Co.
 Right Shoulder
 Est. Clearance Time: 7:25 AM","7/10/24, 6:25 AM","7/10/24, 7:25 AM","7/10/24, 6:25 AM",,40.928541,-111.891476
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181329,Incidents,I-80,Salt Lake County,I-80 at MP 112,"Crash
 WB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.
 Left Shoulder
@@ -29440,6 +29439,11 @@ WB Main St at Pioneer Crossing Utah Co.
 Right Lane Closed
 Est. Clearance Time: 8:40 AM","7/10/24, 5:09 AM","7/10/24, 8:40 AM","7/10/24, 6:49 AM",,40.376677,-111.820137
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181330,Incidents,12TH ST,Weber County,12TH ST 1401,"Crash
+WB 12TH ST at 1498 W (Weber Co)
+Left Shoulder
+Est. Clearance Time: 9:30 AM","7/10/24, 8:27 AM","7/10/24, 9:30 AM","7/10/24, 8:27 AM",,41.244697,-112.016384
 UT-Incident--181327,Incidents,US 89,Utah County,US 89 at MP 306,"Crash
 Both Directions US 89 at MP 306 (Birdseye) Utah Co.
 Est. Clearance Time: 8:04 AM","7/10/24, 6:05 AM","7/10/24, 8:04 AM","7/10/24, 7:43 AM",,39.932956,-111.543795
