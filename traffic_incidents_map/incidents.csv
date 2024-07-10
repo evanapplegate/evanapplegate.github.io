@@ -29386,7 +29386,6 @@ Est. Clearance Time: 6:15 PM","7/9/24, 5:16 PM","7/9/24, 6:15 PM",,,40.718237,-1
 UT-Incident--181304,Incidents,US 40,Wasatch County,US 40 at MP 20,"Crash
 Both Directions US 40 at MP 20 (Heber) Wasatch Co.
 Est. Clearance Time: 6:30 PM","7/9/24, 5:07 PM","7/9/24, 6:30 PM",,,40.469228,-111.389156
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181312,Incidents,1000 N,Tooele County,1000 N at 200 W,"Crash
 Both Directions 1000 N at 200 W Tooele Co.
 Est. Clearance Time: 7:15 PM","7/9/24, 6:08 PM","7/9/24, 7:15 PM","7/9/24, 6:08 PM",,40.550989,-112.304646
@@ -29401,3 +29400,8 @@ Est. Clearance Time: 7:15 PM","7/9/24, 5:58 PM","7/9/24, 7:15 PM","7/9/24, 5:58 
 UT-Incident--181289,Incidents,Little Cottonwood Rd,Salt Lake County,Little Cottonwood Rd at Wasatch Blvd,"Construction
 Both Directions Little Cottonwood Rd at Wasatch Blvd Salt Lake Co.
 Est. Clearance Time: 6:00 AM","7/9/24, 2:11 PM","7/10/24, 6:00 AM","7/9/24, 5:08 PM",,40.574971,-111.800134
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181318,Incidents,Main St,Davis County,Main St at Crestwood Rd,"Crash
+SB Main St at Crestwood Rd Davis Co.
+Right Lane Closed
+Est. Clearance Time: 9:15 PM","7/9/24, 8:04 PM","7/9/24, 9:15 PM","7/9/24, 8:04 PM",,41.038847,-111.939166
