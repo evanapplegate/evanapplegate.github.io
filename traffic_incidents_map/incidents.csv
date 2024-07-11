@@ -29596,8 +29596,12 @@ UT-Incident--181377,Incidents,US 40 EB,Summit County,US 40 EB at I-80 EB FWY,"Co
 EB US 40 at I-80 EB FWY Summit Co.
 Left Shoulder
 Est. Clearance Time: 9:01 AM","7/11/24, 8:03 AM","7/11/24, 9:01 AM","7/11/24, 10:31 AM",,40.728935,-111.495777
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181382,Incidents,5300 W,Washington County,5300 W at State St,"Crash
 NB 5300 W at State St (Hurricane) Washington Co.
 Est. Clearance Time: 2:15 PM","7/11/24, 1:15 PM","7/11/24, 2:15 PM","7/11/24, 1:15 PM",,37.168269,-113.407875
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181384,Incidents,I-15,Davis County,I-15 at MP 330,"Fire affecting roadway
+NB I-15 at MP 330 (Layton Pkwy On-Ramp) Davis Co.
+Right Shoulder
+Est. Clearance Time: 2:45 PM","7/11/24, 1:47 PM","7/11/24, 2:45 PM","7/11/24, 1:47 PM",,41.054659,-111.961089
