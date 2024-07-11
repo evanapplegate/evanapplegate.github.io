@@ -29514,7 +29514,6 @@ Est. Clearance Time: 6:15 PM","7/10/24, 5:07 PM","7/10/24, 6:15 PM","7/10/24, 5:
 UT-Incident--181358,Incidents,US 89,Utah County,US 89 at MP 340,"Crash
 NB US 89 at MP 340 (300 N / Orem) Utah Co.
 Est. Clearance Time: 6:26 PM","7/10/24, 5:27 PM","7/10/24, 6:26 PM","7/10/24, 5:27 PM",,40.302226,-111.69722
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181353,Incidents,I-15,Utah County,I-15 at MP 276,"Crash
 NB I-15 at MP 276 (500 E / American Fork) Utah Co.
 Right Shoulder
@@ -29541,3 +29540,17 @@ Est. Clearance Time: 7:00 PM","7/10/24, 5:57 PM","7/10/24, 7:00 PM","7/10/24, 6:
 UT-Incident--181362,Incidents,I-15,Washington County,I-15 at MP 10,"Crash
 NB I-15 at MP 10 (2100 E / St George) Washington Co.
 Est. Clearance Time: 7:35 PM","7/10/24, 6:11 PM","7/10/24, 7:35 PM","7/10/24, 6:11 PM",,37.121548,-113.539407
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181365,Incidents,820 N,Utah County,820 N at Geneva Rd,"Signal problems
+All Directions 820 N at Geneva Rd Utah Co.
+Est. Clearance Time: 8:30 PM","7/10/24, 7:11 PM","7/10/24, 8:30 PM","7/10/24, 7:11 PM",,40.244679,-111.696357
+UT-Incident--181367,Incidents,I-15,Davis County,I-15 at MP 316,"Crash
+NB I-15 at MP 316 (1500 S, Woods X) Davis Co.
+Right Shoulder
+Est. Clearance Time: 8:45 PM","7/10/24, 7:39 PM","7/10/24, 8:45 PM","7/10/24, 7:39 PM",,40.87142,-111.897275
+UT-Incident--181366,Incidents,Main St,Utah County,Main St at State St,"Crash
+Both Directions Main St at State St Utah Co.(American Fork)
+Est. Clearance Time: 8:25 PM","7/10/24, 7:28 PM","7/10/24, 8:25 PM","7/10/24, 7:28 PM",,40.359013,-111.740654
+UT-Incident--181364,Incidents,SR 112,Tooele County,SR 112 at MP 6,"Crash
+SR 112 at MP 6 (Utah Ave Jct) Tooele Co.
+Est. Clearance Time: 8:00 PM","7/10/24, 6:48 PM","7/10/24, 8:00 PM","7/10/24, 6:48 PM",,40.549239,-112.33989
