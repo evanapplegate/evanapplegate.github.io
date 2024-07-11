@@ -29607,11 +29607,25 @@ UT-Incident--181386,Incidents,THANKSGIVING WAY,Utah County,THANKSGIVING WAY 1,"C
 SB 2100 N at 1400 W (SR-194) Utah Co.
 Est. Clearance Time: 3:48 PM","7/11/24, 2:51 PM","7/11/24, 3:48 PM",,,40.412504,-111.873022
 ,,,,,,,,,,,
-,,,,,,,,,,,
+UT-Incident--181390,,,,,,,,,,40.226604,-111.677837
+UT-Incident--181385,,,,,,,,,,40.602142,-111.430846
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181392,Incidents,2000 W,Davis County,2000 W at 300 N,"Crash
+SB 2000 W at 200 N Davis Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:30 PM","7/11/24, 4:32 PM","7/11/24, 5:30 PM","7/11/24, 4:38 PM",,41.116774,-112.064463
 UT-Incident--181388,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
 SB I-15 Offramp at MP 282 (Lehi) Utah Co.
 Est. Clearance Time: 4:04 PM","7/11/24, 3:07 PM","7/11/24, 4:04 PM","7/11/24, 3:07 PM",,40.410606,-111.863979
-UT-Incident--181389,,,,,,,,,,40.679062,-111.902181
-UT-Incident--181390,,,,,,,,,,40.226604,-111.677837
-UT-Incident--181391,,,,,,,,,,40.693589,-111.902881
-UT-Incident--181385,,,,,,,,,,40.602142,-111.430846
+UT-Incident--181389,Incidents,I-15,Salt Lake County,I-15 at MP 302,"Crash
+SB I-15 at MP 302 (4100 S) Salt Lake Co.
+2 Left Lanes Closed
+Est. Clearance Time: 5:00 PM","7/11/24, 3:55 PM","7/11/24, 5:00 PM","7/11/24, 3:55 PM",,40.679062,-111.902181
+UT-Incident--181391,Incidents,I-15,Salt Lake County,I-15 at MP 303,"Crash
+NB I-15 at MP 303 (3300 S) Salt Lake Co.
+2 Right Lanes Closed
+Est. Clearance Time: 5:30 PM","7/11/24, 4:25 PM","7/11/24, 5:30 PM","7/11/24, 4:25 PM",,40.693589,-111.902881
+UT-Incident--181393,Incidents,I-15,Millard County,I-15 at MP 161,"Vehicle on fire
+NB I-15 at MP 161 (2 mi S of Fillmore) Millard Co.
+Right Lane Closed
+Est. Clearance Time: 5:45 PM","7/11/24, 4:43 PM","7/11/24, 5:45 PM","7/11/24, 4:43 PM",,38.92242,-112.377342
