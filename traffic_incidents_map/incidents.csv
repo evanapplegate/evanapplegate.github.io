@@ -29578,15 +29578,22 @@ UT-Incident--181375,Incidents,SR 201,Salt Lake County,SR 201 at MP 12,"Fire affe
 WB SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 8:02 AM","7/11/24, 7:07 AM","7/11/24, 8:02 AM","7/11/24, 7:07 AM",,40.725741,-112.001283
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181379,Incidents,PARRISH LN,Davis County,PARRISH LN 701,"Crash
 EB Parrish Ln at I-15 NB Fwy Davis Co.
 2 Right Lanes Closed
 Est. Clearance Time: 9:48 AM","7/11/24, 8:49 AM","7/11/24, 9:48 AM","7/11/24, 8:52 AM",,40.921517,-111.890362
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181378,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Crash
 NB I-15 Collector at MP 297 (7200 S) Salt Lake Co.
 Est. Clearance Time: 9:20 AM","7/11/24, 8:35 AM","7/11/24, 9:20 AM","7/11/24, 9:27 AM",,40.607173,-111.905403
+UT-Incident--181381,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Stalled Vehicle
+NB I-15 at MP 297 (7200 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 10:40 AM","7/11/24, 9:38 AM","7/11/24, 10:40 AM","7/11/24, 9:38 AM",,40.607173,-111.905403
+UT-Incident--181380,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
+EB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
+Est. Clearance Time: 10:40 AM","7/11/24, 9:36 AM","7/11/24, 10:40 AM","7/11/24, 9:36 AM",,40.787005,-112.960151
 UT-Incident--181377,Incidents,US 40 EB,Summit County,US 40 EB at I-80 EB FWY,"Congestion
 EB US 40 at I-80 EB FWY Summit Co.
 Left Lane Closed
