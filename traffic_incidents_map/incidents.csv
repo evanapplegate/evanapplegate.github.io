@@ -29552,7 +29552,6 @@ Est. Clearance Time: 8:25 PM","7/10/24, 7:28 PM","7/10/24, 8:25 PM","7/10/24, 7:
 UT-Incident--181364,Incidents,SR 112,Tooele County,SR 112 at MP 6,"Crash
 SR 112 at MP 6 (Utah Ave Jct) Tooele Co.
 Est. Clearance Time: 8:00 PM","7/10/24, 6:48 PM","7/10/24, 8:00 PM","7/10/24, 6:48 PM",,40.549239,-112.33989
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181369,Incidents,SR 31,Sanpete County,SR 31 at MP 7,"Crash
  SR 31 at MP 7 (7 MI E of US-89) Sanpete Co.
 Est. Clearance Time: 10:45 PM","7/10/24, 9:40 PM","7/10/24, 10:45 PM","7/10/24, 9:40 PM",,39.673848,-111.337931
@@ -29560,12 +29559,13 @@ UT-Incident--181368,Incidents,SR 32,Wasatch County,SR 32 at MP 8,"Crash
 SR 32 at MP 8 (8 Mi E of US-40) Wasatch Co.
 Est. Clearance Time: 10:30 PM","7/10/24, 9:32 PM","7/10/24, 10:30 PM","7/10/24, 9:32 PM",,40.603364,-111.323432
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181372,Incidents,SR 30,Box Elder County,SR 30 at MP 95,"Crash
 SR 30 at MP 95 (Collinston) Box Elder Co.
 Est. Clearance Time: 7/11/2024 12:00 AM","7/10/24, 10:58 PM","7/11/24, 12:00 AM","7/10/24, 10:58 PM",,41.785416,-112.089867
 UT-Incident--181370,Incidents,US 89,Sanpete County,US 89 at MP 273,"Crash
-US 89 at MP 273 (4 miles SW of Mt Pleasant) Sanpete Co.
-Est. Clearance Time: 7/11/2024 1:00 AM","7/10/24, 10:51 PM","7/11/24, 1:00 AM","7/10/24, 10:51 PM",,39.494383,-111.510114
+Both Directions US 89 Closed at MP 273 (4 miles SW of Mt Pleasant) Sanpete Co.
+Est. Clearance Time: 7/11/2024 1:00 AM","7/10/24, 10:51 PM","7/11/24, 1:00 AM","7/10/24, 11:10 PM",,39.494383,-111.510114
 UT-Incident--181371,Incidents,US 89,Box Elder County,US 89 at MP 425,"Crash
 NB US 89 at MP 425 (7300 S / South Willard) Box Elder Co.
 Est. Clearance Time: 7/11/2024 12:00 AM","7/10/24, 10:52 PM","7/11/24, 12:00 AM","7/10/24, 10:52 PM",,41.368461,-112.034978
