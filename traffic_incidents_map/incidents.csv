@@ -29589,7 +29589,6 @@ UT-Incident--181381,Incidents,I-15,Salt Lake County,I-15 at MP 297,"Stalled Vehi
 NB I-15 at MP 297 (7200 S) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 10:40 AM","7/11/24, 9:38 AM","7/11/24, 10:40 AM","7/11/24, 9:38 AM",,40.607173,-111.905403
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181380,Incidents,I-80,Tooele County,I-80 at MP 58,"Crash
 EB I-80 at MP 58 (17 mi E of Knolls) Tooele Co.
 Est. Clearance Time: 10:40 AM","7/11/24, 9:36 AM","7/11/24, 10:40 AM","7/11/24, 9:36 AM",,40.787005,-112.960151
@@ -29598,3 +29597,7 @@ EB US 40 at I-80 EB FWY Summit Co.
 Left Shoulder
 Est. Clearance Time: 9:01 AM","7/11/24, 8:03 AM","7/11/24, 9:01 AM","7/11/24, 10:31 AM",,40.728935,-111.495777
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
+UT-Incident--181382,Incidents,5300 W,Washington County,5300 W at State St,"Crash
+NB 5300 W at State St (Hurricane) Washington Co.
+Est. Clearance Time: 2:15 PM","7/11/24, 1:15 PM","7/11/24, 2:15 PM","7/11/24, 1:15 PM",,37.168269,-113.407875
