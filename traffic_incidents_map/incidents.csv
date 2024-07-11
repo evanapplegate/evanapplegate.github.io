@@ -29603,8 +29603,11 @@ UT-Incident--181384,Incidents,I-15,Davis County,I-15 at MP 330,"Fire affecting r
 NB I-15 at MP 330 (Layton Pkwy On-Ramp) Davis Co.
 Right Shoulder
 Est. Clearance Time: 2:45 PM","7/11/24, 1:47 PM","7/11/24, 2:45 PM","7/11/24, 1:47 PM",,41.054659,-111.961089
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
+UT-Incident--181388,Incidents,I-15,Utah County,I-15 at MP 282,"Crash
+SB I-15 Offramp at MP 282 (Lehi) Utah Co.
+Est. Clearance Time: 4:04 PM","7/11/24, 3:07 PM","7/11/24, 4:04 PM",,,40.410606,-111.863979
 UT-Incident--181386,Incidents,THANKSGIVING WAY,Utah County,THANKSGIVING WAY 1,"Crash
 SB 2100 N at 1400 W (SR-194) Utah Co.
 Est. Clearance Time: 3:48 PM","7/11/24, 2:51 PM","7/11/24, 3:48 PM",,,40.412504,-111.873022
