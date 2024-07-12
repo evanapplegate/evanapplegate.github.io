@@ -29677,7 +29677,6 @@ UT-Incident--181428,,,,,,,,,,40.328045,-111.73498
 UT-Incident--181426,,,,,,,,,,40.63583,-111.905066
 UT-Incident--181432,,,,,,,,,,40.578741,-111.900284
 UT-Incident--181431,,,,,,,,,,40.480607,-111.902252
-,,,,,,,,,,,
 UT-Incident--181425,Incidents,I-15,Davis County,I-15 at MP 330,"Fire Affecting Roadway
 SB I-15 Onramp Closed at MP 330 (Layton Pkwy) Davis Co.
 Est. Clearance Time: 5:30 PM","7/12/24, 3:04 PM","7/12/24, 5:30 PM","7/12/24, 4:45 PM",,41.054659,-111.961089
@@ -29689,10 +29688,15 @@ UT-Incident--181429,Incidents,I-15,Salt Lake County,I-15 at MP 299,"Crash
 SB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 5:30 PM","7/12/24, 4:21 PM","7/12/24, 5:30 PM","7/12/24, 4:21 PM",,40.63583,-111.905066
-UT-Incident--181436,,,,,,,,,,40.763745,-111.914284
+UT-Incident--181439,,,,,,,,,,40.391393,-111.916932
+,,,,,,,,,,,
+UT-Incident--181436,Incidents,I-15,Salt Lake County,I-15 at MP 308,"Crash
+SB I-15 at MP 308 (N Temple) Salt Lake Co.
+ Right Lanes Closed
+Est. Clearance Time: 6:15 PM","7/12/24, 5:00 PM","7/12/24, 6:15 PM","7/12/24, 5:01 PM",,40.763745,-111.914284
 UT-Incident--181437,,,,,,,,,,38.146484,-112.614659
 UT-Incident--181440,,,,,,,,,,40.804836,-111.922481
+UT-Incident--181441,,,,,,,,,,40.74966,-111.90976
 UT-Incident--181438,,,,,,,,,,40.740268,-111.674521
 UT-Incident--181430,,,,,,,,,,41.054028,-111.593833
 UT-Incident--181435,,,,,,,,,,40.376873,-111.821522
-UT-Incident--181439,,,,,,,,,,40.391393,-111.916932
