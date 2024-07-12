@@ -29648,8 +29648,13 @@ UT-Incident--181409,,,,,,,,,,40.388104,-111.54897
 UT-Incident--181410,,,,,,,,,,40.319492,-111.649399
 UT-Incident--181406,,,,,,,,,,40.560962,-111.427534
 ,,,,,,,,,,,
-,,,,,,,,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,,,,
 UT-Incident--181405,Incidents,State St,Salt Lake County,State St at 1300 S,"Utility work
 Both Directions State St at 1300 S Salt Lake Co.
 Center Lanes Closed
-Est. Clearance Time: 7/15/2024 6:00 AM","7/11/24, 8:32 PM","7/15/24, 6:00 AM","7/11/24, 9:50 PM",,40.741617,-111.888213
+Est. Clearance Time: 7/15/2024 6:00 AM","7/11/24, 8:32 PM","7/15/24, 6:00 AM",,,40.741617,-111.888213
+UT-Incident--181411,Incidents,STATE ST,Salt Lake County,STATE ST at 7500 S/GREENWOOD AVE,"CRASH
+SB STATE ST Closed
+ at 7500 S/GREENWOOD AVE
+Salt Lake Co.
+Use Alt Route","7/12/24, 1:45 AM","7/12/24, 2:45 AM",,,40.61617,-111.890642
