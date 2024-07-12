@@ -29636,11 +29636,17 @@ SB I-15 at MP 280 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","7/11/24, 6:39 PM","7/11/24, 7:45 PM","7/11/24, 6:39 PM",,40.39191,-111.835579
 UT-Incident--181404,,,,,,,,,,39.967345,-111.783318
-,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 ,,,,,,,,,,,
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
 UT-Incident--181407,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
 SB I-15 at MP 306 (900 S Onramp) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 10:30 PM","7/11/24, 9:00 PM","7/11/24, 10:30 PM","7/11/24, 9:00 PM",,40.736823,-111.90475
-UT-Incident--181405,,,,,,,,,,40.741617,-111.888213
-UT-Incident--181406,,,,,,,,,,40.560962,-111.427534
+UT-Incident--181405,Incidents,State St,Salt Lake County,State St at 1300 S,"Utility work
+Both Directions State St at 1300 S Salt Lake Co.
+Center Lanes Closed
+Est. Clearance Time: 7/15/2024 6:00 AM","7/11/24, 8:32 PM","7/15/24, 6:00 AM","7/11/24, 9:50 PM",,40.741617,-111.888213
+UT-Incident--181406,Incidents,US 40,Wasatch County,US 40 at MP 13,"Crash
+WB US 40 at MP 13 (SR-32 Jct/ Heber) Wasatch Co.
+Right Lane Closed
+Est. Clearance Time: 11:30 PM","7/11/24, 8:58 PM","7/11/24, 11:30 PM","7/11/24, 10:41 PM",,40.560962,-111.427534
