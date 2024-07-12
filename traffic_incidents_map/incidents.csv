@@ -29625,7 +29625,6 @@ Right Shoulder
 Est. Clearance Time: 5:30 PM","7/11/24, 4:25 PM","7/11/24, 5:30 PM","7/11/24, 4:53 PM",,40.693589,-111.902881
 UT-Incident--181393,,,,,,,,,,38.92242,-112.377342
 UT-Incident--181396,,,,,,,,,,41.194004,-112.002614
-,,,,,,,,,,,
 UT-Incident--181395,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 21,"Crash
 SB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.
 Right Shoulder
@@ -29638,3 +29637,4 @@ SB I-15 at MP 280 (Lehi) Utah Co.
 Right Shoulder
 Est. Clearance Time: 7:45 PM","7/11/24, 6:39 PM","7/11/24, 7:45 PM","7/11/24, 6:39 PM",,40.39191,-111.835579
 UT-Incident--181404,,,,,,,,,,39.967345,-111.783318
+,Type,Route,County,Location,Description,Start Time,Anticipated End Time,Last Updated,,,
