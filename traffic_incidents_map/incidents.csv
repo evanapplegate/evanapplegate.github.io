@@ -30084,7 +30084,6 @@ UT-Incident--181724,,,,,,,,,,,
 UT-Incident--181729,,,,,,,,,,40.401041,-111.849765
 UT-Incident--181728,,,,,,,,,,40.480607,-111.902252
 UT-Incident--181732,,,,,,,,,,40.718459,-111.873941
-,,,,,,,,,,,
 UT-Incident--181475,Incidents,9000 S,Salt Lake County,9000 S at Monroe St,"Utility work
 WB 9000 S at Monroe St Salt Lake Co.
 Right Lane Closed
@@ -30095,8 +30094,10 @@ UT-Incident--181736,,,,,,,,,,41.169225,-112.020449
 UT-Incident--181725,,,,,,,,,,41.694506,-112.287096
 UT-Incident--181733,,,,,,,,,,41.244285,-112.05453
 ,,,,,,,,,,,
+UT-Incident--181702,,,,,,,,,,40.674338,-111.879449
+,,,,,,,,,,,
 UT-Incident--181737,Incidents,I-15,Salt Lake County,I-15 at MP 305,"Crash
 NB I-15 at MP 305 (2100 S) Salt Lake Co.
-Right Shoulder Closed
-Est. Clearance Time: 7:45 PM","7/19/24, 6:50 PM","7/19/24, 7:45 PM","7/19/24, 6:55 PM",,40.722344,-111.904691
-UT-Incident--181702,,,,,,,,,,40.674338,-111.879449
+Right Shoulder
+Est. Clearance Time: 8:45 PM","7/19/24, 6:50 PM","7/19/24, 8:45 PM","7/19/24, 8:15 PM",,40.722344,-111.904691
+UT-Incident--181739,,,,,,,,,,40.607173,-111.905403
