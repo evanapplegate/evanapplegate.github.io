@@ -30250,7 +30250,6 @@ Right Shoulder
 Est. Clearance Time: 9:45 AM","7/22/24, 8:35 AM","7/22/24, 9:45 AM","7/22/24, 8:51 AM",,40.607173,-111.905403
 UT-Incident--181806,,,,,,,,,,40.709702,-112.249214
 UT-Incident--181814,,,,,,,,,,40.431127,-111.890772
-,,,,,,,,,,,
 UT-Incident--181813,Incidents,500 S,Davis County,500 S at 1100 W,"Crash
 EB 500 S at 1100 W Davis Co.
 Est. Clearance Time: 11:15 AM","7/22/24, 10:15 AM","7/22/24, 11:15 AM","7/22/24, 10:15 AM",,40.884167,-111.911762
@@ -30261,5 +30260,9 @@ UT-Incident--181817,Incidents,I-15,Davis County,I-15 at MP 313,"Crash
 SB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.
 Right Shoulder
 Est. Clearance Time: 11:45 AM","7/22/24, 10:45 AM","7/22/24, 11:45 AM","7/22/24, 10:45 AM",,40.831692,-111.91596
-UT-Incident--181816,,,,,,,,,,40.718625,-112.233989
+,,,,,,,,,,,
+UT-Incident--181816,Incidents,I-80,Tooele County,I-80 at MP 101,"Crash
+EB I-80 at MP 101 (2 mi of Tooele) Tooele Co.
+Left Shoulder
+Est. Clearance Time: 11:45 AM","7/22/24, 10:41 AM","7/22/24, 11:45 AM","7/22/24, 10:41 AM",,40.718625,-112.233989
 UT-Incident--181818,,,,,,,,,,41.79357,-112.035387
