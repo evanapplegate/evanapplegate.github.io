@@ -30436,7 +30436,6 @@ EB Hwy 193 at 2000 W Davis Co.
 Est. Clearance Time: 5:45 PM","7/24/24, 4:38 PM","7/24/24, 5:45 PM","7/24/24, 4:38 PM",,41.11057,-112.064355
 UT-Incident--181898,,,,,,,,,,40.976838,-111.428675
 UT-Incident--181904,,,,,,,,,,40.87142,-111.897275
-,,,,,,,,,,,
 UT-Incident--181901,Incidents,I-15,Utah County,I-15 at MP 273,"Crash
 SB I-15 at MP 273 (Gneva Rd / Orem) Utah Co.
 Left Shoulder
@@ -30445,5 +30444,11 @@ Est. Clearance Time: 5:55 PM","7/24/24, 4:42 PM","7/24/24, 5:55 PM","7/24/24, 4:
 UT-Incident--181903,Incidents,I-15,Millard County,I-15 at MP 185,"Crash
 NB I-15 at MP 185 (3 mi S of Scipio) Millard Co.
 Est. Clearance Time: 6:35 PM","7/24/24, 5:13 PM","7/24/24, 6:35 PM","7/24/24, 5:13 PM",,39.215996,-112.156841
-UT-Incident--181905,,,,,,,,,,41.140572,-112.025572
 UT-Incident--181902,,,,,,,,,,40.484551,-111.4719
+,,,,,,,,,,,
+UT-Incident--181908,Incidents,HWY 111,Salt Lake County,HWY 111 5401,"Crash
+Bacchus Hwy 5400 S Salt Lake Co.
+Both Directions
+Est. Clearance Time: 8:15 PM","7/24/24, 7:22 PM","7/24/24, 8:15 PM","7/24/24, 7:28 PM",,40.654063,-112.076101
+UT-Incident--181905,,,,,,,,,,41.140572,-112.025572
+UT-Incident--181907,,,,,,,,,,40.147126,-111.646959
