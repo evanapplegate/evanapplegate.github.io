@@ -30717,7 +30717,6 @@ UT-Incident--182043,,,,,,,,,,40.771145,-112.066961
 UT-Incident--182046,Incidents,I-15,Iron County,I-15 at MP 64,"Fire affecting roadway
 SB I-15 at MP 64 (1000 E / Cedar City) Iron Co.
 Est. Clearance Time: 6:01 PM","7/28/24, 5:02 PM","7/28/24, 6:01 PM","7/28/24, 5:02 PM",,37.745637,-113.035832
-,,,,,,,,,,,
 UT-Incident--182048,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
 SB I-15 at MP 278 (Pioneer Xing) Utah Co.
 Right Shoulder
@@ -30727,4 +30726,8 @@ UT-Incident--182049,Incidents,I-15,Salt Lake County,I-15 at MP 301,"Crash
 NB I-15 at MP 301 (4500 S) Salt Lake Co.
 2 Left Lanes Closed
 Est. Clearance Time: 7:36 PM","7/28/24, 6:37 PM","7/28/24, 7:36 PM","7/28/24, 6:45 PM",,40.664677,-111.90152
-UT-Incident--182047,,,,,,,,,,40.43195,-111.760986
+,,,,,,,,,,,
+UT-Incident--182047,Incidents,SR 92,Utah County,SR 92 at MP 7,"Fire Affecting Roadway
+EB SR 92 Closed
+ at MP 7 (Canyon Rd) Utah Co.
+Use Alt Route","7/28/24, 6:07 PM","7/28/24, 11:05 PM","7/28/24, 6:26 PM",,40.43195,-111.760986
