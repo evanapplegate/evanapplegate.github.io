@@ -30710,7 +30710,6 @@ UT-Incident--182041,,,,,,,,,,37.676142,-113.061728
 UT-Incident--182042,,,,,,,,,,37.634822,-113.289518
 UT-Incident--182044,,,,,,,,,,41.006255,-111.518793
 UT-Incident--182045,,,,,,,,,,40.721584,-111.490111
-,,,,,,,,,,,
 UT-Incident--182040,Incidents,I-15,Juab County,I-15 at MP 199,"Crash
 NB Directions I-15 at MP 199 (11 mi N of Scipio) Juab Co.
 Est. Clearance Time: 5:30 PM","7/28/24, 1:27 PM","7/28/24, 5:30 PM","7/28/24, 5:20 PM",,39.396614,-112.063525
@@ -30719,3 +30718,9 @@ UT-Incident--182043,,,,,,,,,,40.771145,-112.066961
 UT-Incident--182046,Incidents,I-15,Iron County,I-15 at MP 64,"Fire affecting roadway
 SB I-15 at MP 64 (1000 E / Cedar City) Iron Co.
 Est. Clearance Time: 6:01 PM","7/28/24, 5:02 PM","7/28/24, 6:01 PM","7/28/24, 5:02 PM",,37.745637,-113.035832
+,,,,,,,,,,,
+UT-Incident--182048,Incidents,I-15,Utah County,I-15 at MP 278,"Crash
+SB I-15 at MP 278 (Pioneer Xing) Utah Co.
+Right Shoulder
+Est. Clearance Time: 7:32 PM","7/28/24, 6:33 PM","7/28/24, 7:32 PM","7/28/24, 6:33 PM",,40.373184,-111.808465
+UT-Incident--182047,,,,,,,,,,40.43195,-111.760986
