@@ -32043,7 +32043,6 @@ UT-Incident--182814,,,,,,,,,,37.114199,-113.555128
 UT-Incident--182815,,,,,,,,,,40.649847,-111.90236
 UT-Incident--182813,,,,,,,,,,40.634373,-111.895376
 UT-Incident--182801,,,,,,,,,,40.664316,-112.319471
-,,,,,,,,,,,
 UT-Incident--182816,Incidents,Harrison Blvd,Weber County,Harrison Blvd at 40th St,"Crash
 NB Harrison Blvd at 42nd St Weber Co.
 2 Right Lanes Closed
@@ -32056,5 +32055,9 @@ UT-Incident--182831,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at So
 NB Bangerter Hwy at South Frontage Rd Salt Lake Co.
 Right Shoulder
 Est. Clearance Time: 7:00 AM","8/15/24, 5:54 AM","8/15/24, 7:00 AM","8/15/24, 5:58 AM",,40.722552,-111.986288
-UT-Incident--182832,,,,,,,,,,40.770664,-112.009234
+,,,,,,,,,,,
+UT-Incident--182832,Incidents,I-80,Salt Lake County,I-80 at MP 114,"Crash
+WB I-80 at MP 114 (Wright Brothers Drive) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 6:55 AM","8/15/24, 5:56 AM","8/15/24, 6:55 AM","8/15/24, 5:56 AM",,40.770664,-112.009234
 UT-Incident--182827,,,,,,,,,,41.063329,-111.562173
