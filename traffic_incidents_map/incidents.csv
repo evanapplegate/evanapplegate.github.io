@@ -32618,7 +32618,6 @@ SB I-15 at MP 287 (15200 S) Salt Lake Co.
 Left Shoulder
 Est. Clearance Time: 1:31 AM","8/22/24, 12:33 AM","8/22/24, 1:31 AM","8/22/24, 12:33 AM",,40.467787,-111.911227
 UT-Incident--183141,,,,,,,,,,38.537342,-112.267097
-,,,,,,,,,,,
 UT-Incident--183147,Incidents,I-15,Iron County,I-15 at MP 99,"Crash
 NB I-15 at MP 99 (9 mi S of Beaver) Iron Co.
 Right Shoulder
@@ -32629,4 +32628,8 @@ SB I-15 at MP 214 (9 mi S of Nephi) Juab Co.
 Left Lane Closed
 Est. Clearance Time: 3:40 AM","8/22/24, 2:41 AM","8/22/24, 3:40 AM","8/22/24, 2:41 AM",,39.583145,-111.929748
 UT-Incident--183150,,,,,,,,,,39.583145,-111.929748
-UT-Incident--183148,,,,,,,,,,40.697978,-112.260296
+,,,,,,,,,,,
+UT-Incident--183148,Incidents,I-80,Tooele County,I-80 at MP 99,"Crash
+WB I-80 at MP 99 (Tooele / Lake point) Tooele Co.
+Right Shoulder
+Est. Clearance Time: 3:39 AM","8/22/24, 2:39 AM","8/22/24, 3:39 AM","8/22/24, 2:39 AM",,40.697978,-112.260296
