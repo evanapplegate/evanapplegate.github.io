@@ -32691,7 +32691,6 @@ UT-Incident--183183,,,,,,,,,,40.431127,-111.890772
 UT-Incident--183185,,,,,,,,,,41.182676,-112.014444
 UT-Incident--183186,,,,,,,,,,40.679062,-111.902181
 UT-Incident--183191,,,,,,,,,,40.667559,-111.9815
-,,,,,,,,,,,
 UT-Incident--183187,Incidents,Bangerter Hwy,Salt Lake County,Bangerter Hwy at MP 13,"Crash
 NB Bangerter Hwy at MP 13 (7700 S) Salt Lake Co.
 Right Lane Closed
@@ -32702,4 +32701,8 @@ UT-Incident--183194,Incidents,I-15,Salt Lake County,I-15 at MP 298,"Vehicle on f
 SB I-15 at MP 298 (6900 S) Salt Lake Co.
 Right Lane Closed
 Est. Clearance Time: 9:00 PM","8/22/24, 8:02 PM","8/22/24, 9:00 PM","8/22/24, 8:02 PM",,40.621691,-111.903876
-UT-Incident--183195,,,,,,,,,,41.712467,-112.132541
+,,,,,,,,,,,
+UT-Incident--183195,Incidents,SR 102,Box Elder County,SR 102 at MP 18,"Crash
+EB SR 102 at MP 18 (E of Tremonton) Box Elder Co.
+Center Lane Closed
+Est. Clearance Time: 9:29 PM","8/22/24, 8:38 PM","8/22/24, 9:29 PM","8/22/24, 8:38 PM",,41.712467,-112.132541
