@@ -32725,7 +32725,6 @@ SB Off Ramp I-15 at MP 303 (3300 S) Salt Lake Co.
 Est. Clearance Time: 4:40 AM","8/23/24, 3:41 AM","8/23/24, 4:40 AM","8/23/24, 4:11 AM",,40.693589,-111.902881
 UT-Incident--183206,,,,,,,,,,40.39191,-111.835579
 UT-Incident--183207,,,,,,,,,,40.112733,-111.671987
-,,,,,,,,,,,
 UT-Incident--183208,Incidents,I-15,Salt Lake County,I-15 at MP 300,"Crash
 Ramp I-15 at MP 300 (5200 S) Salt Lake Co.
 2 Right Lanes Closed
@@ -32735,3 +32734,8 @@ UT-Incident--183205,Incidents,I-80,Summit County,I-80 at MP 178,"Crash
 WB I-80 at MP 178 (Emory) Summit Co.
 Left Shoulder
 Est. Clearance Time: 5:26 AM","8/23/24, 4:27 AM","8/23/24, 5:26 AM","8/23/24, 5:27 AM",,41.064452,-111.281164
+,,,,,,,,,,,
+UT-Incident--183209,Incidents,I-15,Salt Lake County,I-15 at MP 306,"Crash
+NB I-15 at MP 306 (1300 S) Salt Lake Co.
+Right Shoulder
+Est. Clearance Time: 7:50 AM","8/23/24, 6:52 AM","8/23/24, 7:50 AM","8/23/24, 6:52 AM",,40.736823,-111.90475
