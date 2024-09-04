@@ -11,6 +11,10 @@ a {
     text-decoration: underline;
 }
 
+p {
+  font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
+}
+
 #title_FL_nursing_homes {
   font-family:  -apple-system, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Arial', sans-serif;
   text-align: center;
@@ -46,6 +50,7 @@ a {
   height: 500px;
   background-color: #FEFAF6;
 }
+
 #nursing_home_notes {
   text-align: left;
   padding: 15px;
