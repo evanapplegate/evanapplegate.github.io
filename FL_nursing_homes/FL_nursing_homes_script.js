@@ -13,18 +13,13 @@ var map_assisted_living = L.map('map_assisted_living').setView([27.994402, -81.7
 //   attribution: '© OpenStreetMap contributors'
 // }).addTo(map_assisted_living);
 
-
-L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/512/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
   maxZoom: 18,
-  tileSize: 512, // Specify that the tiles are 512x512 pixels
-  zoomOffset: -1, // Adjust the zoom level to accommodate the larger tile size
 }).addTo(map_nursing_homes);
 
-L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/512/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
   maxZoom: 18,
-  tileSize: 512, // Specify that the tiles are 512x512 pixels
-  zoomOffset: -1, // Adjust the zoom level to accommodate the larger tile size
-}).addTo(map_assisted_living);
+}).addTo(map_assisted_living));
 
 
 // Add layers to nursing home map

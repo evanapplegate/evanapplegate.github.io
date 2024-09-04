@@ -44,7 +44,7 @@ a {
 
 #map_nursing_homes, #map_assisted_living {
   height: 500px;
-  background-color: #FEFAF6; /* Light grey, or choose your preferred color */
+  background-color: #FEFAF6;
 }
 #nursing_home_notes {
   text-align: left;
