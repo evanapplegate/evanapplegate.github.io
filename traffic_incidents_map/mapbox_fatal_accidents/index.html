@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Fatal Accidents Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src='https://unpkg.com/csv2geojson@5.1.2/csv2geojson.js'></script>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body { margin: 0; padding: 0; }
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/evandapplegate/clxz2cnql006d01qj7ipr447c',
+      center: [-111.0937, 39.5530], // Centered on Utah
+      zoom: 7
+    });
+  </script>
+
+  <script src="map.js"></script>
+</body>
+</html>
