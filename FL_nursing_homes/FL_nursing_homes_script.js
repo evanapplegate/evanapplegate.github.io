@@ -1,8 +1,4 @@
-// initialize Leaflet maps
-// let map_nursing_homes = L.map('map_nursing_homes').setView([27.994402, -81.760254], 7);
-
-// let map_assisted_living = L.map('map_assisted_living').setView([27.994402, -81.760254], 7);
-
+// get Leaflet maps on page
 var map_nursing_homes = L.map('map_nursing_homes', {
   center: [27.994402, -81.760254],
   zoom: 7,
@@ -232,8 +228,6 @@ var assistedLivingClass2Layer = L.geoJSON(null, {
 function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
-
-
 
 // load geojsons, add to layers
 fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/assisted_living_facilities.geojson')
