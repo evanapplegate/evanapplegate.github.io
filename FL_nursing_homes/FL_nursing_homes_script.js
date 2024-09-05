@@ -1,4 +1,8 @@
-// Initialize Leaflet maps
+// initialize Leaflet maps
+// let map_nursing_homes = L.map('map_nursing_homes').setView([27.994402, -81.760254], 7);
+
+// let map_assisted_living = L.map('map_assisted_living').setView([27.994402, -81.760254], 7);
+
 var map_nursing_homes = L.map('map_nursing_homes', {
   center: [27.994402, -81.760254],
   zoom: 7,
@@ -11,20 +15,17 @@ var map_assisted_living = L.map('map_assisted_living', {
   minZoom: 4 // Set minimum zoom level here
 });
 
-// Add tile layers
-
-L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
-  maxZoom: 18,
+// add tile layers
+L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+  maxZoom: 18
 }).addTo(map_nursing_homes);
 
-
-L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
-  maxZoom: 18,
+L.tileLayer('https://api.mapbox.com/styles/v1/evandapplegate/cm0o5j76w024v01o0ds82fzpr/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZXZhbmRhcHBsZWdhdGUiLCJhIjoiY2tmbzA1cWM1MWozeTM4cXV4eHUwMzFhdiJ9.Z5f9p8jJD_N1MQwycF2NEw', {
+  maxZoom: 18
 }).addTo(map_assisted_living);
 
 
 // Add layers to nursing home map
-// Add all nursing homes layer
 var nursingHomesLayer = L.geoJSON(null, {
   pointToLayer: function (feature, latlng) {
     return L.circleMarker(latlng, {
@@ -197,7 +198,7 @@ var assistedLivingClass1Layer = L.geoJSON(null, {
   }
 }).addTo(map_assisted_living);
 
-// add class 1 violator ALFs
+// add class 2 violator ALFs
 var assistedLivingClass2Layer = L.geoJSON(null, {
   pointToLayer: function (feature, latlng) {
     return L.circleMarker(latlng, {
@@ -227,14 +228,14 @@ var assistedLivingClass2Layer = L.geoJSON(null, {
   }
 }).addTo(map_assisted_living);
 
-// Function to add commas for thousands
+// add commas for thousands
 function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
 }
 
 
 
-// Load GeoJSON data and add to respective layers
+// load geojsons, add to layers
 fetch('https://raw.githubusercontent.com/evanapplegate/evanapplegate.github.io/main/FL_nursing_homes/assisted_living_facilities.geojson')
   .then(function (response) {
     return response.json();
